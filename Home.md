@@ -23,7 +23,7 @@ TODO
 * Instalación en Windows 10
 * Descargar ejemplo kitt en icezum Alhambra (o tal vez el efecto fade de los leds)
 
-## Vídeo 3: Encendiendo un led
+## Vídeo 3: Mi primer circuito: Encendiendo un led
 * Los ctos digitales trabajan con información, que se representa con 0s y 1s
 * La alimentación va aparte
 * En icestudio:
