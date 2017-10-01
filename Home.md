@@ -8,7 +8,27 @@ Aprende Electrónica Digital, de una forma **muy intuitiva** y fácil
 
 TODO
 
-##
+# Plantilla
+
+## Descripción
+
+TODO
+
+## Explicación
+
+TODO
+
+## Ejercicios propuestos
+
+TODO
+
+## Entregas
+
+TODO
+
+## Ficheros
+
+TODO
 
 # Notas
 
