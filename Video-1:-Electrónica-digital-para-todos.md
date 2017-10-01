@@ -8,7 +8,7 @@ TODO
 
 ## Explicación
 
-TODO
+* Hola! Soy obijuan, y en este microtutorial comenzamos el curso sobre Electrónica digital para makers utilizando FPGAs libres
 
 ## Ejercicios propuestos
 
