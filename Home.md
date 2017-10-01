@@ -1,3 +1,5 @@
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/alicia-maker.jpg)
+
 # Tutorial de Electrónica Digital para makers con FPGAs Libres
 
 Aprende Electrónica Digital, de una forma **muy intuitiva** y fácil
