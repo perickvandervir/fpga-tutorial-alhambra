@@ -8,7 +8,9 @@ TODO
 
 ## Explicación
 
-* Hola! Soy obijuan, y en este microtutorial comenzamos el curso sobre Electrónica digital para makers utilizando FPGAs libres
+(Dibujo: FPGAs libres)
+
+* Hola! Soy obijuan, y en este microtutorial comenzamos el curso sobre **Electrónica digital para makers utilizando FPGAs libres**
 
 * Pensamiento hardware vs pensamiento software (algorítmico) (Alhambra - Arduino). Complementarios
 * Niveles
