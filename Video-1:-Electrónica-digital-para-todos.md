@@ -16,6 +16,7 @@ TODO
 * Todo práctico
 * ¿Por qué bajar a puertas lógicas?...
 * Impresoras 3D
+* Comunidad FPGAwars
 
 ## Ejercicios propuestos
 
