@@ -10,6 +10,13 @@ TODO
 
 * Hola! Soy obijuan, y en este microtutorial comenzamos el curso sobre Electrónica digital para makers utilizando FPGAs libres
 
+* Pensamiento hardware vs pensamiento software (algorítmico) (Alhambra - Arduino). Complementarios
+* Niveles
+* Sistema de alarma en acción (demo-video)
+* Todo práctico
+* ¿Por qué bajar a puertas lógicas?...
+* Impresoras 3D
+
 ## Ejercicios propuestos
 
 TODO
