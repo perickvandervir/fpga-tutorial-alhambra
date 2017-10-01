@@ -28,6 +28,8 @@ Estamos acostumbrados al **pensamiento algorítmico**, que es el que usamos cuan
 
 TODO
 
+* Circuit Scramble (instalar, y pasar algunos niveles)
+
 ## Entregas
 
 TODO
