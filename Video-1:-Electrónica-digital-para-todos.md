@@ -8,7 +8,7 @@ TODO
 
 ## Explicación
 
-(Dibujo: FPGAs libres)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-01.png)
 
 * Hola! Soy obijuan, y en este microtutorial comenzamos el curso sobre **Electrónica digital para makers utilizando FPGAs libres**
 
