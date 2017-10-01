@@ -1,6 +1,42 @@
 (Enlace al vídeo)
 
+## Descripción
+
+TODO
+
+## Explicación
+
+TODO
+
+## Ejercicios propuestos
+
+TODO
+
+## Entregas
+
+TODO
+
+## Ficheros
 --------------------------
+
+## Plantilla
+
+## Descripción
+
+TODO
+
+## Explicación
+
+TODO
+
+## Ejercicios propuestos
+
+TODO
+
+## Entregas
+
+TODO
+
 
 # Notas
 
