@@ -1,4 +1,4 @@
-# Tutorial de Electrónica Digital con FPGAs Libres
+# Tutorial de Electrónica Digital para makers con FPGAs Libres
 
 Aprende Electrónica Digital, de una forma **muy intuitiva** y fácil
 
