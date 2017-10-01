@@ -12,13 +12,6 @@ TODO
 
 # Notas
 
-## Vídeo 1: Electrónica digital para todos
-* Introducción al tutorial
-* Herramientas libres usadas: icestudio
-* Ejemplos de cosas que haremos
-* Hardware que usaremos: Icezum Alhambra + sensores + placas periféricas
-* FPGAwars --> cualquier pregunta ahí
-
 ## Vídeo 2: Instalación Icestudio 0.3
 * Instalación en Linux
 * Instalación en MAC
