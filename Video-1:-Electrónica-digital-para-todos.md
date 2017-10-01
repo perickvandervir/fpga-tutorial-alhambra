@@ -23,28 +23,6 @@ TODO
 
 --------------------------
 
-# Plantilla
-
-## Descripción
-
-TODO
-
-## Explicación
-
-TODO
-
-## Ejercicios propuestos
-
-TODO
-
-## Entregas
-
-TODO
-
-## Ficheros
-
-TODO
-
 # Notas
 
 ## Vídeo 1: Electrónica digital para todos
