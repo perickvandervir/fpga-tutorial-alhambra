@@ -16,7 +16,7 @@ Estamos acostumbrados al **pensamiento algorítmico**, que es el que usamos cuan
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-02.gif)
 
-Sin embargo, en los circuitos digitales las cosas suceden en **paralelo**. El **pensamiento hardware** es **espacial**. Hay caminos físicos por los que la información pasa de un lugar a otro, y es un pensamiento paralelo: Las cosas suceden a la vez. Es similar a una ciudad donde hay coches que se mueven a la vez, en paralelo, siguiendo unas reglas de tráfico
+Sin embargo, en los circuitos digitales las cosas suceden en **paralelo**. El **pensamiento hardware** es **espacial**. Hay caminos físicos por los que la información pasa de un lugar a otro, y es un **pensamiento paralelo**: Las cosas suceden a la vez. Es similar a una ciudad donde hay coches que se mueven a la vez, en paralelo, siguiendo unas reglas de tráfico
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-03.gif)
 
