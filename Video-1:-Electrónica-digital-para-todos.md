@@ -24,11 +24,13 @@ Los **chips digitales** son las base de la tecnología actual y se diseña a par
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-04.png)
 
-En ciencia y en ingeniería dividimos el conocimiento en niveles. El mundo de la electrónica digital está "por debajo" del software. En este dibujo se muestran varios niveles, donde los átomos están en la parte inferior y el software en la superior
+En ciencia y en ingeniería dividimos el conocimiento en **niveles**. El mundo de la electrónica digital está "por debajo" del software. En este dibujo se muestran varios niveles, donde los **átomos** están en la parte inferior y el **software** en la superior
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-05.png)
 
-Cuando trabajamos con un arduino estamos en el nivel de software, de programación. Los programas se ejecutan sobre un microprocesador que está en el nivel inferior. Los microprocesadores se diseñan con electrónica digital (5), que es donde estaremos en este tutorial. Por debajo tenemos los transistores que están hechos a partir de semiconductores, que son cristales de silicio (2) a los que se introducen impurezas. En el último nivel tenemos los átomos.
+Cuando trabajamos con un arduino estamos en el nivel de software, de programación. Los programas se ejecutan sobre un microprocesador que está en el nivel inferior. Los microprocesadores se diseñan con electrónica digital (5), que es donde estaremos en este tutorial. Por debajo tenemos los transistores que están hechos a partir de semiconductores, que son cristales de silicio (2) a los que se introducen impurezas. En el último nivel tenemos los átomos
+
+
 
 Ejemplo de circuito digital: Alarma
 (foto) ó vídeo....
