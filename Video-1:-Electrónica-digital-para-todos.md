@@ -63,7 +63,6 @@ Ejercicios: Circuit scramble
 
 TODO
 
-* Sistema de alarma en acción (demo-video)
 * ¿Por qué bajar a puertas lógicas?...
 * Impresoras 3D
 * Comunidad FPGAwars
@@ -89,7 +88,6 @@ TODO
 ## Vídeo 1: Electrónica digital para todos
 * Introducción al tutorial
 * Herramientas libres usadas: icestudio
-* Ejemplos de cosas que haremos
 * Hardware que usaremos: Icezum Alhambra + sensores + placas periféricas
 * FPGAwars --> cualquier pregunta ahí
 
