@@ -12,9 +12,11 @@ TODO
 
 Hola! Soy obijuan, y en este microtutorial comenzamos el curso sobre **Electrónica digital para makers utilizando FPGAs libres**. Es un curso diferente, totalmente distinto a lo que hayas visto. El objetivo es enseñar **pensamiento hardware** de una forma **práctica**, haciendo circuitos desde el minuto 0.
 
+Estamos acostumbrados al **pensamiento algorítmico**, que es el que usamos cuando programamos, por ejemplo un Arduino. Hay un elemento, el **microprocesador**, que ejecuta las **instrucciones** almacenadas en su memoria. Una detrás de otra, **secuencialmente**. Como programadores tenemos que determinar qué instrucciones usar y en qué orden para que el procesador resuelva un problema o haga lo que nosotros queremos. Pensamos en **tiempo**, y de manera **secuencial**
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-02.gif)
 
-Estamos acostumbrados al **pensamiento algorítmico**, que es el que usamos cuando programamos, por ejemplo un Arduino. Hay un elemento, el **microprocesador**, que ejecuta las **instrucciones** almacenadas en su memoria. Una detrás de otra, **secuencialmente**. Como programadores tenemos que determinar qué instrucciones usar y en qué orden para que el procesador resuelva un problema o haga lo que nosotros queremos. Pensamos en **tiempo**, y de manera **secuencial**
+
 
 * Pensamiento hardware vs pensamiento software (algorítmico) (Alhambra - Arduino). Complementarios
 * Niveles
