@@ -28,7 +28,7 @@ En ciencia y en ingeniería dividimos el conocimiento en **niveles**. El mundo d
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-05.png)
 
-Cuando trabajamos con un arduino estamos en el nivel de software, de programación. Los programas se ejecutan sobre un microprocesador que está en el nivel inferior. Los microprocesadores se diseñan con electrónica digital (5), que es donde estaremos en este tutorial. Por debajo tenemos los transistores que están hechos a partir de semiconductores, que son cristales de silicio (2) a los que se introducen impurezas. En el último nivel tenemos los átomos
+Cuando trabajamos con un **Arduino** estamos en el **nivel de software** (7), de programación. Los programas se ejecutan sobre un **microprocesador** que está en el nivel inferior (Nivel 6). Los microprocesadores se diseñan con **electrónica digital** (Nivel 5), que es lo que veremos en este tutorial. Por debajo tenemos los **transistores** (Nivel 4) que están hechos a partir de **semiconductores** (Nivel 3), que son **cristales de silicio** (Nivel 2) a los que se introducen impurezas. En el último nivel tenemos los **átomos** (Nivel 1)
 
 
 
