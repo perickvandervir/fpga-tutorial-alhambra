@@ -51,7 +51,6 @@ Ejercicios: Circuit scramble
 
 TODO
 
-* Pensamiento hardware vs pensamiento software (algorítmico) (Alhambra - Arduino). Complementarios
 * Niveles
 * Sistema de alarma en acción (demo-video)
 * Todo práctico
