@@ -34,6 +34,8 @@ En este tutorial estaremos en el **nivel 5**, diseñando **circuitos digitales**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-06.jpg)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-07.png)
+
 --------------
 
 Ejemplo de circuito digital: Alarma
