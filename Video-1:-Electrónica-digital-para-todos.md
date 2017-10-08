@@ -38,6 +38,9 @@ Este es un ejemplo de una **alarma** que se dispara cuando detecta la **presenci
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-07.png)
 
+En muy poco tiempo serás capaz de entender perfectamente este circuito, y realizar los tuyos propios :-)
+
+
 --------------
 
 Implementación en FPGA
