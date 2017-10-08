@@ -32,7 +32,7 @@ Cuando trabajamos con un **Arduino** estamos en el **nivel de software** (7), de
 
 En este tutorial estaremos en el **nivel 5**, diseñando **circuitos digitales** de manera práctica, a los que conectaremos **sensores** y **actuadores**, y que físicamente tendrán una apariencia como esta
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-06.jpg)
 
 --------------
 
