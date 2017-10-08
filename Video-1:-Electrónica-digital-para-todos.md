@@ -16,7 +16,43 @@ Estamos acostumbrados al **pensamiento algorítmico**, que es el que usamos cuan
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-02.gif)
 
+Sin embargo, en los circuitos digitales las cosas suceden en **paralelo**. El **pensamiento hardware** es **espacial**. Hay caminos físicos por los que la información pasa de un lugar a otro, y es un pensamiento paralelo: Las cosas suceden a la vez. Es similar a una ciudad donde hay coches que se mueven a la vez, en paralelo, siguiendo unas reglas de tráfico
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-03.gif)
+
+
+
+
+Los chips digitales son las base de la tecnología actual y se diseña a partir de electrónica digital y pensamiento hardware. L electrónica digital es de lo que están hechos los procesadores que programamos. Conocerla nos permite no sólo entender cómo funcionan, sino crear procesadores nuevos. Chips diferentes. Arquitecturas alternativas
+
+(Algun dibujo)
+
+En ciencia y en ingeniería dividimos el conocimiento en niveles. El mundo de la electrónica digital está "por debajo" del software. En este dibujo se muestran varios niveles, donde los átomos están en la parte inferior y el software en la superior
+
+(dibujo niveles)
+
+Cuando trabajamos con un arduino estamos en el nivel de software, de programación. Los programas se ejecutan sobre un microprocesador que está en el nivel inferior. Los microprocesadores se diseñan con electrónica digital (5), que es donde estaremos en este tutorial. Por debajo tenemos los transistores que están hechos a partir de semiconductores, que son cristales de silicio (2) a los que se introducen impurezas. En el último nivel tenemos los átomos.
+
+Ejemplo de circuito digital: Alarma
+(foto) ó vídeo....
+
+Por qué bajar hasta el nivel de la electrónica digital?
+
+1) La base de nuestra sociedad digital: intranet, tV, música, apps, programación... se basan en los chips digitales, que se diseñan con electrónica digital.
+
+2) Desde este nivel pueden crear diferentes arquiteturas de procesaadores
+
+3) Más velocidad, menos consumo
+
+ideas:  * Enseñar pensamiento hardware, de manera práctica
+-usaremos impresoras 3D
+- Comnidad FPGA
+- Todo tráctico
+Ejercicios: Circuit scramble
+
+-------
+
+TODO
 
 * Pensamiento hardware vs pensamiento software (algorítmico) (Alhambra - Arduino). Complementarios
 * Niveles
