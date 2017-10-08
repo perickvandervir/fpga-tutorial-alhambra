@@ -40,6 +40,11 @@ Este es un ejemplo de una **alarma** que se dispara cuando detecta la **presenci
 
 En muy poco tiempo serás capaz de entender perfectamente este circuito, y realizar los tuyos propios :-)
 
+**¿Cómo vamos a crear los circuitos digitales?** Típicamente eran difíciles de construir. Primero se diseñaban y se simulaban, luego se compraban los chips digitales y se montaba el circuito en una **placa de entrenamiento**, o directamente se soldaban.
+
+(Fotos)
+
+ Sin embargo, nosotros usaremos **FPGAs libres**. Y todo será muchísimo más fácil
 
 --------------
 
