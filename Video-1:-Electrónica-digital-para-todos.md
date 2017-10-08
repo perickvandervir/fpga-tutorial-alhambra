@@ -40,8 +40,7 @@ Este es un ejemplo de una **alarma** que se dispara cuando detecta la **presenci
 
 --------------
 
-Ejemplo de circuito digital: Alarma
-(foto) ó vídeo....
+Implementación en FPGA
 
 Por qué bajar hasta el nivel de la electrónica digital?
 
