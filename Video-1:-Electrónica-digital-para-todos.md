@@ -30,7 +30,11 @@ En ciencia y en ingeniería dividimos el conocimiento en **niveles**. El mundo d
 
 Cuando trabajamos con un **Arduino** estamos en el **nivel de software** (7), de programación. Los programas se ejecutan sobre un **microprocesador** que está en el nivel inferior (Nivel 6). Los microprocesadores se diseñan con **electrónica digital** (Nivel 5), que es lo que veremos en este tutorial. Por debajo tenemos los **transistores** (Nivel 4) que están hechos a partir de **semiconductores** (Nivel 3), que son **cristales de silicio** (Nivel 2) a los que se introducen impurezas. En el último nivel tenemos los **átomos** (Nivel 1)
 
+En este tutorial estaremos en el **nivel 5**, diseñando **circuitos digitales** de manera práctica, a los que conectaremos **sensores** y **actuadores**, y que físicamente tendrán una apariencia como esta
 
+(Foto)
+
+--------------
 
 Ejemplo de circuito digital: Alarma
 (foto) ó vídeo....
