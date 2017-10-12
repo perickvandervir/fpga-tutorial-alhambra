@@ -44,6 +44,12 @@ En muy poco tiempo serás capaz de entender perfectamente este circuito, y reali
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-08.png)
 
+Por ejemplo, en el chip de esta figura hay 4 puertas **NAND**, de 2 entradas. En el mapa podemos ver en qué patas del chip están las entradas de las NAND, y por dónde se conectan sus salidas
+
+Para construir el circuito, necesitamos comprar los chips necesarios, en la tienda o por internet. Para el montaje físico, una opción es usar una **placa de entrenamiento** (protoboard):
+
+(Foto)
+
 ----
 
  luego se compraban los chips digitales y se montaba el circuito en una **placa de entrenamiento**, o directamente se soldaban.
