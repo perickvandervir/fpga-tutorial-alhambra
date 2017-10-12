@@ -42,6 +42,10 @@ En muy poco tiempo serás capaz de entender perfectamente este circuito, y reali
 
 **¿Cómo se hacen los circuitos digitales?** La manera clásica es la siguiente. Primero se diseña el circuito usando los componentes de electrónica digital: puertas lógicas, biestables, registros, etc. Luego se simula para comprobar que está bien diseñado. Y por último hay que construirlo físicamente. Los elementos a usar se encuentra en el interior de los chips. El fabricante te facilita un esquema con todos los componentes que hay en lo chips que vende
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-08.png)
+
+![](wiki/portada/intro-08.png)
+
 ----
 
  luego se compraban los chips digitales y se montaba el circuito en una **placa de entrenamiento**, o directamente se soldaban.
