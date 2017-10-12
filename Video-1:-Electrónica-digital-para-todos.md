@@ -48,7 +48,7 @@ Por ejemplo, en el chip de esta figura hay 4 puertas **NAND**, de 2 entradas. En
 
 Para construir el circuito, necesitamos comprar los chips necesarios, en la tienda o por internet. Para el montaje físico, una opción es usar una **placa de entrenamiento** (protoboard):
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-09.jpg)
 
 ----
 
