@@ -52,13 +52,10 @@ Para construir el circuito, necesitamos comprar los chips necesarios, en la tien
 
 Otra opción es **soldarte los componentes** en una placa. Con esto se consigue un prototipo que dura más y no se salen los cables
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-10.jpg)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-10.png)
 
 ----
 
- luego se compraban los chips digitales y se montaba el circuito en una **placa de entrenamiento**, o directamente se soldaban.
-
-(Fotos)
 
  Sin embargo, nosotros usaremos **FPGAs libres**. Y todo será muchísimo más fácil
 
