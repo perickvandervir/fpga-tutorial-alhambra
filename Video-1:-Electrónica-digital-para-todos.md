@@ -40,11 +40,9 @@ Este es un ejemplo de una **alarma** que se dispara cuando detecta la **presenci
 
 En muy poco tiempo serás capaz de entender perfectamente este circuito, y realizar los tuyos propios :-)
 
-**¿Cómo se hacen los circuitos digitales?** La manera clásica es la siguiente. Primero se diseña el circuito usando los componentes de electrónica digital: puertas lógicas, biestables, registros, etc. Luego se simula para comprobar que está bien diseñado. Y por último hay que construirlo físicamente. Los elementos a usar se encuentra en el interior de los chips. El fabricante te facilita un esquema con todos los componentes que hay en lo chips que vende
+**¿Cómo se hacen los circuitos digitales?** La manera **clásica** es la siguiente. Primero se **diseña** el circuito usando los componentes de electrónica digital: puertas lógicas, biestables, registros, etc. Luego se **simula** para comprobar que está bien diseñado. Y por último hay que **construirlo físicamente**. Los elementos a usar se encuentra en el interior de los chips. El fabricante te facilita un esquema con todos los componentes que hay en lo chips que vende
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-08.png)
-
-![](wiki/portada/intro-08.png)
 
 ----
 
