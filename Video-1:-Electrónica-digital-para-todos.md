@@ -34,7 +34,7 @@ En este tutorial estaremos en el **nivel 5**, diseñando **circuitos digitales**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-06.jpg)
 
-Este es un ejemplo de una **alarma** que se dispara cuando detecta la **presencia** de algo, a través de un sensor digital de **infrarrojos**. Cuando salta, suena una **sirena**, el **servo** empieza a oscilar y los **leds** comienzan a **parpadear** alternativamente. Cuando se aprieta el **pulsador**, la alarma se para y se rearma. Con el interruptor externo se puede encender o apagar. El circuito digital, creado en **Icestudio**, es este
+Este es un ejemplo de una **alarma** que se dispara cuando detecta la **presencia** de algo, a través de un sensor digital de **infrarrojos**. Cuando salta, suena una **sirena**, el **servo** empieza a oscilar y los **leds** comienzan a **parpadear** alternativamente. Cuando se aprieta el **pulsador**, la alarma se para y se rearma. Con el interruptor externo se puede encender o apagar. El circuito digital, creado en [Icestudio](https://github.com/FPGAwars/icestudio), es este
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-07.png)
 
