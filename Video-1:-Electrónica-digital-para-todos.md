@@ -20,7 +20,7 @@ Sin embargo, en los circuitos digitales las cosas suceden en **paralelo**. El **
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-03.gif)
 
-Los **chips digitales** son las base de la tecnología actual y se diseña a partir de **electrónica digital** y **pensamiento hardware**. La electrónica digital es de lo que están hechos los procesadores que programamos. Conocerla nos permite no sólo entender cómo funcionan, sino crear procesadores nuevos. Chips diferentes. Arquitecturas alternativas
+Los **chips digitales** son las base de la tecnología actual y se diseñan a partir de **electrónica digital** y **pensamiento hardware**. La electrónica digital es de lo que están hechos los procesadores que programamos. Conocerla nos permite no sólo entender cómo funcionan, sino crear procesadores nuevos. Chips diferentes. Arquitecturas alternativas
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-04.png)
 
