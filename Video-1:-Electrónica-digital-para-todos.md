@@ -4,7 +4,7 @@
 
 ## Descripción
 
-TODO
+Comenzamos la inmersión en el mundo de la **electrónica digital** y del **pensamiento hardware**. Este mundo está situado justo encima de los **transistores** y dos niveles por debajo del **software**. El objetivo es **aprender construyendo**. Las **FPGAs libres** nos permiten que el ciclo de diseño sea tan rápido como el del software, algo no antes visto. Aprender diseño digital está ahora al alcance de muchas más personas
 
 ## Explicación
 
