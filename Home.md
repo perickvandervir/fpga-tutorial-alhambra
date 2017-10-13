@@ -34,7 +34,6 @@ TODO
 
 # Plantilla
 
-| **Cadete raso**    |  5  |  ¡Bienvenido a la academia Jedi de hardware! Tienes curiosidad e Interés suficiente sobre hardware, aunque todavía no eres capaz ni de transportar un bit. Tienes mucho que aprender
 ## Descripción
 
 TODO
