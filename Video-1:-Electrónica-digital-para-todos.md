@@ -64,9 +64,11 @@ Esta magia se consigue usando unos chips que se llaman **FPGAs**, que tienen en 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-12.png)
 
---------------
+Las FPGAs son como **chips en blanco**. Un lienzo donde podemos hacer cualquier circuito digital. Las uniones son programables, y al establecerlas, la FPGA se **configura** y nuestro circuito aparece. En cuestión de segundos. Decimos que nuestro circuito se ha **sintetizado**
 
-Implementación en FPGA
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-13.png)
+
+--------------
 
 Por qué bajar hasta el nivel de la electrónica digital?
 
