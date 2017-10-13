@@ -40,9 +40,9 @@ TODO
 | **Padawan nivel 3** | |
 | **Aspirante a Jedi**| |
 | **Jedi iniciado** |  |
-| **Jedi nivel 1 |  |
-| **Jedi nivel 2 |  |
-| **Jedi nivel 3 |  |
+| **Jedi nivel 1** |  |
+| **Jedi nivel 2** |  |
+| **Jedi nivel 3** |  |
 | **Aspirante a caballero jedi** | |
 | **Caballero Jedi** |  |
 
