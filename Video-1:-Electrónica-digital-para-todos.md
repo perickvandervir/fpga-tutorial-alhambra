@@ -9,7 +9,8 @@ TODO
 Comenzamos la inmersión en el mundo de la **electrónica digital** y del **pensamiento hardware**. Este mundo está situado justo encima de los **transistores** y dos niveles por debajo del **software**. El objetivo es **aprender construyendo**. Las **FPGAs libres** nos permiten que el ciclo de diseño sea tan rápido como el del software, algo no antes visto. Aprender diseño digital está ahora al alcance de muchas más personas
 
 ## Contenido
-TODO
+* [Explicación](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos#explicaci%C3%B3n)
+* [Resolución de dudas y formulación de preguntas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos#resoluci%C3%B3n-de-dudas-y-formulaci%C3%B3n-de-preguntas)
 
 ## Explicación
 
