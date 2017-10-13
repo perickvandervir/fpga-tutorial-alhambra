@@ -88,23 +88,31 @@ A partir de esas herramientas libres, hemos podido desarrollar otras, como Icest
 
 5. **Compartir hardware**. Diseñar circuito digitales, usando FPGAs libres, nos permite compartirlos muy fácilmente, y entre todos, ir ampliando el patrimonio tecnológico de la humanidad
 
+### Aprender construyendo
 
---------------
+En este tutorial aprenderemos electrónica digital mediante la **construcción de circuitos desde el primer momento**. El objetivo es aprender construyendo. Y por ello usaremos **impresoras 3D** para crearnos periféricos y objetos divertidos que controlar mediante nuestros circuitos
 
-ideas:  * Enseñar pensamiento hardware, de manera práctica
--usaremos impresoras 3D
-- Comnidad FPGA
-- Todo tráctico
-Ejercicios: Circuit scramble
+(FOTO)
 
--------
+### Placa Icezum Alhambra
 
-TODO
+Existen muchas placas con las FPGAs libres ICE40 de Lattice. Nosotros en este tutorial utilizaremos la Icezum Alhambra, que está orientada a makers. Pero cualquiera de las otras serán también válidas
 
-* ¿Por qué bajar a puertas lógicas?...
-* Impresoras 3D
-* Comunidad FPGAwars
-* Sólo herramientas libres
+(FOTO)
+
+### Patrimonio tecnológico de la humanidad
+
+Otro de los objetivos de este tutorial es usar sólo herramientas libres, que pertenezcan al patrimonio tecnológico de la humanidad. Esto garantiza que cualquier persona del mundo, con independencia del sistema operativo que utilice, pueda reproducir todo lo enseñado en este tutorial
+
+(Logo)
+
+## Resolución de dudas y formulación de preguntas
+
+Para cualquier duda o consulta, por favor, **NO** me enviéis un correo personal privado. Recibo mucho al día, y no los puedo responder. Enviad todas vuestras consultas al [grupo FPGAwars](https://groups.google.com/forum/#!forum/fpga-wars-explorando-el-lado-libre). Por un lado la respuesta a vuestras consultas será más rápida, ya que hay más gente en la comunidad. Y por otro lado, el más importante, si te ha surgido una duda, seguramente otras personas la tendrán también. Y de esta forma, la respuesta a una consulta le sirve a más gente en el futuro
+
+(Logo FPGAwars)
+
+Aquí podéis encontrar más información sobre FPGAwars
 
 ## Ejercicios propuestos
 
@@ -119,14 +127,12 @@ TODO
 ## Ficheros
 TODO
 
---------------------------
+## Autor
 
-# Notas
+## Licencia
 
-## Vídeo 1: Electrónica digital para todos
-* Introducción al tutorial
-* Herramientas libres usadas: icestudio
-* Hardware que usaremos: Icezum Alhambra + sensores + placas periféricas
-* FPGAwars --> cualquier pregunta ahí
+## Enlaces
+
+
 
 
