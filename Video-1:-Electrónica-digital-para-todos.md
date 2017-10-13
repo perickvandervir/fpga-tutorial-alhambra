@@ -188,7 +188,7 @@ Para completar este tutorial, se proponen los **siguientes ejercicios**:
 
 * **Ejercicio 3**: Entregar los ejercicios 1 y 2 (adicionalmente) a través del [repo de entregas del github](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs) (haciendo un pull-request). **Valor**: 1 BitPoint por cada ejercicio (Máximo: 2 BitPoints)
 
-## Entregas
+## Ejercicios entregados
 TODO
 
 ## Autor
