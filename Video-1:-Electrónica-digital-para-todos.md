@@ -175,7 +175,7 @@ Adicionalmente, las entregas se pueden hacer a través de [este repo del github]
 
 ## Ejercicios propuestos
 
-Para completar este tutorial, se proponen los siguientes ejercicios:
+Para completar este tutorial, se proponen los **siguientes ejercicios**:
 
 * **Ejercicio 1**: Instalar la APP [Circuit Scramble](https://play.google.com/store/apps/details?id=com.Suborbital.CircuitScramble&hl=es_419) en una table o un móvil y pasar el **nivel 1**. Entregar pantallazo con el nivel resuelto.  **Valor**: 1 BitPoint
 
