@@ -31,6 +31,8 @@ TODO
 | **Aspirante a cadete** |  2  | Todavía no has ingresado en la academia Jedi de hardware, pero tienes interés, y te gustaría probar
 | **Cadete raso**    |  5  |  ¡Bienvenido a la academia Jedi de hardware! Tienes curiosidad e Interés suficiente sobre hardware, aunque todavía no eres capaz ni de transportar un bit. Tienes mucho que aprender
 | **Cadete senior** |     |
+| ** Cabo ** |  | 
+
 
 # Plantilla
 
