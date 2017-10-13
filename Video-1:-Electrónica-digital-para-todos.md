@@ -60,7 +60,9 @@ Y para placas ya más depuradas, se puede hacer un **PCB** prototipo, que permit
 
 Sin embargo, nosotros usaremos **FPGAs libres**. Y todo será muchísimo **más fácil** y **más rápido**. Igual de ágil que el desarrollo software. **Sintetizaremos** circuitos reales en pocos segundos
 
-Esta magia se consigue usando unos chips que se llaman **FPGAs**.
+Esta magia se consigue usando unos chips que se llaman **FPGAs**, que tienen en su interior **los tres elementos básicos** para realizar cualquier circuito digital: **puertas lógicas**, **cables** y **biestables**. Pero están sin conectar
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-12.png)
 
 --------------
 
