@@ -144,11 +144,11 @@ Otro de los objetivos de este tutorial es usar **sólo herramientas libres**, qu
 
 ### Calentando motores jugando: Circuit Scramble
 
-Para ir calentando motores, vamos a jugar con esta APP: ![Circuit Scramble](https://play.google.com/store/apps/details?id=com.Suborbital.CircuitScramble&hl=es_419)
+Para ir calentando motores, vamos a **jugar** con esta APP: [Circuit Scramble](https://play.google.com/store/apps/details?id=com.Suborbital.CircuitScramble&hl=es_419)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-19.png)
 
-Es un juego sobre Electrónica digital, que es muy adictivo y muy fácil de usar
+Es un juego sobre **Electrónica digital**, que es muy adictivo y muy fácil de usar. Nos permitirá **entender** de manera sencilla muchos conceptos de **electrónica digital**
 
 ## Resolución de dudas y formulación de preguntas
 
