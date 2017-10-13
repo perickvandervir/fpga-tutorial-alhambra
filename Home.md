@@ -27,9 +27,9 @@ TODO
 
 | Rango      |  BitPoints requeridos  |  Descripción  |
 |------------|-------------|---------------|
-| Observador |  0          | Le gusta ojear las cosas. Todavía no se ha atrevio a experimentar con circuitos digitales
-| Aspirante a cadete |  2  | Todavía no ha ingresado en la academia Jedi de hardware, pero tiene interés, y le gustaría entrar
-| Cadete    |  5  |  ¡Bienvenido a la academia Jedi de hardware! Tienes curiosidad e Interés suficiente sobre hardware, aunque todavía no eres capaz ni de transportar un 1 bit. Tienes mucho que aprender
+| **Observador** |  0          | Te gusta ojear las cosas. Todavía no te has atrevido a experimentar con circuitos digitales
+| **Aspirante a cadete** |  2  | Todavía no has ingresado en la academia Jedi de hardware, pero tienes interés, y te gustaría probar
+| **Cadete**    |  5  |  ¡Bienvenido a la academia Jedi de hardware! Tienes curiosidad e Interés suficiente sobre hardware, aunque todavía no eres capaz ni de transportar un bit. Tienes mucho que aprender
 
 
 # Plantilla
