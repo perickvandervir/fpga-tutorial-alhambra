@@ -68,13 +68,27 @@ Las FPGAs son como **chips en blanco**. Un lienzo donde podemos hacer cualquier 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-13.png)
 
+Estas uniones no son permanentes, lo que nos permite meter **muchos circuitos**. Ahora tenemos un circuito, y después podemos sustituirlo por otro circuito
+
+Las FPGAs se conocen desde los años 80, pero era una tecnología privativa, igual que lo eran las impresoras 3D. Esto implicaba que sólo unos pocos tenían acceso a ella, y menos aún conocían sus detalles. A partir de mayo de 2015, el ingeniero austriaco [Clifford Wolf](http://www.clifford.at/) hizo ingeniería inversa de la familia **ICE40 de Lattice**, publicó toda su información ([proyecto icestorm](http://www.clifford.at/icestorm/)) y creó **el primer sintetizador libre de la historia**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-14.png)
+
+A partir de esas herramientas libres, hemos podido desarrollar herramientas libres, como Icestudio, que hacen que la síntesis del hardware, y su diseño, esté **accesibles para muchísima más gente**, y que cueste mucho menos empezar a utilizarla
+
+**¿Por qué aprender a hacer circuitos digitales? ¿Por qué bajar hasta el nivel de la electrónica digital?**
+
+1. **Por aprender**. La electrónica digital son los fundamentos de nuestra sociedad del conocimiento. Internet, los vídeos, las aplicaciones, la música, las películas, los ordenadores, los móviles, las tablets... todo está hecho con electrónica digital. Los fundamentos de todo son este tipo de circuitos. Su conocimiento te da una visión muy amplia del potencial y limitaciones de nuestra sociedad digital
+
+2. **Crear nuevos circuitos**. Conocer como funcionan las cosas a este nivel permiten a personas creativas desarrollar nuevos circuitos electrónicos, diferentes a las tendencias actuales. Nuevas arquitectura. Nuevos paradigmas. Nuevos procesadores. Es algo que desde el nivel del software no podemos hacer, ya que estamos condicionados por el hardware que hay debajo
+
+3. **Aplicaciones más optimizadas**. El estar dos niveles por debajo del software tiene dos grandes ventajas: mayor velocidad y menor consumo. Muchas cosas se pueden hacer por software. Pero si se hacen por hardware, requerirán muchos menos recursos, con lo que consumirán menos, y podrán funcionar a velocidades mucho mayores
+
+4. **Hardware descatalogado**. Compartir
+
 --------------
 
 Por qué bajar hasta el nivel de la electrónica digital?
-
-1) La base de nuestra sociedad digital: intranet, tV, música, apps, programación... se basan en los chips digitales, que se diseñan con electrónica digital.
-
-2) Desde este nivel pueden crear diferentes arquiteturas de procesaadores
 
 3) Más velocidad, menos consumo
 
