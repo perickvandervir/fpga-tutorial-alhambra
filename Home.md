@@ -28,7 +28,7 @@ TODO
 | Rango      |  BitPoints  |  Descripción  |
 |------------|-------------|---------------|
 | Observador |  0          | Le gusta ojear las cosas. Todavía no se ha atrevio a experimentar con circuitos digitales
-
+| 
 
 
 
