@@ -176,6 +176,8 @@ Las **entregas básicas** se hacen por **redes sociales**: twitter ó Google+. S
 
 Adicionalmente, las entregas se pueden hacer a través de [este repo del github](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs). Esto dará más **BitPoints**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/github-logo.png)
+
 ## Ejercicios propuestos
 
 Para completar este tutorial, se proponen los **siguientes ejercicios**:
