@@ -54,6 +54,10 @@ Otra opción es **soldarte los componentes** en una placa. Con esto se consigue 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-10.png)
 
+Y para placas ya más depuradas, se puede hacer un PCB prototipo, que permite hacer tiradas mayores
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-11.jpg)
+
 ----
 
 
