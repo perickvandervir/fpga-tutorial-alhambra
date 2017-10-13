@@ -98,7 +98,7 @@ En este tutorial aprenderemos electrónica digital mediante la **construcción d
 
 ### Placa Icezum Alhambra
 
-Existen muchas placas con las FPGAs libres ICE40 de Lattice. Nosotros en este tutorial utilizaremos la Icezum Alhambra, que está orientada a makers. Pero cualquiera de las otras serán también válidas
+Existen muchas placas con las FPGAs libres **ICE40 de Lattice**. Nosotros en este tutorial utilizaremos la [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki), que está orientada a makers. Pero cualquiera de las otras serán también válidas
 
 (FOTO)
 
