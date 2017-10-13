@@ -114,17 +114,20 @@ Para cualquier duda o consulta, por favor, **NO** me enviéis un correo personal
 
 Aquí podéis encontrar más información sobre FPGAwars
 
+## Sobre las entregas de ejercicios
+
+TODO
+
 ## Ejercicios propuestos
 
 TODO
 
 * Circuit Scramble (instalar, y pasar algunos niveles)
 
-## Entregas
-
+## Ficheros
 TODO
 
-## Ficheros
+## Entregas
 TODO
 
 ## Autor
