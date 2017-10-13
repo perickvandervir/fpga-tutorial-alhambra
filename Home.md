@@ -45,7 +45,7 @@ TODO
 | **Jedi nivel 3** |  |
 | **Aspirante a caballero jedi** | |
 | **Caballero Jedi** |  |
-
+| ... |  |
 
 # Plantilla
 
