@@ -164,7 +164,7 @@ Aquí podéis encontrar más información sobre [FPGAwars](http://fpgawars.githu
 
 ## Sobre las entregas de ejercicios
 
-En todos los tutoriales se plantean **ejercicios** para practicar. Estos ejercicios se pueden **entregar**, con lo que se obtendrán **BitPoints**: puntos que se acumulan y te permiten ir **ascendiendo** en las diferentes categorías de **Hacker/maker**
+En todos los tutoriales se plantean **ejercicios** para practicar. Estos ejercicios se pueden **entregar**, con lo que se obtendrán **BitPoints**: puntos que se acumulan y te permiten ir **ascendiendo** en los [rangos de la academia Jedi de hardware](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki#academia-jedi-de-hardware)
 
 Las **entregas básicas** se hacen por **redes sociales**: twitter ó Google+. Simplemente hay que poner un post con la foto del ejercicio resuelto, poniéndome una mención para que lo reciba:  **@Obijuan_cube** en Twitter ó **@Juan Gonzalez Gomez en G+**
 
