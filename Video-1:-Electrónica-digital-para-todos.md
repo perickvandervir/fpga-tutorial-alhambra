@@ -92,7 +92,7 @@ A partir de esas herramientas libres, hemos podido desarrollar otras, como Icest
 
 En este tutorial aprenderemos electrónica digital mediante la **construcción de circuitos desde el primer momento**. El objetivo es aprender construyendo. Y por ello usaremos **impresoras 3D** para crearnos periféricos y objetos divertidos que controlar mediante nuestros circuitos
 
-(FOTO)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-15.png)
 
 ### Placa Icezum Alhambra
 
