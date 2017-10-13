@@ -11,6 +11,7 @@ Comenzamos la inmersión en el mundo de la **electrónica digital** y del **pens
 ## Contenido
 * [Explicación](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos#explicaci%C3%B3n)
 * [Resolución de dudas y formulación de preguntas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos#resoluci%C3%B3n-de-dudas-y-formulaci%C3%B3n-de-preguntas)
+* [Sobre las entregas de ejercicios](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos#sobre-las-entregas-de-ejercicios)
 
 ## Explicación
 
