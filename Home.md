@@ -13,9 +13,24 @@ TODO
 | Vídeo | Nombre  |
 |-------|---------|
 | 1 | [Electrónica digital para todos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos)    |
+|    |    |
 
 
 ----------------------------------------------------
+## Hall of fame
+
+|  Nombre  |  Categoría  |  BitPoints |
+|----------|-------------|------------|
+|          |             |            |
+
+## Listado de Rangos
+
+| Rango      |  BitPoints  |  Descripción  |
+|------------|-------------|---------------|
+| Observador |  0          | Le gusta ojear las cosas. Todavía no se ha atrevio a experimentar con circuitos digitales
+
+
+
 
 # Plantilla
 
