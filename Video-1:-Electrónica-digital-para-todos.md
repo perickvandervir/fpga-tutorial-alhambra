@@ -144,7 +144,7 @@ Otro de los objetivos de este tutorial es usar **sólo herramientas libres**, qu
 
 ### Calentando motores jugando: Circuit Scramble
 
-![]()
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-19.png)
 
 ## Resolución de dudas y formulación de preguntas
 
@@ -164,7 +164,6 @@ Las **entregas básicas** se hacen por **redes sociales**: twitter ó Google+. S
 * Se publicará en la wiki un **Ranking** con los nombres de todos los que han entregado y la cantidad de **BitPoints** conseguidos
 
 Adicionalmente, las entregas se pueden hacer a través de [este repo del github](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs). Esto dará más **BitPoints**
-
 
 ## Ejercicios propuestos
 
