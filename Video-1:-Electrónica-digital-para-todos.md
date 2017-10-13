@@ -141,6 +141,10 @@ Otro de los objetivos de este tutorial es usar **sólo herramientas libres**, qu
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-17.png)
 
+### Calentando motores jugando: Circuit Scramble
+
+TODO
+
 ## Resolución de dudas y formulación de preguntas
 
 Para cualquier duda o consulta, por favor, **NO** me enviéis un correo personal privado. Recibo mucho al día, y no los puedo responder. Enviad todas vuestras consultas al [grupo FPGAwars](https://groups.google.com/forum/#!forum/fpga-wars-explorando-el-lado-libre). Por un lado la respuesta a vuestras consultas será más rápida, ya que hay más gente en la comunidad. Y por otro lado, el más importante, si te ha surgido una duda, seguramente otras personas la tendrán también. Y de esta forma, la respuesta a una consulta le sirve a más gente en el futuro
@@ -167,18 +171,20 @@ TODO
 
 * Circuit Scramble (instalar, y pasar algunos niveles)
 
-## Ficheros
-TODO
-
 ## Entregas
 TODO
 
 ## Autor
 
+* [Juan González-Gómez](https://github.com/Obijuan) (Obijuan)
+
 ## Licencia
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/attribution-share-alike-creative-commons-license.png)
 
 ## Enlaces
 
+TODO
 
 
 
