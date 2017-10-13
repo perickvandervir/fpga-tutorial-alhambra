@@ -25,7 +25,7 @@ TODO
 
 ## Listado de Rangos
 
-| Rango      |  BitPoints  |  Descripción  |
+| Rango      |  BitPoints requeridos  |  Descripción  |
 |------------|-------------|---------------|
 | Observador |  0          | Le gusta ojear las cosas. Todavía no se ha atrevio a experimentar con circuitos digitales
 | Aspirante a cadete |  2  | Todavía no ha ingresado en la academia Jedi de hardware, pero tiene interés, y le gustaría entrar
