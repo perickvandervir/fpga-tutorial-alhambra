@@ -155,8 +155,8 @@ En todos los tutoriales se plantean **ejercicios** para practicar. Estos ejercic
 
 Las **entregas básicas** se hacen por **redes sociales**: twitter ó Google+. Simplemente hay que poner un post con la foto del ejercicio resuelto, poniéndome una mención para que lo reciba:  **@Obijuan_cube** en Twitter ó **@Juan Gonzalez Gomez en G+**
 
-* Las 3 primeras entregas de cada tutorial se colocarán su wiki, junto a los nombres de los autores
-* Se publicará en la wiki un Ranking con los nombres de todos los que han entregado y la cantidad de BitPoints conseguidos
+* Las 3 primeras entregas de cada tutorial se colocarán en su wiki, junto a los nombres de los autores
+* Se publicará en la wiki un **Ranking** con los nombres de todos los que han entregado y la cantidad de **BitPoints** conseguidos
 
 Adicionalmente, las entregas se pueden hacer a través de este repo del github. Esto dará más BitPoints
 
