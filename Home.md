@@ -29,11 +29,22 @@ TODO
 |------------|-------------|---------------|
 | **Observador** |  0          | Te gusta ojear las cosas. Todavía no te has atrevido a experimentar con circuitos digitales
 | **Aspirante a cadete** |  2  | Todavía no has ingresado en la academia Jedi de hardware, pero tienes interés, y te gustaría probar
-| **Cadete raso**    |  5  |  ¡Bienvenido a la academia Jedi de hardware! Tienes curiosidad e Interés suficiente sobre hardware, aunque todavía no eres capaz ni de transportar un bit. Tienes mucho que aprender
-| **Cadete senior** |     |
+| **Cadete**    |  5  |  ¡Bienvenido a la academia Jedi de hardware! Tienes curiosidad e Interés suficiente sobre hardware, aunque todavía no eres capaz ni de transportar un bit. Tienes mucho que aprender
+| **Cadete nivel 1** |     |
+| **Cadete nivel 2** |    |
+| **Cadete nivel 3** |   |
 | **Aspirante a Padawan** |  |
 | **Padawan** | |
-| **Padawan senior** | | 
+| **Padawan nivel 1** | | 
+| **Padawan nivel 2** | |
+| **Padawan nivel 3** | |
+| **Aspirante a Jedi**| |
+| **Jedi iniciado** |  |
+| **Jedi nivel 1 |  |
+| **Jedi nivel 2 |  |
+| **Jedi nivel 3 |  |
+| **Aspirante a caballero jedi** | |
+| **Caballero Jedi** |  |
 
 
 # Plantilla
