@@ -20,6 +20,7 @@ Comenzamos la inmersión en el mundo de la **electrónica digital** y del **pens
   * [Aprender construyendo](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos#aprender-construyendo)
   * [Placa Icezum Alhambra](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos#placa-icezum-alhambra)
   * [Patrimonio tecnológico de la humanidad](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos#patrimonio-tecnol%C3%B3gico-de-la-humanidad)
+  * [Calentando motores jugando: Circuit Scramble](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos#calentando-motores-jugando-circuit-scramble)
 
 * [Resolución de dudas y formulación de preguntas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos#resoluci%C3%B3n-de-dudas-y-formulaci%C3%B3n-de-preguntas)
 
@@ -143,7 +144,7 @@ Otro de los objetivos de este tutorial es usar **sólo herramientas libres**, qu
 
 ### Calentando motores jugando: Circuit Scramble
 
-TODO
+![]()
 
 ## Resolución de dudas y formulación de preguntas
 
