@@ -114,9 +114,9 @@ Otro de los objetivos de este tutorial es usar **sólo herramientas libres**, qu
 
 Para cualquier duda o consulta, por favor, **NO** me enviéis un correo personal privado. Recibo mucho al día, y no los puedo responder. Enviad todas vuestras consultas al [grupo FPGAwars](https://groups.google.com/forum/#!forum/fpga-wars-explorando-el-lado-libre). Por un lado la respuesta a vuestras consultas será más rápida, ya que hay más gente en la comunidad. Y por otro lado, el más importante, si te ha surgido una duda, seguramente otras personas la tendrán también. Y de esta forma, la respuesta a una consulta le sirve a más gente en el futuro
 
-(Logo FPGAwars)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-18.png)
 
-Aquí podéis encontrar más información sobre FPGAwars
+Aquí podéis encontrar más información sobre [FPGAwars](http://fpgawars.github.io/)
 
 ## Sobre las entregas de ejercicios
 
