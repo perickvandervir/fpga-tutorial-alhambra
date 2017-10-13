@@ -100,13 +100,15 @@ En este tutorial aprenderemos electrónica digital mediante la **construcción d
 
 Existen muchas placas con las FPGAs libres **ICE40 de Lattice**. Nosotros en este tutorial utilizaremos la [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki), que está orientada a makers. Pero cualquiera de las otras serán también válidas
 
-(FOTO)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-16.jpg)
+
+La icezum Alhambra se puede conseguir desde aquí: [Alhambrabits](https://alhambrabits.com/buy/)
 
 ### Patrimonio tecnológico de la humanidad
 
-Otro de los objetivos de este tutorial es usar sólo herramientas libres, que pertenezcan al patrimonio tecnológico de la humanidad. Esto garantiza que cualquier persona del mundo, con independencia del sistema operativo que utilice, pueda reproducir todo lo enseñado en este tutorial
+Otro de los objetivos de este tutorial es usar **sólo herramientas libres**, que pertenezcan al **patrimonio tecnológico de la humanidad**. Esto garantiza que cualquier persona del mundo, con independencia del sistema operativo que utilice, pueda reproducir todo lo enseñado en este tutorial
 
-(Logo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-17.png)
 
 ## Resolución de dudas y formulación de preguntas
 
