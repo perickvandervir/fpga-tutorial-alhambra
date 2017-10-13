@@ -14,9 +14,13 @@ Comenzamos la inmersión en el mundo de la **electrónica digital** y del **pens
 
 Hola! Soy obijuan, y en este microtutorial comenzamos el curso sobre **Electrónica digital para makers utilizando FPGAs libres**. Es un curso diferente, totalmente distinto a lo que hayas visto. El objetivo es enseñar **pensamiento hardware** de una forma **práctica**, haciendo circuitos desde el minuto 0.
 
+### Pensamiento algorítmico
+
 Estamos acostumbrados al **pensamiento algorítmico**, que es el que usamos cuando programamos, por ejemplo un Arduino. Hay un elemento, el **microprocesador**, que ejecuta las **instrucciones** almacenadas en su memoria. Una detrás de otra, **secuencialmente**. Como programadores tenemos que determinar qué instrucciones usar y en qué orden para que el procesador resuelva un problema o haga lo que nosotros queremos. Pensamos en **tiempo**, y de manera **secuencial**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-02.gif)
+
+### Pensamiento hardware
 
 Sin embargo, en los circuitos digitales las cosas suceden en **paralelo**. El **pensamiento hardware** es **espacial**. Hay caminos físicos por los que la información pasa de un lugar a otro, y es un **pensamiento paralelo**: Las cosas suceden a la vez. Es similar a una ciudad donde hay coches que se mueven a la vez, en paralelo, siguiendo unas reglas de tráfico
 
@@ -26,11 +30,15 @@ Los **chips digitales** son las base de la tecnología actual y se diseñan a pa
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-04.png)
 
+### Niveles
+
 En ciencia y en ingeniería dividimos el conocimiento en **niveles**. El mundo de la electrónica digital está "por debajo" del software. En este dibujo se muestran varios niveles, donde los **átomos** están en la parte inferior y el **software** en la superior
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-05.png)
 
 Cuando trabajamos con un **Arduino** estamos en el **nivel de software** (7), de programación. Los programas se ejecutan sobre un **microprocesador** que está en el nivel inferior (Nivel 6). Los microprocesadores se diseñan con **electrónica digital** (Nivel 5), que es lo que veremos en este tutorial. Por debajo tenemos los **transistores** (Nivel 4) que están hechos a partir de **semiconductores** (Nivel 3), que son **cristales de silicio** (Nivel 2) a los que se introducen impurezas. En el último nivel tenemos los **átomos** (Nivel 1)
+
+### Un circuito de ejemplo
 
 En este tutorial estaremos en el **nivel 5**, diseñando **circuitos digitales** de manera práctica, a los que conectaremos **sensores** y **actuadores**, y que físicamente tendrán una apariencia como esta
 
@@ -41,6 +49,8 @@ Este es un ejemplo de una **alarma** que se dispara cuando detecta la **presenci
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-07.png)
 
 En muy poco tiempo serás capaz de entender perfectamente este circuito, y realizar los tuyos propios :-)
+
+### Construyendo circuitos digitales
 
 **¿Cómo se hacen los circuitos digitales?** La manera **clásica** es la siguiente. Primero se **diseña** el circuito usando los componentes de electrónica digital: puertas lógicas, biestables, registros, etc. Luego se **simula** para comprobar que está bien diseñado. Y por último hay que **construirlo físicamente**. Los elementos a usar se encuentra en el interior de los chips. El fabricante te facilita un esquema con todos los componentes que hay en lo chips que vende
 
@@ -60,6 +70,8 @@ Y para placas ya más depuradas, se puede hacer un **PCB** prototipo, que permit
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-11.jpg)
 
+### FPGAs libres
+
 Sin embargo, nosotros usaremos **FPGAs libres**. Y todo será muchísimo **más fácil** y **más rápido**. Igual de ágil que el desarrollo software. **Sintetizaremos** circuitos reales en pocos segundos
 
 Esta magia se consigue usando unos chips que se llaman **FPGAs**, que tienen en su interior **los tres elementos básicos** para realizar cualquier circuito digital: **puertas lógicas**, **cables** y **biestables**. Pero están sin conectar
@@ -77,6 +89,8 @@ Las FPGAs se conocen desde los años 80, pero era una tecnología privativa, igu
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-14.png)
 
 A partir de esas herramientas libres, hemos podido desarrollar otras, como Icestudio, que hacen que la síntesis del hardware, y su diseño, estén **accesibles para muchísima más gente**. Y que el aprendizaje de los circuitos digitales sea mucho más rápido y fácil
+
+### Electrónica digital
 
 **¿Por qué aprender a hacer circuitos digitales? ¿Por qué bajar hasta el nivel de la electrónica digital?**
 
