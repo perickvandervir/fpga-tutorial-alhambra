@@ -74,7 +74,7 @@ Las FPGAs se conocen desde los años 80, pero era una tecnología privativa, igu
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-14.png)
 
-A partir de esas herramientas libres, hemos podido desarrollar herramientas libres, como Icestudio, que hacen que la síntesis del hardware, y su diseño, esté **accesibles para muchísima más gente**, y que cueste mucho menos empezar a utilizarla
+A partir de esas herramientas libres, hemos podido desarrollar otras, como Icestudio, que hacen que la síntesis del hardware, y su diseño, estén **accesibles para muchísima más gente**. Y que el aprendizaje de los circuitos digitales sea mucho más rápido y fácil
 
 **¿Por qué aprender a hacer circuitos digitales? ¿Por qué bajar hasta el nivel de la electrónica digital?**
 
@@ -84,13 +84,12 @@ A partir de esas herramientas libres, hemos podido desarrollar herramientas libr
 
 3. **Aplicaciones más optimizadas**. El estar dos niveles por debajo del software tiene dos grandes ventajas: mayor velocidad y menor consumo. Muchas cosas se pueden hacer por software. Pero si se hacen por hardware, requerirán muchos menos recursos, con lo que consumirán menos, y podrán funcionar a velocidades mucho mayores
 
-4. **Hardware descatalogado**. Compartir
+4. **Independencia de los fabricantes**. Al hacer un circuito digital, dependes de los chips disponibles en el mercado. Puede que al cabo de varios años, los chips que has usado ya no esté a la venta. Si estos chips los tenemos creados en una FPGA, tenemos garantizado que siempre estarán disponibles
+
+5. **Compartir hardware**. Diseñar circuito digitales, usando FPGAs libres, nos permite compartirlos muy fácilmente, y entre todos, ir ampliando el patrimonio tecnológico de la humanidad
+
 
 --------------
-
-Por qué bajar hasta el nivel de la electrónica digital?
-
-3) Más velocidad, menos consumo
 
 ideas:  * Enseñar pensamiento hardware, de manera práctica
 -usaremos impresoras 3D
