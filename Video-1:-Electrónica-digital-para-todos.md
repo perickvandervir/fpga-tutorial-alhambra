@@ -1,8 +1,5 @@
-(Enlace al vídeo)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-TODO
+[![Click to see the youtube video](http://img.youtube.com/vi/R59Q-MwFbM8/0.jpg)](https://www.youtube.com/watch?v=R59Q-MwFbM8)
 
 ## Descripción
 
