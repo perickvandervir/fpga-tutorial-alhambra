@@ -35,6 +35,7 @@ TODO
 | Alberto Valero        | Aspirante a Cadete | 2 |
 | Miquel Servera        | Aspirante a Cadete | 2 |
 | Jordi R. Crespo       | Aspirante a Cadete | 2 |
+| Jorge Turiel          | Aspirante a Cadete | 2 |
 
 
 ## Listado de Rangos
