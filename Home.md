@@ -19,11 +19,17 @@ TODO
 ----------------------------------------------------
 ## Academia Jedi de hardware
 
-|  Nombre  |  Rango  |  BitPoints |
-|----------|-------------|------------|
-| Julian Caro     |  Aspirante a Cadete  | 4  |
-| Federico Coca   | Aspirante a Cadete   | 2 |
-| Juan A. Ramón Girón |  Aspirante a Cadete | 2 |
+|  Nombre             |  Rango             |  BitPoints |
+|---------------------|--------------------|------------|
+| Julian Caro         | Aspirante a Cadete | 4 |
+| Federico Coca       | Aspirante a Cadete | 2 |
+| Juan A. Ramón Girón | Aspirante a Cadete | 2 |
+| Diego Lale          | Aspirante a Cadete | 2 |
+| Unai Sanz           | Aspirante a Cadete | 2 |
+| Juan G. Maker       | Aspirante a Cadete | 2 |
+| Javi (@Seat_128)    | Aspirante a Cadete | 2 |
+| Andrés (@Avarez_)   | Aspirante a Cadete | 2 |
+
 
 ## Listado de Rangos
 
