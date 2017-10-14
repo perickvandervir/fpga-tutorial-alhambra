@@ -26,6 +26,7 @@ TODO
 | Diego Lale            | Aspirante a Cadete | 4 |
 | Juanillo Pillo        | Aspirante a Cadete | 4 |
 | Alberto Valero        | Aspirante a Cadete | 4 |
+| Loquox                | Aspirante a Cadete | 4 |
 | Federico Coca         | Aspirante a Cadete | 2 |
 | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
 | Unai Sanz             | Aspirante a Cadete | 2 |
