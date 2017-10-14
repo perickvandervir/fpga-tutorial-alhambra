@@ -38,6 +38,8 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | Jordi Bardají         | Aspirante a Cadete | 2 |
 | Javi (@JavimJavi)     | Aspirante a Cadete | 2 |
 | Jaime Laborda         | Aspirante a Cadete | 2 |
+| Diego Lorenzo Balbis  | Aspirante a Cadete | 2 |
+
 
 
 ## Listado de Rangos
