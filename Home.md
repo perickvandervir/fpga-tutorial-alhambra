@@ -42,11 +42,11 @@ TODO
 
 ## Listado de Rangos
 
-| Rango      |  BitPoints requeridos  |  Descripción  |
-|------------|-------------|---------------|
+| Rango          |  BitPoints requeridos  |  Descripción  |
+|----------------|-------------|---------------|
 | **Observador** |  0          | Te gusta ojear las cosas. Todavía no te has atrevido a experimentar con circuitos digitales
 | **Aspirante a cadete** |  2  | Todavía no has ingresado en la academia Jedi de hardware, pero tienes interés, y te gustaría probar
-| **Cadete**    |  5  |  ¡Bienvenido a la academia Jedi de hardware! Tienes curiosidad e Interés suficiente sobre hardware, aunque todavía no eres capaz ni de transportar un bit. Tienes mucho que aprender
+| **Cadete**    |  5  |  ¡Bienvenido a la academia Jedi de hardware! Tienes curiosidad e Interés suficiente sobre hardware y tienes Icestudio instalado. ¡Listo para aprender!
 | **Cadete nivel 1** |     |
 | **Cadete nivel 2** |    |
 | **Cadete nivel 3** |   |
