@@ -21,8 +21,8 @@ TODO
 
 |  Nombre  |  Rango  |  BitPoints |
 |----------|-------------|------------|
-|   Julian Caro      |  Aspirante a Cadete    |      2      |
-| Federico Coca   | Aspirante a Cadete | 2 |
+| Julian Caro     |  Aspirante a Cadete  | 4  |
+| Federico Coca   | Aspirante a Cadete   | 2 |
 
 ## Listado de Rangos
 
