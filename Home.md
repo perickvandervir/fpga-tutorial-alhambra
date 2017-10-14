@@ -29,6 +29,12 @@ TODO
 | Juan G. Maker       | Aspirante a Cadete | 2 |
 | Javi (@Seat_128)    | Aspirante a Cadete | 2 |
 | Andrés (@Avarez_)   | Aspirante a Cadete | 2 |
+| Juanillo Pillo      | Aspirante a Cadete | 2 |
+| Jose Luis (@movilujo) | Aspirante a Cadete | 2 |
+| Luis Sobrino Fdz.     | Aspirante a Cadete | 2 |
+| Alberto Valero        | Aspirante a Cadete | 2 |
+| Miquel Servera        | Aspirante a Cadete | 2 |
+| Jordi R. Crespo       | Aspirante a Cadete | 2 |
 
 
 ## Listado de Rangos
