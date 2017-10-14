@@ -181,7 +181,7 @@ Adicionalmente, las entregas se pueden hacer a través de [este repo del github]
 
 Para completar este tutorial, se proponen los **siguientes ejercicios**:
 
-* **Ejercicio 1**: Instalar la APP [Circuit Scramble](https://play.google.com/store/apps/details?id=com.Suborbital.CircuitScramble&hl=es_419) en una table o un móvil y pasar el **nivel 1**. Entregar pantallazo con el nivel resuelto.  **Valor**: 1 BitPoint
+* **Ejercicio 1**: Instalar la APP [Circuit Scramble](https://play.google.com/store/apps/details?id=com.Suborbital.CircuitScramble&hl=es_419) en una tablet o un móvil y pasar el **nivel 1**. Entregar pantallazo con el nivel resuelto.  **Valor**: 1 BitPoint
 
 * **Ejercicio 2**: Pasar los **niveles 2** y **3** del Circuit Scramble. Enviar pantallazo con sus soluciones. **Valor**: 1 BitPoint
 
