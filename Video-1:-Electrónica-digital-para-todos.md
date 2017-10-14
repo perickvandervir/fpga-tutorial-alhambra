@@ -189,6 +189,8 @@ Para completar este tutorial, se proponen los **siguientes ejercicios**:
 
 ## Ejercicios entregados
 
+Los tres primeros en entregar los ejercicios 1 y 2 han sido:
+
 ### Julian Caro Linares
 
 |       |         |       |
