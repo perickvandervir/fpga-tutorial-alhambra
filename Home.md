@@ -23,6 +23,7 @@ TODO
 |----------|-------------|------------|
 | Julian Caro     |  Aspirante a Cadete  | 4  |
 | Federico Coca   | Aspirante a Cadete   | 2 |
+| Juan A. Ramón Girón |  Aspirante a Cadete | 2 |
 
 ## Listado de Rangos
 
