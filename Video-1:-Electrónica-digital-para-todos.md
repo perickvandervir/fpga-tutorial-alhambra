@@ -199,7 +199,15 @@ Los tres primeros en entregar los ejercicios 1 y 2 han sido:
 
 ### Federico Coca
 
+|      |       | 
+|------|-------|
+| ![]() | ![]()
+
 ### Juan A Ramón Girón
+
+|      |       | 
+|------|-------|
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/entregas/Juan_A_Ramon_Giron-1.jpg) | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/entregas/Juan_A_Ramon_Giron-1.jpg)
 
 ## Autor
 
