@@ -36,6 +36,7 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | Jorge Turiel          | Aspirante a Cadete | 2 |
 | Jokin Lacalle         | Aspirante a Cadete | 2 |
 | Jordi Bardají         | Aspirante a Cadete | 2 |
+| Javi (@JavimJavi)     | Aspirante a Cadete | 2 |
 
 
 ## Listado de Rangos
