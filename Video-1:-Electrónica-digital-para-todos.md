@@ -193,7 +193,11 @@ Para completar este tutorial, se proponen los **siguientes ejercicios**:
 
 |       |         |       |
 |-------|---------|-------|
-| ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-1/jcarolinares/nivel_1_jcarolinares.png)
+| ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-1/jcarolinares/nivel_1_jcarolinares.png) | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-1/jcarolinares/nivel_2_jcarolinares.png) | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-1/jcarolinares/nivel_3_jcarolinares.png)
+
+### Federico Coca
+
+### Juan A Ramón Girón
 
 ## Autor
 
