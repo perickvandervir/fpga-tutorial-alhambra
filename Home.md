@@ -39,6 +39,7 @@ TODO
 | Jordi R. Crespo       | Aspirante a Cadete | 2 |
 | Jorge Turiel          | Aspirante a Cadete | 2 |
 | Jokin Lacalle         | Aspirante a Cadete | 2 |
+| Jordi Bardají         | Aspirante a Cadete | 2 |
 
 
 ## Listado de Rangos
