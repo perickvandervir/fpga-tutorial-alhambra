@@ -1,6 +1,8 @@
 
 [![Click to see the youtube video](http://img.youtube.com/vi/R59Q-MwFbM8/0.jpg)](https://www.youtube.com/watch?v=R59Q-MwFbM8)
 
+Haz click en la imagen para ver el vídeo en Youtube
+
 ## Descripción
 
 Comenzamos la inmersión en el mundo de la **electrónica digital** y del **pensamiento hardware**. Este mundo está situado justo encima de los **transistores** y dos niveles por debajo del **software**. El objetivo es **aprender construyendo**. Las **FPGAs libres** nos permiten que el ciclo de diseño sea tan rápido como el del software, algo no antes visto. Aprender diseño digital está ahora al alcance de muchas más personas
