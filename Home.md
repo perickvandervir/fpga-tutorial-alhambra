@@ -19,20 +19,21 @@ TODO
 ----------------------------------------------------
 ## Academia Jedi de hardware
 
-|  Nombre             |  Rango             |  BitPoints |
-|---------------------|--------------------|------------|
-| Julian Caro         | Aspirante a Cadete | 4 |
-| Federico Coca       | Aspirante a Cadete | 2 |
-| Juan A. Ramón Girón | Aspirante a Cadete | 2 |
-| Diego Lale          | Aspirante a Cadete | 2 |
-| Unai Sanz           | Aspirante a Cadete | 2 |
-| Juan G. Maker       | Aspirante a Cadete | 2 |
-| Javi (@Seat_128)    | Aspirante a Cadete | 2 |
-| Andrés (@Avarez_)   | Aspirante a Cadete | 2 |
-| Juanillo Pillo      | Aspirante a Cadete | 2 |
+|  Nombre               |  Rango             |  BitPoints |
+|-----------------------|--------------------|------------|
+| Julian Caro           | Aspirante a Cadete | 4 |
+| Juan Manuel Rico      | Aspirante a Cadete | 4 |
+| Diego Lale            | Aspirante a Cadete | 4 |
+| Juanillo Pillo        | Aspirante a Cadete | 4 |
+| Alberto Valero        | Aspirante a Cadete | 4 |
+| Federico Coca         | Aspirante a Cadete | 2 |
+| Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
+| Unai Sanz             | Aspirante a Cadete | 2 |
+| Juan G. Maker         | Aspirante a Cadete | 2 |
+| Javi (@Seat_128)      | Aspirante a Cadete | 2 |
+| Andrés (@Avarez_)     | Aspirante a Cadete | 2 |
 | Jose Luis (@movilujo) | Aspirante a Cadete | 2 |
 | Luis Sobrino Fdz.     | Aspirante a Cadete | 2 |
-| Alberto Valero        | Aspirante a Cadete | 2 |
 | Miquel Servera        | Aspirante a Cadete | 2 |
 | Jordi R. Crespo       | Aspirante a Cadete | 2 |
 | Jorge Turiel          | Aspirante a Cadete | 2 |
