@@ -21,16 +21,17 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 
 **Aspirantes** a entrar en la academia de Jedi de hardware. Número de **Bitpoints** requeridos para el ingreso: **5**
 
-|  Nombre               |  Rango             |  BitPoints |
-|-----------------------|--------------------|------------|
-| Julian Caro           | Aspirante a Cadete | 4 |
-| Juan Manuel Rico      | Aspirante a Cadete | 4 |
-| Diego Lale            | Aspirante a Cadete | 4 |
-| Juanillo Pillo        | Aspirante a Cadete | 4 |
-| Alberto Valero        | Aspirante a Cadete | 4 |
-| Loquox                | Aspirante a Cadete | 4 |
-| Jaime Laborda         | Aspirante a Cadete | 4 |
+|Núm|  Nombre               |  Rango             |  BitPoints |
+|------|-----------------------|--------------------|------------|
+|1     | Julian Caro           | Aspirante a Cadete | 4 |
+|2     | Juan Manuel Rico      | Aspirante a Cadete | 4 |
+|3     | Diego Lale            | Aspirante a Cadete | 4 |
+|4     | Juanillo Pillo        | Aspirante a Cadete | 4 |
+|5     | Alberto Valero        | Aspirante a Cadete | 4 |
+|6     | Loquox                | Aspirante a Cadete | 4 |
+|7     | Jaime Laborda         | Aspirante a Cadete | 4 |
 | Miquel Servera        | Aspirante a Cadete | 4 |
+| Manuel Andújar        | Aspirante a Cadete | 4 |
 | Federico Coca         | Aspirante a Cadete | 2 |
 | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
 | Unai Sanz             | Aspirante a Cadete | 2 |
