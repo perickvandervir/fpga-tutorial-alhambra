@@ -32,6 +32,7 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 |7     | Jaime Laborda         | Aspirante a Cadete | 4 |
 |8     | Miquel Servera        | Aspirante a Cadete | 4 |
 |9     | Manuel Andújar        | Aspirante a Cadete | 4 |
+|10xx  | OskarLM               | Aspirante a Cadete | 4 |
 |10    | Federico Coca         | Aspirante a Cadete | 2 |
 |11    | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
 |12    | Unai Sanz             | Aspirante a Cadete | 2 |
