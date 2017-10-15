@@ -30,6 +30,7 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | Alberto Valero        | Aspirante a Cadete | 4 |
 | Loquox                | Aspirante a Cadete | 4 |
 | Jaime Laborda         | Aspirante a Cadete | 4 |
+| Miquel Servera        | Aspirante a Cadete | 4 |
 | Federico Coca         | Aspirante a Cadete | 2 |
 | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
 | Unai Sanz             | Aspirante a Cadete | 2 |
@@ -38,7 +39,6 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | Andrés (@Avarez_)     | Aspirante a Cadete | 2 |
 | Jose Luis (@movilujo) | Aspirante a Cadete | 2 |
 | Luis Sobrino Fdz.     | Aspirante a Cadete | 2 |
-| Miquel Servera        | Aspirante a Cadete | 2 |
 | Jordi R. Crespo       | Aspirante a Cadete | 2 |
 | Jorge Turiel          | Aspirante a Cadete | 2 |
 | Jokin Lacalle         | Aspirante a Cadete | 2 |
