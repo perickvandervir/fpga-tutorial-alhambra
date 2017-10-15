@@ -48,31 +48,39 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |16    | Jordi R. Crespo       | Aspirante a Cadete | 4 |
 |17    | Ximo Catala           | Aspirante a Cadete | 4 |
 |18    | Ion Hernández         | Aspirante a Cadete | 4 |
-|19    | Federico Coca         | Aspirante a Cadete | 2 |
-|20    | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
-|21    | Unai Sanz             | Aspirante a Cadete | 2 |
-|22    | Juan G. Maker         | Aspirante a Cadete | 2 |
-|23    | Javi (@Seat_128)      | Aspirante a Cadete | 2 |
-|24    | Andrés (@Avarez_)     | Aspirante a Cadete | 2 |
-|25    | Luis Sobrino Fdz.     | Aspirante a Cadete | 2 |
-|26    | Jorge Turiel          | Aspirante a Cadete | 2 |
-|27    | Jokin Lacalle         | Aspirante a Cadete | 2 |
-|28    | Jordi Bardají         | Aspirante a Cadete | 2 |
-|29    | Javi (@JavimJavi)     | Aspirante a Cadete | 2 |
-|30    | Diego Lorenzo Balbis  | Aspirante a Cadete | 2 |
-|31    | Javier Solsona        | Aspirante a Cadete | 2 |
-|32    | Sergio Arciénaga      | Aspirante a Cadete | 2 |
-|33    | Dmayoraru             | Aspirante a Cadete | 2 |
-|34    | César García (@elsatch) | Aspirante a Cadete | 2 |
-|35    | Javier Liras            | Aspirante a Cadete | 2 |
-|36    | Gerardo Gómez           | Aspirante a Cadete | 2 |
-|37    | BV9                     | Aspirante a Cadete | 2 |
-|38    | Rubén Quintas           | Aspirante a Cadete | 2 |
-|39    | Goyo Regalado           | Aspirante a Cadete | 2 |
-|40    | Apolonio García         | Aspirante a Cadete | 2 |
-|41    | Pablo Rubio Maker3D     | Aspirante a Cadete | 2 |
-|42    | G4lile0                 | Aspirante a Cadete | 2 |
-|43    | Manuel Leobot           | Aspirante a Cadete | 2 |
+|19    | G4lile0               | Aspirante a Cadete | 4 |
+|20    | Javier Solsona        | Aspirante a Cadete | 4 |
+|21    | Ruben Quintas         | Aspirante a Cadete | 4 |
+|22    | Afuallapis            | Aspirante a Cadete | 4 |
+|23    | Federico Coca         | Aspirante a Cadete | 4 |
+|24    | Andrés Prieto-Moreno  | Aspirante a Cadete | 4 |
+|25    | MinicatsCB            | Aspirante a Cadete | 4 |
+|26    | Klavius69             | Aspirante a Cadete | 4 |
+|27    | clonehazard           | Aspirante a Cadete | 4 |
+|28    | Manuel Leobot         | Aspirante a Cadete | 4 |
+|29    | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
+|30    | Unai Sanz             | Aspirante a Cadete | 2 |
+|31    | Juan G. Maker         | Aspirante a Cadete | 2 |
+|32    | Javi (@Seat_128)      | Aspirante a Cadete | 2 |
+|33    | Andrés (@Avarez_)     | Aspirante a Cadete | 2 |
+|34    | Luis Sobrino Fdz.     | Aspirante a Cadete | 2 |
+|35    | Jorge Turiel          | Aspirante a Cadete | 2 |
+|36    | Jokin Lacalle         | Aspirante a Cadete | 2 |
+|37    | Jordi Bardají         | Aspirante a Cadete | 2 |
+|38    | Javi (@JavimJavi)     | Aspirante a Cadete | 2 |
+|39    | Diego Lorenzo Balbis  | Aspirante a Cadete | 2 |
+|40    | Sergio Arciénaga      | Aspirante a Cadete | 2 |
+|41    | Dmayoraru             | Aspirante a Cadete | 2 |
+|42    | César García (@elsatch) | Aspirante a Cadete | 2 |
+|43    | Javier Liras            | Aspirante a Cadete | 2 |
+|44    | Gerardo Gómez           | Aspirante a Cadete | 2 |
+|45    | BV9                     | Aspirante a Cadete | 2 |
+|46    | Rubén Quintas           | Aspirante a Cadete | 2 |
+|47    | Goyo Regalado           | Aspirante a Cadete | 2 |
+|48    | Apolonio García         | Aspirante a Cadete | 2 |
+|49    | Pablo Rubio Maker3D     | Aspirante a Cadete | 2 |
+
+
 
 
 ## Listado de Rangos
