@@ -18,7 +18,7 @@ La herramienta que vamos a utilizar para **sintetizar** nuestros circuitos es [I
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/logo-icestudio.png)
 
-## Paso 1: Descarga de Icestudio / Instalador
+### Paso 1: Descarga de Icestudio / Instalador
 
 Icestudio es una aplicación **libre**, creada en [node.js](https://nodejs.org/es/) por [Jesús Arroyo](https://github.com/Jesus89). Se encuentra alojado en [esta página de github](https://github.com/FPGAwars/icestudio)
 
