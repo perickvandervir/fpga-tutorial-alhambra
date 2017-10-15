@@ -52,7 +52,7 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 |27    | Sergio Arciénaga      | Aspirante a Cadete | 2 |
 |28    | Dmayoraru             | Aspirante a Cadete | 2 |
 |29    | César García (@elsatch) | Aspirante a Cadete | 2 |
-
+|30    | Javier Liras            | Aspirante a Cadete | 2 |
 
 
 ## Listado de Rangos
