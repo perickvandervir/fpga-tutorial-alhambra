@@ -20,6 +20,12 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 
 ### En primer curso
 
+Personas que ya han accedido a la academia de Hardware Jedi, y que están en primer curso
+
+|Num  | Nombe   | Rango  | BitPoints |
+|-----|---------|--------|-----------|
+|     |         |        |           |
+
 ### En la pre-academia
 
 **Aspirantes** a entrar en la academia de Jedi de hardware. Número de **Bitpoints** requeridos para el ingreso: **5**
