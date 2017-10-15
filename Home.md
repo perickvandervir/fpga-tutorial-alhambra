@@ -79,3 +79,13 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | **Caballero Jedi** |  |
 | ... |  |
 
+## Autor
+
+* [Juan González-Gómez](https://github.com/Obijuan) (Obijuan)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/logos-urjc-gsyc-peloto-jderobot.png)
+
+## Licencia
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/attribution-share-alike-creative-commons-license.png)
+
