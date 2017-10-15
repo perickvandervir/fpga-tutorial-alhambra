@@ -14,7 +14,7 @@ La herramienta que vamos a utilizar para **sintetizar** nuestros circuitos es [I
 
 ## Paso 1: Descarga de Icestudio / Instalador
 
-Icestudio es una aplicación libre, creada en [node.js](https://nodejs.org/es/) por [Jesús Arroyo](https://github.com/Jesus89)
+Icestudio es una aplicación **libre**, creada en [node.js](https://nodejs.org/es/) por [Jesús Arroyo](https://github.com/Jesus89)
 
 TODO
 
