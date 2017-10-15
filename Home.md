@@ -44,27 +44,27 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |12    | Ricardo Rodrigues     | Aspirante a Cadete | 4 |
 |13    | Jose Luis (@movilujo) | Aspirante a Cadete | 4 |
 |14    | Javier Muñoz          | Aspirante a Cadete | 4 |
-|15    | Federico Coca         | Aspirante a Cadete | 2 |
-|16    | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
-|17    | Unai Sanz             | Aspirante a Cadete | 2 |
-|18    | Juan G. Maker         | Aspirante a Cadete | 2 |
-|19    | Javi (@Seat_128)      | Aspirante a Cadete | 2 |
-|20    | Andrés (@Avarez_)     | Aspirante a Cadete | 2 |
-|21    | Luis Sobrino Fdz.     | Aspirante a Cadete | 2 |
-|22    | Jordi R. Crespo       | Aspirante a Cadete | 2 |
-|23    | Jorge Turiel          | Aspirante a Cadete | 2 |
-|24    | Jokin Lacalle         | Aspirante a Cadete | 2 |
-|25    | Jordi Bardají         | Aspirante a Cadete | 2 |
-|26    | Javi (@JavimJavi)     | Aspirante a Cadete | 2 |
-|27    | Diego Lorenzo Balbis  | Aspirante a Cadete | 2 |
-|28    | Javier Solsona        | Aspirante a Cadete | 2 |
-|29    | Sergio Arciénaga      | Aspirante a Cadete | 2 |
-|30    | Dmayoraru             | Aspirante a Cadete | 2 |
-|31    | César García (@elsatch) | Aspirante a Cadete | 2 |
-|32    | Javier Liras            | Aspirante a Cadete | 2 |
-|33    | Gerardo Gómez           | Aspirante a Cadete | 2 |
-|34    | Ximo Catala             | Aspirante a Cadete | 2 |
-|35    | Jose López              | Aspirante a Cadete | 2 |
+|15    | Jose López            | Aspirante a Cadete | 4 |
+|16    | Federico Coca         | Aspirante a Cadete | 2 |
+|17    | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
+|18    | Unai Sanz             | Aspirante a Cadete | 2 |
+|19    | Juan G. Maker         | Aspirante a Cadete | 2 |
+|20    | Javi (@Seat_128)      | Aspirante a Cadete | 2 |
+|21    | Andrés (@Avarez_)     | Aspirante a Cadete | 2 |
+|22    | Luis Sobrino Fdz.     | Aspirante a Cadete | 2 |
+|23    | Jordi R. Crespo       | Aspirante a Cadete | 2 |
+|24    | Jorge Turiel          | Aspirante a Cadete | 2 |
+|25    | Jokin Lacalle         | Aspirante a Cadete | 2 |
+|26    | Jordi Bardají         | Aspirante a Cadete | 2 |
+|27    | Javi (@JavimJavi)     | Aspirante a Cadete | 2 |
+|28    | Diego Lorenzo Balbis  | Aspirante a Cadete | 2 |
+|29    | Javier Solsona        | Aspirante a Cadete | 2 |
+|30    | Sergio Arciénaga      | Aspirante a Cadete | 2 |
+|31    | Dmayoraru             | Aspirante a Cadete | 2 |
+|32    | César García (@elsatch) | Aspirante a Cadete | 2 |
+|33    | Javier Liras            | Aspirante a Cadete | 2 |
+|34    | Gerardo Gómez           | Aspirante a Cadete | 2 |
+|35    | Ximo Catala             | Aspirante a Cadete | 2 |
 |36    | BV9                     | Aspirante a Cadete | 2 |
 
 
