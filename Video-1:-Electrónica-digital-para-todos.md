@@ -228,6 +228,8 @@ Los tres primeros en entregar los ejercicios 1 y 2 han sido:
 * **Eladio Delgado**, es el diseñador de la placa IceZum Alhambra. Y el encargado de la gestión de la fabricación de la placa. Todo lo dirige desde su Rural Workshop en [Pinos del Valle](https://es.wikipedia.org/wiki/Pinos_del_Valle) (Granada) ¡Muchas gracias!
 * **Andrés Prieto-Moreno**, es mi Maestro Jedi, y me ha enseñado todo lo que yo sé ahora ¡Muchas gracias!. Además, es el creador de [AlhambraBits](https://alhambrabits.com/) y el mecenas que ha financiado las Icezum Alhambras, para que todos podamos disponer de ellas. ¡Muchas gracias!
 * [Jesús Arroyo](https://github.com/Jesus89) es el creador de [Icestudio](https://github.com/FPGAwars/icestudio) y su desarrollador principal. Gracias a su talento está consiguiendo que cientos de personas puedan acceder al desarrollo de circuitos digitales, de una forma muy sencilla. ¡Muchas gracias!
+* Juanillo pillo (Logo fpgawars)
+* Julian Caro (corrección erratas)
 
 ## Enlaces
 
@@ -238,4 +240,4 @@ Los tres primeros en entregar los ejercicios 1 y 2 han sido:
 * [Tarjeta Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki)
 * [AlhambraBits](https://alhambrabits.com/)
 * [Icestudio](https://github.com/FPGAwars/icestudio)
-
+* [Circuit Scramble](https://play.google.com/store/apps/details?id=com.Suborbital.CircuitScramble&hl=es_419). Juego adictivo sobre electrónica digital, para móviles y tablets android
