@@ -10,9 +10,13 @@ TODO
 
 ## Instalación de Icestudio
 
-
+La herramienta que vamos a utilizar para sintetizar nuestros circuitos es [Icestudio](https://github.com/FPGAwars/icestudio), . Tenemos que instalarlo y configurarlo
 
 ## Paso 1: Descarga de Icestudio / Instalador
+
+Icestudio es una aplicación libre, creada con node.js por [Jesús Arroyo](https://github.com/Jesus89)
+
+TODO
 
 ## Explicación
 
