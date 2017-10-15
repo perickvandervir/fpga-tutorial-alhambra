@@ -72,6 +72,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |40    | Apolonio García         | Aspirante a Cadete | 2 |
 |41    | Pablo Rubio Maker3D     | Aspirante a Cadete | 2 |
 |42    | G4lile0                 | Aspirante a Cadete | 2 |
+|43    | Manuel Leobot           | Aspirante a Cadete | 2 |
 
 
 ## Listado de Rangos
