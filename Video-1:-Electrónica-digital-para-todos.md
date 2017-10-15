@@ -221,12 +221,13 @@ Los tres primeros en entregar los ejercicios 1 y 2 han sido:
 
 ## Créditos y agradecimientos
 
-* A [Arduino](https://www.arduino.cc/), por las fotos usadas, y como reconocimiento a la increible labor que han realizado en la popularización del **hardware libre**, y del acercamiento de las nuevas tecnologías a personas con perfil menos técnico. Ha hecho una **democratización** de la programación de microcontroladores, a gran escala ¡Gracias!
+* A [Arduino](https://www.arduino.cc/), por las fotos usadas, y como reconocimiento a la increible labor que han realizado en la popularización del **hardware libre**, y del acercamiento de las nuevas tecnologías a personas con perfil menos técnico. Ha hecho una **democratización** de la programación de microcontroladores, a gran escala. La placa Icezum Alhambra es un diseño derivado del Arduino uno ¡Gracias!
+* [Project 54/74](https://project5474.org/index.php?title=Main_Page). Por las fotos del interior de los chips. ¡Gracias1
 
 ## Enlaces
 
 * [Arduino](https://www.arduino.cc/)
-* 
+* [Project 54/74](https://project5474.org/index.php?title=Main_Page). Documentacion de la serie de circuitos integrados 54/74, mediante ingeniería inversa
 
 
 
