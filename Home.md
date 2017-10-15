@@ -14,8 +14,6 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | 4 | Todo ... |
 |...|...|
 
-
-----------------------------------------------------
 ## Academia Jedi de hardware
 
 ### En primer curso
