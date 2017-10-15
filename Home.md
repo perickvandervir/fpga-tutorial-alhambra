@@ -15,6 +15,12 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 ----------------------------------------------------
 ## Academia Jedi de hardware
 
+### En primer curso
+
+### En la pre-academia
+
+**Aspirantes** a entrar en la academia de Jedi de hardware. Número de **Bitpoints** requeridos para el ingreso: **5**
+
 |  Nombre               |  Rango             |  BitPoints |
 |-----------------------|--------------------|------------|
 | Julian Caro           | Aspirante a Cadete | 4 |
@@ -23,6 +29,7 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | Juanillo Pillo        | Aspirante a Cadete | 4 |
 | Alberto Valero        | Aspirante a Cadete | 4 |
 | Loquox                | Aspirante a Cadete | 4 |
+| Jaime Laborda         | Aspirante a Cadete | 4 |
 | Federico Coca         | Aspirante a Cadete | 2 |
 | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
 | Unai Sanz             | Aspirante a Cadete | 2 |
@@ -37,7 +44,6 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | Jokin Lacalle         | Aspirante a Cadete | 2 |
 | Jordi Bardají         | Aspirante a Cadete | 2 |
 | Javi (@JavimJavi)     | Aspirante a Cadete | 2 |
-| Jaime Laborda         | Aspirante a Cadete | 2 |
 | Diego Lorenzo Balbis  | Aspirante a Cadete | 2 |
 | Javier Solsona        | Aspirante a Cadete | 2 |
 | Sergio Arciénaga      | Aspirante a Cadete | 2 |
