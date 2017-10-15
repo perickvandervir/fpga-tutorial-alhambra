@@ -30,19 +30,19 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 |5     | Alberto Valero        | Aspirante a Cadete | 4 |
 |6     | Loquox                | Aspirante a Cadete | 4 |
 |7     | Jaime Laborda         | Aspirante a Cadete | 4 |
-| Miquel Servera        | Aspirante a Cadete | 4 |
-| Manuel Andújar        | Aspirante a Cadete | 4 |
-| Federico Coca         | Aspirante a Cadete | 2 |
-| Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
-| Unai Sanz             | Aspirante a Cadete | 2 |
-| Juan G. Maker         | Aspirante a Cadete | 2 |
-| Javi (@Seat_128)      | Aspirante a Cadete | 2 |
-| Andrés (@Avarez_)     | Aspirante a Cadete | 2 |
-| Jose Luis (@movilujo) | Aspirante a Cadete | 2 |
-| Luis Sobrino Fdz.     | Aspirante a Cadete | 2 |
-| Jordi R. Crespo       | Aspirante a Cadete | 2 |
-| Jorge Turiel          | Aspirante a Cadete | 2 |
-| Jokin Lacalle         | Aspirante a Cadete | 2 |
+|8     | Miquel Servera        | Aspirante a Cadete | 4 |
+|9     | Manuel Andújar        | Aspirante a Cadete | 4 |
+|10    | Federico Coca         | Aspirante a Cadete | 2 |
+|11    | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
+|12    | Unai Sanz             | Aspirante a Cadete | 2 |
+|13    | Juan G. Maker         | Aspirante a Cadete | 2 |
+|14    | Javi (@Seat_128)      | Aspirante a Cadete | 2 |
+|15    | Andrés (@Avarez_)     | Aspirante a Cadete | 2 |
+|16    | Jose Luis (@movilujo) | Aspirante a Cadete | 2 |
+|17    | Luis Sobrino Fdz.     | Aspirante a Cadete | 2 |
+|18    | Jordi R. Crespo       | Aspirante a Cadete | 2 |
+|19    | Jorge Turiel          | Aspirante a Cadete | 2 |
+|20    | Jokin Lacalle         | Aspirante a Cadete | 2 |
 | Jordi Bardají         | Aspirante a Cadete | 2 |
 | Javi (@JavimJavi)     | Aspirante a Cadete | 2 |
 | Diego Lorenzo Balbis  | Aspirante a Cadete | 2 |
