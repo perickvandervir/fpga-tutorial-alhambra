@@ -39,6 +39,10 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | Javi (@JavimJavi)     | Aspirante a Cadete | 2 |
 | Jaime Laborda         | Aspirante a Cadete | 2 |
 | Diego Lorenzo Balbis  | Aspirante a Cadete | 2 |
+| Javier Solsona        | Aspirante a Cadete | 2 |
+| Sergio Arciénaga      | Aspirante a Cadete | 2 |
+| Dmayoraru             | Aspirante a Cadete | 2 |
+| César García (@elsatch) | Aspirante a Cadete | 2 |
 
 
 
