@@ -67,6 +67,10 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |35    | Javier Liras            | Aspirante a Cadete | 2 |
 |36    | Gerardo Gómez           | Aspirante a Cadete | 2 |
 |37    | BV9                     | Aspirante a Cadete | 2 |
+|38    | Rubén Quintas           | Aspirante a Cadete | 2 |
+|39    | Goyo Regalado           | Aspirante a Cadete | 2 |
+|40    | Apolonio García         | Aspirante a Cadete | 2 |
+|41    | Pablo Rubio Maker3D     | Aspirante a Cadete | 2 |
 
 
 ## Listado de Rangos
