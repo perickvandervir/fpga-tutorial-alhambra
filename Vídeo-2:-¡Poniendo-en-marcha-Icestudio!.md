@@ -8,6 +8,10 @@ TODO
 
 TODO
 
+## Contenido
+
+TODO
+
 ## Instalación de Icestudio
 
 La herramienta que vamos a utilizar para **sintetizar** nuestros circuitos es [Icestudio](https://github.com/FPGAwars/icestudio). Tenemos que instalarlo y configurarlo
