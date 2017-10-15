@@ -45,14 +45,14 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |13    | Jose Luis (@movilujo) | Aspirante a Cadete | 4 |
 |14    | Javier Muñoz          | Aspirante a Cadete | 4 |
 |15    | Jose López            | Aspirante a Cadete | 4 |
-|16    | Federico Coca         | Aspirante a Cadete | 2 |
-|17    | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
-|18    | Unai Sanz             | Aspirante a Cadete | 2 |
-|19    | Juan G. Maker         | Aspirante a Cadete | 2 |
-|20    | Javi (@Seat_128)      | Aspirante a Cadete | 2 |
-|21    | Andrés (@Avarez_)     | Aspirante a Cadete | 2 |
-|22    | Luis Sobrino Fdz.     | Aspirante a Cadete | 2 |
-|23    | Jordi R. Crespo       | Aspirante a Cadete | 2 |
+|16    | Jordi R. Crespo       | Aspirante a Cadete | 4 |
+|17    | Federico Coca         | Aspirante a Cadete | 2 |
+|18    | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
+|19    | Unai Sanz             | Aspirante a Cadete | 2 |
+|20    | Juan G. Maker         | Aspirante a Cadete | 2 |
+|21    | Javi (@Seat_128)      | Aspirante a Cadete | 2 |
+|22    | Andrés (@Avarez_)     | Aspirante a Cadete | 2 |
+|23    | Luis Sobrino Fdz.     | Aspirante a Cadete | 2 |
 |24    | Jorge Turiel          | Aspirante a Cadete | 2 |
 |25    | Jokin Lacalle         | Aspirante a Cadete | 2 |
 |26    | Jordi Bardají         | Aspirante a Cadete | 2 |
