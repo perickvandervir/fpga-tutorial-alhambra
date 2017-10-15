@@ -34,25 +34,27 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 |9     | Manuel Andújar        | Aspirante a Cadete | 4 |
 |10    | OskarLM               | Aspirante a Cadete | 4 |
 |11    | Lobotic               | Aspirante a Cadete | 4 |
-|12    | Federico Coca         | Aspirante a Cadete | 2 |
-|13    | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
-|14    | Unai Sanz             | Aspirante a Cadete | 2 |
-|15    | Juan G. Maker         | Aspirante a Cadete | 2 |
-|16    | Javi (@Seat_128)      | Aspirante a Cadete | 2 |
-|17    | Andrés (@Avarez_)     | Aspirante a Cadete | 2 |
-|18    | Jose Luis (@movilujo) | Aspirante a Cadete | 2 |
-|19    | Luis Sobrino Fdz.     | Aspirante a Cadete | 2 |
-|20    | Jordi R. Crespo       | Aspirante a Cadete | 2 |
-|21    | Jorge Turiel          | Aspirante a Cadete | 2 |
-|22    | Jokin Lacalle         | Aspirante a Cadete | 2 |
-|23    | Jordi Bardají         | Aspirante a Cadete | 2 |
-|24    | Javi (@JavimJavi)     | Aspirante a Cadete | 2 |
-|25    | Diego Lorenzo Balbis  | Aspirante a Cadete | 2 |
-|26    | Javier Solsona        | Aspirante a Cadete | 2 |
-|27    | Sergio Arciénaga      | Aspirante a Cadete | 2 |
-|28    | Dmayoraru             | Aspirante a Cadete | 2 |
-|29    | César García (@elsatch) | Aspirante a Cadete | 2 |
-|30    | Javier Liras            | Aspirante a Cadete | 2 |
+|12    | Ricardo Rodrigues     | Aspirante a Cadete | 4 |
+|13    | Jose Luis (@movilujo) | Aspirante a Cadete | 4 |
+|14    | Javier Muñoz          | Aspirante a Cadete | 4 |
+|15    | Federico Coca         | Aspirante a Cadete | 2 |
+|16    | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
+|17    | Unai Sanz             | Aspirante a Cadete | 2 |
+|18    | Juan G. Maker         | Aspirante a Cadete | 2 |
+|19    | Javi (@Seat_128)      | Aspirante a Cadete | 2 |
+|20    | Andrés (@Avarez_)     | Aspirante a Cadete | 2 |
+|21    | Luis Sobrino Fdz.     | Aspirante a Cadete | 2 |
+|22    | Jordi R. Crespo       | Aspirante a Cadete | 2 |
+|23    | Jorge Turiel          | Aspirante a Cadete | 2 |
+|24    | Jokin Lacalle         | Aspirante a Cadete | 2 |
+|25    | Jordi Bardají         | Aspirante a Cadete | 2 |
+|26    | Javi (@JavimJavi)     | Aspirante a Cadete | 2 |
+|27    | Diego Lorenzo Balbis  | Aspirante a Cadete | 2 |
+|28    | Javier Solsona        | Aspirante a Cadete | 2 |
+|29    | Sergio Arciénaga      | Aspirante a Cadete | 2 |
+|30    | Dmayoraru             | Aspirante a Cadete | 2 |
+|31    | César García (@elsatch) | Aspirante a Cadete | 2 |
+|32    | Javier Liras            | Aspirante a Cadete | 2 |
 
 
 ## Listado de Rangos
