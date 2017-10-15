@@ -213,6 +213,8 @@ Los tres primeros en entregar los ejercicios 1 y 2 han sido:
 
 * [Juan González-Gómez](https://github.com/Obijuan) (Obijuan)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/logos-urjc-gsyc-peloto-jderobot.png)
+
 ## Licencia
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/attribution-share-alike-creative-commons-license.png)
