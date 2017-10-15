@@ -223,13 +223,15 @@ Los tres primeros en entregar los ejercicios 1 y 2 han sido:
 
 * A [Arduino](https://www.arduino.cc/), por las fotos usadas, y como reconocimiento a la increible labor que han realizado en la popularización del **hardware libre**, y del acercamiento de las nuevas tecnologías a personas con perfil menos técnico. Ha hecho una **democratización** de la programación de microcontroladores, a gran escala. La placa Icezum Alhambra es un diseño derivado del Arduino uno ¡Gracias!
 * [Project 54/74](https://project5474.org/index.php?title=Main_Page). Por las fotos del interior de los chips. ¡Gracias!
-* **Eladio Delgado**, es el diseñador de la placa IceZum Alhambra. ¡Muchas gracias!
+* **Eladio Delgado**, es el diseñador de la placa IceZum Alhambra. Y el encargado de la gestión de la fabricación de la placa. Todo lo dirige desde su Rural Workshop en [Pinos del Valle](https://es.wikipedia.org/wiki/Pinos_del_Valle) (Granada) ¡Muchas gracias!
+* **Andrés Prieto-Moreno**, es mi Maestro Jedi, y me ha enseñado todo lo que yo sé ahora ¡Muchas gracias!. Además, es el creador de [AlhambraBits](https://alhambrabits.com/) y el mecenas que ha financiado las Icezum Alhambras, para que todos podamos disponer de ellas. ¡Muchas gracias!
 
 ## Enlaces
 
 * [Arduino](https://www.arduino.cc/)
 * [Project 54/74](https://project5474.org/index.php?title=Main_Page). Documentacion de la serie de circuitos integrados 54/74, mediante ingeniería inversa
 * [FPGAwars](http://fpgawars.github.io/): Explorando el lado libre de las FPGAs
-
+* [Tarjeta Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki)
+* [AlhambraBits](https://alhambrabits.com/)
 
 
