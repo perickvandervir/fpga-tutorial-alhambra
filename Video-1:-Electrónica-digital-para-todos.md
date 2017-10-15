@@ -219,9 +219,14 @@ Los tres primeros en entregar los ejercicios 1 y 2 han sido:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/attribution-share-alike-creative-commons-license.png)
 
+## Créditos y agradecimientos
+
+* A [Arduino](https://www.arduino.cc/), por las fotos usadas, y como reconocimiento a la increible labor que han realizado en la popularización del **hardware libre**, y del acercamiento de las nuevas tecnologías a personas con perfil menos técnico. Ha hecho una **democratización** de la programación de microcontroladores, a gran escala ¡Gracias!
+
 ## Enlaces
 
-TODO
+* [Arduino](https://www.arduino.cc/)
+* 
 
 
 
