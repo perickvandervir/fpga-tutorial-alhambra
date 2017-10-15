@@ -64,7 +64,8 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |32    | Javier Liras            | Aspirante a Cadete | 2 |
 |33    | Gerardo Gómez           | Aspirante a Cadete | 2 |
 |34    | Ximo Catala             | Aspirante a Cadete | 2 |
-
+|35    | Jose López              | Aspirante a Cadete | 2 |
+|36    | BV9                     | Aspirante a Cadete | 2 |
 
 
 ## Listado de Rangos
