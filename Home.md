@@ -55,6 +55,7 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 |30    | Dmayoraru             | Aspirante a Cadete | 2 |
 |31    | César García (@elsatch) | Aspirante a Cadete | 2 |
 |32    | Javier Liras            | Aspirante a Cadete | 2 |
+|33    | Gerardo Gómez           | Aspirante a Cadete | 2 |
 
 
 ## Listado de Rangos
