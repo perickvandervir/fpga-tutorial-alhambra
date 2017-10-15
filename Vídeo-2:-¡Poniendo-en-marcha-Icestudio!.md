@@ -2,9 +2,15 @@
 
 Haz click en la imagen para ver el **vídeo en Youtube**
 
+TODO
+
 ## Descripción
 
+TODO
+
 ## Instalación de Icestudio
+
+
 
 ## Paso 1: Descarga de Icestudio / Instalador
 
