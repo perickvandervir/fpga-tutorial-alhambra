@@ -20,6 +20,14 @@ Icestudio es una aplicación **libre**, creada en [node.js](https://nodejs.org/e
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-01.png)
 
+Pinchamos en la pestaña de la parte superior, donde pone **Releases**
+
+(Foto)
+
+y nos aparecen todas las versiones de Icestudio que hay liberadas hasta el momento
+
+(Pantallazo de la release 0.3.1...cuando esté)
+
 (En construcción...)
 
 ## Ejercicios propuestos
