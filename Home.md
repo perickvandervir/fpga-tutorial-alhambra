@@ -79,6 +79,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |47    | Goyo Regalado           | Aspirante a Cadete | 2 |
 |48    | Apolonio García         | Aspirante a Cadete | 2 |
 |49    | Pablo Rubio Maker3D     | Aspirante a Cadete | 2 |
+|50    | Cole                    | Aspirante a Cadete | 2 |
 
 
 
