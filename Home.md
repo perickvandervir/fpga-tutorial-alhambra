@@ -83,6 +83,10 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |51    | Goyo Regalado           | Aspirante a Cadete | 2 |
 |52    | Apolonio García         | Aspirante a Cadete | 2 |
 |53    | Pablo Rubio Maker3D     | Aspirante a Cadete | 2 |
+|54    | Alejandro Alameda       | Aspirante a Cadete | 2 |
+|55    | Loly López              | Aspirante a Cadete | 2 |
+|56    | Joaquín Cubillo         | Aspirante a Cadete | 2 |
+
 
 
 
