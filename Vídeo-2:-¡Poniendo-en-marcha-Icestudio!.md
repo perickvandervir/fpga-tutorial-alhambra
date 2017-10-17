@@ -36,6 +36,13 @@ Nos desplazamos hacia abajo hasta llegar a la **zona de Descargas**, donde está
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-04.png)
 
+En los ordenadores actuales, lo normal es que sean de **64 bits**. Según nuestro sistema operativo descargamos alguno de los siguientes ficheros:
+
+|  Fichero a descargar  | Plataforma         | Descripción         |
+|-----------------------|--------------------|---------------------|
+|  [icestudio-0.3.1-rc-linux64.AppImage](https://github.com/FPGAwars/icestudio/releases/download/0.3.1-rc/icestudio-0.3.1-rc-linux64.AppImage)                 | GNU/Linux, 64-bits | Appimage ejecutable |
+
+
 (En construcción...)
 
 ## Ejercicios propuestos
