@@ -52,7 +52,21 @@ Si lo que tenemos es un ordenador de **32 bits**, nos descargamos estos ficheros
 | [icestudio-0.3.1-rc-win32.exe](https://github.com/FPGAwars/icestudio/releases/download/0.3.1-rc/icestudio-0.3.1-rc-win32.exe) | Windows 10, 8, 7, 32-bits | Instalador (Archivo ejecutable) |
 | [cestudio-0.3.1-rc-osx32.zip](https://github.com/FPGAwars/icestudio/releases/download/0.3.1-rc/icestudio-0.3.1-rc-osx32.zip) | Instalador para mac | Mac OSX-32 bits | Instalador para mac |
 
-(En construcción...)
+## Paso 2: Ejecutar el instalador
+
+Esta operación depende de nuestra plataforma
+
+### GNU/Linux
+
+TODO
+
+### Windows
+
+TODO
+
+### Mac
+
+TODO
 
 # Ejercicios propuestos
 
