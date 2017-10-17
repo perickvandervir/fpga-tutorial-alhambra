@@ -67,28 +67,28 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |35    | Andrés (@Avarez_)     | Aspirante a Cadete | 4 |
 |36    | J0s3b4                | Aspirante a Cadete | 4 |
 |37    | Biober                | Aspirate a Cadete  | 4 |
-|36    | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
-|37    | Unai Sanz             | Aspirante a Cadete | 2 |
-|38    | Juan G. Maker         | Aspirante a Cadete | 2 |
-|39    | Javi (@Seat_128)      | Aspirante a Cadete | 2 |
-|40    | Luis Sobrino Fdz.     | Aspirante a Cadete | 2 |
-|41    | Jorge Turiel          | Aspirante a Cadete | 2 |
-|42    | Jokin Lacalle         | Aspirante a Cadete | 2 |
-|43    | Jordi Bardají         | Aspirante a Cadete | 2 |
-|44    | Javi (@JavimJavi)     | Aspirante a Cadete | 2 |
-|45    | Diego Lorenzo Balbis  | Aspirante a Cadete | 2 |
-|46    | Sergio Arciénaga      | Aspirante a Cadete | 2 |
-|47    | Dmayoraru             | Aspirante a Cadete | 2 |
-|48    | César García (@elsatch) | Aspirante a Cadete | 2 |
-|49    | Javier Liras            | Aspirante a Cadete | 2 |
-|50    | Gerardo Gómez           | Aspirante a Cadete | 2 |
-|51    | Rubén Quintas           | Aspirante a Cadete | 2 |
-|52    | Goyo Regalado           | Aspirante a Cadete | 2 |
-|53    | Apolonio García         | Aspirante a Cadete | 2 |
-|54    | Pablo Rubio Maker3D     | Aspirante a Cadete | 2 |
-|55    | Alejandro Alameda       | Aspirante a Cadete | 2 |
-|56    | Loly López              | Aspirante a Cadete | 2 |
-|57    | Alberto Rf              | Aspirante a Cadete | 2 |
+|38    | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
+|39    | Unai Sanz             | Aspirante a Cadete | 2 |
+|40    | Juan G. Maker         | Aspirante a Cadete | 2 |
+|41    | Javi (@Seat_128)      | Aspirante a Cadete | 2 |
+|42    | Luis Sobrino Fdz.     | Aspirante a Cadete | 2 |
+|43    | Jorge Turiel          | Aspirante a Cadete | 2 |
+|44    | Jokin Lacalle         | Aspirante a Cadete | 2 |
+|45    | Jordi Bardají         | Aspirante a Cadete | 2 |
+|46    | Javi (@JavimJavi)     | Aspirante a Cadete | 2 |
+|47    | Diego Lorenzo Balbis  | Aspirante a Cadete | 2 |
+|48    | Sergio Arciénaga      | Aspirante a Cadete | 2 |
+|49    | Dmayoraru             | Aspirante a Cadete | 2 |
+|50    | César García (@elsatch) | Aspirante a Cadete | 2 |
+|51    | Javier Liras            | Aspirante a Cadete | 2 |
+|52    | Gerardo Gómez           | Aspirante a Cadete | 2 |
+|53    | Rubén Quintas           | Aspirante a Cadete | 2 |
+|54    | Goyo Regalado           | Aspirante a Cadete | 2 |
+|55    | Apolonio García         | Aspirante a Cadete | 2 |
+|56    | Pablo Rubio Maker3D     | Aspirante a Cadete | 2 |
+|57    | Alejandro Alameda       | Aspirante a Cadete | 2 |
+|58    | Loly López              | Aspirante a Cadete | 2 |
+|59    | Alberto Rf              | Aspirante a Cadete | 2 |
 
 ## Listado de Rangos
 
