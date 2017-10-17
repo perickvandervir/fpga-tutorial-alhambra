@@ -41,7 +41,8 @@ En los ordenadores actuales, lo normal es que sean de **64 bits**. Según nuestr
 |  Fichero a descargar  | Plataforma         | Descripción         |
 |-----------------------|--------------------|---------------------|
 |  [icestudio-0.3.1-rc-linux64.AppImage](https://github.com/FPGAwars/icestudio/releases/download/0.3.1-rc/icestudio-0.3.1-rc-linux64.AppImage)                 | GNU/Linux, 64-bits | Appimage ejecutable |
-|  [icestudio-0.3.1-rc-win64.exe](https://github.com/FPGAwars/icestudio/releases/download/0.3.1-rc/icestudio-0.3.1-rc-win64.exe) | Windows 10, 8, 7 | Instalador (Archivo ejecutable) |
+|  [icestudio-0.3.1-rc-win64.exe](https://github.com/FPGAwars/icestudio/releases/download/0.3.1-rc/icestudio-0.3.1-rc-win64.exe) | Windows 10, 8, 7, 64 bits | Instalador (Archivo ejecutable) |
+| [](https://github.com/FPGAwars/icestudio/releases/download/0.3.1-rc/icestudio-0.3.1-rc-osx64.dmg) | Mac OSX-64 | Instalador para mac |
 
 (En construcción...)
 
