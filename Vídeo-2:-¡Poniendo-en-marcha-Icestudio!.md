@@ -4,21 +4,21 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 TODO
 
-## Descripción
+# Descripción
 
 TODO
 
-## Contenido
+# Contenido
 
 TODO
 
-## Instalación de Icestudio
+# Instalación de Icestudio
 
 La herramienta que vamos a utilizar para **sintetizar** nuestros circuitos es [Icestudio](https://github.com/FPGAwars/icestudio). Tenemos que instalarlo y configurarlo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/logo-icestudio.png)
 
-### Paso 1: Descarga del Instalador de Icestudio
+## Paso 1: Descarga del Instalador de Icestudio
 
 Icestudio es una aplicación **libre**, creada en [node.js](https://nodejs.org/es/) por [Jesús Arroyo](https://github.com/Jesus89). Se encuentra alojado en [esta página de github](https://github.com/FPGAwars/icestudio)
 
@@ -54,7 +54,7 @@ Si lo que tenemos es un ordenador de **32 bits**, nos descargamos estos ficheros
 
 (En construcción...)
 
-## Ejercicios propuestos
+# Ejercicios propuestos
 
 * **Ejercicio 1**: 
 
@@ -62,26 +62,26 @@ Si lo que tenemos es un ordenador de **32 bits**, nos descargamos estos ficheros
 
 * **Ejercicio 3**: 
 
-## Ejercicios entregados
+# Ejercicios entregados
 
-## Autor
+# Autor
 
 * [Juan González-Gómez](https://github.com/Obijuan) (Obijuan)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/logos-urjc-gsyc-peloto-jderobot.png)
 
-## Licencia
+# Licencia
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/attribution-share-alike-creative-commons-license.png)
 
-## Créditos y agradecimientos
+# Créditos y agradecimientos
 
 
 
-## Enlaces
+# Enlaces
 
 
-## FAQs
+# FAQs
 
 
 
