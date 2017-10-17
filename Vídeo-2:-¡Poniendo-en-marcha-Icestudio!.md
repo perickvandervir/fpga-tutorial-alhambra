@@ -32,6 +32,10 @@ y nos aparecen todas las **versiones de Icestudio** que hay liberadas hasta el m
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-03.png)
 
+Nos desplazamos hacia abajo hasta llegar a la **zona de Descargas**, donde están los paquetes de Icestudio para los diferentes sistemas operativos
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-04.png)
+
 (En construcción...)
 
 ## Ejercicios propuestos
