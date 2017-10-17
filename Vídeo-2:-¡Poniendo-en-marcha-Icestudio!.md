@@ -58,7 +58,40 @@ Esta operación depende de nuestra plataforma
 
 ### GNU/Linux
 
-TODO
+Antes de arrancar Icestudio debemos instalar sus dependencias: **python2.7** y **xclip**. Para el caso de **Ubuntu**, abrimos un terminal y escribrimos lo siguiente:
+
+```
+sudo apt-get install python2.7 xclip
+```
+
+Ahora sólo tenemos que ir la carpeta donde hemos descargado el instalador, desde el **navegador de archivos**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-linux-01.png)
+
+Nos ponemos encima del archivo y le damos al **botón derecho** de ratón
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-linux-02.png)
+
+Pinchamos en **propiedades**. Se nos abre una ventana nueva
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-linux-03.png)
+
+Pinchamos en la pestaña **Permisos**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-linux-04.png)
+
+y **activamos** la casilla que pone **Permitir la ejecución del programa**
+
+Cerramos la ventana y hacemos **doble click** en el instalador. Se nos abrirá directamente Icestudio
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-linux-05.png)
+
+Los **usuarios avanzados** lo harán directamente con estos comandos:
+
+```
+chmod +x icestudio-0.3.1-rc-linux64.AppImage
+./icestudio-0.3.1-rc-linux64.AppImage
+```
 
 ### Windows
 
