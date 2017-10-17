@@ -95,6 +95,14 @@ chmod +x icestudio-0.3.1-rc-linux64.AppImage
 
 ### Windows
 
+Mostraremos los pantallazos para **Windows 10**, aunque el proceso es similar para los windows anteriores. Una vez descargado el instalador lo ejecutamos, haciendo doble click en el archivo descargado en el paso 1. Dependiendo de los antivirus que tengamos instalados, podrán salir varias **ventanas de advertencia**:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-01.png)
+
+No les hacemos caso y le damos a **Ejecutar de todas maneras** (Run Anyway). Aún así, nos puede saaltar alguna más
+
+
+
 TODO
 
 ### Mac
