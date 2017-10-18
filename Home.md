@@ -67,6 +67,9 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |35    | Andrés (@Avarez_)     | Aspirante a Cadete | 4 |
 |36    | J0s3b4                | Aspirante a Cadete | 4 |
 |37    | Biober                | Aspirate a Cadete  | 4 |
+|38    | Pablo Perez Ruiz      | Aspirante a Cadete | 4 |
+|39    | Aitor Alejandro       | Aspirante a Cadete | 4 |
+|40    | Salvari               | Aspirante a Cadete | 4 |
 |38    | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
 |39    | Unai Sanz             | Aspirante a Cadete | 2 |
 |40    | Juan G. Maker         | Aspirante a Cadete | 2 |
