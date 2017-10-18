@@ -89,6 +89,8 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |57    | Alejandro Alameda       | Aspirante a Cadete | 2 |
 |58    | Loly López              | Aspirante a Cadete | 2 |
 |59    | Alberto Rf              | Aspirante a Cadete | 2 |
+|60    | Smidth Christian        | Aspirante a Cadete | 2 |
+|61    | Agustín Valero          | Aspirante a Cadete | 2 |
 
 ## Listado de Rangos
 
