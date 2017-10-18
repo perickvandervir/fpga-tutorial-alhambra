@@ -103,7 +103,11 @@ Mostraremos los pantallazos para **Windows 10**, aunque el proceso es similar pa
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-01.png)
 
-No les hacemos caso y le damos a **Ejecutar de todas maneras** (Run Anyway). Aún así, nos puede saaltar alguna más
+No les hacemos caso y le damos a **Ejecutar de todas maneras** (Run Anyway). Aún así, nos puede saltar alguna más:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-02.jpg)
+
+En este caso pinchamos en **Sí**, para indicar que permitimos que el instalador haga cambios
 
 
 
