@@ -109,9 +109,24 @@ No les hacemos caso y le damos a **Ejecutar de todas maneras** (Run Anyway). Aú
 
 En este caso pinchamos en **Sí**, para indicar que permitimos que el instalador haga cambios
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-03.jpg)
 
+Se nos abre el instalador y le damos a **Siguiente**. El instalador detecta automáticamente si tenemos instalado **Python 2.7**. Si no lo está, se procede a su instalación, y luego a la de Icestudio
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-03.jpg)
+
+A continuación indicamos el directorio donde instalador **Icestudio**. En caso de duda usar el que viene por defecto. Pinchamos en **Install**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-05.jpg)
+
+Comienza la instalación. El procesaso durará unos minutos. Una vez acabado nos aparecerá esta pantalla:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-06.jpg)
+
+Pinchamos en **Finalizar**. Hemos acabado la primera parte de la instalación. Se nos abre Icestudio y nos aparecerá una ventana como esta
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-07.jpg)
+
 
 ### Mac
 
