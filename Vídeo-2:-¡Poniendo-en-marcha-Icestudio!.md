@@ -286,6 +286,12 @@ En la parte inferior derecha de icestudio nos aparecerá una notificación para 
 
 Si se quiere usar la placa en otro USB diferente, habrá que volver a instalar el driver en ese USB
 
+## Paso 6: Cargar el circuito "hola mundo"
+
+Ya lo tenemos todo listo. El último paso es comprobar que podemos **cargar** un circuito de ejemplo en la FPGA. **¡Es el momento de la verdad!**. Abrimos el ejemplo "01.Un LED" desde el menú **Archivo/Ejemplos/1.Básico**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-07.png)
+
 -------
 
 (en construcción)
