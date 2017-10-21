@@ -30,7 +30,10 @@ Aprenderemos a **Instalar** la herramienta [Icestudio](https://github.com/FPGAwa
 
 # Sobre Icestudio
 
-TODO
+[Icestudio](https://github.com/FPGAwars/icestudio) es una herramienta para **diseño** y **síntesis** de **circuitos digitales** en **FPGAs libres**, creado por [Jesús Arroyo](https://github.com/Jesus89). Está programada en [nodejs](https://nodejs.org)
+
+
+
 
 # Instalación de Icestudio
 
