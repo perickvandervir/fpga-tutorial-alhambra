@@ -32,8 +32,7 @@ Aprenderemos a **Instalar** la herramienta [Icestudio](https://github.com/FPGAwa
 
 [Icestudio](https://github.com/FPGAwars/icestudio) es una herramienta para **diseño** y **síntesis** de **circuitos digitales** en **FPGAs libres**, creado por [Jesús Arroyo](https://github.com/Jesus89). Está programada en [nodejs](https://nodejs.org)
 
-
-
+Jesús fue el creador también del escáner 3D [Ciclop](https://github.com/LibreScanner/ciclop) y del software de escaneado 3D [Horus](https://github.com/LibreScanner/horus)
 
 # Instalación de Icestudio
 
