@@ -195,6 +195,14 @@ Al terminar, nos aparecerá una **notificación** verde en la parte inferior der
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-linux-10.png)
 
+## Paso 5: Instalar los drivers
+
+En este estado en que estamos, ya podemos **sintetizar circuitos** con Icestudio (se generará el *bitstream*), sin embargo todavía no los podemos descargar en la placa con la FPGA libres. Para hacerlo hay **que habilitar los drivers**
+
+Nos vamos a la opción del menú **Herramientas/Drivers/Habilitar**. Según nuestra plataforma, el proceso de habilitación será diferente
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-linux-11.png)
+
 # Ejercicios propuestos
 
 * **Ejercicio 1**: 
