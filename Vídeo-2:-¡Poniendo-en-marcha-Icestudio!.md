@@ -329,11 +329,13 @@ En la placa veremos cómo el **LED0** está encendido (verde) y el resto apagado
 
 * **Ejercicio 1**: Instalar Icestudio. Abrir el ejemplo **01.LEDON** y sintetizarlo con **Herramientas/Sintetizar**. Aunque no tengáis placa física lo podéis hacer. Enviar el pantallazo en el que aparece la notificación verde de que se ha sintetizado bien por **twitter** o **G+**, con mención a @Obijuan_cube. Valor: **1 BitPoint**
 
-* **Ejercicio 2**: Conectar la placa y cargar el ejemplo **01.LEDON**. Enviar el pantallazo de que la carga se ha realizado correctamente y una foto de la placa con el LED0 encendido, por Twitter o G+. Valor: **2 Bitpoins** (uno por cada pantallazo)
+* **Ejercicio 2**: Conectar la placa y cargar el ejemplo **01.LEDON**. Enviar el pantallazo de que la carga se ha realizado correctamente y una foto de la placa con el LED0 encendido, por Twitter o G+, con mención a @Obijuan_cube. Valor: **2 Bitpoins** (uno por cada pantallazo)
 
 * **Ejercicio 3**: Enviar los 3 pantallazos anteriores al [repositorio de entregas del Github](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/tree/master/Tutorial-2), en el directorio **Tutorial-2** y la carpeta con vuestro nombre. Valor: **3 BitPoints** (Uno por cada pantallazo)
 
 # Ejercicios entregados
+
+TODO
 
 # Autor
 
