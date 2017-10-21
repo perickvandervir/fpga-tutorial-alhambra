@@ -228,6 +228,9 @@ El proceso es el mismo que para GNU/Linux. Hay que pinchar en **Herramientas/Dri
 
 ### Habilitación/Instalación del driver en Windows
 
+Pinchamos en la opción **Herramientas/Drivers/Habilitar** nos aparecerá una ventana con los pasos a seguir
+
+(en construcción)
 
 # Ejercicios propuestos
 
