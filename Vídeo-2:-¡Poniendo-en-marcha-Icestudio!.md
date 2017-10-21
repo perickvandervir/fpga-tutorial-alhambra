@@ -323,6 +323,11 @@ En la placa veremos cómo el **LED0** está encendido (verde) y el resto apagado
 
 ## Resolución de problemas
 
+### Placa Icezum Alhambra no detectada
+
+
+---------
+
 (en construcción)
 
 # Ejercicios propuestos (6 BitPoints)
