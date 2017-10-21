@@ -6,7 +6,7 @@ TODO
 
 # Descripción
 
-Aprenderemos a **Instalar** la herramienta [Icestudio](https://github.com/FPGAwars/icestudio), que es la que usaremos en estos tutoriales para crear los circuitos digitales y sintetizarlos en una **FPGA libre**. Cargaremos un circuito "hola mundo" en la placa [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki), que enciende un led, para comprobar que está todo funcionando correctamente
+Aprenderemos a **Instalar** la herramienta [Icestudio](https://github.com/FPGAwars/icestudio), que es la que usaremos en estos tutoriales para crear los **circuitos digitales** y sintetizarlos en una **FPGA libre**. Cargaremos un circuito "hola mundo" en la placa [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki), que enciende un led, para comprobar que está todo funcionando correctamente
 
 # Contenido
 
