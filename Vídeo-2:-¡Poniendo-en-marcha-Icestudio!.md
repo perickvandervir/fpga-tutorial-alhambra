@@ -307,7 +307,7 @@ Nos aparece una **notificación** indicando que comienza la carga
 
 y a los pocos segundos el proceso habrá concluido, y si todo ha ido bien, aparecerá una **notificación verde** en la esquina inferior derecha indicando que la **carga** se ha realizado **correctamente**. Adicionalmente aparecerá otra notificación con **la cantidad de recursos de la FPGA ocupados** por el circuito hola mundo. En los siguientes tutoriales explicará esto con más detalle
 
-En la placa veremos cómo el LED0 está encendido (verde) y el resto apagados:
+En la placa veremos cómo el **LED0** está encendido (verde) y el resto apagados:
 
 (pantallazo icezum)
 
