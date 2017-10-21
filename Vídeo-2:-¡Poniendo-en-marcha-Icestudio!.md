@@ -27,6 +27,7 @@ Aprenderemos a **Instalar** la herramienta [Icestudio](https://github.com/FPGAwa
   * [Paso 6: Cargar el circuito *Hola Mundo*](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#paso-6-cargar-el-circuito-hola-mundo)
 * [Resolución de problemas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#resoluci%C3%B3n-de-problemas) 
 * [Ejercicios propuestos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#ejercicios-propuestos-6-bitpoints)
+* [Ejercicios entregados](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#ejercicios-entregados)
 
 
 # Sobre Icestudio
