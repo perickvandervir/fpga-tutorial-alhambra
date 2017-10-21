@@ -327,7 +327,19 @@ Estos son los errores más comunes y las posibles soluciones
 
 ### Placa Icezum Alhambra no detectada
 
+Al **cargar** el programa "hola mundo" nos aparece este mensaje de error
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-13.png)
+
+Este mensaje aparece por dos motivos:
+
+1. **La placa NO está conectada al USB**.  Por despiste se nos ha olvidado conectarla, o la hemos conectado a un hub USB que no está conectado al ordenador. Solución: Conectar la placa y volver a cargar
+
+2. **La placa NO está correctamente conectada por el USB**. Desconectarla y volverla a conectar. Asegurarse que se hace buen contacto por ambas partes: el lado del Ordenador y el lado de la FPGA
+
+3. **El cable usado no es de datos**. Algunos cables USB - microUSB son sólo para cargar los móviles u otros dispositivos, y no tienen los hilos de datos. Solución: Usar el cable para conectar un móvil al PC y comprobar si desde el ordenador se detecta el móvil y se pueden transferir datos. Con esto verificamos si el cable es correcto
+
+4. **Problemas con el driver**. 
 
 ---------
 
