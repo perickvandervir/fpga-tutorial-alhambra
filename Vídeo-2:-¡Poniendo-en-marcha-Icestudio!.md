@@ -25,7 +25,7 @@ TODO
       * [1.Conectar la placa de la FPGA al USB](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#1conectar-la-placa-de-la-fpga-al-usb)
       * [2.Seleccionar el driver](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#2seleccionar-el-driver)
       * [3.Conectar y Desconectar la placa](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#3-desconectar-y-conectar-la-placa)
-
+  * [Paso 6: Cargar el circuito *Hola Mundo*](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#paso-6-cargar-el-circuito-hola-mundo)
 
 # Instalación de Icestudio
 
