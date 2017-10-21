@@ -301,7 +301,7 @@ Lo cargamos en la placa dándole a la opción **Herramientas/Cargar**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-09.png)
 
-Nos aparece una notificación indicando que comienza la carga
+Nos aparece una **notificación** indicando que comienza la carga
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-10.png)
 
