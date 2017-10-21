@@ -183,7 +183,17 @@ Ya podemos **abrir** ejemplos y modficarlos, pero todavía no podemos sintetizar
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-linux-06.png)
 
+Comienza su instalación. Nos aparecerá una ventana con una **barra de progreso**. Este proceso puede durar unos minutos
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-linux-07.png)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-linux-08.png)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-linux-09.png)
+
+Al terminar, nos aparecerá una **notificación** verde en la parte inferior derecha de la pantalla indicando que la **toolchain** está instalada. Debajo aparece otra para indicarnos que pinchemos ahí para **instalar los drivers**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-linux-10.png)
 
 # Ejercicios propuestos
 
