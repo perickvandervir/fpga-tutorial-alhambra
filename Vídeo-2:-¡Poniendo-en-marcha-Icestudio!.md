@@ -323,6 +323,8 @@ En la placa veremos cómo el **LED0** está encendido (verde) y el resto apagado
 
 ## Resolución de problemas
 
+Estos son los errores más comunes y las posibles soluciones
+
 ### Placa Icezum Alhambra no detectada
 
 
