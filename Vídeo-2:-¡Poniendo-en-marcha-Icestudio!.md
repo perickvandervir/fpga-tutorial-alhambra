@@ -327,6 +327,7 @@ Estos son los errores más comunes y las posibles soluciones
 
 ### Placa Icezum Alhambra no detectada
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-132.png)
 
 ---------
 
