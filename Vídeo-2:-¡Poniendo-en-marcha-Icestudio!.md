@@ -238,6 +238,10 @@ Con la placa de la FPGA conectada, pinchamos en la opción **Herramientas/Driver
 
 La gestión de los **drivers en Windows** siempre es un reto. Con icestudio suele funcionar a la primera, sin embargo, algunos usuarios han reportado que les ha costado encontrar la combinación exacta de controlador/usb necesarios para que les funcione bien. Pero al final se consigue. **No te preocupes si no te funciona a la primera**
 
+El proceso de instalación para el *driver* de otras placas con FPGA que tengan también un chip FTDI, es el mismo que para la Icezum Alhambra. Por ejemplo la **Icestick**
+
+**Importante**: Es necesario tener permisos de administración para la instalación del driver
+
 #### 1.Conectar la placa de la FPGA al USB
 
 En windows se recomienda que la placa esté conectada un **USB 2.0** si es posible. Una opción que funciona muy bien es conectar un **hub usb 2.0** y conectar la placa a través de él
@@ -248,8 +252,39 @@ Pinchamos en el botón **OK**. Icestudio lanzará la aplicación [Zadig](http://
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-09.jpg)
 
+Pulsamos en el desplegable superior y seleccionamos la opción **IceZUM Alhambra v.1 - Bxx (Interface 0)**
+
+**¡OJo!** Es muy importante que sea el que pone **(Interface 0)**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-10.jpg)
+
+El deplegable se cerrará y nos aparecerá lo que hemos seleccionado. En la casilla que está encima del boton de "Replace driver" debemos seleccionar el **driver libusK** (es muy probable que sea el que aparece por defecto), pero si no, lo seleccionamos con las flechas
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-11.jpg)
+
+Ahora apretamos **Replace driver** y comienza la instalación del driver
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-12.jpg)
+
+En unos segundos nos aparecerá el mensaje de que se ha **instalado correctamente**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-13.jpg)
+
+Pinchamos en **Close** para cerrarla
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-14.jpg)
+
+y este es el aspecto de **Zadig** una vez **instalado el driver**. Ya podemos cerrar la ventana
+
 #### 3. Desconectar y conectar la placa
 
+En la parte inferior derecha de icestudio nos aparecerá una notificación para recordarnos que debemos **desconetar la placa y volver a conectarla**, para que el driver funcione correctamente
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-15.jpg)
+
+**¡¡¡IMPORTANTE!!!** El driver se ha instalado en el USB donde estaba conectada la placa. Hay que conectarla en el mismo USB
+
+Si se quiere usar la placa en otro USB diferente, habrá que volver a instalar el driver en ese USB
 
 -------
 
