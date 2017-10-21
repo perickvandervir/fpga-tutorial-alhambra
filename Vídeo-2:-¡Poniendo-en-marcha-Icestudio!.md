@@ -43,7 +43,7 @@ Para poner en marcha Icestudio hay que seguir los **siguientes pasos**
 
 ## Paso 1: Descarga del Instalador de Icestudio
 
-Icestudio es una aplicación **libre**, creada en [node.js](https://nodejs.org/es/) por [Jesús Arroyo](https://github.com/Jesus89). Se encuentra alojado en [esta página de github](https://github.com/FPGAwars/icestudio)
+* Nos vamos a la [página del Icestudio en github](https://github.com/FPGAwars/icestudio)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-01.png)
 
