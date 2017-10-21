@@ -313,6 +313,9 @@ En la placa veremos cómo el **LED0** está encendido (verde) y el resto apagado
 
 **¡Enhorabuena!** Acabas de sintetizar y probar tu primer circuito en una FPGA libre
 
+## Resolución de problemas
+
+
 
 -------
 
