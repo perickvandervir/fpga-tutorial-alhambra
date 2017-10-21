@@ -141,6 +141,15 @@ Pinchamos en el **instalador .dmg** para abrirlo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-mac64-02.png)
 
+y al cabo de unos segundos nos aparecerá la **pantalla de bienvenida**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-mac64-03.png)
+
+y se empiezan a copiar los archivos a la **carpeta de aplicaciones**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-mac64-04.png)
+
+
 # Ejercicios propuestos
 
 * **Ejercicio 1**: 
