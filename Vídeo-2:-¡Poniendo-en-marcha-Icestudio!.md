@@ -204,6 +204,12 @@ Nos vamos a la opción del menú **Herramientas/Drivers/Habilitar**. Según nues
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-linux-11.png)
 
+### Habilitación del driver en GNU/Linux
+
+En las plataformas **GNU/Linux** el *driver* ya está integrado en el propio *kernel*, por lo que el proceso será muy rápido. Al darle a la opción de habilitar el *driver* nos aparecerá una ventana para pedirnos la **clave del usuario** para tener permisos para instalar el driver
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-linux-12.png)
+
 # Ejercicios propuestos
 
 * **Ejercicio 1**: 
