@@ -149,6 +149,22 @@ y se empiezan a copiar los archivos a la **carpeta de aplicaciones**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-mac64-04.png)
 
+Al finalizar podemos ver Icestudio entre las **aplicaciones instaladas**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-mac64-05.png)
+
+Lo abrimos para comprobar que está todo ok
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-mac64-06.png)
+
+Nos aparecerá una **advertencia** indicando que es un software que no conocen y que si estamos seguro de que lo queremos abrir. Pinchamos en **open**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-mac64-07.png)
+
+Al cabo de unos segundos nos debe aparecer una pantalla como esta, con **icestudio abierto**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-mac64-08.png)
+
 
 # Ejercicios propuestos
 
