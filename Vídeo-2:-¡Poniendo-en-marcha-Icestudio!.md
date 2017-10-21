@@ -177,6 +177,13 @@ Nos aparecerá otra vez la **ventana principal**, pero con los textos cambiados 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-05.png)
 
+## Paso 4: Instalar la *toolchain*
+
+Ya podemos **abrir** ejemplos y modficarlos, pero todavía no podemos sintetizarlos en la FPGA porque hay que **instalar las herramientas** (La *Toolchain*). Para hacerlo nos vamos a **Herramientas/Toolchain/Instalar**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-linux-06.png)
+
+
 # Ejercicios propuestos
 
 * **Ejercicio 1**: 
