@@ -138,6 +138,8 @@ Pinchamos en **Finalizar**. Hemos acabado la primera parte de la instalación. S
 
 Lo primero es instalar **python 2.7** si no lo tenemos ya. [Los instaladores se encentran en este enlace](https://www.python.org/downloads/mac-osx/)
 
+También necesitamos instalar [Howbrew](https://brew.sh/index_es.html), que es un instalador de paquetes para MAC. Se instala fácilmente siguiendo las instrucciones en su web
+
 A continuación nos vamos al directorio donde hemos descargado el **instalador de Icestudio**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-mac64-01.png)
