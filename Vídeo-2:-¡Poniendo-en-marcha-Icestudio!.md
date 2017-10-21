@@ -222,6 +222,8 @@ Finalmente hay que **desconectar la placa y volverla a conectar**. ¡Ya tenemos 
 
 ### Habilitación del *driver* en Mac OS
 
+El proceso es el mismo que para GNU/Linux. 
+
 ### Habilitación/Instalación del driver en Windows
 
 
