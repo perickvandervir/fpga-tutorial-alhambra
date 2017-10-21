@@ -94,6 +94,8 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |59    | Alberto Rf              | Aspirante a Cadete | 2 |
 |60    | Smidth Christian        | Aspirante a Cadete | 2 |
 |61    | Agustín Valero          | Aspirante a Cadete | 2 |
+|62    | Antonio Morales         | Aspirante a Cadete | 2 |
+|63    | Jorge (akirasan)        | Aspirante a Cadete | 2 |
 
 ## Listado de Rangos
 
@@ -102,7 +104,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 | **Observador** |  0          | Te gusta ojear las cosas. Todavía no te has atrevido a experimentar con circuitos digitales
 | **Aspirante a cadete** |  2  | Todavía no has ingresado en la academia Jedi de hardware, pero tienes interés, y te gustaría probar
 | **Cadete**    |  5  |  ¡Bienvenido a la academia Jedi de hardware! Tienes curiosidad e Interés suficiente sobre hardware y tienes Icestudio instalado. ¡Listo para aprender!
-| **Cadete nivel 1** |     |
+| **Cadete nivel 1** | 12 | Ya eres capaz de sintetizar circuitos sencillos para encender leds, y cargarlos en FPGAs libres. Tu SAV continua aumentando
 | **Cadete nivel 2** |    |
 | **Cadete nivel 3** |   |
 | **Aspirante a Padawan** |  |
