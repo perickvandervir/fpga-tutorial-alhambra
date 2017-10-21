@@ -4,7 +4,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-Aprenderemos a **Instalar** la herramienta [Icestudio](https://github.com/FPGAwars/icestudio), que es la que usaremos en estos tutoriales para crear los **circuitos digitales** y sintetizarlos en una **FPGA libre**. Cargaremos un circuito "hola mundo", que enciende un led, en la placa [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki) para comprobar que está todo funcionando correctamente
+Aprenderemos a **Instalar** la herramienta [Icestudio](https://github.com/FPGAwars/icestudio), que es la que usaremos en estos tutoriales para crear los **circuitos digitales** y sintetizarlos en una **FPGA libre**. Cargaremos un circuito "hola mundo", que enciende un led, en la placa [Icezum Alhambra](https://github.com/FPGAwars/https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-13.pngicezum/wiki) para comprobar que está todo funcionando correctamente
 
 # Contenido
 
@@ -327,7 +327,7 @@ Estos son los errores más comunes y las posibles soluciones
 
 ### Placa Icezum Alhambra no detectada
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-132.png)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-13.png)
 
 ---------
 
