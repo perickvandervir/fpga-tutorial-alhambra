@@ -217,6 +217,11 @@ Y en unos segundos nos aparece la notificación de que **el driver está habilit
 
 Finalmente hay que **desconectar la placa y volverla a conectar**. ¡Ya tenemos nuestro icestudio listo para trabajar!
 
+### Habilitación del *driver* en Mac OS
+
+### Habilitación/Instalación del driver en Windows
+
+
 # Ejercicios propuestos
 
 * **Ejercicio 1**: 
