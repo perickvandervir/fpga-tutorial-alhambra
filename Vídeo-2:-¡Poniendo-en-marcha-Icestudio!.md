@@ -131,7 +131,7 @@ Pinchamos en **Finalizar**. Hemos acabado la primera parte de la instalación. S
 
 ### Mac
 
-Lo primero es instalar **python 2.7** si no lo tenemos ya . [Los instaladores se encentran en este enlace](https://www.python.org/downloads/mac-osx/)
+Lo primero es instalar **python 2.7** si no lo tenemos ya. [Los instaladores se encentran en este enlace](https://www.python.org/downloads/mac-osx/)
 
 A continuación nos vamos al directorio donde hemos descargado el **instalador de Icestudio**
 
