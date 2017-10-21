@@ -358,9 +358,9 @@ Este mensaje aparece por dos motivos:
 
 ## Alberto Valero
 
-|     |        |
-|-----|--------|
-| ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-2/avalero/verify.png) |  ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-2/avalero/upload.png) |
+ ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-2/avalero/verify.png)
+
+ ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-2/avalero/upload.png) |
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-2/avalero/foto_ledon.jpg)
 
