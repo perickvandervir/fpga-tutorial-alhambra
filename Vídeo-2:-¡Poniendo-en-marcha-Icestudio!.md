@@ -165,6 +165,15 @@ Al cabo de unos segundos nos debe aparecer una pantalla como esta, con **icestud
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-mac64-08.png)
 
+## Paso 3: Configurar el idioma
+
+Arrancamos icestudio. Lo primero que haremos será **configurar el idioma**. Nos vamos al menú **Edit/Preferences/Language** y seleccionamos el idoma que queramos. Yo lo voy a poner en castellano (pinchando en Spanish), pero se puede poner en Gallego, Euskera, Catalán y Francés
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-05.png)
+
+Nos aparecerá otra vez la **ventana principal**, pero con los textos cambiados a nuestro idioma
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-05.png)
 
 # Ejercicios propuestos
 
