@@ -22,7 +22,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 
 |Num  | Nombe   | Rango  | BitPoints |
 |-----|---------|--------|-----------|
-|     |  Alberto Valero   |  Cadete   |  8  |
+|     |  Alberto Valero   |  Cadete   |  10  |
 
 ### En la pre-academia
 
