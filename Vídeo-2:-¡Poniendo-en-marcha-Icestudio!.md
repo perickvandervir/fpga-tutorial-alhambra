@@ -315,7 +315,7 @@ y a los pocos segundos el proceso habrá concluido, y si todo ha ido bien, apare
 
 En la placa veremos cómo el **LED0** está encendido (verde) y el resto apagados:
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-11.png)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-11.jpg)
 
 **¡Enhorabuena!** Acabas de sintetizar y probar tu primer circuito en una FPGA libre
 
