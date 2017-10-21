@@ -230,13 +230,23 @@ El proceso es el mismo que para GNU/Linux. Hay que pinchar en **Herramientas/Dri
 
 ### Habilitación/Instalación del driver en Windows
 
-Pinchamos en la opción **Herramientas/Drivers/Habilitar** nos aparecerá una ventana con los pasos a seguir
+Con la placa de la FPGA conectada, pinchamos en la opción **Herramientas/Drivers/Habilitar** nos aparecerá una ventana con los pasos a seguir
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-08.jpg)
 
+La gestión de los **drivers en Windows** siempre es un reto. Con icestudio suele funcionar a la primera, sin embargo, algunos usuarios han reportado que les ha costado encontrar la combinación exacta de controlador/usb necesarios para que les funcione bien. Pero al final se consigue. **No te preocupes si no te funciona a la primera**
+
 #### 1.Conectar la placa de la FPGA al USB
 
-Lo primero es **conectar la placa de la FPGA a un USB**. Se recomienda que se haga en un USB 2.0. Al conectar la **Icezum Alhambra** veremos cómo el **led azul** de power se enciende
+En windows se recomienda que la placa esté conectada un **USB 2.0** si es posible. Una opción que funciona muy bien es conectar un **hub usb 2.0** y conectar la placa a través de él
+
+#### 2.Seleccionar el *driver*
+
+Pinchamos en el botón **OK**. Icestudio lanzará la aplicación **Zadig** (que se ha instalado con Icestudio). Es la que nos permite instalar el *driver* de la FPGA. Aparecerá una ventana como la siguiente
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-09.jpg)
+
+#### 3. Desconectar y conectar la placa
 
 
 -------
