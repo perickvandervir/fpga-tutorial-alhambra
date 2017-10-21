@@ -323,7 +323,7 @@ En la placa veremos cómo el **LED0** está encendido (verde) y el resto apagado
 
 (en construcción)
 
-# Ejercicios propuestos
+# Ejercicios propuestos (6 BitPoints)
 
 * **Ejercicio 1**: Instalar Icestudio. Abrir el ejemplo **01.LEDON** y sintetizarlo con **Herramientas/Sintetizar**. Aunque no tengáis placa física lo podéis hacer. Enviar el pantallazo en el que aparece la notificación verde de que se ha sintetizado bien por **twitter** o **G+**, con mención a @Obijuan_cube. Valor: **1 BitPoint**
 
