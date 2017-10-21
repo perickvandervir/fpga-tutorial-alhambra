@@ -301,6 +301,17 @@ Lo cargamos en la placa dándole a la opción **Herramientas/Cargar**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-09.png)
 
+Nos aparece una notificación indicando que comienza la carga
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-10.png)
+
+y a los pocos segundos el proceso habrá concluido, y si todo ha ido bien, aparecerá una **notificación verde** en la esquina inferior derecha indicando que la **carga** se ha realizado **correctamente**. Adicionalmente aparecerá otra notificación con **la cantidad de recursos de la FPGA ocupados** por el circuito hola mundo. En los siguientes tutoriales explicará esto con más detalle
+
+En la placa veremos cómo el LED0 está encendido (verde) y el resto apagados:
+
+(pantallazo icezum)
+
+**¡Enhorabuena!** Acabas de sintetizar y probar tu primer circuito en una FPGA libre
 -------
 
 (en construcción)
