@@ -18,6 +18,7 @@ TODO
     * [Mac](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#mac)
   * [Paso 3: Configurar el idioma](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#paso-3-configurar-el-idioma)
   * [Paso 4: Instalar la *toolchain*](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#paso-4-instalar-la-toolchain)
+  * [Paso 5: Instalar los *Drivers*](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#paso-5-instalar-los-drivers)
 
 # Instalación de Icestudio
 
