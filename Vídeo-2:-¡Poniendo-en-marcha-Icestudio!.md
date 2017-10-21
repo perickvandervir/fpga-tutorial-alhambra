@@ -211,6 +211,12 @@ En las plataformas **GNU/Linux** el *driver* ya está integrado en el propio *ke
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-linux-12.png)
 
+Y en unos segundos nos aparece la notificación de que **el driver está habilitado**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-linux-13.png)
+
+Finalmente hay que **desconectar la placa y volverla a conectar**. ¡Ya tenemos nuestro icestudio listo para trabajar!
+
 # Ejercicios propuestos
 
 * **Ejercicio 1**: 
