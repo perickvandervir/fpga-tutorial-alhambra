@@ -293,6 +293,14 @@ Ya lo tenemos todo listo. El último paso es comprobar que podemos **cargar** un
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-07.png)
 
+Nos aparecerá el circuito en el centro de la pantalla, y una **notificación verde** en la parte inferior derecha indicando que se han abierto correctamente
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-08.png)
+
+Lo cargamos en la placa dándole a la opción **Herramientas/Cargar**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/icestudio-09.png)
+
 -------
 
 (en construcción)
