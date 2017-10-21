@@ -222,7 +222,9 @@ Finalmente hay que **desconectar la placa y volverla a conectar**. ¡Ya tenemos 
 
 ### Habilitación del *driver* en Mac OS
 
-El proceso es el mismo que para GNU/Linux. 
+El proceso es el mismo que para GNU/Linux. Una vez habilitados deberá aparecer una **notificación en verde** en la parte inferior derecha
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-mac64-09.png)
 
 ### Habilitación/Instalación del driver en Windows
 
