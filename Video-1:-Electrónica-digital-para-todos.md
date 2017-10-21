@@ -178,7 +178,7 @@ Adicionalmente, las entregas se pueden hacer a través de [este repo del github]
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/github-logo.png)
 
-## Ejercicios propuestos
+## Ejercicios propuestos (4 BitPoints)
 
 Para completar este tutorial, se proponen los **siguientes ejercicios**:
 
