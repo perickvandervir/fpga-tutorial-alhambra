@@ -231,6 +231,8 @@ El proceso es el mismo que para GNU/Linux. Hay que pinchar en **Herramientas/Dri
 
 Pinchamos en la opción **Herramientas/Drivers/Habilitar** nos aparecerá una ventana con los pasos a seguir
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-08.jpg)
+
 (en construcción)
 
 # Ejercicios propuestos
