@@ -244,7 +244,7 @@ En windows se recomienda que la placa esté conectada un **USB 2.0** si es posib
 
 #### 2.Seleccionar el *driver*
 
-Pinchamos en el botón **OK**. Icestudio lanzará la aplicación **Zadig** (que se ha instalado con Icestudio). Es la que nos permite instalar el *driver* de la FPGA. Aparecerá una ventana como la siguiente
+Pinchamos en el botón **OK**. Icestudio lanzará la aplicación [Zadig](http://zadig.akeo.ie/) (que se ha instalado con Icestudio). Es la que nos permite instalar el *driver* de la FPGA. Aparecerá una ventana como la siguiente
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/Icestudio-w10-09.jpg)
 
