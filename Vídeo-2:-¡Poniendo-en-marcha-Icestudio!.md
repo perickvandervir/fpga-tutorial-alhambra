@@ -27,6 +27,10 @@ TODO
       * [3.Conectar y Desconectar la placa](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#3-desconectar-y-conectar-la-placa)
   * [Paso 6: Cargar el circuito *Hola Mundo*](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#paso-6-cargar-el-circuito-hola-mundo)
 
+# Sobre Icestudio
+
+TODO
+
 # Instalación de Icestudio
 
 La herramienta que vamos a utilizar para **sintetizar** nuestros circuitos es [Icestudio](https://github.com/FPGAwars/icestudio). Tenemos que instalarlo y configurarlo
