@@ -21,6 +21,7 @@ TODO
   * [Paso 5: Instalar los *Drivers*](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#paso-5-instalar-los-drivers)
     * [GNU/Linux](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#habilitaci%C3%B3n-del-driver-en-gnulinux)
     * [MAC OS](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#habilitaci%C3%B3n-del-driver-en-mac-os)
+    * [Windows](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#habilitaci%C3%B3ninstalaci%C3%B3n-del-driver-en-windows)
 
 # Instalación de Icestudio
 
