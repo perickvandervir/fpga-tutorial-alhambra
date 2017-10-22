@@ -75,6 +75,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |31    | Salvari               | Aspirante a Cadete | 4 |
 |32    | Antonio Morales (amorales) | Aspirante a Cadete | 4 |
 |32    | Pegatutti (Alfredo)   | Aspirante a Cadete | 4 |
+|33    | Javier Baliñas (supernudo) | Aspirante a Cadete | 4 |
 |33    | Dmayoraru             | Aspirante a Cadete | 2 |
 |34    | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
 |35    | Unai Sanz             | Aspirante a Cadete | 2 |
@@ -100,6 +101,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |55    | Agustín Valero          | Aspirante a Cadete | 2 |
 |56    | Antonio Morales         | Aspirante a Cadete | 2 |
 |57    | Jorge (akirasan)        | Aspirante a Cadete | 2 |
+
 
 
 ## Listado de Rangos
