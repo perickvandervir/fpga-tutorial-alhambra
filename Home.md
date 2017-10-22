@@ -128,7 +128,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 
 | Símbolo  | Rango  | Nivel |  Bitpoints  | Descripción |
 |----------|--------|-------|-------------|-------------|
-|          | Cadete |   2   |      5      |  ¡Bienvenido a la academia Jedi de hardware! Tienes curiosidad e Interés suficiente sobre hardware y tienes Icestudio instalado. ¡Listo para aprender! 
+|  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete.png)        | Cadete |   2   |      5      |  ¡Bienvenido a la academia Jedi de hardware! Tienes curiosidad e Interés suficiente sobre hardware y tienes Icestudio instalado. ¡Listo para aprender! 
 
 
 ## Autor
