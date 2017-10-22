@@ -23,15 +23,15 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |Num  | Nombe             | Rango    | BitPoints | Divisa |
 |-----|-------------------|----------|-----------|----------|
 |     | Alberto Valero    | Cadete   | 10 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png) |
-|     | Diego Lale        | Cadete   | 10 |  |
-|     | G4lile0           | Cadete   | 10 |  |
-|     | J0s3b4            | Cadete   | 10 |
-|     | Lobotic           | Cadete   | 10 |
-|     | Ricardo Rodrigues | Cadete   | 10 |
-|     | Jose Roda         | Cadete   | 10 |
-|     | Joancale          | Cadete   | 10 |
-|     | Miquel Servera    | Cadete   | 7  |
-|     | Jorge Turiel      | Cadete   | 5  |
+|     | Diego Lale        | Cadete   | 10 |  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png) |
+|     | G4lile0           | Cadete   | 10 |  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png) |
+|     | J0s3b4            | Cadete   | 10 |  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png) |
+|     | Lobotic           | Cadete   | 10 |  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png) |
+|     | Ricardo Rodrigues | Cadete   | 10 |  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png) |
+|     | Jose Roda         | Cadete   | 10 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png) |
+|     | Joancale          | Cadete   | 10 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png) |
+|     | Miquel Servera    | Cadete   | 7  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png) |
+|     | Jorge Turiel      | Cadete   | 5  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png) |
 
 
 
