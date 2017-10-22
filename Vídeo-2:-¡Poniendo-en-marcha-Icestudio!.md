@@ -395,7 +395,10 @@ Este mensaje aparece por estos motivos:
 
 # Créditos y agradecimientos
 
-
+* [Clifford Wolf](http://www.clifford.at/) es el Ingeniero Austriaco al que le debemos la aparición de las FPGAs libres. Todo este tutorial,y todas las herramientas creadas a su alrededor no habrían sido posibles sin su gran aportación: [El proyecto Icestorm](http://www.clifford.at/icestorm/). ¡Muchas gracias!
+* [Jesús Arroyo](https://github.com/Jesus89) es el creador de [Icestudio](https://github.com/FPGAwars/icestudio) y su desarrollador principal. Gracias a su talento está consiguiendo que cientos de personas puedan acceder al desarrollo de circuitos digitales, de una forma muy sencilla. ¡Muchas gracias!
+* **Eladio Delgado**, es el diseñador de la placa IceZum Alhambra. Y el encargado de la gestión de la fabricación de la placa. Todo lo dirige desde su Rural Workshop en [Pinos del Valle](https://es.wikipedia.org/wiki/Pinos_del_Valle) (Granada) ¡Muchas gracias!
+* **Andrés Prieto-Moreno**, por todos los pantallazos de Icestudio en Windows 10 y Mac. ¡Muchas gracias!
 
 # Enlaces
 
