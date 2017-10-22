@@ -342,9 +342,9 @@ Este mensaje aparece por estos motivos:
 
 3. **El cable usado no es de datos**. Algunos cables USB - microUSB son sólo para cargar los móviles u otros dispositivos, y no tienen los hilos de datos. Solución: Usar el cable para conectar un móvil al PC y comprobar si desde el ordenador se detecta el móvil y se pueden transferir datos. Con esto verificamos si el cable es correcto
 
-4. **Problemas con el driver**. El driver no está correctamente instalado, o hace conflicto con algún otro controlador. Esto sucede en algunas **máquinas Windows**. Para solucionar el problema prueba alguna de las siguientes opciones:
-  * Asegúrate de que has conectado la placa en el **mismo USB** donde instalaste el driver. En windows los controladores se instalan para un USB concreto (en los sistemas Linux/Mac son válidos para cualquiera)
-  * Enchufa la placa en otro USB, a ser posible USB 2.0, vuelve a instalar en driver para ese USB y prueba otra vez la carga. Iterar hasta encontrar un USB donde funcione correctamente. En algunos windows ha funciona a la tercera o cuarta. Una vez que funciona, ya lo hace siempre
+4. **Problemas con el driver**. El driver no está correctamente instalado, o hace conflicto con algún otro controlador. Esto sucede en algunas **máquinas Windows**. Para solucionar el problema prueba alguna de las siguientes opciones:  
+    * Asegúrate de que has conectado la placa en el **mismo USB** donde instalaste el driver. En windows los controladores se instalan para un USB concreto (en los sistemas Linux/Mac son válidos para cualquiera)
+    * Enchufa la placa en otro USB, a ser posible USB 2.0, vuelve a instalar en driver para ese USB y prueba otra vez la carga. Iterar hasta encontrar un USB donde funcione correctamente. En algunos windows ha funciona a la tercera o cuarta. Una vez que funciona, ya lo hace siempre
   * Si el problema persiste, conecta la placa a través de un hub USB 2.0 y vuelve a instalar el driver. Esto suele funcionar bastante bien
 
 5. **El problema persiste**. Si has probado todo lo anterior pero no consigues que funcione, envíanos un correo a la [Lista de FPGAwars](https://groups.google.com/forum/#!forum/fpga-wars-explorando-el-lado-libre), dando todos los detalles que puedas, para que entre todos te echemos una mano
