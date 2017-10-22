@@ -106,7 +106,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 
 ## Listado de Rangos
 
-| Núm | Divisa  | Rango  |  Bitpoints  | Descripción |
+| Núm   | Divisa     | Rango  |  Bitpoints  | Descripción |
 |-------|----------|--------|-------------|-------------|
 |  0    | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/00-observador.png) | **Observador** | 0  |  Te gusta ojear las cosas. Todavía no te has atrevido a experimentar con circuitos digitales |
 |  1    | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete.png) | **Aspirante a Cadete** | 2 | Todavía no has ingresado en la academia Jedi de hardware, pero tienes interés, y te gustaría probar |
