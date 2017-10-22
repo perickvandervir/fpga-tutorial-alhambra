@@ -12,7 +12,7 @@ TODO
 
 TODO
 
-# Ejercicios propuestos (6 BitPoints)
+# Ejercicios propuestos (X BitPoints)
 
 * **Ejercicio 1**: 
 * **Ejercicio 2**: 
