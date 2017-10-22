@@ -24,7 +24,8 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |-----|-------------------|----------|-----------|
 |     |  Alberto Valero   | Cadete   | 10 |
 |     |  Diego Lale       | Cadete   | 10 |
-|     | G4lile0           | Cadete   | 7  |
+|     | G4lile0           | Cadete   | 10 |
+|     | J0s3b4            | Cadete   | 10 |
 |     | Miquel Servera    | Cadete   | 7  |
 
 
@@ -66,7 +67,6 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |31    | (ºle                    | Aspirante a Cadete | 4 |
 |32    | Joaquín Cubillo         | Aspirante a Cadete | 4 |
 |33    | Andrés (@Avarez_)     | Aspirante a Cadete | 4 |
-|34    | J0s3b4                | Aspirante a Cadete | 4 |
 |35    | Biober                | Aspirate a Cadete  | 4 |
 |36    | Pablo Perez Ruiz      | Aspirante a Cadete | 4 |
 |37    | Aitor Alejandro       | Aspirante a Cadete | 4 |
