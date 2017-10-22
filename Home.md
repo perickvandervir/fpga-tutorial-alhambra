@@ -20,9 +20,9 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 
 Personas que ya han accedido a la academia de Hardware Jedi, y que están en primer curso
 
-|Num  | Nombe             | Rango    | BitPoints | Divisa |
-|-----|-------------------|----------|-----------|----------|
-|     | Alberto Valero    | Cadete   | 10 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png) |
+|Divisa  | Nombe             | Rango    | BitPoints |
+|--------|-------------------|----------|-----------|
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)   | Alberto Valero    | Cadete   | 10 |
 |     | Diego Lale        | Cadete   | 10 |  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png) |
 |     | G4lile0           | Cadete   | 10 |  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png) |
 |     | J0s3b4            | Cadete   | 10 |  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png) |
