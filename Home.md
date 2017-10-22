@@ -113,19 +113,19 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |  2    | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete.png) | **Cadete** | 5 | **¡Bienvenido a la academia Jedi de hardware!** Tienes curiosidad e Interés suficiente sobre hardware y tienes Icestudio instalado. ¡Listo para aprender! |
 | 3  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1.png)  |  **Cadete nivel-1** | 12 | Ya eres capaz de sintetizar circuitos sencillos para encender leds, y cargarlos en FPGAs libres. Tu SAV continua aumentando |
 | 4  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2.png) | **Cadete nivel-2** |   |   |
+| 5  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3.png) | **Cadete nivel-3** |   |   |
 
-| Núm | Divisa  | Rango  |  Bitpoints  | Descripción |
-|-------|----------|--------|-------------|-------------|
-| 5  |   | **Cadete nivel-3** |   |   |   |
-| 6  |   | **Aspirante a Padawan** |   |   |   |
-| 7  |   | **Padawan nivel-1** |  |  |  |
-| 8  |   | **Padawan nivel-2** |  |  |  |
-| 9  |   | **Padawan nivel-3** |  |  |  |
-|10  |   | **Aspirante a Jedi**|  |  |  |
-|11  |   | **Jedi nivel 1** |  |  |  |
-|12  |   | **Jedi nivel 2** |  |  |  |
-|13  |   | **Jedi nivel 3** |  |  |  |
-|14  |   | **Aspirante a Caballero Jedi** |  |  |  |
+| Núm   | Rango  |  Bitpoints  | Descripción |
+|-------|--------|-------------|-------------|
+| 6  |   **Aspirante a Padawan** |   |   |   |
+| 7  |   **Padawan nivel-1** |  |  |  |
+| 8  |   **Padawan nivel-2** |  |  |  |
+| 9  |   **Padawan nivel-3** |  |  |  |
+|10  |   **Aspirante a Jedi**|  |  |  |
+|11  |   **Jedi nivel 1** |  |  |  |
+|12  |   **Jedi nivel 2** |  |  |  |
+|13  |   **Jedi nivel 3** |  |  |  |
+|14  |   **Aspirante a Caballero Jedi** |  |  |  |
 
 ## Autor
 
