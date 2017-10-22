@@ -73,6 +73,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |29    | Pablo Perez Ruiz      | Aspirante a Cadete | 4 |
 |30    | Aitor Alejandro       | Aspirante a Cadete | 4 |
 |31    | Salvari               | Aspirante a Cadete | 4 |
+|32    | Antonio Morales (amorales) | Aspirante a Cadete | 4 |
 |32    | Pegatutti (Alfredo)   | Aspirante a Cadete | 4 |
 |33    | Dmayoraru             | Aspirante a Cadete | 2 |
 |34    | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
