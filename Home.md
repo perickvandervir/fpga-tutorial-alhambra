@@ -45,11 +45,13 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |Divisa  | Nombe             | Rango    | BitPoints |
 |--------|-------------------|----------|-----------|
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| Juan Manuel Rico    |Aspirante a Cadete   | 4 |
-
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)|  Juanillo Pillo        | Aspirante a Cadete | 4 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)|
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)|
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)|
 
 |Núm|  Nombre               |  Rango             |  BitPoints |
 |------|-----------------------|--------------------|------------|
-|3     | Juanillo Pillo        | Aspirante a Cadete | 4 |
 |4     | Loquox                | Aspirante a Cadete | 4 |
 |5     | Jaime Laborda         | Aspirante a Cadete | 4 |
 |6     | Manuel Andújar        | Aspirante a Cadete | 4 |
