@@ -125,6 +125,11 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 | **Caballero Jedi** |  |
 | ... |  |
 
+
+| Símbolo  | Rango  | Nivel |  Bitpoints  | Descripción
+|          | Cadete |   2   |      5      |  ¡Bienvenido a la academia Jedi de hardware! Tienes curiosidad e Interés suficiente sobre hardware y tienes Icestudio instalado. ¡Listo para aprender! 
+
+
 ## Autor
 
 * [Juan González-Gómez](https://github.com/Obijuan) (Obijuan)
