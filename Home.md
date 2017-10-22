@@ -28,6 +28,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |     | J0s3b4            | Cadete   | 10 |
 |     | Lobotic           | Cadete   | 10 |
 |     | Miquel Servera    | Cadete   | 7  |
+|     | Jorge Turiel      | Cadete   | 5 |
 
 
 
@@ -77,7 +78,6 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |42    | Juan G. Maker         | Aspirante a Cadete | 2 |
 |43    | Javi (@Seat_128)      | Aspirante a Cadete | 2 |
 |44    | Luis Sobrino Fdz.     | Aspirante a Cadete | 2 |
-|45    | Jorge Turiel          | Aspirante a Cadete | 2 |
 |46    | Jokin Lacalle         | Aspirante a Cadete | 2 |
 |47    | Jordi Bardají         | Aspirante a Cadete | 2 |
 |48    | Javi (@JavimJavi)     | Aspirante a Cadete | 2 |
