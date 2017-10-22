@@ -12,3 +12,29 @@ TODO
 
 TODO
 
+# Ejercicios propuestos (6 BitPoints)
+
+* **Ejercicio 1**: 
+* **Ejercicio 2**: 
+* **Ejercicio 3**: 
+
+# Ejercicios entregados
+
+# Autor
+
+* [Juan González-Gómez](https://github.com/Obijuan) (Obijuan)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/logos-urjc-gsyc-peloto-jderobot.png)
+
+# Licencia
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/attribution-share-alike-creative-commons-license.png)
+
+# Créditos y agradecimientos
+
+# Enlaces
+
+# FAQs
+
+
+
