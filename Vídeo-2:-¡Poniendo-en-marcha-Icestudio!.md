@@ -366,6 +366,16 @@ Este mensaje aparece por dos motivos:
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-2/avalero/foto_ledon.jpg)
 
+### Diego Lale
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-2/DiegoLale/ejercicio_1.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-2/DiegoLale/ejercicio2_1.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-2/DiegoLale/ejercicio%202_2.jpg)
+
+### Miquel Servera
+
 # Autor
 
 * [Juan González-Gómez](https://github.com/Obijuan) (Obijuan)
