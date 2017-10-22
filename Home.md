@@ -72,6 +72,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |36    | Pablo Perez Ruiz      | Aspirante a Cadete | 4 |
 |37    | Aitor Alejandro       | Aspirante a Cadete | 4 |
 |38    | Salvari               | Aspirante a Cadete | 4 |
+|39    | Pegatutti (Alfredo)   | Aspirante a Cadete | 4 |
 |39    | Dmayoraru             | Aspirante a Cadete | 2 |
 |40    | Juan A. Ramón Girón   | Aspirante a Cadete | 2 |
 |41    | Unai Sanz             | Aspirante a Cadete | 2 |
@@ -97,6 +98,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |62    | Agustín Valero          | Aspirante a Cadete | 2 |
 |63    | Antonio Morales         | Aspirante a Cadete | 2 |
 |64    | Jorge (akirasan)        | Aspirante a Cadete | 2 |
+
 
 ## Listado de Rangos
 
