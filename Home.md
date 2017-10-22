@@ -114,6 +114,8 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 | 3  |   |  **Cadete nivel-1** | 12 | | Ya eres capaz de sintetizar circuitos sencillos para encender leds, y cargarlos en FPGAs libres. Tu SAV continua aumentando |
 | 4  |   | **Cadete nivel-2** |   |   |   |
 | 5  |   | **Cadete nivel-3** |   |   |   |
+
+
 | 6  |   | **Aspirante a Padawan** |   |   |   |
 | 7  |   | **Padawan nivel-1** |  |  |  |
 
