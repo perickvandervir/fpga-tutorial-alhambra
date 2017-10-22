@@ -106,15 +106,15 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 
 ## Listado de Rangos
 
-| Nivel | Símbolo  | Rango  |  Bitpoints  | Descripción |
+| Número | Símbolo  | Rango  |  Bitpoints  | Descripción |
 |-------|----------|--------|-------------|-------------|
 |  0    | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/00-observador.png) | **Observador** | 0  |  Te gusta ojear las cosas. Todavía no te has atrevido a experimentar con circuitos digitales |
 |  1    | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete.png) | **Aspirante a Cadete** | 2 | Todavía no has ingresado en la academia Jedi de hardware, pero tienes interés, y te gustaría probar |
 |  2    | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete.png) | **Cadete** | 5 | ¡Bienvenido a la academia Jedi de hardware! Tienes curiosidad e Interés suficiente sobre hardware y tienes Icestudio instalado. ¡Listo para aprender! |
+| 3  |   |  **Cadete nivel 1** | 12 | | Ya eres capaz de sintetizar circuitos sencillos para encender leds, y cargarlos en FPGAs libres. Tu SAV continua aumentando |
 
 | Símbolo  | Rango  | Nivel |  Bitpoints  | Descripción |
 |----------|--------|-------|-------------|-------------|  
-|  | **Cadete nivel 1** | 3 | 12 | Ya eres capaz de sintetizar circuitos sencillos para encender leds, y cargarlos en FPGAs libres. Tu SAV continua aumentando |
 |  | **Cadete nivel 2** | 4 |  |
 |  | **Cadete nivel 3** | 5 |   |
 |  | **Aspirante a Padawan** | 6  |   |
