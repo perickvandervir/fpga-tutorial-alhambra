@@ -104,11 +104,14 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 
 ## Listado de Rangos
 
+| Símbolo  | Rango  | Nivel |  Bitpoints  | Descripción |
+|----------|--------|-------|-------------|-------------|
+|          | Observador |   0   |      0      | Te gusta ojear las cosas. Todavía no te has atrevido a experimentar con circuitos digitales
+|          | Aspirante a Cadete |   1   |      2      | Todavía no has ingresado en la academia Jedi de hardware, pero tienes interés, y te gustaría probar 
+|  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete.png)        | Cadete |   2   |      5      |  ¡Bienvenido a la academia Jedi de hardware! Tienes curiosidad e Interés suficiente sobre hardware y tienes Icestudio instalado. ¡Listo para aprender! 
+
 | Rango          |  BitPoints requeridos  |  Descripción  |
 |----------------|-------------|---------------|
-| **Observador** |  0          | Te gusta ojear las cosas. Todavía no te has atrevido a experimentar con circuitos digitales
-| **Aspirante a cadete** |  2  | Todavía no has ingresado en la academia Jedi de hardware, pero tienes interés, y te gustaría probar
-| **Cadete**    |  5  |  ¡Bienvenido a la academia Jedi de hardware! Tienes curiosidad e Interés suficiente sobre hardware y tienes Icestudio instalado. ¡Listo para aprender!
 | **Cadete nivel 1** | 12 | Ya eres capaz de sintetizar circuitos sencillos para encender leds, y cargarlos en FPGAs libres. Tu SAV continua aumentando
 | **Cadete nivel 2** |    |
 | **Cadete nivel 3** |   |
@@ -127,11 +130,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 | ... |  |
 
 
-| Símbolo  | Rango  | Nivel |  Bitpoints  | Descripción |
-|----------|--------|-------|-------------|-------------|
-|          | Observador |   0   |      0      | Te gusta ojear las cosas. Todavía no te has atrevido a experimentar con circuitos digitales
-|          | Aspirante a Cadete |   1   |      2      | Todavía no has ingresado en la academia Jedi de hardware, pero tienes interés, y te gustaría probar 
-|  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete.png)        | Cadete |   2   |      5      |  ¡Bienvenido a la academia Jedi de hardware! Tienes curiosidad e Interés suficiente sobre hardware y tienes Icestudio instalado. ¡Listo para aprender! 
+
 
 
 ## Autor
