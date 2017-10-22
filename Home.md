@@ -34,6 +34,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)     | Julian Caro      | Cadete | 10 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)    | Miquel Servera    | Cadete   | 7  | 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)    | Jorge Turiel      | Cadete   | 5  | 
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)   | Gerardo Gómez      | Cadete | 5 |
 
 
 
@@ -89,7 +90,6 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |43    | Sergio Arciénaga      | Aspirante a Cadete | 2 |
 |44    | César García (@elsatch) | Aspirante a Cadete | 2 |
 |45    | Javier Liras            | Aspirante a Cadete | 2 |
-|46    | Gerardo Gómez           | Aspirante a Cadete | 2 |
 |47    | Rubén Quintas           | Aspirante a Cadete | 2 |
 |48    | Goyo Regalado           | Aspirante a Cadete | 2 |
 |49    | Apolonio García         | Aspirante a Cadete | 2 |
