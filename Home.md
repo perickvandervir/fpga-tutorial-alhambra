@@ -22,10 +22,11 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 
 |Num  | Nombe             | Rango    | BitPoints |
 |-----|-------------------|----------|-----------|
-|     |  Alberto Valero   | Cadete   | 10 |
-|     |  Diego Lale       | Cadete   | 10 |
+|     | Alberto Valero    | Cadete   | 10 |
+|     | Diego Lale        | Cadete   | 10 |
 |     | G4lile0           | Cadete   | 10 |
 |     | J0s3b4            | Cadete   | 10 |
+|     | Lobotic           | Cadete   | 10 |
 |     | Miquel Servera    | Cadete   | 7  |
 
 
@@ -43,7 +44,6 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |5     | Jaime Laborda         | Aspirante a Cadete | 4 |
 |7     | Manuel Andújar        | Aspirante a Cadete | 4 |
 |8    | OskarLM               | Aspirante a Cadete | 4 |
-|9    | Lobotic               | Aspirante a Cadete | 4 |
 |10    | Ricardo Rodrigues     | Aspirante a Cadete | 4 |
 |11    | Jose Luis (@movilujo) | Aspirante a Cadete | 4 |
 |12    | Javier Muñoz          | Aspirante a Cadete | 4 |
