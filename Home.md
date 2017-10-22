@@ -20,12 +20,14 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 
 Personas que ya han accedido a la academia de Hardware Jedi, y que están en primer curso
 
-|Num  | Nombe   | Rango  | BitPoints |
-|-----|---------|--------|-----------|
-|     |  Alberto Valero   | Cadete   |  10  |
-|     |  Diego Lale       | Cadete   |  10  |
-|     | Miquel Servera    | Cadete   |  7   |
-|    | G4lile0            | Cadete   | 7 |
+|Num  | Nombe             | Rango    | BitPoints |
+|-----|-------------------|----------|-----------|
+|     |  Alberto Valero   | Cadete   | 10 |
+|     |  Diego Lale       | Cadete   | 10 |
+|     | G4lile0           | Cadete   | 7  |
+|     | Miquel Servera    | Cadete   | 7  |
+
+
 
 ### En la pre-academia
 
