@@ -376,6 +376,12 @@ Este mensaje aparece por dos motivos:
 
 ### Miquel Servera
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/entregas/Miquel-servera-Ejercicio-1.jpg)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/entregas/Miquel-servera-Ejercicio-2-1.jpg)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-02/entregas/Miquel-servera-Ejercicio-2-2.jpg)
+
 # Autor
 
 * [Juan González-Gómez](https://github.com/Obijuan) (Obijuan)
