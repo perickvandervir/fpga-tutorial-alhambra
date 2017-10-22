@@ -27,8 +27,8 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |     | G4lile0           | Cadete   | 10 |
 |     | J0s3b4            | Cadete   | 10 |
 |     | Lobotic           | Cadete   | 10 |
+|     | Ricardo Rodrigues | Cadete   | 10 |
 |     | Miquel Servera    | Cadete   | 7  |
-|     | Ricardo Rodrigues | Cadete   | 7  |
 |     | Jorge Turiel      | Cadete   | 5  |
 
 
