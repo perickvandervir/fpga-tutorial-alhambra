@@ -102,7 +102,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| Agustín Valero          | Aspirante a Cadete | 2 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| Antonio Morales         | Aspirante a Cadete | 2 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| Jorge (akirasan)        | Aspirante a Cadete | 2 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/00-observador.png)| Héctor López   | Observador  | 1 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/00-observador-min.png)| Héctor López   | Observador  | 1 |
 
 
 ## Listado de Rangos
