@@ -101,10 +101,14 @@ Esta es la placa que utilizó **Clifford Wolf** para hacer ingeniería inversa, 
 
 ### Kéfir I
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/placas-05-Kefir.jpg)
+
 | Ficha             |            |
 |-------------------|------------|
 | **Nombre**        | [Kéfir I](http://fpgalibre.sourceforge.net/Kefir/)  |
-| **Fabricante**    | INTI, Argentina   |
+| **Autor**         | Salvador E. Tropea |
+| **Institución**   | Instituto Nacional de Tecnología Industrial (INTI), Argentina   |
+| **Precio**        | [Contactar](http://fpgalibre.sourceforge.net/Kefir/index.html#contacto)  |
 | **FPGA**          | iCE40HX4K-TQ144 |
 | **Frecuencia**    | 24Mhz      |
 | **Periféricos**   | 4 Capsenses |
