@@ -96,6 +96,7 @@ Esta es la placa que utilizó **Clifford Wolf** para hacer ingeniería inversa, 
 | **Frecuencia**    | 12Mhz      |
 | **Leds**          | 8 verdes   |
 | **Periféricos**   | 4 leds verdes, 2 Displays de 7 segmentos, 4 pulsadores, 1 conector VGA |
+| **Observaciones** | El conector de VGA integrado da mucho juego :-)  |
 
 ### Kéfir I
 
