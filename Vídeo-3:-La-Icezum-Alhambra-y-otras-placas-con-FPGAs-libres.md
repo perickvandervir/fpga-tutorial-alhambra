@@ -82,11 +82,15 @@ Esta es la placa que utilizó **Clifford Wolf** para hacer ingeniería inversa, 
 | **Leds**          | 8 verdes   |
 | **Observaciones** | Acceso a 40 pines de la FPGA |
 
+### Nandland Go Board
+
+
+
 ### Kéfir I
 
 TODO
 
-### Nandland Go Board
+
 
 TODO
 
