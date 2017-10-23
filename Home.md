@@ -10,8 +10,9 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 |-------|---------|
 | 1 | [Electrónica digital para todos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos)    |
 | 2 | [¡Poniendo en marcha Icestudio!](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!)  |
-| 3 | [Mi primer circuito: Encendiendo un led](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-3:-Mi-primer-circuito.-Encendiendo-un-led)  (En construcción...)|
-| 4 | Todo ... |
+| 3 | [](La Icezum Alhambra y otras placas con FPGAs libres)  (En construcción...)|
+| 4 | [Mi primer circuito: Encendiendo un led](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-3:-Mi-primer-circuito.-Encendiendo-un-led)  (En construcción...)|
+| 5 | Todo ... |
 |...|...|
 
 ## Academia Jedi de hardware
