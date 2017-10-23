@@ -131,8 +131,35 @@ Esta es la placa que utilizó **Clifford Wolf** para hacer ingeniería inversa, 
 
 ## Otras placas no soportadas todavía
 
-* Mystorm BlackIce
-* Olimex
+Placas con FPGAs libre, soportadas por el project icestorm, pero que todavía no están incluidas en Icestudio
+
+### Olimex iCE40HX1K-EVB
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/placas-07-Olimex.png)
+
+| Ficha             |            |
+|-------------------|------------|
+| **Nombre**        | [Olimex iCE40HX1K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware)  |
+| **Fabricante**   | Olimex  |
+| **Precio**        | 22€  |
+| **FPGA**          | ICE40Hx1K |
+| **Frecuencia**    | 100Mhz      |
+| **Periféricos**   | SRAM 256Kx16, 2 LEDs, 2 Pulsadores  |
+| **Observaciones** | Hardware libre |
+
+### Mystorm BlackIce
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/placas-08-Mystorm-blackice.jpg)
+
+| Ficha             |            |
+|-------------------|------------|
+| **Nombre**        | [Mystorm Blackice](https://mystorm-org.github.io/Guide/starting/)  |
+| **Fabricante**   | Mystorm, UK  |
+| **Precio**        | 45€  |
+| **FPGA**          | ICE40Hx4K |
+| **Frecuencia**    | 100Mhz      |
+| **Periféricos**   | SRAM 256Kx16, 6 LEDs, 3 Pulsadores  |
+| **Observaciones** | Hardware libre |
 
 # Placa Icezum Alhambra
 
