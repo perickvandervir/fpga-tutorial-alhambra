@@ -85,7 +85,17 @@ Esta es la placa que utilizó **Clifford Wolf** para hacer ingeniería inversa, 
 
 ### Nandland Go Board
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/placas-04-go-board.jpg)
 
+| Ficha             |            |
+|-------------------|------------|
+| **Nombre**        | [Nandland Go Board](https://www.nandland.com/goboard/introduction.html)  |
+| **Fabricante**    | Crowdfunding    |
+| **Precio**        | $60       |
+| **FPGA**          | ICE40HX-1K |
+| **Frecuencia**    | 12Mhz      |
+| **Leds**          | 8 verdes   |
+| **Periféricos**   | 4 leds verdes, 2 Displays de 7 segmentos, 4 pulsadores, 1 conector VGA |
 
 ### Kéfir I
 
