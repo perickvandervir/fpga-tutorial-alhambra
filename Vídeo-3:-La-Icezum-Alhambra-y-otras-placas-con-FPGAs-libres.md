@@ -37,6 +37,31 @@ Ahí podemos ver todas las **placas** que están actualmente **soportadas** en *
 * [Lattice Icestick](http://www.latticesemi.com/icestick)
 * [Icoboard 1.0](http://icoboard.org/about-icoboard.html)
 
+### Lattice Icestick
+
+TODO
+
+### Lattice Breakout Board
+
+TODO
+
+### Kéfir I
+
+TODO
+
+### Nandland Go Board
+
+TODO
+
+### Icoboard
+
+TODO
+
+## Otras placas no soportadas todavía
+
+* Mystorm BlackIce
+* Olimex
+
 # Borrador
 
 -Mostrar en las slides y en la webcam otras placas:
