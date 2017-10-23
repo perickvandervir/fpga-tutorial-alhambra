@@ -72,6 +72,16 @@ Esta es la placa que utilizó **Clifford Wolf** para hacer ingeniería inversa, 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/placas-04-breakout-board.png)
 
+| Ficha             |            |
+|-------------------|------------|
+| **Nombre**        | [Breakout Board](http://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard.aspx)  |
+| **Fabricante**    | Lattice    |
+| **Precio**        | $43        |
+| **FPGA**          | ICE40HX-8K CT256 |
+| **Frecuencia**    | 12Mhz      |
+| **Leds**          | 8 verdes   |
+| **Observaciones** | Acceso a 40 pines de la FPGA |
+
 ### Kéfir I
 
 TODO
