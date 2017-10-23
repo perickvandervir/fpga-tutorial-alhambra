@@ -68,25 +68,25 @@ TODO
 * Mystorm BlackIce
 * Olimex
 
-## Placa Icezum Alhambra
+# Placa Icezum Alhambra
 
-### Descripción
+## Descripción
   * Repo
   * Diseñador: Eladio Delgado
 
-### Kicad
+## Kicad
 
 -Alhambra y kicad
   * Mostrar esquema
   * Mostrar PCB
   * Mostrar 3D
 
-### FreeCAD
+## FreeCAD
 -Alhambra y Freecad
   * Componentes 3D disponibles
   * Mostrar conector micro-usb en freecad
 
-### Accesorios 3D
+## Accesorios 3D
 -Accesorios alhambra: Soporte imprimible
 
 
