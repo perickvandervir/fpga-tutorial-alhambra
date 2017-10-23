@@ -67,29 +67,34 @@ TODO
 
 # Borrador
 
--Icezum Alhambra
+## Placa Icezum Alhambra
+
+### Descripción
   * Repo
   * Diseñador: Eladio Delgado
+
+### Kicad
 
 -Alhambra y kicad
   * Mostrar esquema
   * Mostrar PCB
   * Mostrar 3D
 
+### FreeCAD
 -Alhambra y Freecad
   * Componentes 3D disponibles
   * Mostrar conector micro-usb en freecad
 
+### Accesorios 3D
 -Accesorios alhambra: Soporte imprimible
 
-# Ejercicios propuestos (X BitPoints)
 
-* **Ejercicio 1** (2 Bitpoints): Alhambra + kicad  (+1 Bitpoint github)
-* **Ejercicio 2**:(2 Bitpoints): Alhambra + Freecad (+1 Bitpoint github)
-* **Ejercicio 3**:(2 Bitpoints): Impresión soporte Icezum Alhambra
-* **Ejercicio 4: (Hasta 2 Bitpoints): Libre 
+# Ejercicios propuestos (10 BitPoints)
 
-Idea: Ejercicio libre opcional: Premiar la creatividad. Cualquier aportación relacionada
+* **Ejercicio 1** (2 Bitpoints): Alhambra + kicad. 2 pantallazos  (+1 Bitpoint github)
+* **Ejercicio 2**:(2 Bitpoints): Alhambra + Freecad. 1 pantallazo con la FPGA de lattice abierta (+1 Bitpoint github)
+* **Ejercicio 3**:(2 Bitpoints): Impresión soporte Icezum Alhambra. Foto
+* **Ejercicio 4: (Hasta 2 Bitpoints): Ejercicio libre. Premiar la creatividad
 
 # Ejercicios entregados
 
