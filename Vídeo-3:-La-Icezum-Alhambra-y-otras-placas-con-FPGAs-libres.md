@@ -12,6 +12,23 @@ Las herramientas que usaremos en estos tutoriales son [Icestudio](https://github
 
 TODO
 
+# Placas con FPGAs libres
+
+Ya tenemos el software listo para diseñar circuitos digitales: **Icestudio**. Como este es un curso práctico, necesitamos una **placa real** con la que practicar. Al fin y al cabo, **¡Somos makers!** y nos gusta mancharnos las manos construyendo cosas, y aprender haciendo. La placa que usaremos será la **Icezum Alhambra**, pero existen más placas con **FPGAs libres**, que están soportadas por Icestudio
+
+## Placas soportadas por Icestudio
+
+Abrimos Icestudio y pinchamos en la opción **Seleccionar/Placa**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/placas-01.jpg)
+
+Ahí podemos ver todas las **placas** que están actualmente **soportadas** en **Icestudio 0.3.1**:
+
+* [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki)
+* [Kéfir I](http://fpgalibre.sourceforge.net/Kefir/)
+* [Nandland Go Board](https://www.nandland.com/goboard/introduction.html)
+
+
 # Borrador
 
 -Herramientas: Icestudio + Icezum Alhambra. Pero hay otras placas
