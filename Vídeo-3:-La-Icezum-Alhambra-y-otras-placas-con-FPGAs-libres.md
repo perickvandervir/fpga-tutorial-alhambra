@@ -6,7 +6,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-TODO
+Las herramientas que usaremos en estos tutoriales son [Icestudio](https://github.com/FPGAwars/icestudio) y la placa [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki). Pero existen otras placas con **FPGAs libres** que se están desarrollando en la comunidad. La icezum Alhambra es una placa libre, y puedes ver sus tripas usando herramientas libres como [Kicad](http://kicad-pcb.org/). También puedes ver cómo están hechos sus componentes 3D y sus accesorios, con [Freecad](https://www.freecadweb.org). Es importante ser conscientes de lo que implican las tecnologías libres: **¡Acceso total a sus planos!** ¡Esto nos da un inmenso poder! Las empresas van y vienen, y con ellas sus productos. Pero **lo libre permanece**
 
 # Contenido
 
