@@ -121,14 +121,13 @@ Esta es la placa que utilizó **Clifford Wolf** para hacer ingeniería inversa, 
 
 | Ficha             |            |
 |-------------------|------------|
-| **Nombre**        |   |
-| **Autor**         |  |
-| **Institución**   |    |
-| **Precio**        |   |
-| **FPGA**          |  |
-| **Frecuencia**    |       |
-| **Periféricos**   |  |
-| **Observaciones** |    |
+| **Nombre**        | [Icoboard 1.0](http://icoboard.org/about-icoboard.html)  |
+| **Fabricante**   |  Trenz Electrónic  |
+| **Precio**        | 90€  |
+| **FPGA**          | ICE40Hx8K |
+| **Frecuencia**    | 100Mhz      |
+| **Periféricos**   | SRAM 8Mx16, 3 LEDs, 2 Pulsadores  |
+| **Observaciones** | Sombrero para Raspberry PI |
 
 ## Otras placas no soportadas todavía
 
