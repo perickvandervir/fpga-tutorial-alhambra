@@ -19,7 +19,7 @@ TODO
 
 Una FPGA libre es aquella que tiene **disponible toda su documentación interna** con tal detalle que sea posible hacer herramientas software que permitan la síntesis de hardware y su carga en la FPGA. Actualmente las únicas FPGAs libres son las de la **familia ICE40 de Lattice**. Disponemos de toda la documentación gracias a **Clifford Wolf**, que hizo ingeniería inversa y creó el **proyecto Icestorm**
 
-(Foto dibujo de lattice y la llave)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/placas-02.png)
 
 # Placas con FPGAs libres
 
