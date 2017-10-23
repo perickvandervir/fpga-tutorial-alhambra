@@ -27,7 +27,9 @@ Ahí podemos ver todas las **placas** que están actualmente **soportadas** en *
 * [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki)
 * [Kéfir I](http://fpgalibre.sourceforge.net/Kefir/)
 * [Nandland Go Board](https://www.nandland.com/goboard/introduction.html)
-
+* [Lattice Breakout Board](http://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard.aspx)
+* [Lattice Icestick](http://www.latticesemi.com/icestick)
+* [Icoboard 1.0](http://icoboard.org/about-icoboard.html)
 
 # Borrador
 
