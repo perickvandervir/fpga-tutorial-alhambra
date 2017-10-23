@@ -67,13 +67,6 @@ TODO
 
 # Borrador
 
--Mostrar en las slides y en la webcam otras placas:
-  * Icestick
-  * Lattice 8k
-  * Go-board
-  * Keffir
-  * Icoboard
-  * Otras: Mystorm, olimex
 -Icezum Alhambra
   * Repo
   * Diseñador: Eladio Delgado
