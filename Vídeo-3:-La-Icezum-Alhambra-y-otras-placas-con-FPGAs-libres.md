@@ -19,7 +19,7 @@ Una FPGA libre es aquella que tiene **disponible toda su documentación interna*
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/placas-02.png)
 
-El resto de FPGAs son privativas. Sólo las podemos usar con el softaware proporcionado por el fabricante, y sólo se puede hacer con ellas lo que el fabricante a decidido que se puede hacer. No están disponibles sus detalles internos con el detalle suficiente, ni el formato del bitstream. Esto hace imposible, por ejemplo, que alguien que no sea el fabricante pueda crear un software para facilitar su uso, como Icestudio. O que se pueda sintetizar hardware desde una Raspberry pi o cualquier otra plataforma diferente a la decidida por el fabricante
+El resto de FPGAs son privativas. Sólo las podemos usar con **el softaware proporcionado por el fabricante**, y sólo se puede hacer con ellas lo que el fabricante a decidido que se puede hacer. **No están disponibles sus detalles internos** con el detalle suficiente, ni el formato del *bitstream*. Esto hace imposible, por ejemplo, que alguien que no sea el fabricante pueda crear un software para facilitar su uso, como Icestudio. O que se pueda sintetizar hardware desde una Raspberry pi o cualquier otra plataforma diferente a la decidida por el fabricante
 
 # Placas con FPGAs libres
 
