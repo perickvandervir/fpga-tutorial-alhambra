@@ -14,6 +14,10 @@ Las herramientas que usaremos en estos tutoriales son [Icestudio](https://github
 
 TODO
 
+# FPGAs libres
+
+TODO
+
 # Placas con FPGAs libres
 
 Ya tenemos el software listo para diseñar circuitos digitales: **Icestudio**. Como este es un curso práctico, necesitamos una **placa real** con la que practicar. Al fin y al cabo, **¡Somos makers!** y nos gusta mancharnos las manos construyendo cosas, y aprender haciendo. La placa que usaremos será la **Icezum Alhambra**, pero existen más placas con **FPGAs libres**, que están soportadas por Icestudio
