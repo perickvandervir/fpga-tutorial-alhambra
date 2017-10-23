@@ -33,8 +33,6 @@ Ahí podemos ver todas las **placas** que están actualmente **soportadas** en *
 
 # Borrador
 
--Herramientas: Icestudio + Icezum Alhambra. Pero hay otras placas
--Mostrar en icestudio todas las placas soportadas
 -Mostrar en las slides y en la webcam otras placas:
   * Icestick
   * Lattice 8k
