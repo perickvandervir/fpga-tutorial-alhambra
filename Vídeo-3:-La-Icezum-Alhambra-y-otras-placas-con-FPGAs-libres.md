@@ -57,10 +57,15 @@ Esta es la placa que utilizó **Clifford Wolf** para hacer ingeniería inversa, 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/placas-03-icestick.png)
 
-| Nombre     | Icestick  |
+| Ficha      |            |
 |------------|------------|
-| Fabricante:| Lattice    |
-| Precio:    | $20        |
+| Nombre     | [Icestick](http://www.latticesemi.com/icestick)   |
+| Fabricante | Lattice    |
+| Precio     | $20        |
+| FPGA       | Ice40HX-1K |
+| Frecuencia | 12Mhz      |
+| Leds       | 4 rojos, 1 verde |
+| Observaciones | Es la placa usada originariamente por Clifford Wolf para hacer ingeniería inversa |
 
 ### Lattice Breakout Board
 
