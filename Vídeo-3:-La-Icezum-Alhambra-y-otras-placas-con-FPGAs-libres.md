@@ -53,7 +53,9 @@ Ahí podemos ver todas las **placas** que están actualmente **soportadas** en *
 
 ### Lattice Icestick
 
-TODO
+Esta es la placa que utilizó **Clifford Wolf** para hacer ingeniería inversa, y por eso es una pieza de coleccionista: es la primera placa en la que se sintetizó hardware usando sólo herramientas libres
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/placas-03-icestick.png)
 
 ### Lattice Breakout Board
 
