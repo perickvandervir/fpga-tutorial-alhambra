@@ -105,10 +105,10 @@ Esta es la placa que utilizó **Clifford Wolf** para hacer ingeniería inversa, 
 |-------------------|------------|
 | **Nombre**        | [Kéfir I](http://fpgalibre.sourceforge.net/Kefir/)  |
 | **Fabricante**    | INTI, Argentina   |
-| **FPGA**          | ICE40HX-4K |
+| **FPGA**          | iCE40HX4K-TQ144 |
 | **Frecuencia**    | 24Mhz      |
 | **Periféricos**   | 4 Capsenses |
-| **Observaciones** | Compatible Arduino. Hardware libre  |
+| **Observaciones** |  Hardware libre. Kit educativo, inclusivo y reciclable. Compatible Arduino  |
 
 ### Icoboard
 
