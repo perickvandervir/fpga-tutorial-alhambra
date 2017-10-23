@@ -70,7 +70,7 @@ Esta es la placa que utilizó **Clifford Wolf** para hacer ingeniería inversa, 
 
 ### Lattice Breakout Board
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/placas-04-breakout-board.png)
 
 ### Kéfir I
 
