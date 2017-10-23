@@ -65,8 +65,6 @@ TODO
 * Mystorm BlackIce
 * Olimex
 
-# Borrador
-
 ## Placa Icezum Alhambra
 
 ### Descripción
