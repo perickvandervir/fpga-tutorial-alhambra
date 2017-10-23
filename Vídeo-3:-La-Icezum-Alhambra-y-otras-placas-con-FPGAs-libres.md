@@ -16,7 +16,8 @@ Las herramientas que usaremos en estos tutoriales son [Icestudio](https://github
   * [Otras placas no soportadas todavía](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-3:-La-Icezum-Alhambra-y-otras-placas-con-FPGAs-libres#otras-placas-no-soportadas-todav%C3%ADa)
 * [La placa Icezum Alhambra](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-3:-La-Icezum-Alhambra-y-otras-placas-con-FPGAs-libres#placa-icezum-alhambra)
 * [Ejercicios propuestos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-3:-La-Icezum-Alhambra-y-otras-placas-con-FPGAs-libres#ejercicios-propuestos-10-bitpoints)
-
+* [Ejercicios entregados](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-3:-La-Icezum-Alhambra-y-otras-placas-con-FPGAs-libres#ejercicios-entregados)
+* []()
 
 # FPGAs libres
 
