@@ -116,7 +116,18 @@ Esta es la placa que utilizó **Clifford Wolf** para hacer ingeniería inversa, 
 
 ### Icoboard
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/placas-06-icoboard.jpg)
+
+| Ficha             |            |
+|-------------------|------------|
+| **Nombre**        |   |
+| **Autor**         |  |
+| **Institución**   |    |
+| **Precio**        |   |
+| **FPGA**          |  |
+| **Frecuencia**    |       |
+| **Periféricos**   |  |
+| **Observaciones** |    |
 
 ## Otras placas no soportadas todavía
 
