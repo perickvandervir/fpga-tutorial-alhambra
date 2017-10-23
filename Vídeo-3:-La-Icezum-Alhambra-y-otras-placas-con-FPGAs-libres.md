@@ -10,6 +10,8 @@ Las herramientas que usaremos en estos tutoriales son [Icestudio](https://github
 
 # Contenido
 
+* [Placas con FPGAs libres](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-3:-La-Icezum-Alhambra-y-otras-placas-con-FPGAs-libres#placas-con-fpgas-libres)
+
 TODO
 
 # Placas con FPGAs libres
