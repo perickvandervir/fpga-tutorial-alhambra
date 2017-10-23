@@ -13,13 +13,13 @@ Las herramientas que usaremos en estos tutoriales son [Icestudio](https://github
 * [FPGAs Libres](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-3:-La-Icezum-Alhambra-y-otras-placas-con-FPGAs-libres#fpgas-libres)
 * [Placas con FPGAs libres](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-3:-La-Icezum-Alhambra-y-otras-placas-con-FPGAs-libres#placas-con-fpgas-libres)
 
-TODO
-
 # FPGAs libres
 
 Una FPGA libre es aquella que tiene **disponible toda su documentación interna** con tal detalle que sea posible hacer herramientas software que permitan la síntesis de hardware y su carga en la FPGA. Actualmente las únicas FPGAs libres son las de la **familia ICE40 de Lattice**. Disponemos de toda la documentación gracias a **Clifford Wolf**, que hizo ingeniería inversa y creó el **proyecto Icestorm**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/placas-02.png)
+
+El resto de FPGAs son privativas. Sólo las podemos usar con el softaware proporcionado por el fabricante, y sólo se puede hacer con ellas lo que el fabricante a decidido que se puede hacer. No están disponibles sus detalles internos con el detalle suficiente, ni el formato del bitstream. Esto hace imposible, por ejemplo, que alguien que no sea el fabricante pueda crear un software para facilitar su uso, como Icestudio. O que se pueda sintetizar hardware desde una Raspberry pi o cualquier otra plataforma diferente a la decidida por el fabricante
 
 # Placas con FPGAs libres
 
