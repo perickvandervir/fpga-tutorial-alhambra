@@ -272,6 +272,8 @@ Modemos **rotar** y **desplazar** la cámara para observar los **detalles de la 
 
 [Soporte imprimible para la Icezum Alhambra](https://github.com/FPGAwars/Icezum-Alhambra-3D-support/wiki)
 
+[Soporte vertical](https://www.thingiverse.com/thing:2105248), por Julian Caro Linares
+
 # Ejercicios propuestos (10 BitPoints)
 
 * **Ejercicio 1** (2 Bitpoints): Alhambra + kicad. 2 pantallazos  (+1 Bitpoint github)
