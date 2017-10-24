@@ -194,7 +194,9 @@ Es la placa que usaremos en este tutorial
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Foto-Eladio-RI.jpg)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/blob/master/wiki/Tutorial-03/Fotos-Eladio-Andres-Obijuan.jpg)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Fotos-Eladio-Andres-Obijuan-2.jpg)
 
 ## Kicad
 
