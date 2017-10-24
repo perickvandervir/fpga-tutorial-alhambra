@@ -292,14 +292,14 @@ Existen algunos **accesorios 3D libres** para imprimir, para la Icezum Alhambra,
 
 ### Soporte con protección
 
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Accesorios-3D-02.jpg)   |  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Accesorios-3D-03.jpg)     |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Accesorios-3D-03.jpg)   |  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Accesorios-3D-03.jpg)     |
 |---------|------------|
-| ![]()   |  ![]()     |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Accesorios-3D-02.jpg)   |  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Accesorios-3D-03.jpg)     |
 
 |                 |       |
 |-----------------|-------|
 | **Enlace**      |  [Soporte con protección](https://github.com/AntonioAM/3D-items/tree/master/Tech/FPGAwars%20Alhambra/Protector%20Alhambra) |
-| **Autor**       | Antonio Andújar |
+| **Autor**       | [Antonio Andújar](https://github.com/AntonioAM) |
 | **Descripción** | Soporte para la Icezum Alhambra con protección de cortocircuito  |
 
 
