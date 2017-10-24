@@ -192,7 +192,7 @@ Es la placa que usaremos en este tutorial
 
 ## Eladio Delgado
   
-  Eladio Delgado es el diseñador de la Icezum Alhambra. Nos conocemos desde hace más de 20 años. Fuimos compañeros de estudios en la ETSIT-UPM. Eladio es una de las personas que más sabe de electrónica que conozco
+  Eladio Delgado es el **diseñador** de la Icezum Alhambra. Nos conocemos desde hace más de 20 años. Fuimos compañeros de estudios en la ETSIT-UPM. Eladio es una de las personas que más sabe de electrónica que conozco
 
   En esta entrevista que le hizo **Enrique Gómez** de [Rincón Ingenieril](https://www.rinconingenieril.es/) puedes saber más de él
 
