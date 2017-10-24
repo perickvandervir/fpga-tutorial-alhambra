@@ -237,9 +237,17 @@ Y ahí podemos ver todos los detalles, y curiosear lo que queramos. Para volver 
 
 ### Placa de Circuito Impreso (PCB)
 
-  * Mostrar esquema
-  * Mostrar PCB
-  * Mostrar 3D
+Para ver el diseño de la placa de circuito impreso (PCB) hacemos doble click en **icezum.kicad_pcb** en la **ventana principal de Kicad**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Alhambra-Kicad-04.png)
+
+Y se nos abre el diseño
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Alhambra-Kicad-05.png)
+
+### Modelo en 3D
+
+
 
 ## FreeCAD
 
