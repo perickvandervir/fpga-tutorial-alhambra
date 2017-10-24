@@ -365,9 +365,14 @@ Existen algunos **accesorios 3D libres** para imprimir, para la Icezum Alhambra,
 * **Eladio Delgado**, es el diseñador de la placa IceZum Alhambra. Y el encargado de la gestión de la fabricación de la placa. Todo lo dirige desde su Rural Workshop en [Pinos del Valle](https://es.wikipedia.org/wiki/Pinos_del_Valle) (Granada) ¡Muchas gracias!
 * **Andrés Prieto-Moreno**, es mi Maestro Jedi, y me ha enseñado todo lo que yo sé ahora ¡Muchas gracias!. Además, es el creador de [AlhambraBits](https://alhambrabits.com/) y el mecenas que ha financiado las Icezum Alhambras, para que todos podamos disponer de ellas. ¡Muchas gracias!
 * [Jesús Arroyo](https://github.com/Jesus89) es el creador de [Icestudio](https://github.com/FPGAwars/icestudio) y su desarrollador principal. Gracias a su talento está consiguiendo que cientos de personas puedan acceder al desarrollo de circuitos digitales, de una forma muy sencilla. ¡Muchas gracias!
+* A **Salvador Tropea**, del INTI, por donerme una placa Kéfir ¡Muchas gracias!
+* Al **proyecto Mystorm**, por su donación de 2 placas Blackice, para Jesús y para mí. ¡Muchas gracias!
+* A **Enrique Gómez**, de [Rincón Ingenieril](https://www.rinconingenieril.es/), por la foto suya de Eladio que he usado en el tutorial.
 
 
 # Enlaces
+
+
 
 # FAQs
 
