@@ -316,13 +316,15 @@ Existen algunos **accesorios 3D libres** para imprimir, para la Icezum Alhambra,
 | **Autor**       | [Julian Caro Linares](https://github.com/jcarolinares) |
 | **Descripción** | Soporte vertical  |
 
-# Ejercicios propuestos (10 BitPoints)
+# Ejercicios propuestos (11 BitPoints)
 
 * **Ejercicio 1** (2 Bitpoints): Instalar kicad. Bajarse el repositorio de la Icezum Alhambra y abrir el proyecto en Kicad. **Sacar dos pantallazos**, uno de una parte del esquema, y otro del PCB o del modelo 3D. Enviar las capturas por redes sociles (mención a @Obijuan_cube). Se concederá **1 Bitpoint adicional** por subirlas al [repositorio de entregas de github](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs)
 
-* **Ejercicio 2**:(2 Bitpoints): Alhambra + Freecad. 1 pantallazo con la FPGA de lattice abierta (+1 Bitpoint github)
-* **Ejercicio 3**:(2 Bitpoints): Impresión soporte Icezum Alhambra. Foto
-* **Ejercicio 4: (Hasta 2 Bitpoints): Ejercicio libre. Premiar la creatividad
+* **Ejercicio 2**:(2 Bitpoints): Instalar Freecad. Elegir un componente de la Icezum Alhambra y bajarse su archivo fuente en Freecad. Abrirlo y sacar 1 pantallazo. Se concederá **1 Bitpoint adicional** por subirlas al [repositorio de entregas de github](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs)
+
+* **Ejercicio 3**:(2 Bitpoints): Seleccionar alguno de los accesorios 3D de la Icezum Alhambra, imprimirlo en 3D y enviar una foto por redes sociales (con mención a @Obijuan_cube). Se concederá **1 Bitpoint adicional** por subirlas al [repositorio de entregas de github](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs)
+
+* **Ejercicio 4: (Hasta 2 Bitpoints): **Ejercicio libre**. Premiar la creatividad. Entrega por redes sociales o por github
 
 # Ejercicios entregados
 
