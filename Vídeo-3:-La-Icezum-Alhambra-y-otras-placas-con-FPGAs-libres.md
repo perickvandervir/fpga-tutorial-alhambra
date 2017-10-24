@@ -196,6 +196,8 @@ Es la placa que usaremos en este tutorial
 | **Periféricos**   | 8 LEDs, 2 pulsadores, 4 canales A/D  |
 | **Observaciones** | Hardware libre. Compatible Arduino |
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Alhambra-parts-01.png)
+
 ## Eladio Delgado
   
   Eladio Delgado es el **diseñador** de la Icezum Alhambra. Nos conocemos desde hace más de 20 años. Fuimos compañeros de estudios en la ETSIT-UPM. Eladio es una de las personas que más sabe de electrónica que conozco
