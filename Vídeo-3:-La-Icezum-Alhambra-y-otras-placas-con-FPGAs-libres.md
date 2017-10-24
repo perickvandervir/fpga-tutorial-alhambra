@@ -281,8 +281,9 @@ Existen algunos **accesorios 3D libres** para imprimir, para la Icezum Alhambra,
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Accesorios-3D-01.jpg)
 
-| **Enlace**      | [Soporte FPGAWars](https://github.com/FPGAwars/Icezum-Alhambra-3D-support/wiki)   |
+|                 |       |
 |-----------------|-------|
+| **Enlace**      | [Soporte FPGAWars](https://github.com/FPGAwars/Icezum-Alhambra-3D-support/wiki)   |
 | **Autor**       | Juan González-Gómez (Obijuan) |
 | **Descripción** | Soporte para la Icezum Alhambra, con y sin las letras de FPGAwars  |
 
