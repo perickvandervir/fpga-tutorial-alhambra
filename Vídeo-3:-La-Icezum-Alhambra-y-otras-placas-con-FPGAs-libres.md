@@ -1,4 +1,3 @@
-# La Icezum Alhambra y otras placas con FPGAs libres
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Tut3-Portada.png)
 
