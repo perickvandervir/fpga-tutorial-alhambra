@@ -172,6 +172,17 @@ Placas con FPGAs libre, soportadas por el project icestorm, pero que todavía no
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-16.jpg)
 
+| Ficha             |            |
+|-------------------|------------|
+| **Nombre**        | [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki)  |
+| **Autor**         | Eladio Delgado
+| **Fabricante**    | [Mareldem Technologies](http://mareldem.com/), Pinos del valle, Granada, España  |
+| **Precio**        | 65€  |
+| **FPGA**          | ICE40Hx1K |
+| **Frecuencia**    | 12Mhz      |
+| **Periféricos**   | 8 LEDs, 2 pulsadores, 4 canales A/D  |
+| **Observaciones** | Hardware libre. Compatible Arduino |
+
 ## Descripción
   * Repo
   * Diseñador: Eladio Delgado
