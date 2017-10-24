@@ -271,6 +271,7 @@ En este enlace podemos encontrar [una tabla con todos los componentes y sus fich
 
 Podemos descargar cualquiera de ellos y abrirlo con Freecad. Por ejemplo, vamos a ver el conector micro-usb. Descargamos el fichero [USB-micro-B.fcstd](https://github.com/FreeCAD/FreeCAD-library/raw/master/Electrical%20Parts/electronic-components/USB-connectors/smd/USB-micro-B.fcstd)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Alhambra-Freecad-01.png)
 
 ## Accesorios 3D
 
