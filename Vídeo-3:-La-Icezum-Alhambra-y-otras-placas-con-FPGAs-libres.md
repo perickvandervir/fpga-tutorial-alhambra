@@ -226,7 +226,9 @@ Podemos pinchar en cualquier de los **6 bloques** para ver los detalles. ¡Ojo! 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Alhambra-Kicad-02.png)
 
+Y ahí podemos ver todos los detalles, y curiosear lo que queramos. Para volver a la hoja índice pinchamos en el icono **Leave sheet** de la parte superior
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Alhambra-Kicad-03.png)
 
 La versión actual es la 1.1, que tiene unos ligeros cambios y correcciones, y se hicieron también con Altium, y están pendientes de migrarse a Kicad (pero el fichero fuente en Altium y los ficheros de fabricación (Gerbers) están disponibles en el repositorio)
 
