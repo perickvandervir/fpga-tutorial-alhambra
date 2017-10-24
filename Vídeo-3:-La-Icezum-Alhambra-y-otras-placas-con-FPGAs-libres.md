@@ -263,10 +263,14 @@ Modemos **rotar** y **desplazar** la cámara para observar los **detalles de la 
 
 ## FreeCAD
 
-[FreeCAD](https://www.freecadweb.org/) es una aplicación libre de **Diseño 3D**. Todos los componentes de la Icezum Alhambra se han modelado con Freecad, y están disponibles en la [biblioteca de piezas de Freecad](https://github.com/FreeCAD/FreeCAD-library), en Github
+[FreeCAD](https://www.freecadweb.org/) es una aplicación libre de **Diseño 3D**. Todos **los componentes** de la Icezum Alhambra se han **modelado** con **Freecad**, y están disponibles en la [biblioteca de piezas de Freecad](https://github.com/FreeCAD/FreeCAD-library), en Github
 
-  * Componentes 3D disponibles
-  * Mostrar conector micro-usb en freecad
+No sólo disponemos de los modelos para usarlos en nuestras placas, sino que tenemos los ficheros **fuentes** para **aprender cómo están hechos**
+
+En este enlace podemos encontrar [una tabla con todos los componentes y sus ficheros fuente](https://github.com/FPGAwars/icezum/wiki#footprints-and-3d-models)
+
+Podemos descargar cualquiera de ellos y abrirlo con Freecad. Por ejemplo, vamos a ver el conector micro-usb. Descargamos el fichero [USB-micro-B.fcstd](https://github.com/FreeCAD/FreeCAD-library/raw/master/Electrical%20Parts/electronic-components/USB-connectors/smd/USB-micro-B.fcstd)
+
 
 ## Accesorios 3D
 
