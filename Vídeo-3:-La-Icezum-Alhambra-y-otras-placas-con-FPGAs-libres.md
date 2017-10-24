@@ -208,7 +208,7 @@ En esta foto, de izquierda a derecha estamos **Andrés Prieto-Moreno**, Obijuan 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Fotos-Eladio-Andres-Obijuan-2.jpg)
 
-Y por supuesto, aprovechamos para tomarnos unas cervezas juntos, y disfrutar de nuestra amistad :-)
+Y por supuesto, aprovechamos para tomarnos unas cervezas juntos, y ponernos al día :-)
 
 ## Kicad
 
