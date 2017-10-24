@@ -204,7 +204,7 @@ Eladio vive en [Pinos del Valle](https://es.wikipedia.org/wiki/Pinos_del_Valle),
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/blob/master/wiki/Tutorial-03/Fotos-Eladio-Andres-Obijuan.jpg)
 
-En esta foto, de izquierda a derecha estamos **Andrés Prieto-Moreno**, Obijuan y Eladio, en el Rural Workshop. Todos los años, en verano, coincidimos un día en Pinos
+En esta foto, de izquierda a derecha estamos **Andrés Prieto-Moreno**, Obijuan y Eladio, en el Rural Workshop. Todos los años, en verano, coincidimos un día en Pinos del Valle
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Fotos-Eladio-Andres-Obijuan-2.jpg)
 
