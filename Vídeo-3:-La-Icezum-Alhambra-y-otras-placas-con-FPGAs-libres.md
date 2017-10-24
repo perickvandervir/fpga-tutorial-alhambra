@@ -177,6 +177,7 @@ Placas con FPGAs libre, soportadas por el project icestorm, pero que todavía no
 | **Nombre**        | [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki)  |
 | **Autor**         | Eladio Delgado
 | **Fabricante**    | [Mareldem Technologies](http://mareldem.com/), Pinos del valle, Granada, España  |
+| **Donde conseguirla** | [Alhambrabits](https://alhambrabits.com)
 | **Precio**        | 65€  |
 | **FPGA**          | ICE40Hx1K |
 | **Frecuencia**    | 12Mhz      |
