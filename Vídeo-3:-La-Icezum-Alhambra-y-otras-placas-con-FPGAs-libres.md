@@ -367,12 +367,21 @@ Existen algunos **accesorios 3D libres** para imprimir, para la Icezum Alhambra,
 * [Jesús Arroyo](https://github.com/Jesus89) es el creador de [Icestudio](https://github.com/FPGAwars/icestudio) y su desarrollador principal. Gracias a su talento está consiguiendo que cientos de personas puedan acceder al desarrollo de circuitos digitales, de una forma muy sencilla. ¡Muchas gracias!
 * A **Salvador Tropea**, del INTI, por donerme una placa Kéfir ¡Muchas gracias!
 * Al **proyecto Mystorm**, por su donación de 2 placas Blackice, para Jesús y para mí. ¡Muchas gracias!
-* A **Enrique Gómez**, de [Rincón Ingenieril](https://www.rinconingenieril.es/), por la foto suya de Eladio que he usado en el tutorial.
-
+* A **Enrique Gómez**, de [Rincón Ingenieril](https://www.rinconingenieril.es/), por la foto suya de Eladio que he usado en el tutorial. ¡Muchas gracias!
+* A **Antonio Andújar** por el soporte con protección de la Icezum Alhambra. ¡Muchas gracias!
+* A **Julian Caro Linares** por el soporte vertical para la Icezum Alhambra. ¡Muchas gracias!
 
 # Enlaces
 
-
+* [Proyecto Icestorm](http://www.clifford.at/icestorm/)
+* [Arduino](https://www.arduino.cc/)
+* [FPGAwars](http://fpgawars.github.io/): Explorando el lado libre de las FPGAs
+* [Tarjeta Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki)
+* [AlhambraBits](https://alhambrabits.com/)
+* [Icestudio](https://github.com/FPGAwars/icestudio)
+* [Kicad](http://kicad-pcb.org/)
+* [Rincón Ingenieril](https://www.rinconingenieril.es/)
+* [FreeCAD](https://www.freecadweb.org)
 
 # FAQs
 
