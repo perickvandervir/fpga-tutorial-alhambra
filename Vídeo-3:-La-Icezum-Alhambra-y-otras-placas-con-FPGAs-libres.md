@@ -199,6 +199,8 @@ Es la placa que usaremos en este tutorial
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Fotos-Eladio-Andres-Obijuan-2.jpg)
 
+
+
 ## Kicad
 
 [Kicad](http://kicad-pcb.org/)
@@ -215,8 +217,8 @@ Es la placa que usaremos en este tutorial
   * Mostrar conector micro-usb en freecad
 
 ## Accesorios 3D
--Accesorios alhambra: Soporte imprimible
 
+[Soporte imprimible para la Icezum Alhambra](https://github.com/FPGAwars/Icezum-Alhambra-3D-support/wiki)
 
 # Ejercicios propuestos (10 BitPoints)
 
