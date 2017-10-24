@@ -305,6 +305,16 @@ Existen algunos **accesorios 3D libres** para imprimir, para la Icezum Alhambra,
 
 ### Soporte vertical
 
+
+
+|                 |       |
+|-----------------|-------|
+| **Enlace**      |  [Soporte vertical](https://www.thingiverse.com/thing:2105248) |
+| **Repo**        |  [Soporte en Github](https://github.com/jcarolinares/fpga-biorobots/tree/master/Miscelanea_y_comunidad/icezum-arduino-stand-holder)  |
+| **Autor**       | [Julian Caro Linares](https://github.com/jcarolinares) |
+| **Descripción** | Soporte vertical  |
+
+
 [Soporte vertical](https://www.thingiverse.com/thing:2105248), por Julian Caro Linares
 
 [Soporte vertical en github](https://github.com/jcarolinares/fpga-biorobots/tree/master/Miscelanea_y_comunidad/icezum-arduino-stand-holder)
