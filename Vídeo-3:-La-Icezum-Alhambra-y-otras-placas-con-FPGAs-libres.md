@@ -201,13 +201,16 @@ Es la placa que usaremos en este tutorial
 
 ## Kicad
 
--Alhambra y kicad
+[Kicad](http://kicad-pcb.org/)
+
   * Mostrar esquema
   * Mostrar PCB
   * Mostrar 3D
 
 ## FreeCAD
--Alhambra y Freecad
+
+[FreeCAD](https://www.freecadweb.org/)
+
   * Componentes 3D disponibles
   * Mostrar conector micro-usb en freecad
 
