@@ -346,7 +346,7 @@ Existen algunos **accesorios 3D libres** para imprimir, para la Icezum Alhambra,
 
 | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-3/avalero/icezum_sch.png) | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-3/avalero/icezum_pcb.png) |
 |-------------|---------------|
-| ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-3/avalero/1x4malepin.png)  |  ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-3/avalero/accesorio.jpg)  |
+| ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-3/avalero/accesorio.jpg)  |  ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-3/avalero/1x4malepin.png)  |
 
 # Autor
 
