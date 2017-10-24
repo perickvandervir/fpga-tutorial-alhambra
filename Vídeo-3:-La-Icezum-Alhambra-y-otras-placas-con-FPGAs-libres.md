@@ -218,8 +218,7 @@ Clonamos el repositorio del github en nuestro ordenador. Nos vamos a la carpeta 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Alhambra-Kicad-01.png)
 
-Nos aparece primero la hoja índice
-
+Se nos abre la **ventana principal de Kicad**, con el proyecto de la placa. En la parte de la izquierda, hacemos **doble click** en el elemento **icezum.sch** para ver el esquema. Nos aparece primero la hoja índice
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Alhambra-schematics-kicad.png)
 
