@@ -384,6 +384,22 @@ Existen algunos **accesorios 3D libres** para imprimir, para la Icezum Alhambra,
 * [FreeCAD](https://www.freecadweb.org)
 
 # FAQs
+* **¿Dónde puedo conseguir la placa Icezum Alhambra?**
+
+Pueden conseguir una desde [Alhambrabits](https://alhambrabits.com/buy/)
+
+* **¿Cómo aprendo a manejar github?**
+
+Hay mucha información en internet. En su momento hice este Tutorial: [Github y FreeCAD](http://www.iearobotics.com/wiki/index.php?title=Tutorial:_Github_y_Freecad) para enseñar a manejarlo. Los ejemplos están hechos con ficheros de FreeCAD, sin embargo, lo que se enseña es genérico. También vale para las entregas de los ejercicios del tutorial de Electrónica digital para makers
+
+* **¿Dónde aprendo a manejar FreeCAD?**
+
+Puedes probar con [estos tutoriales](http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_de_piezas_con_Freecad) de un tal Obijuan :-)
+
+* **¿Dónde aprendo a manejar Kicad?**
+
+Prueba con [estos tutoriales](https://www.rinconingenieril.es/kicad/) de Rincón Ingenieril
+
 
 
 
