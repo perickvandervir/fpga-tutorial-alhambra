@@ -316,11 +316,6 @@ Existen algunos **accesorios 3D libres** para imprimir, para la Icezum Alhambra,
 | **Autor**       | [Julian Caro Linares](https://github.com/jcarolinares) |
 | **Descripción** | Soporte vertical  |
 
-
-[Soporte vertical](https://www.thingiverse.com/thing:2105248), por Julian Caro Linares
-
-[Soporte vertical en github](https://github.com/jcarolinares/fpga-biorobots/tree/master/Miscelanea_y_comunidad/icezum-arduino-stand-holder)
-
 # Ejercicios propuestos (10 BitPoints)
 
 * **Ejercicio 1** (2 Bitpoints): Alhambra + kicad. 2 pantallazos  (+1 Bitpoint github)
