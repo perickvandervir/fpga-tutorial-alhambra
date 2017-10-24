@@ -318,7 +318,8 @@ Existen algunos **accesorios 3D libres** para imprimir, para la Icezum Alhambra,
 
 # Ejercicios propuestos (10 BitPoints)
 
-* **Ejercicio 1** (2 Bitpoints): Alhambra + kicad. 2 pantallazos  (+1 Bitpoint github)
+* **Ejercicio 1** (2 Bitpoints): Instalar kicad. Bajarse el repositorio de la Icezum Alhambra y abrir el proyecto en Kicad. **Sacar dos pantallazos**, uno de una parte del esquema, y otro del PCB o del modelo 3D. Enviar las capturas por redes sociles (mención a @Obijuan_cube). Se concederá **1 Bitpoint adicional** por subirlas al [repositorio de entregas de github](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs)
+
 * **Ejercicio 2**:(2 Bitpoints): Alhambra + Freecad. 1 pantallazo con la FPGA de lattice abierta (+1 Bitpoint github)
 * **Ejercicio 3**:(2 Bitpoints): Impresión soporte Icezum Alhambra. Foto
 * **Ejercicio 4: (Hasta 2 Bitpoints): Ejercicio libre. Premiar la creatividad
