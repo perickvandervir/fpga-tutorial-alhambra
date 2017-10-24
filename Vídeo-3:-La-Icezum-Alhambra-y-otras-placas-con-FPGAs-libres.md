@@ -214,7 +214,11 @@ Y por supuesto, aprovechamos para tomarnos unas cervezas juntos, y ponernos al d
 
 La [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki) es una placa libre. Todos sus ficheros fuente y de fabricación están disponibles. La **versión 1.0** la hizo Eladio en Altium y yo la migré a [Kicad](http://kicad-pcb.org/), que es una **herramienta libre de diseño de PCBs**, impulsada por el CERN (La organización Europea de Investigaciones Nucleares)
 
-Clonamos el repositorio del github en nuestro ordenador. Nos vamos a la carpeta **src-kicad** y abrimos el fichero **icezum.pro** con Kicad. 
+La versión actual es la **1.1**, que tiene unos ligeros cambios y correcciones, y se hicieron también con Altium, y están pendientes de migrarse a Kicad (pero el fichero fuente en Altium y los ficheros de fabricación (Gerbers) están disponibles en el repositorio)
+
+### Esquema
+
+Para ver el esquema, clonamos el repositorio del github en nuestro ordenador. Nos vamos a la carpeta **src-kicad** y abrimos el fichero **icezum.pro** con Kicad. 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Alhambra-Kicad-01.png)
 
@@ -230,7 +234,7 @@ Y ahí podemos ver todos los detalles, y curiosear lo que queramos. Para volver 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Alhambra-Kicad-03.png)
 
-La versión actual es la 1.1, que tiene unos ligeros cambios y correcciones, y se hicieron también con Altium, y están pendientes de migrarse a Kicad (pero el fichero fuente en Altium y los ficheros de fabricación (Gerbers) están disponibles en el repositorio)
+### Placa de Circuito Impreso (PCB)
 
   * Mostrar esquema
   * Mostrar PCB
