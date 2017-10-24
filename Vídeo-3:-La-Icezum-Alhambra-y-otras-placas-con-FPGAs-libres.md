@@ -305,6 +305,8 @@ Existen algunos **accesorios 3D libres** para imprimir, para la Icezum Alhambra,
 
 ### Soporte vertical
 
+|------------|---------------|
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Accesorios-3D-06.jpg)  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Accesorios-3D-07.jpg)
 
 
 |                 |       |
