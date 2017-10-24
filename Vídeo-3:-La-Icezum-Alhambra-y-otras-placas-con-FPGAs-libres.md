@@ -227,7 +227,7 @@ Se nos abre la **ventana principal de Kicad**, con el proyecto de la placa. En l
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Alhambra-schematics-kicad.png)
 
-Podemos pinchar en cualquier de los **6 bloques** para ver los detalles. ¡Ojo! Esto no es un navegador. No pinchéis en el texto, sino en el **fondo del bloque**, para que se seleccione el bloque. Nos metemos por ejemplo en el **bloque de alimentación** (Power Supply)
+Podemos pinchar en cualquier de los **6 bloques** para ver los detalles. **¡Ojo!** Esto no es un navegador. No pinchéis en el texto, sino en el **fondo del bloque**, para que se seleccione el bloque. Nos metemos por ejemplo en el **bloque de alimentación** (Power Supply)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Alhambra-Kicad-02.png)
 
