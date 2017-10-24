@@ -170,6 +170,8 @@ Placas con FPGAs libre, soportadas por el project icestorm, pero que todavía no
 
 # Placa Icezum Alhambra
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-16.jpg)
+
 ## Descripción
   * Repo
   * Diseñador: Eladio Delgado
