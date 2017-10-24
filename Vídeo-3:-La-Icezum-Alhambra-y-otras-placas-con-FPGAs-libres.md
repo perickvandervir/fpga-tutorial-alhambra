@@ -170,6 +170,8 @@ Placas con FPGAs libre, soportadas por el project icestorm, pero que todavía no
 
 # Placa Icezum Alhambra
 
+Es la placa que usaremos en este tutorial
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-16.jpg)
 
 | Ficha             |            |
@@ -184,9 +186,15 @@ Placas con FPGAs libre, soportadas por el project icestorm, pero que todavía no
 | **Periféricos**   | 8 LEDs, 2 pulsadores, 4 canales A/D  |
 | **Observaciones** | Hardware libre. Compatible Arduino |
 
-## Descripción
-  * Repo
-  * Diseñador: Eladio Delgado
+## Eladio Delgado
+  
+  Eladio Delgado es el diseñador de la Icezum Alhambra... (más)
+
+[Entrevista de Rincón Ingenieril a Eladio Delgado](https://www.youtube.com/watch?v=dks-LBEyI98)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Foto-Eladio-RI.jpg)
+
+
 
 ## Kicad
 
