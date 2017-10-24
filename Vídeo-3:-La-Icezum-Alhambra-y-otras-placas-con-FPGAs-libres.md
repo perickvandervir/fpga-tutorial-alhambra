@@ -249,7 +249,17 @@ Y se nos abre el diseño
 
 ### Modelo en 3D
 
+También podemos obtener el **modelo 3D** de la placa. Para ello nos vamos a **View/3D Viewer**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Alhambra-Kicad-06.png)
+
+y se nos abre una ventana con el modelo virtual de la placa
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Alhambra-Kicad-07.png)
+
+Modemos **rotar** y **desplazar** la cámara para observar los **detalles de la placa**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Alhambra-Kicad-08.png)
 
 ## FreeCAD
 
