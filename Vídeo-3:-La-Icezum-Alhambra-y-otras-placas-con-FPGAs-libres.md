@@ -216,7 +216,7 @@ La [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki) es una placa libre
 
 Clonamos el repositorio del github en nuestro ordenador. Nos vamos a la carpeta **src-kicad** y abrimos el fichero **icezum.pro** con Kicad. 
 
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Alhambra-Kicad-01.png)
 
 Nos aparece primero la hoja índice
 
