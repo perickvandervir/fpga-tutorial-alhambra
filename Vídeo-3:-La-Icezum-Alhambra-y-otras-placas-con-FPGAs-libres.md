@@ -328,6 +328,17 @@ Existen algunos **accesorios 3D libres** para imprimir, para la Icezum Alhambra,
 
 # Ejercicios entregados
 
+### Antonio Morales
+
+| ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-3/amorales/KiCad%20Eeschema%20icezum.png)  |  ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-3/amorales/KiCad%20pcbnew%20icezum.png) |
+|---------------------------------|--------------------------------|
+| ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-3/amorales/KiCad%203D%20render%20icezum.png) | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-3/amorales/FreCAD%20icezum.png) |
+
+### Diego Lale
+
+
+### xxxx
+
 # Autor
 
 * [Juan González-Gómez](https://github.com/Obijuan) (Obijuan)
