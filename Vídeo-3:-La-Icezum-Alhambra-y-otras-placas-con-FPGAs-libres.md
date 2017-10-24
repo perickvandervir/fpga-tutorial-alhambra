@@ -192,17 +192,23 @@ Es la placa que usaremos en este tutorial
 
 ## Eladio Delgado
   
-  Eladio Delgado es el diseñador de la Icezum Alhambra... (más)
+  Eladio Delgado es el diseñador de la Icezum Alhambra. Nos conocemos desde hace más de 20 años. Fuimos compañeros de estudios en la ETSIT-UPM. Eladio es una de las personas que más sabe de electrónica que conozco
+
+  En esta entrevista que le hizo **Enrique Gómez** de [Rincón Ingenieril](https://www.rinconingenieril.es/) puedes saber más de él
 
 [Entrevista de Rincón Ingenieril a Eladio Delgado](https://www.youtube.com/watch?v=dks-LBEyI98)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Foto-Eladio-RI.jpg)
 
+Eladio vive en [Pinos del Valle](https://es.wikipedia.org/wiki/Pinos_del_Valle), un pueblo de la provincia de Granada, de 700 habitantes. Desde allí hace todos sus diseños. Su casa es conocida en el ambiente maker como el **Rural Workshop**. Es un sitio genial: estás frikeando con la última tecnología y luego sales y estás en el campo, en plena naturaleza :-)
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/blob/master/wiki/Tutorial-03/Fotos-Eladio-Andres-Obijuan.jpg)
+
+En esta foto, de izquierda a derecha estamos **Andrés Prieto-Moreno**, Obijuan y Eladio, en el Rural Workshop. Todos los años, en verano, coincidimos un día en Pinos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-03/Fotos-Eladio-Andres-Obijuan-2.jpg)
 
-
+Y por supuesto, aprovechamos para tomarnos unas cervezas juntos, y disfrutar de nuestra amistad :-)
 
 ## Kicad
 
