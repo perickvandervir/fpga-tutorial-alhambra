@@ -342,7 +342,9 @@ Existen algunos **accesorios 3D libres** para imprimir, para la Icezum Alhambra,
 | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-3/DiegoLale/IMG_20171024_185250.jpg) |   |
 
 
-### xxxx
+### Alberto Valero
+
+
 
 # Autor
 
