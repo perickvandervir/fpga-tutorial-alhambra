@@ -263,7 +263,7 @@ Modemos **rotar** y **desplazar** la cámara para observar los **detalles de la 
 
 ## FreeCAD
 
-[FreeCAD](https://www.freecadweb.org/)
+[FreeCAD](https://www.freecadweb.org/) es una aplicación libre de **Diseño 3D**. Todos los componentes de la Icezum Alhambra se han modelado con Freecad, y están disponibles en la [biblioteca de piezas de Freecad](https://github.com/FreeCAD/FreeCAD-library), en Github
 
   * Componentes 3D disponibles
   * Mostrar conector micro-usb en freecad
