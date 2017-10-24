@@ -277,11 +277,19 @@ Podemos descargar cualquiera de ellos y abrirlo con Freecad. Por ejemplo, vamos 
 
 Existen algunos **accesorios 3D libres** para imprimir, para la Icezum Alhambra, diseñados con **FreeCAD**
 
-### Soporte 
+### Soporte FPGAwars
 
 [Soporte imprimible para la Icezum Alhambra](https://github.com/FPGAwars/Icezum-Alhambra-3D-support/wiki)
 
+### Soporte con protección
+
+[Soporte con protección](https://github.com/AntonioAM/3D-items/tree/master/Tech/FPGAwars%20Alhambra/Protector%20Alhambra), por Antonio Andújar
+
+### Soporte vertical
+
 [Soporte vertical](https://www.thingiverse.com/thing:2105248), por Julian Caro Linares
+
+
 
 # Ejercicios propuestos (10 BitPoints)
 
