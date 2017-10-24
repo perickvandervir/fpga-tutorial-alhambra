@@ -324,7 +324,7 @@ Existen algunos **accesorios 3D libres** para imprimir, para la Icezum Alhambra,
 
 * **Ejercicio 3**:(2 Bitpoints): Seleccionar alguno de los accesorios 3D de la Icezum Alhambra, imprimirlo en 3D y enviar una foto por redes sociales (con mención a @Obijuan_cube). Se concederá **1 Bitpoint adicional** por subirlas al [repositorio de entregas de github](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs)
 
-* **Ejercicio 4: (Hasta 2 Bitpoints): **Ejercicio libre**. Premiar la creatividad. Entrega por redes sociales o por github
+* **Ejercicio 4**: (Hasta 2 Bitpoints): **Ejercicio libre**. Premiar la creatividad. Entrega por redes sociales o por github
 
 # Ejercicios entregados
 
