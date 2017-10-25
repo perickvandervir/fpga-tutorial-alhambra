@@ -17,6 +17,8 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 
 ## Academia Jedi de hardware
 
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-3/lobotic/lobotic-diploma.jpg)
+
 ### En primer curso
 
 Personas que ya han accedido a la academia de Hardware Jedi, y que están en primer curso
