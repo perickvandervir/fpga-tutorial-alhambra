@@ -66,10 +66,10 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)    | Carlos (_Carlobre_)   | Cadete   | 10 | 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Fersandie  | Cadete | 10 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Jose Raul Montero Ponce (MonteroJR) | Cadete | 10 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Jairo Zerberos    | Cadete | 10 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Ricardo Gómez (eagleman) | Cadete | 8 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)    | Miquel Servera    | Cadete   | 7  | 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Jordi R. Crespo       | Cadete | 7 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Jairo Zerberos    | Cadete | 7 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Miguel Ordóñez Moya (@finonils)  | Cadete | 7 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Gut-mart       | Cadete | 6 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)    | Jorge Turiel      | Cadete   | 5  | 
