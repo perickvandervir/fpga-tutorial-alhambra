@@ -35,6 +35,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Antonio Morales (amorales) | Cadete Nivel 1 | 16 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| BV9 | Cadete Nivel 1 | 16 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Andrés (@Avarez_) | Cadete Nivel 1 | 16 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Manuel (Leobot) | Cadete Nivel 1 | 16 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)    | Lobotic           | Cadete   | 12 | 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)    | Jose Maria Martínez (Itubal)   | Cadete   | 12 | 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Javier Solsona (javsol)  | Cadete | 11 |
@@ -57,7 +58,6 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Luisanllo     | Cadete | 10 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Vicentgodella     | Cadete | 10 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Ruben Quintas | Cadete | 10 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Manuel (Leobot) | Cadete | 10 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Andrés Prieto-Moreno (aprieto)   | Cadete | 10 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Ximo Catala (Ximocat) | Cadete | 10 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Abel Torres (Cardiako) | Cadete | 10 | 
