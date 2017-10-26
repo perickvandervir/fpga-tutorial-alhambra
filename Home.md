@@ -83,7 +83,8 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Hector López (Afuallapis)  | Cadete | 5 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Eufrasio Cabrera  | Cadete | 5 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Alejandro Alameda  | Cadete | 5 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Jordi Bardají   | Cadete | 5 || ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)|  Pablo Perez Ruiz    | Cadete | 5 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Jordi Bardají   | Cadete | 5 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)|  Pablo Perez Ruiz    | Cadete | 5 |
 
 ### En la pre-academia
 
