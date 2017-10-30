@@ -156,9 +156,12 @@ y volvemos a cargarlo, lo que ocurre en el interior es que la FPGA se **reconfig
 
 # Ejercicios propuestos (10 BitPoints)
 
-* **Ejercicio 1** (2 Bitpoints): xx Se concederá **1 Bitpoint adicional** por subirlas al [repositorio de entregas de github](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs)
-* **Ejercicio 2** (2 Bitpoints): xx
-* **Ejercicio 3** (1 Bitpoint): xx
+* **Ejercicio 1** (2 Bitpoints): xx Sacar **2 pantallazos**, xx. Enviar las capturas por redes sociales (mención a @Obijuan_cube). Se concederá **1 Bitpoint adicional** por subirlas al [repositorio de entregas de github](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs)
+
+* **Ejercicio 2** (2 Bitpoints): xx. Sacar **2 pantallazos**, xx. Enviar las capturas por redes sociales (mención a @Obijuan_cube). Se concederá **1 Bitpoint adicional** por subirlas al [repositorio de entregas de github](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs)
+
+* **Ejercicio 3** (1 Bitpoint): xx. Sacar 1 pantallazo. Enviar la capturas por redes sociales (mención a @Obijuan_cube). Se concederá **1 Bitpoint adicional** por subirlas al [repositorio de entregas de github](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs)
+
 * **Ejercicio 4** (Hasta 2 Bitpoints): Ejercicio Libre. Premiar la creatividad. Entrega por redes sociales o por github 
 
 # Ejercicios entregados
