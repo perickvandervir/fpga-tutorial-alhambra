@@ -111,7 +111,7 @@ Ahora nos aparecerá la etiqueta **LED7** en el interior del bloque de salida. *
 
 Conectamos la Icezum Alhambra al ordenador y nos vamos al menú **Herramientas/Cargar**
 
- 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-14.png)
 
 
 # Ejercicios propuestos (X BitPoints)
