@@ -121,6 +121,8 @@ y al cabo de unos segundos nos aparecen **dos notificaciones** nuevas. Una **ver
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-16.png)
 
+Y ahora en la icezum Alhambra podemos ver cómo el **LED 7** está encendido
+
 
 # Ejercicios propuestos (X BitPoints)
 
