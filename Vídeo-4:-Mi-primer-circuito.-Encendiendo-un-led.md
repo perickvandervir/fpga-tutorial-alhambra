@@ -57,7 +57,7 @@ Primero colocaremos el **bit a 1**. Nos vamos al menú superior **Bit** y pincha
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-01.png)
 
-Nos aparecerá un **bloque azul**, con el cursor del ratón en forma de mano encima de el
+Nos aparecerá un **bloque azul**, con el cursor del ratón en forma de mano encima
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-02.png)
 
