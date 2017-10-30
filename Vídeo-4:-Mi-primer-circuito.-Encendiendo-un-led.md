@@ -10,7 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-TODO
+Haremos nuestro **primer circuito** desde cero, en [Icestudio](https://github.com/FPGAwars/icestudio), y lo sintetizaremos en la FPGA para probarlo. Será muy sencillo: el circuito simplemente **enciende el LED 7**, pero nos servirá de ejemplo para comprender el **concepto de Bit** y tener mayor intuición de cómo se **mapea** el circuito en la FPGA
 
 # Contenido
 
