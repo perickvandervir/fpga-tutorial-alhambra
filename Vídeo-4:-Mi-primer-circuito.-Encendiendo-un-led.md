@@ -136,7 +136,9 @@ Y este es el circuito físico que tenemos ahora
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/Alhambra-07.png)
 
-Un Chip con nuestro circuito en su interior. El bit a 1 está conectado a la pata de la FPGA que llega al LED 7. De esta manera, el Bit a 1 (que en realidad es una tensión de 3.3v) sale por la pata, llega al LED 7 y lo **enciende**
+**¡Un Chip con nuestro circuito en su interior!**. Pero tiene existencia física real. Es decir, que no es una simulación, ni hay debajo un microcontrolador que haga el trabajo. No. Es un circuito real. Es hardware puro.
+
+El **bit a 1** está conectado a la pata de la FPGA que llega al LED 7. De esta manera, el Bit a 1 (que en realidad es una tensión de 3.3v) sale por la pata, llega al LED 7 y lo **enciende**
 
 Es un circuito constante. El led permanecerá encendido hasta que **apaguemos** la palca. Una vez la volvamos a alimentar, la FPGA se reconfigurará y aparecerá otra vez el circuito
 
