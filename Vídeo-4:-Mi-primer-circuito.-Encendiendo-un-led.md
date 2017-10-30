@@ -49,6 +49,63 @@ Los circuitos digitales trabajan con **BITs**, que son **elementos de informaci�
 
 En este ejemplo usaremos el significado **1 = encendido**. Para encender el LED sólo hay que colocar un bit a 1, y hacer que salga por la pata de la FPGA correspondiente al LED 7. Para **transportar** el bit desde el interior hacia la pata usaremos un **cable**.
 
+(Animación bit)
+
+## Construyendo el circuito
+
+Primero colocaremos el bit a 1. Nos vamos al menú superior **Bit** y pinchamos en el **1**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-01.png)
+
+Nos aparecerá un **bloque azul**, con el cursor del ratón en forma de mano encima de el
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-02.png)
+
+Lo movemos hasta una zona de la pantalla y **picamos** con el ratón. Se nos colocará el **Bit 1**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-03.png)
+
+Ahora tenemos que colocar el bloque que se corresponde con la **pata** de la FPGA por donde saldrá el bit 1 al exterior. Nos vamos al menú **Básico/Salida**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-04.png)
+
+Y nos aparece una ventana pidiendo el **nombre** que le queremos dar a la **salida**.
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-05.png)
+
+De momento no ponemos nada, y le damos al **OK**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-06.png)
+
+Colocamos el bloque a la derecha del Bit 1 y **picamos**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-07.png)
+
+Ahora **tiramos el cable**. Situamos el ratón en la derecha del Bit 1 hasta que el cursor tenga forma de **cruz**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-08.png)
+
+Apretamos el botón y **arrastramos**. Saldrá el cable
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-09.png)
+
+Nos situamos en la parte izquierda del bloque de salida y **soltamos** el botón
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-10.png)
+
+Ahora los dos bloques estarán **unidos por el cable**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-11.png)
+
+Sólo nos queda **seleccionar** por qué pata de la FPGA queremos que salga el Bit a 1. Pinchamos en el **desplegable** del bloque de salida y pinchamos en **LED7**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-12.png)
+
+Ahora nos aparecerá la etiqueta **LED7** en el interior del bloque de salida. **Ya tenemos nuestro circuito listo**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-13.png)
+
+
 # Ejercicios propuestos (X BitPoints)
 
 * **Ejercicio 1**: 
