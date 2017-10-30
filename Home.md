@@ -55,6 +55,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Luis Sobrino Fdz.  | Cadete Nivel 1 | 17 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Pedro Ruiz (pedroruizf)  | Cadete Nivel 1 | 17 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Klarojms  | Cadete Nivel 1 | 17 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Jose Roda (Rodalillo)  | Cadete Nivel 1 | 17 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Antonio Morales (amorales) | Cadete Nivel 1 | 16 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| JuanDGómezM | Cadete Nivel 1 | 16 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| DonJaume  | Cadete Nivel 1 | 16 |
@@ -65,7 +66,6 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)    | G4lile0           | Cadete   | 10 |  
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)    | J0s3b4            | Cadete   | 10 |
 |  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)   | Ricardo Rodrigues | Cadete   | 10 | 
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)    | Jose Roda         | Cadete   | 10 | 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)     | Julian Caro      | Cadete | 10 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Javier Baliñas (supernudo) | Cadete | 10 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| clonehazard           | Cadete | 10 |
