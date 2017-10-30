@@ -58,9 +58,9 @@ Comenzaremos con el **circuito más sencillo posible**: un circuito digital que 
 
 Los circuitos digitales trabajan con **BITs**, que son **elementos de información** que pueden estar en dos estados: **uno** o **cero**. Estos dos estados pueden representar difernetes cosas, como por ejemplo *encendido* - *apago*, *verdadero* o *falso*, *arriba* o *abajo*, *cara* o *Cruz*, *5 voltios* - *0 voltios*, el *ying* o el *yang*, *culo* o *codo* :-)
 
-En este ejemplo usaremos el significado **1 = encendido**. Para encender el LED sólo hay que colocar un bit a 1, y hacer que salga por la pata de la FPGA correspondiente al LED 7. Para **transportar** el bit desde el interior hacia la pata usaremos un **cable**.
-
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/Bit.gif)
+
+En este ejemplo usaremos el significado **1 = encendido**. Para encender el LED sólo hay que colocar un bit a 1, y hacer que salga por la pata de la FPGA correspondiente al LED 7. Para **transportar** el bit desde el interior hacia la pata usaremos un **cable**.
 
 ## Construyendo el circuito
 
