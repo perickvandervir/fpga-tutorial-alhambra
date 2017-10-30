@@ -130,7 +130,7 @@ Y ahora en la icezum Alhambra podemos ver cómo el **LED 7** está encendido
 
 Lo que ha sucedido al **cargar** es que el circuito hecho en Icestudio se ha **transferido a la FPGA**
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/Alhambra-05.png)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/Alhambra-06.png)
 
 
 # Ejercicios propuestos (X BitPoints)
