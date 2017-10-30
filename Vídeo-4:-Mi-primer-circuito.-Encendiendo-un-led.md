@@ -31,7 +31,7 @@ Para este tutorial sólo usaremos los **LEDs** de la Icezum Alhambra. En este di
 
 Los **cables** entre la FPGA y los leds **están fijos**. Se encuentra en la **placa de circuito** impreso de la Icezum Alhambra. Los **LEDS** se dibujan en blanco para indicar que están **apagados**, y la FPGA también está en color blanco, para resaltar el hecho de que **no tiene ningún circuito** en su interior todavía (No está configurada)
 
-Abrimos Icestudio. Es **nuestro lienzo** donde haremos los **circuitos digitales**. Se corresponde con el interior de la FPGA
+Abrimos **Icestudio**. Es **nuestro lienzo** donde haremos los **circuitos digitales**. Se corresponde con el interior de la FPGA
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/Alhambra-05.png)
 
