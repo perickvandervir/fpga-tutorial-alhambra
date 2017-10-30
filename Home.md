@@ -142,7 +142,7 @@ Personas que ya han accedido a la academia de Hardware Jedi, y que están en pri
 |  1    | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete.png) | **Aspirante a Cadete** | 2 | Todavía no has ingresado en la academia Jedi de hardware, pero tienes interés, y te gustaría probar |
 |  2    | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete.png) | **Cadete** | 5 | **¡Bienvenido a la academia Jedi de hardware!** Tienes curiosidad e Interés suficiente sobre hardware y tienes Icestudio instalado. ¡Listo para aprender! |
 | 3  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1.png)  |  **Cadete nivel-1** | 15 | Tu conocimiento de las herramientas libres del **Patrimonio tecnológico de la Galaxia** es considerable. Ya sabes cómo ver "las tripas" de los diseños libres: electrónica y mecánica |
-| 4  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2.png) | **Cadete nivel-2** | 25  | Ya sabes sintetizar circuitos simples desde cero para encender leds. Comprendes los bits perfectamente  |
+| 4  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2.png) | **Cadete nivel-2** | 25  | Ya sabes **sintetizar circuitos simples** desde cero para encender leds. Comprendes los **bits** perfectamente  |
 | 5  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3.png) | **Cadete nivel-3** |   |   |
 
 | Núm   | Rango  |  Bitpoints  | Descripción |
