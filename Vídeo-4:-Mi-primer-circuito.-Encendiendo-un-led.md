@@ -60,7 +60,7 @@ Los circuitos digitales trabajan con **BITs**, que son **elementos de informaci�
 
 En este ejemplo usaremos el significado **1 = encendido**. Para encender el LED sólo hay que colocar un bit a 1, y hacer que salga por la pata de la FPGA correspondiente al LED 7. Para **transportar** el bit desde el interior hacia la pata usaremos un **cable**.
 
-(Animación bit)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/Bit.gif)
 
 ## Construyendo el circuito
 
