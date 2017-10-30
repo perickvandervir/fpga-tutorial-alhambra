@@ -15,7 +15,7 @@ TODO
 
 ## Un lienzo en Blanco
 
-¡Hola! Soy obijuan y en este microtutorial vamos a crear **nuestro primer circuito digital**: encenderemos un LED. Lo se, es muy simple. Pero lo utilizaré de excusa para explicar algunos conceptos
+¡Hola! Soy obijuan y en este microtutorial vamos a crear **nuestro primer circuito digital**: encenderemos un **LED**. Lo se, es muy simple. Pero lo utilizaré de excusa para explicar algunos conceptos
 
 Vamos a crear un **circuito físico**, con existencia real, que estará dentro de la **FPGA** de la [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki), ese chip grande que está en el centro. Encenderemos los LEDs, que están en la parte superior izquierda de la placa
 
