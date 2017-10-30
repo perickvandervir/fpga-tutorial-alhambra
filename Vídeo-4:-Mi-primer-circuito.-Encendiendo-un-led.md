@@ -132,7 +132,7 @@ Lo que ha sucedido al **cargar** es que el circuito hecho en Icestudio se ha **t
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/Alhambra-06.png)
 
-Y esto es lo que tenemos ahora
+Y este es el circuito físico que tenemos ahora
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/Alhambra-07.png)
 
