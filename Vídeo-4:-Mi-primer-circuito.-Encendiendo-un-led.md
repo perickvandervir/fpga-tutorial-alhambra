@@ -142,6 +142,14 @@ El **bit a 1** está conectado a la pata de la FPGA que llega al LED 7. De esta 
 
 Es un circuito constante. El led permanecerá encendido hasta que **apaguemos** la palca. Una vez la volvamos a alimentar, la FPGA se reconfigurará y aparecerá otra vez el circuito
 
+Si ahora **modificamos** el circuito para encender el **LED 3**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/Alhambra-08.png)
+
+y volvemos a cargarlo, lo que ocurre en el interior es que la FPGA se **reconfigura** para que aparezca un **nuevo circuito** que saque el Bit a 1 por la pata correspondiente al **LED 3**
+
+
+
 # Ejercicios propuestos (X BitPoints)
 
 * **Ejercicio 1**: 
