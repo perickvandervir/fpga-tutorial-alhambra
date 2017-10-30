@@ -54,7 +54,7 @@ En este ejemplo usaremos el significado **1 = encendido**. Para encender el LED 
 
 ## Construyendo el circuito
 
-Primero colocaremos el bit a 1. Nos vamos al menú superior **Bit** y pinchamos en el **1**
+Primero colocaremos el **bit a 1**. Nos vamos al menú superior **Bit** y pinchamos en el **1**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-01.png)
 
