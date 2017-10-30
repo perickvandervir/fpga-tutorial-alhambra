@@ -113,6 +113,14 @@ Conectamos la Icezum Alhambra al ordenador y nos vamos al menú **Herramientas/C
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-14.png)
 
+Al apretar comienza la **síntesis** y **carga del circuito** en la FPGA. Aparece una **notificación** en la parte inerior derecha
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-15.png)
+
+y al cabo de unos segundos nos aparecen **dos notificaciones** nuevas. Una **verde** para indicar que ya se ha realizado la carga y otra con los **recursos que ha ocupado el circuito**
+
+(foto)
+
 
 # Ejercicios propuestos (X BitPoints)
 
