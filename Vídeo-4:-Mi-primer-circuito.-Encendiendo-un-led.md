@@ -148,7 +148,7 @@ Si ahora **modificamos** el circuito para encender el **LED 3**
 
 y volvemos a cargarlo, lo que ocurre en el interior es que la FPGA se **reconfigura** para que aparezca un **nuevo circuito** que saque el Bit a 1 por la pata correspondiente al **LED 3**
 
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/Alhambra-09.png)
 
 # Ejercicios propuestos (X BitPoints)
 
