@@ -182,6 +182,11 @@ y volvemos a cargarlo, lo que ocurre en el interior es que la FPGA se **reconfig
 
 # Enlaces
 
+* [FPGAwars](http://fpgawars.github.io/): Explorando el lado libre de las FPGAs
+* [Tarjeta Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki)
+* [AlhambraBits](https://alhambrabits.com/)
+* [Icestudio](https://github.com/FPGAwars/icestudio)
+
 # FAQs
 
 
