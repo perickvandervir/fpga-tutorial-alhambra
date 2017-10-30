@@ -150,12 +150,12 @@ y volvemos a cargarlo, lo que ocurre en el interior es que la FPGA se **reconfig
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/Alhambra-09.png)
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (10 BitPoints)
 
-* **Ejercicio 1**: 
-* **Ejercicio 2**: 
-* **Ejercicio 3**: 
-
+* **Ejercicio 1** (2 Bitpoints): xx
+* **Ejercicio 2** (2 Bitpoints): xx
+* **Ejercicio 3** (1 Bitpoint): xx
+* **Ejercicio 4** (Hasta 2 Bitpoints): Ejercicio Libre. Premiar la creatividad. Entrega por redes sociales o por github 
 
 
 # Ejercicios entregados
