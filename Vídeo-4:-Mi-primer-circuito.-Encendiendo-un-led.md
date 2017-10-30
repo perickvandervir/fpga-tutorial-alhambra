@@ -106,6 +106,9 @@ Ahora nos aparecerá la etiqueta **LED7** en el interior del bloque de salida. *
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-13.png)
 
+## Probando el circuito
+
+TODO
 
 # Ejercicios propuestos (X BitPoints)
 
