@@ -13,7 +13,7 @@ TODO
 TODO
 
 
-## Un lienzo en Blanco
+# Un lienzo en Blanco
 
 ¡Hola! Soy obijuan y en este microtutorial vamos a crear **nuestro primer circuito digital**: encenderemos un **LED**. Lo se, es muy simple. Pero lo utilizaré de excusa para explicar algunos conceptos
 
