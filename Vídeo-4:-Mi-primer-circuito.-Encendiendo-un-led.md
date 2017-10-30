@@ -109,7 +109,10 @@ Ahora nos aparecerá la etiqueta **LED7** en el interior del bloque de salida. *
 
 ## Probando el circuito
 
-TODO
+Conectamos la Icezum Alhambra al ordenador y nos vamos al menú **Herramientas/Cargar**
+
+ 
+
 
 # Ejercicios propuestos (X BitPoints)
 
