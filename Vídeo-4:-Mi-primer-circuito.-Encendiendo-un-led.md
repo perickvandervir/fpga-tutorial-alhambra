@@ -189,5 +189,12 @@ y volvemos a cargarlo, lo que ocurre en el interior es que la FPGA se **reconfig
 
 # FAQs
 
+* **¿Dónde puedo conseguir la placa Icezum Alhambra?**
+
+Pueden conseguir una desde [Alhambrabits](https://alhambrabits.com/buy/)
+
+* **¿Cómo aprendo a manejar github?**
+
+Hay mucha información en internet. En su momento hice este Tutorial: [Github y FreeCAD](http://www.iearobotics.com/wiki/index.php?title=Tutorial:_Github_y_Freecad) para enseñar a manejarlo. Los ejemplos están hechos con ficheros de FreeCAD, sin embargo, lo que se enseña es genérico. También vale para las entregas de los ejercicios del tutorial de Electrónica digital para makers
 
 
