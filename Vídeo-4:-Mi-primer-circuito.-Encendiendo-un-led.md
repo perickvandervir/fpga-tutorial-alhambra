@@ -1,3 +1,7 @@
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/Tut4-portada.png)
+
+# Vídeo
+
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 Haz click en la imagen para ver el **vídeo en Youtube**
