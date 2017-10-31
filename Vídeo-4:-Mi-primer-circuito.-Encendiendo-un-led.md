@@ -134,6 +134,10 @@ Y ahora en la icezum Alhambra podemos ver cómo el **LED 7** está encendido
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-17.jpg)
 
+Aquí se puede ver una **animación** de todo el proceso
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/ledon-anim.gif)
+
 # Analizando el circuito
 
 Lo que ha sucedido al **cargar** es que el circuito hecho en Icestudio se ha **transferido a la FPGA**
