@@ -148,6 +148,8 @@ Y este es el **circuito físico** que tenemos ahora
 
 El **bit a 1** está conectado a la pata de la FPGA que llega al LED 7. De esta manera, el Bit a 1 (que en realidad es una tensión de 3.3v) sale por la pata, llega al LED 7 y lo **enciende**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-04/Alhambra-10.jpg)
+
 Es un circuito constante. El led permanecerá encendido hasta que **apaguemos** la palca. Una vez la volvamos a alimentar, la FPGA se reconfigurará y aparecerá otra vez el circuito
 
 Si ahora **modificamos** el circuito para encender el **LED 3**
