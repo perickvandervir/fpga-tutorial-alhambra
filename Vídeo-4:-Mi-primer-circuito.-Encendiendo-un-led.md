@@ -2,11 +2,9 @@
 
 # Vídeo
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/1y5nwX6fGP4/0.jpg)](https://www.youtube.com/watch?v=1y5nwX6fGP4)
 
 Haz click en la imagen para ver el **vídeo en Youtube**
-
-(En construcción)
 
 # Descripción
 
