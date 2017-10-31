@@ -174,7 +174,11 @@ y volvemos a cargarlo, lo que ocurre en el interior es que la FPGA se **reconfig
 
 # Ejercicios entregados
 
+## Federico Coca
 
+## Segundo
+
+## Tercero
 
 # Autor
 
