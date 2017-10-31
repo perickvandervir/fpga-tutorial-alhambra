@@ -24,20 +24,6 @@ TODO
 
 # Notas
 
-## Vídeo 3: Mi primer circuito: Encendiendo un led
-* Los ctos digitales trabajan con información, que se representa con 0s y 1s
-* La alimentación va aparte
-* En icestudio:
-  * Poner pin de salida, sin asignar
-  * Convertir a pin físico y asignar a la salida D13
-  * Enviar un 1 por la salida
-  * Sintetizar y cargar
-  * Explicación: Importante que sepan qué partes son físicas
-* Ejercicio 1: Hacer un circuito que encienda el led conectado a D0
-
-## Vídeo 4: Solución al ejercicio 1
-En el vídeo hacemos el ejemplo a partir del otro, simplemente cambiando D13 por D0. Explicamos qué ocurre dentro de la FPGA
-* Practicando: Conectar led a D8 y encender led (Solución no dada)
 
 ## Vídeo 5: Encendiendo 2 leds (leds en paralelo)
 ¿Cómo dejar 2 leds encendidos a la vez? --> Haciendo 2 circuitos. Son 2 circuitos independientes
