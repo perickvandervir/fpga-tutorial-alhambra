@@ -77,9 +77,9 @@ Si lo que tenemos es un ordenador de **32 bits**, nos descargamos estos ficheros
 
 |  Fichero a descargar  | Plataforma         | Descripción         |
 |-----------------------|--------------------|---------------------|
-| [icestudio-0.3.1-rc-linux32.AppImage](https://github.com/FPGAwars/icestudio/releases/download/0.3.1-rc/icestudio-0.3.1-rc-linux32.AppImage)                 | GNU/Linux, 32-bits | Appimage ejecutable |
-| [icestudio-0.3.1-rc-win32.exe](https://github.com/FPGAwars/icestudio/releases/download/0.3.1-rc/icestudio-0.3.1-rc-win32.exe) | Windows 10, 8, 7, 32-bits | Instalador (Archivo ejecutable) |
-| [cestudio-0.3.1-rc-osx32.zip](https://github.com/FPGAwars/icestudio/releases/download/0.3.1-rc/icestudio-0.3.1-rc-osx32.zip) | Instalador para mac | Mac OSX-32 bits | Instalador para mac |
+| [icestudio-0.3.1-linux32.AppImage](https://github.com/FPGAwars/icestudio/releases/download/0.3.1/icestudio-0.3.1-linux32.AppImage)                 | GNU/Linux, 32-bits | Appimage ejecutable |
+| [icestudio-0.3.1-win32.exe](https://github.com/FPGAwars/icestudio/releases/download/0.3.1/icestudio-0.3.1-win32.exe) | Windows 10, 8, 7, 32-bits | Instalador (Archivo ejecutable) |
+| [cestudio-0.3.1-osx32.zip](https://github.com/FPGAwars/icestudio/releases/download/0.3.1/icestudio-0.3.1-osx32.zip) | Instalador para mac | Mac OSX-32 bits | Instalador para mac |
 
 ## Paso 2: Ejecutar el instalador
 
