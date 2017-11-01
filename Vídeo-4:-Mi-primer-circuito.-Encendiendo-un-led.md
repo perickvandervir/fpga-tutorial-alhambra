@@ -195,12 +195,7 @@ y volvemos a cargarlo, lo que ocurre en el interior es que la FPGA se **reconfig
 
 ## Federico Coca
 
-| ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-1/Ejercicio-001-Icestudio.png) | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-1/Ejercicio-001-placa.jpg) |
-|------------|---------|
-|            |         |
-
-
-| ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-1/Ejercicio-001-Icestudio.png) | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-1/Ejercicio-001-placa.jpg) | 
+| ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-1/Ejercicio-001-placa.jpg) | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-1/Ejercicio-001-Icestudio.png) |
 |-----------------------|---------------------------|
 | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-2/Ejercicio-002-Icestudio.png)   |  ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-2/Ejercicio-002-placa.jpg)  |
 | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-3/Ejercicio-003-Icestudio.png)  | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-3/Ejercicio-003-placa.jpg)  |
