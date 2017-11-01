@@ -2,6 +2,7 @@
 
 # Vídeo
 
+
 [![Click to see the youtube video](http://img.youtube.com/vi/1y5nwX6fGP4/0.jpg)](https://www.youtube.com/watch?v=1y5nwX6fGP4&index=4&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw)
 
 Haz click en la imagen para ver el **vídeo en Youtube**
@@ -194,9 +195,9 @@ y volvemos a cargarlo, lo que ocurre en el interior es que la FPGA se **reconfig
 
 ## Federico Coca
 
-
-![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-1/Ejercicio-001-Icestudio.png)
-![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-1/Ejercicio-001-placa.jpg)
+| ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-1/Ejercicio-001-Icestudio.png) | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-1/Ejercicio-001-placa.jpg) |
+|------------|---------|
+|            |         |
 
 
 | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-1/Ejercicio-001-Icestudio.png) | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-1/Ejercicio-001-placa.jpg) | 
