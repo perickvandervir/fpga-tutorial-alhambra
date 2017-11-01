@@ -199,8 +199,8 @@ y volvemos a cargarlo, lo que ocurre en el interior es que la FPGA se **reconfig
 | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-2/Ejercicio-002-Icestudio.png)   |  ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-2/Ejercicio-002-placa.jpg)  |
 | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-3/Ejercicio-003-Icestudio.png)  | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-3/Ejercicio-003-placa.jpg)  |
 | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-4/Ejercicio-004-Icestudio.png)  | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-4/Ejercicio-004-Icestick.jpg)  |
-| ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-4/Ejercicio-004-Scramble8.png)  |    |
 
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/fgcoca/Ejercicio-4/Ejercicio-004-Scramble8.png)
 
 # Autor
 
