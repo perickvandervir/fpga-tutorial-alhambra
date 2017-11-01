@@ -174,6 +174,14 @@ y volvemos a cargarlo, lo que ocurre en el interior es que la FPGA se **reconfig
 
 # Ejercicios entregados
 
+## Pedro Ruiz
+
+|  ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/pedroruizf/ejercicio1_01.png) |  ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/pedroruizf/ejercicio1_02.jpg)  |
+|-------------|--------------|
+| ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/pedroruizf/ejercicio2_01.png) | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/pedroruizf/ejercicio2_02.jpg) |
+| ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/pedroruizf/ejercicio3.jpg) |       |
+
+
 ## Federico Coca
 
 ## Carlobre
