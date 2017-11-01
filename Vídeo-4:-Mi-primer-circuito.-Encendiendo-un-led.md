@@ -183,7 +183,7 @@ y volvemos a cargarlo, lo que ocurre en el interior es que la FPGA se **reconfig
 
 ## JorgeLN
 
-| ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/JorgeLN/Ejercicio-1-Alhambra.jpeg) | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/JorgeLN/Ejercicio-1-Captura-de-pantalla.jpg) |
+|  ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/JorgeLN/Ejercicio-1-Captura-de-pantalla.jpg) | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/JorgeLN/Ejercicio-1-Alhambra.jpeg) |
 |---------------------|-------------------------|
 | ![]()   |       |
 
