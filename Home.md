@@ -31,7 +31,7 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 
 ### Primer curso
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/insignias/Academia-jedi-blanco.png)
+[[https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/insignias/Academia-jedi-blanco.png|width=200px]]
 
 Personas que ya han accedido a la academia de Hardware Jedi, y que están en primer curso
 
