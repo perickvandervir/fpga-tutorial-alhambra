@@ -185,7 +185,8 @@ y volvemos a cargarlo, lo que ocurre en el interior es que la FPGA se **reconfig
 
 |  ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/JorgeLN/Ejercicio-1-Captura-de-pantalla.jpg) | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/JorgeLN/Ejercicio-1-Alhambra.jpeg) |
 |---------------------|-------------------------|
-| ![]()   |       |
+| ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/JorgeLN/Ejercicio-2-Captura-de-pantalla.jpg)   |  ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/JorgeLN/Ejercicio-2-Alhambra.jpeg)     |
+| ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/JorgeLN/Ejercicio-3-Alhambra-autonoma.jpeg)   |  ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-4/JorgeLN/Ejercicio-4-acertijos-puertas-logicas.png) |
 
 
 ## Federico Coca
