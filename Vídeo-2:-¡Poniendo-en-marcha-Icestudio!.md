@@ -118,8 +118,8 @@ Cerramos la ventana y hacemos **doble click** en el instalador. Se nos abrirá d
 Los **usuarios avanzados** lo harán directamente con estos comandos:
 
 ```
-chmod +x icestudio-0.3.1-rc-linux64.AppImage
-./icestudio-0.3.1-rc-linux64.AppImage
+chmod +x icestudio-0.3.1-linux64.AppImage
+./icestudio-0.3.1-linux64.AppImage
 ```
 
 ### Windows
