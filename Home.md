@@ -57,6 +57,7 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)| Pedro Ruiz (pedroruizf)  | Cadete Nivel 2 | 27 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)| Manuel Andújar (Matalobo)  | Cadete Nivel 2 | 27 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Koyikabuto  | Cadete Nivel 2 | 27 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Jose Raul Montero Ponce (MonteroJR)  | Cadete Nivel 2 | 27 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  JuanDGómezM  | Cadete Nivel 2 | 26 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Unai Sanz (usainzg)  | Cadete Nivel 2 | 26 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Joancale (Jose Antonio, @SoKeK)  | Cadete Nivel 2 | 25 |
@@ -72,7 +73,6 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Robertodcrsj | Cadete Nivel 1 | 19 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Pegatutti (Alfredo)  | Cadete Nivel 1 | 18 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Pegatutti (Jaculca)  | Cadete Nivel 1 | 18 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Jose Raul Montero Ponce (MonteroJR)  | Cadete Nivel 1 | 17 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Luis Sobrino Fdz.  | Cadete Nivel 1 | 17 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Klarojms  | Cadete Nivel 1 | 17 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Antonio Morales (amorales) | Cadete Nivel 1 | 16 |
