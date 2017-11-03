@@ -27,6 +27,10 @@ Icestudio es la herramienta para crear **circuitos digitales**. Los **componente
 
 Nada más instalar Icestudio, se nos añade la **colección por defecto** (default), que contiene unos pocos componentes y algunos ejemplos. De momento sólo hemos visto los componentes del menú **Bit**. Las tres opciones situadas en la parte más derecha de la barra superior pertenecen a esta colección por defecto: **Bit**, **Lógica** y **Setup**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-default-01.png)
+
+Y también los **ejemplos** del menú **Archivo**. Cuando cambiamos a una colección nueva, estas dos partes: los componentes y los ejemplos se actualizarán
+
 
 # Ejercicios propuestos (XX BitPoints)
 
