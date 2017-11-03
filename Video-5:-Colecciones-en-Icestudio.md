@@ -42,7 +42,7 @@ Desde el menú **Seleccionar/Colección** podemos cambiar a cualquiera de las ot
 
 Inicialmente sólo tenemos instalada la **colección por decto**. Para obtener más información sobre ella, nos vamos al menú **Ver/Información de la colección**
 
-(Pantallazo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-default-03.png)
 
 (Pantallazo de la ventana que se abre)
 
