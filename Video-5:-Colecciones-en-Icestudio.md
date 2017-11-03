@@ -31,6 +31,15 @@ Nada más instalar Icestudio, se nos añade la **colección por defecto** (defau
 
 Y también los **ejemplos** del menú **Archivo**. Cuando cambiamos a una colección nueva, estas dos partes: los componentes y los ejemplos se actualizarán
 
+Desde el menú **Seleccionar/Colección** podemos cambiar a cualquiera de las otras colecciones que tengamos instaladas. 
+
+(Screenshot)
+
+Inicialmente sólo tenemos intalada la **colección por decto**
+
+## La colección de la Academia Jedi de Hardware
+
+
 
 # Ejercicios propuestos (XX BitPoints)
 
