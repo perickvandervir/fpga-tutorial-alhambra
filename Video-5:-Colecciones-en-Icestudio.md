@@ -35,7 +35,13 @@ Desde el menú **Seleccionar/Colección** podemos cambiar a cualquiera de las ot
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-default-02.png)
 
-Inicialmente sólo tenemos intalada la **colección por decto**
+Inicialmente sólo tenemos instalada la **colección por decto**. Para obtener más información sobre ella, nos vamos al menú **Ver/Información de la colección**
+
+(Pantallazo)
+
+(Pantallazo de la ventana que se abre)
+
+(Pantallazo con los nombres de los autores y la traducción)
 
 ## La colección de la Academia Jedi de Hardware
 
