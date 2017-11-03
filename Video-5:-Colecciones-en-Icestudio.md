@@ -13,6 +13,8 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Colecciones
 
+Icestudio es la herramienta para crear **circuitos digitales**. Los **componentes** usados y los **ejemplos** están separados. No están en el propio Icetudio, sino que se encuentran en lo que llamamos una **colección**
+
 ## La colección por defecto
 
 # Ejercicios propuestos (XX BitPoints)
