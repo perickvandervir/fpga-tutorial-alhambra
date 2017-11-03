@@ -21,7 +21,7 @@ Icestudio es la herramienta para crear **circuitos digitales**. Los **componente
 
 ## La colección por defecto
 
-Nada más instalar Icestudio, se nos añade la **colección por defecto** (default), que contiene unos pocos componentes y algunos ejemplos. De momento sólo hemos visto los componentes del menú **Bit**. Las tres opciones situadas en la parte más derecha de la barra superior pertenecen a esta colección por defect: **Bit**, **Lógica** y **Setup**
+Nada más instalar Icestudio, se nos añade la **colección por defecto** (default), que contiene unos pocos componentes y algunos ejemplos. De momento sólo hemos visto los componentes del menú **Bit**. Las tres opciones situadas en la parte más derecha de la barra superior pertenecen a esta colección por defecto: **Bit**, **Lógica** y **Setup**
 
 
 # Ejercicios propuestos (XX BitPoints)
