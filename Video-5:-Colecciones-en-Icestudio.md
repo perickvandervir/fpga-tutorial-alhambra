@@ -13,6 +13,8 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Icestudio 0.3.1
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/icestudio-0-3-1.png)
+
 # Colecciones
 
 Icestudio es la herramienta para crear **circuitos digitales**. Los **componentes** usados y los **ejemplos** están por separados. No forman parte del propio Icestudio, sino que se encuentran en lo que llamamos una **colección**
