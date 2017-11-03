@@ -33,7 +33,7 @@ Y también los **ejemplos** del menú **Archivo**. Cuando cambiamos a una colecc
 
 Desde el menú **Seleccionar/Colección** podemos cambiar a cualquiera de las otras colecciones que tengamos instaladas. 
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-default-02.png)
 
 Inicialmente sólo tenemos intalada la **colección por decto**
 
