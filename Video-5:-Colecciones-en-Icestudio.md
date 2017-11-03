@@ -44,9 +44,13 @@ Inicialmente sólo tenemos instalada la **colección por decto**. Para obtener m
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-default-03.png)
 
-(Pantallazo de la ventana que se abre)
+y se nos abre una ventana con toda la **información**
 
-(Pantallazo con los nombres de los autores y la traducción)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-default-04.png)
+
+Si bajamos a la parte inferior podemos ver los autores, las traducciones, etc.
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-default-05.png)
 
 ## La colección de la Academia Jedi de Hardware
 
