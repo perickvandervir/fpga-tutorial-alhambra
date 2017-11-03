@@ -11,6 +11,8 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Contenido
 
+# Icestudio 0.3.1
+
 # Colecciones
 
 Icestudio es la herramienta para crear **circuitos digitales**. Los **componentes** usados y los **ejemplos** están por separados. No forman parte del propio Icestudio, sino que se encuentran en lo que llamamos una **colección**
