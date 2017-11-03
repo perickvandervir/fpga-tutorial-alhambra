@@ -11,6 +11,9 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Contenido
 
+* [Icestudio 0.3.1](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio#icestudio-031)
+
+
 # Icestudio 0.3.1
 
 **Jesús Arroyo** acaba de liberar la [versión 0.3.1 de Icestudio](https://github.com/FPGAwars/icestudio/releases/tag/0.3.1), que será la que usemos a partir de ahora. En los tutoriales estábamos usando la 0.3.1-rc
