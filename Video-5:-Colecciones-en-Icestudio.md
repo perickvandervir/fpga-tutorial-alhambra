@@ -18,7 +18,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Icestudio 0.3.1
 
-**Jesús Arroyo** acaba de liberar la [versión 0.3.1 de Icestudio](https://github.com/FPGAwars/icestudio/releases/tag/0.3.1), que será la que usemos a partir de ahora. En los tutoriales estábamos usando la 0.3.1-rc
+**Jesús Arroyo** acaba de liberar la [versión 0.3.1 de Icestudio](https://github.com/FPGAwars/icestudio/releases/tag/0.3.1), que será la que usemos a partir de ahora. En los tutoriales anteriores estábamos usando la 0.3.1-rc
 
 Una vez instalada, podemos comprobar que es la versión correcta mirando en el **menú Ayuda**
 
