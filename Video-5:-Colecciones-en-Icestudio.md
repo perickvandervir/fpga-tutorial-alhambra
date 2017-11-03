@@ -11,6 +11,10 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Contenido
 
+# Colecciones
+
+## La colección por defecto
+
 # Ejercicios propuestos (XX BitPoints)
 
 * **Ejercicio 1** (x Bitpoints): 
