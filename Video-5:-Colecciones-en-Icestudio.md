@@ -13,9 +13,12 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Colecciones
 
-Icestudio es la herramienta para crear **circuitos digitales**. Los **componentes** usados y los **ejemplos** están separados. No están en el propio Icetudio, sino que se encuentran en lo que llamamos una **colección**
+Icestudio es la herramienta para crear **circuitos digitales**. Los **componentes** usados y los **ejemplos** están por separados. No forman parte del propio Icestudio, sino que se encuentran en lo que llamamos una **colección**
 
 ## La colección por defecto
+
+Nada más instalar Icestudio, se nos añade la **colección por defecto** (default), que contiene unos pocos componentes y algunos ejemplos. De momento sólo hemos visto los componentes del menú **Bit**. Las tres opciones situadas en la parte más derecha de la barra superior pertenecen a esta colección por defect: **Bit**, **Lógica** y **Setup**
+
 
 # Ejercicios propuestos (XX BitPoints)
 
