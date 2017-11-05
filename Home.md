@@ -160,7 +160,7 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 |  2    | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete.png) | **Cadete** | 5 | **¡Bienvenido a la academia Jedi de hardware!** Tienes curiosidad e Interés suficiente sobre hardware y tienes Icestudio instalado. ¡Listo para aprender! |
 | 3  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1.png)  |  **Cadete nivel-1** | 15 | Tu conocimiento de las herramientas libres del **Patrimonio tecnológico de la Galaxia** es considerable. Ya sabes cómo ver "las tripas" de los diseños libres: electrónica y mecánica |
 | 4  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2.png) | **Cadete nivel-2** | 25  | Ya sabes **sintetizar circuitos simples** desde cero para encender leds. Comprendes los **bits** perfectamente  |
-| 5  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3.png) | **Cadete nivel-3** | 40 | Sabes instalar y utilizar las colecciones. La síntesis y carga de circuitos básicos ya no tiene secretos para tí  |
+| 5  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3.png) | **Cadete nivel-3** | 40 | Sabes instalar y utilizar las **colecciones**. La síntesis y carga de circuitos básicos ya no tiene secretos para tí  |
 
 | Núm   | Rango  |  Bitpoints  | Descripción |
 |-------|--------|-------------|-------------|
