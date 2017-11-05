@@ -242,7 +242,7 @@ crear un circuito ni tirar cables). **Entregar** por redes sociales, con menció
 
 * [Repositorio con las colecciones de la Academia Jedi de Hardware](https://github.com/Obijuan/Academia-Jedi-Hw)
 * [Curso de Electrónica digital para makers, con FPGAs libres](https://github.com/Obijuan/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/wiki), dando en el Centro Integrado de Formación profesional de Don Bosco
-* []()
+* [Taller de electrónica digital para Makers, con FPGAs Libres](https://github.com/FPGAwars/workshops/wiki/2017_07_08:-Makespace-Madrid), dado en el Makespace Madrid
 
 # FAQs
 
