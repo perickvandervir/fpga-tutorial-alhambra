@@ -96,9 +96,14 @@ Además de la colección por defecto, nos aparecerá la que acabamos de instalar
 
 Nos aparece una **notificación** indicando que hemos seleccionado la **nueva colección** y las opciones del menú de la parte superior derecha se actualizan a los de la nueva colección. Ahora sólo tenemos la entrada **Bit**, ya que se trata de una coleción muy sencilla. El menú **Básico** es común a todas las colección. Siempre estará ahí
 
+**Podemos cambiar de una colección a otra simpre que queramos**. El funcioamiento es similar a los **escenarios** de FreeCAD. Según la colección seleccionada tendremos unos bloques u otros, así como los ejemplos
+
 # Usando la colección de la Academia Jedi
 
-TODO
+Podemos dos cosas que han cambiado al instalador esta colección. Por un lado el menú superior y por otro lado el de ejemplos
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-07.png)
+
 
 # Ejercicios propuestos (XX BitPoints)
 
