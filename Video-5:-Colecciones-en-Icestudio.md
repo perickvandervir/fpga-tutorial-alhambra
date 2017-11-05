@@ -149,7 +149,7 @@ En los bloques de información podemos incluir **código HTML** para resaltar te
 
  Vamos a poner otro comentario debajo del circuito. Colocamos **otro bloque de información**, igual que antes
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-15.png)
 
 # Ejercicios propuestos (XX BitPoints)
 
