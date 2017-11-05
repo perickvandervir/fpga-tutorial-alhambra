@@ -104,6 +104,15 @@ Vemos dos cosas que han cambiado al instalar esta colección. Por un lado el **m
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-07.png)
 
+Nos vamos al **menú Bit** y vemos que similar al que tenemos en la colección por defecto: Tiene las opciones de **1** y **0**
+
+(Foto)
+
+## Haciendo (otra vez) el circuito "Hola mundo"
+
+Para practicar con la nueva colección instalada haremos el circuito **Hola mundo** para endender un LED, que es el único que conocemos por ahora
+
+
 
 # Ejercicios propuestos (XX BitPoints)
 
