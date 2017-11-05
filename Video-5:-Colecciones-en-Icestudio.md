@@ -151,6 +151,10 @@ En los bloques de información podemos incluir **código HTML** para resaltar te
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-15.png)
 
+Escribimos otro texto, pero ahora colocando el **texto a resaltar** entre los comandos **<B>** y **</B>** que es la forma de poner un texto en negrita en HTML
+
+
+
 # Ejercicios propuestos (XX BitPoints)
 
 * **Ejercicio 1** (x Bitpoints): 
