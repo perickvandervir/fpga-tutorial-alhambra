@@ -159,11 +159,15 @@ Hacemos **doble click** en el marco gris del bloque y se nos abre una ventana
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-17.png)
 
-**Marcamos** la casilla que pone **Sólo lectura**
+**Marcamos** la casilla que pone **Sólo lectura** y le damos al **OK**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-18.png)
 
-y le damos al **OK**
+Nos aparece una **notificación** indicando que el bloque se ha modificado y podemos ver el **texto renderizado**. El borde del bloque ha desaparecido. 
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-19.png)
+
+Este bloque lo podemos **mover**  pinchando con el botón izquierdo y arrastrándolo, pero **NO lo podemos modificar**. Si queremos editarlo, hay que hacer **doble click** y desmarcar la casilla de **Sólo lectura**
 
 # Ejercicios propuestos (XX BitPoints)
 
