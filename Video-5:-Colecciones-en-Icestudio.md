@@ -237,6 +237,7 @@ crear un circuito ni tirar cables). **Entregar** por redes sociales, con menció
 # Créditos y agradecimientos
 
 * A [Jesús Arroyo](https://github.com/Jesus89) por la liberación de la versión 0.3.1 de [Icestudio](https://github.com/FPGAwars/icestudio) ¡Muchas gracias!
+* A **Salvador Tropea**, del INTI en Argentina, por descubrirnos que en los bloques de informació de icestudio se podrían usar comandos HTML para resaltar texto y poner imágenes. ¡Muchas gracias!
 
 # Enlaces
 
