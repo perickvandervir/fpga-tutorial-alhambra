@@ -22,6 +22,7 @@ TODO
   * [La colección de la Academia Jedi de Hardware](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio#la-colecci%C3%B3n-de-la-academia-jedi-de-hardware)
     * [Instalación](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio#instalaci%C3%B3n)
     * [Seleccionando la colección activa](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio#seleccionando-la-colecci%C3%B3n-activa)
+* [Usando la colección de la academia Jedi](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio#usando-la-colecci%C3%B3n-de-la-academia-jedi)
 
 # Icestudio 0.3.1
 
