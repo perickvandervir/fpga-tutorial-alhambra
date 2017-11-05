@@ -8,7 +8,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-TODO
+Las  **colecciones** contienen **bloques** y **ejemplos**. Aprenderemos a instalarlas y usarlas. Haremos el circuito "hola mundo" que ya conocemos pero con una colección nueva, y lo documentaremos usando el **bloque información**
 
 # Colección
 
