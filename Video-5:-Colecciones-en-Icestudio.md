@@ -26,6 +26,7 @@ TODO
   * [Haciendo (otra vez) el circuito Hola Mundo](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio#haciendo-otra-vez-el-circuito-hola-mundo)
   * [Poniendo comentarios](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio#poniendo-comentarios)
   * [Texto enriquecido con HTML](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio#texto-enriquecido-con-html)
+  * [Referenciando imágenes de internet](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio#referenciando-im%C3%A1genes-de-internet)
 
 # Icestudio 0.3.1
 
