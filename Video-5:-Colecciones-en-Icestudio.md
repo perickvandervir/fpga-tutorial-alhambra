@@ -121,6 +121,9 @@ Para practicar con la nueva colección instalada haremos el circuito **Hola mund
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-10.png)
 
+## Poniendo comentarios
+
+
 
 
 # Ejercicios propuestos (XX BitPoints)
