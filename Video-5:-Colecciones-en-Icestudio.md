@@ -12,7 +12,7 @@ Las  **colecciones** contienen **bloques** y **ejemplos**. Aprenderemos a instal
 
 # Colección
 
-[Academia-Jedi-HW-05.zip](): Colección para este tutorial. Descargar e instalar (Lo haremos en el tutorial)
+[Academia-Jedi-HW-05.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/Contenido/Tutorial-05/Academia-Jedi-HW-05.zip): Colección para este tutorial. Descargar e instalar (Lo haremos en el tutorial)
 
 # Contenido
 
