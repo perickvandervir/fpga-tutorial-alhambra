@@ -82,6 +82,14 @@ Dejamos el que está y le damos al **ok**
 
 Nos aparecerá una **notificación** verde en la esquina inferior derecha indicando que la colección **Academia-Jedi-HW-05 se ha añadido**
 
+### Seleccionando la colección activa
+
+El siguiente paso es seleccionar la colección activa, desde el menú **Seleccionar/Colección**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-05.png)
+
+Además de la colección por defecto, nos aparecerá la que acabamos de instalar: **Academia-Jedi-HW-05**. Pinchamos en ella
+
 # Ejercicios propuestos (XX BitPoints)
 
 * **Ejercicio 1** (x Bitpoints): 
