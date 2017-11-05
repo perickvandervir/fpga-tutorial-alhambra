@@ -136,7 +136,7 @@ El **tamaño** del bloque se cambia pinchando en su **esquina inferior derecha**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-13.png)
 
-Hacemos click en su interior y **escribimos** los comentarios
+Hacemos **click** en su interior y **escribimos** los comentarios
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-14.png)
 
