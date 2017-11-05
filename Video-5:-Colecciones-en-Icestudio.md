@@ -155,6 +155,10 @@ Escribimos otro texto, pero ahora colocando el **texto a resaltar** entre los co
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-16.png)
 
+Hacemos **doble click** en el marco gris del bloque y se nos abre una ventana
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-17.png)
+
 # Ejercicios propuestos (XX BitPoints)
 
 * **Ejercicio 1** (x Bitpoints): 
