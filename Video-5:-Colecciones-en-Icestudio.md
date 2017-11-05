@@ -54,6 +54,9 @@ Si bajamos a la parte inferior podemos ver los autores, las traducciones, etc.
 
 ## La colección de la Academia Jedi de Hardware
 
+A partir de ahora usaremos **una colección para cada tutorial**. En ella estarán los **componentes usados** en el tutorial, los **ejemplos** mostrados, las **soluciones a los ejercicios** del tutorial anterior y los **ejercicios propuestos**
+
+### Instalación de la colección
 
 
 # Ejercicios propuestos (XX BitPoints)
