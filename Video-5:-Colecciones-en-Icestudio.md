@@ -78,6 +78,10 @@ Pinchamos en abrir y nos aparece una nueva ventana para dar un **nombre a la col
 
 Dejamos el que está y le damos al **ok**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-04.png)
+
+Nos aparecerá una **notificación** verde en la esquina inferior derecha indicando que *la colección **Academia-Jedi-HW-05 se ha añadido**
+
 # Ejercicios propuestos (XX BitPoints)
 
 * **Ejercicio 1** (x Bitpoints): 
