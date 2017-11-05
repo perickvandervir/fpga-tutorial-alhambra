@@ -71,6 +71,12 @@ Se nos abre otra ventana para **seleccionar** el fichero descargado, con la cole
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-02.png)
 
+Pinchamos en abrir y nos aparece una nueva ventana para dar un **nombre a la colección**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-03.png)
+
+Dejamos el que está y le damos en **ok**
+
 # Ejercicios propuestos (XX BitPoints)
 
 * **Ejercicio 1** (x Bitpoints): 
