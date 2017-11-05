@@ -169,6 +169,10 @@ Nos aparece una **notificación** indicando que el bloque se ha modificado y pod
 
 Este bloque lo podemos **mover**  pinchando con el botón izquierdo y arrastrándolo, pero **NO lo podemos modificar**. Si queremos editarlo, hay que hacer **doble click** y desmarcar la casilla de **Sólo lectura**
 
+## Referenciando imágenes de internet
+
+TODO
+
 # Ejercicios propuestos (XX BitPoints)
 
 * **Ejercicio 1** (x Bitpoints): 
