@@ -76,7 +76,7 @@ Pinchamos en abrir y nos aparece una nueva ventana para dar un **nombre a la col
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-03.png)
 
-Dejamos el que está y le damos en **ok**
+Dejamos el que está y le damos al **ok**
 
 # Ejercicios propuestos (XX BitPoints)
 
