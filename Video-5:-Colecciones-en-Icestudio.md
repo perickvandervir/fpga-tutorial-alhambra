@@ -77,7 +77,7 @@ A partir de ahora usaremos **una colección para cada tutorial**. En ella estar�
 
 ### Instalación
 
-**Descargamos** el fichero .zip con la colección: [Academia-Jedi-HW-05.zip](). **NO lo descomprimimos**. Pinchamos en el menú **Herramientas/Colecciones/Añadir**
+**Descargamos** el fichero .zip con la colección: [Academia-Jedi-HW-05.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/Contenido/Tutorial-05/Academia-Jedi-HW-05.zip). **NO lo descomprimimos**. Pinchamos en el menú **Herramientas/Colecciones/Añadir**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-01.png)
 
