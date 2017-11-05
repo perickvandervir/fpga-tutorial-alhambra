@@ -172,7 +172,7 @@ Este bloque lo podemos **mover**  pinchando con el botón izquierdo y arrastrán
 
 ## Referenciando imágenes de internet
 
-Para incluir imágenes que están en internet, creamos un bloque nuevo de información y usamos el comando HTML img para incluir la imagen. Probar con este ejemplo:
+Para incluir imágenes que están en internet, creamos un **bloque nuevo de información** y usamos el comando HTML **img** para incluir la imagen. Probar con este ejemplo:
 
 ```html
 <img src="https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/intro-16.jpg" WIDTH=200>
