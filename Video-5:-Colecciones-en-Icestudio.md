@@ -194,13 +194,17 @@ Ahora lo ponemos en modo **sólo lectura** para que se renderice. Si tenemos **c
 
 # Ejercicios propuestos (9 BitPoints)
 
-* **Ejercicio 1** (2 Bitpoints): 
+* **Ejercicio 1** (Total *3 Bitpoints*): Hacer un circuito digital que encienda uno o varios LEDs de la Icezum Alhambra usando la colección **Academia-Jedi-HW-05**. Debe contener un **bloque comentario** explicando lo que hace el circuito, así como vuestro nombre o nick en **Negrita**. 
+  * **Entregar** por redes sociales, con mención a **@obijuan_cube**
+    * 1 pantallazo del circuito (1 bitpoint)
+    * 1 Foto de la Icezum Alhambra con el circuito cargado (1 bitpoint)
+    * Entrega adicional por Github (1 bitpoint) 
 
-* **Ejercicio 2** (1 Bitpoints): 
+* **Ejercicio 2** (Total *2 Bitpoints*): 
 
-* **Ejercicio 3** (1 Bitpoint):
+* **Ejercicio 3** (Total *2 Bitpoint*):
 
-* **Ejercicio 4** (2 Bitpoints)
+* **Ejercicio 4** (*2 Bitpoints*)
 
 # Ejercicios entregados
 
