@@ -124,7 +124,7 @@ Para **practicar** con la nueva colección instalada haremos el circuito **Hola 
 
 ## Poniendo comentarios
 
-A nuestros circuitos podemos añadir comentarios colocando un **bloque de información**. Nos vamos al menú **Básico/Comentarios**
+A nuestros circuitos podemos añadir comentarios colocando un **bloque de información**. Nos vamos al menú **Básico/Información**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-11.png)
 
