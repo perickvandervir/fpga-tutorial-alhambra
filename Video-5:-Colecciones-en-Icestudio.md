@@ -181,7 +181,9 @@ Para incluir imágenes que están en internet, creamos un **bloque nuevo de info
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-20.png)
 
+Ahora lo ponemos en modo **sólo lectura** para que se renderice. Si tenemos **conexión a internet** nos aparecerá esto:
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-21.png)
 
 # Ejercicios propuestos (XX BitPoints)
 
