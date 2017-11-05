@@ -202,13 +202,16 @@ Ahora lo ponemos en modo **sólo lectura** para que se renderice. Si tenemos **c
 
 * **Ejercicio 2** (Total **2 Bitpoints**): Instalar la colección utilizada en el [curso de FPGAs que
 se dió en el centro Don Bosco](https://github.com/Obijuan/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/wiki), en Errentería. Seleccionar 4 ó 5 componetes al azar, y colocarlos (no hace falta 
-crear un circuito ni tirar cables). **Entregar** por redes sociales, con menció a **@obijuan_cube**:
+crear un circuito ni tirar cables). **Entregar** por redes sociales, con mención a **@obijuan_cube**:
   * 1 Pantallazo (1 bitpoint)
   * Entrega adicional por Github (1 bitpoint)
 
-
-
-* **Ejercicio 3** (Total *2 Bitpoint*):
+* **Ejercicio 3** (Total *2 Bitpoint*): Instalar la colección utilizada en el [Taller del 
+Makespace Madrid](https://github.com/FPGAwars/workshops/wiki/2017_07_08:-Makespace-Madrid). Seleccionar 4 ó 5 componetes al azar, y colocarlos (no hace falta 
+crear un circuito ni tirar cables). **Entregar** por redes sociales, con menció a **@obijuan_cube**:
+  * 1 pantallazo. Desplagar el menu Seleccionar/Colección
+    para que se vean las colecciones que están instaladas (1 bitpoint)
+  * Entrega adicional por Github (1 bitpoint)
 
 * **Ejercicio 4** (*2 Bitpoints*)
 
