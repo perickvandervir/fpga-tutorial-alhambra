@@ -213,7 +213,7 @@ crear un circuito ni tirar cables). **Entregar** por redes sociales, con menció
     para que se vean las colecciones que están instaladas (1 bitpoint)
   * Entrega adicional por Github (1 bitpoint)
 
-* **Ejercicio 4** (*2 Bitpoints*)
+* **Ejercicio 4** (**2 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
 
