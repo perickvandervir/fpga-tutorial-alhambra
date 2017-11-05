@@ -140,6 +140,16 @@ Hacemos **click** en su interior y **escribimos** los comentarios
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-14.png)
 
+Es un bloque que podemos **editar** y cambiar en cualquier momento.
+
+## Texto enriquecido con HTML
+
+En los bloques de información podemos incluir **código HTML** para resaltar textos e incluso mostrar **imágenes** de internet
+
+ Vamos a poner otro comentario debajo del circuito. Colocamos **otro bloque de información**, igual que antes
+
+(foto)
+
 # Ejercicios propuestos (XX BitPoints)
 
 * **Ejercicio 1** (x Bitpoints): 
