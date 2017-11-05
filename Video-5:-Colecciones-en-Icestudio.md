@@ -108,6 +108,10 @@ Nos vamos al **menú Bit** y vemos que similar al que tenemos en la colección p
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-08.png)
 
+Ponemos un bloque de cada para ver cómo son
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-09.png)
+
 ## Haciendo (otra vez) el circuito "Hola mundo"
 
 Para practicar con la nueva colección instalada haremos el circuito **Hola mundo** para endender un LED, que es el único que conocemos por ahora
