@@ -12,7 +12,7 @@ TODO
 
 # Colección
 
-[Academia-Jedi-HW-05.zip](): Colección para este tutorial. Descargar e instalar
+[Academia-Jedi-HW-05.zip](): Colección para este tutorial. Descargar e instalar (Lo haremos en el tutorial)
 
 # Contenido
 
