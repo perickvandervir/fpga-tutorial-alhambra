@@ -159,6 +159,12 @@ Hacemos **doble click** en el marco gris del bloque y se nos abre una ventana
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-17.png)
 
+**Marcamos** la casilla que pone **Sólo lectura**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-18.png)
+
+y le damos al **OK**
+
 # Ejercicios propuestos (XX BitPoints)
 
 * **Ejercicio 1** (x Bitpoints): 
