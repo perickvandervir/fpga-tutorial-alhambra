@@ -67,6 +67,9 @@ A partir de ahora usaremos **una colección para cada tutorial**. En ella estar�
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-01.png)
 
+Se nos abre otra ventana para **seleccionar** el fichero descargado, con la colección
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-02.png)
 
 # Ejercicios propuestos (XX BitPoints)
 
