@@ -108,13 +108,17 @@ Nos vamos al **menú Bit** y vemos que similar al que tenemos en la colección p
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-08.png)
 
-Ponemos un bloque de cada para ver cómo son
+Ponemos un **bloque de cada** para ver cómo son
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-09.png)
 
+Son bits constantes, iguales que los de la colección default, pero con el dibujo cambiado. **¡Tienn patas!** Yo me imagino a los bits como unos bichos pequeños con patas, que se mueven por lo cables, como si fueran [lemmings](https://en.wikipedia.org/wiki/Lemmings_(video_game)) :-)
+
 ## Haciendo (otra vez) el circuito "Hola mundo"
 
-Para practicar con la nueva colección instalada haremos el circuito **Hola mundo** para endender un LED, que es el único que conocemos por ahora
+Para practicar con la nueva colección instalada haremos el circuito **Hola mundo** para encender un LED, que es el único que conocemos por ahora. Colocamos un bit a 1 y una salida. Le asignamos la **etiqueta LED** y seleccionamos el **LED1**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-10.png)
 
 
 
