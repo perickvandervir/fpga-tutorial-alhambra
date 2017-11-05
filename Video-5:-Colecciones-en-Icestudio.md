@@ -128,6 +128,10 @@ A nuestros circuitos podemos añadir comentarios colocando un **bloque de inform
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-11.png)
 
+Nos aparece un **bloque gris**, con el cursos encima. Lo movemos hasta la posición donde queremos poner los comentarios y hacemos click
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-12.png)
+
 # Ejercicios propuestos (XX BitPoints)
 
 * **Ejercicio 1** (x Bitpoints): 
