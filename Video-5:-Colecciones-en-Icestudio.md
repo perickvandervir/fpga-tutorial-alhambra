@@ -240,6 +240,8 @@ crear un circuito ni tirar cables). **Entregar** por redes sociales, con menció
 
 # Enlaces
 
+* [Repositorio con las colecciones de la Academia Jedi de Hardware](https://github.com/Obijuan/Academia-Jedi-Hw)
+* 
 
 # FAQs
 
