@@ -95,6 +95,10 @@ Además de la colección por defecto, nos aparecerá la que acabamos de instalar
 
 Nos aparece una **notificación** indicando que hemos seleccionado la **nueva colección** y las opciones del menú de la parte superior derecha se actualizan a los de la nueva colección. Ahora sólo tenemos la entrada **Bit**, ya que se trata de una coleción muy sencilla. El menú **Básico** es común a todas las colección. Siempre estará ahí
 
+# Usando la colección
+
+TODO
+
 # Ejercicios propuestos (XX BitPoints)
 
 * **Ejercicio 1** (x Bitpoints): 
