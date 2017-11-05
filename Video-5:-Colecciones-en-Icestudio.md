@@ -236,6 +236,8 @@ crear un circuito ni tirar cables). **Entregar** por redes sociales, con menció
 
 # Créditos y agradecimientos
 
+* A [Jesús Arroyo](https://github.com/Jesus89) por la liberación de la versión 0.3.1 de [Icestudio](https://github.com/FPGAwars/icestudio) ¡Muchas gracias!
+
 # Enlaces
 
 
