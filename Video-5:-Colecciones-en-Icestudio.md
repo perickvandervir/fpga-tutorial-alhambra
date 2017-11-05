@@ -91,6 +91,10 @@ El siguiente paso es seleccionar la colección activa, desde el menú **Seleccio
 
 Además de la colección por defecto, nos aparecerá la que acabamos de instalar: **Academia-Jedi-HW-05**. Pinchamos en ella
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-06.png)
+
+Nos aparece una **notificación** indicando que hemos seleccionado la **nueva colección** y las opciones del menú de la parte superior derecha se actualizan a los de la nueva colección. Ahora sólo tenemos la entrada **Bit**. La opción Básico es común a todas las colección. Siempre estará ahí
+
 # Ejercicios propuestos (XX BitPoints)
 
 * **Ejercicio 1** (x Bitpoints): 
