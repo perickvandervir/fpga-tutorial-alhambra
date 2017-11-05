@@ -118,7 +118,7 @@ Son bits constantes, iguales que los de la colección default, pero con el dibuj
 
 ## Haciendo (otra vez) el circuito "Hola mundo"
 
-Para practicar con la nueva colección instalada haremos el circuito **Hola mundo** para encender un LED, que es el único que conocemos por ahora. Colocamos un bit a 1 y una salida. Le asignamos la **etiqueta LED** y seleccionamos el **LED1**
+Para **practicar** con la nueva colección instalada haremos el circuito **Hola mundo** para encender un LED, que es el único que conocemos por ahora. Colocamos un bit a 1 y una salida. Le asignamos la **etiqueta LED** y seleccionamos el **LED1**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-10.png)
 
