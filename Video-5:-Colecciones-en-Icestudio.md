@@ -192,15 +192,15 @@ Ahora lo ponemos en modo **sólo lectura** para que se renderice. Si tenemos **c
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-21.png)
 
-# Ejercicios propuestos (XX BitPoints)
+# Ejercicios propuestos (9 BitPoints)
 
-* **Ejercicio 1** (x Bitpoints): 
+* **Ejercicio 1** (2 Bitpoints): 
 
-* **Ejercicio 2** (x Bitpoints): 
+* **Ejercicio 2** (1 Bitpoints): 
 
-* **Ejercicio 3** 
+* **Ejercicio 3** (1 Bitpoint):
 
-* **Ejercicio 4** 
+* **Ejercicio 4** (2 Bitpoints)
 
 # Ejercicios entregados
 
