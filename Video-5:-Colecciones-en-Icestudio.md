@@ -100,7 +100,7 @@ Nos aparece una **notificación** indicando que hemos seleccionado la **nueva co
 
 # Usando la colección de la Academia Jedi
 
-Podemos dos cosas que han cambiado al instalador esta colección. Por un lado el **menú superior** y por otro lado el de **ejemplos**
+Vemos dos cosas que han cambiado al instalar esta colección. Por un lado el **menú superior** y por otro lado el de **ejemplos**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-07.png)
 
