@@ -172,7 +172,9 @@ Este bloque lo podemos **mover**  pinchando con el botón izquierdo y arrastrán
 
 ## Referenciando imágenes de internet
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-20.png)
+
+
 
 # Ejercicios propuestos (XX BitPoints)
 
