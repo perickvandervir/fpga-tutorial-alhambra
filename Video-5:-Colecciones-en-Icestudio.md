@@ -106,7 +106,7 @@ Vemos dos cosas que han cambiado al instalar esta colección. Por un lado el **m
 
 Nos vamos al **menú Bit** y vemos que similar al que tenemos en la colección por defecto: Tiene las opciones de **1** y **0**
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-07.png)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/coleccion-Jedi-08.png)
 
 ## Haciendo (otra vez) el circuito "Hola mundo"
 
