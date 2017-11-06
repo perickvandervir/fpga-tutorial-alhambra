@@ -31,6 +31,7 @@ Las  **colecciones** contienen **bloques** y **ejemplos**. Aprenderemos a instal
 * [Ejercicios entregados](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio#ejercicios-entregados)
   * [Jesús Rodríguez Conde (Chuxman)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio#jes%C3%BAs-rodr%C3%ADguez-conde-chuxman)
   * [Ximo Catalá](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio#ximo-catal%C3%A1)
+  * [J.Carlos Obregón (Carlobre)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio#jcarlos-obreg%C3%B3n-carlobre)
 * [Autor](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio#autor)
 * [Licencia](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio#licencia)
 * [Créditos y agradecimientos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio#cr%C3%A9ditos-y-agradecimientos)
