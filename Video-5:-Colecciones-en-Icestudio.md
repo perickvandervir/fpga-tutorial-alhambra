@@ -235,7 +235,15 @@ crear un circuito ni tirar cables). **Entregar** por redes sociales, con menció
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-5/ximocat/Ejercicio05_4_libre.jpg)
 
-## Tercero
+## J.Carlos Obregón (Carlobre)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-5/Carlobre/Ejercicio%205.1.1.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-5/Carlobre/Ejercicio%205.1.2.jpg)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-5/Carlobre/Ejercicio%205.2.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-5/Carlobre/Ejercicio%205.3.png)
 
 
 # Autor
