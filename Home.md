@@ -16,9 +16,27 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | 6| Bombeando bits (En construcción) |
 | 7 | Manipulando bits: Puerta NOT  |
 | 8 | Leds externos |
-| 9 |     |
-| 10|     |
-| 11|     |
+| 9 | Entradas    |
+| 10| Sonido    |
+| 11| Habilitando con AND  |
+| 12| Puladores externos |
+| 13| Switches externos |
+| 14| Sensor IR  |
+| 15| Servos    |
+|16 | Temporizador |
+|17 | Puerta OR |
+|18 | Servos de rotación contínua |
+|19 | Funciones lógicas |
+|20 | Buses |
+|21 | Circuitos combinacionales |
+|22 | Multiplexor |
+|23 | Definiendo bloques |
+|24 | Biestables |
+|25 | Contando |
+|26 | Registros |
+|27 | Comparadores |
+|28 | ...
+
 
 ## Academia Jedi de hardware
 
