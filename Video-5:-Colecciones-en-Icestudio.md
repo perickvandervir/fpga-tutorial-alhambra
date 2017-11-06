@@ -224,6 +224,11 @@ crear un circuito ni tirar cables). **Entregar** por redes sociales, con menció
 
 ## Ximo Catalá
 
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-5/ximocat/Ejercicio05_11.jpg)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-5/ximocat/Ejercicio05_12.jpg)
+
+
 |    |      |
 |----|------|
 | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-5/ximocat/Ejercicio05_11.jpg) | ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-5/ximocat/Ejercicio05_12.jpg) |
