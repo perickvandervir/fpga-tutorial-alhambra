@@ -217,7 +217,9 @@ crear un circuito ni tirar cables). **Entregar** por redes sociales, con menció
 
 # Ejercicios entregados
 
-## Primero
+## Jesús Rodríguez Conde (Chuxman)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-05/entregas/Jesus-rodriguez-conde-ej2.jpg)
 
 ## Segundo
 
