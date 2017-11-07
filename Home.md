@@ -176,6 +176,12 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/00-observador-min.png)| Jesús Sesma  | Observador | 1 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/00-observador-min.png)| Jesús Rodríguez Conde (Chuxman)  | Observador | 1 |
 
+## Bitpoints
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-5/Carlobre/BITPOINT.gif)
+
+Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para ascender de rango
+
 ## Listado de Rangos
 
 | Núm   | Divisa     | Rango  |  Bitpoints  | Descripción |
@@ -198,6 +204,13 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 |12  |   **Jedi nivel 2** |  |  |  |
 |13  |   **Jedi nivel 3** |  |  |  |
 |14  |   **Aspirante a Caballero Jedi** |  |  |  |
+
+## Créditos y agradecimientos
+
+TODO
+(Bitpoints, Carlobre)
+(Insignias, Movilujo)
+(Lobotic)
 
 ## Autor
 
