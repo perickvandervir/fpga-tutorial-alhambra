@@ -25,7 +25,7 @@ El **pensamiento hardware** tiene dos características que le diferencian del pe
 * **Se piensa en espacio**: los circuitos ocupan un espacio físico
 * **Las cosas suceden en paralelo**
 
-
+Una consecuencia muy útil de esto es el poder **combinar** fácilmente **circuitos independientes**. Imaginemos que tenemos un circuito que **toca una melodía**, y otro que hace que un **robot siga la línea negra**. Los dos funcionan por separado. Si los metemos en la misma FPGA, tendremos un robot que **sigue la línea** mientras **toca música**. Esto funcionará siempre y cuando el tamaño del nuevo circuito quepa dentro de la FPGA
 
 # Circuitos en paralelo
 
