@@ -79,6 +79,8 @@ Nos aparece el **circuito 1**, que simplemente encenderá el **LED7**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-02.png)
 
+Lo **cargamos en la placa** para ver su funcionamiento
+
 -Abrir circuito 2. Cargar  
 -Copy&paste. Cargar  
 
