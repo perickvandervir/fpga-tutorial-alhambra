@@ -45,14 +45,12 @@ Y sale la notificación de que la **colección ha sido eliminada**. Repetimos el
 
 Si tenemos colecciones intaladas no hay problema. Esto es sólo un ejemplo de borrado :-)
 
-# Pensamiento hardware
+# Superposición de circuitos
 
 El **pensamiento hardware** tiene dos características que le diferencian del pensamiento algorítmico:
 
 * **Se piensa en espacio**: los circuitos ocupan un espacio físico
 * **Las cosas suceden en paralelo**
-
-## Superposición de circuitos
 
 Una consecuencia muy útil de esto es el poder **combinar** fácilmente **circuitos independientes**. Imaginemos que tenemos un circuito que **toca una melodía**, y otro que hace que un **robot siga la línea negra**. Los dos funcionan por separado. Si los metemos en la misma FPGA, tendremos un robot que **sigue la línea** mientras **toca música**
 
