@@ -18,6 +18,10 @@ TODO
 
 TODO
 
+# Pensamiento hardware
+
+TODO
+
 # Circuitos en paralelo
 
 TODO
@@ -29,7 +33,6 @@ TODO
 # Dos LEDS parpadeantes, a diferentes velocidades
 
 TODO
-
 
 
 # Ejercicios propuestos (x BitPoints)
