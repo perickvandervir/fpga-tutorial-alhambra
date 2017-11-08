@@ -19,6 +19,7 @@ TODO
 * [Configurando las colecciones](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#configurando-las-colecciones)
   * [Eliminando las colecciones no usadas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#eliminado-colecciones-no-usadas)
 * [Superposición de Circuitos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#superposici%C3%B3n-de-circuitos)
+* [Ejemplo 1: Circuitos en paralelo](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#ejemplo-1-circuitos-en-paralelo)
 
 # Configurando las colecciones
 
