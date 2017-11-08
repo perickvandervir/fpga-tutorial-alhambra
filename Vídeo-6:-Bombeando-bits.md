@@ -26,7 +26,13 @@ Lo primero que haremos será **instalar** la colección usada en este tutorial: 
 
 ## Eliminado colecciones no usadas
 
-Opcionalmente podemos **eliminar las colecciones** que no vamos a usar. Yo lo hago aquí para enseñaros cómo eliminarlas, pero no es necesario hacerlo para continuar con el tutorial
+Opcionalmente podemos **eliminar las colecciones** que no vamos a usar. Yo lo hago aquí para enseñaros cómo eliminarlas, pero no es necesario hacerlo para continuar con el tutorial. Nos vamos al menú **Herramientas/Colecciones/Eliminar**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Configuracion-02.png)
+
+y nos aparecerán todas las que tenemos instaladas. Seleccionamos la que queremos eliminar, por ejemplo la de Makespace-17
+
+
 
 TODO
 
