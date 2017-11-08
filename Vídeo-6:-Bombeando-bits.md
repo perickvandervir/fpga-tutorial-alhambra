@@ -32,9 +32,17 @@ Opcionalmente podemos **eliminar las colecciones** que no vamos a usar. Yo lo ha
 
 y nos aparecerán todas las que tenemos instaladas. Seleccionamos la que queremos eliminar, por ejemplo la de Makespace-17
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Configuracion-03.png)
 
+Nos aparece un mensaje de confirmación. Pinchamos en **OK**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Configuracion-04.png)
+
+Y sale la notificación de que la **colección ha sido eliminada**. Repetimos el proceso con el resto de colecciones salvo la que usaremos la que acabamos de instalar. El menú de las colecciones nos queda así
 
 TODO
+
+Si tenemos colecciones intaladas no hay problema. Esto es sólo un ejemplo de borrado :-)
 
 # Pensamiento hardware
 
