@@ -17,6 +17,7 @@ TODO
 # Contenido
 
 * [Configurando las colecciones](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#configurando-las-colecciones)
+  * [Eliminando las colecciones no usadas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#eliminado-colecciones-no-usadas)
 
 # Configurando las colecciones
 
