@@ -68,17 +68,15 @@ Ahora hacemos un **circuito 3** que es la **combinación** de los dos anteriores
 
 A esta propiedad la llamaremos **superposición de circuitos**. Sólo es aplicable a circuitos que son **independientes**. Aplicando esta superposición, conseguimos que un circuito tenga la suma de comportamientos de sus integrantes
 
-# Circuitos en paralelo
-
-Empezamos a practicar. Lo primero que hacemos es intalar la colección de este tutorial: Academia-Jedi-HW-6.zip.
+# Ejemplo 1: Circuitos en paralelo
 
 TODO
 
-# LED parpadeante
+# Ejemplo 2: Led parpadeante
 
 TODO
 
-# Dos LEDS parpadeantes, a diferentes velocidades
+# Ejemplo 3: LEDs parpadeando a diferentes velocidades
 
 TODO
 
