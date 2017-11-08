@@ -20,7 +20,9 @@ TODO
 
 # Configurando las colecciones
 
-TODO
+Lo prmero que haremos será **instalar** la colección usada en este tutorial: **Academia-Jedi-HW-06.zip**, que ya sabemos hacer. Si hemos hecho el tutorial 5 y sus ejercicios, tendremos estas colecciones instaladas:
+
+(Pantallazo)
 
 # Pensamiento hardware
 
