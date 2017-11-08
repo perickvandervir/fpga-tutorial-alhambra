@@ -18,6 +18,10 @@ TODO
 
 TODO
 
+# Configurando las colecciones
+
+TODO
+
 # Pensamiento hardware
 
 El **pensamiento hardware** tiene dos características que le diferencian del pensamiento algorítmico:
