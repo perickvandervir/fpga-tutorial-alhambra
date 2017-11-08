@@ -20,7 +20,7 @@ TODO
 
 # Configurando las colecciones
 
-Lo primero que haremos será **instalar** la colección usada en este tutorial: **Academia-Jedi-HW-06.zip**,  y seleccionarla. Si hemos hecho el tutorial 5 y sus ejercicios, tendremos estas colecciones instaladas:
+Lo primero que haremos será **instalar** la colección usada en este tutorial: **Academia-Jedi-HW-06.zip**,  y seleccionarla. Si hemos hecho el tutorial 5 y sus ejercicios, tendremos estas **colecciones instaladas**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Configuracion-01.png)
 
