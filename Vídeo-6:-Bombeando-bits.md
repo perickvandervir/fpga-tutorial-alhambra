@@ -20,7 +20,12 @@ TODO
 
 # Pensamiento hardware
 
-TODO
+El **pensamiento hardware** tiene dos características que le diferencian del pensamiento algorítmico:
+
+* **Se piensa en espacio**: los circuitos ocupan un espacio físico
+* **Las cosas suceden en paralelo**
+
+
 
 # Circuitos en paralelo
 
