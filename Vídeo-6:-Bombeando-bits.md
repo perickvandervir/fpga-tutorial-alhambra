@@ -70,6 +70,10 @@ A esta propiedad la llamaremos **superposición de circuitos**. Sólo es aplicab
 
 # Ejemplo 1: Circuitos en paralelo
 
+-Abrir circuito 1. Cargar
+-Abrir circuito 2. Cargar
+-Copy&paste. Cargar
+
 TODO
 
 # Ejemplo 2: Led parpadeante
