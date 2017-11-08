@@ -83,6 +83,10 @@ Lo **cargamos en la placa** para ver su funcionamiento
 
 ![](https://raw.githubusercontent.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/master/wiki/Tutorial-04/ledon-17.jpg)
 
+**Abrimos una ventana nueva** de Icestudio, con la opción **Archivo/Nuevo**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-02.png)
+
 -Abrir circuito 2. Cargar  
 -Copy&paste. Cargar  
 
