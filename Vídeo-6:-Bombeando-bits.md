@@ -25,7 +25,7 @@ El **pensamiento hardware** tiene dos características que le diferencian del pe
 * **Se piensa en espacio**: los circuitos ocupan un espacio físico
 * **Las cosas suceden en paralelo**
 
-Una consecuencia muy útil de esto es el poder **combinar** fácilmente **circuitos independientes**. Imaginemos que tenemos un circuito que **toca una melodía**, y otro que hace que un **robot siga la línea negra**. Los dos funcionan por separado. Si los metemos en la misma FPGA, tendremos un robot que **sigue la línea** mientras **toca música**. Esto funcionará siempre y cuando el tamaño del nuevo circuito quepa dentro de la FPGA
+Una consecuencia muy útil de esto es el poder **combinar** fácilmente **circuitos independientes**. Imaginemos que tenemos un circuito que **toca una melodía**, y otro que hace que un **robot siga la línea negra**. Los dos funcionan por separado. Si los metemos en la misma FPGA, tendremos un robot que **sigue la línea** mientras **toca música**
 
 Esto lo podemos ver gráficamente usando el **circuito de encender** un led que ya conocemos. El **circuito 1** enciende el **LED 7**. Lo cargamos en la placa y vemos que funciona correctamente
 
@@ -38,6 +38,7 @@ Ahora hacemos un **circuito 3** que es la **combinación** de los dos anteriores
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Paralelo-03.png)
 
+A esta propiedad la llamaremos **superposición de circuitos**. Sólo es aplicable a circuitos que son **independientes**. Aplicando esta superposición, conseguimos que un circuito tenga la suma de comportamientos de sus integrantes
 
 # Circuitos en paralelo
 
