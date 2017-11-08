@@ -44,6 +44,8 @@ A esta propiedad la llamaremos **superposición de circuitos**. Sólo es aplicab
 
 # Circuitos en paralelo
 
+Empezamos a practicar. Lo primero que hacemos es intalar la colección de este tutorial: Academia-Jedi-HW-6.zip.
+
 TODO
 
 # LED parpadeante
