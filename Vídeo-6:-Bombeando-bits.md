@@ -16,7 +16,7 @@ TODO
 
 # Contenido
 
-TODO
+* [Configurando las colecciones](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#configurando-las-colecciones)
 
 # Configurando las colecciones
 
