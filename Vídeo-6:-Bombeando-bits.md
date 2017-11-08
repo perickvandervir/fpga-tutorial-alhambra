@@ -40,7 +40,7 @@ Nos aparece un mensaje de confirmación. Pinchamos en **OK**
 
 Y sale la notificación de que la **colección ha sido eliminada**. Repetimos el proceso con el resto de colecciones salvo la que usaremos la que acabamos de instalar. El menú de las colecciones nos queda así
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Configuracion-05.png)
 
 Si tenemos colecciones intaladas no hay problema. Esto es sólo un ejemplo de borrado :-)
 
