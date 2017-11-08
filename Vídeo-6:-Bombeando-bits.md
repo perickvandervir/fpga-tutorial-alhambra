@@ -22,7 +22,13 @@ TODO
 
 Lo primero que haremos será **instalar** la colección usada en este tutorial: **Academia-Jedi-HW-06.zip**,  y seleccionarla. Si hemos hecho el tutorial 5 y sus ejercicios, tendremos estas colecciones instaladas:
 
-(Pantallazo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Configuracion-01.png)
+
+## Eliminado colecciones no usadas
+
+Opcionalmente podemos **eliminar las colecciones** que no vamos a usar. Yo lo hago aquí para enseñaros cómo eliminarlas, pero no es necesario hacerlo para continuar con el tutorial
+
+TODO
 
 # Pensamiento hardware
 
