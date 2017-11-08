@@ -70,6 +70,10 @@ A esta propiedad la llamaremos **superposición de circuitos**. Sólo es aplicab
 
 # Ejemplo 1: Circuitos en paralelo
 
+Vamos a comprobar la **superposición de circuitos**. Primero abrimos el **circuito 1** desde los ejemplos, accediendo a **Archivo/Ejemplos/1-Ejemplos/1-Circuitos-Paralelo/Ejemplo-01-LED7-on**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-01.png)
+
 -Abrir circuito 1. Cargar
 -Abrir circuito 2. Cargar
 -Copy&paste. Cargar
