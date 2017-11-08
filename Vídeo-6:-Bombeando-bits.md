@@ -31,8 +31,12 @@ Esto lo podemos ver gráficamente usando el **circuito de encender** un led que 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Paralelo-01.png)
 
-Ahora hacemos el **circuito 2**, que enciene el **LED0**
+Ahora hacemos el **circuito 2**, que enciene el **LED0**. Lo cargamos en la placa y vemos que este LED se enciende
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Paralelo-02.png)
+
+Ahora hacemos un **circuito 3** que es la **combinación** de los dos anteriores: El circuito 1 al lado del circuito 2. Encenderá simultánemente los leds 7 y 0
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Paralelo-03.png)
 
 
 # Circuitos en paralelo
