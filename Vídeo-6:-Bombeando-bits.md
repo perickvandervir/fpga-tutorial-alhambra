@@ -81,6 +81,8 @@ Nos aparece el **circuito 1**, que simplemente encenderá el **LED7**
 
 Lo **cargamos en la placa** para ver su funcionamiento
 
+![](https://raw.githubusercontent.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/master/wiki/Tutorial-04/ledon-17.jpg)
+
 -Abrir circuito 2. Cargar  
 -Copy&paste. Cargar  
 
