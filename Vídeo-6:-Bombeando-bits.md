@@ -93,6 +93,10 @@ Nos aparece una ventana nueva de Icestudio, en **blanco**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-04.png)
 
+Abrimos el **circuito 2** desde los ejemplos, accediendo a **Archivo/Ejemplos/1-Ejemplos/1-Circuitos-Paralelo/Ejemplo-02-LED0-on**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-05.png)
+
 -Abrir circuito 2. Cargar  
 -Copy&paste. Cargar  
 
