@@ -27,6 +27,8 @@ Lo primero que haremos será **instalar** la colección usada en este tutorial: 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Configuracion-01.png)
 
+Observamos que hay una opción nueva en el menú: **Bombeo**
+
 ## Eliminado colecciones no usadas
 
 Opcionalmente podemos **eliminar las colecciones** que no vamos a usar. Yo lo hago aquí para enseñaros cómo eliminarlas, pero no es necesario hacerlo para continuar con el tutorial. Nos vamos al menú **Herramientas/Colecciones/Eliminar**
