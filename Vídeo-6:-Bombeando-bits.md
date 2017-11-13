@@ -97,11 +97,14 @@ Abrimos el **circuito 2** desde los ejemplos, accediendo a **Archivo/Ejemplos/1-
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-05.png)
 
-y se nos aparece el **circuito 2**
+y nos aparece el **circuito 2**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-06.png)
 
--Cargar  
+Ahora lo **cargamos** en la placa, y comprobamos que se enciende el **LED 0**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/icezum-led0.jpg)
+
 -Copy&paste. Cargar  
 
 TODO
