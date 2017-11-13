@@ -89,6 +89,10 @@ Lo **cargamos en la placa** para ver su funcionamiento
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-03.png)
 
+Nos aparece una ventana nueva de Icestudio, en **blanco**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-04.png)
+
 -Abrir circuito 2. Cargar  
 -Copy&paste. Cargar  
 
