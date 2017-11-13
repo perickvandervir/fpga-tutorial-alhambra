@@ -97,7 +97,11 @@ Abrimos el **circuito 2** desde los ejemplos, accediendo a **Archivo/Ejemplos/1-
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-05.png)
 
--Abrir circuito 2. Cargar  
+y se nos aparece el **circuito 2**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-06.png)
+
+-Cargar  
 -Copy&paste. Cargar  
 
 TODO
