@@ -111,11 +111,11 @@ Pinchando con el botón izquierdo y **arrastrando** el ratón seleccionamos el c
 
 Al **sortar** el bóton, todos sus componentes quedan seleccionados
 
-![](https://github.com/Obijuan/digitalo-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-08.png)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-08.png)
 
 Nos vamos a la opción **Editar/Copiar** para copiar el circuito
 
-![](https://github.com/Obijuan/digitalo-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-09.png)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-09.png)
 
 -Copy&paste. Cargar  
 
