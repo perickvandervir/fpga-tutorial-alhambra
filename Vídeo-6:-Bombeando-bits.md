@@ -136,7 +136,7 @@ Lo **recolocamos** para que se vean bien los dos circuitos
 
 y lo **cargamos** en la placa
 
-(TODO: Foto icezum con los dos leds encendidos)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/icezum-led0-led7.jpg)
 
 Ahora los **dos leds están encendidos**. Este circuito lo hemos creado poniendo dos circuitos **independientes en paralelo**, para mostrar un ejemplo "hola mundo" del **principio de superposición**. En tutoriales venideros aplicaremos este principio a circuitos más complejos
 
