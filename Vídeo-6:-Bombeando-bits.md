@@ -142,7 +142,12 @@ Ahora los **dos leds están encendidos**. Este circuito lo hemos creado poniendo
 
 # Ejemplo 2: Led parpadeante
 
-TODO
+Hasta ahora hemos hecho circuitos donde los bits eran constantes.  En este ejemplo haremos que un **LED** se **encienda** y se **apague** continuamente, con periodo de **un segundo**
+
+Partiremos el ejemplo anterior, al que eliminamos los comentarios de texto y el bit 1 superior. Los bloques se **eliminan** seleccionándos y pulsando la tecla **Supr** o **Delete**
+
+(foto)
+
 
 # Ejemplo 3: LEDs parpadeando a diferentes velocidades
 
