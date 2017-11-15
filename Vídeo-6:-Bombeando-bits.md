@@ -146,7 +146,13 @@ Hasta ahora hemos hecho circuitos donde los bits eran constantes.  En este ejemp
 
 Partiremos el ejemplo anterior, al que eliminamos los comentarios de texto y el bit 1 superior. Los bloques se **eliminan** seleccionándos y pulsando la tecla **Supr** o **Delete**
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/ledp-01.png)
+
+Queremos que el **LED7 parpadee** y que el **LED0** se quede **encendido**
+
+## Bombeando bits con el corazón
+
+## LED parpadeante con pensamiento algorítmico
 
 
 # Ejemplo 3: LEDs parpadeando a diferentes velocidades
