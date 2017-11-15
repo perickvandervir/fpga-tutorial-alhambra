@@ -133,10 +133,11 @@ Lo **recolocamos** para que se vean bien los dos circuitos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-13.png)
 
+y lo **cargamos** en la placa
 
-Cargar  
+(TODO: Foto icezum con los dos leds encendidos)
 
-TODO
+Ahora los **dos leds están encendidos**. Este circuito lo hemos creado poniendo dos circuitos **independientes en paralelo**, para mostrar un ejemplo "hola mundo" del **principio de superposición**. En tutoriales venideros aplicaremos este principio a circuitos más complejos
 
 # Ejemplo 2: Led parpadeante
 
