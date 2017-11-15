@@ -107,7 +107,7 @@ Ahora lo **cargamos** en la placa, y comprobamos que se enciende el **LED 0**
 
 Pinchando con el botón izquierdo y **arrastrando** el ratón seleccionamos el circuito completo
 
-![](https://github.com/Obijuan/digitalo-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-07.png)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-07.png)
 
 Al **sortar** el bóton, todos sus componentes quedan seleccionados
 
