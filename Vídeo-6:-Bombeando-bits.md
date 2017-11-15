@@ -121,7 +121,7 @@ Nos vamos a la otra ventana, donde está el **circuito 1**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-10.png)
 
-Y le damos a la opción **Editar/Paste**
+Y le damos a la opción **Editar/Pegar**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-11.png)
 
