@@ -125,6 +125,8 @@ Y le damos a la opción **Editar/Pegar**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-11.png)
 
+Nos aparece el circuito que habíamos copiado, **superpuesto** con el actual
+
 -Copy&paste. Cargar  
 
 TODO
