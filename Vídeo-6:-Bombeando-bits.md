@@ -117,6 +117,14 @@ Nos vamos a la opción **Editar/Copiar** para copiar el circuito
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-09.png)
 
+Nos vamos a la otra ventana, donde está el **circuito 1**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-10.png)
+
+Y le damos a la opción **Editar/Paste**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-11.png)
+
 -Copy&paste. Cargar  
 
 TODO
