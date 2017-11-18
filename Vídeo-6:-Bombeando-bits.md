@@ -164,8 +164,13 @@ Al **cargarlo** en la placa obtendremos esto:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/ledp-03.gif)
 
+# Pensamiento hardware vs pensamiento algorítmico
 
-## LED parpadeante con pensamiento algorítmico
+El ejemplo de hacer **parpadear un LED** es un clásico. Vamos a analizar cómo se aborda usando el **pensamiento algorítmico** y el **pensamiento hardware**
+
+## Led parpadeante con pensamiento algorítmico
+
+## Led parpadeante con pensamiento hardware
 
 
 # Ejemplo 3: LEDs parpadeando a diferentes velocidades
