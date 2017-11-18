@@ -152,9 +152,9 @@ Queremos que el **LED7 parpadee** y que el **LED0** se quede **encendido**
 
 Para hacer que parpadee el LED tenemos que **bombear** bits. Hay que enviar la secuencia de bits 1 - 0 - 1 - 0 ... Eso lo conseguimos con el bloque corazón
 
-Nos vamos al menú Bombeo y seleccionamos el **Corazón de 1Hz**. 
+Nos vamos al menú **Bombeo** y seleccionamos el **Corazón de 1Hz**. 
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/ledp-02.png)
 
 Es un corazón que bombea bits a un ritmo de **un bit 1 por segundo**
 
