@@ -150,7 +150,16 @@ Partiremos el ejemplo anterior, al que eliminamos los comentarios de texto y el 
 
 Queremos que el **LED7 parpadee** y que el **LED0** se quede **encendido**
 
-## Bombeando bits con el corazón
+Para hacer que parpadee el LED tenemos que **bombear** bits. Hay que enviar la secuencia de bits 1 - 0 - 1 - 0 ... Eso lo conseguimos con el bloque corazón
+
+Nos vamos al menú Bombeo y seleccionamos el **Corazón de 1Hz**. 
+
+(Foto)
+
+Es un corazón que bombea bits a un ritmo de **un bit 1 por segundo**
+
+(Foto)
+
 
 ## LED parpadeante con pensamiento algorítmico
 
