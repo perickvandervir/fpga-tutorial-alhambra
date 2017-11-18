@@ -160,6 +160,10 @@ Es un corazón que **bombea bits** a un ritmo de **un bit 1 por segundo**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/ledp-03.png)
 
+Al cargarlo en la placa obtendremos esto:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/ledp-03.gif)
+
 
 ## LED parpadeante con pensamiento algorítmico
 
