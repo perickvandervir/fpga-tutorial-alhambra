@@ -158,7 +158,7 @@ Nos vamos al menú **Bombeo** y seleccionamos el **Corazón de 1Hz**.
 
 Es un corazón que **bombea bits** a un ritmo de **un bit 1 por segundo**
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/ledp-03.png)
 
 
 ## LED parpadeante con pensamiento algorítmico
