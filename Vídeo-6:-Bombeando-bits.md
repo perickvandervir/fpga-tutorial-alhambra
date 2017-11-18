@@ -21,6 +21,7 @@ TODO
 * [Superposición de Circuitos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#superposici%C3%B3n-de-circuitos)
 * [Ejemplo 1: Circuitos en paralelo](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#ejemplo-1-circuitos-en-paralelo)
 * [Ejemplo 2: Led parpadeante](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#ejemplo-2-led-parpadeante)
+* [Pensamiento Hardware VS pensamiento Algorítmico](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#pensamiento-hardware-vs-pensamiento-algor%C3%ADtmico)
 
 # Configurando las colecciones
 
