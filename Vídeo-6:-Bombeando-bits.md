@@ -229,11 +229,11 @@ Partimos del circuito del ejemplo anterior, y añadimos un **corazón de 4Hz** d
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/ledsp-01.png)
 
-**Eliminamos** el bit 1 constante de la parte inferior y lo **sustituimos por el nuevo corazón**. Tiramos el cable para conectarlo al pin de salida LED 0
+**Eliminamos** el bit 1 constante de la parte inferior y lo **sustituimos por el nuevo corazón**. Tiramos el cable para conectarlo al pin de salida **LED 0**
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/ledsp-02.png)
 
-Y lo cargamos:
+Y lo **cargamos**:
 
 (animación)
 
