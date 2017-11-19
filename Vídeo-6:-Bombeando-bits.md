@@ -12,7 +12,7 @@ En hardware las cosas van en **paralelo**. Los circuitos independientes funciona
 
 # Colección
 
-**Academia-Jedi-HW-06.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-06.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/Contenido/Tutorial-06/Academia-Jedi-HW-06.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
