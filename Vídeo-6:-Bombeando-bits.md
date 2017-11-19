@@ -8,7 +8,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-TODO
+En hardware las cosas van en **paralelo**. Los circuitos independientes funcionan en paralelo, lo que nos permite crearlos de manera aislada y luego juntarlo para que funcionen a la vez (**Superposición**). Aprenderemos cómo podemos hacer parpadear bits a **diferentes velocidades** mediante el **bombeo de bits**
 
 # Colección
 
