@@ -281,6 +281,16 @@ de la icezum alhambra parpadeen cada uno a una velocidad, según esta tabla:
 
 ## Alberto Valero
 
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-6/avalero/ejercicio1.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-6/avalero/ejercicio2.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-6/avalero/ejercicio3.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-6/avalero/creatividad/ejer1Bitbloq.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-6/avalero/creatividad/ejer2Bitbloq.png)
+
 
 ## Segundo
 
