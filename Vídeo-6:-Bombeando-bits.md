@@ -220,7 +220,21 @@ Con el **pensamiento hardware** es **muy fácil** responder a la pregunta de có
 
 # Ejemplo 3: LEDs parpadeando a diferentes velocidades
 
-TODO
+Hacer que varios leds parpadeen a **diferentes velocidades** con pensamiento hardware es muy sencillo. Sólo hay que **poner en paralelo** otro corazón, que bombee bits a una velocidad diferente
+
+Haremos que el **LED 0** parpadee a una velocidad de **4 veces por segundo**, mientras que el **LED 7** lo hará **una vez por segundo**
+
+Partimos del circuito del ejemplo anterior, y añadimos un **corazón de 4Hz** desde el menú **Bombeo/Corazón 4Hz**
+
+(Foto)
+
+**Eliminamos** el bit 1 constante de la parte inferior y lo **sustituimos por el nuevo corazón**. Tiramos el cable para conectarlo al pin de salida LED 0
+
+(foto)
+
+Y lo cargamos:
+
+(animación)
 
 
 # Ejercicios propuestos (x BitPoints)
