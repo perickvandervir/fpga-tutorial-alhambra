@@ -194,19 +194,21 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 | 3  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1.png)  |  **Cadete nivel-1** | 15 | Tu conocimiento de las herramientas libres del **Patrimonio tecnológico de la Galaxia** es considerable. Ya sabes cómo ver "las tripas" de los diseños libres: electrónica y mecánica |
 | 4  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2.png) | **Cadete nivel-2** | 25  | Ya sabes **sintetizar circuitos simples** desde cero para encender leds. Comprendes los **bits** perfectamente  |
 | 5  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3.png) | **Cadete nivel-3** | 40 | Sabes instalar y utilizar las **colecciones**. La síntesis y carga de circuitos básicos ya no tiene secretos para tí  |
-| 6  | ![]() | **Aspirante a Padawan** | 60 | Conoces las propiedades de paralelismo del hardware, y las sabes utilizar. Bombeas bits. Haces manipulaciones básicas con bits |
+| 6  | ![](https://github.com/Obijuan/digital-electronics-with-opn-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan.png) | **Aspirante a Padawan** | 60 | Conoces las propiedades de paralelismo del hardware, y las sabes utilizar. Bombeas bits. Haces manipulaciones básicas con bits |
 
 | Núm   | Rango  |  Bitpoints  | Descripción |
 |-------|--------|-------------|-------------|
-| 6  |   **Aspirante a Padawan** |   |   |   |
-| 7  |   **Padawan nivel-1** |  |  |  |
-| 8  |   **Padawan nivel-2** |  |  |  |
-| 9  |   **Padawan nivel-3** |  |  |  |
-|10  |   **Aspirante a Jedi**|  |  |  |
-|11  |   **Jedi nivel 1** |  |  |  |
-|12  |   **Jedi nivel 2** |  |  |  |
-|13  |   **Jedi nivel 3** |  |  |  |
-|14  |   **Aspirante a Caballero Jedi** |  |  |  |
+| 7  |   **Aspirante a padawan nivel 1**   |
+| 8  |   **Aspirante a padawan nivel 2**   |
+| 9  |   **Aspirante a padawan nivel 3**   |
+| 10  |   **Padawan nivel-1** |  |  |  |
+| 11 |   **Padawan nivel-2** |  |  |  |
+| 12  |   **Padawan nivel-3** |  |  |  |
+|13  |   **Aspirante a Jedi**|  |  |  |
+|14  |   **Jedi nivel 1** |  |  |  |
+|15  |   **Jedi nivel 2** |  |  |  |
+|16  |   **Jedi nivel 3** |  |  |  |
+|17  |   **Aspirante a Caballero Jedi** |  |  |  |
 
 ## Créditos y agradecimientos
 
