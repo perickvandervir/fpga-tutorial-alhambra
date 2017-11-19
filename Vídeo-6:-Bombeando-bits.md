@@ -235,7 +235,9 @@ Partimos del circuito del ejemplo anterior, y añadimos un **corazón de 4Hz** d
 
 Y lo **cargamos**:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/bombeo-leds-anim.gif)
+
+Vemos cómo los dos leds están pardeando a diferentes velocidades :-)
 
 
 # Ejercicios propuestos (x BitPoints)
