@@ -23,6 +23,7 @@ TODO
 * [Ejemplo 2: Led parpadeante](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#ejemplo-2-led-parpadeante)
 * [Pensamiento Hardware VS pensamiento Algorítmico](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#pensamiento-hardware-vs-pensamiento-algor%C3%ADtmico)
   * [Led parpadeante con pensamiento algorítmico](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#led-parpadeante-con-pensamiento-algor%C3%ADtmico)
+    * [Pregunta reto](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#pregunta-reto)
   * [Led parpadeante con pensamiento hardware](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#led-parpadeante-con-pensamiento-hardware)
 
 # Configurando las colecciones
