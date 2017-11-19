@@ -198,6 +198,12 @@ Las instrucciones que se ejecutan en el **bucle principal** son:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/arduino-anim-01.gif)
 
+### Pregunta reto
+
+El **pensamiento algorítmico** es **muy potente**, pero hay cosas sencillas que son difíciles de implementar con este pensamiento. Aquí lanzo esta pregunta para pensar sobre ello: **¿Cómo podemos hacer para que dos leds parpadeen a diferentes velocidades con pensamiento algorítmico?** ¿Y tres leds con velocidades diferentes? ¿Y 10?
+
+Por supuesto esto es algo que se puede hacer, pero no es trivial ni inmediato para alguien que está empezando. Se requieren **conocimientos avanzados** para entender cómo hacerlo
+
 ## Led parpadeante con pensamiento hardware
 
 Para hacer parpadear un led con **pensamiento Hardware** el enfoque es distinto. No pensamos en las instrucciones que hay que darle a un procesador, sino que nos **centramos directamente en los bits** y es un **pensamiento espacial**.
@@ -205,6 +211,8 @@ Para hacer parpadear un led con **pensamiento Hardware** el enfoque es distinto.
 Hay que enviar físicamente una tira de bits, a 1 y a 0. Es decir, hay que **bombear bits**, que se **desplazan** por el **cable** hasta que salgan fuera del chip y lleguen al led. Se muestra gráficamente en este **animación**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/bombeo-animation.gif)
+
+Con el **pensamiento hardware** es **muy fácil** responder a la pregunta de cómo hacer que parpadeen dos o más leds a diferentes velocidades. Sólo hay que poner en **paralelo circuitos** con corazones que **bombeen bits** a diferentes velocidades
 
 # Ejemplo 3: LEDs parpadeando a diferentes velocidades
 
