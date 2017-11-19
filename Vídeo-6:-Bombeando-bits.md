@@ -28,6 +28,8 @@ En hardware las cosas van en **paralelo**. Los circuitos independientes funciona
 * [Ejemplo 3: Leds parpadeando a diferentes velocidades](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#ejemplo-3-leds-parpadeando-a-diferentes-velocidades)
 * [Ejercicios propuestos (11 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#ejercicios-propuestos-11-bitpoints)
 * [Ejercicios entregados](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#ejercicios-entregados)
+* [Autor](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#autor)
+
 
 # Configurando las colecciones
 
