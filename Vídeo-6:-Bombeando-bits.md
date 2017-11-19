@@ -291,8 +291,9 @@ de la icezum alhambra parpadeen cada uno a una velocidad, según esta tabla:
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-6/avalero/creatividad/ejer2Bitbloq.png)
 
+## Jesús Sesma
 
-## Segundo
+
 
 
 ## Tercero
