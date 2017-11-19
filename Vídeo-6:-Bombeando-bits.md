@@ -172,18 +172,30 @@ El ejemplo de hacer **parpadear un LED** es un clásico. Vamos a analizar cómo 
 
 ## Led parpadeante con pensamiento algorítmico
 
+Cuando queremos hacer que **parpadee el LED de Arduino**, usamos este programa
+
 ```C
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
 }
 
 void loop() {
-  digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
-  delay(500);                       // wait for a second
-  digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(500);                       // wait for a second
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(500);                      
+  digitalWrite(LED_BUILTIN, LOW); 
+  delay(500);
 }
 ```
+Hay un **procesador** (cpu), que **ejecuta** las instrucciones de una en una. Primero configura el **pin** para que sea de **salida** (LED_BUILTIN) y luego se entra en el **bucle principal**, que se repite todo el tiempo. 
+
+Las instrucciones que se ejecutan en el **bucle principal** son:
+
+* **Escribir un 1** en el pin de salida para **encender** el led
+* Esperar durante medio segundo
+* **Escribir un 0** en el pin para apagar el led
+* Esperar durante medio segundo
+
+(Animación)
 
 
 ## Led parpadeante con pensamiento hardware
