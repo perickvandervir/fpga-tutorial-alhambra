@@ -25,6 +25,7 @@ TODO
   * [Led parpadeante con pensamiento algorítmico](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#led-parpadeante-con-pensamiento-algor%C3%ADtmico)
     * [Pregunta reto](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#pregunta-reto)
   * [Led parpadeante con pensamiento hardware](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#led-parpadeante-con-pensamiento-hardware)
+* [Ejemplo 3: Leds parpadeando a diferentes velocidades](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#ejemplo-3-leds-parpadeando-a-diferentes-velocidades)
 
 # Configurando las colecciones
 
