@@ -294,7 +294,11 @@ de la icezum alhambra parpadeen cada uno a una velocidad, según esta tabla:
 
 ## Jesús Sesma
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/entregas/jesus-sesma-1.jpeg)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/entregas/jesus-sesma-2.jpeg)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/entregas/jesus-sesma-3.jpeg)
 
 
 ## Tercero
