@@ -243,17 +243,17 @@ Vemos cómo los dos leds están pardeando a diferentes velocidades :-)
 
 # Ejercicios propuestos (11 BitPoints)
 
-* **Ejercicio 1** (Total **x Bitpoints**): TODO. **Entregar** por redes sociales, con mención a **@obijuan_cube**
+* **Ejercicio 1** (Total **3 Bitpoints**): TODO. **Entregar** por redes sociales, con mención a **@obijuan_cube**
   * x pantallazo del circuito (1 bitpoint)
   * x Foto de la Icezum Alhambra con el circuito cargado (1 bitpoint)
   * Entrega adicional por Github (1 bitpoint) 
 
-* **Ejercicio 2** (Total **x Bitpoints**): TODO. **Entregar** por redes sociales, con mención a **@obijuan_cube**
+* **Ejercicio 2** (Total **3 Bitpoints**): TODO. **Entregar** por redes sociales, con mención a **@obijuan_cube**
   * x pantallazo del circuito (1 bitpoint)
   * x Foto de la Icezum Alhambra con el circuito cargado (1 bitpoint)
   * Entrega adicional por Github (1 bitpoint) 
 
-* **Ejercicio 3** (Total **x Bitpoints**): TODO. **Entregar** por redes sociales, con mención a **@obijuan_cube**
+* **Ejercicio 3** (Total **3 Bitpoints**): TODO. **Entregar** por redes sociales, con mención a **@obijuan_cube**
   * x pantallazo del circuito (1 bitpoint)
   * x Foto de la Icezum Alhambra con el circuito cargado (1 bitpoint)
   * Entrega adicional por Github (1 bitpoint) 
