@@ -240,7 +240,7 @@ Y lo **cargamos**:
 Vemos cómo los dos leds están pardeando a diferentes velocidades :-)
 
 
-# Ejercicios propuestos (x BitPoints)
+# Ejercicios propuestos (11 BitPoints)
 
 * **Ejercicio 1** (Total **x Bitpoints**): TODO. **Entregar** por redes sociales, con mención a **@obijuan_cube**
   * x pantallazo del circuito (1 bitpoint)
