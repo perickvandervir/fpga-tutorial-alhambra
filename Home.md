@@ -58,6 +58,7 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 
 |Divisa  | Nombe             | Rango    | BitPoints |
 |--------|-------------------|----------|-----------|
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)| Jose Luis (@movilujo)   | Cadete Nivel 3 | 51 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|   Alberto Valero   | Cadete Nivel 3 | 49 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|   Dmayoraru (isindalin)   | Cadete Nivel 3 | 45 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|   Koyikabuto   | Cadete Nivel 3 | 43 |
@@ -70,7 +71,6 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)| Federico Coca   | Cadete Nivel 3 | 40 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)| Sergio Morales (SetaSeta/Menyiques)   | Cadete Nivel 3 | 40 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)| Jorge Lorenzo Núñez (JorgeLN)   | Cadete Nivel 3 | 40 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)| Jose Luis (@movilujo)   | Cadete Nivel 3 | 40 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)| Javier Solsona (javsol)  | Cadete Nivel 3 | 40 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)| JuanDGómezM  | Cadete Nivel 3 | 40 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)| Josep Montoliu (Klarojms)  | Cadete Nivel 3 | 40 |
