@@ -195,7 +195,7 @@ Las instrucciones que se ejecutan en el **bucle principal** son:
 * **Escribir un 0** en el pin para apagar el led
 * Esperar durante medio segundo
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/arduino-anim-01.gif)
 
 
 ## Led parpadeante con pensamiento hardware
