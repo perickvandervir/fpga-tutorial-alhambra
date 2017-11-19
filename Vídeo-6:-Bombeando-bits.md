@@ -300,8 +300,13 @@ de la icezum alhambra parpadeen cada uno a una velocidad, según esta tabla:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/entregas/jesus-sesma-3.jpeg)
 
+## Koyikabuto
 
-## Tercero
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-6/Koyi/Ejercicio6.1.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-6/Koyi/Ejercicio6.2.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-6/Koyi/Ejercicio6.3.png)
 
 
 # Autor
