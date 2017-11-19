@@ -203,7 +203,9 @@ Las instrucciones que se ejecutan en el **bucle principal** son:
 
 El **pensamiento algorítmico** es **muy potente**, pero hay cosas sencillas que son difíciles de implementar con este pensamiento. Aquí lanzo esta pregunta para pensar sobre ello: 
 
-**¿Cómo podemos hacer para que dos leds parpadeen a diferentes velocidades con pensamiento algorítmico?** ¿Y tres leds con velocidades diferentes? ¿Y 10?
+```
+¿Cómo podemos hacer para que dos leds parpadeen a diferentes velocidades con pensamiento algorítmico? ¿Y tres leds con velocidades diferentes? ¿Y 10?
+```
 
 Por supuesto esto es algo que se puede hacer, pero no es trivial ni inmediato para alguien que está empezando. Se requieren **conocimientos avanzados** para entender cómo hacerlo
 
