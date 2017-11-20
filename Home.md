@@ -14,7 +14,7 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | 4 | [Mi primer circuito: Encendiendo un led](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-4:-Mi-primer-circuito.-Encendiendo-un-led) |
 | 5 | [Colecciones en Icestudio](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio) |
 | 6| [Bombeando bits](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits)  |
-| 7 | Manipulando bits: Puerta NOT  |
+| 7 | [Manipulando bits: Puerta NOT](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT) (En construcción)  |
 | 8 | Leds externos |
 | 9 | Entradas    |
 | 10| Sonido    |
