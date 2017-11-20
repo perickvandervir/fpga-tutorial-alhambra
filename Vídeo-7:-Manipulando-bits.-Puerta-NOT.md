@@ -18,6 +18,14 @@ TODO
 
 TODO
 
+# Todo es número
+
+Vivimos en un **mundo digital**: televisión digital, radio digital, circuitos digitales...Es la era digital ¿Pero esto qué significa? Simplemente que **TODO son números**. Toda la información que recibimos son números. Las imágenes que nos llegan por la televisión son en realidad números. Los sonidos que escuchamos son números. Las Apps que ejecutamos en nuestros móviles son números. Los documentos que enviamos por internet son ... ¡Números!
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/intro-01.png)
+
+Actualmente todo es número, y las nuevas señales usadas en el futuro también será todo número :-) **¡¡[Los pitagóricos](https://es.wikipedia.org/wiki/Pitag%C3%B3ricos) estarían orgullosos!!**  ¡¡Tenían razón!!
+
 # Borrador
 
 * Sociedad digital
