@@ -77,6 +77,8 @@ TODO
 
 # Créditos y agradecimientos
 
+De Gregory Maxwell - From Image:Yin_yang.png, converted to SVG by Gregory Maxwell., Dominio público, https://commons.wikimedia.org/w/index.php?curid=364239
+
 # Enlaces
 
 * [Repositorio con las colecciones de la Academia Jedi de Hardware](https://github.com/Obijuan/Academia-Jedi-Hw)
