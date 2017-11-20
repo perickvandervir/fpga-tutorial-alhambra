@@ -24,7 +24,7 @@ Vivimos en un **mundo digital**: televisión digital, radio digital, circuitos d
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/intro-01.png)
 
-Pero es que además, gracias al [segundo teorema de Nyquist](https://es.wikipedia.org/wiki/Teorema_de_muestreo_de_Nyquist-Shannon), tenemos garantizado matemáticamente que **cualquier señal analógica se puede convertir a números** y posteriormente ser reconstruidas. De esta forma, tenemos garantizado que cualquier señal la podemos convertir a números**¡¡[Los pitagóricos](https://es.wikipedia.org/wiki/Pitag%C3%B3ricos) estarían orgullosos!!**  ¡¡Tenían razón!! :-)
+Pero es que además, gracias al [segundo teorema de Nyquist](https://es.wikipedia.org/wiki/Teorema_de_muestreo_de_Nyquist-Shannon), tenemos garantizado matemáticamente que **cualquier señal analógica se puede convertir a números** y posteriormente ser reconstruidas. De esta forma, tenemos garantizado que cualquier señal la podemos convertir a números **¡¡[Los pitagóricos](https://es.wikipedia.org/wiki/Pitag%C3%B3ricos) estarían orgullosos!!**  ¡¡Tenían razón!! :-)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/intro-02.jpg)
 
