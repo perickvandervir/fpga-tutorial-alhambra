@@ -18,6 +18,21 @@ TODO
 
 TODO
 
+# Borrador
+
+* Sociedad digital
+* Circuitos digitales: Almacenar, transportar y manipular números
+* Idem con bits
+* Transporte: Cables. Manipulación: Puertas lógicas. Almacenamiento: Biestables
+* Primera manipulación: Puerta NOT
+* Partimos cto corazón 1Hz
+* Añadimos otro led (Ejercicio 1 tutorial 6)
+* Colocar puerta NOT
+* Bit imprimible, dos caras
+* "Simulación"
+* Tabla de verdad
+* Propuesta de símbolo 
+
 # Ejercicios propuestos (11 BitPoints)
 
 * **Ejercicio 1** (Total **x Bitpoints**): (TODO) **Entregar** por redes sociales, con mención a **@obijuan_cube**
