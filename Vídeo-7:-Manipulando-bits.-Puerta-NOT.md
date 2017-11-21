@@ -28,11 +28,16 @@ Pero es que además, gracias al [segundo teorema de Nyquist](https://es.wikipedi
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/intro-02.jpg)
 
-# Borrador
+# Circuitos digitales
+
+(TODO)
 
 * Circuitos digitales: Almacenar, transportar y manipular números
 * Idem con bits
 * Transporte: Cables. Manipulación: Puertas lógicas. Almacenamiento: Biestables
+
+# Borrador
+
 * Primera manipulación: Puerta NOT
 * Partimos cto corazón 1Hz
 * Añadimos otro led (Ejercicio 1 tutorial 6)
