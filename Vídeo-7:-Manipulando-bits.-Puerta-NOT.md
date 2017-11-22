@@ -60,7 +60,9 @@ Los **cables** ya los hemos utilizado para transportar los bits desde dentro del
 
 La manipulación más sencilla se realiza con la **puerta NOT**, que **transforma** un **bit a 1 en 0**, y al contrario, **un bit 0 en 1**
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/puerta-not-01.png)
+
+
 
 # LEDs alternantes
 
