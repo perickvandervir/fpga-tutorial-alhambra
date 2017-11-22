@@ -19,6 +19,8 @@ TODO
 * [Todo es número](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#todo-es-n%C3%BAmero)
 * [Circuitos digitales](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#circuitos-digitales)
 * [Elementos de un circuito digital](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#elementos-de-un-circuito-digital)
+* [Manipulació de bits: Puerta NOT](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#manipulaci%C3%B3n-de-bits-puerta-not)
+
 
 # Todo es número
 
