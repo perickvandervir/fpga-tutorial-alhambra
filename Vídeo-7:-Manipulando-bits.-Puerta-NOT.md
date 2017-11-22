@@ -83,6 +83,7 @@ Partimos del circuito que ya conocemos que hace **parpadear un led** a la veloci
 * "Simulación"
 * Tabla de verdad
 * Propuesta de símbolo 
+(Meter simbolo de not en el repo de iconos de bloques)
 
 # Ejercicios propuestos (11 BitPoints)
 
