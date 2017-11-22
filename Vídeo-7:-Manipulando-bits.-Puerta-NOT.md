@@ -31,7 +31,7 @@ Pero es que además, gracias al [segundo teorema de Nyquist](https://es.wikipedi
 
 # Circuitos digitales
 
-Los **circuitos digitales** son los que trabajan con **números**. Y sólo con números. Sólo realizan tres operaciones con los numeros: **Almacenar**, **transportar** y **manipular**
+Los **circuitos digitales** son los que trabajan con **números**. Y sólo con números. Sólo realizan tres operaciones con los números: **Almacenar**, **transportar** y **manipular**
 
 Estos circuitos reciben números por sus **entradas**, realizan estas operaciones, y producen otros números como **salida**
 
