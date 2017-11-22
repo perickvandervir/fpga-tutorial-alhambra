@@ -52,6 +52,8 @@ Cualquier **circuito digital**, por muy complejo que sea, sólo está formado po
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/intro-05.png)
 
+Los **cables** ya los hemos utilizado para transportar los bits desde dentro del chip hasta sus patas de salida, para encender los leds o hacerlos parpadear. Lo siguiente será aprender a manipularlos
+
 # Manipulación de bits: Puerta NOT
 
 TODO
