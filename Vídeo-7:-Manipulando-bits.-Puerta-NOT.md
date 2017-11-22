@@ -64,15 +64,19 @@ La manipulación más sencilla se realiza con la **puerta NOT**, que **transform
 
 Esta puerta tiene una **entrada** por la izquierda, por donde entra un bit, y una **salida** por la derecha por donde aparece el bit invertido
 
-En la app **circuit scramble**, que vimos en el [tutorial 1](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos), la **puerta not** aparece a partir del **nivel 5**. El símbolo es diferentes al usado típicamente
+En la app **circuit scramble**, que vimos en el [tutorial 1](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos), la **puerta not** aparece a partir del **nivel 5**. El símbolo es diferente al usado típicamente, pero el funcionamiento es el mismo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/puerta-not-02.png)
 
 # LEDs alternantes
 
-TODO
+Vamos a utilizar la **puerta NOT** para crear una **sirena luminosa** haciendo que dos leds **parpadeen alternativamente**
 
-* Partimos cto corazón 1Hz
+Partimos del circuito que ya conocemos que hace **parpadear un led** a la velocidad de 1Hz
+
+(Foto)
+
+
 * Añadimos otro led (Ejercicio 1 tutorial 6)
 * Colocar puerta NOT
 * Bit imprimible, dos caras
