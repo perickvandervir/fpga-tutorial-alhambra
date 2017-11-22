@@ -52,9 +52,14 @@ Cualquier **circuito digital**, por muy complejo que sea, sólo está formado po
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/intro-05.png)
 
-# Borrador
+# Manipulación de bits: Puerta NOT
 
-* Primera manipulación: Puerta NOT
+TODO
+
+# LEDs alternantes
+
+TODO
+
 * Partimos cto corazón 1Hz
 * Añadimos otro led (Ejercicio 1 tutorial 6)
 * Colocar puerta NOT
