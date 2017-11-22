@@ -30,9 +30,17 @@ Pero es que además, gracias al [segundo teorema de Nyquist](https://es.wikipedi
 
 # Circuitos digitales
 
+Los **circuitos digitales** son los que trabajan con **números**. Y sólo con números. Sólo realizan tres operaciones con los numeros: **Almacenar**, **transportar** y **manipular**
+
+Estos circuitos reciben números por sus **entradas**, realizan estas operaciones, y producen otros números como **salida**
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/intro-03.png)
 
-* Circuitos digitales: Almacenar, transportar y manipular números
+Ahora bien, con la tecnología actual, los chips trabajan internamente con **bits**. Son elementos de información que sólo pueden estar en dos estados: 1 ó 0. Y se usan bits porque son muy fáciles de implementar a partir de **transistores** que se fabrican muy fácilmente y barato con **silicio**
+
+Cualquier **número** se puede representar mediante **dígitos binarios** (bits). De esta forma podemos redefinir los chips digitales como: **Aquellos componentes que almacenan, transportan y manipulan bits**. Y sólo hacen eso
+
+
 * Idem con bits
 * Transporte: Cables. Manipulación: Puertas lógicas. Almacenamiento: Biestables
 
