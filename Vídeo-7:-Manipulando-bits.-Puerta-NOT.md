@@ -62,11 +62,11 @@ La manipulación más sencilla se realiza con la **puerta NOT**, que **transform
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/puerta-not-01.png)
 
+Esta puerta tiene una **entrada** por la izquierda, por donde entra un bit, y una **salida** por la derecha por donde aparece el bit invertido
+
 En la app **circuit scramble**, que vimos en el [tutorial 1](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos), la **puerta not** aparece a partir del **nivel 5**. El símbolo es diferentes al usado típicamente
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/puerta-not-02.png)
-
-
 
 # LEDs alternantes
 
