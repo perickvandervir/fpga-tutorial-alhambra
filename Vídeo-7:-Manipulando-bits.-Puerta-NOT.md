@@ -41,8 +41,8 @@ Ahora bien, con la tecnología actual, los chips trabajan internamente con **bit
 
 Cualquier **número** se puede representar mediante **dígitos binarios** (bits). De esta forma podemos redefinir los chips digitales como: **Aquellos componentes que almacenan, transportan y manipulan bits**. Y sólo hacen eso
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/intro-04.png)
 
-* Idem con bits
 * Transporte: Cables. Manipulación: Puertas lógicas. Almacenamiento: Biestables
 
 # Borrador
