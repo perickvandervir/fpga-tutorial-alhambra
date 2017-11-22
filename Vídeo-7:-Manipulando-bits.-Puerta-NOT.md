@@ -50,6 +50,10 @@ Por sus **entradas** llegan **bits**, que son manipulados, almacenados y transpo
 
 * Transporte: Cables. Manipulación: Puertas lógicas. Almacenamiento: Biestables
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/intro-05.png)
+
+
+
 # Borrador
 
 * Primera manipulación: Puerta NOT
