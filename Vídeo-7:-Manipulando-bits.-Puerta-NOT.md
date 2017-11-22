@@ -48,11 +48,9 @@ Por sus **entradas** llegan **bits**, que son manipulados, almacenados y transpo
 
 # Elementos de un circuito digital
 
-* Transporte: Cables. Manipulación: Puertas lógicas. Almacenamiento: Biestables
+Cualquier **circuito digital**, por muy complejo que sea, sólo está formado por **tres elementos básicos**: Los **cables**, para transportar bits, **puertas lógicas** para manipularlos y **biestables** para almacenarlos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/intro-05.png)
-
-
 
 # Borrador
 
