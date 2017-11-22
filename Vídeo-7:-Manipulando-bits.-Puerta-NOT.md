@@ -30,7 +30,7 @@ Pero es que además, gracias al [segundo teorema de Nyquist](https://es.wikipedi
 
 # Circuitos digitales
 
-(TODO)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/intro-03.png)
 
 * Circuitos digitales: Almacenar, transportar y manipular números
 * Idem con bits
