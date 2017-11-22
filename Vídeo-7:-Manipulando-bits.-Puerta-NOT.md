@@ -43,7 +43,7 @@ Cualquier **número** se puede representar mediante **dígitos binarios** (bits)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/intro-04.png)
 
-Por sus **entradas** llegan **bits**, que son manipulados, almacenados y transportados, y por la **salida** se sacan bits
+Por sus **entradas** llegan **bits**, que son manipulados, almacenados y transportados, y como **resultado** se obtienen más bits que se sacan por las **salidas**
 
 # Elementos de un circuito digital
 
