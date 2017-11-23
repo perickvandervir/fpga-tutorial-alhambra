@@ -129,7 +129,23 @@ y la **apretamos**, eliminando el cable
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-12.png)
 
-* Colocar puerta NOT
+Colocaremos una **puerta NOT**. Nos vamos al menú **Puertas/Not**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-13.png)
+
+Y **colocamos** la puerta a la izquierda del bloque de salida del **LED 0**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-14.png)
+
+Ahora **tiramos un cable** desde el corazón a la entrada de la puerta y **otro** desde su salida al LED 0
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-15.png)
+
+**Cargamos** el circuito en la placa, para probarlo
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-16.gif)
+
+# Pendiente
 * Bit imprimible, dos caras
 * "Simulación"
 * Tabla de verdad
