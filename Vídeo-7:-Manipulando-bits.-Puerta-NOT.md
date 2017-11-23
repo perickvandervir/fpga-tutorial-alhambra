@@ -76,6 +76,9 @@ Partimos del circuito que ya conocemos que hace **parpadear un led** a la veloci
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-01.png)
 
+Primero haremos que los **dos leds parpadeen a la vez**. Esto ya lo sabemos hacer, y se propuso como ejercicio en el Tutorial 6. Colocamos un bloque de **salida** asociado al **LED 0**:
+
+(FOTO)
 
 * Añadimos otro led (Ejercicio 1 tutorial 6)
 * Colocar puerta NOT
