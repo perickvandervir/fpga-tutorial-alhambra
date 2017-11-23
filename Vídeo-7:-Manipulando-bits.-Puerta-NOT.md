@@ -96,7 +96,11 @@ Así es como queda el circuito, con un corazón conectado a los leds para que **
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-06.png)
 
-El cable que acabamos de colocar se **puede mover**. Para ello nos situamos encima. Su aspecto cambia
+El cable que acabamos de colocar se **puede mover**. Para ello nos situamos encima. Su **aspecto** cambia
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-07.png)
+
+Dejamos pulsado el botón izquierdo y **movemos el cable** hacia la izquierda
 
 
 
