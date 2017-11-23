@@ -76,7 +76,7 @@ Partimos del circuito que ya conocemos que hace **parpadear un led** a la veloci
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-01.png)
 
-Primero haremos que los **dos leds parpadeen a la vez**. Esto ya lo sabemos hacer, y se propuso como ejercicio en el [Tutorial 6](). Colocamos un bloque de **salida** asociado al **LED 0**:
+Primero haremos que los **dos leds parpadeen a la vez**. Esto ya lo sabemos hacer, y se propuso como ejercicio en el [Tutorial 6](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits). Colocamos un bloque de **salida** asociado al **LED 0**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-02.png)
 
@@ -88,7 +88,10 @@ Tiramos **un cable** como ya sabemos, pinchando con el botón izquierdo y arrast
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-04.png)
 
-* Añadimos otro led (Ejercicio 1 tutorial 6)
+Nos situamos en la entrada del bloque de salida y **soltamos** el botón para **fijar el cable**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-05.png)
+
 * Colocar puerta NOT
 * Bit imprimible, dos caras
 * "Simulación"
