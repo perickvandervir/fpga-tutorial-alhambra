@@ -119,7 +119,13 @@ Vamos a utilizar la **puerta NOT** para crear una **sirena luminosa** haciendo q
 
 Partimos del ejemplo creado anteriormente, al que también tenemos acceso desde el menú **Archivo/Ejemplos/1-Ejemplos/2-Leds-parpadeantes-igual**. Primero **eliminamos** el cable que conecta el corazón con el LED0. Para ello situamos el ratón encima del cable: nos aparece una **X roja**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-10.png)
 
+Nos situamos sobre ella
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-11.png)
+
+y la apretamos, eliminando el cable
 
 * Colocar puerta NOT
 * Bit imprimible, dos caras
