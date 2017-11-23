@@ -106,7 +106,7 @@ Dejamos pulsado el botón izquierdo y **movemos el cable** hacia la izquierda
 
 Soltamos el botón y ya tenemos el cable **recolocado**
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-08.png)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-09.png)
 
 **Cargamos** el circuito para probarlo. Los **LEDs 0** y **7** parpadean a la vez
 
