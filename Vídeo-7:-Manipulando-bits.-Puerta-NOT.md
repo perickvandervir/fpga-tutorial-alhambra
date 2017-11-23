@@ -84,6 +84,10 @@ Desde la salida de un bloque es posible **sacar más de un cable**. Nos colocamo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-03.png)
 
+Tiramos **un cable** como ya sabemos, pinchando con el botón izquierdo y arrastrando. Nos aparece un **nuevo cable**, unido al original
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-04.png)
+
 * Añadimos otro led (Ejercicio 1 tutorial 6)
 * Colocar puerta NOT
 * Bit imprimible, dos caras
