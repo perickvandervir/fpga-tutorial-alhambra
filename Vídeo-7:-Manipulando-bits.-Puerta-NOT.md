@@ -117,6 +117,10 @@ Soltamos el botón y ya tenemos el cable **recolocado**
 
 Vamos a utilizar la **puerta NOT** para crear una **sirena luminosa** haciendo que dos leds **parpadeen alternativamente**
 
+Partimos del ejemplo creado anteriormente, al que también tenemos acceso desde el menú **Archivo/Ejemplos/1-Ejemplos/2-Leds-parpadeantes-igual**. Primero **eliminamos** el cable que conecta el corazón con el LED0. Para ello situamos el ratón encima del cable: nos aparece una **X roja**
+
+
+
 * Colocar puerta NOT
 * Bit imprimible, dos caras
 * "Simulación"
