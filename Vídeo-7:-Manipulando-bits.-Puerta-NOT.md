@@ -110,7 +110,7 @@ Soltamos el botón y ya tenemos el cable **recolocado**
 
 **Cargamos** el circuito para probarlo. Los **LEDs 0** y **7** parpadean a la vez
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/leds-parpadeo-fase.gif)
 
 * Colocar puerta NOT
 * Bit imprimible, dos caras
