@@ -68,15 +68,15 @@ En la app **circuit scramble**, que vimos en el [tutorial 1](https://github.com/
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/puerta-not-02.png)
 
-# Ejemplo: LEDs alternantes
+# Ejemplo 1: LEDs parpadeando a la vez
 
-Vamos a utilizar la **puerta NOT** para crear una **sirena luminosa** haciendo que dos leds **parpadeen alternativamente**
+Haremos primero un ejemplo de **cómo hacer parpadear 2 leds a la vez**. Lo haremos con los **LEDs 0** y **7**. Ya sabemos hacerlo, y se planteó como ejercicio en el [tutorial 6](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits). Lo resolveremos aquí y aprenderemos de paso a tirar **varios cables** desde la misma salida
 
 Partimos del circuito que ya conocemos que hace **parpadear un led** a la velocidad de 1Hz (Lo podemos cargar rápidamente desde el menú **Archivo/Ejemplos/1-Ejemplos/1-LED parpadeante**)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-01.png)
 
-Primero haremos que los **dos leds parpadeen a la vez**. Esto ya lo sabemos hacer, y se propuso como ejercicio en el [Tutorial 6](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits). Colocamos un bloque de **salida** asociado al **LED 0**:
+Colocamos un bloque de **salida** asociado al **LED 0**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-02.png)
 
@@ -111,6 +111,10 @@ Soltamos el botón y ya tenemos el cable **recolocado**
 **Cargamos** el circuito para probarlo. Los **LEDs 0** y **7** parpadean a la vez
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/leds-parpadeo-fase.gif)
+
+# Ejemplo 2: Leds parpadeando alternativamente
+
+Vamos a utilizar la **puerta NOT** para crear una **sirena luminosa** haciendo que dos leds **parpadeen alternativamente**
 
 * Colocar puerta NOT
 * Bit imprimible, dos caras
