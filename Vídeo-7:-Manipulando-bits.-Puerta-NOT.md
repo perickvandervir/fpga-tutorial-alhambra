@@ -80,6 +80,10 @@ Primero haremos que los **dos leds parpadeen a la vez**. Esto ya lo sabemos hace
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-02.png)
 
+Desde la salida de un bloque es posible **sacar más de un cable**. Nos colocamos en la salida del corazón de 1Hz hasta que el cursor se ponga en **forma de cruz**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-03.png)
+
 * Añadimos otro led (Ejercicio 1 tutorial 6)
 * Colocar puerta NOT
 * Bit imprimible, dos caras
