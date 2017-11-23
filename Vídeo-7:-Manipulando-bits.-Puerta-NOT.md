@@ -68,7 +68,7 @@ En la app **circuit scramble**, que vimos en el [tutorial 1](https://github.com/
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/puerta-not-02.png)
 
-# LEDs alternantes
+# Ejemplo: LEDs alternantes
 
 Vamos a utilizar la **puerta NOT** para crear una **sirena luminosa** haciendo que dos leds **parpadeen alternativamente**
 
