@@ -72,9 +72,9 @@ En la app **circuit scramble**, que vimos en el [tutorial 1](https://github.com/
 
 Vamos a utilizar la **puerta NOT** para crear una **sirena luminosa** haciendo que dos leds **parpadeen alternativamente**
 
-Partimos del circuito que ya conocemos que hace **parpadear un led** a la velocidad de 1Hz
+Partimos del circuito que ya conocemos que hace **parpadear un led** a la velocidad de 1Hz (Lo podemos cargar rápidamente desde el menú **Archivo/Ejemplos/1-Ejemplos/1-LED parpadeante**)
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-01.png)
 
 
 * Añadimos otro led (Ejercicio 1 tutorial 6)
