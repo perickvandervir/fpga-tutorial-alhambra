@@ -145,6 +145,8 @@ Ahora **tiramos un cable** desde el corazón a la entrada de la puerta y **otro*
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-16.gif)
 
+Vemos cómo los leds **parpadean alternativamente**: primero uno y luego otro
+
 # Pendiente
 * Bit imprimible, dos caras
 * "Simulación"
