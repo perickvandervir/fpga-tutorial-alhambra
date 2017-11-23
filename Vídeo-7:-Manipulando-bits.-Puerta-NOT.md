@@ -92,6 +92,14 @@ Nos situamos en la entrada del bloque de salida y **soltamos** el botón para **
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-05.png)
 
+Así es como queda el circuito, con un corazón conectado a los leds para que **parpadeen a la vez**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-06.png)
+
+El cable que acabamos de colocar se **puede mover**. Para ello nos situamos encima. Su aspecto cambia
+
+
+
 * Colocar puerta NOT
 * Bit imprimible, dos caras
 * "Simulación"
