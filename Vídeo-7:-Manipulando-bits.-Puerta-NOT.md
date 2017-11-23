@@ -121,11 +121,13 @@ Partimos del ejemplo creado anteriormente, al que también tenemos acceso desde 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-10.png)
 
-Nos situamos sobre ella
+Nos situamos **sobre** ella
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-11.png)
 
-y la apretamos, eliminando el cable
+y la **apretamos**, eliminando el cable
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/led-alternantes-12.png)
 
 * Colocar puerta NOT
 * Bit imprimible, dos caras
