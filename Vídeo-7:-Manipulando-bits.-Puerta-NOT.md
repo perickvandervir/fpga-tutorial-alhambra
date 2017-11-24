@@ -163,12 +163,11 @@ El **funcionamiento completo** se muestra en esta **animación**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/leds-alternantes-bits-anim.gif)
 
+# Tabla de verdad
 
 # Pendiente
 * Bit imprimible, dos caras
-* "Simulación"
 * Tabla de verdad
-* Propuesta de símbolo 
 (Meter simbolo de not en el repo de iconos de bloques)
 
 # Ejercicios propuestos (11 BitPoints)
