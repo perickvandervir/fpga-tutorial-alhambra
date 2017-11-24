@@ -25,7 +25,7 @@ Los circuitos digitales realizan **tres operaciones** con los bits: **transporte
 * [Ejemplo 2: Leds parpadeando alternativamente](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#ejemplo-2-leds-parpadeando-alternativamente)
 * [Funcionamiento del circuito](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#funcionamiento-del-circuito)
 * [Tabla de verdad](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#tabla-de-verdad)
-* []()
+* [Bits imprimibles en 3D](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#bits-imprimibles-en-3d)
 
 # Todo es número
 
