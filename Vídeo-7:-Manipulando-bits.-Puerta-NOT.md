@@ -8,7 +8,8 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-TODO
+Los circuitos digitales realizan **tres operaciones** con los bits: **transporte**, **almacenamiento** y **manipulación**. Veremos un ejemplo de **manipulación sencilla** usando la puerta lógica **NOT**, con la que haremos que dos leds **parpadeen alternativamente**
+
 
 # Colección
 
