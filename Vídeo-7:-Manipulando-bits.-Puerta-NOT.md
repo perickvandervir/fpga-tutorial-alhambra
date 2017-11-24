@@ -32,7 +32,7 @@ Los circuitos digitales realizan **tres operaciones** con los bits: **transporte
 * [Licencia](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#licencia)
 * [Créditos y agradecimientos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#cr%C3%A9ditos-y-agradecimientos)
 * [Enlaces](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#enlaces)
-
+* [FAQs](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#faqs)
 
 # Todo es número
 
