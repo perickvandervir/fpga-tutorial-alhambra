@@ -147,6 +147,10 @@ Ahora **tiramos un cable** desde el corazón a la entrada de la puerta y **otro*
 
 Vemos cómo los leds **parpadean alternativamente**: primero uno y luego otro
 
+# Funcionamiento del circuito
+
+
+
 # Pendiente
 * Bit imprimible, dos caras
 * "Simulación"
