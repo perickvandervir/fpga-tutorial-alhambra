@@ -152,12 +152,17 @@ Vemos cómo los leds **parpadean alternativamente**: primero uno y luego otro
 # Funcionamiento del circuito
 
 El circuito de los leds alternantes funciona de la siguiente manera: Cuando el corazón bombea un bit a 1, se transmite por el cable al **LED 7** y por el otro cable llega a la entrada de la **puerta NOT**. El bit se convierte a 0 y se saca por el **LED 0**. Por ello, el LED 7 se enciende y el LED 0 se apaga
-
+https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/leds-alternantes-bits-anim.gif
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/funcionamiento-leds-alternantes-01.png)
 
 Cuando el corazón bombea un **bit 0** ocurre lo contrario. El 0 llega al **LED 7**, apagándolo, y por el otro cable llega a la puerta NOT, convirtiéndose en un 1 y encendiendo el **LED 0**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/funcionamiento-leds-alternantes-02.png)
+
+El **funcionamiento completo** se muestra en esta **animación**:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/leds-alternantes-bits-anim.gif)
+
 
 # Pendiente
 * Bit imprimible, dos caras
