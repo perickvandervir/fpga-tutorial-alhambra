@@ -25,6 +25,7 @@ Los circuitos digitales realizan **tres operaciones** con los bits: **transporte
 * [Ejemplo 2: Leds parpadeando alternativamente](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#ejemplo-2-leds-parpadeando-alternativamente)
 * [Funcionamiento del circuito](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#funcionamiento-del-circuito)
 * [Tabla de verdad](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#tabla-de-verdad)
+* []()
 
 # Todo es número
 
@@ -172,8 +173,8 @@ El funcionamiento del circuito queda descrito de manera más concisa usando una 
 
 En la **columan de la izquierda** están puestos los dos valores que puede tomar el corazón: **0** y **1**. Y en las dos columnas de la derecha los valores que salen por las salidas y que llegan a los LEDs 7 y 0 respectivamente 
 
-# Pendiente
-* Bit imprimible, dos caras
+# Bits imprimibles en 3D
+
 
 # Ejercicios propuestos (11 BitPoints)
 
