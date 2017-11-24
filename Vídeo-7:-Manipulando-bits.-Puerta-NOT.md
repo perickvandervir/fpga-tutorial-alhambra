@@ -31,7 +31,7 @@ Vivimos en un **mundo digital**: televisión digital, radio digital, circuitos d
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/intro-01.png)
 
-Pero es que además, gracias al [segundo teorema de Nyquist](https://es.wikipedia.org/wiki/Teorema_de_muestreo_de_Nyquist-Shannon), tenemos garantizado matemáticamente que **cualquier señal analógica se puede convertir a números** y posteriormente ser reconstruidas. De esta forma, tenemos garantizado que cualquier señal la podemos convertir a números **¡¡[Los pitagóricos](https://es.wikipedia.org/wiki/Pitag%C3%B3ricos) estarían orgullosos!!**  ¡¡Tenían razón!! :-)
+Pero es que además, gracias al [segundo teorema de Nyquist](https://es.wikipedia.org/wiki/Teorema_de_muestreo_de_Nyquist-Shannon), tenemos garantizado matemáticamente que **cualquier señal analógica se puede convertir a números** y posteriormente ser reconstruidas. De esta forma, tenemos garantizado quehttps://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#funcionamiento-del-circuito cualquier señal la podemos convertir a números **¡¡[Los pitagóricos](https://es.wikipedia.org/wiki/Pitag%C3%B3ricos) estarían orgullosos!!**  ¡¡Tenían razón!! :-)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/intro-02.jpg)
 
@@ -151,7 +151,13 @@ Vemos cómo los leds **parpadean alternativamente**: primero uno y luego otro
 
 # Funcionamiento del circuito
 
+El circuito de los leds alternantes funciona de la siguiente manera: Cuando el corazón bombea un bit a 1, se transmite por el cable al **LED 7** y por el otro cable llega a la entrada de la **puerta NOT**. El bit se convierte a 0 y se saca por el **LED 0**. Por ello, el LED 7 se enciende y el LED 0 se apaga
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/funcionamiento-leds-alternantes-01.png)
+
+Cuando el corazón bombea un **bit 0** ocurre lo contrario. El 0 llega al **LED 7**, apagándolo, y por el otro cable llega a la puerta NOT, convirtiéndose en un 1 y encendiendo el **LED 0**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/funcionamiento-leds-alternantes-02.png)
 
 # Pendiente
 * Bit imprimible, dos caras
