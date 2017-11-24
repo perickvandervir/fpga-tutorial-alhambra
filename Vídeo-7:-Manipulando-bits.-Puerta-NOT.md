@@ -165,6 +165,10 @@ El **funcionamiento completo** se muestra en esta **animación**:
 
 # Tabla de verdad
 
+El funcionamiento del circuito queda descrito de manera más concisa usando una **tabla de verdad**, en la que se muestra el resultado de todas sus **salidas** segun el valor del bit bombeado por el corazón
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/funcionamiento-leds-alternantes-03.png)
+
 # Pendiente
 * Bit imprimible, dos caras
 * Tabla de verdad
