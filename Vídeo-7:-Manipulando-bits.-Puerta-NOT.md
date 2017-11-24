@@ -173,7 +173,6 @@ En la **columan de la izquierda** están puestos los dos valores que puede tomar
 
 # Pendiente
 * Bit imprimible, dos caras
-* Tabla de verdad
 (Meter simbolo de not en el repo de iconos de bloques)
 
 # Ejercicios propuestos (11 BitPoints)
