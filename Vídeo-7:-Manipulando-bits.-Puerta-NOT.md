@@ -13,7 +13,7 @@ Los circuitos digitales realizan **tres operaciones** con los bits: **transporte
 
 # Colección
 
-**Academia-Jedi-HW-07.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-07.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/Contenido/Tutorial-07/Academia-Jedi-HW-07.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
