@@ -189,6 +189,8 @@ En la **columan de la izquierda** están puestos los dos valores que puede tomar
 
 Ver los detalles de los ejercicios y las entregas en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
+**Resumen**:
+
 * **Ejercicio 1** (Total **3 Bitpoints**): Hacer un circuito digital que haga parpadear
 alternativamente los LEDs pares y los impares a una velocidad de una vez por segundo
 
