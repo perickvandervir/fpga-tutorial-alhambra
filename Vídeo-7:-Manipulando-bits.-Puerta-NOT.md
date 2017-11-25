@@ -187,21 +187,17 @@ En la **columan de la izquierda** están puestos los dos valores que puede tomar
 
 # Ejercicios propuestos (11 BitPoints)
 
-* **Ejercicio 1** (Total **x Bitpoints**): (TODO) **Entregar** por redes sociales, con mención a **@obijuan_cube**
-  * x pantallazo del circuito (x bitpoint)
-  * x Vídeo del circuito funcionando (x bitpoint)
-  * Entrega adicional por Github (1 bitpoint) 
+Ver los detalles de los ejercicios y las entregas en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
-* **Ejercicio 2** (Total **x Bitpoints**): (TODO) **Entregar** por redes sociales, con mención a **@obijuan_cube**
-  * x pantallazo del circuito (x bitpoint)
-  * x Vídeo del circuito funcionando (x bitpoint)
-  * Entrega adicional por Github (1 bitpoint) 
+* **Ejercicio 1** (Total **3 Bitpoints**): Hacer un circuito digital que haga parpadear
+alternativamente los LEDs pares y los impares a una velocidad de una vez por segundo
 
-* **Ejercicio 3** (Total **x Bitpoints**): (TODO) **Entregar** por redes sociales, con mención a **@obijuan_cube**
-  * x pantallazo del circuito (x bitpoint)
-  * x Vídeo del circuito funcionando (x bitpoint)
-  * Entrega adicional por Github (1 bitpoint) 
+* **Ejercicio 2** (Total **3 Bitpoints**): Hacer un circuito digital que haga parpadear
+alternativamente los LEDs 3 y 4 a la velocidad de 4 veces por segundo. Los leds 0 y 1 
+parpadean a la vez, una vez por segundo y los leds 7 y 6 lo hacen también una vez por
+segundo pero alternativamente con los leds 0 y 1
 
+* **Ejercicio 3** (Total **3 Bitpoints**): Hacer el circuito indicado en el enunciado de la colección, probarlo en la placa y obtener su tabla de verdad
 
 * **Ejercicio 4** (**2 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
