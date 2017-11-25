@@ -20,7 +20,7 @@ Los circuitos digitales realizan **tres operaciones** con los bits: **transporte
 * [Todo es número](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#todo-es-n%C3%BAmero)
 * [Circuitos digitales](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#circuitos-digitales)
 * [Elementos de un circuito digital](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#elementos-de-un-circuito-digital)
-* [Manipulació de bits: Puerta NOT](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#manipulaci%C3%B3n-de-bits-puerta-not)
+* [Manipulación de bits: Puerta NOT](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#manipulaci%C3%B3n-de-bits-puerta-not)
 * [Ejemplo 1: Leds parpadeando a la vez](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#ejemplo-1-leds-parpadeando-a-la-vez)
 * [Ejemplo 2: Leds parpadeando alternativamente](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#ejemplo-2-leds-parpadeando-alternativamente)
 * [Funcionamiento del circuito](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT#funcionamiento-del-circuito)
