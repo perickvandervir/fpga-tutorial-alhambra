@@ -221,7 +221,11 @@ segundo pero alternativamente con los leds 0 y 1
 
 ## Ricardo Gómez (3agl3man)
 
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-7/eagleman/Ejercicio_7.1.PNG)
 
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-7/eagleman/Ejercicio_7.2.PNG)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-7/eagleman/Ejercicio_7.3.PNG)
 
 # Autor
 
