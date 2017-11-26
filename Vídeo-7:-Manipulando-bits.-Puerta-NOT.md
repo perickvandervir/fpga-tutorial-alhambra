@@ -214,10 +214,10 @@ segundo pero alternativamente con los leds 0 y 1
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-7/fgcoca/Ejercicio-3/Ejercicio7-3.png)
 
-## Segundo
+## Jorge Lobo
 
 
-## Tercero
+## Ricardo Gómez (3agl3man)
 
 
 
