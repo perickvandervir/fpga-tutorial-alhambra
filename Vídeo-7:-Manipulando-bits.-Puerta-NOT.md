@@ -187,6 +187,9 @@ En la **columan de la izquierda** están puestos los dos valores que puede tomar
 
 # Bits imprimibles en 3D
 
+Para realizar simulaciones de los **circuitos lógicos** se puede utilizar estas [Monedas Bits](https://github.com/Obijuan/3D-parts/wiki/Monedas-Bit) imprimibles
+
+![](https://raw.githubusercontent.com/Obijuan/3D-parts/master/2017-11-26-Printable-bits/images/Moneda-bit-1.jpg)
 
 # Ejercicios propuestos (11 BitPoints)
 
