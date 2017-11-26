@@ -218,6 +218,11 @@ segundo pero alternativamente con los leds 0 y 1
 
 ## Jorge Lobo
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/entregas/Lobotic-1.jpg)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/entregas/lobotic-2.jpg)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-07/entregas/lobotic-3.jpg)
 
 ## Ricardo Gómez (3agl3man)
 
