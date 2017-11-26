@@ -250,6 +250,7 @@ segundo pero alternativamente con los leds 0 y 1
 # Enlaces
 
 * [Repositorio con las colecciones de la Academia Jedi de Hardware](https://github.com/Obijuan/Academia-Jedi-Hw)
+* [Monedas Bit imprimibles](https://github.com/Obijuan/3D-parts/wiki/Monedas-Bit)
 
 # FAQs
 
