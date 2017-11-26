@@ -63,9 +63,9 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)| Ximo Catala (Ximocat)   | Aspirante a Padawan | 62 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)| Bercebus  | Cadete Nivel 3 | 58 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)| Jorge Lobo (Lobotic)  | Cadete Nivel 3 | 57 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|    Eufrasio Cabrera (jaculca)  | Cadete Nivel 3 | 54 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|    Manuel Andújar (Matalobo)   | Cadete Nivel 3 | 52 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|   Koyikabuto   | Cadete Nivel 3 | 52 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|    Eufrasio Cabrera (jaculca)  | Cadete Nivel 3 | 52 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|     Andrés (@Avarez_)  | Cadete Nivel 3 | 52 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)| Jose Luis (@movilujo)   | Cadete Nivel 3 | 51 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)| Joaquín Cubillo (jcubilloarr)  | Cadete Nivel 3 | 51 |
