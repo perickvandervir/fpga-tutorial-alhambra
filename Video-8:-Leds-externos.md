@@ -15,6 +15,21 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Contenido
 
+TODO
+
+# Borrador
+
+# Documentación de la Icezum Alhambra
+
+## Pines de 3.3v (GPx)
+
+# Ejemplo 1: Encender led externo
+
+-Dos leds intermitentes
+-Semaforo
+-Robot con ojos alternates (maqueta en cartón)
+-PCBprint?
+
 # Ejercicios propuestos (11 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
