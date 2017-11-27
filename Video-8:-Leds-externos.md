@@ -17,13 +17,13 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 TODO
 
-# Borrador
-
-# Documentación de la Icezum Alhambra
+# Pines de E/S en la Icezum Alhambra
 
 ## Pines de 3.3v (GPx)
 
 # Ejemplo 1: Encender led externo
+
+# Borrador
 
 -Dos leds intermitentes
 -Semaforo
