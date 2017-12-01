@@ -17,7 +17,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 TODO
 
-# Pines de E/S en la Icezum Alhambra
+# Pines de la Icezum Alhambra
 
 ## Pines de 3.3v (GPx)
 
