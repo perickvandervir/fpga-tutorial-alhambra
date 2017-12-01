@@ -17,6 +17,10 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 * [Pines de la Icezum Alhambra](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Leds-externos#pines-de-la-icezum-alhambra)
 
+# Documentación de la Icezum Alhambra
+
+TODO
+
 # Pines de la Icezum Alhambra
 
 La placa [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki) tiene **4 tipos de pines** para conectarse al exterior, resumidos en este **diagrama**
