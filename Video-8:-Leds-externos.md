@@ -19,7 +19,9 @@ TODO
 
 # Pines de la Icezum Alhambra
 
+La placa [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki) tiene **4 tipos de pines** para conectarse al exterior, resumidos en este **diagrama**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-01.png)
 
 ## Pines de 3.3v (GPx)
 
