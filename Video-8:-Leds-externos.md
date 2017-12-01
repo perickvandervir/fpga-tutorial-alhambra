@@ -19,7 +19,11 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Documentación de la Icezum Alhambra
 
-TODO
+La documentación de la placa [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki) está resumida en este diagrama, realizado por [Alberto Piganti](http://www.pighixxx.com) (¡Gracias!)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/icezum-pinout.png)
+
+Está disponible en **otros formatos**: ([PNG](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/icezum-pinout.png))([SVG](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/Icezum-alhambra-pinout.svg))([PDF](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/icezum-pinout.pdf))
 
 # Pines de la Icezum Alhambra
 
