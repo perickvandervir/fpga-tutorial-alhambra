@@ -25,7 +25,13 @@ La documentación de la placa [Icezum Alhambra](https://github.com/FPGAwars/icez
 
 Está disponible en **otros formatos**: ([PNG](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/icezum-pinout.png))([SVG](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/Icezum-alhambra-pinout.svg))([PDF](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/icezum-pinout.pdf))
 
-TODO: cajas azules de icestudio
+En este diagrama hay mucha información. Vamos a **analizar** la parte que nos es más familiar: los **LEDS** de la placa. Si miramos el diagrama veremos esto:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/icezum-pinout-2.png)
+
+Junto a cada LED hay unos cuadros con la **siguiente información**:
+
+* **Pin físico**: Es el **número de pin** del encapsulado de la FPGA. En la Icezum alhambra, el encapsulado de la FPGA es un **TQ144**, y la numeración de los pines es como se muestra en la siguiente figura:
 
 
 También está disponible desde el menú **Ver/Pinout** de Icestudio
