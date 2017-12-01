@@ -23,6 +23,13 @@ La placa [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki) tiene **4 ti
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-01.png)
 
+Estos pines son:
+
+1. Conectores de E/S hembra de 5 Voltios
+2. Conectores de E/S macho de 5 Voltios, con alimentación y masa
+3. Conectores de E/S macho de 3.3 Voltios
+4. Conectores macho para entradas analógicas
+
 ## Pines de 3.3v (GPx)
 
 # Ejemplo 1: Encender led externo
