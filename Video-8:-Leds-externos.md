@@ -29,7 +29,7 @@ En este diagrama hay mucha información. Vamos a **analizar** la parte que nos e
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/icezum-pinout-2.png)
 
-Junto a cada LED hay unos cuadros con la **siguiente información**:
+Junto a cada **pin/LED** hay unos cuadros con la **siguiente información**:
 
 * **Pin físico**: Es el **número de pin** del encapsulado de la FPGA. En la Icezum alhambra, el encapsulado de la FPGA es un **TQ144**, y la numeración de los pines es como se muestra en la siguiente figura:
 
