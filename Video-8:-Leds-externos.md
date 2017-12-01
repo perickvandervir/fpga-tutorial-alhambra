@@ -25,6 +25,13 @@ La documentación de la placa [Icezum Alhambra](https://github.com/FPGAwars/icez
 
 Está disponible en **otros formatos**: ([PNG](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/icezum-pinout.png))([SVG](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/Icezum-alhambra-pinout.svg))([PDF](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/icezum-pinout.pdf))
 
+TODO: cajas azules de icestudio
+
+
+También está disponible desde el menú **Ver/Pinout** de Icestudio
+
+(Foto)
+
 # Pines de la Icezum Alhambra
 
 La placa [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki) tiene **4 tipos de pines** para conectarse al exterior, resumidos en este **diagrama**
