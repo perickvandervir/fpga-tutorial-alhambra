@@ -35,7 +35,13 @@ Junto a cada **pin/LED** hay unos cuadros con la **siguiente información**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/icezum-pinout-3.png)
 
-También está disponible desde el menú **Ver/Pinout** de Icestudio
+* **Nombre del pin**. Es el nombre asignado por Lattice, con independencia del encapsulado (Ya que cada encapsulado tiene una numeración diferente). Así, el pin denominado **1_62** es una salida de la FPGA que está en el banco 1 y que para los encapsulados TQ144 sale por el pin físico 95, pero saldrá por otro en un encapsulado diferente
+
+* **Nombre en Icestudio**. Es el nombre que se le asigna en los bloques amarillos de Icestudio
+
+* **Tipo de pin**. Indica de qué tipo es el pin. Las flechas blancas con fondo naranja significa que se trata de un LED
+
+La información de la placa también está disponible desde el menú **Ver/Pinout** de Icestudio
 
 (Foto)
 
