@@ -30,6 +30,10 @@ Estos **conectores** son:
 3. Conectores de E/S macho de **3.3 Voltios**
 4. Conectores macho para **entradas analógicas**
 
+## Conectores hembra de 5V
+
+![](![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-02.png))
+
 ## Pines de 3.3v (GPx)
 
 # Ejemplo 1: Encender led externo
