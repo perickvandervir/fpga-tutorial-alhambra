@@ -32,7 +32,7 @@ Estos **conectores** son:
 
 ## Conectores hembra de 5V
 
-![](![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-02.png))
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-02.png)
 
 ## Pines de 3.3v (GPx)
 
