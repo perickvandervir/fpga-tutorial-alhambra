@@ -81,7 +81,7 @@ En total hay **31 pines**, de los cuales **19** son de **E/S de 5v**. Los pines 
 
 ## Conectores macho de 5V con alimentación y masa
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-03.png)
 
 ## Pines de 3.3v (GPx)
 
