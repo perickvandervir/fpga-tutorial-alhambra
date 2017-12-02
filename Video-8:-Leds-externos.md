@@ -15,6 +15,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Contenido
 
+* [Material necesario](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Leds-externos#material-necesario)
 * [Pines de la Icezum Alhambra](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Leds-externos#pines-de-la-icezum-alhambra)
 
 # Material necesario
