@@ -48,7 +48,13 @@ Junto a cada **pin/LED** hay unos cuadros con la **siguiente información**:
 
 La información de la placa también está disponible desde el menú **Ver/Pinout** de Icestudio
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/icezum-pinout-4.png)
+
+Al pulsar la opción de Pinout se nos abre **una ventana con la documentación** de la Icezum Alhambra. Si tenemos seleccionada otra placa, saldrá su propia documentación
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/icezum-pinout-5.png)
+
+Sobre esta ventana podemos hacer **zoom y navegar**. En el caso de la icezum Alhambra, la documentación que se muestra en **icestudio 0.3.1** está **obsoleta**. Hay una más moderna en el repo, que es la que se recomienda usar. En las siguientes versiones de Icestudio se actualizará
 
 # Pines de la Icezum Alhambra
 
