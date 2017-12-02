@@ -83,6 +83,8 @@ En total hay **31 pines**, de los cuales **19** son de **E/S de 5v**. Los pines 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-03.png)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-04.png)
+
 ## Pines de 3.3v (GPx)
 
 # Ejemplo 1: Encender led externo
