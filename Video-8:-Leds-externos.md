@@ -17,6 +17,10 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 * [Pines de la Icezum Alhambra](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Leds-externos#pines-de-la-icezum-alhambra)
 
+# Material necesario
+
+TODO
+
 # Documentación de la Icezum Alhambra
 
 La documentación de la placa [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki) está resumida en este **diagrama**, realizado por [Alberto Piganti](http://www.pighixxx.com) (¡Gracias!)
