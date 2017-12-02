@@ -77,6 +77,10 @@ Son los **típicos conectores de Arduino** que sirven para conectar **cables mac
 
 En total hay **31 pines**, de los cuales **19** son de **E/S de 5v**. Los pines de E/S superiores se denominan **D13** - **D0** en Icestudio, y los inferiores **DD5** - **DD0**. Todos estos pines tienen la característica de que son de **5v**. Como los pines de la FPGA son de 3.3 Voltios, se pasan a través de unos **conversores bidireccionales de 3V3 - 5v**. Por ello, **no están conectados directamente a los pines de la FPGA**, y sus características las **determinan estos conversores**.
 
+## Conectores macho de 5V con alimentación y masa
+
+TODO
+
 ## Pines de 3.3v (GPx)
 
 # Ejemplo 1: Encender led externo
