@@ -71,7 +71,11 @@ Estos **conectores** son:
 
 ## Conectores hembra de 5V
 
+Son los **típicos conectores de Arduino** que sirven para conectar **cables macho** y **shields** de expasión. Se encuentran en la parte superior e inferior de la placa, como se muestra en la figura
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-02.png)
+
+En total hay **31 pines**, de los cuales **19** son de **E/S de 5v**. Los pines de E/S superiores se denominan **D13** - **D0** en Icestudio, y los inferiores **DD5** - **DD0**. Todos estos pines tienen la característica de que son de **5v**. Como los pines de la FPGA son de 3.3 Voltios, se pasan a través de unos **conversores bidireccionales de 3V3 - 5v**. Por ello, **no están conectados directamente a los pines de la FPGA**, y sus características las **determinan estos conversores**.
 
 ## Pines de 3.3v (GPx)
 
