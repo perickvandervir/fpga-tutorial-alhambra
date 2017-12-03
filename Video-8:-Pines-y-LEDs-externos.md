@@ -105,7 +105,7 @@ Son **8 pines** macho dispuestos en dos filas de 4 pines, de color **amarillo**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-07.png)
 
-Los 8 pines están **conectados directamente** a pines de la FPGA, que trabajan a **3.3V**. Los pines hembra y macho anteriores están conectados a la FPGA a través de conversores de nivel. Se denotan con la nomenclatura **GP0** - **GP7**. Esta es la disposición de los pines
+Los 8 pines están **conectados directamente** a pines de la FPGA, que trabajan a **3.3V**. Los pines hembra y macho anteriores están conectados a la FPGA a través de conversores de nivel. Se denotan con la nomenclatura **GP0** - **GP7**. Esta es la **disposición de los pines**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-08.png)
 
