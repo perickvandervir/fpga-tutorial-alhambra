@@ -116,13 +116,13 @@ La Icezum Alhambra tiene **4 entradas analógicas** situadas en la parte derecha
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-09.png)
 
-Cada entrada analógica (Azul) tiene un pin adicional de **alimentación** (rojo, 5v) y otro de **masa** (negro, GND)
+Cada **entrada analógica** (Azul) tiene un pin adicional de **alimentación** (rojo, 5v) y otro de **masa** (negro, GND)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-10.png)
 
 Estas tiras de 3 pines permiten **conectar directamente** sensores de **Luz** o **potenciómetros**:
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-11.jpg)
 
 La FPGA **NO** tiene entradas analógicas, por lo que en la Icezum Alhambra hay un **conversor Analógico-digital (A/D)** que se conecta a la FPGA a través de un **bus I2C**. Por ello, para leer las entradas analógicas es preciso **incluir** en nuestros diseños de un circuito capaz de **leer el bus I2C**
 
