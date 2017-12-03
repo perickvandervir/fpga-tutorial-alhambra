@@ -90,11 +90,11 @@ Cada uno de estos pines incluye uno adicional de **alimentación (+5v)** y **mas
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-04.png)
 
-Tienen esta disposición para poder **conectar directamente servos y sensores**
+Tienen esta disposición para poder **conectar directamente servos y sensores**. Se denominan igual que sus duplicados hembra: **D0** - **D13** para los de la parte superior y **DD0** - **DD5** en la parte inferior. En esta foto se muestra un **servo** conectado al pin **D0** y un sensor de infrarrojos en el **D13**
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-5.jpg)
 
-Se denominan igual que sus duplicados hembra: **D0** - **D13** para los de la parte superior y **DD0** - **DD5** en la parte inferior
+
 
 ## Pines de 3.3v (GPx)
 
