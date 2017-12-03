@@ -98,7 +98,15 @@ Aquí se muestran más **detalles** de la conexión a los pines machos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-6.jpg)
 
-## Pines de 3.3v (GPx)
+## Conectores de E/S macho de 3.3V (GPx)
+
+TODO
+
+
+## Conectores macho para **entradas analógicas** 
+
+TODO
+
 
 # Ejemplo 1: Encender led externo
 
