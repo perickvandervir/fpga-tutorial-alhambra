@@ -112,9 +112,14 @@ Los 8 pines están **conectados directamente** a pines de la FPGA, que trabajan 
 
 ## Conectores macho para **entradas analógicas** 
 
+La Icezum Alhambra tiene **4 entradas analógicas** situadas en la parte derecha, accesibles a través de pines macho
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-09.png)
 
+Cada entrada analógica (Azul) tiene un pin adicional de **alimentación** (rojo, 5v) y otro de **masa** (negro, GND)
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-10.png)
+
 
 
 # Ejemplo 1: Encender led externo
