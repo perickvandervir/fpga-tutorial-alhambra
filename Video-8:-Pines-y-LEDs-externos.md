@@ -15,7 +15,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Contenido
 
-* [Material necesario](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Leds-externos#material-necesario)
+* [Material necesario](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#material-necesario)
 * [Documentación de la Icezum Alhambra](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Leds-externos#documentaci%C3%B3n-de-la-icezum-alhambra)
 * [Pines de la Icezum Alhambra](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Leds-externos#pines-de-la-icezum-alhambra)
   * [Conectores hembra de 5v](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Leds-externos#conectores-hembra-de-5v)
