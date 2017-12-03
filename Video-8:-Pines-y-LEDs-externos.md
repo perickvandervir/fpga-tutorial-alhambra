@@ -20,6 +20,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Pines de la Icezum Alhambra](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#pines-de-la-icezum-alhambra)
   * [Conectores hembra de 5v](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#conectores-hembra-de-5v)
   * [Conectores macho de 5v con alimentación y masa](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#conectores-de-es-macho-de-5v-con-alimentaci%C3%B3n-y-masa)
+  * [Conectores macho de E/S de 3.3V (GPx)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#conectores-de-es-macho-de-33v-gpx)
 
 # Material necesario
 
