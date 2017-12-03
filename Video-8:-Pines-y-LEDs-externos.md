@@ -101,6 +101,8 @@ Aquí se muestran más **detalles** de la conexión a los pines machos
 
 ## Conectores de E/S macho de 3.3V (GPx)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-07.png)
+
 TODO
 
 
