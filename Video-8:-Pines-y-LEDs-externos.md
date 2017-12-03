@@ -124,6 +124,10 @@ Estas tiras de 3 pines permiten **conectar directamente** sensores de **Luz** o 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-11.jpg)
 
+Aquí se pueden ver las conexiones con **más detalle**:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-12.jpg)
+
 La FPGA **NO** tiene entradas analógicas, por lo que en la Icezum Alhambra hay un **conversor Analógico-digital (A/D)** que se conecta a la FPGA a través de un **bus I2C**. Por ello, para leer las entradas analógicas es preciso **incluir** en nuestros diseños de un circuito capaz de **leer el bus I2C**
 
 # Ejemplo 1: Encender led externo
