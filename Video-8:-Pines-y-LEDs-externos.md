@@ -94,7 +94,9 @@ Tienen esta disposición para poder **conectar directamente servos y sensores**.
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-5.jpg)
 
+Aquí se muestran más **detalles** de la conexión a los pines machos
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-6.jpg)
 
 ## Pines de 3.3v (GPx)
 
