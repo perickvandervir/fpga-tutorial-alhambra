@@ -114,7 +114,7 @@ Los 8 pines están **conectados directamente** a pines de la FPGA, que trabajan 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-09.png)
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-10.png)
 
 
 # Ejemplo 1: Encender led externo
