@@ -94,6 +94,8 @@ Tienen esta disposición para poder **conectar directamente servos y sensores**
 
 (Foto)
 
+Se denominan igual que sus duplicados hembra: **D0** - **D13** para los de la parte superior y **DD0** - **DD5** en la parte inferior
+
 ## Pines de 3.3v (GPx)
 
 # Ejemplo 1: Encender led externo
