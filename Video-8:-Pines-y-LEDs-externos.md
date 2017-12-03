@@ -82,7 +82,7 @@ En total hay **31 pines**, de los cuales **19** son de **E/S de 5v**. Los pines 
 
 ## Conectores de E/S macho de 5V con alimentación y masa
 
-, machos, **dulicados** de los 19 pines E/S de los conectores hembra de 5v
+Son **19 pines de E/S**, machos, **dulicados** de los 19 pines E/S de los conectores hembra de 5v
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-03.png)
 
