@@ -90,6 +90,10 @@ Cada uno de estos pines incluye uno adicional de **alimentación (+5v)** y **mas
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/pines-alhambra-04.png)
 
+Tienen esta disposición para poder **conectar directamente servos y sensores**
+
+(Foto)
+
 ## Pines de 3.3v (GPx)
 
 # Ejemplo 1: Encender led externo
