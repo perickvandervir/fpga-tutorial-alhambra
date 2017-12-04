@@ -26,6 +26,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Material necesario](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#material-necesario-1)
   * [Esquema](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#esquema)
   * [Esquema del montaje](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#esquema-del-montaje)
+  * [Montaje físico](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#montaje-f%C3%ADsico)
 
 # Material necesario
 
