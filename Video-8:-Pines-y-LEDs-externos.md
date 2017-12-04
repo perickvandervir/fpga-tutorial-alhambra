@@ -23,6 +23,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Conectores macho de E/S de 3.3V (GPx)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#conectores-de-es-macho-de-33v-gpx)
   * [Conectores macho para entradas analógicas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#conectores-macho-para-entradas-anal%C3%B3gicas)
 * [Conectando un LED externo a los pines de 3.3V](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#ejemplo-1-conectando-un-led-externo-a-los-pines-de-33v)
+  * [Material necesario](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#material-necesario-1)
 
 # Material necesario
 
