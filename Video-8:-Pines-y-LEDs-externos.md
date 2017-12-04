@@ -169,7 +169,9 @@ El **archivo** para abrir en Fritzing está  disponible en el repo de los tutori
 
 ## Montaje físico
 
-TODO
+El montaje del circuito lo haremos sobre una **base de corcho**. Esto nos permite utilizar **chinchetas** para **fijar** los cables y otros elementos. En este primer circuito no usaremos más piezas, pero en los siguientes iremos colocando **piezas impresas** para amarrar los **sensores** y **actuadores** al corcho
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Led-externo-montaje.jpg)
 
 ## Circuito en Icestudio
 
