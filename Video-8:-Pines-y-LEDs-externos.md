@@ -172,7 +172,7 @@ TODO
 
 ## Circuito en Icestudio
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Led-externo-1-anim.gif)
 
 # Ejemplo 2: LEDs externos intermitentes
 
