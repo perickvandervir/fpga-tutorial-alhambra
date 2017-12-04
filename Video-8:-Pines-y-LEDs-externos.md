@@ -150,7 +150,11 @@ El material adicional a la [Icezum Alhambra](https://github.com/FPGAwars/icezum/
 
 ## Esquema
 
-TODO
+El **esquema** para encender el LED externo es
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Led-externo-3-material.jpg)
+
+Como la salida es de **3.3V**, usamos una resistencia de 100 Ohm en serie con el LED
 
 ## Esquema del montaje
 
