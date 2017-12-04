@@ -137,7 +137,11 @@ Vamos a **conectar** un **LED externo** y hacer que parpadee. Lo conectaremos a 
 
 ## Material necesario
 
-TODO
+El material adicional a la [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki) para la conexión del led externo es:
+
+|  Componente   |  Descripción |
+|---------------|--------------|
+|               | Protoboard. Placa de entrenamiento  |
 
 ## Esquema
 
