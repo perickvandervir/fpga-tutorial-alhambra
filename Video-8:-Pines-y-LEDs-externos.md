@@ -160,7 +160,11 @@ Como la salida es de **3.3V**, usamos una resistencia de **100 Ohm** en serie co
 
 ## Esquema del montaje
 
+El esquema del montaje se muestra en este **diagrama** hecho con [Fritzing](http://fritzing.org/home/)
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Led-externo-1-fritzing.png)
+
+El **archivo** para abrir en Fritzing está  disponible en el repo de los tutoriales: [Ejemplo-1.fzz](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Fritzing/Ejemplo-1.fzz)
 
 ## Montaje físico
 
