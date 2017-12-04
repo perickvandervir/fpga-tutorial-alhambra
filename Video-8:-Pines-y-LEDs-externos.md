@@ -175,6 +175,12 @@ El montaje del circuito lo haremos sobre una **base de corcho**. Esto nos permit
 
 ## Circuito en Icestudio
 
+Para hacer **parpadear** el LED usaremos el circuito que ya conocemos, con un **corazón de 1Hz** (por ejemplo). Bien lo podemos cargar directamente desde los ejemplos, en el menú **Archivo/Ejemplos/1-Ejemplos/01-LED-externo-parpadeante**, o bien lo creamos desde cero. En esta colección el Bombeo de bits está bajo el **menú Varios**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Led-externo-1-icetudio.png)
+
+**Cargamos** el circuito en la placa, y podremos ver el LED externo parpadeando
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Led-externo-1-anim.gif)
 
 # Ejemplo 2: LEDs externos intermitentes
