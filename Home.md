@@ -102,6 +102,7 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Pegatutti (Alfredo)  | Cadete Nivel 2 | 35 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|   Pedro Ruiz (pedroruizf)  | Cadete Nivel 2| 34 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Ion Hernández (dronesFPeuskadi)  | Cadete Nivel 2 | 34 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Mab (MinicatsCB)   (RafitaRC)  | Cadete Nivel 2 | 34 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)| J0s3b4   | Cadete Nivel 2 | 31 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Jacobo Díaz (Yakotxt)   | Cadete Nivel 2 | 31 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Manuel (Leobot)   | Cadete Nivel 2 | 29 |
@@ -112,7 +113,6 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Julian Caro | Cadete Nivel 2 | 27 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Joancale (Jose Antonio, @SoKeK)  | Cadete Nivel 2 | 25 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Rafael Ruiz Cañete   (RafitaRC)  | Cadete Nivel 2 | 25 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Mab (MinicatsCB)   (RafitaRC)  | Cadete Nivel 2 | 25 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Juanillo Pillo | Cadete Nivel 1 | 23 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Fersandie | Cadete Nivel 1 | 21 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Jokin Lacalle (jolaus) | Cadete Nivel 1 | 21 |
