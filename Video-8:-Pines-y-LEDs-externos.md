@@ -133,9 +133,27 @@ La FPGA **NO** tiene entradas analógicas, por lo que en la Icezum Alhambra hay 
 
 # Ejemplo 1: Conectando un LED externo a los pines de 3.3v
 
-* Montaje en fritzing
-* Montaje físico
-* Ejemplo en Icestudio
+Vamos a **conectar** un **LED externo** y hacer que parpadee. Lo conectaremos a las salidas **GPx** de **3.3 Voltios**
+
+## Material necesario
+
+TODO
+
+## Esquema
+
+TODO
+
+## Esquema del montaje
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Led-externo-1-fritzing.png)
+
+## Montaje físico
+
+TODO
+
+## Circuito en Icestudio
+
+TODO
 
 # Ejemplo 2: LEDs externos intermitentes
 
