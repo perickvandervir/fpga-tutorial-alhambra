@@ -256,7 +256,7 @@ Mediante la misma técnica de **conexiones directas**, pero usando un **papel / 
 
 Es un **robot de cartón** cuyos **ojos** son dos **LEDs**, y su **nariz** y **boca** **resistencias** de 100 Ohm
 
-## Construcción de Franky
+### Construcción de Franky
 
 Se parte de un **trozo de cartón o cartulina**, alargado, como se muestra en la foto. Con una **chincheta** se hacen **agujeros** para introducir los dos **LEDs** y las dos **resistencias** de 100 Ohm
 
