@@ -206,6 +206,10 @@ Se ha duplicado el circuito del ejemplo 1 y se han conectado los cables a difere
 
 ## Montaje físico
 
+Partiendo del montaje del ejemplo anterior, añadidos los nuevos componentes para conectar el **segundo LED**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Leds-alternantes-montaje.jpg)
+
 ## Circuito en Icestudio
 
 # Montando circuitos externos
