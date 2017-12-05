@@ -234,11 +234,11 @@ Una forma es utilizando [protoboards o placas de pruebas](https://es.wikipedia.o
 
 ## Conexiones directas
 
-## Circuito soldado en placas prototipos
-
 ## Circuitos sobre cartón / papel
 
 ## Circuitos imprimibles (PCBPrints)
+
+## Circuito soldado en placas prototipos
 
 ## Circuitos impresos (PCBs)
 
