@@ -216,9 +216,9 @@ El circuito de los **leds parpadeando alternativamente** ya lo sabemos hacer. Bi
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Leds-alternantes-icestudio.png)
 
-**Cargamos** el circuito y veremos los dos LEDs en acción:
+**Cargamos** el circuito y veremos los **dos LEDs** en acción:
 
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Leds-alternantes-anim.gif)
 
 
 # Montando circuitos externos
