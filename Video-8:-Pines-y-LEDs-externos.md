@@ -29,6 +29,7 @@ La icezum Alhambra dispone de un total de **32 pines de E/S** repartidos en dife
   * [Esquema](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#esquema)
   * [Esquema del montaje](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#esquema-del-montaje)
   * [Montaje físico](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#montaje-f%C3%ADsico)
+  * [Circuito en Icestudio](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#circuito-en-icestudio)
 
 # Material necesario
 
