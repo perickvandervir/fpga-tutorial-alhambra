@@ -228,6 +228,10 @@ Los **circuitos externos** para trabajar con placas como la Icezum Alhambra o Ar
 
 ## Placas entrenadoras
 
+Una forma es utilizando [protoboards o placas de pruebas](https://es.wikipedia.org/wiki/Placa_de_pruebas). Es lo que hemos usado en los ejemplos 1 y 2
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Circuitos-externos-1.jpg)
+
 ## Conexiones directas
 
 ## Circuito soldado en placas prototipos
