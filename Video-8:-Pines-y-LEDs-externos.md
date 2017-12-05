@@ -239,6 +239,14 @@ Cuando se trata de componentes sencillos, como LEDs y resistencias, se pueden ha
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Circuitos-externos-2.png)
 
+Luego usamos **dos cables hembra-hembra** para insertar la **pata del LED** en un cable y la de la **resistencia** en otro
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Circuitos-externos-3.jpg)
+
+Por último **conectamos** el cable del LED a cualquier de las **salidas GPx de 3.3V** y el cable de la pata de la resistencia a cualquier **pin macho negro**, que son **GND**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Circuitos-externos-4.jpg)
+
 ## Circuitos sobre cartón / papel
 
 ## Circuitos imprimibles (PCBPrints)
