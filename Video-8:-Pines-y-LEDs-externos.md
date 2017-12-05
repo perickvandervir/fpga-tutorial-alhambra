@@ -10,7 +10,6 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 La icezum Alhambra dispone de un total de **32 pines de E/S** repartidos en diferentes conectores. Aprenderemos a conectar **LEDs externos** a los pines de **3.3V** de la FPGA y cómo hacerlos **parpadear** desde circuitos en Icestudio
 
-
 # Colección
 
 **Academia-Jedi-HW-08.zip**: Colección para este tutorial. Descargar e instalar 
@@ -35,6 +34,7 @@ La icezum Alhambra dispone de un total de **32 pines de E/S** repartidos en dife
   * [Montaje físico](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#montaje-f%C3%ADsico-1)
   * [Circuito en Icestudio](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#circuito-en-icestudio-1)
 * [Montando circuitos externos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#montando-circuitos-externos)
+  * [Placas entrenadoras](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#placas-entrenadoras)
 
 # Material necesario
 
