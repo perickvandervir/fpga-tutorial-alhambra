@@ -196,7 +196,11 @@ El esquema es el mismo que en el ejemplo anterior, pero ahora con **2 LEDs**, **
 
 ## Esquema del montaje
 
-TODO
+El esquema de montaje en **Fritzing** es
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Leds-alternantes-fritzing.png)
+
+Se ha duplicado el circuito del ejemplo 1 y se han conectado los cables a diferentes puntos
 
 # Montando circuitos externos
 
