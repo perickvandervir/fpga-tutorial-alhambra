@@ -251,7 +251,7 @@ Por último **conectamos** el cable del LED a cualquier de las **salidas GPx de 
 
 Mediante la misma técnica de **conexiones directas**, pero usando un **papel / cartón** de soporte, se pueden hacer circuitos externos muy divertidos. Este es **Franky**: 
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Franky-01.jpg)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Franky-anim.gif)
 
 Es un **robot de cartón** cuyos **ojos** son dos **LEDs**, y su **nariz** y **boca** **resistencias** de 100 Ohm
 
