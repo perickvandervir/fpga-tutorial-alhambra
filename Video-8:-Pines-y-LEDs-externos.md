@@ -234,6 +234,10 @@ Una forma es utilizando [protoboards o placas de pruebas](https://es.wikipedia.o
 
 ## Conexiones directas
 
+Cuando se trata de componentes sencillos, como LEDs y resistencias, se pueden hacer **conexiones directas**. Por ejemplo, **enrollando** la pata de la resistencia de **100 ohm** con el **LED**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Circuitos-externos-2.png)
+
 ## Circuitos sobre cartón / papel
 
 ## Circuitos imprimibles (PCBPrints)
