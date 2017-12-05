@@ -268,6 +268,9 @@ Por la parte de atrás del cartón **unimos** las patas de los LEDs con sus resp
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Franky-03.jpg)
 
+Luego conectamos **tres cables hembra-hembra**, uno para cada LED y otro para las patas unidas de la resistencia, que van a masa
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Franky-04.jpg)
 
 ## Circuitos imprimibles (PCBPrints)
 
