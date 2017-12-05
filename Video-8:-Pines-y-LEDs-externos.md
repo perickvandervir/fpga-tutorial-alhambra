@@ -262,6 +262,10 @@ Se parte de un **trozo de cartón o cartulina**, alargado, como se muestra en la
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Franky-02.jpg)
 
+Por la parte de atrás del cartón **unimos** las patas de los LEDs con sus respectivas resistencias. Los patas positivas del led (las patas largas) las dejamos sin unir. Las patas de las resistencias que no están unidas a los LEDS, las unimos entre sí, dejando un trozo de pata recto al final que sobresalga
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Franky-03.jpg)
+
 
 ## Circuitos imprimibles (PCBPrints)
 
