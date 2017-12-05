@@ -249,6 +249,13 @@ Por último **conectamos** el cable del LED a cualquier de las **salidas GPx de 
 
 ## Circuitos sobre cartón / papel
 
+Mediante la misma técnica de conexiones directa, pero usando un **papel / cartón** de soporte, se pueden hacer circuitos externos muy divertidos. Este es **Franky**: 
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Franky-01.jpg)
+
+Es un **robot de cartón** cuyos **ojos** son dos **LEDs**, y su **nariz** y **boca** **resistencias** de 100 Ohm
+
+
 ## Circuitos imprimibles (PCBPrints)
 
 ## Circuito soldado en placas prototipos
