@@ -224,11 +224,23 @@ El circuito de los **leds parpadeando alternativamente** ya lo sabemos hacer. Bi
 
 # Montando circuitos externos
 
-TODO
+Los **circuitos externos** para trabajar con placas como la Icezum Alhambra o Arduino se pueden realizar de diferentes maneras. Aquí mostraremos algunas de ellas
+
+## Placas entrenadoras
+
+## Conexiones directas
+
+## Circuito soldado en placas prototipos
+
+## Circuitos sobre cartón / papel
+
+## Circuitos imprimibles (PCBPrints)
+
+## Circuitos impresos (PCBs)
+
 
 # Borrador
 
--LEDs en protoboard
 -Robot con ojos alternates (maqueta en cartón)
 -PCBprint
 
