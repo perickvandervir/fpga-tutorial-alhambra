@@ -212,6 +212,15 @@ Partiendo del montaje del ejemplo anterior, añadidos los nuevos componentes par
 
 ## Circuito en Icestudio
 
+El circuito de los **leds parpadeando alternativamente** ya lo sabemos hacer. Bien lo hacemos desde 0 o bien lo abrimos desde los ejemplos a través del menú **Archivo/Ejemplos/1-Ejemplos/02-LEDS-externos-alternantes**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Leds-alternantes-icestudio.png)
+
+**Cargamos** el circuito y veremos los dos LEDs en acción:
+
+
+
+
 # Montando circuitos externos
 
 TODO
