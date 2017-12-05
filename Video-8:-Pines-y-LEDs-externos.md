@@ -190,11 +190,23 @@ Para hacer **parpadear** el LED usaremos el circuito que ya conocemos, con un **
 
 # Ejemplo 2: LEDs externos intermitentes
 
+Conectaremos ahora **dos LEDs externos**, a las salidas **GP0** y **GP7** respectivamente, y haremos que **parpadeen alternativamente**
+
+El esquema es el mismo que en el ejemplo anterior, pero ahora con **2 LEDs**, **2 resistencias** y **4 cables**
+
+## Esquema del montaje
+
+TODO
+
+# Montando circuitos externos
+
+TODO
+
 # Borrador
 
--Semaforo
+-LEDs en protoboard
 -Robot con ojos alternates (maqueta en cartón)
--PCBprint?
+-PCBprint
 
 # Ejercicios propuestos (11 BitPoints)
 
