@@ -202,6 +202,10 @@ El esquema de montaje en **Fritzing** es
 
 Se ha duplicado el circuito del ejemplo 1 y se han conectado los cables a diferentes puntos
 
+## Montaje físico
+
+## Circuito en Icestudio
+
 # Montando circuitos externos
 
 TODO
