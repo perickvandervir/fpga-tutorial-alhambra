@@ -272,6 +272,10 @@ Luego conectamos **tres cables hembra-hembra**, uno para cada LED y otro para la
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Franky-04.jpg)
 
+**Plegamos** el cartón, para darle forma de **caja**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Franky-05.jpg)
+
 ## Circuitos imprimibles (PCBPrints)
 
 ## Circuito soldado en placas prototipos
