@@ -300,10 +300,15 @@ Y se la **colocamos**. La pegamos en los laterales con un poco de celo. **¡Ya t
 
 Una opción para hacer **circuitos externos más robustos** es usar **placas de puntos** donde se sueldan los componentes. Se vende en placas de **tamaños fijos** que se pueden cortar fácilmente con una **segueta** para tener el tamaño de placa que queramos. Se colocan lo componentes, se sueldan y se usen con cables. En el caso de la placa del LED, como es muy sencilla, he usado las mismas patas de los componentes, en vez de cables
 
-
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Circuitos-externos-5.jpg)
 
+La **conexión** se puede realizar directamente con **cables hembra - hembra**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Circuitos-externos-06.jpg)
+
+O pinchando la placa en una **protoboard**, y tirando cables macho - hembra
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Circuitos-externos-07.jpg)
 
 ## Circuitos imprimibles (PCBPrints)
 
