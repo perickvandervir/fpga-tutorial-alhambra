@@ -8,7 +8,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-La icezum Alhambra dispone de un total de **32 pines de E/S** repartidos en diferentes conectores. Aprenderemos a conectar **LEDs externos** a los pines de **3.3V** de la FPGA y cómo hacerlos **parpadear** desde circuitos en Icestudio
+La icezum Alhambra dispone de un total de **32 pines de E/S** repartidos en diferentes conectores. Aprenderemos a conectar **LEDs externos** a los pines de **3.3V** de la FPGA y cómo hacerlos **parpadear** desde circuitos en Icestudio. Veremos cómo hacer distintos tipos de **circuitos físicos** para colocar estos LEDs
 
 # Colección
 
