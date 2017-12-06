@@ -50,9 +50,13 @@ Materia necesario para hacer los ejemplos y ejercicios del tutorial:
 
 |  Foto   |  Material |
 |---------|-----------|
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Material-01.jpg) | Placa entrenadora pequeña |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Material-02.jpg) | Led pasante, de cualquier color. Tamaño 3mm ó 5mm. Mínimo 2 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Material-03.jpg) | Resistencia de 100 Ohmios, de 1/4 W. Al menos 2 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Material-01.jpg) | **Placa entrenadora** pequeña |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Material-02.jpg) | **LED** pasante, de cualquier color. Tamaño 3mm ó 5mm. Mínimo 2 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Material-03.jpg) | **Resistencia** de 100 Ohmios, de 1/4 W. Al menos 2 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Material-04.jpg) | **Cable macho - hembra**. Al menos dos. Este cable se puede obtener uniendo un hembra-hembra con uno macho-macho |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Material-05.jpg) | **Cable macho - macho**. Al menos dos |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Material-06.jpg) | **Cable hembra - hembra**. Al menos dos |
+
 
 
 
