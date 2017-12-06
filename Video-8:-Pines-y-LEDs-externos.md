@@ -284,6 +284,10 @@ Los **cables** los sacamos por **la parte trasera**, por un hueco recortado en l
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Franky-07.jpg)
 
+Ponemos un poco de **cinta aislante** para juntar los **cables**. Y usamos una **chincheta** para **fijar a Franky al corcho**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Franky-08.jpg)
+
 ## Circuitos imprimibles (PCBPrints)
 
 ## Circuito soldado en placas prototipos
