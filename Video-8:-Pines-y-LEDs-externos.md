@@ -12,7 +12,7 @@ La icezum Alhambra dispone de un total de **32 pines de E/S** repartidos en dife
 
 # Colección
 
-**Academia-Jedi-HW-08.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-08.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Collection/Academia-Jedi-HW-08.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
