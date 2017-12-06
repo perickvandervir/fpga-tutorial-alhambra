@@ -15,14 +15,14 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | 5 | [Colecciones en Icestudio](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio) |
 | 6| [Bombeando bits](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits)  |
 | 7 | [Manipulando bits: Puerta NOT](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT)  |
-| 8 | [Pines y LEDs externos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos) (En construcción...)|
-| 9 | Entradas    |
-| 10| Sonido    |
-| 11| Habilitando con AND  |
-| 12| Puladores externos |
-| 13| Switches externos |
-| 14| Sensor IR  |
-| 15| Servos    |
+| 8 | [Pines y LEDs externos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos) |
+| 9 | Pulsadores de Entradas  (En Construcción...)  |
+| 10| Servos    |
+| 11| Sonido    |
+| 12| Habilitando con AND  |
+| 13| Puladores externos |
+| 14| Switches externos |
+| 15| Sensor IR  |
 |16 | Temporizador |
 |17 | Puerta OR |
 |18 | Servos de rotación contínua |
