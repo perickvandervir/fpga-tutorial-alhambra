@@ -288,6 +288,13 @@ Ponemos un poco de **cinta aislante** para juntar los **cables**. Y usamos una *
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Franky-08.jpg)
 
+Hacemos un **rectángulo de papel** con unos dobleces, de las dimensiones de la parte superior de la cabeza de franky. Lo usaremos como tapa
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Franky-09.jpg)
+
+Y se la **colocamos**. La pegamos en los laterales con un poco de celo. **¡Ya tenemos a Franky Listo!**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Franky-10.jpg)
 
 
 ## Circuitos imprimibles (PCBPrints)
