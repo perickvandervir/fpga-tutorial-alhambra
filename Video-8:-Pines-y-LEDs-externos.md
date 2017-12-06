@@ -280,6 +280,10 @@ Y lo **cerramos**. Pegamos los laterales con celo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Franky-06.jpg)
 
+Los **cables** los sacamos por **la parte trasera**, por un hueco recortado en la parte inferior y colocamos **dos chinchetas** en los lateras, para darte un aspecto más de **Frankenstain** :-)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Franky-07.jpg)
+
 ## Circuitos imprimibles (PCBPrints)
 
 ## Circuito soldado en placas prototipos
