@@ -46,7 +46,15 @@ La icezum Alhambra dispone de un total de **32 pines de E/S** repartidos en dife
 
 # Material necesario
 
-TODO
+Materia necesario para hacer los ejemplos y ejercicios del tutorial:
+
+|  Foto   |  Material |
+|---------|-----------|
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Material-01.jpg) | Placa entrenadora pequeña |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Material-02.jpg) | Led pasante, de cualquier color. Tamaño 3mm ó 5mm. Mínimo 2 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Material-03.jpg) | Resistencia de 100 Ohmios, de 1/4 W. Al menos 2 |
+
+
 
 # Documentación de la Icezum Alhambra
 
