@@ -336,19 +336,19 @@ Por último, la opción más **profesional** es hacerte tu propio **PCB** y mand
 
 Esta es la [placa FreeLEDs](http://www.iearobotics.com/wiki/index.php?title=Freeleds), que hicimos en el año **2005** y que fue una de las **primeras placas libres** hecha exclusivamente usando **software libre** :-)
 
-# Ejercicios propuestos (11 BitPoints)
+# Ejercicios propuestos (18 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **x Bitpoints**): 
+* **Ejercicio 1** (Total **3 Bitpoints**): 
 
-* **Ejercicio 2** (Total **x Bitpoints**): 
+* **Ejercicio 2** (Total **4 Bitpoints**): 
 
-* **Ejercicio 3** (Total **x Bitpoints**): 
+* **Ejercicio 3** (Total **8 Bitpoints**): 
 
-* **Ejercicio 4** (**2 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
+* **Ejercicio 4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
 
