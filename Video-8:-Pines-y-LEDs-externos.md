@@ -296,10 +296,13 @@ Y se la **colocamos**. La pegamos en los laterales con un poco de celo. **¡Ya t
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Franky-10.jpg)
 
+## Circuito soldado en placas prototipos
+
+
 
 ## Circuitos imprimibles (PCBPrints)
 
-## Circuito soldado en placas prototipos
+
 
 ## Circuitos impresos (PCBs)
 
