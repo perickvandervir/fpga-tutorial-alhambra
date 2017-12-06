@@ -320,7 +320,11 @@ En [este enlace están las instrucciones de montaje](https://github.com/Obijuan/
 
 Igual que las placas anteriores, se pueden **conectar directamente** a la Icezum Alhambra usando **cables hembra - hembra**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Circuitos-externos-09.jpg)
 
+O también se pueden conectar a través de una **protoboard**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Circuitos-externos-10.jpg)
 
 
 ## Circuitos impresos (PCBs)
