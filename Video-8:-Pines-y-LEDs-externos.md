@@ -331,11 +331,7 @@ O también se pueden conectar a través de una **protoboard**
 
 ## Circuitos impresos (PCBs)
 
-
-# Borrador
-
--Robot con ojos alternates (maqueta en cartón)
--PCBprint
+Por último, la opción más **profesional** es hacerte tu propio **PCB** y mandarlo a **fabricar industrialmente**. Una herramienta libre para diseñar PCBs es [Kicad](http://kicad-pcb.org/), que ya lo usaste para los ejercicios del [tutorial 3](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-3:-La-Icezum-Alhambra-y-otras-placas-con-FPGAs-libres)
 
 # Ejercicios propuestos (11 BitPoints)
 
