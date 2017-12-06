@@ -312,6 +312,15 @@ O pinchando la placa en una **protoboard**, y tirando cables macho - hembra
 
 ## Circuitos imprimibles (PCBPrints)
 
+Una opción muy divertida y sencilla es utilizar [PCBprints](https://github.com/PCBPrints/PCbPrints). Son placas hechas con una **impresora 3D**, donde se colocan los componentes y luego se sueldan. La más sencilla de todas es ["Hola Mundo"](https://github.com/Obijuan/3D-parts/wiki/PCB-Led-hola-mundo), que sólo tiene un **LED**, una **resistencia** y un **conector macho**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-08/Circuitos-externos-08.jpg)
+
+En [este enlace están las instrucciones de montaje](https://github.com/Obijuan/3D-parts/wiki/PCB-Led-hola-mundo#instrucciones-de-montaje)
+
+Igual que las placas anteriores, se pueden **conectar directamente** a la Icezum Alhambra usando **cables hembra - hembra**
+
+
 
 
 ## Circuitos impresos (PCBs)
