@@ -385,6 +385,8 @@ dividirlos en dos grupos y hacer que parpadeen alternativamente a 1Hz
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-8/fgcoca/Ejercicio-1/Ejercicio8_1-F.jpg)
 
+* **Vídeo**
+
 [![Click to see the youtube video](http://img.youtube.com/vi/hMsPvRHlL1U/0.jpg)](https://www.youtube.com/watch?v=hMsPvRHlL1U)
 
 
