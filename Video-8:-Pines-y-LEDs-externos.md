@@ -478,6 +478,8 @@ dividirlos en dos grupos y hacer que parpadeen alternativamente a 1Hz
 * [BricoGeek](http://tienda.bricogeek.com/). Tienda Friki donde comprar componentes electrónicos
 * [Repositorio de la Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki)
 * Documentación de la Icezum Alhambra:  ([PNG](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/icezum-pinout.png))([SVG](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/Icezum-alhambra-pinout.svg))([PDF](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/icezum-pinout.pdf)) 
+* [Fritzing](http://fritzing.org)
+* [Icezum Alhambra en Fritzing](https://github.com/lobotic/IceZUM_Alhambra_Fritzing)
 * [Monedas Bit imprimibles](https://github.com/Obijuan/3D-parts/wiki/Monedas-Bit)
 
 # FAQs
