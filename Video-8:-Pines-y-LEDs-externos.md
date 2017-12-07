@@ -469,6 +469,8 @@ dividirlos en dos grupos y hacer que parpadeen alternativamente a 1Hz
 
 # Créditos y agradecimientos
 
+* A [Alberto Piganti]() Pighixxx por hacer la documentación del pinout de la Icezum Alhambra. ¡Gracias!
+
 # Enlaces
 
 * [Repositorio con las colecciones de la Academia Jedi de Hardware](https://github.com/Obijuan/Academia-Jedi-Hw)
