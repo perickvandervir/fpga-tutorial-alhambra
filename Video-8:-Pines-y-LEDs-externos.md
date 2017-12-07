@@ -410,6 +410,18 @@ dividirlos en dos grupos y hacer que parpadeen alternativamente a 1Hz
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-8/eagleman/ejercicio-8-1.JPG)
 
+### Ejercicio 2
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-8/eagleman/ejercicio-8-2.ice.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-8/eagleman/ejercicio-8-2.conexiones1.JPG)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-8/eagleman/ejercicio-8-2.conexiones2.JPG)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-8/eagleman/ejercicio-8-2.final.JPG)
+
+* [VIDEO](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-8/eagleman/ejercicio-8-2.mp4)
+
 ## Diego Lale
 
 # Autor
