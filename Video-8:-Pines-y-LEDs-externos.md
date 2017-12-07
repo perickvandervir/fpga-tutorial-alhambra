@@ -469,7 +469,8 @@ dividirlos en dos grupos y hacer que parpadeen alternativamente a 1Hz
 
 # Créditos y agradecimientos
 
-* A [Alberto Piganti]() Pighixxx por hacer la documentación del pinout de la Icezum Alhambra. ¡Gracias!
+* A [Alberto Piganti](http://www.pighixxx.com/test/) (Pighixxx) por hacer la documentación del pinout de la Icezum Alhambra. ¡Muchas Gracias! :-)
+* A [Jorge Lobo]() (Lobotic) Por incluir la Icezum Alhambra en Fritzing. ¡Muchas gracias! :-)
 
 # Enlaces
 
