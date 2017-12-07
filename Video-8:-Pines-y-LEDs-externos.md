@@ -389,6 +389,15 @@ dividirlos en dos grupos y hacer que parpadeen alternativamente a 1Hz
 
 [![Click to see the youtube video](http://img.youtube.com/vi/hMsPvRHlL1U/0.jpg)](https://www.youtube.com/watch?v=hMsPvRHlL1U)
 
+## Ejercicio 2
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-8/fgcoca/Ejercicio-2/Ejercicio8_2-P.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-8/fgcoca/Ejercicio-2/Franky-Blue-Eyes.jpg)
+
+**Vídeo**:
+
+[![Click to see the youtube video](http://img.youtube.com/vi/BAxxuT5_QDY/0.jpg)](https://www.youtube.com/watch?v=BAxxuT5_QDY)
 
 ## Segundo
 
