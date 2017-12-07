@@ -475,6 +475,8 @@ dividirlos en dos grupos y hacer que parpadeen alternativamente a 1Hz
 # Enlaces
 
 * [Repositorio con las colecciones de la Academia Jedi de Hardware](https://github.com/Obijuan/Academia-Jedi-Hw)
+* [BricoGeek](http://tienda.bricogeek.com/). Tienda Friki donde comprar componentes electrónicos
+* [Repositorio de la Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki)
 * [Monedas Bit imprimibles](https://github.com/Obijuan/3D-parts/wiki/Monedas-Bit)
 
 # FAQs
