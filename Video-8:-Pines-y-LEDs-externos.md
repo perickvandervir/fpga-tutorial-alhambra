@@ -483,6 +483,7 @@ dividirlos en dos grupos y hacer que parpadeen alternativamente a 1Hz
 * [Icezum Alhambra en Fritzing](https://github.com/lobotic/IceZUM_Alhambra_Fritzing)
 * [Repositorio de PCBprints](https://github.com/PCBPrints/PCbPrints)
 * [PCBprint "Hola Mundo"](https://github.com/Obijuan/3D-parts/wiki/PCB-Led-hola-mundo)
+* [Placa FreeLEDs](http://www.iearobotics.com/wiki/index.php?title=Freeleds)
 * [Monedas Bit imprimibles](https://github.com/Obijuan/3D-parts/wiki/Monedas-Bit)
 
 # FAQs
