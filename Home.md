@@ -217,9 +217,9 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 ## Créditos y agradecimientos
 
 TODO
-(Bitpoints, Carlobre)
-(Insignias, Movilujo)
-(Lobotic)
+(Bitpoints, Carlobre)  
+(Insignias, Movilujo)  
+(Lobotic)  
 
 ## Autor
 
