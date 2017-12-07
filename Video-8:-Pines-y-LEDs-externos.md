@@ -399,10 +399,9 @@ dividirlos en dos grupos y hacer que parpadeen alternativamente a 1Hz
 
 [![Click to see the youtube video](http://img.youtube.com/vi/BAxxuT5_QDY/0.jpg)](https://www.youtube.com/watch?v=BAxxuT5_QDY)
 
-## Segundo
+## Ricardo Gómez (eagleman)
 
-## Tercero
-
+## Diego Lale
 
 # Autor
 
