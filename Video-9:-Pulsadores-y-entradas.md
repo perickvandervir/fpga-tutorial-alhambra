@@ -19,7 +19,7 @@ TODO
 
 # Entradas digitales
 
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/Tutorial-09/Entradas-01.png)
 
 # Borrador 
 
