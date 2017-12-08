@@ -23,6 +23,12 @@ Los **circuitos digitales**, que están dentro de los chips, reciben **bits** po
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Entradas-01.png)
 
+En los ejemplos que hemos visto hasta ahora, sólo se sacaban bits por las Salidas para encender LEDs. Ahora veremos **cómo introducir BITs en nuestros circuitos**, por sus **entradas digitales**
+
+El elemento más sencillo para **introducir** un BIT es el **pulsador**. Cuando está **apretado**, su valor es **1**, y cuando está **liberado**, es **0**
+
+(Dibujo)
+
 # Borrador 
 
 * Entradas genericas: Dibujo del proceso: entrada - manipulacion/almacenamiento/transporte - salida
