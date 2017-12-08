@@ -19,6 +19,8 @@ TODO
 
 # Entradas digitales
 
+Los **circuitos digitales**, que están dentro de los chips, reciben **bits** por sus **entradas**, los manipulan, transportan o almacenan, y prodcuen bits de **salida**
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Entradas-01.png)
 
 # Borrador 
