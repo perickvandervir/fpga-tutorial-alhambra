@@ -22,6 +22,15 @@ TODO
 
 # Borrador 
 
+* Entradas genericas: Dibujo del proceso: entrada - manipulacion/almacenamiento/transporte - salida
+* Pulsador: Entrada de 1 bit
+* Dibujo: pistas de los pulsadores a la FPGA
+* Ejemplo 1: Encender el led. entrada - transporte - salida
+* Dibujo FPGA con el circuito físico dentro
+* Ejemplo 2: Inversor: Entrada - manipulacion - transporte - salida
+* Dibujo FPGA con circuito dentro
+* Ejemplo 3: Superposicion de los dos circuitos anteriores, con pulsadores SW1 y SW2
+
 # Ejercicios propuestos (XX BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
