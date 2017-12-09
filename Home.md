@@ -62,10 +62,10 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|   J. Carlos Obregón (_Carlobre_)  | Aspirante a Padawan Nivel-1 | 80 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|   Federico Coca  | Aspirante a Padawan Nivel-1 | 80 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|   Jorge Lobo (Lobotic)  | Aspirante a Padawan Nivel-1 | 80 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|   JuanDGómezM  | Aspirante a Padawan Nivel-1 | 80 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)|  Josep Montoliu (Klarojms)  | Aspirante a Padawan | 77 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)| Ricardo Gómez (eagleman)   | Aspirante a Padawan | 70 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)| Jose López   | Aspirante a Padawan | 65 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)| JuanDGómezM   | Aspirante a Padawan | 62 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)| Ximo Catala (Ximocat)   | Aspirante a Padawan | 62 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)| Sergio Morales (SetaSeta/Menyiques)   | Aspirante a Padawan | 62 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)|  Joaquín Cubillo (jcubilloarr)  | Aspirante a Padawan | 62 |
