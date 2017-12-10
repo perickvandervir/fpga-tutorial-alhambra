@@ -27,11 +27,19 @@ En los ejemplos que hemos visto hasta ahora, sólo se sacaban bits por las Salid
 
 El elemento más sencillo para **introducir** un BIT es el **pulsador**. Cuando está **apretado**, su valor es **1**, y cuando está **liberado**, es **0**
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Entradas-02.png)
+
+Al **apretar** el pulsador se **inyecta** un Bit 1 en nuestro circuito digital, por la entrada
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Entradas-03.png)
+
+Al **apretar** y **soltar repetidamente**, conseguimos inyectar Bits a 0 y 1
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Button-on-off-anim.gif)
+
 
 # Borrador 
 
-* Entradas genericas: Dibujo del proceso: entrada - manipulacion/almacenamiento/transporte - salida
 * Pulsador: Entrada de 1 bit
 * Dibujo: pistas de los pulsadores a la FPGA
 * Ejemplo 1: Encender el led. entrada - transporte - salida
