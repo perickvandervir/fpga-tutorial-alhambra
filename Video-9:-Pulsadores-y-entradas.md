@@ -15,7 +15,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Contenido
 
-TODO
+* [Entradas digitales](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#entradas-digitales)
 
 # Entradas digitales
 
@@ -37,10 +37,12 @@ Al **apretar** y **soltar repetidamente**, conseguimos inyectar Bits a 0 y 1
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Button-on-off-anim.gif)
 
+# Pulsadores internos en la Icezum Alhambra
+
+TODO
 
 # Borrador 
 
-* Pulsador: Entrada de 1 bit
 * Dibujo: pistas de los pulsadores a la FPGA
 * Ejemplo 1: Encender el led. entrada - transporte - salida
 * Dibujo FPGA con el circuito físico dentro
