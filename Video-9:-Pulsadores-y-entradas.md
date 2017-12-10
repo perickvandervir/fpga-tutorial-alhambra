@@ -39,16 +39,23 @@ Al **apretar** y **soltar repetidamente**, conseguimos inyectar Bits a 0 y 1
 
 # Pulsadores internos en la Icezum Alhambra
 
-TODO
+-Dibujo con la icezum alhambra y la localización de los pulsadores
+-Documentación de piganti, de los pulsadores
+-Dibujo: Pistas de los pulsadores a la FPGA
 
-# Borrador 
+# Ejemplo 1: Encender el LED con el pulsador
 
-* Dibujo: pistas de los pulsadores a la FPGA
-* Ejemplo 1: Encender el led. entrada - transporte - salida
-* Dibujo FPGA con el circuito físico dentro
-* Ejemplo 2: Inversor: Entrada - manipulacion - transporte - salida
-* Dibujo FPGA con circuito dentro
-* Ejemplo 3: Superposicion de los dos circuitos anteriores, con pulsadores SW1 y SW2
+-Entrada - transporte - salida
+-Dibujo FPGA con el circuito físico dentro
+
+# Ejemplo 2: Apagar el LED con el pulsador
+
+-Entrada - manipulación - transporte - salida
+- Dibujo FPGA con circuito dentro
+
+# Ejemplo 3: Encender y apagar LEDs con los pulsadores
+
+Superposición de los circuitos anteriores
 
 # Ejercicios propuestos (XX BitPoints)
 
