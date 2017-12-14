@@ -90,6 +90,10 @@ y por último tiramos **un cable** desde la **entrada** hasta la **salida**
 
 El **LED0** inicialmente está apagado. Al dejar **apretado** el pulsador **SW1**, se enciende. Y al volver a soltarlo se apaga
 
+El **circuito que se ha creado** se muestra en este dibujo. Físicamente, el pulsador **SW1** está unido al **pin 10** de la FPGA. Nuestro circuito une internamente este pin de **entrada** con el de **salida**, que físiciamente llega hasta este **LED0**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-1-08.png)
+
 TODO
 
 -Dibujo FPGA con el circuito físico dentro  
