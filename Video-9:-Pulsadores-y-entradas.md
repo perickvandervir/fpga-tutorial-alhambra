@@ -68,6 +68,10 @@ Nos aparece el **bloque** y lo **colocamos**. Hacemos click en el **botón izqui
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-1-03.png)
 
+Pinchamos en el **desplegable del bloque** para seleccionar el pin **SW1**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-1-04.png)
+
 TODO
 
 -Entrada - transporte - salida  
