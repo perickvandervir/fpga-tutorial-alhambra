@@ -16,6 +16,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 # Contenido
 
 * [Entradas digitales](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#entradas-digitales)
+* [Pulsadores internos en la Icezum Alhambra](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#pulsadores-internos-en-la-icezum-alhambra)
 
 # Entradas digitales
 
