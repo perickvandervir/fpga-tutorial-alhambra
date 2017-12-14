@@ -48,12 +48,9 @@ Estos pulsadores se denotan como **SW1** y **SW2** en Icestudio.
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Alhambra-02.png)
 
-Si miramos en la documentación también podemos ver que están conectados a los **pines físicos** **10** y **11** de la FPGA. De esta forma, nos inyectan los bits dentro de la FPGA, que leeremos desde nuestros circuitos hechos con Icestudio
+Si miramos en la documentación también podemos ver que están conectados a los **pines físicos** **10** y **11** de la FPGA. De esta forma, nos inyectan los bits dentro de la FPGA, que leeremos desde nuestros circuitos hechos con Icestudio. En su estado normal, **leeremos 0** por las entradas SW1 y SW2. Al apretarlos, se pondrán a **1**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Alhambra-03.png)
-
-
--Dibujo: Pistas de los pulsadores a la FPGA
 
 # Ejemplo 1: Encender el LED con el pulsador
 
