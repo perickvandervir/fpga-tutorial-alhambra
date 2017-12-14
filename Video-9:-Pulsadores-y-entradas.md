@@ -43,7 +43,10 @@ La placa [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki) incorpora do
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Alhambra-01.png)
 
--Documentación de piganti, de los pulsadores
+Estos pulsadores se denotan como **SW1** y **SW2** en Icestudio. Si miramos en la documentación también podemos ver que están conectados a los pines físicos **10** y **11** de la FPGA
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Alhambra-02.png)
+
 -Dibujo: Pistas de los pulsadores a la FPGA
 
 # Ejemplo 1: Encender el LED con el pulsador
