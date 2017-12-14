@@ -52,7 +52,7 @@ Si miramos en la documentación también podemos ver que están conectados a los
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Alhambra-03.png)
 
-# Ejemplo 1: Encender el LED con el pulsador
+# Ejemplo 1: Encendiendo un LED con el pulsador
 
 -Entrada - transporte - salida
 -Dibujo FPGA con el circuito físico dentro
