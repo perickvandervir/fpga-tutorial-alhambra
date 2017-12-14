@@ -56,7 +56,9 @@ Si miramos en la documentación también podemos ver que están conectados a los
 
 # Ejemplo 1: Encendiendo un LED con el pulsador
 
-Haremos un circuito que **enciendo** el **LED 0** cuando se **aprieta** el **pulsador SW1**
+Haremos un circuito que **enciendo** el **LED 0** cuando se **aprieta** el **pulsador SW1**. Abrimos Icestudio y nos vamos al menú **Básico/Entrada**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-1-01.png)
 
 
 TODO
