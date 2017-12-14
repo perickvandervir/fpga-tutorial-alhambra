@@ -56,10 +56,17 @@ Si miramos en la documentación también podemos ver que están conectados a los
 
 # Ejemplo 1: Encendiendo un LED con el pulsador
 
-Haremos un circuito que **enciendo** el **LED 0** cuando se **aprieta** el **pulsador SW1**. Abrimos Icestudio y nos vamos al menú **Básico/Entrada**
+Haremos un circuito que **enciendo** el **LED 0** cuando se **aprieta** el **pulsador SW1**. Abrimos Icestudio y nos vamos al menú **Básico/Entrada** para colocar un bloque de entrada
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-1-01.png)
 
+Se nos abre una ventana para darle un **nombre al bloque**. Le ponemos, por ejemplo, **Pulsador** y le damos al **OK**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-1-02.png)
+
+Nos aparece el **bloque** y lo **colocamos**. Hacemos click en el **botón izquierdo** del ratón para ponerlo
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-1-03.png)
 
 TODO
 
