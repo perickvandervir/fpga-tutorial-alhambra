@@ -76,6 +76,10 @@ Ya tenemos listo nuestro **bloque de entrada**. Por ahí es por donde recibiremo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-1-05.png)
 
+Ahora colocamos el **bloque de salida**, como ya sabemos. Le ponemos como **nombre LED** y lo asociamos al **LED 0**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-1-06.png)
+
 TODO
 
 -Entrada - transporte - salida  
