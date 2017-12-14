@@ -101,8 +101,10 @@ Y esta es una **animación** de lo que está pasando internamente :-)
 
 # Ejemplo 2: Apagar el LED con el pulsador
 
--Entrada - manipulación - transporte - salida
-- Dibujo FPGA con circuito dentro
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplos-2-01.png)
+
+- Animación Dedo  
+- Dibujo FPGA con circuito dentro  
 
 # Ejemplo 3: Encender y apagar LEDs con los pulsadores
 
