@@ -109,10 +109,18 @@ En este caso, hay que colocar una **puerta NOT**. El circuito es:
 
 Lo **cargamos** en la placa y probamos su funcionamiento
 
+TODO
+
 - Animación Dedo  
 - Dibujo FPGA con circuito dentro  
 
-# Ejemplo 3: Encender y apagar LEDs con los pulsadores
+# Ejemplo 3: LEDs alternantes con pulsador
+
+TODO
+
+# Ejemplo 4: Encender y apagar LEDs con los pulsadores
+
+TODO
 
 Superposición de los circuitos anteriores
 
