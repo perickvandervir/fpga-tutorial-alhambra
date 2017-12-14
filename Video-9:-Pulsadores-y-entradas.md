@@ -18,6 +18,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Entradas digitales](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#entradas-digitales)
 * [Pulsadores internos en la Icezum Alhambra](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#pulsadores-internos-en-la-icezum-alhambra)
 * [Ejemplo 1: Encendiendo un LED con el pulsador](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#ejemplo-1-encendiendo-un-led-con-el-pulsador)
+* [Ejemplo 2: apagando un LED con el pulsador](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#ejemplo-2-apagar-el-led-con-el-pulsador)
 
 
 # Entradas digitales
