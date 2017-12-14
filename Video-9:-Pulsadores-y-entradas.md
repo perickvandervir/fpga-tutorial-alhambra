@@ -94,9 +94,9 @@ El **circuito que se ha creado** se muestra en este dibujo. Físicamente, el pul
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-1-08.png)
 
-TODO
+Y esta es una **animación** de lo que está pasando internamente :-)
 
--Dibujo FPGA con el circuito físico dentro  
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-1-anim-2.gif)
 
 # Ejemplo 2: Apagar el LED con el pulsador
 
