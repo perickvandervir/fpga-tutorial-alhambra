@@ -88,6 +88,7 @@ y por último tiramos **un cable** desde la **entrada** hasta la **salida**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-1-anim.gif)
 
+El **LED0** inicialmente está apagado. Al dejar **apretado** el pulsador **SW1**, se enciende. Y al volver a soltarlo se apaga
 
 TODO
 
