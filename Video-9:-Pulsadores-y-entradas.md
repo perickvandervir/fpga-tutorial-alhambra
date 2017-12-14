@@ -101,7 +101,13 @@ Y esta es una **animación** de lo que está pasando internamente :-)
 
 # Ejemplo 2: Apagar el LED con el pulsador
 
+Haremos el ejemplo contrario. El **LED 7** está encendido hasta que se aprieta el **pulsador SW2**, que se apaga. Al soltarse se vuelve a encender
+
+En este caso, hay que colocar una **puerta NOT**. El circuito es:
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplos-2-01.png)
+
+Lo **cargamos** en la placa y probamos su funcionamiento
 
 - Animación Dedo  
 - Dibujo FPGA con circuito dentro  
