@@ -39,7 +39,10 @@ Al **apretar** y **soltar repetidamente**, conseguimos inyectar Bits a 0 y 1
 
 # Pulsadores internos en la Icezum Alhambra
 
--Dibujo con la icezum alhambra y la localización de los pulsadores
+La placa [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki) incorpora dos **pulsadores genéricos**, para hacer pruebas. Están situados en la parte superior izquierda de la placa, muy cerca de los LEDs
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Alhambra-01.png)
+
 -Documentación de piganti, de los pulsadores
 -Dibujo: Pistas de los pulsadores a la FPGA
 
