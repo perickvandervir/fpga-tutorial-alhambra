@@ -86,9 +86,11 @@ y por último tiramos **un cable** desde la **entrada** hasta la **salida**
 
 ¡Ya tenemos listo el circuito! Ahora lo **cargamos** en la placa y lo probamos
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-1-anim.gif)
+
+
 TODO
 
--Entrada - transporte - salida  
 -Dibujo FPGA con el circuito físico dentro  
 
 # Ejemplo 2: Apagar el LED con el pulsador
