@@ -80,6 +80,12 @@ Ahora colocamos el **bloque de salida**, como ya sabemos. Le ponemos como **nomb
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-1-06.png)
 
+y por último tiramos **un cable** desde la **entrada** hasta la **salida**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-1-07.png)
+
+¡Ya tenemos listo el circuito! Ahora lo **cargamos** en la placa y lo probamos
+
 TODO
 
 -Entrada - transporte - salida  
