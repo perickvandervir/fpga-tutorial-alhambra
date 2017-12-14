@@ -56,8 +56,13 @@ Si miramos en la documentación también podemos ver que están conectados a los
 
 # Ejemplo 1: Encendiendo un LED con el pulsador
 
--Entrada - transporte - salida
--Dibujo FPGA con el circuito físico dentro
+Haremos un circuito que **enciendo** el **LED 0** cuando se **aprieta** el **pulsador SW1**
+
+
+TODO
+
+-Entrada - transporte - salida  
+-Dibujo FPGA con el circuito físico dentro  
 
 # Ejemplo 2: Apagar el LED con el pulsador
 
