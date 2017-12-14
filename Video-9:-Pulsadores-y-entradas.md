@@ -72,6 +72,10 @@ Pinchamos en el **desplegable del bloque** para seleccionar el pin **SW1**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-1-04.png)
 
+Ya tenemos listo nuestro **bloque de entrada**. Por ahí es por donde recibiremos los bits procedentes del **pulsador SW1**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-1-05.png)
+
 TODO
 
 -Entrada - transporte - salida  
