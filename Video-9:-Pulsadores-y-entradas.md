@@ -113,8 +113,11 @@ Lo **cargamos** en la placa y probamos su funcionamiento
 
 Al cargar el circuito, el **LED7 se encenderá**. Cuando pulsamos **SW2**, se apaga. Al liberarlo, se vuelve a  encender. Justo el comportamiento contrario que el ejemplo anterior
 
+Esto es lo que ocurre en su **interior**. Cuando el **pulsador no está apretado**, entra un **0** por la entrada, que se convierte en un **1** al pasar por la **puerta NOT** y enciende el LED
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplos-2-02.png)
+
 TODO
-- Dibujo FPGA con circuito dentro  
 - Animación
 
 # Ejemplo 3: LEDs alternantes con pulsador
