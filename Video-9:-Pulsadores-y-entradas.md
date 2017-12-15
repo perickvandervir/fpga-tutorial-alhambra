@@ -115,14 +115,19 @@ Al cargar el circuito, el **LED7 se encenderá**. Cuando pulsamos **SW2**, se ap
 
 TODO
 - Dibujo FPGA con circuito dentro  
+- Animación
 
 # Ejemplo 3: LEDs alternantes con pulsador
 
 TODO
+* Pantallazo ejemplo
+* Animación funcionamiento
 
 # Ejemplo 4: Encender y apagar LEDs con los pulsadores
 
 TODO
+* Pantallazo ejemplo
+* Animación funcionamiento
 
 Superposición de los circuitos anteriores
 
