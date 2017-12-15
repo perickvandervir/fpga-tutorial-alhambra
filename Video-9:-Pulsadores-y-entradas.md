@@ -109,9 +109,9 @@ En este caso, hay que colocar una **puerta NOT**. El circuito es:
 
 Lo **cargamos** en la placa y probamos su funcionamiento
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-2-anim.gif)
 
-- Animación Dedo  
+TODO
 - Dibujo FPGA con circuito dentro  
 
 # Ejemplo 3: LEDs alternantes con pulsador
