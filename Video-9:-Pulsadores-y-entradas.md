@@ -117,8 +117,9 @@ Esto es lo que ocurre en su **interior**. Cuando el **pulsador no está apretado
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplos-2-02.png)
 
-TODO
-- Animación
+El proceso completo se muestra en esta **animación**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-2-anim-2.gif)
 
 # Ejemplo 3: LEDs alternantes con pulsador
 
