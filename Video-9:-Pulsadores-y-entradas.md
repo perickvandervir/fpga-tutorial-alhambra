@@ -135,6 +135,10 @@ TODO
 
 Superposición de los circuitos anteriores
 
+# Solucionando problemas
+
+Pulsadores y Alcohol
+
 # Ejercicios propuestos (XX BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
