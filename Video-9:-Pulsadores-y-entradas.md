@@ -111,6 +111,8 @@ Lo **cargamos** en la placa y probamos su funcionamiento
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-2-anim.gif)
 
+Al cargar el circuito, el **LED7 se encenderá**. Cuando pulsamos **SW2**, se apaga. Al liberarlo, se vuelve a  encender. Justo el comportamiento contrario que el ejemplo anterior
+
 TODO
 - Dibujo FPGA con circuito dentro  
 
