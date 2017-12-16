@@ -141,6 +141,8 @@ Los ejemplos 1 y 2 son dos **circuitos independientes**, que tiene cada uno **un
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-4-01.png)
 
+**Inicialmente** el **LED7** está **encendido** y el resto **apagados**. Al apretar el **puslador SW1**, se enciende el **LED0**. Ambos LEDs, 7 y 0, estarán encendidos.  Si apretamos sólo el **pulsador SW2**, el LED7 se apgarán, por lo que todos los LEDs estarán apagados. Finalmente, si apretados los **dos pulsadores a la vez**, sólo se encenderá el LED0
+
 TODO
 * Animación funcionamiento
 
