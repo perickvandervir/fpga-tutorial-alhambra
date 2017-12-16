@@ -3,11 +3,11 @@
 # Vídeo
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
+c
 Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
-
+Los bits se introducen en los circuitos digitales a través de sus **entradas**. Veremos cómo meter bits mediante los **pulsadores internos** de la Icezum Alhmabra, y haremos circuitos sencillos con entradas y salidas
 
 # Colección
 
