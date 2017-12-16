@@ -128,10 +128,11 @@ Haremos un circuito que haga **parpadear** los LEDS **7** y **0** alternativamen
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-3-01.png)
 
-Lo **cargamos** en la placa para ver su funcionamiento
+Lo **cargamos** en la placa para ver su funcionamiento. Se muestra en esta **animación**:
 
-TODO
-* Animación funcionamiento
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-3-anim.gif)
+
+Este es un ejemplo de un circuito que tiene **1 entrada** y **2 salidas**
 
 # Ejemplo 4: Encender y apagar LEDs con los pulsadores
 
