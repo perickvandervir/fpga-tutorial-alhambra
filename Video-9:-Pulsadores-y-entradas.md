@@ -153,7 +153,7 @@ Si has probado los ejemplos y has detectado que algún pulsador **no te funciona
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/arreglando-pulsadores-1.jpg)
 
-Apretar los pulsadores repetidamente hasta que se disuelva el flux y el pulsador funcione correctamente
+**Apretar los pulsadores repetidamente** hasta que se disuelva el flux y funcionen correctamente. En menos de un minuto ya estarán operativos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/arreglando-pulsadores-2.jpg)
 
