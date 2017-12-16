@@ -149,7 +149,8 @@ En total hay **4 casos**: cuando los pulsadores NO están apretados (00), cuando
 
 # ¡No me funcionan los pulsadores!
 
-Pulsadores y Alcohol
+Si has probado los ejemplos y has detectado que algún pulsador **no te funciona bien**, puede ser porque se ha quedado el flux acumulado en su interior, y no hace buen contacto. Algunos usuarios han reportado este problema, con las Icezum Alhambras de las tiradas 1 y 2. La **solución** es muy sencilla: usando un **cuentagotas**, echar una **gotas de alchol** de 96 grados sobre los pulsadores, mientras la **placa está encendida** (el alcohol no conduce, no hay problema). Apretar los pulsadores repetidamente hasta que se disuelva el flux y el pulsador funcione correctamente
+
 
 # Ejercicios propuestos (XX BitPoints)
 
