@@ -147,7 +147,7 @@ Los ejemplos 1 y 2 son dos **circuitos independientes**, que tiene cada uno **un
 
 En total hay **4 casos**: cuando los pulsadores NO están apretados (00), cuando el SW1 está apretado y el SW2 no (10), cuando el SW2 sí pero el SW1 no (01) y cuando ambos están apretados (11). Para cada uno de estos posibles estados hay una salida diferente en los LEDs 7 y 0
 
-# Solucionando problemas
+# ¡No me funcionan los pulsadores!
 
 Pulsadores y Alcohol
 
