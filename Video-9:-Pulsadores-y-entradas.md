@@ -203,11 +203,6 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 * [Repositorio de la Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki)
 * Documentación de la Icezum Alhambra:  ([PNG](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/icezum-pinout.png))([SVG](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/Icezum-alhambra-pinout.svg))([PDF](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/icezum-pinout.pdf)) 
 * [Icestudio](https://github.com/FPGAwars/icestudio)
-* [Fritzing](http://fritzing.org)
-* [Icezum Alhambra en Fritzing](https://github.com/lobotic/IceZUM_Alhambra_Fritzing)
-* [Repositorio de PCBprints](https://github.com/PCBPrints/PCbPrints)
-* [PCBprint "Hola Mundo"](https://github.com/Obijuan/3D-parts/wiki/PCB-Led-hola-mundo)
-* [Placa FreeLEDs](http://www.iearobotics.com/wiki/index.php?title=Freeleds)
 * [Monedas Bit imprimibles](https://github.com/Obijuan/3D-parts/wiki/Monedas-Bit)
 
 # FAQs
