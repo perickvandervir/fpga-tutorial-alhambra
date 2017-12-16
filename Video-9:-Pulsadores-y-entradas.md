@@ -128,6 +128,8 @@ Haremos un circuito que haga **parpadear** los LEDS **7** y **0** alternativamen
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-3-01.png)
 
+Lo **cargamos** en la placa para ver su funcionamiento
+
 TODO
 * Animación funcionamiento
 
