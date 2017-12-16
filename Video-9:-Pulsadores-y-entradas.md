@@ -208,6 +208,10 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 # FAQs
 
+* **He probado los ejemplos, pero los pulsadores no me funcionan**
+
+Eso es debido a que se han metido restos de flux y no hacen buen contacto. En el apartado [¡No me funcionan los pulsadores!](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#no-me-funcionan-los-pulsadores) se indica cómo solucionarlo fácilmente
+
 * **¿Dónde puedo conseguir la placa Icezum Alhambra?**
 
 Pueden conseguir una desde [Alhambrabits](https://alhambrabits.com/buy/)
