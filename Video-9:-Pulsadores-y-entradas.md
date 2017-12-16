@@ -135,10 +135,13 @@ Lo **cargamos** en la placa para ver su funcionamiento. Se muestra en esta **ani
 
 Este es un ejemplo de un circuito que tiene **1 entrada** y **2 salidas**
 
-# Ejemplo 4: Superposición de los ejemplos 1 y 2
+# Ejemplo 4: Superposición de los ejempilos 1 y 2
+
+Los ejemplos 1 y 2 son dos **circuitos independientes**, que tiene cada uno **una entrada** y **una salida**. Aplicando el **principio de superposición**, podemos colocar los dos **circuitos en paralelo** para que funcionen a la vez, obteniendo un **circuito de 2 entradas con 2 salidas**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-4-01.png)
 
 TODO
-* Pantallazo ejemplo
 * Animación funcionamiento
 
 Superposición de los circuitos anteriores
