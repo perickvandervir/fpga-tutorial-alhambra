@@ -124,8 +124,11 @@ El proceso completo se muestra en esta **animación**
 
 # Ejemplo 3: LEDs alternantes con pulsador
 
+Haremos un circuito que haga **parpadear** los LEDS **7** y **0** alternativamente al **apretar el pulsador SW1**. Cuando no está apretado, el LED7 está encendido, y el LED 0 apagado. Al apretar el pulsador se apaga el 7 y se enciende el 0
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-3-01.png)
+
 TODO
-* Pantallazo ejemplo
 * Animación funcionamiento
 
 # Ejemplo 4: Encender y apagar LEDs con los pulsadores
