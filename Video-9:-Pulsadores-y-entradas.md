@@ -20,6 +20,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Ejemplo 1: Encendiendo un LED con el pulsador](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#ejemplo-1-encendiendo-un-led-con-el-pulsador)
 * [Ejemplo 2: apagando un LED con el pulsador](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#ejemplo-2-apagar-el-led-con-el-pulsador)
 * [Ejemplo 3: LEDs alternantes con pulsador](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#ejemplo-3-leds-alternantes-con-pulsador)
+* [Ejemplo 4: Superposición de los ejemplos 1 y 2](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#ejemplo-4-superposici%C3%B3n-de-los-ejemplos-1-y-2)
 
 
 # Entradas digitales
