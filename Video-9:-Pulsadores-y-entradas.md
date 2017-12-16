@@ -11,7 +11,7 @@ Los bits se introducen en los circuitos digitales a través de sus **entradas**.
 
 # Colección
 
-**Academia-Jedi-HW-09.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-09.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Collection/Academia-Jedi-HW-09.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
