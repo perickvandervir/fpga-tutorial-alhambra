@@ -141,11 +141,11 @@ Los ejemplos 1 y 2 son dos **circuitos independientes**, que tiene cada uno **un
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-4-01.png)
 
-**Inicialmente** el **LED7** está **encendido** y el resto **apagados**. Al apretar el **puslador SW1**, se enciende el **LED0**. Ambos LEDs, 7 y 0, estarán encendidos.  Si apretamos sólo el **pulsador SW2**, el LED7 se apgarán, por lo que todos los LEDs estarán apagados. Finalmente, si apretados los **dos pulsadores a la vez**, sólo se encenderá el LED0
+**Inicialmente** el **LED7** está **encendido** y el resto **apagados**. Al apretar el **puslador SW1**, se enciende el **LED0**. Ambos LEDs, 7 y 0, estarán encendidos.  Si apretamos sólo el **pulsador SW2**, el LED7 se apgarán, por lo que todos los LEDs estarán apagados. Finalmente, si apretados los **dos pulsadores a la vez**, sólo se encenderá el LED0.  El funcionamiento se muestra en esta **animación**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/Ejemplo-4-anim.gif)
 
-En total hay **4 casos**: cuando los pulsadores NO están apretados (00), cuando el SW1 está apretado y el SW2 no (10), cuando el SW2 sí pero el SW1 no (01) y cuando ambos están apretados (11). Para cada uno de estos posibles estados hay una salida diferente en los LEDs 7 y 0
+En total hay **4 casos**: cuando los pulsadores NO están apretados (00), cuando el SW1 está apretado y el SW2 no (10), cuando el SW2 sí pero el SW1 no (01) y cuando ambos están apretados (11). Para cada uno de estos posibles estados hay una salida diferente en los LEDs 7 y 0.
 
 # ¡No me funcionan los pulsadores!
 
