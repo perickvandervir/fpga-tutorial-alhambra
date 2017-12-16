@@ -134,7 +134,7 @@ Lo **cargamos** en la placa para ver su funcionamiento. Se muestra en esta **ani
 
 Este es un ejemplo de un circuito que tiene **1 entrada** y **2 salidas**
 
-# Ejemplo 4: Encender y apagar LEDs con los pulsadores
+# Ejemplo 4: Superposición de los ejemplos 1 y 2
 
 TODO
 * Pantallazo ejemplo
