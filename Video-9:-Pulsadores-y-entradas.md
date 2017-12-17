@@ -223,15 +223,19 @@ Para celebrar el estreno del **episodio VIII** de **Star Wars**, todas las entre
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-9/JuanDGomezM/Ejerc.9.1.png)
 
+* [VIDEO](https://plus.google.com/u/0/photos/117217596152589136489/album/6500242594000616081/6500242596698192306?authkey=CPC0-_PA37H3aQ)
+
 ### Ejercicio 2
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-9/JuanDGomezM/Ejerc.9.2.png)
+
+* [VIDEO](https://plus.google.com/u/0/photos/117217596152589136489/album/6500242594000616081/6500242597635124242?authkey=CPC0-_PA37H3aQ)
 
 ### Ejercicio 3
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-9/JuanDGomezM/Ejerc.9.3.png)
 
-### Ejercicio 4
+* [VIDEO](https://plus.google.com/u/0/photos/117217596152589136489/album/6500242594000616081/6500242597713648834?authkey=CPC0-_PA37H3aQ)
 
 ## Tercero
 
