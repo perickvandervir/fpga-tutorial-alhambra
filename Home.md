@@ -17,7 +17,7 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | 7 | [Manipulando bits: Puerta NOT](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-7:-Manipulando-bits.-Puerta-NOT)  |
 | 8 | [Pines y LEDs externos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos) |
 | 9 | [Pulsadores y Entradas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas)  |
-| 10| Servos    |
+| 10| ServoBit    |
 | 11| Sonido    |
 | 12| Habilitando con AND  |
 | 13| Puladores externos |
