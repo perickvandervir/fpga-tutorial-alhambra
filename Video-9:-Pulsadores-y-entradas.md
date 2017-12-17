@@ -185,7 +185,7 @@ dos ojos de FRANKY al apretar un pulsador, y que se apaguen al soltarlo
 
 ## Bonus Star Wars Episodio VIII
 
-Para celebrar el estreno del **episodio VIII** de **Star Wars**, todas las entregas de los ejercicios del tutorial 9 recibidas hasta el Viernes 22/Dic/2017 (incluido) tendrán **2 Bitpoints Extras**
+Para celebrar el estreno del **episodio VIII** de **Star Wars**, todas las entregas de los ejercicios del tutorial 9 recibidas hasta el **Viernes 22/Dic/2017** (incluido) tendrán **2 Bitpoints Extras**
 
 # Ejercicios entregados
 
