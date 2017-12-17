@@ -15,6 +15,12 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Contenido
 
+# Introducción a los servos
+
+Los [Servos](https://es.wikipedia.org/wiki/Servomotor_de_modelismo) son **actuadores** que pueden estar de manera estable en una **posición** dentro de su rango, que típicamente de **180 grados**. a
+
+Los servos se usan muchísimo en la construcción de **robots educativos**, para abrir y cerrar **pinzas**, **orientar** sensores, o **mover articulaciones**
+
 # Borrador
 
 * Introducción a los servos
