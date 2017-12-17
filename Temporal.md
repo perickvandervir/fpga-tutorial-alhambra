@@ -67,22 +67,6 @@ Pueden conseguir una desde [Alhambrabits](https://alhambrabits.com/buy/)
 Hay mucha información en internet. En su momento hice este Tutorial: [Github y FreeCAD](http://www.iearobotics.com/wiki/index.php?title=Tutorial:_Github_y_Freecad) para enseñar a manejarlo. Los ejemplos están hechos con ficheros de FreeCAD, sin embargo, lo que se enseña es genérico. También vale para las entregas de los ejercicios del tutorial de Electrónica digital para makers
 
 
-----------------------
-
-
-## Vídeo 9: Entrada digital
-
-Ejercicio 9-1: Montar un cto con un pulsador que entre por D12 y un led que slga por D1
-Ejercicio 9-2: Circuito que encienda los leds conectados a D0 y D1
-Ejercicio 9-3: Dos circuitos en paralelo
-Ejercicio 9-4: 2 circuitos. Cada pulsador enciende 4 leds
-
-# Video 11: Servo binario: derecha / izquierda
-
-Mostrar cómo funcionan el servo de 2 posiciones (ServoBit-X), controlado con un pulsador
-
-Plantear ejercicios 
-
 
 
 
