@@ -23,6 +23,7 @@ Los bits se introducen en los circuitos digitales a través de sus **entradas**.
 * [Ejemplo 4: Superposición de los ejemplos 1 y 2](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#ejemplo-4-superposici%C3%B3n-de-los-ejemplos-1-y-2)
 * [¡No me funcionan los pulsadores!](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#no-me-funcionan-los-pulsadores)
 * [Ejercicios propuestos (12 Bitpoints + 2)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#ejercicios-propuestos-12-bitpoints--2)
+  * [Bonus Star Wars](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#bonus-star-wars-episodio-viii)
 * [Ejercicios entregados](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#ejercicios-entregados)
 * [Licencia](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#autor)
 * [Enlaces](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#enlaces)
