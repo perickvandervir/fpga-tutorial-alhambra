@@ -192,14 +192,29 @@ Para celebrar el estreno del **episodio VIII** de **Star Wars**, todas las entre
 
 ## Carlos Obregón (Carlobre)
 
+### Ejercicio 1
+
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-9/Carlobre/Tutorial%209.1.png)
+
+* [VIDEO](https://www.youtube.com/watch?v=cMqs-IE9SuY)
+
+### Ejercicio 2
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-9/Carlobre/Tutorial%209.2.png)
 
+* [VIDEO](https://www.youtube.com/watch?v=r-jlhWob6JA)
+
+### Ejercicio 3
+
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-9/Carlobre/Tutorial%209.3.png)
+
+* [VIDEO](https://www.youtube.com/watch?v=-FyJm5TRQCM)
+
+### Ejercicio 4
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-9/Carlobre/Tutorial%209.4.png)
 
+* [VIDEO](https://www.youtube.com/watch?v=zOvTJ0xJRUY)
 
 ## Segundo
 
