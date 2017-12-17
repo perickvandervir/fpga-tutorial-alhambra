@@ -237,7 +237,19 @@ Para celebrar el estreno del **episodio VIII** de **Star Wars**, todas las entre
 
 * [VIDEO](https://plus.google.com/u/0/photos/117217596152589136489/album/6500242594000616081/6500242597713648834?authkey=CPC0-_PA37H3aQ)
 
-## Tercero
+## Josep Montoliu (Klarojms)
+
+### Ejercicio 1
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-9/klarojms/Ejercicio%201-1.png)
+
+* [VIDEO](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-9/klarojms/Ejercicio%201-1.mp4)
+
+### Ejercicio 2
+
+### Ejercicio 3
+
+### Ejercicio 4
 
 # Autor
 
