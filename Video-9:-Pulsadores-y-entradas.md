@@ -175,7 +175,7 @@ deben encender los LEDS 4,5,6 y 7, y apagar los anteriores
 * **Ejercicio 2** (Total **3 Bitpoints**): Hacer un circuito digital con dos pulsadores de entrada.
 Al apretar SW1 se enciende el LED5 y se apaga el LED7, y al soltarlo se enciende LED7 y se 
 apaga el LED5. Al apretar SW2 se enciende LED2 y se apaga LED0, y al soltarlo se enciende 
-LED0 y se apaga LED3
+LED0 y se apaga LED2
 
 * **Ejercicio 3** (Total **3 Bitpoints**): Hacer un circuito digital para que se enciendan los
 dos ojos de FRANKY al apretar un pulsador, y que se apaguen al soltarlo
