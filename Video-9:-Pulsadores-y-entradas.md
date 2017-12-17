@@ -162,7 +162,7 @@ Si has probado los ejemplos y has detectado que algún pulsador **no te funciona
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-09/arreglando-pulsadores-2.jpg)
 
-# Ejercicios propuestos (12 BitPoints)
+# Ejercicios propuestos (12 BitPoints + 2)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
