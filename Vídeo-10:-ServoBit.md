@@ -23,7 +23,7 @@ Los [Servos](https://es.wikipedia.org/wiki/Servomotor_de_modelismo) son **actuad
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-01.png)
 
-Los servos se usan muchísimo en la construcción de **robots educativos**, para abrir y cerrar **pinzas**, **orientar** sensores, o **mover articulaciones**
+Se usan muchísimo en la construcción de **robots educativos**, para abrir y cerrar **pinzas**, **orientar** sensores, o **mover articulaciones**
 
 # Borrador
 
