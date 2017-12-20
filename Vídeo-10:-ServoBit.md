@@ -27,7 +27,7 @@ Se usan muchísimo en la construcción de **robots educativos**, para abrir y ce
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-02.png)
 
-El **cuerpo** es la parte más grande, que alberga en su interior el **motor**, la **electrónica** y los **engranajes**. La **cabeza** es la pieza que va atornillada al eje de salida, y que es la que gira con respecto al cuerpo. En inglés se llama **horn** (cuerno)
+El **cuerpo** es la parte más grande, que alberga en su interior el **motor**, la **electrónica** y los **engranajes**. La **cabeza** es la pieza que va atornillada al eje de salida, y que es la que gira con respecto al cuerpo. En inglés se llama **horn** (cuerno). El cable está formado por **tres hilos** de colores que terminan en un **conector hembra**
 
 # Borrador
 
