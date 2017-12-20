@@ -29,11 +29,11 @@ Se usan muchísimo en la construcción de **robots educativos**, para abrir y ce
 
 El **cuerpo** es la parte más grande, que alberga en su interior el **motor**, la **electrónica** y los **engranajes**. La **cabeza** es la pieza que va atornillada al eje de salida, y que es la que gira con respecto al cuerpo. En inglés se llama **horn** (cuerno). El cable está formado por **tres hilos** de colores que terminan en un **conector hembra**
 
-## TODO
-
 Hay servos de todos los tamaños y gustos. Nosotros utilizaremos tres de los más utilizados: El servo **Futaba 300**3 o compatible, y los micro-servos **Tower-Pro SG90** y **Emax ES08A**
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-03.png)
+
+## TODO
 
 # Borrador
 
