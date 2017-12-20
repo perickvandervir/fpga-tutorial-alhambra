@@ -33,6 +33,10 @@ Hay servos de todos los tamaños y gustos. Nosotros utilizaremos tres de los má
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-03.png)
 
+Cada modelo de servo incluye un **juego de cabezas** intercambiables. Se unen al eje mediante un tornillo
+
+FOTO
+
 ## TODO
 
 # Borrador
