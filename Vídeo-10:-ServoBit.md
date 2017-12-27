@@ -33,7 +33,9 @@ Hay servos de todos los tamaños y gustos. Nosotros utilizaremos tres de los má
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-03.png)
 
+Los **Futaba 3003** o compatibles tienen el tamaño "estándar". Son de los primeros servos que aparecieron, para aplicaciones de aeromodelismo
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-04.jpg)
 
 ## TODO
 
