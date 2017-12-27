@@ -47,6 +47,14 @@ El **cable de conexión** está formado por **3 hilos**, con un conector hembra 
 
 Para los microservos **Tower Pro** y **Emax**, el marrón es **GND**, el rojo la **alimentación** y el naranja la **señal de control**. En los servos **Futaba 3003** el negro es GND, el rojo Alimentacón y la señal de control es blanca 
 
+# Robots y servos
+
+Los servos se utilizan mucho en **robots educativos** y de **investigación**. Son perfectos para combinarlos con impresión 3D y construir robots. Estos son algunos ejemplos:
+
+## Robot gusano Larby
+
+* [Módulos REPYZ](http://www.iearobotics.com/wiki/index.php?title=M%C3%B3dulos_REPYZ)
+
 ## TODO
 
 * Ejemplos de uso de servos:
