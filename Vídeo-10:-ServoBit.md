@@ -33,20 +33,11 @@ Hay servos de todos los tamaños y gustos. Nosotros utilizaremos tres de los má
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-03.png)
 
-Los **Futaba 3003** o compatibles tienen el tamaño "estándar". Son de los primeros servos que aparecieron, para aplicaciones de aeromodelismo
+Los **Futaba 3003** o compatibles tienen el tamaño "estándar". Son de los primeros servos que aparecieron, para aplicaciones de aeromodelismo. Los **micro-servos** son más pequeños
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-04.jpg)
-
-Los **micro-servos** son más pequeños
-
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-05.jpg)
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-04.png)
 
 ## TODO
-
-Servos y microservos
-
-Foto
 
 Cada modelo de servo incluye un **juego de cabezas** intercambiables. Se unen al eje mediante un tornillo
 
