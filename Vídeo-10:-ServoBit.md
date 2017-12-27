@@ -56,7 +56,7 @@ Los servos se utilizan mucho en **robots educativos** y de **investigación**. S
 
 **Larby** es un [robot modular](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Tesis) tipo gusano formado por la unión de 2 [módulos REPYZ](http://www.iearobotics.com/wiki/index.php?title=M%C3%B3dulos_REPYZ)
 
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/robots-servos-01.jpg)
 
 * https://www.youtube.com/watch?v=6I5Z70eewrg
 
