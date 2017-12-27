@@ -47,6 +47,14 @@ El **cable de conexión** está formado por **3 hilos**, con un conector hembra 
 
 Para los microservos **Tower Pro** y **Emax**, el marrón es **GND**, el rojo la **alimentación** y el naranja la **señal de control**. En los servos **Futaba 3003** el negro es GND, el rojo Alimentacón y la señal de control es blanca 
 
+## TODO
+
+* Ejemplos de uso de servos:
+
+* Robots modulares (larby, modulos gz)
+* Zowi
+* Bettle
+
 # Señal de control
 
 ## TODO
