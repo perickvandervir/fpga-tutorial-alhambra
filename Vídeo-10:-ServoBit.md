@@ -41,6 +41,13 @@ Cada modelo de servo incluye un **juego de cabezas** intercambiables. Se unen al
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-05.jpg)
 
+El cable de conexión está formado por 3 hilos, con un conector hembra negro al final. Los hilos son: Masa (GND), alimentación (+5v) y señal de control. Cada uno tiene un color diferente, y dependen del modelo de servo. El código típico, que tienen la mayoría de los servos se muestra en esta imagen:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-06.png)
+
+Para los microservos Tower Pro y Emax, el marrón es GND, el rojo la alimentación y el naranja la señal. Enlos servos Futaba 3003 el negro es GND, el rojo Alimentacón y la señal es blanca 
+
+
 ## TODO
 
 * Cables
