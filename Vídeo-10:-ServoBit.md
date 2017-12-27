@@ -37,11 +37,9 @@ Los **Futaba 3003** o compatibles tienen el tamaño "estándar". Son de los prim
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-04.png)
 
-## TODO
+Cada modelo de servo incluye un **juego de cabezas** intercambiables. Se unen al eje mediante un **tornillo**
 
-Cada modelo de servo incluye un **juego de cabezas** intercambiables. Se unen al eje mediante un tornillo
-
-FOTO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-05.jpg)
 
 ## TODO
 
