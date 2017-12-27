@@ -54,9 +54,9 @@ Los servos se utilizan mucho en **robots educativos** y de **investigación**. S
 
 ## Robot gusano Larby
 
-**Larby** es un robot modular tipo gusano.
+**Larby** es un [robot modular](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Tesis) tipo gusano formado por la unión de 2 [módulos REPYZ](http://www.iearobotics.com/wiki/index.php?title=M%C3%B3dulos_REPYZ)
 
-* [Módulos REPYZ](http://www.iearobotics.com/wiki/index.php?title=M%C3%B3dulos_REPYZ)
+
 
 * https://www.youtube.com/watch?v=6I5Z70eewrg
 
