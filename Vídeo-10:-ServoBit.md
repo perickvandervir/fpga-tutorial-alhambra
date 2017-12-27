@@ -54,11 +54,6 @@ Cada modelo de servo incluye un **juego de cabezas** intercambiables. Se unen al
 
 # Borrador
 
-* Introducción a los servos
-  * Servos normales
-  * Servos rotación continua
-  * MiniServos
-
 * Señales de control de servos: PWM
 * Controlador ServoBit
 * Ejemplo 1: Servo y pulsador
