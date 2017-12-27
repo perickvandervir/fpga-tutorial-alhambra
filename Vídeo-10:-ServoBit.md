@@ -41,7 +41,14 @@ Cada modelo de servo incluye un **juego de cabezas** intercambiables. Se unen al
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-05.jpg)
 
+
 ## TODO
+
+* Cables
+
+# Señal de control
+
+TODO
 
 # Borrador
 
