@@ -50,7 +50,12 @@ Para los microservos **Tower Pro** y **Emax**, el marrón es **GND**, el rojo la
 
 # Robots y servos
 
-Los servos se utilizan mucho en **robots educativos** y de **investigación**. Son perfectos para combinarlos con impresión 3D y construir robots. Estos son algunos ejemplos:
+Los servos se utilizan mucho en **robots educativos** y de **investigación**. Son perfectos para combinarlos con impresión 3D y construir robots
+
+## Garras robóticas
+
+Una aplicación muy sencilla y divertida es hacer diferentes **garras robóticas**, que se abran y cierren
+
 
 ## Robot gusano Larby
 
