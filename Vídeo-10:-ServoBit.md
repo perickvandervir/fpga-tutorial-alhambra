@@ -78,7 +78,11 @@ En esta **animación** se puede ver la garra en su dos posiciones extremas: abie
 
 La [Ultimage gripper](https://github.com/bqlabs/mechatronics/tree/master/grippers/ultimate_gripper) es una garra diseñada por [Javier Isabel](https://github.com/JavierIH) para usarla en **robots humanoides**
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/robots-servos-05.png)
+
+Es un diseño **muy compacto**. Está formado por **3 piezas**: Dedo izquierdo, dedo derecho y base. El servo que usa es un **Futaba 3003** o compatible, y utiliza 3 **rodamientos tipo 603**
+
+(Animacion)
 
 ## Robot gusano Larby
 
