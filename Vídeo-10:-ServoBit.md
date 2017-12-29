@@ -130,6 +130,10 @@ Es un robot **humaniforme**, que aunque sólo tiene 4 servos, puede realizar una
 
 # Señal de control de los servos
 
+Para llevar la cabeza del servo a una **posición** determinada hay que enviar una **señal de control especial**. Se trata de un **pulso de 5v**, de anchura variable, que se envía periódicamente, cada **20ms** (frecuencia de 50Hz)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servo-pwm-01.png)
+
 ## TODO
 * Señal general PWM (20ms) (50Hz)
 
