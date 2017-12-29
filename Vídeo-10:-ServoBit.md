@@ -122,9 +122,9 @@ Los servos se utilizan mucho en robots educativos, para implementar sus articula
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/robot-servos-10.png)
 
+Es un robot **humaniforme**, que aunque sólo tiene 4 servos, puede realizar una gran cantidad de movimientos diferentes. En esta [Lista de reproducción](https://www.youtube.com/watch?v=b2puPzjQ2Bo&list=PLmnz0JqIMEzUKrrcKhBNfWbb1Th0o9tET) se pueden ver muchos de los movimientos creados, por Obijuan, usando la [biblioteca de osciladores ardusnake](http://www.iearobotics.com/wiki/index.php?title=ArduSnake:_Arduino_Modular_Snake_Robots_Library)
 
-
-TODO
+[![Click to see the youtube video](http://img.youtube.com/vi/b2puPzjQ2Bo/0.jpg)](https://www.youtube.com/watch?v=b2puPzjQ2Bo&list=PLmnz0JqIMEzUKrrcKhBNfWbb1Th0o9tET)
 
 # Señal de control
 
