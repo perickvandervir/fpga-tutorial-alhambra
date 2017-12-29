@@ -23,6 +23,8 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Pinza paralela](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#pinza-paralela)
   * [Robot Gusano Larby](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#robot-gusano-larby)
   * [Zowi](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#zowi)
+* [Señal de control de los servos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#se%C3%B1al-de-control-de-los-servos)
+
 
 # Introducción a los servos
 
