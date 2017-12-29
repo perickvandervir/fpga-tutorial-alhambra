@@ -96,7 +96,9 @@ Esta es una pinza que sus dos dedos siempre permanen paralelos, ejerciendo la mi
 
 El diseño está creado con **FreeCAD**, y se han hecho diferentes diseños derivados, como por ejemplo [Este porta acreditaciones](http://diwo.bq.com/builds/pinza-robotica-porta-acreditaciones/). En ese enlace, además, se emplica el funcionamiento del mecanismo
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/robots-servos-08.gif)
+
+Gracias a su **mecanismo del paralelogramo**, los dedos de agarre siempre permanen en paralelo, tanto si está abierta como cerrada
 
 ## Robot gusano Larby
 
