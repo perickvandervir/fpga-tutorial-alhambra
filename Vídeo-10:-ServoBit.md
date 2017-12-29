@@ -134,6 +134,10 @@ Para llevar la cabeza del servo a una **posición** determinada hay que enviar u
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servo-pwm-01.png)
 
+El **ancho del pulso** es el que determina la **posición** a la que se moverá el servo. Los valores dependen del modelo de servo, pero típicamente un **pulso de 1ms** lleva el servo al **extremo** derecho y uno de **2ms** al izquierdo. Valores entre 1ms y 2ms lo posicional linealmente entre **0** y **180 grados**
+
+(Dibujo)
+
 ## TODO
 * Señal general PWM (20ms) (50Hz)
 
