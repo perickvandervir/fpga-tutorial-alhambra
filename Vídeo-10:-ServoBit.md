@@ -21,6 +21,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Printbot Beetle](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#printbot-beetle)
     * [Ultimate gripper](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#ultimate-gripper)
     * [Pinza paralela](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#pinza-paralela)
+  * [Robot Gusano Larby](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#robot-gusano-larby)
 
 # Introducción a los servos
 
