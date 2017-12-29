@@ -90,9 +90,13 @@ En esta **animación** se puede ver la garra en acción
 
 ### Pinza paralela
 
-[](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#pinza-paralela)
+Esta es una pinza que sus dos dedos siempre permanen paralelos, ejerciendo la misma presión. La [versión original](http://www.iearobotics.com/wiki/index.php?title=Freecad:_Pinza_mecanica) fue creada por **Obijuan** para mostrar el funcionamiento de este tipo de mecanismos. Posteriormente, **Javier Isabel** le añadió un microservo para abrir y cerrarla automáticamente 
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/robots-servos-07.png)
 
+El diseño está creado con **FreeCAD**, y se han hecho diferentes diseños derivados, como por ejemplo [Este porta acreditaciones](http://diwo.bq.com/builds/pinza-robotica-porta-acreditaciones/). En ese enlace, además, se emplica el funcionamiento del mecanismo
+
+TODO
 
 ## Robot gusano Larby
 
