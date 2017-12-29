@@ -138,6 +138,10 @@ El **ancho del pulso** es el que determina la **posición** a la que se moverá 
 
 (Dibujo)
 
+## TODO
+
+* Señal en posiciones 0, 45, 90, 75, 180
+
 # Conectando servos a la Icezum Alhambra
 
 # Controlador ServoBit
@@ -147,20 +151,6 @@ El **ancho del pulso** es el que determina la **posición** a la que se moverá 
 # Ejemplo 2: Movimiento automático (Corazón)
 
 # Ejemplo 3: Movimiento retardado (Tortuga)
-
-## TODO
-* Señal general PWM (20ms) (50Hz)
-
-* Señal en posiciones 0, 45, 90, 75, 180
-
-# Borrador
-
-* Señales de control de servos: PWM
-* Controlador ServoBit
-* Ejemplo 1: Servo y pulsador
-* Ejemplo 2: Servo y corazón
-* Ejemplo 3: Retardando: tortuga
-
 
 # Ejercicios propuestos (X BitPoints)
 
