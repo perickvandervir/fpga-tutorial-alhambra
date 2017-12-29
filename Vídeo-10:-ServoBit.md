@@ -66,7 +66,9 @@ Un tipo de garra muy sencilla es la que lleva el [printbot Beetle](https://githu
 
 Es una pinza tipo **insecto**, formada por 3 piezas impresas y un microservo **Emax ES08A**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/robots-servo-03.png)
 
+El **dedo derecho** de la pinza está atornillado a la **cabeza** del microservo. A través de unos **dientes** transmite el movimiento al **dedo izquierdo** que está atornillado a una base que a su vez lo está al **cuerpo** del microservo
 
 
 ## Robot gusano Larby
