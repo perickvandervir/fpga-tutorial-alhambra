@@ -57,6 +57,16 @@ Los servos se utilizan mucho en **robots educativos** y de **investigación**. S
 
 Una aplicación muy sencilla y divertida es hacer diferentes **garras robóticas**, que se abran y cierren
 
+### Printbot Beetle
+
+Un tipo de garra muy sencilla es la que lleva el [printbot Beetle](https://github.com/bq/printbots/tree/master/Beetle), diseñado originalmente por **Jon Goitia**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/robots-servo-02.png)
+
+Es una pinza tipo **insecto**, formada por 3 piezas impresas y un microservo **Emax ES08A**
+
+
+
 
 ## Robot gusano Larby
 
