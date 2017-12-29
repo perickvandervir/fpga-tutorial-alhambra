@@ -117,7 +117,11 @@ Es un ejemplo de [Una configuración mínima](http://www.iearobotics.com/wiki/in
 
 ## Zowi
 
-[Zowi](https://github.com/JavierIH/zowi)
+Los servos se utilizan mucho en robots educativos, para implementar sus articulaciones. Un ejemplo es el robot [Zowi](https://github.com/JavierIH/zowi), creado por **Javier Isabel**. Utiliza cuatro servos **Futaba 3003** para el movimiento de sus piernas
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/robot-servos-10.png)
+
+
 
 TODO
 
