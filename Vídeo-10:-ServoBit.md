@@ -126,7 +126,7 @@ Es un robot **humaniforme**, que aunque sólo tiene 4 servos, puede realizar una
 
 [![Click to see the youtube video](http://img.youtube.com/vi/b2puPzjQ2Bo/0.jpg)](https://www.youtube.com/watch?v=b2puPzjQ2Bo&list=PLmnz0JqIMEzUKrrcKhBNfWbb1Th0o9tET)
 
-# Señal de control
+# Señal de control de los servos
 
 ## TODO
 * Señal general PWM (20ms) (50Hz)
