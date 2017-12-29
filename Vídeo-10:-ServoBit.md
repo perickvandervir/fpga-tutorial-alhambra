@@ -70,6 +70,10 @@ Es una pinza tipo **insecto**, formada por 3 piezas impresas y un microservo **E
 
 El **dedo derecho** de la pinza está atornillado a la **cabeza** del microservo. A través de unos **dientes** transmite el movimiento al **dedo izquierdo** que está atornillado a una base que a su vez lo está al **cuerpo** del microservo
 
+En esta **animación** se puede ver la garra en su dos posiciones extremas: abierta y cerrada
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/robots-servos-04.gif)
+
 
 ## Robot gusano Larby
 
