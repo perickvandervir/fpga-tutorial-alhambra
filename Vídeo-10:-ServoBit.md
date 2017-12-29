@@ -113,6 +113,10 @@ En este **vídeo** se puede ver su movimiento en acción, mediante un circuito q
 
 Es un ejemplo de [Una configuración mínima](http://www.iearobotics.com/wiki/index.php?title=MiniCube). Con sólo 2 módulos con conexión en vertical logramos generar movimiento. El módulo básico es el [REPYZ](http://www.iearobotics.com/wiki/index.php?title=M%C3%B3dulos_REPYZ), que tiene un **Futaba 3003** en su interior
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/robots-servos-09.jpg)
+
+## Zowi
+
 
 ## TODO
 
