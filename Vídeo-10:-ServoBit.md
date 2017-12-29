@@ -117,14 +117,7 @@ Es un ejemplo de [Una configuración mínima](http://www.iearobotics.com/wiki/in
 
 ## Zowi
 
-
-## TODO
-
-* Ejemplos de uso de servos:
-
-* Robots modulares (larby, modulos gz)
-* Zowi
-* Bettle
+TODO
 
 # Señal de control
 
