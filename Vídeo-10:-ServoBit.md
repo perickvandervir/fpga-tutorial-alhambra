@@ -87,6 +87,11 @@ En esta **animación** se puede ver la garra en acción
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/robots-servos-06.gif)
 
+### Pinza paralela
+
+
+
+
 ## Robot gusano Larby
 
 **Larby** es un [robot modular](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Tesis) tipo gusano formado por la unión de 2 [módulos REPYZ](http://www.iearobotics.com/wiki/index.php?title=M%C3%B3dulos_REPYZ)
