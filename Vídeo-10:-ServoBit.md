@@ -17,6 +17,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 * [Introducción a los servos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#introducci%C3%B3n-a-los-servos)
 * [Robots y servos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#robots-y-servos)
+  * [Garras robóticas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#garras-rob%C3%B3ticas)
 
 # Introducción a los servos
 
