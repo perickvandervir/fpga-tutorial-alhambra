@@ -107,7 +107,10 @@ Gracias a su **mecanismo del paralelogramo**, los dedos de agarre siempre perman
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/robots-servos-01.jpg)
 
-* https://www.youtube.com/watch?v=6I5Z70eewrg
+En este **vídeo** se puede ver su movimiento en acción, mediante un circuito que está metido en la **FPGA**
+
+[![Click to see the youtube video](http://img.youtube.com/vi/6I5Z70eewrg/0.jpg)](https://www.youtube.com/watch?v=6I5Z70eewrg)
+
 
 ## TODO
 
