@@ -169,6 +169,12 @@ Y esta es la foto de la **conexión real**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-alhambra-04.jpg)
 
+con los **detalles** de la conexión del conector hembra:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-alhambra-05.jpg)
+
+La ventaja de esta conexión es que es **directa**: basta con **enchufar el servo directamente**, sin usar otros cables. Esto es muy cómodo. Sin embargo, la señal de control de 3.3v que sale de la FPGA pasa primero por un **conversor de nivel de 3.3v a 5v** antes de llegar al servo. Y estos elementos de conversión son **muy vulnerables al ruido de alimentación**, de forma que pueden producir **pulsos espúreos** al arrancar/frenar los servos, notándose efectos extraños transitorios. Esto dependerá del tipo de servo usado y es un efecto un tanto **aleatorio**. Si se observa que el servo tiembla ligeramente cuando debería estar fijo en una posición, posiblemente será debido al efecto de los conversores. En ese caso, lo mejor es conectarlo directamente a los pines de 3.3v (puede haber efectos provocados por otras causas. Al probar con los pines de 3.3v eliminamos una de las posibles fuentes de problemas)
+
 # Controlador ServoBit
 
 # Ejemplo 1: Moviendo el servo con el pulsador
