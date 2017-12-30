@@ -25,6 +25,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Zowi](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#zowi)
 * [Señal de control de los servos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#se%C3%B1al-de-control-de-los-servos)
 * [Conectando servos a la Icezum Alhambra](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#conectando-servos-a-la-icezum-alhambra)
+  * [Conexion a pines de 3.3v](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#conexi%C3%B3n-a-pines-de-33v)
 
 # Introducción a los servos
 
