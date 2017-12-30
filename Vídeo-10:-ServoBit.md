@@ -138,9 +138,7 @@ El **ancho del pulso** es el que determina la **posición** a la que se moverá 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servo-pwm-02.png)
 
-## TODO
-
-* Señal en posiciones 0, 45, 90, 75, 180
+Los **valores exactos dependen del modelo de servo utilizado**. Lo importante es saber que el **ángulo** en el que se posiciona el servo es **directamente proporcional al tiempo del ancho del pulso**, y que este pulso se tiene que repetir periódicamente. Si se deja de repetir, el servo deja de ejercer fuerza y se puede mover con la mano a cualquier posición
 
 # Conectando servos a la Icezum Alhambra
 
