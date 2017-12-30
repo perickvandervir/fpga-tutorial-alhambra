@@ -156,6 +156,10 @@ Y esta es una foto de la **conexión real** a la Icezum Alhambra
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-alhambra-02.jpg)
 
+Las **ventajas** de conectar los servos a través de los pines de **3.3v** es que la señal de control **sale directamente de la FPGA**, sin pasar por ningún otro sitio. La desventaja es que el servo no se conecta directamente, sino que hay que hacerlo a través de **cables auxiliares**
+
+## Conexión a pines machos de 5v con alimentación y masa
+
 # Controlador ServoBit
 
 # Ejemplo 1: Moviendo el servo con el pulsador
