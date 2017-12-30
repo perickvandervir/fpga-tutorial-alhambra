@@ -147,7 +147,9 @@ Los servos se pueden conectar directamente a los **pines macho de 5v**, con alim
 
 ## Conexión a pines de 3.3v
 
+Aunque la **señal de control** de los servos es de **5v**, funcionan perfectamente si se conectan a los pines de **3.3v** (GPx).
 
+TODO
 
 # Controlador ServoBit
 
