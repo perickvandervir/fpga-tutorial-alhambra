@@ -154,7 +154,7 @@ Aunque la **señal de control** de los servos es de **5v**, funcionan perfectame
 Se necesitan **3 cables macho-hembra**. La **señal de control** se conecta directamente al **pin de 3.3v** (GP0 en esta imagen). La señal de **5v** se lleva a cualquiera de los **pines machos de 5v**, de color rojo. Y lo mismo con la **señal GND**, que se conecta a cualquiera de los **pines macho de GND**, de color negro
 Y esta es una foto de la **conexión real** a la Icezum Alhambra
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servo-alhambra-02.jpg)
 
 # Controlador ServoBit
 
