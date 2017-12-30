@@ -161,6 +161,8 @@ Las **ventajas** de conectar los servos a través de los pines de **3.3v** es qu
 
 ## Conexión a pines machos de 5v con alimentación y masa
 
+El **conector hembra del servo**, de tres hilos, lo conectamos a cualquiera de los **3 pines machos**, respectando la polaridad. En este ejemplo lo hemos conectado al **pin D13**
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-alhambra-03.png)
 
 # Controlador ServoBit
