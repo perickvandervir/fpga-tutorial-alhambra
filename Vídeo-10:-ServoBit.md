@@ -147,7 +147,7 @@ Los servos se pueden conectar directamente a los **pines macho de 5v**, con alim
 
 ## Conexión a pines de 3.3v
 
-Aunque la **señal de control** de los servos es de **5v**, funcionan perfectamente si se conectan a los pines de **3.3v** (GPx). Ejemplo de conexionado de un servo al pin GP0 de 3.3v se muestra en este esquema de Fritzing:
+Aunque la **señal de control** de los servos es de **5v**, funcionan perfectamente si se conectan a los pines de **3.3v** (GPx). Un ejemplo de conexionado de un servo al pin GP0 de 3.3v se muestra en este **esquema de Fritzing**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servo-alhambra-01.png)
 
