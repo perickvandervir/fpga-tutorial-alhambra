@@ -94,7 +94,7 @@ En esta **animación** se puede ver la garra en acción
 
 ### Pinza paralela
 
-Esta es una pinza que sus dos dedos siempre permanen paralelos, ejerciendo la misma presión. La [versión original](http://www.iearobotics.com/wiki/index.php?title=Freecad:_Pinza_mecanica) fue creada por **Obijuan** para mostrar el funcionamiento de este tipo de mecanismos. Posteriormente, **Javier Isabel** le añadió un microservo para abrir y cerrarla automáticamente 
+Esta es una pinza que sus dos dedos siempre permanen paralelos, ejerciendo la misma presión. La [versión original](http://www.iearobotics.com/wiki/index.php?title=Freecad:_Pinza_mecanica) la creé para mostrar el funcionamiento de este tipo de mecanismos. Posteriormente, **Javier Isabel** le añadió un microservo para abrir y cerrarla automáticamente 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/robots-servos-07.png)
 
@@ -124,7 +124,7 @@ Los servos se utilizan mucho en robots educativos, para implementar sus articula
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/robot-servos-10.png)
 
-Es un robot **humaniforme**, que aunque sólo tiene 4 servos, puede realizar una gran cantidad de movimientos diferentes. En esta [Lista de reproducción](https://www.youtube.com/watch?v=b2puPzjQ2Bo&list=PLmnz0JqIMEzUKrrcKhBNfWbb1Th0o9tET) se pueden ver muchos de los movimientos creados, por Obijuan, usando la [biblioteca de osciladores ardusnake](http://www.iearobotics.com/wiki/index.php?title=ArduSnake:_Arduino_Modular_Snake_Robots_Library)
+Es un robot **humaniforme**, que aunque sólo tiene 4 servos, puede realizar una gran cantidad de movimientos diferentes. En esta [Lista de reproducción](https://www.youtube.com/watch?v=b2puPzjQ2Bo&list=PLmnz0JqIMEzUKrrcKhBNfWbb1Th0o9tET) se pueden ver muchos de los movimientos que implementé usando la [biblioteca de osciladores ardusnake](http://www.iearobotics.com/wiki/index.php?title=ArduSnake:_Arduino_Modular_Snake_Robots_Library). Esta biblioteca la creé a partir de todo lo desarrollado en mi [tesis doctoral](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Tesis)
 
 [![Click to see the youtube video](http://img.youtube.com/vi/b2puPzjQ2Bo/0.jpg)](https://www.youtube.com/watch?v=b2puPzjQ2Bo&list=PLmnz0JqIMEzUKrrcKhBNfWbb1Th0o9tET)
 
