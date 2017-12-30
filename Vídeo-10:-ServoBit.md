@@ -165,6 +165,10 @@ El **conector hembra del servo**, de tres hilos, lo conectamos a cualquiera de l
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-alhambra-03.png)
 
+Y esta es la foto de la **conexión real**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/servos-alhambra-04.jpg)
+
 # Controlador ServoBit
 
 # Ejemplo 1: Moviendo el servo con el pulsador
