@@ -142,6 +142,12 @@ Los **valores exactos dependen del modelo de servo utilizado**. Lo importante es
 
 # Conectando servos a la Icezum Alhambra
 
+Los servos se pueden conectar directamente a los **pines macho de 5v**, con alimentación y masa, y también a los de **3.3v**
+
+## Conexión a pines de 3.3v
+
+
+
 # Controlador ServoBit
 
 # Ejemplo 1: Moviendo el servo con el pulsador
