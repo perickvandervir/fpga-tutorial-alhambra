@@ -215,7 +215,13 @@ El servo se pondrá en la **posición 0**. La cabeza no tiene porqué estar en l
 
 Al dejar el **pulsador apretado**, el servo se mueve 90 grados en sentido antihorario, colocándose en su nueva posición:
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-07.jpg)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-07.jpg). 
+
+Al **soltar el pulsador**, el servo vuelve a su posición original
+
+(animación)
+
+(circuito interior)
 
 # Ejemplo 2: Movimiento automático (Corazón)
 
