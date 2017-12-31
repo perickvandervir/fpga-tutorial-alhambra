@@ -193,6 +193,13 @@ La **mayoría de los servos** con compatibles con estos. Más adelante aprendere
 
 # Ejemplo 1: Moviendo un servo con el pulsador
 
+Empezamos por el ejemplo más **sencillo**: Un **servo** que se mueve de una posición a otra según cómo tengamos apretado el **pulsador SW1**. Utilizaremos un microservo **EMAX ES08A** conectado al **pin D0**
+
+Este circuito tiene **una entrada** y **una salida**. Comenzamos colocándolas, como ya sabemos y poniendo como etiquetas **PULSADOR** y **SERVO**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-03.png)
+
+
 # Ejemplo 2: Movimiento automático (Corazón)
 
 # Ejemplo 3: Movimiento retardado (Tortuga)
