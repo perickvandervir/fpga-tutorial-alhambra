@@ -184,6 +184,10 @@ Los servos los podemos colocar en **cualquier posición** dentro de su rango de 
 
 Al recibir un bit a **0** por su entrada, se posiciona en la **derecha**. La posición absoluta depende de cómo hayamos colocado su cabeza. Al recibir un **1** se mueve 90 grados en sentido antihorario
 
+Cada **modelo de servo** tiene unas **características** de la **señal de control** diferentes, por eso en la colección **Academia-Jedi-HW-10.zip** encontraremos tres controladores Servobits, uno para cada tipo de servo: **Futaba 3003**, **Emas ES08A** y **TowerPro SG-90**:
+
+
+
 TODO
 
 # Ejemplo 1: Moviendo el servo con el pulsador
