@@ -180,6 +180,8 @@ La ventaja de esta conexión es que es **directa**: basta con **enchufar el serv
 
 Los servos los podemos colocar en **cualquier posición** dentro de su rango de 180 grados. Sin embargo, vamos a empezar por lo más sencillo: haremos que los servos vayan sólo a **dos posiciones**, separadas un ángulo de **90 grados**. Usaremos el **controlador mínimo**: un bloque que tiene **una única entrada** y que según su valor se mueve el servo a una posición (0) o a otra (1). Es el componente que llamamos **ServoBit**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-01.png)
+
 TODO
 
 # Ejemplo 1: Moviendo el servo con el pulsador
