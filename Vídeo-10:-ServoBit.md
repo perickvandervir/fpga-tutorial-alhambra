@@ -203,7 +203,7 @@ Ahora colocamos el controlador ServoBit para el servo EMAX ES08A, que es el que 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-04.png)
 
-**Ponemos** el bloque y lo conectamos a los bloques de entrada y salida anteriores
+**Ponemos** el bloque y lo **conectamos** a los bloques de entrada y salida anteriores
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-05.png)
 
