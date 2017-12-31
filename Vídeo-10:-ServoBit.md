@@ -213,6 +213,10 @@ Ahora colocamos el controlador ServoBit para el servo EMAX ES08A, que es el que 
 
 El servo se pondrá en la **posición 0**. La cabeza no tiene porqué estar en la posición que se indica en la foto, ya que depende de la **orientación** con la que se haya colocado **inicialmente**
 
+Al dejar el **pulsador apretado**, el servo se mueve 90 grados en sentido antihorario, colocándose en su nueva posición:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-07.jpg)
+
 # Ejemplo 2: Movimiento automático (Corazón)
 
 # Ejemplo 3: Movimiento retardado (Tortuga)
