@@ -182,6 +182,8 @@ Los servos los podemos colocar en **cualquier posición** dentro de su rango de 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-01.png)
 
+Al recibir un bit a **0** por su entrada, se posiciona en la **derecha**. La posición absoluta depende de cómo hayamos colocado su cabeza. Al recibir un **1** se mueve 90 grados en sentido antihorario
+
 TODO
 
 # Ejemplo 1: Moviendo el servo con el pulsador
