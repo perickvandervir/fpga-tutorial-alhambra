@@ -217,9 +217,9 @@ Al dejar el **pulsador apretado**, el servo se mueve 90 grados en sentido antiho
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-07.jpg). 
 
-Al **soltar el pulsador**, el servo vuelve a su **posición original**
+Al **soltar el pulsador**, el servo vuelve a su **posición original**. En esta **animación** se muestra su funcionamiento
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-08.gif)
 
 (circuito interior)
 
