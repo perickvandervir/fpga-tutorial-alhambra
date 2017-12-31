@@ -199,7 +199,7 @@ Este circuito tiene **una entrada** y **una salida**. Comenzamos colocándolas, 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-03.png)
 
-Ahora colocamos el controlador ServoBit para el servo EMAX ES08A, que es el que usaremos. Se encuentra en el menú **Varios/Servos/EMAX-ES08A/ServoBit-90**
+Ahora colocamos el controlador ServoBit para el servo EMAX ES08A, que es el que usaremos. Se encuentra en el menú **Varios/Servos/EMAX-ES08A/ServoBit-90**. Asegurarse de que tenemos instalada y seleccionada la **colección del tutorial 10** (Academia-Jedi-HW-10.zip)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-04.png)
 
