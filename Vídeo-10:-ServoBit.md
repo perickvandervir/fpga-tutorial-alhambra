@@ -186,9 +186,9 @@ Al recibir un bit a **0** por su entrada, se posiciona en la **derecha**. La pos
 
 Cada **modelo de servo** tiene unas **características** de la **señal de control** diferentes, por eso en la colección **Academia-Jedi-HW-10.zip** encontraremos tres controladores Servobits, uno para cada tipo de servo: **Futaba 3003**, **Emas ES08A** y **TowerPro SG-90**:
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-02.png)
 
-
-TODO
+La **mayoría de los servos** con compatibles con estos. Más adelante aprenderemos a crear **nuestros propios controladores de servos**, para adaptarlos a los servos que tengamos. Pero de momento vamos a seguir aprendiendo cosas usando alguno de estos servos
 
 # Ejemplo 1: Moviendo el servo con el pulsador
 
