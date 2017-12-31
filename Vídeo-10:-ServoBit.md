@@ -207,7 +207,11 @@ Ahora colocamos el controlador ServoBit para el servo EMAX ES08A, que es el que 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-05.png)
 
+**Conectamos** el servo al pin **D0** y **cargamos** el circuito
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-06.jpg)
+
+El servo se pondrá en la **posición 0**. La cabeza no tiene porqué estar en la posición que se indica en la foto, ya que depende de la **orientación** con la que se haya colocado **inicialmente**
 
 # Ejemplo 2: Movimiento automático (Corazón)
 
