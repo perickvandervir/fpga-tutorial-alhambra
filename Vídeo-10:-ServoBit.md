@@ -230,6 +230,8 @@ El **pulsador SW1** está conectado **físicamente** a un pin de la FPGA, como y
 
 # Ejemplo 2: Conectando dos servos 
 
+Conectaremos **dos microservos Emax-ES08A** y haremos algunos experimentos con ellos
+
 ## Experimento 1: Dos servos iguales en fase
 
 # Ejemplo 3: Conectando tres servos
