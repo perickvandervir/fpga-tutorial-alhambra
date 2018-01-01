@@ -234,6 +234,8 @@ Conectaremos **dos microservos Emax-ES08A** y haremos algunos experimentos con e
 
 ## Experimento 1: Dos servos iguales en fase
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-2-servo-01.png)
+
 # Ejemplo 3: Conectando tres servos
 
 # Ejemplo 5: Movimiento automático (Corazón)
