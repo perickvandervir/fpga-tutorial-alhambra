@@ -29,7 +29,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Conexión a pines macho de 5v con alimentación y masa](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#conexi%C3%B3n-a-pines-machos-de-5v-con-alimentaci%C3%B3n-y-masa)
 * [Controlador ServoBit](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#controlador-servobit)
 * [Ejemplo 1: moviendo un servo con el pulsador](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#ejemplo-1-moviendo-un-servo-con-el-pulsador)
-* [Conectando dos servos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#ejemplo-2-conectando-dos-servos)
+* [Ejemplo 2: Conectando dos servos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#ejemplo-2-conectando-dos-servos)
 
 # Introducción a los servos
 
