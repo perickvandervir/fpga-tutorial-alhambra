@@ -18,24 +18,23 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | 8 | [Pines y LEDs externos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos) |
 | 9 | [Pulsadores y Entradas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas)  |
 | 10| [ServoBit](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit) (En Construcción...)    |
-| 11| Sonido    |
-| 12| Habilitando con AND  |
-| 13| Puladores externos |
-| 14| Switches externos |
-| 15| Sensor IR  |
-|16 | Temporizador |
-|17 | Puerta OR |
-|18 | Servos de rotación contínua |
-|19 | Funciones lógicas |
-|20 | Buses |
-|21 | Circuitos combinacionales |
-|22 | Multiplexor |
-|23 | Definiendo bloques |
-|24 | Biestables |
-|25 | Contando |
-|26 | Registros |
-|27 | Comparadores |
-|28 | ...
+| 11| Interruptores y pulsadores externos    |
+| 12| Habilitando. Puerta AND  |
+| 13| Sonido |
+| 14| Sensor IR  |
+|15 | Temporizador |
+|16 | Puerta OR |
+|17 | Servos de rotación contínua |
+|18 | Funciones lógicas |
+|19 | Buses |
+|20 | Circuitos combinacionales |
+|21 | Multiplexor |
+|22 | Definiendo bloques |
+|23 | Biestables |
+|24 | Contando |
+|25 | Registros |
+|26 | Comparadores |
+|27 | ...
 
 
 ## Academia Jedi de hardware
