@@ -227,9 +227,15 @@ El **circuito generado** es como el mostrado en siguiente diagrama:
 
 El **pulsador SW1** está conectado **físicamente** a un pin de la FPGA, como ya sabemos. Dentro de la FPGA está sintetizado nuestro circuito, que recibe los **valores del pulsador** como **entrada**, y genera de **salida** la **señal de control del Servo**, que físicamente se envía por una pista hasta el **conector D0**, donde está enchufado el **servo**
 
-# Ejemplo 2: Movimiento automático (Corazón)
+# Ejemplo 2: Dos servos gemelos
 
-# Ejemplo 3: Movimiento retardado (Tortuga)
+# Ejemplo 3: Dos servos independientes
+
+# Ejemplo 4: Tres servos
+
+# Ejemplo 5: Movimiento automático (Corazón)
+
+# Ejemplo 6: Movimiento retardado (Tortuga)
 
 # Ejercicios propuestos (X BitPoints)
 
