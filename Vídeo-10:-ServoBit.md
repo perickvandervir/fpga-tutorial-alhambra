@@ -29,6 +29,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Conexión a pines macho de 5v con alimentación y masa](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#conexi%C3%B3n-a-pines-machos-de-5v-con-alimentaci%C3%B3n-y-masa)
 * [Controlador ServoBit](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#controlador-servobit)
 * [Ejemplo 1: moviendo un servo con el pulsador](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#ejemplo-1-moviendo-un-servo-con-el-pulsador)
+* [Dos servos en Fase]()
 
 # Introducción a los servos
 
@@ -227,11 +228,11 @@ El **circuito generado** es como el mostrado en siguiente diagrama:
 
 El **pulsador SW1** está conectado **físicamente** a un pin de la FPGA, como ya sabemos. Dentro de la FPGA está sintetizado nuestro circuito, que recibe los **valores del pulsador** como **entrada**, y genera de **salida** la **señal de control del Servo**, que físicamente se envía por una pista hasta el **conector D0**, donde está enchufado el **servo**
 
-# Ejemplo 2: Dos servos gemelos
+# Ejemplo 2: Conectando dos servos 
 
-# Ejemplo 3: Dos servos independientes
+## Experimento 1: Dos servos iguales en fase
 
-# Ejemplo 4: Tres servos
+# Ejemplo 3: Conectando tres servos
 
 # Ejemplo 5: Movimiento automático (Corazón)
 
