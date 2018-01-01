@@ -221,7 +221,11 @@ Al **soltar el pulsador**, el servo vuelve a su **posición original**. En esta 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-08.gif)
 
-(circuito interior)
+El **circuito generado** es como el mostrado en siguiente diagrama:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-09.png)
+
+El **pulsador SW1** está conectado **físicamente** a un pin de la FPGA, como ya sabemos. Dentro de la FPGA está sintetizado nuestro circuito, que recibe los **valores del pulsador** como **entrada**, y genera de **salida** la **señal de control del Servo**, que físicamente se envía por una pista hasta el **conector D0**, donde está enchufado el **servo**
 
 # Ejemplo 2: Movimiento automático (Corazón)
 
