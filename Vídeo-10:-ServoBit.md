@@ -33,7 +33,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Ejemplo 2: Movimiento automático (Corazón)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#ejemplo-2-movimiento-autom%C3%A1tico-coraz%C3%B3n)
 * [Ejemplo 3: Movimiento retardado (Tortuga)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#ejemplo-3-movimiento-retardado-tortuga)
 https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#concatenando-tortugas
-** [Concatenando tortugas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#concatenando-tortugas)
+  * [Concatenando tortugas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#concatenando-tortugas)
 
 # Introducción a los servos
 
