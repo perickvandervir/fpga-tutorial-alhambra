@@ -261,6 +261,16 @@ En la animación las transiciones del servo son inmediatas (va de una posición 
 
 # Ejemplo 3: Movimiento retardado (Tortuga)
 
+**Modificaremos** el ejemplo anterior para que el **servo se mueva más lentamente**, estando el doble de tiempo en cada posición. Antes estaba **medio segundo**, ahora estará **1 segundo**
+
+**Eliminamos** el cable de conexión entre el corazón y el servoBit
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-3-servo-02.png)
+
+Introduciremos un **elemento nuevo** que sirve para **ralentizar** la señal del corazón: **La tortuga**
+
+(Foto)
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-3-servo-01.png)
 
 # Ejemplo 4: Moviendo dos servos
