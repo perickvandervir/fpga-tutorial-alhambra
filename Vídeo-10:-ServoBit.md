@@ -244,19 +244,17 @@ La señal de control del servo está enviando constantemente ceros y unos, pero 
 
 Puedes encontrar [más información sobre señales PWM en este post de Rincón Ingenieril](https://www.rinconingenieril.es/que-es-pwm-y-para-que-sirve/)
 
-# Ejemplo 2: Conectando dos servos 
+# Ejemplo 2: Movimiento automático (Corazón)
+
+# Ejemplo 3: Movimiento retardado (Tortuga)
+
+# Ejemplo 4: Moviendo dos servos
 
 Conectaremos **dos microservos Emax-ES08A** y haremos algunos experimentos con ellos
 
-## Experimento 1: Dos servos iguales en fase
+## Experimento 1: Dos servos iguales, en fase
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-2-servo-01.png)
-
-# Ejemplo 3: Conectando tres servos
-
-# Ejemplo 5: Movimiento automático (Corazón)
-
-# Ejemplo 6: Movimiento retardado (Tortuga)
 
 # Ejercicios propuestos (X BitPoints)
 
