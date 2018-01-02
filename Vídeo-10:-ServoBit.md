@@ -310,6 +310,11 @@ Vamos a empezar moviendo los dos servos usando **la misma señal de control**. S
 
 ## Experimento 2: Dos servos, cada uno con su controlador
 
+En este experimento controladores los dos servos con **controladores independientes**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-4-servo-04.png)
+
+El **resultado es el mismo que en el ejemplo anterior**: Al apretar el pulsador, los dos servos se **moverán igual**. La diferencia es que ahora **las señales de control se generan de manera independiente**. Esto nos permitirá (en el siguiente experimento) hacer que los servos arranquen en posiciones diferentes
 
 # Ejercicios propuestos (X BitPoints)
 
