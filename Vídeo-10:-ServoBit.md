@@ -286,7 +286,9 @@ Si queremos **ralentizar** el servo todavía más, podemos **añadir más tortug
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-3-servo-05.png)
 
-(animacion)
+**Cargamos** el circuito y observamos el funcionamiento. Ahora el servo permanece **2 segundos en cada posición**, mientra que los LEDs se alternan cada medio segundo
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-3-servo-06.gif)
 
 # Ejemplo 4: Moviendo dos servos
 
