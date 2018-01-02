@@ -232,7 +232,13 @@ El **pulsador SW1** está conectado **físicamente** a un pin de la FPGA, como y
 
 ## Experimento: Conectando un LED
 
+**Modificamos** el ejemplo anterior para sacar la **señal de control** del servo por el **LED7** para visualizarla
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-1-servo-10.png)
+
+Al cargar el circuito observamos que el servo se mueve a su posición 0 y el **LED7** se **enciende** un poquito. Al **apretar** el pulsador, el servo se mueve a la posición 1 y el LED **aumenta su intensidad** ligeramente. Al pulsar alternativamente el pulsador, podemos observar cómo la intensidad del LED aumenta y disminuye.
+
+La señal de control del servo está enviando constantemente ceros y unos, pero a una frecuencia de 50Hz que es muy alta para el ojo humano. En vez de observar un parpadeo, vemos una luz constante, pero con menor intensidad. La variación en la intensidad se debe al ancho del pulso. Cuanto mayor sea, más energía se está enviando al LED y más luminoso se percibe. Este tipo de señales, en las que la frecuencia permanece fija y se varía el ancho del pulso se denominan **señales PWM** (Pulse Width Modulation): **Modulación por anchura de pulso**
 
 # Ejemplo 2: Conectando dos servos 
 
