@@ -30,8 +30,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Controlador ServoBit](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#controlador-servobit)
 * [Ejemplo 1: moviendo un servo con el pulsador](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#ejemplo-1-moviendo-un-servo-con-el-pulsador)
   * [Experimento: Conectando un LED](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#experimento-conectando-un-led)
-* [Ejemplo 2: Conectando dos servos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#ejemplo-2-conectando-dos-servos)
-
+* [Ejemplo 2: Movimiento automático (Corazón)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#ejemplo-2-movimiento-autom%C3%A1tico-coraz%C3%B3n)
 
 # Introducción a los servos
 
