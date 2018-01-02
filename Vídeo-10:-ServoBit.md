@@ -275,6 +275,10 @@ Introduciremos un **elemento nuevo** que sirve para **ralentizar** la señal del
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-3-servo-01.png)
 
+**Cargamos** el circuito para ver su funcionamiento
+
+(Animación)
+
 # Ejemplo 4: Moviendo dos servos
 
 Conectaremos **dos microservos Emax-ES08A** y haremos algunos experimentos con ellos
