@@ -245,6 +245,8 @@ Puedes encontrar [más información sobre señales PWM en este post de Rincón I
 
 # Ejemplo 2: Movimiento automático (Corazón)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-2-servo-01.png)
+
 # Ejemplo 3: Movimiento retardado (Tortuga)
 
 # Ejemplo 4: Moviendo dos servos
