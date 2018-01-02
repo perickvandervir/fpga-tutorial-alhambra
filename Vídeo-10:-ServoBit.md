@@ -34,8 +34,8 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Ejemplo 3: Movimiento retardado (Tortuga)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#ejemplo-3-movimiento-retardado-tortuga)
   * [Concatenando tortugas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#concatenando-tortugas)
 * [Ejemplo 4: Moviendo dos servos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#ejemplo-4-moviendo-dos-servos)
-  * [Dos servos iguales, en fase](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#experimento-1-dos-servos-iguales-en-fase)
-  * [Dos servos, cada uno con su controlador](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#experimento-2-dos-servos-cada-uno-con-su-controlador)
+  * [Experimento 1: Dos servos iguales, en fase](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#experimento-1-dos-servos-iguales-en-fase)
+  * [Experimento 2: Dos servos, cada uno con su controlador](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#experimento-2-dos-servos-cada-uno-con-su-controlador)
 
 # Introducción a los servos
 
