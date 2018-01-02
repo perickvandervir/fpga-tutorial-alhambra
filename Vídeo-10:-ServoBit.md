@@ -251,7 +251,7 @@ Vamos a hacer que el servo se mueva de **una posición a otra**, de forma **auto
 
 Adicionalmente vamos a **conectar** la señal del corazón a los **LEDS 7** y **0** para ver cómo a la vez que se mueve el servo, los LEDs se mueven alternativamente. Esto es hardware, las cosas van en ***paralelo** :-)
 
-**Cargamos** el circuito en la placa, y se comportará como en esta animación:
+**Cargamos** el circuito en la placa. La señal de 1Hz que viene del corazón está **medio segundo** a **1**, y **medio segundo** a **0**, por lo que el servo estará medio segundo en una posición y medio segundo en la otra. El comportamiento lo vemos en esta animación:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-2-servo-02.gif)
 
