@@ -307,6 +307,8 @@ Vamos a empezar moviendo los dos servos usando **la misma señal de control**. S
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-4-servo-03.gif)
 
+## Experimento 2: Dos servos, cada uno con su controlador
+
 
 # Ejercicios propuestos (X BitPoints)
 
