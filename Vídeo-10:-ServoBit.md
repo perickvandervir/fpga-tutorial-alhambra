@@ -293,11 +293,13 @@ Si queremos **ralentizar** el servo todavía más, podemos **añadir más tortug
 
 # Ejemplo 4: Moviendo dos servos
 
-Conectaremos **dos microservos Emax-ES08A** y haremos algunos experimentos con ellos
+Conectaremos **dos microservos Emax-ES08A** y haremos algunos experimentos con ellos. Uno lo conectamos como en los ejemplos anteriores: directamente al **pin D0**. El otro lo conectamos al **pin GP0**, de 3.3v, para practicar la conexión a **3.3v**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-4-servo-02.png)
 
 ## Experimento 1: Dos servos iguales, en fase
+
+Vamos a empezar moviendo los dos servos usando **la misma señal de control**. Simplemente hay que tirar dos cables a la salida del Servobit: uno hacia cada pin donde están los servos: **D0** y **GP0**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-4-servo-01.png)
 
