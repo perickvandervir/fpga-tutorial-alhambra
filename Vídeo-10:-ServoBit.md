@@ -8,7 +8,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-Empezaremos a manejar **servos**, que son **actuadores** que nos permiten fijar una **posición** en su eje de salida. Se usan mucho en **robots educativos**. Se presenta el controlador más simple para moverlos: El **servoBit**, que permite posicionar el servo en **dos posiciones**, según el bit recibido por su entrada
+Empezaremos a manejar **servos**. Son **actuadores** cuyo **eje de salida** se puede fijar a una **posición** concreta. Se usan mucho en **robots educativos**, para implementar **pinzas** o **articulaciones**. Se presenta el controlador más simple para moverlos: El **servoBit**, que permite posicionar el servo en **dos posiciones**, según el bit recibido por su entrada
 
 # Colección
 
