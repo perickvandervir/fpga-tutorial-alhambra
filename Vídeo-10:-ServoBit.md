@@ -282,7 +282,11 @@ Introduciremos un **elemento nuevo** que sirve para **ralentizar** la señal del
 
 ## Concatenando tortugas
 
+Si queremos **ralentizar** el servo todavía más, podemos **añadir más tortugas** (tantas como queramos). Cada vez que se añade una, se **duplica el periodo** (la frecuencia se divide entre dos). En este circuito hay dos tortugas conectadas en serie, de manera que el periodo del corazón, de 1Hz, se **multiplica por 4**
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-3-servo-05.png)
+
+(animacion)
 
 # Ejemplo 4: Moviendo dos servos
 
