@@ -245,6 +245,8 @@ Puedes encontrar [más información sobre señales PWM en este post de Rincón I
 
 # Ejemplo 2: Movimiento automático (Corazón)
 
+Vamos a hacer que el servo se mueva de **una posición a otra**, de forma **automática**, a la velocidad de una vez por segundo. Es decir, cada segundo cambiará de posición. Esto lo implementamos conectando un **corazón de 1Hz** a la entrada del **servoBit**
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-2-servo-01.png)
 
 # Ejemplo 3: Movimiento retardado (Tortuga)
