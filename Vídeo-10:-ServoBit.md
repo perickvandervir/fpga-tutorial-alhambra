@@ -249,6 +249,12 @@ Vamos a hacer que el servo se mueva de **una posición a otra**, de forma **auto
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-2-servo-01.png)
 
+Adicionalmente vamos a **conectar** la señal del corazón a los **LEDS 7** y **0** para ver cómo a la vez que se mueve el servo, los LEDs se mueven alternativamente. Esto es hardware, las cosas van en ***paralelo** :-)
+
+**Cargamos** el circuito en la placa, y se comportará como en esta animación:
+
+(Animación)
+
 # Ejemplo 3: Movimiento retardado (Tortuga)
 
 # Ejemplo 4: Moviendo dos servos
