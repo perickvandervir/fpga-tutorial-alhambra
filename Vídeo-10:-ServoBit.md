@@ -328,7 +328,9 @@ En este experimento colocamos una **puerta NOT** para que los servos comiencen e
 
 **Inicialmente** un servo está en la **posición 0** y el otro en la**1**. Al **apretar el pulsador** se mueven a sus **posiciones contrarias**: el primero a la 1 y el segundo a la 0
 
-(Animación)
+**Cargamos** el circuito y lo probamos. En esta **animación** se puede ver el funcionamiento
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-4-servo-06.gif)
 
 # Ejercicios propuestos (X BitPoints)
 
