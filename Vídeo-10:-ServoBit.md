@@ -275,9 +275,9 @@ Introduciremos un **elemento nuevo** que sirve para **ralentizar** la señal del
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-3-servo-01.png)
 
-**Cargamos** el circuito para ver su funcionamiento
+**Cargamos** el circuito para ver su funcionamiento. Los **LEDs** siguen moviéndose alternativamente a la misma velocidad que en el ejemplo anterior: Cada **medio segundo cambian**. Sin embargo, la señal que llega al **Servobit** tiene un **periodo doble**: está durante **1** segundo a uno y durante otro segundo a **0**
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-3-servo-04.gif)
 
 # Ejemplo 4: Moviendo dos servos
 
