@@ -253,7 +253,9 @@ Adicionalmente vamos a **conectar** la señal del corazón a los **LEDS 7** y **
 
 **Cargamos** el circuito en la placa, y se comportará como en esta animación:
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-2-servo-02.gif)
+
+En la animación las transiciones del servo son inmediatas (va de una posición a otra en tiempo cero). Cuando se prueba en real, **el servo tarda unos milisegundos en alcanzar cada posición**, por lo que los LEDs van ligeramente **adelantados** con respecto al servo
 
 # Ejemplo 3: Movimiento retardado (Tortuga)
 
