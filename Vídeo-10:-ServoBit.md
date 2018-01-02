@@ -261,7 +261,7 @@ En la animación las transiciones del servo son inmediatas (va de una posición 
 
 # Ejemplo 3: Movimiento retardado (Tortuga)
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-2-servo-01.png)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-3-servo-01.png)
 
 # Ejemplo 4: Moviendo dos servos
 
