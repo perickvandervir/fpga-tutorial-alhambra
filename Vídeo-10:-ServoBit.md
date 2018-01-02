@@ -267,9 +267,11 @@ En la animación las transiciones del servo son inmediatas (va de una posición 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-3-servo-02.png)
 
-Introduciremos un **elemento nuevo** que sirve para **ralentizar** la señal del corazón: **La tortuga**
+Introduciremos un **elemento nuevo** que sirve para **ralentizar** la señal del corazón: **La tortuga**. Para colocarla nos vamos a la opción del menú: **Varios/Retardo/Tortuga-2**
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-3-servo-03.png)
+
+**Colocamos** la tortuga y conectamos el **corazón a su entrada**, y **la salida al servoBit**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-3-servo-01.png)
 
