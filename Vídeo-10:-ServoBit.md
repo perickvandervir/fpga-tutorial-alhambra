@@ -320,6 +320,8 @@ El **resultado es el mismo que en el ejemplo anterior**: Al apretar el pulsador,
 
 ## Experimento 3: Dos servos en posiciones contrarias
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-4-servo-05.png)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
