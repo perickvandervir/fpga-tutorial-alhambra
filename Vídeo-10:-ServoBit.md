@@ -334,6 +334,8 @@ En este experimento colocamos una **puerta NOT** para que los servos comiencen e
 
 ## Experimento 4: dos servos independientes
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-4-servo-07.png)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
