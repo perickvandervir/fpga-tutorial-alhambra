@@ -295,9 +295,14 @@ Si queremos **ralentizar** el servo todavía más, podemos **añadir más tortug
 
 Conectaremos **dos microservos Emax-ES08A** y haremos algunos experimentos con ellos
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-4-servo-02.png)
+
 ## Experimento 1: Dos servos iguales, en fase
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-4-servo-01.png)
+
+
+
 
 # Ejercicios propuestos (X BitPoints)
 
