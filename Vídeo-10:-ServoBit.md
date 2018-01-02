@@ -242,6 +242,8 @@ Al cargar el circuito observamos que el servo se mueve a su posición 0 y el **L
 
 La señal de control del servo está enviando constantemente ceros y unos, pero a una **frecuencia de 50Hz** que es **muy alta para el ojo humano**. En vez de observar un parpadeo, vemos una **luz constante**, pero con menor intensidad. La variación en la intensidad se debe al **ancho del pulso**. Cuanto mayor sea, más energía se está enviando al LED y **más luminoso se percibe**. Este tipo de señales, en las que la **frecuencia permanece fija** y se varía el ancho del pulso se denominan **señales PWM** (Pulse Width Modulation): **Modulación por anchura de pulso**
 
+Puedes encontrar [más información sobre señales PWM en este post de Rincón Ingenieril](https://www.rinconingenieril.es/que-es-pwm-y-para-que-sirve/)
+
 # Ejemplo 2: Conectando dos servos 
 
 Conectaremos **dos microservos Emax-ES08A** y haremos algunos experimentos con ellos
