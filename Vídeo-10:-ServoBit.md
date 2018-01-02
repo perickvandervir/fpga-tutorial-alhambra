@@ -334,7 +334,15 @@ En este experimento colocamos una **puerta NOT** para que los servos comiencen e
 
 ## Experimento 4: dos servos independientes
 
+En este último experimento colocaremos dos servos controlados de manera **independiente** con **pulsadores**
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-4-servo-07.png)
+
+Al apretar el **pulsador SW1** cambiamos la posición del servo **D0** y con el **pulsador SW2** la del servo **GP0**
+
+**Cargamos** el circuito. El funcionamiento se muestra en esta **animación**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-4-servo-08.gif)
 
 # Ejercicios propuestos (X BitPoints)
 
