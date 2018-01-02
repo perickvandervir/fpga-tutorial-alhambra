@@ -303,7 +303,9 @@ Vamos a empezar moviendo los dos servos usando **la misma señal de control**. S
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-4-servo-01.png)
 
+**Cargamos** el circuito en la placa. Ahora al apretar el **pulsador SW1** veremos cómo los dos servos se mueven a las mismas posiciones
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-4-servo-03.gif)
 
 
 # Ejercicios propuestos (X BitPoints)
