@@ -228,6 +228,10 @@ El **circuito generado** es como el mostrado en siguiente diagrama:
 
 El **pulsador SW1** está conectado **físicamente** a un pin de la FPGA, como ya sabemos. Dentro de la FPGA está sintetizado nuestro circuito, que recibe los **valores del pulsador** como **entrada**, y genera de **salida** la **señal de control del Servo**, que físicamente se envía por una pista hasta el **conector D0**, donde está enchufado el **servo**
 
+## Experimento: Conectando un LED
+
+
+
 # Ejemplo 2: Conectando dos servos 
 
 Conectaremos **dos microservos Emax-ES08A** y haremos algunos experimentos con ellos
