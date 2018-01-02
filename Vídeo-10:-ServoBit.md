@@ -352,6 +352,8 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 1** (Total **x Bitpoints**): 
 
+https://www.youtube.com/watch?v=dxh0fImkC4Q
+
 * **Ejercicio 2** (Total **x Bitpoints**): 
 
 * **Ejercicio 3** (Total **x Bitpoints**): 
