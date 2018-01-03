@@ -392,6 +392,14 @@ dos pulsadores, y montar un mini-pinball
 
 * [Vídeo en twitter](https://twitter.com/fcoladas/status/948595238339317763)
 
+### Ejercicio 2:
+
+* [Vídeo en Twitter](https://twitter.com/fcoladas/status/948595663813726208)
+
+### Ejercicio 3:
+
+* [Vídeo en Twitter](https://twitter.com/fcoladas/status/948596171794247682)
+
 ## Segundo
 
 ## Tercero
