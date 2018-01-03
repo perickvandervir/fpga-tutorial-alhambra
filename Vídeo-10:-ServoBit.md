@@ -362,6 +362,8 @@ https://www.youtube.com/watch?v=74imZ80poBk
 
 * **Ejercicio 3** (Total **x Bitpoints**): 
 
+https://www.youtube.com/watch?v=vmIwpy2r_V8
+
 * **Ejercicio 4** (**2 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
