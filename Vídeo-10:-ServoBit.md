@@ -390,17 +390,23 @@ dos pulsadores, y montar un mini-pinball
 
 ### Ejercicio 1:
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/entregas/Ej-1-coladas-2.png)
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/entregas/Ej-1-coladas.png)
 
 * [Vídeo en twitter](https://twitter.com/fcoladas/status/948595238339317763)
 
 ### Ejercicio 2:
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/entregas/Ej-2-coladas-2.png)
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/entregas/Ej-2-coladas.png)
 
 * [Vídeo en Twitter](https://twitter.com/fcoladas/status/948595663813726208)
 
 ### Ejercicio 3:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/entregas/Ej-3-coladas-2.png)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/entregas/Ej-3-coladas.png)
 
