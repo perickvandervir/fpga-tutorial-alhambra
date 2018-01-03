@@ -346,25 +346,25 @@ Al apretar el **pulsador SW1** cambiamos la posición del servo **D0** y con el 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-4-servo-08.gif)
 
-# Ejercicios propuestos (11 BitPoints)
+# Ejercicios propuestos (16 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **x Bitpoints**): 
+* **Ejercicio 1** (Total **5 Bitpoints**): 
 
 https://www.youtube.com/watch?v=dxh0fImkC4Q
 
-* **Ejercicio 2** (Total **x Bitpoints**): 
+* **Ejercicio 2** (Total **3 Bitpoints**): 
 
 https://www.youtube.com/watch?v=74imZ80poBk
 
-* **Ejercicio 3** (Total **x Bitpoints**): 
+* **Ejercicio 3** (Total **5 Bitpoints**): 
 
 https://www.youtube.com/watch?v=vmIwpy2r_V8
 
-* **Ejercicio 4** (**2 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
+* **Ejercicio 4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
 
