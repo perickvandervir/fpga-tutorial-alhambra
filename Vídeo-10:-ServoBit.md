@@ -419,20 +419,19 @@ dos pulsadores, y montar un mini-pinball
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-10/fgcoca/Ejercicio-1/Ejercicio10_1-P.png)
 
-![](https://www.youtube.com/watch?v=HOzMxTWtJIg)
+* [Vídeo en Youtube](https://www.youtube.com/watch?v=HOzMxTWtJIg)
 
 ### Ejercicio 2
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-10/fgcoca/Ejercicio-2/Ejercicio10_2-P.png)
 
-![](https://www.youtube.com/watch?v=_5mqRpfqW9I)
+* [Vídeo en Youtube](https://www.youtube.com/watch?v=_5mqRpfqW9I)
 
 ### Ejercicio 3
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-10/fgcoca/Ejercicio-3/Ejercicio10_3-P.png)
 
-![](https://www.youtube.com/watch?v=Es4T6OXkw5A)
-
+[Vídeo en Youtube](https://www.youtube.com/watch?v=Es4T6OXkw5A)
 
 
 ## Tercero
