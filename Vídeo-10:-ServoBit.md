@@ -395,7 +395,8 @@ https://www.youtube.com/watch?v=vmIwpy2r_V8
 
 # Créditos y agradecimientos
 
-* Jon Goitia es el autor original del [printbot Beetle](https://github.com/bq/printbots/tree/master/Beetle)
+* **Jon Goitia** es el autor original del [printbot Beetle](https://github.com/bq/printbots/tree/master/Beetle)
+* **Javier Isabel** es el autor de la [Ultimate Gripper](https://github.com/bqlabs/mechatronics/tree/master/grippers/ultimate_gripper)
 
 # Enlaces
 
@@ -406,6 +407,7 @@ https://www.youtube.com/watch?v=vmIwpy2r_V8
 * [Icestudio](https://github.com/FPGAwars/icestudio)
 * [Monedas Bit imprimibles](https://github.com/Obijuan/3D-parts/wiki/Monedas-Bit)
 * [Printbot Beetle](https://github.com/bq/printbots/tree/master/Beetle)
+* [Ultimate Gripper](https://github.com/bqlabs/mechatronics/tree/master/grippers/ultimate_gripper)
 
 # FAQs
 
