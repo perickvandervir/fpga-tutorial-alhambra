@@ -345,7 +345,7 @@ Al apretar el **pulsador SW1** cambiamos la posición del servo **D0** y con el 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/ejemplo-4-servo-08.gif)
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (11 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
