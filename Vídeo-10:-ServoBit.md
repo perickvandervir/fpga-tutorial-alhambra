@@ -2,7 +2,7 @@
 
 # Vídeo
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/l1p-S1jtcP0/0.jpg)](https://www.youtube.com/watch?v=l1p-S1jtcP0&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=10)
 
 Haz click en la imagen para ver el **vídeo en Youtube**
 
