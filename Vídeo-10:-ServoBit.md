@@ -420,7 +420,13 @@ dos pulsadores, y montar un mini-pinball
 
 ### Ejercicio 2
 
+![](https://www.youtube.com/watch?v=_5mqRpfqW9I)
+
 ### Ejercicio 3
+
+![](https://www.youtube.com/watch?v=Es4T6OXkw5A)
+
+
 
 ## Tercero
 
