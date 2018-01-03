@@ -395,6 +395,8 @@ https://www.youtube.com/watch?v=vmIwpy2r_V8
 
 # Créditos y agradecimientos
 
+* Jon Goitia es el autor original del [printbot Beetle](https://github.com/bq/printbots/tree/master/Beetle)
+
 # Enlaces
 
 * [Repositorio con las colecciones de la Academia Jedi de Hardware](https://github.com/Obijuan/Academia-Jedi-Hw)
@@ -403,6 +405,7 @@ https://www.youtube.com/watch?v=vmIwpy2r_V8
 * Documentación de la Icezum Alhambra:  ([PNG](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/icezum-pinout.png))([SVG](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/Icezum-alhambra-pinout.svg))([PDF](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/icezum-pinout.pdf)) 
 * [Icestudio](https://github.com/FPGAwars/icestudio)
 * [Monedas Bit imprimibles](https://github.com/Obijuan/3D-parts/wiki/Monedas-Bit)
+* [Printbot Beetle](https://github.com/bq/printbots/tree/master/Beetle)
 
 # FAQs
 
