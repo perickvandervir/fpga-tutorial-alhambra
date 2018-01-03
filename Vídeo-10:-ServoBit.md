@@ -403,6 +403,7 @@ https://www.youtube.com/watch?v=vmIwpy2r_V8
 # Enlaces
 
 * [Repositorio con las colecciones de la Academia Jedi de Hardware](https://github.com/Obijuan/Academia-Jedi-Hw)
+* [Repositorio con los iconos SVG de los bloques de Icestudio](https://github.com/FPGAwars/Icestudio-block-icons/wiki)
 * [BricoGeek](http://tienda.bricogeek.com/). Tienda Friki donde comprar componentes electrónicos
 * [Repositorio de la Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki)
 * Documentación de la Icezum Alhambra:  ([PNG](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/icezum-pinout.png))([SVG](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/Icezum-alhambra-pinout.svg))([PDF](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/icezum-pinout.pdf)) 
