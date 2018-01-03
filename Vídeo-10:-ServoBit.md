@@ -396,7 +396,7 @@ https://www.youtube.com/watch?v=vmIwpy2r_V8
 # Créditos y agradecimientos
 
 * **Jon Goitia** es el autor original del [printbot Beetle](https://github.com/bq/printbots/tree/master/Beetle)
-* **Javier Isabel** es el autor de la [Ultimate Gripper](https://github.com/bqlabs/mechatronics/tree/master/grippers/ultimate_gripper)
+* [Javier Isabel](https://github.com/JavierIH) es el autor de la [Ultimate Gripper](https://github.com/bqlabs/mechatronics/tree/master/grippers/ultimate_gripper)
 
 # Enlaces
 
