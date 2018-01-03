@@ -12,7 +12,7 @@ Empezaremos a manejar **servos**. Son **actuadores** cuyo **eje de salida** se p
 
 # Colección
 
-**Academia-Jedi-HW-10.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-10.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-10/Collection/Academia-Jedi-HW-10.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
