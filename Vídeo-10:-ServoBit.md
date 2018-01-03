@@ -398,6 +398,7 @@ https://www.youtube.com/watch?v=vmIwpy2r_V8
 * **Jon Goitia** es el autor original del [printbot Beetle](https://github.com/bq/printbots/tree/master/Beetle)
 * [Javier Isabel](https://github.com/JavierIH) es el autor de la [Ultimate Gripper](https://github.com/bqlabs/mechatronics/tree/master/grippers/ultimate_gripper)
 * [Javier Isabel](https://github.com/JavierIH) modificó la [Pinza paralela](http://www.iearobotics.com/wiki/index.php?title=Freecad:_Pinza_mecanica) para incluir un servo y que se pueda abrir/cerrar automáticamente
+* [Javier Isabel](https://github.com/JavierIH) es el autor original del [Robot Educativo Zowi](https://github.com/JavierIH/zowi)
 
 # Enlaces
 
@@ -410,6 +411,7 @@ https://www.youtube.com/watch?v=vmIwpy2r_V8
 * [Printbot Beetle](https://github.com/bq/printbots/tree/master/Beetle)
 * [Ultimate Gripper](https://github.com/bqlabs/mechatronics/tree/master/grippers/ultimate_gripper)
 * [Pinza paralela](http://www.iearobotics.com/wiki/index.php?title=Freecad:_Pinza_mecanica)
+* [Robot Educativo Zowi](https://github.com/JavierIH/zowi)
 
 # FAQs
 
