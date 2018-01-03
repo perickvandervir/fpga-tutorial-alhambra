@@ -39,7 +39,7 @@ Empezaremos a manejar **servos**. Son **actuadores** cuyo **eje de salida** se p
   * [Experimento 2: Dos servos, cada uno con su controlador](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#experimento-2-dos-servos-cada-uno-con-su-controlador)
   * [Experimento 3: Dos servos, en posiciones contrarias](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#experimento-3-dos-servos-en-posiciones-contrarias)
   * [Dos servos independientes](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#experimento-4-dos-servos-independientes)
-* [Ejercicios propuestos (11 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#ejercicios-propuestos-11-bitpoints)
+* [Ejercicios propuestos (16 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit#ejercicios-propuestos-16-bitpoints)
 
 # Introducción a los servos
 
