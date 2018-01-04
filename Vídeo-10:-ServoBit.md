@@ -441,6 +441,15 @@ dos pulsadores, y montar un mini-pinball
 
 [![Click to see the youtube video](http://img.youtube.com/vi/Es4T6OXkw5A/0.jpg)](https://www.youtube.com/watch?v=Es4T6OXkw5A)
 
+
+## Ejercicio 4
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-10/fgcoca/Ejercicio-4/Ejercicio10_4-P.png)
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi/U24dySk8IdU/0.jpg)](https://www.youtube.com/watch?v=U24dySk8IdU)
+
 ## Jorge Lobo (Lobotic)
 
 ### Ejercicio 1
