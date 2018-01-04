@@ -440,9 +440,20 @@ dos pulsadores, y montar un mini-pinball
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-10/Lobotic/Lobotic-1.png)
 
+* **Vídeo** en Youtube:
+
 [![Click to see the youtube video](http://img.youtube.com/vi/VqwTq2PTGg0/0.jpg)](https://www.youtube.com/watch?v=VqwTq2PTGg0&index=9&list=PLnF9ECU09HoibTxYCwFLZe6k_yqC5L9hT)
 
+### Ejercicio 2
 
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-10/Lobotic/lobotic-2.png)
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi/TMjkeKb9H8A/0.jpg)](https://www.youtube.com/watch?v=TMjkeKb9H8A&index=8&list=PLnF9ECU09HoibTxYCwFLZe6k_yqC5L9hT)
+
+
+### Ejercicio 3
 
 # Autor
 
