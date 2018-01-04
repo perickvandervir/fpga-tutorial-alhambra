@@ -433,8 +433,14 @@ dos pulsadores, y montar un mini-pinball
 
 [Vídeo en Youtube](https://www.youtube.com/watch?v=Es4T6OXkw5A)
 
+## Jorge Lobo (Lobotic)
 
-## Tercero
+### Ejercicio 1
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-10/Lobotic/Lobotic-1.png)
+
+[![Click to see the youtube video](http://img.youtube.com/vi/VqwTq2PTGg0/0.jpg)](https://www.youtube.com/watch?v=VqwTq2PTGg0&index=9&list=PLnF9ECU09HoibTxYCwFLZe6k_yqC5L9hT)
+
 
 
 # Autor
