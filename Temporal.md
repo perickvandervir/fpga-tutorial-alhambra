@@ -76,6 +76,9 @@ Hay mucha información en internet. En su momento hice este Tutorial: [Github y 
 
 Eso es debido a que se han metido restos de flux y no hacen buen contacto. En el apartado [¡No me funcionan los pulsadores!](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas#no-me-funcionan-los-pulsadores) del Tutorial 9 se indica cómo solucionarlo fácilmente
 
+* **¿Dónde puedo encontrar más información sobre las señales PWM?**
+
+Echa un vistazo a [este post de Rincón Ingenieril](https://www.rinconingenieril.es/que-es-pwm-y-para-que-sirve/) sobre el tema
 
 
 
