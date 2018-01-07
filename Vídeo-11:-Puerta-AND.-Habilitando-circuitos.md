@@ -21,8 +21,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 -Pantallazo nivel 1 circuit scramble  
   -Explicación básica puertas AND  
--Meter puerta AND en colección 11b  
--Meter icono puerta AND en repo iconos  
+-Meter puerta AND en colección 11  
 -Puerta AND  
   -Símbolo básico  
   -Funcionamiento de la puerta, gráficamente, con símbolo y bits  
