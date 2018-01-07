@@ -19,35 +19,35 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # TODO
 
--Pantallazo nivel 1 circuit scramble
-  -Explicación básica puertas AND
--Meter puerta AND en colección 11b
--Meter icono puerta AND en repo iconos
--Puerta AND
-  -Símbolo básico
-  -Funcionamiento de la puerta, gráficamente, con símbolo y bits
-  -Explicación de la activación de la salida
--Tabla de verdad gráfica
--Ejemplo: Pulsadores y AND
-  -Explicación con dibujo de los pulsadores
-  -animación
+-Pantallazo nivel 1 circuit scramble  
+  -Explicación básica puertas AND  
+-Meter puerta AND en colección 11b  
+-Meter icono puerta AND en repo iconos  
+-Puerta AND  
+  -Símbolo básico  
+  -Funcionamiento de la puerta, gráficamente, con símbolo y bits  
+  -Explicación de la activación de la salida  
+-Tabla de verdad gráfica  
+-Ejemplo: Pulsadores y AND  
+  -Explicación con dibujo de los pulsadores  
+  -animación  
 
--Ejemplo 2: Habilitando / Deshabilitando una señal
+-Ejemplo 2: Habilitando / Deshabilitando una señal  
   -Exp1: Partimos de circuito con corazon 4Hz y led.  Añadimos un pulsador para habilitar/deshabilitara
-     (Animación)
-   -Funcionamiento de la habilitación (con animación)
-  -Exp2: Puertas not para cambiar estado inicial LED
-  -Exp3: comportamiento contrario (not antes de la AND)
+     (Animación)  
+   -Funcionamiento de la habilitación (con animación)  
+  -Exp2: Puertas not para cambiar estado inicial LED  
+  -Exp3: comportamiento contrario (not antes de la AND)  
 
--Ejemplo 3: Modulación. Emisión periódica de ráfagas
+-Ejemplo 3: Modulación. Emisión periódica de ráfagas  
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (X BitPoints)  
 
-Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
+Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial  
+ 
+**Resumen**:  
 
-**Resumen**:
-
-* **Ejercicio 1** (Total **x Bitpoints**): 
+* **Ejercicio 1** (Total **x Bitpoints**):  
 
 * **Ejercicio 2** (Total **x Bitpoints**): 
 
