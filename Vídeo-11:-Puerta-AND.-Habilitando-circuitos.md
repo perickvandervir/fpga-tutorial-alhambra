@@ -51,7 +51,6 @@ Aunque la palabra AND se omite. En los bloques que usamos en Icestudio la manten
 # TODO
 
 -Puerta AND  
-  -Símbolo básico  
   -Funcionamiento de la puerta, gráficamente, con símbolo y bits  
   -Explicación de la activación de la salida  
 -Tabla de verdad gráfica  
