@@ -23,6 +23,10 @@ Vamos a aprender a manejar un elemento nuevo que nos permite **manipular bits**:
 
 Las puertas AND tiene **dos entradas** y **una salida**. Inicialmente, los botones están **sin pulsar**, por lo que por las **entradas** están a **0**. Y la salida también a **0**
 
+Al **activar el pulsador**, una de las entradas se pone a **1**, pero la otra sigue estándo a **0**, por lo que la **salida** también está a **0**. No se activa
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Circuit-scramble-N1-01.png)
+
 # TODO
 
 -Pantallazo nivel 1 circuit scramble  
