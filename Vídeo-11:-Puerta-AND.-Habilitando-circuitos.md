@@ -17,6 +17,10 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
+Vamos a aprender a manejar un elemento nuevo que nos permite **manipular bits**: la puerta **AND**. En realidad ya la conocemos, del juego del **ircuito Scramble**. En el **nivel 1** había 3 puertas AND. Nos fijamos sólo en la que está conectada a los **dos pulsadores** de la izquierda
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Circuit-scramble-N1-00.png)
+
 # TODO
 
 -Pantallazo nivel 1 circuit scramble  
