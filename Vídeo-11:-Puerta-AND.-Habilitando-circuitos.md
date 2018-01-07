@@ -15,6 +15,8 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Contenido
 
+* [Introducción](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-11:-Puerta-AND.-Habilitando-circuitos#introducci%C3%B3n)
+
 # Introducción
 
 Vamos a aprender a manejar un elemento nuevo que nos permite **manipular bits**: la puerta **AND**. En realidad ya la conocemos, del juego del **ircuito Scramble**. En el **nivel 1** había **3** puertas AND. Nos fijamos sólo en una: la que está conectada a los **dos pulsadores** de la izquierda
