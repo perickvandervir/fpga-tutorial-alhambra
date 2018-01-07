@@ -35,13 +35,18 @@ En esta **animación** vemos lo que ocurre en **todos los casos posibles**: Ning
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Circuit-scramble-anim.gif)
 
-El **funcionamiento** es fácil de intuir: sólo cuando están **activas las dos entradas**, la **salida se activa**. De lo contrario permanecerá desactivada (0)
+El **funcionamiento** es fácil de intuir: sólo cuando están **activas las dos entradas**, la **salida se activa**. De lo contrario permanecerá desactivada (0). O visto de otra manera: siempre que alguna entrada esté desactivada (0), la salida estará desactivada (0)
 
+## La puerta AND
+
+La **AND** es una de las tres **puertas lógicas básicas**, que nos permiten **manipular** y **combinar bits**. El **símbolo** usado para su representación en los circuitos digitales es este:
+
+(Dibujo)
+
+Aunque la palabra AND se omite. En los bloques que usamos en Icestudio la mantendremos para que sea más fácil reconocerla
 
 # TODO
 
--Pantallazo nivel 1 circuit scramble  
-  -Explicación básica puertas AND  
 -Puerta AND  
   -Símbolo básico  
   -Funcionamiento de la puerta, gráficamente, con símbolo y bits  
