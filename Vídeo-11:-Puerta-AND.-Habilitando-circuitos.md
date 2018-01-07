@@ -27,6 +27,11 @@ Al **activar el pulsador**, una de las entradas se pone a **1**, pero la otra si
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Circuit-scramble-N1-01.png)
 
+Al **activar el segundo pulsador**, se introduce también un **1** por la segunda y **entrada** y ahora sí, **la puerta AND se abre** y sale un **1** por la **salida**. Decimos que **la puerta se ha activado**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Circuit-scramble-N1-02.png)
+
+
 # TODO
 
 -Pantallazo nivel 1 circuit scramble  
