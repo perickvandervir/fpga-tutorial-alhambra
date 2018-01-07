@@ -17,9 +17,11 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
-Vamos a aprender a manejar un elemento nuevo que nos permite **manipular bits**: la puerta **AND**. En realidad ya la conocemos, del juego del **ircuito Scramble**. En el **nivel 1** había 3 puertas AND. Nos fijamos sólo en la que está conectada a los **dos pulsadores** de la izquierda
+Vamos a aprender a manejar un elemento nuevo que nos permite **manipular bits**: la puerta **AND**. En realidad ya la conocemos, del juego del **ircuito Scramble**. En el **nivel 1** había **3** puertas AND. Nos fijamos sólo en una: la que está conectada a los **dos pulsadores** de la izquierda
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Circuit-scramble-N1-00.png)
+
+Las puertas AND tiene **dos entradas** y **una salida**. Inicialmente, los botones están **sin pulsar**, por lo que por las **entradas** están a **0**. Y la salida también a **0**
 
 # TODO
 
