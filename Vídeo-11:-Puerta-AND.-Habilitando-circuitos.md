@@ -31,6 +31,12 @@ Al **activar el segundo pulsador**, se introduce también un **1** por la segund
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Circuit-scramble-N1-02.png)
 
+En esta **animación** vemos lo que ocurre en **todos los casos posibles**: Ningúna entrada activada, sólo la de la izquierda, las dos dos y sólo la de la derecha
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Circuit-scramble-anim.gif)
+
+El **funcionamiento** es fácil de intuir: sólo cuando están **activas las dos entradas**, la **salida se activa**. De lo contrario permanecerá desactivada (0)
+
 
 # TODO
 
