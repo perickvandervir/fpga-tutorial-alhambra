@@ -512,6 +512,7 @@ dos pulsadores, y montar un mini-pinball
 * [Ultimate Gripper](https://github.com/bqlabs/mechatronics/tree/master/grippers/ultimate_gripper)
 * [Pinza paralela](http://www.iearobotics.com/wiki/index.php?title=Freecad:_Pinza_mecanica)
 * [Robot Educativo Zowi](https://github.com/JavierIH/zowi)
+* [Qué es PWM y para qué sirve](https://www.rinconingenieril.es/que-es-pwm-y-para-que-sirve/). Entrada en el bloq de **Rincón Ingenieril**
 
 # FAQs
 
