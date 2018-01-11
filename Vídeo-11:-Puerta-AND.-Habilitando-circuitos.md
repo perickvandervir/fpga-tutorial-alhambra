@@ -48,6 +48,12 @@ La **AND** es una de las tres **puertas lógicas básicas**, que nos permiten **
 
 Aunque la palabra AND se omite. En los bloques que usamos en Icestudio la mantendremos para que sea más fácil reconocerla
 
+La puerta AND tiene **dos entradas** y **una salida**. La manera de describir su funcionamiento es mostrando su **respuesta** a **todas las posibles entradas**:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/puerta-and-02.png)
+
+Cuando llega a un 1 por una entrada, decimos que **la entrada está activada**, y cuando sale un 1 decimos que **la puerta AND se activa**. Observando todos los casos, vemos que **la puerta AND se activa** cuando su **entrada superir está activada** Y su e**ntrada inferior también**. La operación que realiza es un "Y", y su interpretación es: "Activo la salida si esto está activado Y esto está activado"
+
 # TODO
 
 -Puerta AND  
