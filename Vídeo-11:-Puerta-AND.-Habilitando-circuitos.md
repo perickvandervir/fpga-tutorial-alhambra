@@ -63,6 +63,8 @@ El **funcionamiento** de las **puertas lógicas**, así como el de los **circuit
 
 En una puerta AND con dos entradas, sólo hay **4 combinaciones posibles** de las entradas, por eso la tabla tiene **4 filas**. En la **izquierda** están las **entradas** y a la **derecha** la **salida**
 
+# Ejemplo 1: Pulsadores y puerta AND
+
 # TODO
 
 -Ejemplo: Pulsadores y AND  
