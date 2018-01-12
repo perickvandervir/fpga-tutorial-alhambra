@@ -142,7 +142,13 @@ Este es lo que tenemos cuando el **pulsador NO está apretado**. La salida del c
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/habilitacion-03.png)
 
-Ahora analizamos el caso en el que el **pulsador está apretado**.
+Ahora analizamos el caso en el que el **pulsador está apretado**. Se corresponde con las filas 1 y 3
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/habilitacion-04.png)
+
+En la **fila 1**, vemos que el corazón está a **0**, y por la salida sale un **0**. En la **fila 3** vemos que el corazón está a **1**, y por la salida se obtiene un **1**. Es decir, que lo que sale por la AND es **la señal del corazón**
+
+
 
 ## Todo
 
