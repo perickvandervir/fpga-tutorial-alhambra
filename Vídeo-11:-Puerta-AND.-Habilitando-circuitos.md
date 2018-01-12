@@ -130,7 +130,9 @@ Ahora queremos poder **controlar la ráfaga**, **habilitándola** sólo cuando s
 
 # Funcionamiento de la habilitación
 
-Nos basaremos en el ejemplo anterior para explicar **cómo funciona la habilitación**. 
+Nos basaremos en el ejemplo anterior para explicar **cómo funciona la habilitación**. Su funcionamiento está descrito por la **tabla de verdad** de la puerta AND, que es esta:
+
+(tabla)
 
 ## Todo
 
