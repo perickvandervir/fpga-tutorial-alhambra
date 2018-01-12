@@ -142,6 +142,8 @@ Este es lo que tenemos cuando el **pulsador NO está apretado**. La salida del c
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/habilitacion-03.png)
 
+Ahora analizamos el caso en el que el **pulsador está apretado**.
+
 ## Todo
 
   -Funcionamiento de la habilitación 
