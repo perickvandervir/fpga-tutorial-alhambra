@@ -106,15 +106,17 @@ En esta **animación** se puede ver el funcionamiento de todos los casos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-1-anim.gif)
 
+# Ejemplo 2: Habilitando / Deshabilitando una señal
 
-# TODO  
 
--Ejemplo 2: Habilitando / Deshabilitando una señal  
-  -Exp1: Partimos de circuito con corazon 4Hz y led.  Añadimos un pulsador para habilitar/deshabilitara
+## Todo
+-Exp1: Partimos de circuito con corazon 4Hz y led.  Añadimos un pulsador para habilitar/deshabilitara
      (Animación)  
    -Funcionamiento de la habilitación (con animación)  
   -Exp2: Puertas not para cambiar estado inicial LED  
   -Exp3: comportamiento contrario (not antes de la AND)  
+
+# TODO  
 
 -Ejemplo 3: Modulación. Emisión periódica de ráfagas  
 
