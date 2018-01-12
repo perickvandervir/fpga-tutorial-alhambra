@@ -88,6 +88,11 @@ Lo **cargamos** en la placa para probarlo. Inicialmente, como están los dos pul
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-1-and-05.png)
 
+Si apretamos el **pulsador izquierdo**, el LED 0 seguirá estando **apagado**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-1-and-06.png)
+
+
 TODO
 
   -Explicación con dibujo de los pulsadores  
