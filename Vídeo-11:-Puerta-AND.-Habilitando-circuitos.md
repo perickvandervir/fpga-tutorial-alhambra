@@ -72,6 +72,9 @@ Colocamos **dos bloques de entrada** en la parte izquierda, y **un bloque salida
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-1-and-01.png)
 
+La puerta AND se encuentra en el menú **Puertas/and**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-1-and-02.png)
 
   -Explicación con dibujo de los pulsadores  
   -animación
