@@ -154,11 +154,14 @@ En este caso, el **circuito equivalente** es este:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/habilitacion-06.png)
 
-# TODO  
+# Ejemplo 3: Combinando con puertas NOT
+
+## TODO  
   -Exp2: Puertas not para cambiar estado inicial LED  
   -Exp3: comportamiento contrario (not antes de la AND)  
 
--Ejemplo 3: Modulación. Emisión periódica de ráfagas  
+
+-Ejemplo 4: Modulación. Emisión periódica de ráfagas  
 
 # Ejercicios propuestos (X BitPoints)  
 
