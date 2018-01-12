@@ -84,7 +84,9 @@ Ahora **ponemos los cables**. Ya tenemos nuestro hola mundo listo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-1-and-04.png)
 
-Lo **cargamos** en la placa para probarlo:
+Lo **cargamos** en la placa para probarlo. Inicialmente, como están los dos pulsadores sin apretar, el LED 0 estará apagado
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-1-and-05.png)
 
 TODO
 
