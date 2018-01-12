@@ -125,6 +125,9 @@ Ahora queremos poder **controlar la ráfaga**, **habilitándola** sólo cuando s
 
 **Cargamos** y observamos el funcionamiento en la placa:
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-2-anim-02.gif)
+
+
 ## Todo
 
      (Animación)  
