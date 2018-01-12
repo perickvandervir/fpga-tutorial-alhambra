@@ -127,6 +127,9 @@ Ahora queremos poder **controlar la ráfaga**, **habilitándola** sólo cuando s
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-2-anim-02.gif)
 
+# Funcionamiento de la habilitación
+
+Nos basaremos en el ejemplo anterior para explicar cómo funciona la habilitación. 
 
 ## Todo
 
