@@ -130,9 +130,13 @@ Ahora queremos poder **controlar la ráfaga**, **habilitándola** sólo cuando s
 
 # Funcionamiento de la habilitación
 
-Nos basaremos en el ejemplo anterior para explicar **cómo funciona la habilitación**. Su funcionamiento está descrito por la **tabla de verdad** de la puerta AND, que es esta:
+Nos basaremos en el ejemplo anterior para explicar **cómo funciona la habilitación**. Su funcionamiento está descrito por la **tabla de verdad** de la puerta AND, que reescribimos así:
 
-(tabla)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/habilitacion-01.png)
+
+Cuando el pulsador **no está apretado**, por la entrada de la AND donde está conectado llega un **0**. Mirando la tabla, vemos que hay dos casos en los que el pulsador es cero, la **fila 0** y la **fila 2**. En ambas, la salida es cero, y por tanto el **LED** está **apgado**. Da igual el valor que tenga el coraźon 0 ó 1. El LED estará apagado
+
+(dibujo)
 
 ## Todo
 
