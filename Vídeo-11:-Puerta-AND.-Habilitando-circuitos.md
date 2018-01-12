@@ -61,7 +61,7 @@ El **funcionamiento** de las **puertas lógicas**, así como el de los **circuit
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/tabla-verdad-01.png)
 
-En una puerta AND con dos entradas, sólo hay **4 combinaciones posibles** de las entradas, por eso la tabla tiene 4 filas. En la izquierda están las entradas y a la derecha la salida
+En una puerta AND con dos entradas, sólo hay **4 combinaciones posibles** de las entradas, por eso la tabla tiene **4 filas**. En la **izquierda** están las **entradas** y a la **derecha** la **salida**
 
 # TODO
 
