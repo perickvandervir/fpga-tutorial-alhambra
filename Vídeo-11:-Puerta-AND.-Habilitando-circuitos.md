@@ -113,7 +113,7 @@ La puerta AND es un componente fundamental, que se usa muchísimo. Una de sus ap
 
 Partimos de un circuito que emite una **ráfaga** a una **frecuencia de 5Hz**, usando el corazón
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Ejemplo-2-1-rafaga-01.png)
 
 
 
