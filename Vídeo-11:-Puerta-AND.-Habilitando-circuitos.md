@@ -150,11 +150,9 @@ En la **fila 1**, vemos que el corazón está a **0**, y por la salida sale un *
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/habilitacion-05.png)
 
-(cto equivalente)
+En este caso, el **circuito equivalente** es este:
 
-## Todo
-
-  -Funcionamiento de la habilitación 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/habilitacion-06.png)
 
 # TODO  
   -Exp2: Puertas not para cambiar estado inicial LED  
