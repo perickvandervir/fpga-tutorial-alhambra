@@ -65,7 +65,6 @@ En una puerta AND con dos entradas, sólo hay **4 combinaciones posibles** de la
 
 # TODO
 
--Tabla de verdad gráfica  
 -Ejemplo: Pulsadores y AND  
   -Explicación con dibujo de los pulsadores  
   -animación  
