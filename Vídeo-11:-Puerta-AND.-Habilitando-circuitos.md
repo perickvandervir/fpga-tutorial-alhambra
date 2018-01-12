@@ -130,9 +130,7 @@ Ahora queremos poder **controlar la ráfaga**, **habilitándola** sólo cuando s
 
 ## Todo
 
-     (Animación)  
-
-   -Funcionamiento de la habilitación (con animación)  
+  -Funcionamiento de la habilitación (con animación)  
   -Exp2: Puertas not para cambiar estado inicial LED  
   -Exp3: comportamiento contrario (not antes de la AND)  
 
