@@ -66,11 +66,12 @@ En una puerta AND con dos entradas, sólo hay **4 combinaciones posibles** de la
 
 # Ejemplo 1: Pulsadores y puerta AND
 
-# TODO
-
 -Ejemplo: Pulsadores y AND  
   -Explicación con dibujo de los pulsadores  
-  -animación  
+  -animación
+
+
+# TODO  
 
 -Ejemplo 2: Habilitando / Deshabilitando una señal  
   -Exp1: Partimos de circuito con corazon 4Hz y led.  Añadimos un pulsador para habilitar/deshabilitara
