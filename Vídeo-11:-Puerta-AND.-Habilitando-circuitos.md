@@ -92,10 +92,15 @@ Si apretamos el **pulsador izquierdo**, el LED 0 seguirá estando **apagado**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-1-and-06.png)
 
+y lo mismo si sólo apretamos el **pulsador derecho**: el LED 0 estará **apagado**
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-1-and-07.png)
 
-  -Explicación con dibujo de los pulsadores  
+**Sólo** cuando apretamos el pulsador **izquierdo** **Y** el **derecho**, el LED se **enciende**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-1-and-08.png)
+
+
   -animación
 
 
