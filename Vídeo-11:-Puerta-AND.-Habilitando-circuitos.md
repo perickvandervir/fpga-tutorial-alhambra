@@ -57,6 +57,12 @@ Cuando llega a un 1 por una entrada, decimos que **la entrada está activada**, 
 
 # Tabla de verdad
 
+El **funcionamiento** de las **puertas lógicas**, así como el de los **circuitos combinaciones** sencillos (que veremos más adelante), se describen mediante **tablas de verdad**. Son tablas en las que se pone cuál es la **salida del circuito** ante **todas las posibles entradas**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/tabla-verdad-01.png)
+
+En una puerta AND con dos entradas, sólo hay **4 combinaciones posibles** de las entradas, por eso la tabla tiene 4 filas. En la izquierda están las entradas y a la derecha la salida
+
 # TODO
 
 -Tabla de verdad gráfica  
