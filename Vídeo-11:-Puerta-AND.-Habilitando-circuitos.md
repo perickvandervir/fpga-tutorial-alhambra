@@ -76,6 +76,18 @@ La puerta AND se encuentra en el menú **Puertas/and**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-1-and-02.png)
 
+Seleccionamos las puerta AND y la **colocamos**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-1-and-03.png)
+
+Ahora **ponemos los cables**. Ya tenemos nuestro hola mundo listo
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-1-and-04.png)
+
+Lo **cargamos** en la placa para probarlo:
+
+TODO
+
   -Explicación con dibujo de los pulsadores  
   -animación
 
