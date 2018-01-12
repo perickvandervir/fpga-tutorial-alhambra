@@ -148,7 +148,9 @@ Ahora analizamos el caso en el que el **pulsador está apretado**. Se correspond
 
 En la **fila 1**, vemos que el corazón está a **0**, y por la salida sale un **0**. En la **fila 3** vemos que el corazón está a **1**, y por la salida se obtiene un **1**. Es decir, que lo que sale por la AND es **la señal del corazón**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/habilitacion-05.png)
 
+(cto equivalente)
 
 ## Todo
 
