@@ -119,6 +119,10 @@ Lo **cargamos** en la placa y obervamos la ráfaga. Está continuamente funciona
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-2-anim-01.gif)
 
+Ahora queremos poder **controlar la ráfaga**, **habilitándola** sólo cuando se **apriete el pulsador**, y apagándola en caso contrario. Eso lo logramos **añadiendo una puerta AND**, en un circuito como el siguiente:
+
+
+
 ## Todo
 -Exp1: Partimos de circuito con corazon 4Hz y led.  Añadimos un pulsador para habilitar/deshabilitara
      (Animación)  
