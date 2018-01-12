@@ -19,6 +19,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [La puerta AND](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-11:-Puerta-AND.-Habilitando-circuitos#la-puerta-and)
 * [Tabla de verdad](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-11:-Puerta-AND.-Habilitando-circuitos#tabla-de-verdad)
 * [Ejemplo 1: Pulsadores y puerta AND](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-11:-Puerta-AND.-Habilitando-circuitos#ejemplo-1-pulsadores-y-puerta-and)
+* [Ejemplo 2: Habilitando / Deshabilitando una señal](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-11:-Puerta-AND.-Habilitando-circuitos#ejemplo-2-habilitando--deshabilitando-una-se%C3%B1al)
 
 # Introducción
 
