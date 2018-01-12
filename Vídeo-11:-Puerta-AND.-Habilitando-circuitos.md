@@ -138,7 +138,9 @@ Cuando el pulsador **no está apretado**, por la entrada de la AND donde está c
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/habilitacion-02.png)
 
-Este es lo que tenemos cuando el **pulsador NO está apretado**. La salida del corazón es un **valor X**, que puede ser 0 ó 1. Nos da igual, porque la salida de la AND será 0
+Este es lo que tenemos cuando el **pulsador NO está apretado**. La salida del corazón es un **valor X**, que puede ser 0 ó 1. Nos da igual, porque la salida de la AND será 0. En ese caso, el **circuito equivalente** es el mostrado en la figura
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/habilitacion-03.png)
 
 ## Todo
 
