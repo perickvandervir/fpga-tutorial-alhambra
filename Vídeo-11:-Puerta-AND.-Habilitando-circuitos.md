@@ -100,7 +100,9 @@ y lo mismo si sólo apretamos el **pulsador derecho**: el LED 0 estará **apagad
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-1-and-08.png)
 
+**¡Ya tenemos nuestro circuito con la puerta AND funcionando!**
 
+TODO
   -animación
 
 
