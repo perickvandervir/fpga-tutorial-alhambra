@@ -115,7 +115,9 @@ Partimos de un circuito que emite una **ráfaga** a una **frecuencia de 5Hz**, u
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Ejemplo-2-1-rafaga-01.png)
 
+Lo **cargamos** en la placa y obervamos la ráfaga. Está continuamente funcionando
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-2-anim-01.gif)
 
 ## Todo
 -Exp1: Partimos de circuito con corazon 4Hz y led.  Añadimos un pulsador para habilitar/deshabilitara
