@@ -66,7 +66,13 @@ En una puerta AND con dos entradas, sólo hay **4 combinaciones posibles** de la
 
 # Ejemplo 1: Pulsadores y puerta AND
 
--Ejemplo: Pulsadores y AND  
+Para empezar a practicar con puertas And vamos a crear la versión **Hola mundo**: conectaremos los **dos pulsadores** de la Icezum Alhambra, **SW1** y **SW2**, a las **entradas** de una puerta **AND**, y su **salida** al **LED 0**
+
+Colocamos dos bloques de entrada en la parte izquierda, y un bloque salida en la derecha, como ya sabemos hacer
+
+![]()
+
+
   -Explicación con dibujo de los pulsadores  
   -animación
 
