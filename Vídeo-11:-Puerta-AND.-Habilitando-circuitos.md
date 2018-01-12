@@ -130,15 +130,15 @@ Ahora queremos poder **controlar la ráfaga**, **habilitándola** sólo cuando s
 
 # Funcionamiento de la habilitación
 
-Nos basaremos en el ejemplo anterior para explicar cómo funciona la habilitación. 
+Nos basaremos en el ejemplo anterior para explicar **cómo funciona la habilitación**. 
 
 ## Todo
 
-  -Funcionamiento de la habilitación (con animación)  
-  -Exp2: Puertas not para cambiar estado inicial LED  
-  -Exp3: comportamiento contrario (not antes de la AND)  
+  -Funcionamiento de la habilitación 
 
 # TODO  
+  -Exp2: Puertas not para cambiar estado inicial LED  
+  -Exp3: comportamiento contrario (not antes de la AND)  
 
 -Ejemplo 3: Modulación. Emisión periódica de ráfagas  
 
