@@ -68,9 +68,9 @@ En una puerta AND con dos entradas, sólo hay **4 combinaciones posibles** de la
 
 Para empezar a practicar con puertas And vamos a crear la versión **Hola mundo**: conectaremos los **dos pulsadores** de la Icezum Alhambra, **SW1** y **SW2**, a las **entradas** de una puerta **AND**, y su **salida** al **LED 0**
 
-Colocamos dos bloques de entrada en la parte izquierda, y un bloque salida en la derecha, como ya sabemos hacer
+Colocamos **dos bloques de entrada** en la parte izquierda, y **un bloque salida** en la derecha, como ya sabemos hacer
 
-![]()
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-1-and-01.png)
 
 
   -Explicación con dibujo de los pulsadores  
