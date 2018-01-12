@@ -109,6 +109,13 @@ En esta **animación** se puede ver el funcionamiento de todos los casos
 
 # Ejemplo 2: Habilitando / Deshabilitando una señal
 
+La puerta AND es un componente fundamental, que se usa muchísimo. Una de sus aplicaciones es utilizarla para **habilitar** o **deshabilitar** señales. En este ejemplo haremos que el LED 0 emita una **ráfaga de parpadeos** cuando se apriete el pulsador SW1
+
+Partimos de un circuito que emite una **ráfaga** a una **frecuencia de 5Hz**, usando el corazón
+
+TODO
+
+
 
 ## Todo
 -Exp1: Partimos de circuito con corazon 4Hz y led.  Añadimos un pulsador para habilitar/deshabilitara
