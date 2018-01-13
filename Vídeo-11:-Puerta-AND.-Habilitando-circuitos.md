@@ -166,6 +166,9 @@ En el ejemplo anterior, el LED 0 está apagado, y al apretar el pulsador comienz
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Ejemplo-3-1-1.png)
 
+**Cargamos** el ejemplo. Su funcionamiento es como el mostrado en esta **animación**:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-3-1-anim-01.gif)
 
 ## TODO  
   -Exp3: comportamiento contrario (not antes de la AND)  
