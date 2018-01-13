@@ -8,6 +8,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
+La **puerta lógica AND** nos permite hacer **manipulaciones** de bits. Aprenderemos su funcionamiento y la utilizaremos para **habilitar** / **deshabilitar** señales
 
 # Colección
 
