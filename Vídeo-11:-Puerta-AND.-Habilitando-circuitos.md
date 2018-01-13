@@ -170,6 +170,14 @@ En el ejemplo anterior, el LED 0 está apagado, y al apretar el pulsador comienz
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-3-1-anim-01.gif)
 
+Cuando el pulsador no está apretado, el LED está encendido, en vez de apagado. Esto lo comprobamos **mirando los bits que circulan por el circuito**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Ejemplo-3-1-2.png)
+
+Al **NO** estar apretado el pulsador, emite un **0**, que llega a la AND. Con independencia de lo que esté saliendo por el corazón, por la AND saldrá siempre un **0**, que al llegar a la puerta NOT se convierte en un **1** y el **LED se enciende**
+
+Al **apretar el pulsador**, a la AND le entra un **1** y lo que sale por el corazón llegará hasta el LED a través de la puerta NOT, observándose la **ráfaga**
+
 ## TODO  
   -Exp3: comportamiento contrario (not antes de la AND)  
 
