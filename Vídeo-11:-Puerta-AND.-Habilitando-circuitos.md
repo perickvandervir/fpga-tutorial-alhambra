@@ -164,6 +164,7 @@ En este ejemplo añadiremos puertas NOT para modificar el comportamiento del eje
 
 En el ejemplo anterior, el LED 0 está apagado, y al apretar el pulsador comienza la ráfaga. Lo modificaremos para que el **LED 0 esté encendido** inicialmente, en vez de apagado. Esto lo logramos añadiendo un **puerta NOT** a la salida de la AND:
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Ejemplo-3-1-1.png)
 
 
 ## TODO  
