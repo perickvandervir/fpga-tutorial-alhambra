@@ -183,6 +183,12 @@ Al **apretar el pulsador**, a la AND le entra un **1** y lo que sale por el cora
 
 En este experimento haremos que la **ráfaga esté emitiéndose hasta que se aprieta el pulsador**, momento en el que el **LED se apaga**. Al soltar el pulsador la ráfaga continua
 
+Esto lo logramos colocando una **puerta NOT detrás del pulsador**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Ejemplo-3-2-1.png)
+
+**Cargamos** el circuito para probarlo. Se comportará de la siguiente manera:
+
 ## TODO  
 
 -Ejemplo 4: Modulación. Emisión periódica de ráfagas  
