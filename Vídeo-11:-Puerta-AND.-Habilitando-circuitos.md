@@ -199,7 +199,9 @@ Cuando se **aprieta el pulsador**, se envía un **1**, que al pasar por la **NOT
 
 Haremos que se envíe la ráfaga de **manera intermitente**. Durante **2 segundos** habrá ráfaga, y durante los siguientes **2 segundos** el LED estará apagado. Esto se repite indefinidamente
 
-TODO
+Para ello ponemos el **corazón de 5Hz** para generar las ráfagas, y uno de **1Hz** que atraviesa dos tortugas para sacar un bit 1 durante 2 segundos y un bit 0 durante los 2 segundos siguientes. Ambas señales las pasamos por una **puerta AND**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Ejemplo-4.png)
 
 # Ejercicios propuestos (X BitPoints)  
 
