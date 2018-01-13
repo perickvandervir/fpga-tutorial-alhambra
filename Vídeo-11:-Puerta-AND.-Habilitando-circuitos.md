@@ -12,7 +12,7 @@ La **puerta lógica AND** nos permite hacer **manipulaciones** de bits. Aprender
 
 # Colección
 
-**Academia-Jedi-HW-11.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-11.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Collection/Academia-Jedi-HW-11.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
