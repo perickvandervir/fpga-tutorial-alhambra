@@ -208,6 +208,8 @@ Lo **cargamos** para ver su funcionamiento:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-4-anim-01.gif)
 
+El funcionmiento es igual que en el caso del pulsador, pero ahora, cada 2 segundos llega un **0** por la pata inferior de la AND, haciendo que el **LED se apague**. Transcurridos 2 segundos llega un 1, y la ráfaga puede llegar hasta el **LED**
+
 # Ejercicios propuestos (X BitPoints)  
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial  
