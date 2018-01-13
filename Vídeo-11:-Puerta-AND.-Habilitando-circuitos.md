@@ -158,8 +158,15 @@ En este caso, el **circuito equivalente** es este:
 
 # Ejemplo 3: Combinando con puertas NOT
 
+En este ejemplo añadiremos puertas NOT para modificar el comportamiento del ejemplo anterior
+
+### Experimento 1: Cambiando el estado inicial del LED
+
+En el ejemplo anterior, el LED 0 está apagado, y al apretar el pulsador comienza la ráfaga. Lo modificaremos para que el **LED 0 esté encendido** inicialmente, en vez de apagado. Esto lo logramos añadiendo un **puerta NOT** a la salida de la AND:
+
+
+
 ## TODO  
-  -Exp2: Puertas not para cambiar estado inicial LED  
   -Exp3: comportamiento contrario (not antes de la AND)  
 
 
