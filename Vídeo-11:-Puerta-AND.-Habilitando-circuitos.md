@@ -178,9 +178,11 @@ Al **NO** estar apretado el pulsador, emite un **0**, que llega a la AND. Con in
 
 Al **apretar el pulsador**, a la AND le entra un **1** y lo que sale por el corazón llegará hasta el LED a través de la puerta NOT, observándose la **ráfaga**
 
-## TODO  
-  -Exp3: comportamiento contrario (not antes de la AND)  
+### Experimento 2: Parando la ráfaga
 
+En este experimento haremos que la **ráfaga esté emitiéndose hasta que se aprieta el pulsador**, momento en el que el **LED se apaga**. Al soltar el pulsador la ráfaga continua
+
+## TODO  
 
 -Ejemplo 4: Modulación. Emisión periódica de ráfagas  
 
