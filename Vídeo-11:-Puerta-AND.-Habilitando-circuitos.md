@@ -195,9 +195,11 @@ Cuando se **aprieta el pulsador**, se envía un **1**, que al pasar por la **NOT
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Ejemplo-3-2-2.png)
 
-## TODO  
+# Ejemplo 4: Emisión periódica de ráfagas  
 
--Ejemplo 4: Modulación. Emisión periódica de ráfagas  
+Haremos que se envíe la ráfaga de **manera intermitente**. Durante **2 segundos** habrá ráfaga, y durante los siguientes **2 segundos** el LED estará apagado. Esto se repite indefinidamente
+
+TODO
 
 # Ejercicios propuestos (X BitPoints)  
 
