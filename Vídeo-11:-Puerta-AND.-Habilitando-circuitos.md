@@ -191,6 +191,10 @@ Esto lo logramos colocando una **puerta NOT detrás del pulsador**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-3-2-anim-01.gif)
 
+Cuando se **aprieta el pulsador**, se envía un **1**, que al pasar por la **NOT** se convierte en un **0** y hace que **la puerta AND se desactive**, apagando el LED. Hasta que no se suelte el pulsador, no se podrá activar la AND para que aparezca la ráfaga
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/Ejemplo-3-2-2.png)
+
 ## TODO  
 
 -Ejemplo 4: Modulación. Emisión periódica de ráfagas  
