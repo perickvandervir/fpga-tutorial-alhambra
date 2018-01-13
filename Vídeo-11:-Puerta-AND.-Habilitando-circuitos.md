@@ -189,6 +189,8 @@ Esto lo logramos colocando una **puerta NOT detrás del pulsador**
 
 **Cargamos** el circuito para probarlo. Se comportará de la siguiente manera:
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-3-2-anim-01.gif)
+
 ## TODO  
 
 -Ejemplo 4: Modulación. Emisión periódica de ráfagas  
