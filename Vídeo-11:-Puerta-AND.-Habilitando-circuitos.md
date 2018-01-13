@@ -206,7 +206,7 @@ Para ello ponemos el **corazón de 5Hz** para generar las ráfagas, y uno de **1
 
 Lo **cargamos** para ver su funcionamiento:
 
-(Anmacion)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-11/ejemplo-4-anim-01.gif)
 
 # Ejercicios propuestos (X BitPoints)  
 
