@@ -15,6 +15,40 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Contenido
 
+# TODO
+
+* Introducción
+  * Dibujo de pulsadores e interruptores paraa tener clara la diferencia
+
+* Pulsadores
+
+  * Conexión a pines 3.3v
+    * Breadboard
+    
+  * Conexión a pines de 5v
+    * Breadboard
+    * PCBprints
+
+* Interruptores
+
+  * Conexión a pines de 3.3v
+    * Breadboard
+  * Conexión a pines de 5v
+    * Breadboard
+    * PCBPrints
+
+* Panel de Corcho
+
+* Ejemplo 1: Pulsador, interrutor, LEDs
+* Ejemplo 2: Interruptor + servo
+* Ejemplo 3: Dos interruptores + LEDs
+* Ejercicios:
+  * Interruptor para definir donde mira Franky. Botón para emitir ráfagas
+  * Interruptor para estado de la puerta. Pulsador para timbre luminoso
+  * 4 interruptores para mostrar bits
+
+
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
