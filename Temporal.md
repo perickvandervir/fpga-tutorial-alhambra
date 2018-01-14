@@ -33,10 +33,94 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 ## Primero
 
+### Ejercicio 1
+![]()
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+### Ejercicio 2
+![]()
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+### Ejercicio 3
+![]()
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+### Ejercicio 4
+![]()
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
 
 ## Segundo
 
+### Ejercicio 1
+![]()
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+### Ejercicio 2
+![]()
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+### Ejercicio 3
+![]()
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+### Ejercicio 4
+![]()
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
 ## Tercero
+
+### Ejercicio 1
+![]()
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+### Ejercicio 2
+![]()
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+### Ejercicio 3
+![]()
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+### Ejercicio 4
+![]()
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 
 # Autor
