@@ -217,7 +217,6 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 
 | Núm   | Rango  |  Bitpoints  | Descripción |
 |-------|--------|-------------|-------------|
-| 9  |   **Aspirante a padawan nivel 3**   |
 | 10 |   **Padawan**          |  |  |  |
 | 11  |   **Padawan nivel-1** |  |  |  |
 | 12 |   **Padawan nivel-2** |  |  |  |
