@@ -261,8 +261,9 @@ posición deben permanecer encendidos
 
 ### Ejercicio 3
 
-
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-11/ColRod/Ejercicio%2011.3.png)
+
+* **NOTA**: Este ejercicio tiene una errata. Se pide que en una posición de la cabeza de Franky los leds emitan una ráfaga y en la otra estén encendido. Falta añadir una puerta NOT a la salida de la AND
 
 * **Vídeo** en Youtube:
 
