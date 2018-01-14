@@ -275,7 +275,7 @@ posición deben permanecer encendidos
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=gbLlzX_JQt4)
+[![Click to see the youtube video](http://img.youtube.com/vi/gbLlzX_JQt4/0.jpg)](https://www.youtube.com/watch?v=gbLlzX_JQt4)
 
 
 ## Segundo
