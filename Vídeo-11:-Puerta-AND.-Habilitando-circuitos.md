@@ -217,7 +217,9 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
  
 **Resumen**:  
 
-* **Ejercicio 1** (Total **x Bitpoints**):  
+* **Ejercicio 1** (Total **3 Bitpoints**):  Hacer un circuito digital que deje el **servo** en una
+posición. Al apretar **los dos pulsadores a la vez**, SW1 y SW2, el servo se debe mover a otra 
+posición. Si no están apretados a la vez, volverá a la posición inicial
 
 * **Ejercicio 2** (Total **x Bitpoints**): 
 
