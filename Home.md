@@ -213,7 +213,7 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 | 6  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan.png) | **Aspirante a Padawan** | 60 | Conoces las propiedades de **paralelismo** del hardware, y las sabes utilizar. **Bombeas** bits. Haces **manipulaciones básicas** con bits |
 | 7  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1.png) | **Aspirante a Padawan Nivel 1** | 80 | Manejas los **LEDs internos** y **externos** con mucha soltura. Sabes conectar **circuitos externos** y hacerlos en diferentes soportes |
 | 8  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2.png) | **Aspirante a Padawan Nivel 2** | 100 | Sabes hacer circuitos digitales con **entradas** y **salidas**. Has practicado tus habilidades hardware moviendo **Servos** |
-| 9  | ![]() | **Aspirante a Padawan Nivel 3** | 120 |  |
+| 9  | ![]() | **Aspirante a Padawan Nivel 3** | 120 | Ya sabes hacer **circuitos combinacionales** básicos con puertas AND y NOT. Tu manipulación de bits progresa adecuadamente |
 
 | Núm   | Rango  |  Bitpoints  | Descripción |
 |-------|--------|-------------|-------------|
