@@ -271,15 +271,45 @@ posición deben permanecer encendidos
 
 ### Ejercicio 4
 
-
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-11/ColRod/Ejercicio%2011.4.png)
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi/gbLlzX_JQt4/0.jpg)](https://www.youtube.com/watch?v=gbLlzX_JQt4)
 
+## Joaquín Cubillo (jcubilloarr)
 
-## Segundo
+### Ejercicio 1
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-11/jcubilloarr/1.png)
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi/B7jkeZU_jo4/0.jpg)](https://www.youtube.com/watch?v=B7jkeZU_jo4)
+
+### Ejercicio 2
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-11/jcubilloarr/2.png)
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi/SXsQGxlp7h8/0.jpg)](https://www.youtube.com/watch?v=SXsQGxlp7h8)
+
+### Ejercicio 3
+![]()
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+### Ejercicio 4
+![]()
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+
+
 
 ## Tercero
 
