@@ -28,6 +28,7 @@ La **puerta lógica AND** nos permite hacer **manipulaciones** de bits. Aprender
 * [Ejemplo 4: Emisión periórica de ráfagas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-11:-Puerta-AND.-Habilitando-circuitos#ejemplo-4-emisi%C3%B3n-peri%C3%B3dica-de-r%C3%A1fagas)
 * [Ejercicios propuestos (14 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-11:-Puerta-AND.-Habilitando-circuitos#ejercicios-propuestos-14-bitpoints)
 * [Ejercicios entregados](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-11:-Puerta-AND.-Habilitando-circuitos#ejercicios-entregados)
+* [Autor](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-11:-Puerta-AND.-Habilitando-circuitos#autor)
 
 # Introducción
 
