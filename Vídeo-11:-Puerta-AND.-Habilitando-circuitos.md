@@ -244,6 +244,39 @@ posición deben permanecer encendidos
 
 ### Ejercicio 1
 
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-11/ColRod/Ejercicio%2011.1.png)
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi/O0Fx0YccBPc/0.jpg)](https://www.youtube.com/watch?v=O0Fx0YccBPc)
+
+### Ejercicio 2
+
+![]()
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+### Ejercicio 3
+
+
+![]()
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+### Ejercicio 4
+
+
+![]()
+
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+
 ## Segundo
 
 ## Tercero
