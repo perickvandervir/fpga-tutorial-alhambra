@@ -211,7 +211,7 @@ Lo **cargamos** para ver su funcionamiento:
 
 El funcionmiento es igual que en el caso del pulsador, pero ahora, cada 2 segundos llega un **0** por la pata inferior de la AND, haciendo que el **LED se apague**. Transcurridos 2 segundos llega un 1, y la ráfaga puede llegar hasta el **LED**
 
-# Ejercicios propuestos (X BitPoints)  
+# Ejercicios propuestos (14 BitPoints)  
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial  
  
@@ -221,11 +221,16 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 posición. Al apretar **los dos pulsadores a la vez**, SW1 y SW2, el servo se debe mover a otra 
 posición. Si no están apretados a la vez, volverá a la posición inicial
 
-* **Ejercicio 2** (Total **x Bitpoints**): 
+* **Ejercicio 2** (Total **3 Bitpoints**): Hacer un circuito digital para controlar un 
+**limpiaparabrisas** de un coche. Inicialmente estará parado. Al apretar el pulsador SW1 se moverá de 
+lado a lado a la frecuencia de **1Hz**. Al soltar el pulsador se parará
 
-* **Ejercicio 3** (Total **x Bitpoints**): 
+* **Ejercicio 3** (Total **5 Bitpoints**): Hacer un circuito digital para que la **cabeza de Franky**
+gire automáticamente cada **2 segundos** de un lado hacia otro. Cuando esté mirando hacia 
+uno de los lado, sus ojos deben emitir una **ráfaga de 10Hz**. Cuando está en la otra 
+posición deben permanecer encendidos
 
-* **Ejercicio 4** (**2 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
+* **Ejercicio 4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
 
