@@ -296,11 +296,11 @@ posición deben permanecer encendidos
 [![Click to see the youtube video](http://img.youtube.com/vi/SXsQGxlp7h8/0.jpg)](https://www.youtube.com/watch?v=SXsQGxlp7h8)
 
 ### Ejercicio 3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-11/jcubilloarr/3.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/KvzOocDAvJg/0.jpg)](https://www.youtube.com/watch?v=KvzOocDAvJg)
 
 ### Ejercicio 4
 ![]()
