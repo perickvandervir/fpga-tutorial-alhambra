@@ -15,9 +15,11 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Contenido
 
-*  Introducción
+*  [Introducción](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#introducci%C3%B3n)
 
 # Introducción
+
+TODO
 
 # TODO
 
