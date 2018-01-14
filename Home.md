@@ -229,7 +229,7 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 
 ## Noticias
 
-### 15-Enero-2018: Cerrado periodo matriculacionese
+### 15-Enero-2018: Cerrado periodo de matriculaciones en la Academia Jedi de Hardware
 
 A partir del Lunes 15 de Enero de 2018 se **cierra el periodo de matriculaciones en la Academia Jedi de Hardware** durante la temporada I de los tutoriales de FPGAs libres. Ya **no** podrán entrar **personas nuevas**, hasta que se habra un nuevo periodo de matriculación. Sólo se corregirán y emitirán Bitpoints a los makers que estén actualmente en la Academia o Pre-academia
 
