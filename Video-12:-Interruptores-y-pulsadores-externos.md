@@ -32,7 +32,8 @@ El **pulsador** cuando está **en reposo** se encuentra en su **posición establ
 
 Su funcionamiento se muestra en esta **animación**:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/introduccion-button-anim.gif)
+
 
 TODO
 
