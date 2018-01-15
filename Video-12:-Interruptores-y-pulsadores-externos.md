@@ -23,7 +23,12 @@ Para **introducir** bits en nuestros **circuitos digitales** usamos **periféric
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Introduccion-01.png)
 
-En este tutorial nos centraremos en los **interruptores** y **pulsadores**
+En este tutorial nos centraremos en los **interruptores** y **pulsadores** una
+Tanto los pulsadores como los interruptores pueden estar en **dos posiciones**, en una de ellas envían un **bit a 0** y en la otra un **bit a 1**. La diferencia está en que en los **pulsadores**, uno de las posiciones es **temporal**, o no **estable**, mientras que en el **interruptor** ambas son **estables**
+
+El **pulsador** cuando está **en reposo** se encuentra en su **posición estable**. Nosotros usaremos esta posición para transmitir el **bit 0**: que significa pulsador **NO apretado**. Al **apretarlo** con el dedo envía un **1**, y permanece en esa posición de forma **temporal**, mientras mantengamos el dedo **haciendo fuerza**. En el momento en que quitamos el dedo, el pulsador volverá **automáticamente** a su posición de reposo
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Introduccion-02.png)
 
 TODO
 
