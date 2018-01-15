@@ -23,6 +23,8 @@ Para **introducir** bits en nuestros **circuitos digitales** usamos **periféric
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Introduccion-01.png)
 
+En este tutorial nos centraremos en los **interruptores** y **pulsadores**
+
 TODO
 
 - Explicar diferencias entre los dos periféricos: pulsadores, pulsadores. Pulsador: tiene dos estados, uno estable (0) y otro temporal (1) (En los estados temporales el componente cambia al estado estable al dejar de aplicar fuerza). El interruptor tiene dos estados estables: el componente se queda como está hasta que aplicamos una fuerza externa (dedo) para cambiarle de estado
