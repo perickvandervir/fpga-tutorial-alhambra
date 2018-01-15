@@ -30,9 +30,13 @@ El **pulsador** cuando está **en reposo** se encuentra en su **posición establ
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Introduccion-02.png)
 
+Su funcionamiento se muestra en esta **animación**:
+
+(animación)
+
 TODO
 
-- Explicar diferencias entre los dos periféricos: pulsadores, pulsadores. Pulsador: tiene dos estados, uno estable (0) y otro temporal (1) (En los estados temporales el componente cambia al estado estable al dejar de aplicar fuerza). El interruptor tiene dos estados estables: el componente se queda como está hasta que aplicamos una fuerza externa (dedo) para cambiarle de estado
+- El interruptor tiene dos estados estables: el componente se queda como está hasta que aplicamos una fuerza externa (dedo) para cambiarle de estado
 - (Dibujos y animaciones de estos conceptos)
 - Tipos de conexiones: 3.3v, 5v.
 
