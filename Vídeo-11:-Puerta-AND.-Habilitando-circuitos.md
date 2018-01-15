@@ -312,6 +312,24 @@ posición deben permanecer encendidos
 
 ## Manuel Andújar
 
+### Ejercicio 1
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-11/Manuel%20Andujar/Ejercicio%2011-1.png)
+
+* [Vídeo](https://drive.google.com/file/d/1RqfFSOi4tC3Jix5wouXerVX_dYqzf8vS/view?usp=sharing)
+
+### Ejercicio 2
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-11/Manuel%20Andujar/Ejercicio%2011-2.png)
+
+* [Vídeo](https://drive.google.com/file/d/1sX3afF97FoyIOgWA36xGOtg7wTEEJwen/view?usp=sharing)
+
+### Ejercicio 3
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-11/Manuel%20Andujar/Ejercicio%2011-3.png)
+
+* [Vídeo](https://drive.google.com/file/d/1AryGL_G5YueZ8CCWvIqozQuqwHhHrYTi/view?usp=sharing)
+
 
 # Autor
 
