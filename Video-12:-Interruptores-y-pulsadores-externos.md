@@ -19,7 +19,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
-Para **introducir** bits en nuestros **circuitos digitales** usamos **periféricos de entrada**, como pulsadores, interruptores, sensores, etc. Se conectan a las entradas del circuito. El circuito lee estos bits, y realiza las operaciones de **manipulación**, **transporte** y **almacenamiento**. Finalmente saca bits por sus **salidas** para que lleguen a los **periféricos de salida**, como LEDs, servos, zumbadores, etc.
+Para **introducir** bits en nuestros **circuitos digitales** usamos **periféricos de entrada**, como pulsadores, interruptores, sensores de Infrarrojos, etc. Se conectan a las entradas del circuito. El circuito lee estos bits, y realiza las operaciones de **manipulación**, **transporte** y **almacenamiento**. Finalmente saca bits por sus **salidas** para que lleguen a los **periféricos de salida**, como LEDs, servos, zumbadores, etc.
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Introduccion-01.png)
 
