@@ -19,7 +19,9 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
-TODO
+Para **introducir** bits en nuestros **circuitos digitales** usamos **periféricos de entrada**, como pulsadores, interruptores, sensores, etc. Se conectan a las entradas del circuito. El circuito lee estos bits, y realiza las operaciones de **manipulación**, **transporte** y **almacenamiento**. Finalmente saca bits por sus **salidas** para que lleguen a los **periféricos de salida**, como LEDs, servos, zumbadores, etc.
+
+(Dibujo con periféricos entradas, circuito, y periféricos de salida). 
 
 # TODO
 
