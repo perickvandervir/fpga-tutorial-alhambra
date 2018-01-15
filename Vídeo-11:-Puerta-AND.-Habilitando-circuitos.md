@@ -309,10 +309,7 @@ posición deben permanecer encendidos
 
 [![Click to see the youtube video](http://img.youtube.com/vi/ephrrrcL-cM/0.jpg)](https://www.youtube.com/watch?v=ephrrrcL-cM)
 
-
-
-
-## Tercero
+## Manuel Andújar
 
 
 # Autor
