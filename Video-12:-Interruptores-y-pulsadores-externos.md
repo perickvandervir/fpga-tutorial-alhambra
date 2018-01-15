@@ -21,9 +21,10 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 Para **introducir** bits en nuestros **circuitos digitales** usamos **periféricos de entrada**, como pulsadores, interruptores, sensores, etc. Se conectan a las entradas del circuito. El circuito lee estos bits, y realiza las operaciones de **manipulación**, **transporte** y **almacenamiento**. Finalmente saca bits por sus **salidas** para que lleguen a los **periféricos de salida**, como LEDs, servos, zumbadores, etc.
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Introduccion-01.png)
+
 TODO
 
-- (Dibujo con periféricos entrada, circuito, y periféricos de salida). 
 - Explicar diferencias entre los dos periféricos: pulsadores, pulsadores. Pulsador: tiene dos estados, uno estable (0) y otro temporal (1) (En los estados temporales el componente cambia al estado estable al dejar de aplicar fuerza). El interruptor tiene dos estados estables: el componente se queda como está hasta que aplicamos una fuerza externa (dedo) para cambiarle de estado
 - (Dibujos y animaciones de estos conceptos)
 - Tipos de conexiones: 3.3v, 5v.
