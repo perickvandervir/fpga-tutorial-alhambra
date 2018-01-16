@@ -34,7 +34,7 @@ Su funcionamiento se muestra en esta **animación**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/introduccion-button-anim.gif)
 
-Los interruptores tiene **dos posiciones estables**: una vez que están en una posición, **permanecen** en ella hasta que volvamos a ejercer fuerza para cambiarla. A diferencia de los pulsadores, **NO cambian** al dejar ejercer esta fuerza. 
+Los interruptores tiene **dos posiciones estables**: una vez que están en una posición, **permanecen** en ella hasta que volvamos a ejercer fuerza para cambiarla. A diferencia de los pulsadores, **NO cambian** al dejar de ejercer esta fuerza. 
 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Introduccion-03.png)
