@@ -207,10 +207,19 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 
 ## Listado de Rangos
 
+### Pre-academia
+
 | Núm   | Divisa     | Rango  |  Bitpoints  | Descripción |
 |-------|----------|--------|-------------|-------------|
 |  0    | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/00-observador.png) | **Observador** | 0  |  Te gusta ojear las cosas. Todavía no te has atrevido a experimentar con circuitos digitales |
 |  1    | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete.png) | **Aspirante a Cadete** | 2 | Todavía no has ingresado en la academia Jedi de hardware, pero tienes interés, y te gustaría probar |
+
+
+
+### Academia Jedi: Primer curso
+
+| Núm   | Divisa     | Rango  |  Bitpoints  | Descripción |
+|-------|----------|--------|-------------|-------------|
 |  2    | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete.png) | **Cadete** | 5 | **¡Bienvenido a la academia Jedi de hardware!** Tienes curiosidad e Interés suficiente sobre hardware y tienes Icestudio instalado. ¡Listo para aprender! |
 | 3  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1.png)  |  **Cadete nivel-1** | 15 | Tu conocimiento de las herramientas libres del **Patrimonio tecnológico de la Galaxia** es considerable. Ya sabes cómo ver "las tripas" de los diseños libres: electrónica y mecánica |
 | 4  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2.png) | **Cadete nivel-2** | 25  | Ya sabes **sintetizar circuitos simples** desde cero para encender leds. Comprendes los **bits** perfectamente  |
@@ -219,10 +228,13 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 | 7  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1.png) | **Aspirante a Padawan Nivel 1** | 80 | Manejas los **LEDs internos** y **externos** con mucha soltura. Sabes conectar **circuitos externos** y hacerlos en diferentes soportes |
 | 8  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2.png) | **Aspirante a Padawan Nivel 2** | 100 | Sabes hacer circuitos digitales con **entradas** y **salidas**. Has practicado tus habilidades hardware moviendo **Servos** |
 | 9  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3.png) | **Aspirante a Padawan Nivel 3** | 120 | Ya sabes hacer **circuitos combinacionales** básicos con puertas AND y NOT. Tu manipulación de bits progresa adecuadamente |
+
+### Academia Jedi: Segundo Curso
+
 | 10  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan.png) | **Padawan** | 150 | TODO |
 
-
-
+| Núm   | Divisa     | Rango  |  Bitpoints  | Descripción |
+|-------|----------|--------|-------------|-------------|
 | Núm   | Rango  |  Bitpoints  | Descripción |
 |-------|--------|-------------|-------------|
 | 11  |   **Padawan nivel-1** |  |  |  |
