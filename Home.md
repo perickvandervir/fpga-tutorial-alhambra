@@ -231,7 +231,11 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 
 ### Academia Jedi: Segundo Curso
 
+| Núm   | Divisa     | Rango  |  Bitpoints  | Descripción |
+|-------|----------|--------|-------------|-------------|
 | 10  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan.png) | **Padawan** | 150 | TODO |
+
+### Pendiente...
 
 | Núm   | Divisa     | Rango  |  Bitpoints  | Descripción |
 |-------|----------|--------|-------------|-------------|
