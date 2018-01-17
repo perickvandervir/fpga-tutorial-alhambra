@@ -45,6 +45,12 @@ El que la posición de la derecha sea un 0 ó un 1 dependerá de cómo hagamos l
 
 Los **interruptores** y los **pulsadores** los podemos conectar tanto a los **pines de 3.3v** (GPx) como a los **pines de 5v** (Dx) de la [Icezum Alhambra](https://github.com/FPGAwars/icezum/wiki). Según dónde se conecten, tendremos que modificar el valor de la **resistencia**
 
+# Pulsadore externos
+
+Los **pulsadores** se conectan mediante este **esquema**
+
+(Dibujo)
+
 # TODO
 
 * Pulsadores
