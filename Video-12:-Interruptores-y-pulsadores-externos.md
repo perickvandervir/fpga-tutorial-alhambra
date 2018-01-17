@@ -39,7 +39,7 @@ Los interruptores tiene **dos posiciones estables**: una vez que están en una p
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Introduccion-03.png)
 
-El que la posición de la derecha sea un 0 ó un 1 dependerá de cómo hagamos las conexiones. Todas las combinaciones son posibles. En esta animación podemos ver su funcionamiento
+El que la posición de la derecha sea un 0 ó un 1 dependerá de cómo hagamos las conexiones. Todas las combinaciones son posibles. En esta **animación** podemos ver su funcionamiento
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/introduccion-switch-anim.gif)
 
