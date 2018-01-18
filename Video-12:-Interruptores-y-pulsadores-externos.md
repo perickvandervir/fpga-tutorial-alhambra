@@ -74,7 +74,7 @@ Y este es el **montaje real**
 
 ## Conexión a pines de 5v
 
-
+Importante: Pull-down 1K o menor!
 
 # TODO
 
