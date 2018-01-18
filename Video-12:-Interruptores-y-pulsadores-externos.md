@@ -47,7 +47,7 @@ Los **interruptores** y los **pulsadores** los podemos conectar tanto a los **pi
 
 # Pulsadores externos
 
-Los **pulsadores** se conectan mediante este **esquema**
+Los **pulsadores** se conectan mediante el siguiete **esquema**, donde el valor de la **resistencia R** depende del **pin de la FPGA** que usemos para la conexión
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/pulsador-01.png)
 
