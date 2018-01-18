@@ -49,7 +49,7 @@ Los **interruptores** y los **pulsadores** los podemos conectar tanto a los **pi
 
 Los **pulsadores** se conectan mediante este **esquema**
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/pulsador-01.png)
 
 # TODO
 
