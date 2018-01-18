@@ -61,7 +61,7 @@ Cuando lo conectamos a los **pines de 3.3v** de la Icezum Alhambra (GPx), los va
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/pulsador-02.png)
 
-En este ejemplo se puede ver el **montaje** de un pulsador conectado al **pin GP0**
+En este ejemplo se puede ver el **montaje** de un pulsador conectado al **pin GP0**, usando una **resistencia** de **10K**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/pulsador-03.png)
 
