@@ -51,6 +51,12 @@ Los **pulsadores** se conectan mediante el siguiete **esquema**, donde el valor 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/pulsador-01.png)
 
+Con este esquema tenemos un pulsador que envía un **0** cuando  **NO está pulsado**. Si sabes electrónica analógica, la resistencia es de ***pull-down**. Si conectamos una de **pull-up** el comportamiento será el inverso: el **pulsador** envíaría un **1** cuando **NO está puslado**
+
+## Conexión a pines de 3.3v (GPx)
+
+
+
 # TODO
 
 * Pulsadores
