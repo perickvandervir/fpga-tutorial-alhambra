@@ -67,11 +67,16 @@ En este ejemplo se puede ver el **montaje** de un pulsador conectado al **pin GP
 
 El **cable rojo** está conectado a la salida de **3.3v** de la Icezum Alhambra, el **negro** a cualquier de los de **GND** y el **amarillo** al **pin GP0**
 
+Y este es el **montaje real**
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/pulsador-04.png)
 
+## Conexión a pines de 5v
+
+
+
 # TODO
-    
-  * Conexión a pines de 5v
+
     * Breadboard
     * PCBprints
 
