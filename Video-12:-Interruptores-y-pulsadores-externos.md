@@ -78,6 +78,8 @@ Para la conexión a los **pines de 5v**, usamos el mismo esquema que para los de
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/pulsador-05.png)
 
+Este valor de las resistencias es debido al **convertidor de niveles** de 5v a 3.3v. Los pines de 5v no salen directamente de la FPGA, sino que pasan por un convertidor. Para que se **configure** correctamente como una **entrada** la resistencia de **pull-down** debe tener, típicamente, esos valores
+
 
 # TODO
 
