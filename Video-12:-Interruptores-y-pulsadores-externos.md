@@ -94,6 +94,12 @@ Y este es el **montaje real**:
 
 ### Pulsador en PCBPrint
 
+También podemos hacer nuestros pulsadores externos con la **impresoras 3D**. Este es el [PCBPrint Alhambra Button](https://github.com/PCBPrints/Alhambra-button/wiki), que incluye un pulsador. Todas las **instrucciones de montaje** se encuentra en el enlace de la placa
+
+En esta **foto** vemos el pulsador conectado al **pin D0** de la Icezum Alhambra:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/pulsador-08.jpg)
+
 # TODO
 
 * Interruptores
