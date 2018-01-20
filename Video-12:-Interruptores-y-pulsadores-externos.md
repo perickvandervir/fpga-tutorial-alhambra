@@ -104,7 +104,9 @@ En esta **foto** vemos el pulsador conectado al **pin D0** de la Icezum Alhambra
 
 Puedes encontrar más [PCBPrints en el repositorio](https://github.com/PCBPrints/PCbPrints)
 
-# TODO
+# Interruptores externos
+
+## TODO
 
 * Interruptores
 
@@ -113,6 +115,8 @@ Puedes encontrar más [PCBPrints en el repositorio](https://github.com/PCBPrints
   * Conexión a pines de 5v
     * Breadboard
     * PCBPrints
+
+# TODO
 
 * Panel de Corcho
 
