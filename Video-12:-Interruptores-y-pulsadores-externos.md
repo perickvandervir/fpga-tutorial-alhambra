@@ -80,11 +80,15 @@ Para la conexión a los **pines de 5v**, usamos el mismo esquema que para los de
 
 Este valor de las resistencias es debido al **convertidor de niveles** de 5v a 3.3v. Los pines de 5v no salen directamente de la FPGA, sino que pasan por un convertidor. Para que se **configure** correctamente como una **entrada** la resistencia de **pull-down** debe tener, típicamente, esos valores
 
+### Pulsador en placa entrenadora
+
+El esquema de conexionado de un pulsador externo al pin D0 de la Icezum Alhambra se muestra en este esquema de Fritzzing
+
+![]()
+
+### Pulsador en PCBPrint
 
 # TODO
-
-* Breadboard
-* PCBprints
 
 * Interruptores
 
