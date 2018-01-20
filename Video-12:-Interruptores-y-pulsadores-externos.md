@@ -58,7 +58,7 @@ Con este esquema tenemos un pulsador que envía un **0** cuando  **NO está puls
 
 ## Conexión a pines de 3.3v (GPx)
 
-Cuando lo conectamos a los **pines de 3.3v** de la Icezum Alhambra (GPx), los valores típicos de la resistencia que usaremos serán entre **1K** y **10K**
+Cuando lo conectamos a los **pines de 3.3v** de la Icezum Alhambra (GPx), los valores típicos de la resistencia que usaremos serán entre **1K** y **100K**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/pulsador-02.png)
 
