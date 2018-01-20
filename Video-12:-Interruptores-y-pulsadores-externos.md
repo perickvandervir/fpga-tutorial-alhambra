@@ -74,16 +74,15 @@ Y este es el **montaje real**
 
 ## Conexión a pines de 5v
 
-TODO
+Para la conexión a los pines de 5v, usamos el mismo esquema que para los de 3.3v pero la **resistencia** de **pull-down** tiene que ser **menor o igual a 1K**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/pulsador-05.png)
 
-Importante: Pull-down 1K o menor!
 
 # TODO
 
-    * Breadboard
-    * PCBprints
+* Breadboard
+* PCBprints
 
 * Interruptores
 
