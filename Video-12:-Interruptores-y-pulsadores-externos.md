@@ -89,7 +89,7 @@ El **esquema de conexionado** de un pulsador externo al **pin D0** de la Icezum 
 
 Y este es el **montaje real**:
 
-(FOTO)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/pulsador-07.jpg)
 
 ### Pulsador en PCBPrint
 
