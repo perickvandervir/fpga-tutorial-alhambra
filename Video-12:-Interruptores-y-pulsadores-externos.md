@@ -83,7 +83,7 @@ Este valor de las resistencias es debido al **convertidor de niveles** de 5v a 3
 
 ### Pulsador en placa entrenadora
 
-El **esquema de conexionado** de un pulsador externo al **pin D0** de la Icezum Alhambra se muestra en este dibujo hecho con **Fritzzing**
+El **esquema de conexionado** de un pulsador externo al **pin D0** de la Icezum Alhambra se muestra en este dibujo hecho con **Fritzzing**. Se ha utilizado una **resistencia de 1K**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/pulsador-06.png)
 
