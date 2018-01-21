@@ -129,10 +129,12 @@ En esta foto se muestra el **montaje real**:
 
 ## Conexión a pines de 5v (Dx)
 
-### TODO
+(Esquema)
 
-* Protoboard
-* PCBPrint
+### Interruptor en placa entrenadora
+
+### Interruptor en PCBPrint
+
 
 # TODO
 
