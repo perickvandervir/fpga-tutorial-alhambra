@@ -107,6 +107,13 @@ Puedes encontrar más [PCBPrints en el repositorio](https://github.com/PCBPrints
 
 # Interruptores externos
 
+Los interruptores típicamente tiene **3 pines**. Uno es el **común**, que se conecta a alguno de los otros dos según en la posición en la que se encuentre. El **esquema de conexión**  genérico es:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/interruptor-01.png)
+
+En este interruptor, el **pin común** es el del **centro**, y es el que se conecta directamente al **pin de la FPGA**. Por otro pin se introduce **GND** y por el último la **alimentación**, que dependerá del tipo de pin de la FPGa al que nos conectemos. Introduciremos **5v** ó **3.3v**. Seún la posición donde esté colocado el interruptor, a la FPGA le llegará la señal GND (0) ó la de alimentación (1)
+
+
 ## TODO
 
 * Interruptores
