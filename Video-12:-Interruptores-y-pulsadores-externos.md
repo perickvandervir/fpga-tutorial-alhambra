@@ -132,7 +132,7 @@ En esta foto se muestra el **montaje real**:
 
 Este es el **esquema** para conectar un interruptor a los **pines de 5v** de la Icezum alhambra. Lo implementaremos de dos maneras, con **placa entrenadora** y con **una PCBPrint**
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Interruptor-04.jpg)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Interruptor-04.png)
 
 ### Interruptor en placa entrenadora
 
