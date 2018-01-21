@@ -94,6 +94,7 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)|  Javier Ferrero (Pribys)  | Aspirante a Padawan | 63 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)| Felix J. Marcelo(wernitzer)  | Aspirante a Padawan | 62 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)| Jose Daniel García Espinel  | Aspirante a Padawan | 60 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|  Migue (@Migueabellan)    | Cadete Nivel 3 | 58 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|    BV9  | Cadete Nivel 3 | 57 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|    Mab (MinicatsCB, @tododilesi)    | Cadete Nivel 3 | 57 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|    Juan A Ramón Girón (Klavius69)   | Cadete Nivel 3 | 54 |
@@ -104,7 +105,6 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|  Bernardo Alvarez (Biober)  | Cadete Nivel 3 | 49 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)| Jacobo Díaz (Yakotxt)   | Cadete Nivel 3 | 49 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|  Luis Sobrino Fdz.    | Cadete Nivel 3 | 48 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|  Migue (@Migueabellan)    | Cadete Nivel 3 | 47 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)| Jorge Turiel  | Cadete Nivel 3 | 46 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|    Ringitgo    | Cadete Nivel 3 | 44 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|    Ramonjv    | Cadete Nivel 3 | 44 |
