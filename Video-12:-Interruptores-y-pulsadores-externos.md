@@ -26,6 +26,8 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Conexión a pines de 5v (Dx)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#conexi%C3%B3n-a-pines-de-5v-dx)
     * [Interruptor en placa entrenadora](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#interruptor-en-placa-entrenadora)
     * [Interruptor en PCBPrint](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#interruptor-en-pcbprint)
+* [Paneles personalizados](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#paneles-personalizados)
+
 
 # Introducción
 
