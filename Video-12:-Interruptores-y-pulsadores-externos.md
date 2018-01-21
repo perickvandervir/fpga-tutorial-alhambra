@@ -151,9 +151,9 @@ Una opción muy cómoda es hacernos **nuestras propias placas** con interruptor 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Interruptor-07.jpg)
 
-En esta foto vemos la Alhambra switch conectada al pin D0 de la Icezum Alhambra:
+En esta **foto** vemos la **Alhambra switc**h conectada al **pin D0** de la Icezum Alhambra:
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Interruptor-08.jpg)
 
 # Paneles personalizados
 
