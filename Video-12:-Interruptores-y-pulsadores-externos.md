@@ -142,7 +142,7 @@ Este es el **esquema en Fritzzing**. Es muy parecido al interruptor para 3.3v, p
 
 Y esta es una foto del **montaje real**:
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Interruptor-06.jpg)
 
 ### Interruptor en PCBPrint
 
