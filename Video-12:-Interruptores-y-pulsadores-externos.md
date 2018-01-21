@@ -136,6 +136,14 @@ Este es el **esquema** para conectar un interruptor a los **pines de 5v** de la 
 
 ### Interruptor en placa entrenadora
 
+Este es el **esquema en Fritzzing**. Es muy parecido al interruptor para 3.3v, pero conectando ahora al **pin D0** en vez del GP0 y al de **5v** en vez del al de 3.3v
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Interruptor-05.png)
+
+Y esta es una foto del **montaje real**:
+
+(Foto)
+
 ### Interruptor en PCBPrint
 
 
