@@ -147,13 +147,20 @@ Y esta es una foto del **montaje real**:
 
 ### Interruptor en PCBPrint
 
-Una opción muy cómoda es hacernos nuestros propias placas con interruptor externo con la impresora 3D. Una de estas placas es la [Alhambra Switch](https://github.com/PCBPrints/Alhambra-switch/wiki)
+Una opción muy cómoda es hacernos **nuestras propias placas** con interruptor externo con la **impresora 3D**. Una de estas placas es la [Alhambra Switch](https://github.com/PCBPrints/Alhambra-switch/wiki)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Interruptor-07.jpg)
 
+En esta foto vemos la Alhambra switch conectada al pin D0 de la Icezum Alhambra:
+
+(Foto)
+
+# Paneles personalizados
+
+(Panel de corcho)
+(Piezas impresas para el panel)
 
 # TODO
-
-* Panel de Corcho
 
 * Ejemplo 1: Pulsador, interrutor, LEDs
 * Ejemplo 2: Interruptor + servo
