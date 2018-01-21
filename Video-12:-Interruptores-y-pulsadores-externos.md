@@ -147,6 +147,9 @@ Y esta es una foto del **montaje real**:
 
 ### Interruptor en PCBPrint
 
+Una opción muy cómoda es hacernos nuestros propias placas con interruptor externo con la impresora 3D. Una de estas placas es la [Alhambra Switch](https://github.com/PCBPrints/Alhambra-switch/wiki)
+
+
 
 # TODO
 
