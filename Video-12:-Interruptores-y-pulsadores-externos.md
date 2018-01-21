@@ -116,11 +116,13 @@ En este interruptor, el **pin común** es el del **centro**, y es el que se cone
 
 ## Conexión a pines de 3.3v (GPx)
 
-Este es un ejemplo de conexión de un interruptor al **pin GP0** de la Icezum Alhambra. La pata común del interruptor es la del centro, que se conecta directamente a GP0. La pata de la derecha se conecta a GND y la de la izquierda a 3.3v. 
+Este es un ejemplo de conexión de un interruptor al **pin GP0** de la Icezum Alhambra. La pata común del interruptor es la del **centro**, que se conecta directamente a GP0. La pata de la derecha se conecta a **GND** y la de la izquierda a **3.3v**. 
+
+ **¡Cuidado! Es un pin de 3.3v. ¡NO CONECTARLO A 5V!**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/interruptor-02.png)
 
- **¡Cuidado! Es un pin de 3.3v. ¡NO CONECTARLO A 5V!**
+
 
 ### TODO
 
