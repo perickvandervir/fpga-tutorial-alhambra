@@ -122,13 +122,13 @@ Este es un ejemplo de conexión de un interruptor al **pin GP0** de la Icezum Al
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/interruptor-02.png)
 
+En esta foto se muestra el **montaje real**:
 
-
-### TODO
-
-* Protoboard
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Interruptor-03.jpg)
 
 ## Conexión a pines de 5v (Dx)
+
+### TODO
 
 * Protoboard
 * PCBPrint
