@@ -27,7 +27,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Interruptor en placa entrenadora](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#interruptor-en-placa-entrenadora)
     * [Interruptor en PCBPrint](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#interruptor-en-pcbprint)
 * [Paneles personalizados](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#paneles-personalizados)
-
+  * [Piezas 3D para el panel](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#piezas-3d-para-el-panel)
 
 # Introducción
 
