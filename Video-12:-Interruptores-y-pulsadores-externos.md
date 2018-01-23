@@ -193,9 +193,9 @@ En este primer ejemplo conectadores un **Interruptor** y un **pulsador externos*
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/ejemplo1-01.jpg)
 
-El circuito en Icestudio ya lo sabemos hacer. La única novedad es que elegimos los pines de entraea **D13** y **D12** para el **pulsador** y el **interruptor** respectivamente
+El circuito en **Icestudio** ya lo sabemos hacer. La única novedad es que elegimos los pines de entraea **D13** y **D12** para el **pulsador** y el **interruptor** respectivamente
 
-(Pantallazo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/ejemplo1-02.jpg)
 
 
 # TODO
