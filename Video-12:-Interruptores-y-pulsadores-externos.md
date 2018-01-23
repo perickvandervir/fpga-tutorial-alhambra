@@ -173,6 +173,7 @@ Usaremos **piezas impresas en 3D** para fijar los elementos al panel. Todos los 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/panel-03-icezum-alhambra-support.jpg)  | [Soporte para Servo Futaba 3003](https://github.com/Obijuan/3D-parts/wiki/Soporte-para-servo-Futaba-3003). Base para dar estabilidad al servo. Sujétala al corcho usando **fijadores de esquina**  |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/panel-04-puntero-servo.jpg)   | [Puntero para Servo Futaba 3003](https://github.com/Obijuan/3D-parts/wiki/Puntero-para-Servo-Futaba-3003). Muy útil para ver cómo ha girado el servo     |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/panel-05-clavijas-servo.png)  |  [Clavijas de amarre para servos](https://github.com/Obijuan/3D-parts/wiki/Servo-pins-para-Futaba-3003). Fija otras piezas a los servos, sin usar tornillos   |  
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/panel-06-tablero-indicador-servo.jpg)  | [Tablero indicador para servo](https://github.com/Obijuan/3D-parts/wiki/Tablero-indicador-binario-para-Servo). Mostrar las dos posiciones del servobit de 180 grados. Fijado al servo a través de clavijas de amarre  |
 
 # TODO
 
