@@ -30,6 +30,8 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Piezas 3D para el panel](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#piezas-3d-para-el-panel)
   * [Panel de prueba](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#panel-de-prueba)
 * [Ejemplo 1: Pulsador, Interruptor y LEDs](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#ejemplo-1-pulsador-interruptor-y-leds)
+* [Ejemplo 2: Tres interruptores y LEDs](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#ejemplo-2-tres-interruptores-y-leds)
+
 
 # Introducción
 
