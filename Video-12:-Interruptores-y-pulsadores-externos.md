@@ -209,8 +209,15 @@ En este ejemplo conectaremos **tres interruptores** a los pines **D13**, **D12**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Ejemplo2-01.jpg)
 
+En el circuito **conectaremos** el primer interruptor a los **LEDs 7** y **6**, el segundo a **4** y **3**, y el tercero a los **LEDs 1** y **0**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Ejemplo2-02.jpg)
+
+Lo **cargamos** para probarlo. En esta **animación** se muestra su funcionamiento:
+
+(animacion)
+
 # TODO
-* Ejemplo 2: Interruptor + servo
 * Ejemplo 3: Dos interruptores + LEDs
 * Ejercicios:
   * Interruptor para definir donde mira Franky. Botón para emitir ráfagas
