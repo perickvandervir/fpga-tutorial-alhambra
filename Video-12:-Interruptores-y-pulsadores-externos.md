@@ -201,6 +201,11 @@ El circuito en **Icestudio** ya lo sabemos hacer. La única novedad es que elegi
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Ejemplo-1-anim.gif)
 
+# Ejemplo 2: tres interruptores y LEDs
+
+En este ejemplo conectaremos **tres interruptores** a los pines **D13**, **D12** y **D1**1 y los usaremos para encender **seis LEDS**, dos por cada interruptor. El **panel** es el siguiente:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Ejemplo2-01.jpg)
 
 # TODO
 * Ejemplo 2: Interruptor + servo
