@@ -189,7 +189,7 @@ Tiene **dos pulsadores**, **tres interruptores** y un **servo**. Tanto la icezum
 
 # Ejemplo 1: Pulsador, Interruptor y LEDs
 
-En este primer ejemplo conectadores un **Interruptor** y un **pulsador externos** en los **LEDS 7** y **0** respectivamente. Este es el **panel** creado para probarlo:
+En este primer ejemplo conectadores un **Interruptor** y un **pulsador externos** en los pines de 5v **D12** y **D13**. Haremos un circuito para que enciendan los **LEDS 7** y **0** respectivamente. Este es el **panel** creado para probarlo:
 
 (Foto)
 
