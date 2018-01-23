@@ -156,14 +156,19 @@ Una opción muy cómoda es hacernos **nuestras propias placas** con interruptor 
 En esta **foto** vemos la **Alhambra switc**h conectada al **pin D0** de la Icezum Alhambra:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Interruptor-08.jpg)
-
+i
 # Paneles personalizados
-
+c
 Ya hemos visto algunos **periféricos** con los que empezar a montar **paneles de control** para propar nuestros circuitos circuitos. Utilizaremos una **base de corcho** donde colaremos los elementos con **chinchetas**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/panel-01.jpg)
 
-(Piezas impresas para el panel)
+## Piezas 3D para el panel
+
+Usaremos **piezas impresas en 3D** para fijar los elementos al panel. Todos los que se muestran a continuación se han diseñado con [FreeCAD](https://www.freecadweb.org/?lang=es_ES)
+
+
+
 
 # TODO
 
