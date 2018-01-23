@@ -159,6 +159,8 @@ En esta **foto** vemos la **Alhambra switc**h conectada al **pin D0** de la Icez
 
 # Paneles personalizados
 
+Ya hemos visto algunos **periféricos** con los que empezar a montar **paneles de control** para propar nuestros circuitos circuitos. Utilizaremos una **base de corcho** donde colaremos los elementos con **chinchetas**
+
 (Panel de corcho)
 (Piezas impresas para el panel)
 
