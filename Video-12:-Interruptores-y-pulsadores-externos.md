@@ -170,6 +170,7 @@ Usaremos **piezas impresas en 3D** para fijar los elementos al panel. Todos los 
 |           |           |
 |-----------|-----------|
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/panel-02-icezum-alhambra-support.jpg)   | [Soporte para Icezum Alhambra](https://github.com/FPGAwars/Icezum-Alhambra-3D-support/wiki) |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/panel-03-icezum-alhambra-support.jpg)   | [Soporte para Servo Futaba 3003](https://github.com/Obijuan/3D-parts/wiki/Soporte-para-servo-Futaba-3003)  |
 
 
 # TODO
