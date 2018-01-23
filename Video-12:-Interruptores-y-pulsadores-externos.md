@@ -186,6 +186,8 @@ Este es un **ejemplo** de panel para hacer **pruebas**
 
 Tiene **dos pulsadores**, **tres interruptores** y un **servo**. Tanto la icezum Alhambra como el servo están amarrados mediante **fijadores de esquinas** y los **PCBprints** con **fijadores de placas**
 
+# Ejemplo 1: Pulsador, Interruptor y LEDs
+
 
 # TODO
 
