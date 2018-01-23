@@ -215,10 +215,13 @@ En el circuito **conectaremos** el primer interruptor a los **LEDs 7** y **6**, 
 
 Lo **cargamos** para probarlo. En esta **animación** se muestra su funcionamiento:
 
-(animacion)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Ejemplo-2-anim.gif)
+
+Utilizando los interruptores, ya podemos introducir **números binarios** en nuestros circuitos
+
+# Ejemplo 3: Apertura de una cerradura con clave
 
 # TODO
-* Ejemplo 3: Dos interruptores + LEDs
 * Ejercicios:
   * Interruptor para definir donde mira Franky. Botón para emitir ráfagas
   * Interruptor para estado de la puerta. Pulsador para timbre luminoso
