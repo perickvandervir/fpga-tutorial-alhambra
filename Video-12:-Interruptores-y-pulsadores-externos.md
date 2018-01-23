@@ -175,6 +175,7 @@ Usaremos **piezas impresas en 3D** para fijar los elementos al panel. Todos los 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/panel-05-clavijas-servo.png)  |  [Clavijas de amarre para servos](https://github.com/Obijuan/3D-parts/wiki/Servo-pins-para-Futaba-3003). Fija otras piezas a los servos, sin usar tornillos   |  
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/panel-06-tablero-indicador-servo.jpg)  | [Tablero indicador para servo](https://github.com/Obijuan/3D-parts/wiki/Tablero-indicador-binario-para-Servo). Mostrar las dos posiciones del servobit de 180 grados. Fijado al servo a través de clavijas de amarre  |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/panel-07-fijador-esquinas.jpg)   |    [Fijador de esquinas](https://github.com/Obijuan/3D-parts/wiki/Fijador-de-esquinas). Amarra al corcho cualquier pieza con esquinas    |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/panel-08-fijador-cables.jpg)   |   [Fijador de cables](https://github.com/Obijuan/3D-parts/wiki/Fijador-de-cables-con-chinchetas). Fija los cables al corchos   |
 
 # TODO
 
