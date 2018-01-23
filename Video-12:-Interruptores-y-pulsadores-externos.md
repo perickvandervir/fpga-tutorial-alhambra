@@ -197,6 +197,10 @@ El circuito en **Icestudio** ya lo sabemos hacer. La única novedad es que elegi
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/ejemplo1-02.jpg)
 
+**Cargamos** el ejemplo en la placa y lo **probamos**. En esta **animación** vemos el funcionamiento: Con el interruptor encendemos el LED 0 y con el pulsador el LED 7 (ambas cosas se pueden hacer a la vez, por supuesto)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Ejemplo-1-anim.gif)
+
 
 # TODO
 * Ejemplo 2: Interruptor + servo
