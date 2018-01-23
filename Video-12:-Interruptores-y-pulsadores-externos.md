@@ -167,7 +167,9 @@ Ya hemos visto algunos **periféricos** con los que empezar a montar **paneles d
 
 Usaremos **piezas impresas en 3D** para fijar los elementos al panel. Todos los que se muestran a continuación se han diseñado con [FreeCAD](https://www.freecadweb.org/?lang=es_ES)
 
-
+|           |           |
+|-----------|-----------|
+|           | [Soporte para Icezum Alhambra](https://github.com/FPGAwars/Icezum-Alhambra-3D-support/wiki) |
 
 
 # TODO
