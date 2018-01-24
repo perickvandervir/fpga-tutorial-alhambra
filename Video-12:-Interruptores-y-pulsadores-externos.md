@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Portada/Tut-12-portada.png)
 
 # Vídeo
 
