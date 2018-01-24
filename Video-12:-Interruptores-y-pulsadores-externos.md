@@ -232,19 +232,11 @@ El **panel** es el siguiente
 
 Para implementar el circuito, utilizaremos **dos puertas AND** para saber si el código es el correcto. Se activará la señal final si todos los interruptores están a 1. La cerradura se **abrirá** si el **código es correcto** Y se ha **apretado** el pulsador, por lo que utilizaremos una **tercera puerta AND**
 
-(circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Ejemplo-3-02.png)
 
-* TODO: Animación
+**Cargamos** el circuito y lo **probamos**. En esta **animación** se muestra el funcionamiento
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Ejemplo-3-anim.gif)
-
-# TODO
-* Ejercicios:
-  * Interruptor para definir donde mira Franky. Botón para emitir ráfagas
-  * Interruptor para estado de la puerta. Pulsador para timbre luminoso
-  * 4 interruptores para mostrar bits
-
-
 
 # Ejercicios propuestos (X BitPoints)
 
