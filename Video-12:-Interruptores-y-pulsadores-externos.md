@@ -224,6 +224,8 @@ Utilizando los interruptores, ya podemos introducir **números binarios** en nue
 
 # Ejemplo 3: Apertura de una cerradura con clave
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Ejemplo-3-anim.gif)
+
 # TODO
 * Ejercicios:
   * Interruptor para definir donde mira Franky. Botón para emitir ráfagas
