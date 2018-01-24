@@ -224,6 +224,13 @@ Utilizando los interruptores, ya podemos introducir **números binarios** en nue
 
 # Ejemplo 3: Apertura de una cerradura con clave
 
+Utilizamores **3 interruptores** para introducir un **código** de 3 bits. Al apretar un **pulsador** se moverá un **servo** si el código es el correcto, simulando que es la **apertura de la caja fuerte**. El código para abrir la caja fuerte será **111**. Es decir, los tres switches a 1
+
+El **panel** es el siguiente
+
+
+* TODO: Animación
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Ejemplo-3-anim.gif)
 
 # TODO
