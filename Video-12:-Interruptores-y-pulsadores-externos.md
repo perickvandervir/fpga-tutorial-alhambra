@@ -33,6 +33,7 @@ Utilizaremos **interruptores** y **pulsadores** externos para **introducir bits*
 * [Ejemplo 1: Pulsador, Interruptor y LEDs](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#ejemplo-1-pulsador-interruptor-y-leds)
 * [Ejemplo 2: Tres interruptores y LEDs](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#ejemplo-2-tres-interruptores-y-leds)
 * [Ejemplo 3: Apertura de una cerradura con clave](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#ejemplo-3-apertura-de-una-cerradura-con-clave)
+* [Ejercicios propuestos (16 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#ejercicios-propuestos-16-bitpoints)
 
 
 
