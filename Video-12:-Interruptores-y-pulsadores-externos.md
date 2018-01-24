@@ -241,17 +241,17 @@ Para implementar el circuito, utilizaremos **dos puertas AND** para saber si el 
 
 Al **soltar** el pulsador, la cerradura vuelve a su **posición inicial**. Lo suyo sería que se quedase abierta durante un tiempo, o hasta que apretásemos otro pulsador. Pero para ello **necesitamos almacenar bits**, que todavía no sabemos :-)
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (16 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **x Bitpoints**): 
+* **Ejercicio 1** (Total **5 Bitpoints**): 
 
-* **Ejercicio 2** (Total **x Bitpoints**): 
+* **Ejercicio 2** (Total **3 Bitpoints**): 
 
-* **Ejercicio 3** (Total **x Bitpoints**): 
+* **Ejercicio 3** (Total **5 Bitpoints**): 
 
 * **Ejercicio 4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
