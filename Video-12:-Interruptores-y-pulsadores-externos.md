@@ -8,6 +8,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
+Utilizaremos **interruptores** y **pulsadores** externos para **introducir bits** en nuestros circuitos digitales. Aprenderemos las diferentes formas de conexión, y construiremos **paneles de control** con ellos
 
 # Colección
 
