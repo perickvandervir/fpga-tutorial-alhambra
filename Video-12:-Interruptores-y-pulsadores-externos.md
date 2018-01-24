@@ -238,6 +238,8 @@ Para implementar el circuito, utilizaremos **dos puertas AND** para saber si el 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Ejemplo-3-anim.gif)
 
+Al **soltar** el pulsador, la cerradura vuelve a su **posición inicial**. Lo suyo sería que se quedase abierta durante un tiempo, o hasta que apretásemos otro pulsador. Pero para ello **necesitamos almacenar bits**, que todavía no sabemos :-)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
