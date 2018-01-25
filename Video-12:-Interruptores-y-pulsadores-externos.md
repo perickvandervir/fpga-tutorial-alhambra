@@ -35,6 +35,7 @@ Utilizaremos **interruptores** y **pulsadores** externos para **introducir bits*
 * [Ejemplo 3: Apertura de una cerradura con clave](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#ejemplo-3-apertura-de-una-cerradura-con-clave)
 * [Ejercicios propuestos (16 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#ejercicios-propuestos-16-bitpoints)
 * [Ejercicios entregados](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#ejercicios-entregados)
+* [Autor](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#autor)
 
 
 # Introducción
