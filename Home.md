@@ -69,10 +69,10 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2-min.png)|   Jordi R. Crespo | Aspirante a Padawan Nivel-2 | 106 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2-min.png)|   Jose López | Aspirante a Padawan Nivel-2 | 104 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2-min.png)|   Dmayoraru (isindalin) | Aspirante a Padawan Nivel-2 | 104 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2-min.png)|   Andrés Prieto-Moreno (aprieto) | Aspirante a Padawan Nivel-2 | 103 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2-min.png)|     Enea Kao (@Eneakao) | Aspirante a Padawan Nivel-2 | 102 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2-min.png)|   Gut-mart | Aspirante a Padawan Nivel-2 | 101 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2-min.png)|     Talud08 (@javivicen) | Aspirante a Padawan Nivel-2 | 100 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|    Andrés Prieto-Moreno (aprieto) | Aspirante a Padawan Nivel-1 | 97 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|   Robertodcrsj   | Aspirante a Padawan Nivel-1 | 95 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|   JuanDGómezM  | Aspirante a Padawan Nivel-1 | 94 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|   Javier Solsona (javsol)  | Aspirante a Padawan Nivel-1 | 94 |
