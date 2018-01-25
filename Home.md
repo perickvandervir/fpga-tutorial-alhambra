@@ -64,9 +64,9 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|   Fernando Coladas (@fcoladas)  | Aspirante a Padawan Nivel-3 | 122 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|   Jose Luis (@movilujo)  | Aspirante a Padawan Nivel-3 | 120 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2-min.png)|    Manuel Andújar (Matalobo) | Aspirante a Padawan Nivel-2 | 117 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2-min.png)|    Jordi R. Crespo | Aspirante a Padawan Nivel-2 | 117 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2-min.png)|   Jorge Lobo (Lobotic)  | Aspirante a Padawan Nivel-2 | 110 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2-min.png)|  Josep Montoliu (Klarojms)  | Aspirante a Padawan Nivel-2 | 107 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2-min.png)|   Jordi R. Crespo | Aspirante a Padawan Nivel-2 | 106 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2-min.png)|   Jose López | Aspirante a Padawan Nivel-2 | 104 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2-min.png)|   Dmayoraru (isindalin) | Aspirante a Padawan Nivel-2 | 104 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2-min.png)|   Andrés Prieto-Moreno (aprieto) | Aspirante a Padawan Nivel-2 | 103 |
