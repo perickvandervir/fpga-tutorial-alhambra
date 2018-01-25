@@ -248,7 +248,13 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **5 Bitpoints**): 
+* **Ejercicio 1** (Total **5 Bitpoints**): Utilizar un **interruptor** y **pulsador externos** para 
+controlar a **Franky**. Diseñar un circuito digital para que Franky mueva la cabeza a 
+derecha o izquierda según el estado del interruptor. Al apretar el pulsador ambos ojos 
+parpadearán con una frecuencia de 10Hz
+
+Con esto convertimos a Franky en un robot defensivo. Con sus ráfagas láser dispara a 
+los enemigos, que le vienen por la derecha y la izquierda :-)
 
 * **Ejercicio 2** (Total **3 Bitpoints**): 
 
