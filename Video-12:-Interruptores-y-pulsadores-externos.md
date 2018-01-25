@@ -12,7 +12,7 @@ Utilizaremos **interruptores** y **pulsadores** externos para **introducir bits*
 
 # Colección
 
-**Academia-Jedi-HW-12.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-12.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-12/Collection/Academia-Jedi-HW-12.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
