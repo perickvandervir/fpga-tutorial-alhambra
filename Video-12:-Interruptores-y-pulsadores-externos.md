@@ -248,12 +248,9 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **5 Bitpoints**): Utilizar un **interruptor** y **pulsador externos** para 
-controlar a **Franky**. Diseñar un circuito digital para que Franky mueva la cabeza a 
-derecha o izquierda según el estado del interruptor. Al apretar el pulsador ambos ojos 
-parpadearán con una frecuencia de 10Hz. Con esto convertimos a Franky en un robot defensivo. Con sus ráfagas láser dispara a los enemigos, que le vienen por la derecha y la izquierda :-)
+* **Ejercicio 1** (Total **5 Bitpoints**): Utilizar un **interruptor** y **pulsador externos** para  controlar a **Franky**. Diseñar un circuito digital para que Franky mueva la cabeza a derecha o izquierda según el estado del interruptor. Al apretar el pulsador ambos ojos parpadearán con una frecuencia de 10Hz. Con esto convertimos a Franky en un robot defensivo. Con sus ráfagas láser dispara a los enemigos, que le vienen por la derecha y la izquierda :-)
 
-* **Ejercicio 2** (Total **3 Bitpoints**): 
+* **Ejercicio 2** (Total **3 Bitpoints**): Hacer un circuito digital con un pulsador externo para abrir y cerrar la barrera. Al apretarlo se abre, y al soltarlo se cierra. Añadir un interruptor externo para habilitar / deshabilitar el control manual de la barrera. Sólo funcionará el pulsador cuando el interruptor está a 1. Cuando esté a 0 la barrera estará bloqueda, y aunque se apriete el pulsador NO se abrirá
 
 * **Ejercicio 3** (Total **5 Bitpoints**): 
 
