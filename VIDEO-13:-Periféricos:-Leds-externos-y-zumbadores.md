@@ -13,7 +13,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Colección
 
-**Academia-Jedi-HW-11.zip**: Colección para este tutorial. Descargar e instalar 
+**Academia-Jedi-HW-13.zip**: Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
