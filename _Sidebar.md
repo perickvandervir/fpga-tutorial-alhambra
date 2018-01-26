@@ -23,3 +23,5 @@
 10. [ServoBit](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit)
 
 11. [Puertas AND. Habilitando circuitos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-11:-Puerta-AND.-Habilitando-circuitos)
+
+12. [Interruptores y pulsadores externos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos)
