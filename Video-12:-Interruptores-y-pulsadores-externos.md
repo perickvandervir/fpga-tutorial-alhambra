@@ -262,7 +262,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 # Ejercicios entregados
 
-## Primero
+## Fernando Coladas
 
 ### Ejercicio 1
 ![]()
