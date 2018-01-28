@@ -23,7 +23,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Introduccion-01.png)
 
 # LEDs externos
 
