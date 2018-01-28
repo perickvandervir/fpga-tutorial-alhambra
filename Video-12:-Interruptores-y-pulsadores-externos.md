@@ -303,18 +303,18 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 [![Click to see the youtube video](http://img.youtube.com/vi/dF5hkCG2QxM/0.jpg)](https://www.youtube.com/watch?v=dF5hkCG2QxM)
 
 ### Ejercicio 2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-12/fgcoca/Ejercicio-2/Ejercicio12_2%20-P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/oF_jquyuOPs/0.jpg)](https://www.youtube.com/watch?v=oF_jquyuOPs)
 
 ### Ejercicio 3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-12/fgcoca/Ejercicio-3/Ejercicio12_3%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/iJHsrUr7dTQ/0.jpg)](https://www.youtube.com/watch?v=iJHsrUr7dTQ)
 
 ### Ejercicio 4
 ![]()
