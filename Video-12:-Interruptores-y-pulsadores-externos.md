@@ -266,11 +266,11 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 ## Fernando Coladas
 
 ### Ejercicio 1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-12/ColRod/Actividad%2012.1.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/hRK4v32z9Mg/0.jpg)](https://www.youtube.com/watch?v=hRK4v32z9Mg)
 
 ### Ejercicio 2
 ![]()
