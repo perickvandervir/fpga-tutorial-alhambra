@@ -327,32 +327,26 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 ## Robertodcrsj
 
 ### Ejercicio 1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-12/Robertou2/ejercicio12.1.PNG)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/KEOMVP6I4LQ/0.jpg)](https://www.youtube.com/watch?v=KEOMVP6I4LQ)
 
 ### Ejercicio 2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-12/Robertou2/ejercicio12.2.PNG)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/_YYPAURwlSU/0.jpg)](https://www.youtube.com/watch?v=_YYPAURwlSU)
 
 ### Ejercicio 3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-12/Robertou2/ejercicio12.3.PNG)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/SACeU141QlA/0.jpg)](https://www.youtube.com/watch?v=SACeU141QlA)
 
-### Ejercicio 4
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 # Autor
 
