@@ -380,6 +380,14 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 * [Repositorio de PCBPrints](https://github.com/PCBPrints/PCbPrints)
 * [PCBPrint Alhambra-Button](https://github.com/PCBPrints/Alhambra-button/wiki)
 * [PCBPrint Alhambra Switch](https://github.com/PCBPrints/Alhambra-switch/wiki)
+* [Soporte Icezum Alhambra](https://github.com/FPGAwars/Icezum-Alhambra-3D-support/wiki)
+* [Soporte para Servo Futaba 3003](https://github.com/Obijuan/3D-parts/wiki/Soporte-para-servo-Futaba-3003)
+* [Puntero para servo Futaba 3003](https://github.com/Obijuan/3D-parts/wiki/Puntero-para-Servo-Futaba-3003)
+* [Clavijas de amarre para servos](https://github.com/Obijuan/3D-parts/wiki/Servo-pins-para-Futaba-3003)
+* [Tablero indicador binario para servo](https://github.com/Obijuan/3D-parts/wiki/Tablero-indicador-binario-para-Servo)
+* [Fijador de esquinas](https://github.com/Obijuan/3D-parts/wiki/Fijador-de-esquinas)
+* [Fijador de cables](https://github.com/Obijuan/3D-parts/wiki/Fijador-de-cables-con-chinchetas)
+* [Fijador de placas](https://github.com/Obijuan/3D-parts/wiki/Fijador-de-placas)
 
 # FAQs
 
