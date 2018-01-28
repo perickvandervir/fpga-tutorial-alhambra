@@ -57,10 +57,10 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 
 |Divisa  | Nombe             | Rango    | BitPoints |
 |--------|-------------------|----------|-----------|
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|     Federico Coca | Aspirante a Padawan Nivel-3 | 140 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|   Fernando Coladas (@fcoladas)  | Aspirante a Padawan Nivel-3 | 138 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|    Joaquín Cubillo (jcubilloarr)  | Aspirante a Padawan Nivel-3 | 124 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|     Ximo Catala (Ximocat)  | Aspirante a Padawan Nivel-3 | 124 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|     Federico Coca | Aspirante a Padawan Nivel-3 | 124 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|     J. Carlos Obregón (_Carlobre_) | Aspirante a Padawan Nivel-3 | 124 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|   Jose Luis (@movilujo)  | Aspirante a Padawan Nivel-3 | 120 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|   Jordi R. Crespo  | Aspirante a Padawan Nivel-3 | 120 |
