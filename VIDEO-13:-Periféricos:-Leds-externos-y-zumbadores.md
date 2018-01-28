@@ -21,6 +21,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [LEDs externos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#leds-externos)
   * [Conexión directa](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#conexi%C3%B3n-directa)
   * [Conexión a través de un transistor](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#conexi%C3%B3n-a-trav%C3%A9s-de-un-transistor)
+    * [PCBPrint: Alhambra-LED](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#pcbprint-alhambra-led)
 
 
 # Introducción
