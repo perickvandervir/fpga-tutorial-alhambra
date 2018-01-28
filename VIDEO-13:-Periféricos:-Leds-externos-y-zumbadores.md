@@ -49,8 +49,10 @@ El inconveniente de esto es que el **LED se iluminará poco** porque la resisten
 
 ## Conexión a través de un transistor
 
-TODO
+El **esquema** de conexión es el siguiente
 
+
+# TODO
 * Buzzer pasivo o altavos. Enlace en la web de Luis Llamas: https://www.luisllamas.es/reproducir-sonidos-arduino-buzzer-pasivo-altavoz/
 
 # Ejercicios propuestos (X BitPoints)
