@@ -292,7 +292,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 * **Vídeo** en Youtube:
 [![Click to see the youtube video](http://img.youtube.com/vi/eEsrBP4Nw4s/0.jpg)](https://www.youtube.com/watch?v=eEsrBP4Nw4s)
 
-## Segundo
+## Federico Coca (fgcoca)
 
 ### Ejercicio 1
 ![]()
