@@ -17,6 +17,10 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Contenido
 
+# Introducción
+
+# LEDs externos
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
