@@ -63,6 +63,10 @@ y este es el **montaje real**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Leds-externos-04.jpg)
 
+### PCBPrint: Alhambra-LED
+
+TODO
+
 # TODO
 * Buzzer pasivo o altavos. Enlace en la web de Luis Llamas: https://www.luisllamas.es/reproducir-sonidos-arduino-buzzer-pasivo-altavoz/
 
