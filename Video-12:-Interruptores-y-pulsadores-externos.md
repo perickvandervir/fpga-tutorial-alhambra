@@ -377,6 +377,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 * [Pinza paralela](http://www.iearobotics.com/wiki/index.php?title=Freecad:_Pinza_mecanica)
 * [Robot Educativo Zowi](https://github.com/JavierIH/zowi)
 * [Qué es PWM y para qué sirve](https://www.rinconingenieril.es/que-es-pwm-y-para-que-sirve/). Entrada en el bloq de **Rincón Ingenieril**
+* [Repositorio de PCBPrints](https://github.com/PCBPrints/PCbPrints)
 
 # FAQs
 
