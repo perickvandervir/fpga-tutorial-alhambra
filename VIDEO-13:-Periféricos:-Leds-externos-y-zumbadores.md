@@ -51,6 +51,9 @@ El inconveniente de esto es que el **LED se iluminará poco** porque la resisten
 
 El **esquema** de conexión es el siguiente
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Leds-externos-02.png)
+
+Al enviarse un 1 por el pin de la FPGA, se **activa el transitor**, que funciona como un interruptor, conectando  la resistencia a GND y cerrando el circuito. Ahora por el LED circuilará la **suficiente corriente** para hacer que luzca normalmente
 
 # TODO
 * Buzzer pasivo o altavos. Enlace en la web de Luis Llamas: https://www.luisllamas.es/reproducir-sonidos-arduino-buzzer-pasivo-altavoz/
