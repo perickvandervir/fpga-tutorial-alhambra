@@ -27,7 +27,7 @@ TODO
 
 # LEDs externos
 
-En el [tutorial X]() ya vimos cómo conectar **LEDs externos** a los **pines de 3.3v** de la [icezum Alhambra](). En este veremos cómo hacerlo a los **pines de 5v**, para conectar directamente los LEDs como periféricos de salida
+En el [tutorial 8](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos) ya vimos cómo conectar **LEDs externos** a los **pines de 3.3v** de la [icezum Alhambra](https://github.com/FPGAwars/icezum/wiki). En este veremos cómo hacerlo a los **pines de 5v**, para conectar directamente los LEDs como **periféricos de salida**
 
 Hay dos formas de conexión: **Directa** y a través de **transistor**
 
