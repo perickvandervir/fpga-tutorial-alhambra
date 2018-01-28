@@ -35,7 +35,7 @@ Hay dos formas de conexión: **Directa** y a través de **transistor**
 
 El **esquema** para conectar un LED directamente a los **pines de 5v** es el siguiente:
 
-![](Leds-externos-01.png)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Leds-externos-01.png)
 
 Los **pines de 5v** están conectados a los de la FPGA a través de unos **conversores de nivel** (3.3v <--> 5v). El valor de la **resistencia R** que usamos, determina la **configuración** del conversor: entrada o salida. Para conectar un LED el pin debe ser de **salida** y para ello hay que colocar una resistencia **mayor o igual a 2K2**.
 
