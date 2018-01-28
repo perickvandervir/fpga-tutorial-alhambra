@@ -324,7 +324,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 [![Click to see the youtube video](http://img.youtube.com/vi/dtmkNZRhHfo/0.jpg)](https://www.youtube.com/watch?v=dtmkNZRhHfo)
 
-## Robertodcrsj
+## Roberto del Campo (Robertodcrsj)
 
 ### Ejercicio 1
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-12/Robertou2/ejercicio12.1.PNG)
