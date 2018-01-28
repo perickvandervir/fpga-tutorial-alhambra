@@ -317,11 +317,11 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 [![Click to see the youtube video](http://img.youtube.com/vi/iJHsrUr7dTQ/0.jpg)](https://www.youtube.com/watch?v=iJHsrUr7dTQ)
 
 ### Ejercicio 4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-12/fgcoca/Ejercicio-4/Ejercicio12_4%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/dtmkNZRhHfo/0.jpg)](https://www.youtube.com/watch?v=dtmkNZRhHfo)
 
 ## Tercero
 
