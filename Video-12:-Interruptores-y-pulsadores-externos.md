@@ -287,11 +287,9 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 [![Click to see the youtube video](http://img.youtube.com/vi/6c6nVDWIh9U/0.jpg)](https://www.youtube.com/watch?v=6c6nVDWIh9U)
 
 ### Ejercicio 4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-12/ColRod/Actividad%2012.4.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/fcoladas/status/956992321563881472)
 
 
 ## Segundo
