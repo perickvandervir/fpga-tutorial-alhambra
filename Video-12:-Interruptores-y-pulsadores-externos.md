@@ -296,11 +296,11 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 ## Federico Coca (fgcoca)
 
 ### Ejercicio 1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-12/fgcoca/Ejercicio-1/E12-1-P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/dF5hkCG2QxM/0.jpg)](https://www.youtube.com/watch?v=dF5hkCG2QxM)
 
 ### Ejercicio 2
 ![]()
