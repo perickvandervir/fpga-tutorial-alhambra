@@ -23,7 +23,13 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
+TODO
+
 # LEDs externos
+
+En el [tutorial X]() ya vimos cómo conectar **LEDs externos** a los **pines de 3.3v** de la [icezum Alhambra](). En este veremos cómo hacerlo a los **pines de 5v**, para conectar directamente los LEDs como periféricos de salida
+
+Hay dos formas de conexión: **Directa** y a través de **transistor**
 
 # Ejercicios propuestos (X BitPoints)
 
