@@ -55,6 +55,14 @@ El **esquema** de conexión es el siguiente
 
 Al enviarse un 1 por el pin de la FPGA, se **activa el transitor**, que funciona como un interruptor, conectando  la resistencia a GND y cerrando el circuito. Ahora por el LED circuilará la **suficiente corriente** para hacer que luzca normalmente
 
+Este es un **esquema** de montaje en Fritzzing. Se ha usado el **transistor** NPN **BC547B**, con encapsulado **TO-92**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Leds-externos-03.png)
+
+y este es el **montaje real**:
+
+(figura)
+
 # TODO
 * Buzzer pasivo o altavos. Enlace en la web de Luis Llamas: https://www.luisllamas.es/reproducir-sonidos-arduino-buzzer-pasivo-altavoz/
 
