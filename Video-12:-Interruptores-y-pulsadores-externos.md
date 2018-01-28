@@ -379,6 +379,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 * [Qué es PWM y para qué sirve](https://www.rinconingenieril.es/que-es-pwm-y-para-que-sirve/). Entrada en el bloq de **Rincón Ingenieril**
 * [Repositorio de PCBPrints](https://github.com/PCBPrints/PCbPrints)
 * [PCBPrint Alhambra-Button](https://github.com/PCBPrints/Alhambra-button/wiki)
+* [PCBPrint Alhambra Switch](https://github.com/PCBPrints/Alhambra-switch/wiki)
 
 # FAQs
 
