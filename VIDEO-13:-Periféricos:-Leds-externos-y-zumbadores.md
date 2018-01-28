@@ -23,7 +23,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
-Hay muchos **periféricos**, tanto de entrada como de salida, que todavía no hemos visto, y que nos permitirán hacer muchísimas cosaas, sobre todo relacionadas con la **robótica**. Muchos los iremos viendo en estos tutoriales y en las siguientes temporadas de tutoriales. También es posible conectar periféricos analógicos, como **potenciómetros** o **sensores de luz**, cuya señal se digitaliza (se convierte en números) usando un conversor **analógico-digital**. En la Placa Icezum Alhambra hay un conversor de 4 canales
+Hay muchos **periféricos**, tanto de entrada como de salida, que todavía no hemos visto, y que nos permitirán hacer muchísimas cosaas, sobre todo relacionadas con la **robótica**. Muchos los iremos viendo en estos tutoriales y en las siguientes temporadas de tutoriales. También es posible conectar periféricos analógicos, como **potenciómetros** o **sensores de luz**, cuya señal se digitaliza (se convierte en números) usando un conversor **analógico-digital**. En la Placa **Icezum Alhambra** hay un **conversor A/D** de 4 canales
 
 En esta imagen se **listan** los periféricos. De todos ellos ya hemos visto 3: los **pulsadores**, los **interruptres** y los **servos**
 
