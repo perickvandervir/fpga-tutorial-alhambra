@@ -71,7 +71,7 @@ y este es el **montaje real**:
 TODO
 
 # TODO
-* Buzzer pasivo o altavos. Enlace en la web de Luis Llamas: https://www.luisllamas.es/reproducir-sonidos-arduino-buzzer-pasivo-altavoz/
+* Buzzer pasivo o altavoz
 
 # Ejercicios propuestos (X BitPoints)
 
