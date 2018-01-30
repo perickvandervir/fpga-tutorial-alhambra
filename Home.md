@@ -86,6 +86,7 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|  Diego Lale  | Aspirante a Padawan Nivel-1 | 80 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|   Sergio Morales (SetaSeta/Menyiques)  | Aspirante a Padawan Nivel-1 | 80 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|   Bercebus  | Aspirante a Padawan Nivel-1 | 80 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|   Felix J. Marcelo(wernitzer)  | Aspirante a Padawan Nivel-1 | 80 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|    Jose Maria Martínez (Itubal)  | Aspirante a Padawan Nivel-1 | 80 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)|  Javier Liras   | Aspirante a Padawan | 77 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)| Gerardo Gómez (clonehazard,chetosvsgeez )   | Aspirante a Padawan | 76 |
@@ -94,7 +95,6 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)| Migue (@Migueabellan)  | Aspirante a Padawan | 68 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)|  Alberto Valero   | Aspirante a Padawan | 63 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)|  Javier Ferrero (Pribys)  | Aspirante a Padawan | 63 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)| Felix J. Marcelo(wernitzer)  | Aspirante a Padawan | 62 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)| Pegatutti (Alfredo Sanz)  | Aspirante a Padawan | 60 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|    BV9  | Cadete Nivel 3 | 57 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|    Mab (MinicatsCB, @tododilesi)    | Cadete Nivel 3 | 57 |
