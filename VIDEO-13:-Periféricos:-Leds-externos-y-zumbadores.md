@@ -68,6 +68,10 @@ y este es el **montaje real**:
 
 ### PCBPrint: Alhambra-LED
 
+
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/alhambra-led-1.png)
+
 TODO
 
 # TODO
