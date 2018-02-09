@@ -68,7 +68,7 @@ y este es el **montaje real**:
 
 ### PCBPrint: Alhambra-LED
 
-
+Una opción muy cómo es usar un **PCBprint** con **LED**. Esta es la [Alhambra LED](https://github.com/FPGAwars/alhambra-led/wiki)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/alhambra-led-1.png)
 
