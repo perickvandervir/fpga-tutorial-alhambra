@@ -68,11 +68,16 @@ y este es el **montaje real**:
 
 ### PCBPrint: Alhambra-LED
 
-Una opción muy cómo es usar un **PCBprint** con **LED**. Esta es la [Alhambra LED](https://github.com/FPGAwars/alhambra-led/wiki)
+Una opción muy cómoda es usar un **PCBprint** con **LED**. Esta es la [Alhambra LED](https://github.com/FPGAwars/alhambra-led/wiki)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/alhambra-led-1.png)
 
-TODO
+Se conecta directamente a los **conectores de 5v** a través de un cable de tres hilos, y las podemos usar en nuestros paneles
+
+(Foto con conexión de un panel)
+
+# Ejemplo 1: Sirena luminosa con 2 LEDs
+
 
 # TODO
 * Buzzer pasivo o altavoz
