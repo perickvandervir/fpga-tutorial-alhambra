@@ -94,11 +94,16 @@ Primero construimos nuestro **panel** con los dos LEDS
 
 El circuito ya lo conocemos. Esta vez hemos añadido un título usando el nuevo renderizado del **Mark down** que incorpora **Icestudio 0.3.2**
 
-(Pantallazo circuito)
-(Funcionalidad de arrastrar!)
-(Mark Down!)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Alhambra-led-04.png)
 
 (animación de la sirena en acción)
+
+
+(Funcionalidad de arrastrar!)
+
+(Mark Down!)
+
+
 
 # Zumbador
 * Buzzer pasivo o altavoz
