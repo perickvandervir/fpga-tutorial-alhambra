@@ -114,7 +114,7 @@ Para cambiar al **modo edición** sólo hay que hacer **doble click** en el bloq
 
 Utilizaremos un **zumbador pasivo** o **altavoz** para escuchar sonidos generados desde nuestros circuitos. Es necesario conectar un **transistor** al zumbador para que circule **más corriente** y se active, escuchándose el sonido. El **esquema de conexión** es el siguiente:
 
-(esquema)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/zumbador-01.png)
 
 # Generando Sonido
 
