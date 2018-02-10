@@ -108,7 +108,7 @@ Y ahora es mucho más fácil añadir **documentación** en los **bloques de info
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Alhambra-led-07.gif)
 
-Se pueden poner emoticonos también :smile:
+Para cambiar al **modo edición** sólo hay que hacer **doble click** en el bloque. Y lo mismo para volver al **modo normal**. Se pueden poner **emoticonos** también :smile:
 
 # Zumbador
 * Buzzer pasivo o altavoz
