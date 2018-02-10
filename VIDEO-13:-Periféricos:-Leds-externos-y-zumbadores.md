@@ -98,8 +98,7 @@ El circuito ya lo conocemos. Esta vez hemos añadido un título usando el nuevo 
 
 **Cargamos** el circuito en la placa para probarlo
 
-(animación de la sirena en acción)
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Alhambra-led-05.gif)
 
 (Funcionalidad de arrastrar!)
 
