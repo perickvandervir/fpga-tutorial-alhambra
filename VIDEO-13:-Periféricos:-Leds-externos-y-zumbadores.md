@@ -110,8 +110,11 @@ Y ahora es mucho más fácil añadir **documentación** en los **bloques de info
 
 Para cambiar al **modo edición** sólo hay que hacer **doble click** en el bloque. Y lo mismo para volver al **modo normal**. Se pueden poner **emoticonos** también :smile:
 
-# Zumbador
-* Buzzer pasivo o altavoz
+# Zumbador pasivo
+
+Utilizaremos un **zumbador pasivo** o **altavoz** para escuchar sonidos generados desde nuestros circuitos. Es necesario conectar un **transistor** al zumbador para que circule **más corriente** y se active, escuchándose el sonido. El **esquema de conexión** es el siguiente:
+
+(esquema)
 
 # Generando Sonido
 
