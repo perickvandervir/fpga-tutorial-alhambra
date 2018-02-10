@@ -72,9 +72,9 @@ Una opción muy cómoda es usar un **PCBprint** con **LED**. Esta es la [Alhambr
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/alhambra-led-1.png)
 
-Se conecta directamente a los **conectores de 5v** a través de un cable de tres hilos, y las podemos usar en nuestros paneles
+Se conecta directamente a los **conectores de 5v** a través de un cable de tres hilos, y las podemos usar en nuestros **paneles**
 
-(Foto con conexión de un panel)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Alhambra-led-2.jpg)
 
 # Ejemplo 1: Sirena luminosa con 2 LEDs
 
