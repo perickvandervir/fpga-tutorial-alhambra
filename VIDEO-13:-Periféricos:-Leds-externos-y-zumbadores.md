@@ -78,9 +78,15 @@ Se conecta directamente a los **conectores de 5v** a través de un cable de tres
 
 # Ejemplo 1: Sirena luminosa con 2 LEDs
 
-
-# TODO
+# Zumbador
 * Buzzer pasivo o altavoz
+
+# Generando Sonido
+
+# Ejemplo 2: Sonido continuo y timbre
+
+# Ejemplo 3: Sirena luminosa y acústica, con dos zumbadores
+
 
 # Ejercicios propuestos (X BitPoints)
 
