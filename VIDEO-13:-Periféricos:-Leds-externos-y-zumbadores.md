@@ -106,8 +106,9 @@ Para **cambiar la frecuencia de parpadeo** sólo hay que cambiar el corazón por
 
 Y ahora es mucho más fácil añadir **documentación** en los **bloques de información** usando como notación el [markdown](https://guides.github.com/features/mastering-markdown/) de github
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Alhambra-led-07.gif)
 
-
+Se pueden poner emoticonos también 😄 
 
 # Zumbador
 * Buzzer pasivo o altavoz
