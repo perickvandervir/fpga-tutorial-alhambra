@@ -102,9 +102,7 @@ El circuito ya lo conocemos. Esta vez hemos añadido un título usando el nuevo 
 
 Para **cambiar la frecuencia de parpadeo** sólo hay que cambiar el corazón por otro de diferente frecuencia. Antes teníamos que borrar el cable (o el corazón), colocar el nuevo y volver a tirar el cable. En **Icestudio 0.3.2** se pueden **remplazar bloques** simplemente colocándolos encima
 
-
-
-(Funcionalidad de arrastrar!)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Alhambra-led-06.gif)
 
 (Mark Down!)
 
