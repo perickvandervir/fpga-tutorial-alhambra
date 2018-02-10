@@ -86,6 +86,18 @@ Se conecta directamente a los **conectores de 5v** a través de un cable de tres
 
 # Ejemplo 1: Sirena luminosa con 2 LEDs
 
+Como ejemplo vamos a conectar **dos LEDs externos** a los pines de 5v **D13** y **D12**, y los haremos **parpadear alternativamente**, igual que hicimos en el [tutorial 8](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos) con los leds conectados a los pines de 3.3v
+
+Primero construimos nuestro **panel** con los dos LEDS
+
+(Foto panel)
+
+(Pantallazo circuito)
+(Funcionalidad de arrastrar!)
+(Mark Down!)
+
+(animación de la sirena en acción)
+
 # Zumbador
 * Buzzer pasivo o altavoz
 
