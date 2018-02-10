@@ -96,6 +96,8 @@ El circuito ya lo conocemos. Esta vez hemos añadido un título usando el nuevo 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Alhambra-led-04.png)
 
+**Cargamos** el circuito en la placa para probarlo
+
 (animación de la sirena en acción)
 
 
