@@ -70,6 +70,8 @@ y este es el **montaje real**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Leds-externos-04.jpg)
 
+**NOTA**: El patillaje de los transitores cambia según el modelo usado, en este ejemplo estoy usando el transistor **BC547B** que tiene la **base** en la **pata central**, sin embargo hay otros que la tienen en un lateral
+
 ### PCBPrint: Alhambra-LED
 
 Una opción muy cómoda es usar un **PCBprint** con **LED**. Esta es la [Alhambra LED](https://github.com/FPGAwars/alhambra-led/wiki)
@@ -79,6 +81,8 @@ Una opción muy cómoda es usar un **PCBprint** con **LED**. Esta es la [Alhambr
 Se conecta directamente a los **conectores de 5v** a través de un cable de tres hilos, y las podemos usar en nuestros **paneles**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Alhambra-led-2.jpg)
+
+**NOTA**: El patillaje de los transitores cambia según el modelo. En la Alhambra-LED se usa el **BC635**, que tiene la **base** en una de las **patas laterales**
 
 # Ejemplo 1: Sirena luminosa con 2 LEDs
 
