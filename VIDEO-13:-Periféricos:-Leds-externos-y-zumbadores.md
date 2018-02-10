@@ -90,7 +90,7 @@ Como ejemplo vamos a conectar **dos LEDs externos** a los pines de 5v **D13** y 
 
 Primero construimos nuestro **panel** con los dos LEDS
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Leds-externos-03.png)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Alhambra-led-2.jpg)
 
 (Pantallazo circuito)
 (Funcionalidad de arrastrar!)
