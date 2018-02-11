@@ -8,6 +8,8 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
+Conectaremos a nuestros circuitos **LEDs externos** a los pines de 5v, para incorporarlos a nuestros papeles. También añadiremos **zumbadores**, con los que podremos crear **sonidos**
+
 # ¡Icestudio 0.3.2!
 
 Con motivo de nuestra asistencia a la [FOSDEM 2018](https://fosdem.org/2018/), hemos liberado una nueva versión de **Icestudio: 0.3.2**. Por favor, **actualizarse** a esa versión. La colección empleada en este tutorial está hecha con esta versión, y en las anteriores no se verá correctamente
@@ -15,6 +17,8 @@ Con motivo de nuestra asistencia a la [FOSDEM 2018](https://fosdem.org/2018/), h
 # Colección
 
 [Academia-Jedi-HW-13.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Collection/Academia-Jedi-HW-13.zip): Colección para este tutorial. Descargar e instalar 
+
+**¡Importante!** Usar una versión de Icestudio mayor o igual a la **0.3.2**
 
 # Contenido
 
