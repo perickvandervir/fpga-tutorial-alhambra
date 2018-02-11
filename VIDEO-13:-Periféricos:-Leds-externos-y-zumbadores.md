@@ -16,7 +16,7 @@ Con motivo de nuestra asistencia a la [FOSDEM 2018](https://fosdem.org/2018/), h
 
 # Colección
 
-**Academia-Jedi-HW-13.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-13.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Collection/Academia-Jedi-HW-13.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
