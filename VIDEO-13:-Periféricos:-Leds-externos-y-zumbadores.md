@@ -193,6 +193,12 @@ El **panel** es el siguiente:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Ejemplo-4-sirena-2.jpg)
 
+Lo **cargamos** en la placa para probarlo:
+
+(animación)
+
+Será necesario mover el **interruptor** de la Icezum Alhambra a la derecha para **apagar la sirena**
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
