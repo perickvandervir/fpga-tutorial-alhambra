@@ -225,14 +225,14 @@ dos tonos (1 y 2Khz, en dos zumbadores) y habrá una sirena luminosa con 2 leds 
 conectados a los pines de 5v.  Cuando está levantada los LEDs estarán apagados y 
 y la sirena en silencio
 
-[![Click to see the youtube video](http://img.youtube.com/vi/v=A4x2eKi078c/0.jpg)](https://www.youtube.com/watch?v=A4x2eKi078c)
+[![Click to see the youtube video](http://img.youtube.com/vi/A4x2eKi078c/0.jpg)](https://www.youtube.com/watch?v=A4x2eKi078c)
 
 * **Ejercicio 3** (Total **5 Bitpoints**): Órgano de 3 notas y 3 zumbadores. Colocar 3 zumbadores
 en paralelo, cada uno conectado a un pulsador externo. Las notas que se emitirán serán DO
 (pulsador 1), RE (pulsador 2) y MI (Pulsador 3)
 
 
-[![Click to see the youtube video](http://img.youtube.com/vi/v=-bWKSGTS_sQ/0.jpg)](https://www.youtube.com/watch?v=-bWKSGTS_sQ)
+[![Click to see the youtube video](http://img.youtube.com/vi/-bWKSGTS_sQ/0.jpg)](https://www.youtube.com/watch?v=-bWKSGTS_sQ)
 
 * **Ejercicio 4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
