@@ -174,7 +174,9 @@ El **panel** es el siguiente
 
 **Cargamos** el circuito en la placa
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Ejemplo-3-timbre-3.gif)
+
+Al apretar el pulsador se **encenderá** el LED y sonará un **pitido**
 
 # Ejemplo 4: Sirena luminosa y acústica, con dos zumbadores
 
