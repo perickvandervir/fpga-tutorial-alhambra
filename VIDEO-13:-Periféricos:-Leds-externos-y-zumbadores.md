@@ -136,9 +136,8 @@ Existen placas comercionales con el **zumbador**, que son muy cómodas porque se
 
 Algunos ejemplos son:
 
-* []()
 * [Octopus passive buzzer](http://www.elecfreaks.com/estore/octopus-passive-buzzer-brick-obpb01.html), de Elecfreak
-
+* [Kit de sensores para Arduino](http://tienda.bricogeek.com/kits-arduino/832-kit-de-37-sensores-compatible-arduino-1247563871496.html). BricoGeek. Dentro del kit con 37 módulos, hay uno con zumbador
 
 # Generando Sonido
 
