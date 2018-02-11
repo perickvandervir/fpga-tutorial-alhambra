@@ -151,7 +151,11 @@ Para generar un sonido tenemos que producir una **señal cuadrarda** (enviando 1
 
 El **rango audible humano** es aproximadamente entre **20Hz** (sonido muy grave) hasta **20Khz** (sonido muy agudo)
 
-En este ejemplo haremos que el zumbador produzca un pitido a la **frecuencia de 1Khz**. ¿Cómo lo hacemos? Simplemente conectado el **pin de salida** con un **corazón** que lata a **1Khz**
+En este ejemplo haremos que el **zumbador** produzca un pitido a la **frecuencia de 1Khz**. ¿Cómo lo hacemos? Simplemente conectado el **pin de salida** con un **corazón** que lata a **1Khz**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/zumbador-06.jpg)
+
+El **Corazón de 1Khz** se encuentra en el menú **Varios/Bombeo** de la colección 13. Para escucharlo conectamos el zumbador al **pin D0**, usando el panel mostrado en el [apartado anterior]()
 
 # Ejemplo 3: Timbre
 
