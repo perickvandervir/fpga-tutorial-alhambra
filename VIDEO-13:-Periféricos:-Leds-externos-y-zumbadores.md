@@ -117,6 +117,10 @@ Utilizaremos un **zumbador pasivo** o **altavoz** para escuchar sonidos generado
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/zumbador-01.png)
 
+## Conexión en protoboard
+
+## Conexión de placa comercial con zumbador
+
 # Generando Sonido
 
 # Ejemplo 2: Sonido continuo y timbre
