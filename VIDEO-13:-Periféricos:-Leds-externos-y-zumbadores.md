@@ -163,10 +163,18 @@ Al cargar el circuito en la placa empezaremos a **oir el tono**. Como es un poco
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/zumbador-07.gif)
 
 # Ejemplo 3: Timbre
-
-Modificamos el ejemplo anterior para hacer que el tono suene al **apretar un pulsador** externo (y que también se encienda un LED externo)
+ 
+Modificamos el ejemplo anterior para hacer que el tono suene al **apretar un pulsador** externo (y que también se encienda un LED externo). Esto ya lo sabemos hacer. Simplemente colocamos una **puerta AND** para permitir que la señal cuadrada con el sonido llegue al zumbador sólo si el pulsador está apretado (Bit a 1)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Ejemplo-3-timbre-1.png)
+
+El **panel** es el siguiente
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Ejemplo-3-timbre-2.jpg)
+
+**Cargamos** el circuito en la placa
+
+(animación)
 
 # Ejemplo 4: Sirena luminosa y acústica, con dos zumbadores
 
