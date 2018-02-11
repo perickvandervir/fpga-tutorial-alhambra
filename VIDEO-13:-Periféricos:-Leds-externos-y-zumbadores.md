@@ -128,8 +128,17 @@ y este es el **montaje real**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/zumbador-03.jpg)
 
-
 ## Conexión de placa comercial con zumbador
+
+Existen placas comercionales con el **zumbador**, que son muy cómodas porque se **conectan directamente** a la Icezum Alhambra a través de un **cable de 3 hilos**
+
+(Foto)
+
+Algunos ejemplos son:
+
+* []()
+* [Octopus passive buzzer](http://www.elecfreaks.com/estore/octopus-passive-buzzer-brick-obpb01.html), de Elecfreak
+
 
 # Generando Sonido
 
