@@ -375,3 +375,7 @@ Echa un vistazo a [este post de Rincón Ingenieril](https://www.rinconingenieril
 
 Los pulsadores externos que se conecten a los pines de 5v de la Alhambra (D0 - D13) tiene que llevar una resistencia de pull-up o pull-down con valores entre 460 ohm y 2K. Típicamente usamos 1K. Esto hace que los conversores de nivel se configuren como entradas y que el pulsador funcione correctamente. Puedes encontrar más información [En este enlace](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#conexi%C3%B3n-a-pines-de-5v)
 
+* **La PCBPrint de transistor con LED está bien???? Parece que la resistencia de 2K2 conecte con el colector en lugar de la base. De hecho no me funciona. Para conectar con la base tendría que cruzar las patillas**
+
+Si, en la documentación está bien. Pero debes fijarte en el transistor que estás usando. En algunos encapsulados la base es la **pata central** mientras que en otros es está en uno de los laterales. En el que usé en la **Alhambra LED** la base está en el **lateral**
+
