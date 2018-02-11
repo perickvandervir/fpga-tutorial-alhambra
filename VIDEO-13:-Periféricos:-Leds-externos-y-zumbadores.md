@@ -143,11 +143,17 @@ En este **panel** está conectado el Zumbador al pin de salida **D0**. ¡Listo p
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/zumbador-05.jpg)
 
-# Generando Sonido
+# Ejemplo 2: Generando Sonido. Tono de 1Khz
 
-# Ejemplo 2: Sonido continuo y timbre
+Para generar un sonido tenemos que producir una **señal cuadrarda** (enviando 1's y 0's alternativamente) a una **frecuencia** que se encuentre dentro del **rango audible**. Esa señal, al llegar al **zumbador**, hace que una **membrana** vibre, agitando las **moléculas del aire** a esa misma frecuencia, y por tanto produciendo una perturbación que captamos con nuestros oidos
 
-# Ejemplo 3: Sirena luminosa y acústica, con dos zumbadores
+El **rango audible humano** es aproximadamente entre **20Hz** (sonido muy grave) hasta **20Khz** (sonido muy agudo)
+
+En este ejemplo haremos que el zumbador produzca un pitido a la **frecuencia de 1Khz**. ¿Cómo lo hacemos? Simplemente conectado el **pin de salida** con un **corazón** que lata a **1Khz**
+
+# Ejemplo 3: Timbre
+
+# Ejemplo 4: Sirena luminosa y acústica, con dos zumbadores
 
 
 # Ejercicios propuestos (X BitPoints)
