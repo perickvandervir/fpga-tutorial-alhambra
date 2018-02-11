@@ -195,7 +195,7 @@ El **panel** es el siguiente:
 
 Lo **cargamos** en la placa para probarlo:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Ejemplo-4-sirena-3.gif)
 
 Será necesario mover el **interruptor** de la Icezum Alhambra a la derecha para **apagar la sirena**
 
