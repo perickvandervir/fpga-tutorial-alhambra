@@ -22,19 +22,19 @@ Con motivo de nuestra asistencia a la [FOSDEM 2018](https://fosdem.org/2018/), h
 
 # Contenido
 
-* [Introducción](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#introducci%C3%B3n)
-* [LEDs externos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#leds-externos)
-  * [Conexión directa](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#conexi%C3%B3n-directa)
-  * [Conexión a través de un transistor](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#conexi%C3%B3n-a-trav%C3%A9s-de-un-transistor)
-    * [PCBPrint: Alhambra-LED](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#pcbprint-alhambra-led)
-* [Ejemplo 1: Sirena Luminosa con 2 LEDs](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#ejemplo-1-sirena-luminosa-con-2-leds)
-* [Zumbador pasivo](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#zumbador-pasivo)
-  * [Conexión en protoboard](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#conexi%C3%B3n-en-protoboard)
-  * [Conexión de placa comercial con zumbador](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#conexi%C3%B3n-de-placa-comercial-con-zumbador)
-* [Ejemplo 2: Generando un tono de 1Khz](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#ejemplo-2-generando-sonido-tono-de-1khz)
+* [Introducción](#introducci%C3%B3n)
+* [LEDs externos](#leds-externos)
+  * [Conexión directa](#conexi%C3%B3n-directa)
+  * [Conexión a través de un transistor](#conexi%C3%B3n-a-trav%C3%A9s-de-un-transistor)
+    * [PCBPrint: Alhambra-LED](#pcbprint-alhambra-led)
+* [Ejemplo 1: Sirena Luminosa con 2 LEDs](#ejemplo-1-sirena-luminosa-con-2-leds)
+* [Zumbador pasivo](#zumbador-pasivo)
+  * [Conexión en protoboard](#conexi%C3%B3n-en-protoboard)
+  * [Conexión de placa comercial con zumbador](#conexi%C3%B3n-de-placa-comercial-con-zumbador)
+* [Ejemplo 2: Generando un tono de 1Khz](#ejemplo-2-generando-sonido-tono-de-1khz)
 * [Ejemplo 3: Timbre](#ejemplo-3-timbre)
-* [Ejemplo 4: Sirena con dos zumbadores](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#ejemplo-4-sirena-con-dos-zumbadores)
-* [Ejercicios propuestos (18 Bitpoints)]()
+* [Ejemplo 4: Sirena con dos zumbadores](#ejemplo-4-sirena-con-dos-zumbadores)
+* [Ejercicios propuestos (18 Bitpoints)](#ejercicios-propuestos-18-bitpoints)
 
 # Introducción
 
