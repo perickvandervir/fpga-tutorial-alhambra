@@ -132,7 +132,7 @@ y este es el **montaje real**
 
 Existen placas comercionales con el **zumbador**, que son muy cómodas porque se **conectan directamente** a la Icezum Alhambra a través de un **cable de 3 hilos**
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/zumbador-04.jpg)
 
 Algunos ejemplos son:
 
