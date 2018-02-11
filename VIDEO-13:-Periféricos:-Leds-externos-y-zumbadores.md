@@ -1,6 +1,4 @@
-(EN CONSTRUCCIÓN)
-
-![]()
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Portada/Tut-13-portada.png)
 
 # Vídeo
 
