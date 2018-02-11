@@ -178,7 +178,7 @@ El **panel** es el siguiente
 
 Al apretar el pulsador se **encenderá** el LED y sonará un **pitido**
 
-# Ejemplo 4: Sirena luminosa y acústica, con dos zumbadores
+# Ejemplo 4: Sirena con dos zumbadores
 
 En este ejemplo utilizaremos **dos zumbadores** para realizar una **sirena**. Cada zumbador emitirá un tono diferente. Uno el **tono alto** y el otro el **bajo**. La sirena emite el **tono alto** durante **medio segundo**, y luego el alto durante otro **medio**. Además se muestra una **sirena luminosa**, con dos leds que **parpadean alternativamente** a la frecuencia de **1Hz**. El circuito es el siguiente:
 
