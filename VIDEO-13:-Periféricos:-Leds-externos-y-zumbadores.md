@@ -126,7 +126,7 @@ La **construcción** del circuito en una **placa de entrenamiento** se muestra e
 
 y este es el **montaje real**
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/zumbador-03.jpg)
 
 
 ## Conexión de placa comercial con zumbador
