@@ -157,6 +157,11 @@ En este ejemplo haremos que el **zumbador** produzca un pitido a la **frecuencia
 
 El **Corazón de 1Khz** se encuentra en el menú **Varios/Bombeo** de la colección 13. Para escucharlo conectamos el zumbador al **pin D0**, usando el panel mostrado en el [apartado anterior](#conexi%C3%B3n-de-placa-comercial-con-zumbador)
 
+Al cargar el circuito en la placa empezaremos a **oir el tono**. Como es un poco molesto, lo podemos **apagar** con el **interruptor** de la Icezum Alhambra, que elimina la **alimentación** de los periféricos (pero que mantiene la de la FPGA para poder seguir cargando circuitos)
+
+(animación pulsador on/off icezum alhambra)
+
+
 # Ejemplo 3: Timbre
 
 # Ejemplo 4: Sirena luminosa y acústica, con dos zumbadores
