@@ -27,6 +27,7 @@ Con motivo de nuestra asistencia a la [FOSDEM 2018](https://fosdem.org/2018/), h
     * [PCBPrint: Alhambra-LED](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#pcbprint-alhambra-led)
 * [Ejemplo 1: Sirena Luminosa con 2 LEDs](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#ejemplo-1-sirena-luminosa-con-2-leds)
 * [Zumbador pasivo](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#zumbador-pasivo)
+  * [Conexión en protoboard](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#conexi%C3%B3n-en-protoboard)
 
 
 # Introducción
