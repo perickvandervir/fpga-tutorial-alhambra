@@ -37,6 +37,7 @@ Con motivo de nuestra asistencia a la [FOSDEM 2018](https://fosdem.org/2018/), h
 * [Ejercicios propuestos (18 Bitpoints)](#ejercicios-propuestos-18-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
+* [Licencia](#licencia)
 
 # Introducción
 
