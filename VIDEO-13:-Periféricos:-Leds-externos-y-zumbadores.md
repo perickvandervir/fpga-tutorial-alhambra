@@ -155,7 +155,7 @@ En este ejemplo haremos que el **zumbador** produzca un pitido a la **frecuencia
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/zumbador-06.jpg)
 
-El **Corazón de 1Khz** se encuentra en el menú **Varios/Bombeo** de la colección 13. Para escucharlo conectamos el zumbador al **pin D0**, usando el panel mostrado en el [apartado anterior]()
+El **Corazón de 1Khz** se encuentra en el menú **Varios/Bombeo** de la colección 13. Para escucharlo conectamos el zumbador al **pin D0**, usando el panel mostrado en el [apartado anterior](#conexi%C3%B3n-de-placa-comercial-con-zumbador)
 
 # Ejemplo 3: Timbre
 
