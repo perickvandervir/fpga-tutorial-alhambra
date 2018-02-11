@@ -191,7 +191,7 @@ De esta forma, cuando **un zumbador emite un tono**, **el otro está callado**. 
 
 El **panel** es el siguiente:
 
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Ejemplo-4-sirena-2.jpg)
 
 # Ejercicios propuestos (X BitPoints)
 
