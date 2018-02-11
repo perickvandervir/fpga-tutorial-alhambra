@@ -119,6 +119,15 @@ Utilizaremos un **zumbador pasivo** o **altavoz** para escuchar sonidos generado
 
 ## Conexión en protoboard
 
+La **construcción** del circuito en una **placa de entrenamiento** se muestra en este esquema de Fritzzing:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/zumbador-02.png)
+
+y este es el **montaje real**
+
+(foto)
+
+
 ## Conexión de placa comercial con zumbador
 
 # Generando Sonido
