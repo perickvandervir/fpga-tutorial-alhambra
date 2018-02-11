@@ -35,6 +35,7 @@ Con motivo de nuestra asistencia a la [FOSDEM 2018](https://fosdem.org/2018/), h
 * [Ejemplo 3: Timbre](#ejemplo-3-timbre)
 * [Ejemplo 4: Sirena con dos zumbadores](#ejemplo-4-sirena-con-dos-zumbadores)
 * [Ejercicios propuestos (18 Bitpoints)](#ejercicios-propuestos-18-bitpoints)
+* [Ejercicios entregados](#ejercicios-entregados)
 
 # Introducción
 
