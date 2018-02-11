@@ -163,7 +163,7 @@ Al cargar el circuito en la placa empezaremos a **oir el tono**. Como es un poco
 
 # Ejemplo 3: Timbre
 
-Modificamos el ejemplo anterior para hacer que el tono suene al apretar un pulsador externo (y que también se encienca un LED externo)
+Modificamos el ejemplo anterior para hacer que el tono suene al **apretar un pulsador** externo (y que también se encienca un LED externo)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Ejemplo-3-timbre-1.png)
 
