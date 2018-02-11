@@ -34,7 +34,7 @@ Con motivo de nuestra asistencia a la [FOSDEM 2018](https://fosdem.org/2018/), h
 * [Ejemplo 2: Generando un tono de 1Khz](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#ejemplo-2-generando-sonido-tono-de-1khz)
 * [Ejemplo 3: Timbre](#ejemplo-3-timbre)
 * [Ejemplo 4: Sirena con dos zumbadores](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#ejemplo-4-sirena-con-dos-zumbadores)
-
+* [Ejercicios propuestos (18 Bitpoints)]()
 
 # Introducción
 
