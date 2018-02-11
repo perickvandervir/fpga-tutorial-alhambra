@@ -30,6 +30,7 @@ Con motivo de nuestra asistencia a la [FOSDEM 2018](https://fosdem.org/2018/), h
   * [Conexión en protoboard](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#conexi%C3%B3n-en-protoboard)
   * [Conexión de placa comercial con zumbador](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#conexi%C3%B3n-de-placa-comercial-con-zumbador)
 * [Ejemplo 2: Generando un tono de 1Khz](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores#ejemplo-2-generando-sonido-tono-de-1khz)
+* [Ejemplo 3: Timbre](#ejemplo-3-timbre)
 
 
 # Introducción
