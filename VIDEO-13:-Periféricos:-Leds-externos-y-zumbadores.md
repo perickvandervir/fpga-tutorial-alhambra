@@ -201,17 +201,17 @@ Lo **cargamos** en la placa para probarlo:
 
 Será necesario mover el **interruptor** de la Icezum Alhambra a la derecha para **apagar la sirena**
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (18 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **x Bitpoints**): 
+* **Ejercicio 1** (Total **5 Bitpoints**): 
 
-* **Ejercicio 2** (Total **x Bitpoints**): 
+* **Ejercicio 2** (Total **5 Bitpoints**): 
 
-* **Ejercicio 3** (Total **x Bitpoints**): 
+* **Ejercicio 3** (Total **5 Bitpoints**): 
 
 * **Ejercicio 4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
