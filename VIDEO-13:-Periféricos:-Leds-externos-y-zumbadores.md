@@ -185,9 +185,9 @@ En este ejemplo utilizaremos **dos zumbadores** para realizar una **sirena**. Ca
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Ejemplo-4-sirena-1.png)
 
-La parte central ya la conocemos: es el circuitos de los **leds alternantes**, gobernados por un corazón de 1Hz. En la parte superior está el corazón que genera el tono de 1Khz. Este tono pasa a través de la puerta AND. Sólo llega al zumbador durante medio segundo, cuando el corazón de 1Hz está a 1. En la parte inferior se genera el tono alto de 2Khz. Llega al otro zumbador a través de otra puerta AND, que se habilita cuando el corzón de 1Hz está a 0.
+La parte central ya la conocemos: es el circuitos de los **leds alternantes**, gobernados por un corazón de **1Hz**. En la parte superior está el corazón que genera el **tono de 1Khz**. Este tono pasa a través de la puerta **AND**. Sólo llega al zumbador durante medio segundo, cuando el corazón de 1Hz está a 1. En la parte inferior se genera el **tono alto de 2Khz**. Llega al otro zumbador a través de otra puerta **AND**, que se habilita cuando el corzón de 1Hz está a 0.
 
-De esta forma, cuando **un zumbador emite un tono**, **el otro está callado**. Y vice-versa 
+De esta forma, cuando **un zumbador emite un tono**, **el otro está callado**. Y vice-versa. El tono alto en un zumbador, se alterna con el tono bajo en el otro 
 
 El **panel** es el siguiente:
 
