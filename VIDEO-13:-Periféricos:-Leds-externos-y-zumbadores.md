@@ -18,7 +18,7 @@ Con motivo de nuestra asistencia a la [FOSDEM 2018](https://fosdem.org/2018/), h
 
 [Academia-Jedi-HW-13.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Collection/Academia-Jedi-HW-13.zip): Colección para este tutorial. Descargar e instalar 
 
-**¡Importante!** Usar una versión de Icestudio mayor o igual a la **0.3.2**
+**¡Importante!** Usar una **versión de Icestudio** mayor o igual a la **0.3.2**
 
 # Contenido
 
