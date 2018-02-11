@@ -159,8 +159,7 @@ El **Corazón de 1Khz** se encuentra en el menú **Varios/Bombeo** de la colecci
 
 Al cargar el circuito en la placa empezaremos a **oir el tono**. Como es un poco molesto, lo podemos **apagar** con el **interruptor** de la Icezum Alhambra, que elimina la **alimentación** de los periféricos (pero que mantiene la de la FPGA para poder seguir cargando circuitos)
 
-(animación pulsador on/off icezum alhambra)
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/zumbador-07.gif)
 
 # Ejemplo 3: Timbre
 
