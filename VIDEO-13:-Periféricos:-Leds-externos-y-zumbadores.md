@@ -39,7 +39,7 @@ Con motivo de nuestra asistencia a la [FOSDEM 2018](https://fosdem.org/2018/), h
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
-* [FAQs](#faqs)
+* [Preguntas frecuentes](#faqs)
 
 # Introducción
 
