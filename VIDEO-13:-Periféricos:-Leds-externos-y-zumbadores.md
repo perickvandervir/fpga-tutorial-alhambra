@@ -351,7 +351,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 * [Fijador de cables](https://github.com/Obijuan/3D-parts/wiki/Fijador-de-cables-con-chinchetas)
 * [Fijador de placas](https://github.com/Obijuan/3D-parts/wiki/Fijador-de-placas)
 
-# FAQs
+# Preguntas frecuentes
 
 * **¿Dónde puedo conseguir la placa Icezum Alhambra?**
 
