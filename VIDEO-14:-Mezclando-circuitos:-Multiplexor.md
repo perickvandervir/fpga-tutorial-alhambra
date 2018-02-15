@@ -33,13 +33,23 @@ TODO
 
 # Ejemplo 1: Parpadeo a dos velocidades
 
+TODO
+
 # Ejemplo 2: Sirena con un zumbador
+
+TODO
 
 # Multiplexor 4:1
 
+TODO
+
 # Ejemplo 3: LED en 4 modos
 
+TODO
+
 # Ejemplo 4: Órgano de 3 notas con un zumbador
+
+TODO
 
 # Ejercicios propuestos (X BitPoints)
 
