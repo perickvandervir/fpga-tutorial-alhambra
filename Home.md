@@ -234,7 +234,7 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 
 | Núm   | Divisa     | Rango  |  Bitpoints  | Descripción |
 |-------|----------|--------|-------------|-------------|
-| 10  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan.png) | **Padawan** | 150 | TODO |
+| 10  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan.png) | **Padawan** | 150 | Empiezas a dominar los **periféricos básicos** de entrada salida. Sabes emitir tus primeros **sonidos** |
 
 ### Pendiente...
 
