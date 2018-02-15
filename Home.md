@@ -47,9 +47,9 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 
 ### Segundo curso
 
-[[https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/insignias/Academia-jedi-amarillo.png|width=200px]]
-
 Estudiante que se encuentran cursando el **segundo año** de la **academia de Hardware Jedi**
+
+[[https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/insignias/Academia-jedi-amarillo.png|width=200px]]
 
 |Divisa  | Nombe             | Rango    | BitPoints |
 |--------|-------------------|----------|-----------|
