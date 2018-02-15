@@ -87,7 +87,7 @@ y este es el **montaje real**:
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-13/Leds-externos-04.jpg)
 
 **NOTA**: El patillaje de los transitores cambia según el modelo usado, en este ejemplo estoy usando el transistor **BC547B** que tiene la **base** en la **pata central**, sin embargo hay otros que la tienen en un lateral
-
+https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-13/fgcoca/Ejercicio-3/Ejercicio13_3%20%E2%94%80%20P.png
 ### PCBPrint: Alhambra-LED
 
 Una opción muy cómoda es usar un **PCBprint** con **LED**. Esta es la [Alhambra LED](https://github.com/FPGAwars/alhambra-led/wiki)
@@ -288,7 +288,7 @@ en paralelo, cada uno conectado a un pulsador externo. Las notas que se emitirá
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ### Ejercicio 3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-13/fgcoca/Ejercicio-3/Ejercicio13_3%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
