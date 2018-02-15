@@ -169,8 +169,11 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 * [Fijador de esquinas](https://github.com/Obijuan/3D-parts/wiki/Fijador-de-esquinas)
 * [Fijador de cables](https://github.com/Obijuan/3D-parts/wiki/Fijador-de-cables-con-chinchetas)
 * [Fijador de placas](https://github.com/Obijuan/3D-parts/wiki/Fijador-de-placas)
+* [Octopus passive buzzer](http://www.elecfreaks.com/estore/octopus-passive-buzzer-brick-obpb01.html), de Elecfreak
+* [Kit de sensores para Arduino](http://tienda.bricogeek.com/kits-arduino/832-kit-de-37-sensores-compatible-arduino-1247563871496.html). BricoGeek. Dentro del kit con 37 módulos, hay uno con zumbador
 
-# FAQs
+
+# Preguntas frecuentes
 
 * **¿Dónde puedo conseguir la placa Icezum Alhambra?**
 
