@@ -304,28 +304,28 @@ en paralelo, cada uno conectado a un pulsador externo. Las notas que se emitirá
 ## Fernando Coladas
 
 ### Ejercicio 1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-13/ColRod/Actividad%2013.1.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/tH-BfEnfJJw/0.jpg)](https://www.youtube.com/watch?v=tH-BfEnfJJw)
 
 ### Ejercicio 2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-13/ColRod/Actividad%2013.2.png)
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ### Ejercicio 3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-13/ColRod/Actividad%2013.3.png)
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ### Ejercicio 4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-13/ColRod/Actividad%2013.4.png)
 
 * **Vídeo** en Youtube:
 
