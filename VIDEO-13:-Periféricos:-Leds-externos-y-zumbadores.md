@@ -292,7 +292,7 @@ en paralelo, cada uno conectado a un pulsador externo. Las notas que se emitirá
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/PpVLKadI1JQ/0.jpg)](https://www.youtube.com/watch?v=PpVLKadI1JQ)
 
 ### Ejercicio 4
 ![]()
