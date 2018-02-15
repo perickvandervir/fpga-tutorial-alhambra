@@ -49,6 +49,11 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 
 [[https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/insignias/Academia-jedi-amarillo.png|width=200px]]
 
+|Divisa  | Nombe             | Rango    | BitPoints |
+|--------|-------------------|----------|-----------|
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Joaquín Cubillo (jcubilloarr)  | Padawan Nivel-3 | 158 |
+
+
 ### Primer curso
 
 Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en **primer curso**
@@ -58,7 +63,6 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 |Divisa  | Nombe             | Rango    | BitPoints |
 |--------|-------------------|----------|-----------|
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|     Federico Coca | Aspirante a Padawan Nivel-3 | 140 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|    Joaquín Cubillo (jcubilloarr)  | Aspirante a Padawan Nivel-3 | 140 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|     Ximo Catala (Ximocat)  | Aspirante a Padawan Nivel-3 | 140 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|     Josep Montoliu (Klarojms) | Aspirante a Padawan Nivel-3 | 140 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|   Fernando Coladas (@fcoladas)  | Aspirante a Padawan Nivel-3 | 138 |
