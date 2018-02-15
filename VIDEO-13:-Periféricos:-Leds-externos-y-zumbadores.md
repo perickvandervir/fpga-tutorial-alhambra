@@ -249,11 +249,11 @@ en paralelo, cada uno conectado a un pulsador externo. Las notas que se emitirá
 [![Click to see the youtube video](http://img.youtube.com/vi/wkA_FMKd_gE/0.jpg)](https://www.youtube.com/watch?v=wkA_FMKd_gE)
 
 ### Ejercicio 2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-13/2.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/Vn1FHdPybWY/0.jpg)](https://www.youtube.com/watch?v=Vn1FHdPybWY)
 
 ### Ejercicio 3
 ![]()
