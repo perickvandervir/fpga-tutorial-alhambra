@@ -38,6 +38,7 @@ Con motivo de nuestra asistencia a la [FOSDEM 2018](https://fosdem.org/2018/), h
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Joaquín Cubillo](#joaqu%C3%ADn-cubillo)
   * [Federico Coca](#federico-coca)
+  * [Fernando Coladas](#fernando-coladas)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
