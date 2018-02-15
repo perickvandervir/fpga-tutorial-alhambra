@@ -317,18 +317,18 @@ en paralelo, cada uno conectado a un pulsador externo. Las notas que se emitirá
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ### Ejercicio 3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-13/3.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/GePTO9hR-MY/0.jpg)](https://www.youtube.com/watch?v=GePTO9hR-MY)
 
 ### Ejercicio 4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-13/4.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/KUSTMeo1zqI/0.jpg)](https://www.youtube.com/watch?v=KUSTMeo1zqI)
 
 
 # Autor
