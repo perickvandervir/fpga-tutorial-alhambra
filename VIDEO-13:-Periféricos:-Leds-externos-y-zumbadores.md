@@ -269,7 +269,7 @@ en paralelo, cada uno conectado a un pulsador externo. Las notas que se emitirá
 
 [![Click to see the youtube video](http://img.youtube.com/vi/KUSTMeo1zqI/0.jpg)](https://www.youtube.com/watch?v=KUSTMeo1zqI)
 
-## Segundo
+## Federico Coca
 
 ### Ejercicio 1
 ![]()
@@ -299,7 +299,7 @@ en paralelo, cada uno conectado a un pulsador externo. Las notas que se emitirá
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-## Tercero
+## Fernando Coladas
 
 ### Ejercicio 1
 ![]()
