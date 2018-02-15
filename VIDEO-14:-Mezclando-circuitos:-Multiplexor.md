@@ -31,7 +31,22 @@ TODO
 
 TODO
 
+# Ejemplo 1: Parpadeo a dos velocidades
+
+# Ejemplo 2: Sirena con un zumbador
+
+# Multiplexor 4:1
+
+# Ejemplo 3: LED en 4 modos
+
+# Ejemplo 4: Órgano de 3 notas con un zumbador
+
 # Ejercicios propuestos (X BitPoints)
+
+TODO:
+* Limpia parabrisas de dos velocidades
+* Doble sirena, seleccionable por swtich y activada con pulsador
+* ranky en dos modos de funcionamiento (automático y manual)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
