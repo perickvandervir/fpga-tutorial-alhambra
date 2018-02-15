@@ -295,11 +295,11 @@ en paralelo, cada uno conectado a un pulsador externo. Las notas que se emitirá
 [![Click to see the youtube video](http://img.youtube.com/vi/PpVLKadI1JQ/0.jpg)](https://www.youtube.com/watch?v=PpVLKadI1JQ)
 
 ### Ejercicio 4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-13/fgcoca/Ejercicio-4/Ejercicio13_4%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/qhvNAEooNSo/0.jpg)](https://youtu.be/qhvNAEooNSo)
 
 ## Fernando Coladas
 
