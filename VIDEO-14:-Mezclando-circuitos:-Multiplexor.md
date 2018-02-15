@@ -11,7 +11,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Colección
 
-**Academia-Jedi-HW-13.zip**: Colección para este tutorial. Descargar e instalar 
+**Academia-Jedi-HW-14.zip**: Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
@@ -23,7 +23,13 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Enlaces](#enlaces)
 * [Preguntas frecuentes](#preguntas-frecuentes)
 
-# Introducción
+# Combinando circuitos
+
+TODO
+
+# Multiplexor 2:1
+
+TODO
 
 # Ejercicios propuestos (X BitPoints)
 
