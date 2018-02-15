@@ -315,21 +315,21 @@ en paralelo, cada uno conectado a un pulsador externo. Las notas que se emitirá
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/5v3YsRiNWVU/0.jpg)](https://www.youtube.com/watch?v=5v3YsRiNWVU)
 
 ### Ejercicio 3
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-13/ColRod/Actividad%2013.3.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/pnO_r0VIFpo/0.jpg)](https://www.youtube.com/watch?v=pnO_r0VIFpo)
 
 ### Ejercicio 4
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-13/ColRod/Actividad%2013.4.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/D3lUlW3Nz14/0.jpg)](https://www.youtube.com/watch?v=D3lUlW3Nz14)
 
 # Autor
 
