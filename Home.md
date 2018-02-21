@@ -21,7 +21,7 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | 11| [Puerta AND. Habilitando circuitos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-11:-Puerta-AND.-Habilitando-circuitos)  |
 | 12| [Interruptores y pulsadores externos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos)   |
 | 13| [Periféricos: Leds externos y zumbadores](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores) |
-| 14| [Mezclando circuitos: Multiplexor](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-14:-Mezclando-circuitos:-Multiplexor)
+| 14| [Mezclando circuitos: Multiplexor](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-14:-Mezclando-circuitos:-Multiplexor) (En construcción) |
 | 15 | Servos de rotación contínua |
 | 16| Periféricos: Sensor IR  |
 |17 | Temporizador |
