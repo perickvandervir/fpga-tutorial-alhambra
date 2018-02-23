@@ -25,7 +25,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Combinando circuitos
 
-Ya conocemos una forma de combinar circuitos: mediante la superposición. 
+Ya conocemos una forma de **combinar circuitos**: la [superposición](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-6:-Bombeando-bits#superposici%C3%B3n-de-circuitos). 
 
 # Multiplexor 2:1
 
