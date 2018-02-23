@@ -31,6 +31,8 @@ Ya conocemos una forma de **combinar circuitos**: la [superposición](https://gi
 
 Pero... ¿Y si los circuitos **NO son independientes** y acceden por ejemplo al **mismo LED**? **¿Cómo los combinamos?**
 
+(Dibujo Interrogación)
+
 # Multiplexor 2:1
 
 TODO
