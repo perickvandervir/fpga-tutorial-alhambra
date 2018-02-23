@@ -25,7 +25,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Combinando circuitos
 
-TODO
+Ya conocemos una forma de combinar circuitos: mediante la superposición. 
 
 # Multiplexor 2:1
 
