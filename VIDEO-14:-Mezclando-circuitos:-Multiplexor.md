@@ -29,6 +29,8 @@ Ya conocemos una forma de **combinar circuitos**: la [superposición](https://gi
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/composicion-01.png)
 
+Pero... ¿Y si los circuitos **NO son independientes** y acceden por ejemplo al **mismo LED**? **¿Cómo los combinamos?**
+
 # Multiplexor 2:1
 
 TODO
