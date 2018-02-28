@@ -33,6 +33,12 @@ Pero... ¿Y si los circuitos **NO son independientes** y acceden por ejemplo al 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/composicion-02.png)
 
+Por separado funcionan correctamente, pero como acceden **al mismo LED0** no podemos aplicar la superposición directamente
+
+Una forma de solucionarlo es mediante **multiplexación**. El acceso al LED0 no lo pueden hacer a la vez, sino que lo tendrán que hacer **por turnos**. El LED0 estará disponible **durante un tiempo** para el circuito 1 y otro tiempo para el circuito 2. Mediante una entrada especial, llamada **entrada de selección**, se indicará **cuál** de los dos circuitos es el que **puede acceder** al LED0
+
+(Dibujo)
+
 # Multiplexor 2:1
 
 TODO
