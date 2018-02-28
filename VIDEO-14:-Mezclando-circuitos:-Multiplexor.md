@@ -16,6 +16,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 # Contenido
 
 * [Combinando circuitos](#combinando-circuitos)
+* [Multiplexor 2 a 1](#multiplexor-21)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
