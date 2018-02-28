@@ -39,6 +39,12 @@ Una forma de solucionarlo es mediante **multiplexación**. El acceso al LED0 no 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/composicion-03.png)
 
+Mientras el **bit de selección** esté a **0**, será el **circuito 1** el que enviará bits al LED0. Cuando el bit de selección se pone a **1**, es el **circuito 2** el que se conecta. En esta animación se muestra la idea
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/composicion-4.gif)
+
+Esta tipo de **combinación** de circuitos se llama **multiplexación**, y el elemento que permite hacerlo se llama **Multiplexor**
+
 # Multiplexor 2:1
 
 TODO
