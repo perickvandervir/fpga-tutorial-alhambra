@@ -61,7 +61,7 @@ Su funcionamiento está definido por esta **tabla de verdad simplificada**. Las 
 
 ## Ejemplo 1: Parpadeo a dos velocidades
 
-En este primer ejemplo haremos que un **LED externo** parpadee a las frecuencias de **1Hz** y **2Hz** según la posición de un **interruptor externo**. Cuando esté en una posición el LED parpadeará a 1Hz y en la otra posición a 2Hz
+En este primer ejemplo haremos que un **LED externo** parpadee a las frecuencias de **1Hz** y **4Hz** según la posición de un **interruptor externo**. Cuando esté en una posición el LED parpadeará a 1Hz y en la otra posición a 4Hz
 
 (circuito)
 
