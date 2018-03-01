@@ -55,6 +55,10 @@ Un **multiplexor de 2 a 1** tiene **2 canales de entrada**, **una entrada de sel
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-01.png)
 
+Su funcionamiento está definido por esta **tabla de verdad simplificada**. Las **Xs** representan **cualquier bit**, que puede estar a 1 ó 0. Cuando por la **entrada de selección** hay un **0**, por la salida sale el **canal 0** (los bits verdes). Cuando la entrada de selección es **1**, lo que sale son los bits del **canal 1** (grises)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-02.png)
+
 
 # Ejemplo 1: Parpadeo a dos velocidades
 
