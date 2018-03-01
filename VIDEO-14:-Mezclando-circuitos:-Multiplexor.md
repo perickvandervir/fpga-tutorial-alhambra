@@ -46,6 +46,9 @@ Mientras el **bit de selección** esté a **0**, será el **circuito 1** el que 
 
 Este tipo de **combinación** de circuitos se llama **multiplexación**, y el elemento que permite hacerlo se llama **Multiplexor**
 
+En general los multiplexores tienen **N canales de entrada**, además de las **entradas de selección**
+, y **una salida**. Empezaremos por el **multiplexor más sencillo**: Multiplexor de 2 a 1
+
 # Multiplexor 2:1
 
 TODO
