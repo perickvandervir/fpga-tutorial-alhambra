@@ -52,7 +52,9 @@ En general los multiplexores tienen **N canales de entrada**, además de las **e
 # Multiplexor 2:1
 
 Un **multiplexor de 2 a 1** tiene **2 canales de entrada**, **una entrada de selección** y **una salida**
-TODO
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-01.png)
+
 
 # Ejemplo 1: Parpadeo a dos velocidades
 
