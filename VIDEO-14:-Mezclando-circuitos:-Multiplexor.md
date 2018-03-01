@@ -44,7 +44,7 @@ Mientras el **bit de selección** esté a **0**, será el **circuito 1** el que 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/composicion-4.gif)
 
-Esta tipo de **combinación** de circuitos se llama **multiplexación**, y el elemento que permite hacerlo se llama **Multiplexor**
+Este tipo de **combinación** de circuitos se llama **multiplexación**, y el elemento que permite hacerlo se llama **Multiplexor**
 
 # Multiplexor 2:1
 
