@@ -51,6 +51,7 @@ En general los multiplexores tienen **N canales de entrada**, además de las **e
 
 # Multiplexor 2:1
 
+Un **multiplexor de 2 a 1** tiene **2 canales de entrada**, **una entrada de selección** y **una salida**
 TODO
 
 # Ejemplo 1: Parpadeo a dos velocidades
