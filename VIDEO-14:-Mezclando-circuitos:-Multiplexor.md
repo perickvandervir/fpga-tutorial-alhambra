@@ -59,10 +59,13 @@ Su funcionamiento está definido por esta **tabla de verdad simplificada**. Las 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-02.png)
 
+## Ejemplo 1: Parpadeo a dos velocidades
 
-# Ejemplo 1: Parpadeo a dos velocidades
+En este primer ejemplo haremos que un **LED externo** parpadee a las frecuencias de **1Hz** y **2Hz** según la posición de un **interruptor externo**. Cuando esté en una posición el LED parpadeará a 1Hz y en la otra posición a 2Hz
 
-TODO
+(circuito)
+
+(Animación)
 
 # Ejemplo 2: Sirena con un zumbador
 
