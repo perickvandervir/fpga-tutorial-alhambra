@@ -59,9 +59,11 @@ Su funcionamiento está definido por esta **tabla de verdad simplificada**. Las 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-02.png)
 
-## Ejemplo 1: Parpadeo a dos velocidades
+## Ejemplo 1: Selección manual. LED parpadeando a dos velocidades
 
-En este primer ejemplo haremos que un **LED externo** parpadee a las frecuencias de **1Hz** y **4Hz** según la posición de un **interruptor externo**. Cuando esté en una posición el LED parpadeará a 1Hz y en la otra posición a 4Hz
+En este primer ejemplo tenemos **dos corazones**, de 1Hz y 4Hz, asociados a los **canales 0** y **1** respectivamente. Mediante un **interruptor externo** seleccionaremos **manualmente** qué canal accede al **LED externo**, haciéndolo **parpadear**. El resultado será un **LED que parpadea a dos velocidades**, según la posición del interruptor
+
+Este es el circuito
 
 (circuito)
 
