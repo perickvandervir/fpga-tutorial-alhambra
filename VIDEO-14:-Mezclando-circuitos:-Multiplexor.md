@@ -81,7 +81,9 @@ Lo **cargamos** en la placa para probarlo. En esta **animación** vemos su funci
 
 Crearemos una **sirena** usando un único **zumbador**. Ahora el multiplexor 2:1 se **conmutará automáticamente** para seleccionar qué tono suena. Este es el **montaje**
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-ej2-01.jpg)
+
+En las salidas **D13** y **D12** se han conectado **2 LEDs externos** para generar una **sirena luminosa**, y en el **D0** está conectado el **zumbador**
 
 # Multiplexor 4:1
 
