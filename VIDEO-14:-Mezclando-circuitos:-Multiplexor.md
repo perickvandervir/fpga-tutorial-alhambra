@@ -66,7 +66,7 @@ En este primer ejemplo tenemos **dos corazones**, de 1Hz y 4Hz, asociados a los 
 
 Este es el **montaje físico**
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-04.jpg)
 
 Y este el **circuito en Icestudio**
 
