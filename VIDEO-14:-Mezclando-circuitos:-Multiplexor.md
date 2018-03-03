@@ -79,7 +79,9 @@ Lo **cargamos** en la placa para probarlo. En esta **animación** vemos su funci
 
 # Ejemplo 2: Selección automática. Sirena
 
-TODO
+Crearemos una **sirena** usando un único **zumbador**. Ahora el multiplexor 2:1 se **conmutará automáticamente** para seleccionar qué tono suena. Este es el **montaje**
+
+(foto)
 
 # Multiplexor 4:1
 
