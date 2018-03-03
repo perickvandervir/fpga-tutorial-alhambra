@@ -85,6 +85,10 @@ Crearemos una **sirena** usando un único **zumbador**. Ahora el multiplexor 2:1
 
 En las salidas **D13** y **D12** se han conectado **2 LEDs externos** para generar una **sirena luminosa**, y en el **D0** está conectado el **zumbador**
 
+Este es el circuito en Icestudio. Por el **canal 0** del multiplexor se introduce la **nota alta**, y por el **canal 1** la nota **baja** (daría igual si se hace al revés). La **selección** del canal se hace **automáticamente**, utilizando un **corazón de 1Hz**. De esta forma durante **medio segundo** suena la **nota baja** y durante el otro medio la **alta**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-ej2-02.jpg)
+
 # Multiplexor 4:1
 
 TODO
