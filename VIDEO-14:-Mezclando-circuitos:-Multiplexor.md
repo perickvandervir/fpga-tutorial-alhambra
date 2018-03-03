@@ -72,8 +72,9 @@ Y este el **circuito en Icestudio**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-03.png)
 
+Lo **cargamos** en la placa para probarlo. En esta **animación** vemos su funcionamiento
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-05.gif)
 
 # Ejemplo 2: Sirena con un zumbador
 
