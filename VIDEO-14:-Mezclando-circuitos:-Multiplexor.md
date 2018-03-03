@@ -74,7 +74,11 @@ Para crear el **circuito en Icestudio** nos aseguramos de que tenemos la colecci
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-ej2-04.png)
 
-TODO
+Y nos aparece el **Multiplexor de 2 a 1**. Esta es la pinta que tiene en icestudio
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-ej2-05.png)
+
+En la izquierda están las **tres entradas**, denominadas i1 (canal1), i0 (canal0) y sel (selección). La salida, como en todos los componentes de icestudio, está a la derecha
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-03.png)
 
