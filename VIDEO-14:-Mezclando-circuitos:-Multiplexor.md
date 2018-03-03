@@ -89,6 +89,10 @@ Este es el circuito en Icestudio. Por el **canal 0** del multiplexor se introduc
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-ej2-02.jpg)
 
+**Cargamos** el circuito y lo **probamos**:
+
+(animación)
+
 # Multiplexor 4:1
 
 TODO
