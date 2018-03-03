@@ -19,6 +19,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Multiplexor 2 a 1](#multiplexor-21)
   * [Ejemplo 1: Selección manual: LED parpadeando a dos velocidades](#ejemplo-1-selecci%C3%B3n-manual-led-parpadeando-a-dos-velocidades)
   * [Ejemplo 2: Selección automática. Sirena](#ejemplo-2-selecci%C3%B3n-autom%C3%A1tica-sirena)
+* [Multiplexor 4 a 1](#multiplexor-41)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
