@@ -66,11 +66,15 @@ Su funcionamiento está definido por esta **tabla de verdad simplificada**. Las 
 
 En este primer ejemplo tenemos **dos corazones**, de 1Hz y 4Hz, asociados a los **canales 0** y **1** respectivamente. Mediante un **interruptor externo** seleccionaremos **manualmente** qué canal accede al **LED externo**, haciéndolo **parpadear**. El resultado será un **LED que parpadea a dos velocidades**, según la posición del interruptor
 
-Este es el **montaje físico**
+Este es el **montaje físico**n
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-04.jpg)
+![](https://github.com/Obijuan/diegital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-04.jpg)
 
-Y este el **circuito en Icestudio**
+Para crear el **circuito en Icestudio** nos aseguramos de que tenemos la colección **Academia-Jedi-HW-14.zip** instalada y nos vamos al menú **Varios/Mux**. Elegimos el componente **Mux-2-1**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-ej2-04.png)
+
+TODO
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-03.png)
 
