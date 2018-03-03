@@ -80,6 +80,12 @@ Y nos aparece el **Multiplexor de 2 a 1**. Esta es la pinta que tiene en icestud
 
 En la izquierda están las **tres entradas**, denominadas i1 (canal1), i0 (canal0) y sel (selección). La salida, como en todos los componentes de icestudio, está a la derecha
 
+También podemos elegir el otro modelo que hay: **mux-2-1-flip**. Es exactamente igual, pero con las **entradas cambiadas de orden**. El canal 0 está arriba y el canal 0 abajo. Pero por lo demás son exactamente iguales:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-ej2-06.png)
+
+**Creamos** este circuito:
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-03.png)
 
 Lo **cargamos** en la placa para probarlo. En esta **animación** vemos su funcionamiento
