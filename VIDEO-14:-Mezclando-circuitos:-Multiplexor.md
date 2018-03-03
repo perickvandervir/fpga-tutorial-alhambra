@@ -91,7 +91,9 @@ Este es el circuito en Icestudio. Por el **canal 0** del multiplexor se introduc
 
 **Cargamos** el circuito y lo **probamos**:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-ej2-03.gif)
+
+**Escucharemos** la sirena y veremos cómo se alternan los LEDs externos
 
 # Multiplexor 4:1
 
