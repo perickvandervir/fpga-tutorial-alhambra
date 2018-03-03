@@ -68,7 +68,7 @@ En este primer ejemplo tenemos **dos corazones**, de 1Hz y 4Hz, asociados a los 
 
 Este es el **montaje físico**
 
-![](https://github.com/Obijuan/diegital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-04.jpg)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-2-1-04.jpg)
 
 Para crear el **circuito en Icestudio** nos aseguramos de que tenemos la colección **Academia-Jedi-HW-14.zip** instalada y nos vamos al menú **Varios/Mux**. Elegimos el componente **Mux-2-1**
 
