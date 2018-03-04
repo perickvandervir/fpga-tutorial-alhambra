@@ -114,6 +114,8 @@ Este es el circuito en Icestudio. Por el **canal 0** del multiplexor se introduc
 
 Los multiplexores 4 a 1 tienen **4 canales de entrada** y **2 bits de selección**. El funcionamiento es el mismo que el de los multiplexores 2:1, pero ahora se selecciona entre los cuatro canales
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-4-1-01.png)
+
 TODO
 
 # Ejemplo 3: LED en 4 modos
