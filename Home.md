@@ -47,7 +47,7 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 
 ### Segundo curso
 
-Estudiante que se encuentran cursando el **segundo año** de la **academia de Hardware Jedi**. Para acceder al segundo curso tienes que **Padawan**, para lo que necesitas un mínimo de **150 Bitpoints**
+Estudiante que se encuentran cursando el **segundo año** de la **academia de Hardware Jedi**. Para acceder al segundo curso tienes que ser **Padawan**, para lo que necesitas un mínimo de **150 Bitpoints**
 
 [[https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/insignias/Academia-jedi-amarillo.png|width=200px]]
 
