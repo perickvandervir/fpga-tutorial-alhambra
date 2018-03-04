@@ -120,7 +120,11 @@ La **tabla de verdad** simplificada se muestra a continuación. El valor de los 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-4-1-02.png)
 
-TODO
+El **funcionamiento** se muestra gráficamente en esta **animación**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-4-03.gif)
+
+Se ha representado un ejemplo en el que se van seleccionando los **4 canales secuencialmente**, sin embargo se puede hacer en el **orden que se quiera** y asignar el **tiempo que se quiera** a cada canal
 
 # Ejemplo 3: LED en 4 modos
 
