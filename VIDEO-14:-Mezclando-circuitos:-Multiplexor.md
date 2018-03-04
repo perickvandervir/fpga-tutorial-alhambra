@@ -128,9 +128,11 @@ Se ha representado un ejemplo en el que se van seleccionando los **4 canales sec
 
 ## Ejemplo 3: LED en 4 modos
 
-Vamos a utilizar un **multiplexor 4 a 1** para seleccionar el **estado** que queremos para un **LED externo**: apagado, encendido, parpadeo lento y parpadeo rápido. Este modo se configura con **dos interruptores externos**
+Vamos a utilizar un **multiplexor 4 a 1** para seleccionar el **estado** que queremos para un **LED externo**: apagado, encendido, parpadeo lento y parpadeo rápido. Este modo se configura con **dos interruptores externos**. Este es el **montaje**:
 
-(foto montaje)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/ej3-01.jpg)
+
+El multiplexor 4:1 lo encontramos en el mismo menú que el Mux 2:1: **Varios/Mux**
 
 (Circuito)
 
