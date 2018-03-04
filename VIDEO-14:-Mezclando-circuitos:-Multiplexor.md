@@ -154,7 +154,7 @@ Conectamos las dos entradas de selección a los **pulsadores externos**, y la sa
 
 TODO
 
-# Ejemplo 4: Órgano de 3 notas con un zumbador
+# Ejemplo 4: Secuencia de 3 notas con un zumbador
 
 TODO
 
