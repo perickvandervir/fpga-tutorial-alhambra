@@ -116,6 +116,10 @@ Los multiplexores 4 a 1 tienen **4 canales de entrada** y **2 bits de selección
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-4-1-01.png)
 
+La **tabla de verdad** simplificada se muestra a continuación. El valor de los **dos bits de selección** determinan cuál de los canales es el que se saca por la salida. Por cada uno de estos canales llegan bits genéricos, que pueden estar a 1 ó 0 (por eso lo representamos con una X)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-4-1-02.png)
+
 TODO
 
 # Ejemplo 3: LED en 4 modos
