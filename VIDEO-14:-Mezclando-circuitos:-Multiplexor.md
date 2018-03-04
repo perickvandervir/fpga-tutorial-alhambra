@@ -139,9 +139,11 @@ El **multiplexor 4:1** lo encontramos en el mismo menú que el Mux 2:1: **Varios
 
 Lo **colocamos**. Esta es la pinta que tiene:
 
-(mux-4-1)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/ej3-03.jpg)
 
-(mux-4-1-flip)
+Los 4 entradas superiores se corresponden con los canales 3,2,1 y 0. Las dos inferiores son los **dos bits de selección**. También tenemos la versión **mux-4-1-flip**, que es igual pero con las entradas ordenadas en orden inverso
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/ej3-04.jpg)
 
 (Circuito)
 
