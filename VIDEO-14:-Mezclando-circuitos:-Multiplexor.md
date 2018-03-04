@@ -133,7 +133,15 @@ Vamos a utilizar un **multiplexor 4 a 1** para seleccionar el **estado** que que
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/ej3-01.jpg)
 
-El multiplexor 4:1 lo encontramos en el mismo menú que el Mux 2:1: **Varios/Mux**
+El **multiplexor 4:1** lo encontramos en el mismo menú que el Mux 2:1: **Varios/Mux**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/ej3-02.jpg)
+
+Lo **colocamos**. Esta es la pinta que tiene:
+
+(mux-4-1)
+
+(mux-4-1-flip)
 
 (Circuito)
 
