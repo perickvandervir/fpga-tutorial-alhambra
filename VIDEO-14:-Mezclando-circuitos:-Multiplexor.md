@@ -147,7 +147,8 @@ Los 4 entradas superiores se corresponden con los canales 3,2,1 y 0. Las dos inf
 
 Conectamos las dos entradas de selección a los **pulsadores externos**, y la salida al **LED externo**. Por los canales de entrada conectamos un **bit a 0**, otro a **1**, un corazón a **1Hz** y otro a **4Hz**. Esto se corresponde con los 4 modos de funcionamiento que queremos para el LED. El **circuito** es el siguiente:
 
-(Circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/ej3-05.jpg)
+
 
 (Animacion)
 
