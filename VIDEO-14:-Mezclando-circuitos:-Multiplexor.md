@@ -112,6 +112,8 @@ Este es el circuito en Icestudio. Por el **canal 0** del multiplexor se introduc
 
 # Multiplexor 4:1
 
+Los multiplexores 4 a 1 tienen **4 canales de entrada** y **2 bits de selección**. El funcionamiento es el mismo que el de los multiplexores 2:1, pero ahora se selecciona entre los cuatro canales
+
 TODO
 
 # Ejemplo 3: LED en 4 modos
