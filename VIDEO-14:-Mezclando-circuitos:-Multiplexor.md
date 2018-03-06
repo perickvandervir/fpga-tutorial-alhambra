@@ -156,7 +156,7 @@ Inicialmente, cuando los dos interruptores están a cero, el **LED está apagado
 
 ## Ejemplo 4: Secuencia de 3 notas con un zumbador
 
-TODO
+Como último ejemplo usaremos un multiplexor 4:1 para **tocas las notas** DO-RE-MI (y un silencio) **consecutivamente**, con un zumbador.
 
 # Ejercicios propuestos (X BitPoints)
 
