@@ -172,7 +172,7 @@ Inicialmente los dos corazones están a 0, por lo que **s1** y **s0** valen **ce
 
 **Cargamos** el circuito en la placa y lo **probamos**
 
-(animacion?)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-4-05.gif)
 
 # Ejercicios propuestos (X BitPoints)
 
