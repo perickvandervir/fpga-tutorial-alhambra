@@ -160,7 +160,13 @@ Como último ejemplo usaremos un multiplexor 4:1 para **tocas las notas** DO-RE-
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-4-1-ej4-01.jpg)
 
-TODO
+Por los canales 0,1,2 y 3 del multiplexor introduciremos, respectivamente, un cero (silencio), y las notas DO, RE y MI. Por su salida conectamos el zumbador. La **selección se hace automáticamente** mediante dos corazones de 1 y 2Hz, lo que le asigna un tiempo de **250ms** a cada nota (ahora veremos por qué). Este es el **circuito**:
+
+(foto)
+
+(cronograma corazones)
+
+(animacion?)
 
 # Ejercicios propuestos (X BitPoints)
 
