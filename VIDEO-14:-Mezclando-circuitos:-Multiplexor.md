@@ -156,7 +156,11 @@ Inicialmente, cuando los dos interruptores están a cero, el **LED está apagado
 
 ## Ejemplo 4: Secuencia de 3 notas con un zumbador
 
-Como último ejemplo usaremos un multiplexor 4:1 para **tocas las notas** DO-RE-MI (y un silencio) **consecutivamente**, con un zumbador.
+Como último ejemplo usaremos un multiplexor 4:1 para **tocas las notas** DO-RE-MI (y un silencio) **consecutivamente**, con un zumbador. Usaremos dos **LEDs externos** para mostrar el canal que está seleccionado. El **montaje** es el siguiente:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-4-1-ej4-01.jpg)
+
+TODO
 
 # Ejercicios propuestos (X BitPoints)
 
