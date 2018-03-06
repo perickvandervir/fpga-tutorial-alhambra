@@ -128,7 +128,7 @@ El **funcionamiento** se muestra gráficamente en esta **animación**
 
 Se ha representado un ejemplo en el que se van seleccionando los **4 canales secuencialmente**, sin embargo se puede hacer en el **orden que se quiera** y asignar el **tiempo que se quiera** a cada canal
 
-## Ejemplo 3: LED en 4 mhttps://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-4-1-ej4-03.jpgodos
+## Ejemplo 3: LED en 4 modos
 
 Vamos a utilizar un **multiplexor 4 a 1** para seleccionar el **estado** que queremos para un **LED externo**: apagado, encendido, parpadeo lento y parpadeo rápido. Este modo se configura con **dos interruptores externos**. Este es el **montaje**:
 
