@@ -128,7 +128,7 @@ El **funcionamiento** se muestra gráficamente en esta **animación**
 
 Se ha representado un ejemplo en el que se van seleccionando los **4 canales secuencialmente**, sin embargo se puede hacer en el **orden que se quiera** y asignar el **tiempo que se quiera** a cada canal
 
-## Ejemplo 3: LED en 4 modos
+## Ejemplo 3: LED en 4 mhttps://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-4-1-ej4-03.jpgodos
 
 Vamos a utilizar un **multiplexor 4 a 1** para seleccionar el **estado** que queremos para un **LED externo**: apagado, encendido, parpadeo lento y parpadeo rápido. Este modo se configura con **dos interruptores externos**. Este es el **montaje**:
 
@@ -163,10 +163,11 @@ Como último ejemplo usaremos un multiplexor 4:1 para **tocas las notas** DO-RE-
 Por los canales 0,1,2 y 3 del multiplexor introduciremos, respectivamente, un cero (silencio), y las notas DO, RE y MI. Por su salida conectamos el zumbador. La **selección se hace automáticamente** mediante dos corazones de 1 y 2Hz, lo que le asigna un tiempo de **250ms** a cada nota (ahora veremos por qué). Este es el **circuito**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-4-1-ej4-02.jpg)
-r
+
 El **corazón de 1Hz** está conectado a la entrada de selección **s1**. Esto significa que cada **medio segundo** (500ms) habrá un cambio en esa entrada. El **corazón de 2Hz** se conecta a la entrada s0, y en este caso habrá **un cambio cada 250ms**. Esa información la representamos en el siguiente dibujo
 
-(cronograma corazones)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-4-1-ej4-03.jpg)
+
 
 (animacion?)
 
