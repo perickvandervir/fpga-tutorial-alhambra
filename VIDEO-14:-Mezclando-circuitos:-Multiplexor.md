@@ -8,6 +8,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
+Los multiplexores nos permite **combinar circuitos** que usan las mismas salidas. Veremos el funcionamiento de dos tipos: los **multiplexores 2:1** y los **4:1**
 
 # Colección
 
