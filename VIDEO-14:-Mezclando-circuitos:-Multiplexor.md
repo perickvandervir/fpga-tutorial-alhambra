@@ -170,6 +170,8 @@ El **corazón de 1Hz** está conectado a la entrada de selección **s1**. Esto s
 
 Inicialmente los dos corazones están a 0, por lo que **s1** y **s0** valen **cero**, y en el multiplexor se selecciona el **canal 0**. Al cabo de 250ms, cambia **s0** a **1**, pero **s1** todavía sigue en **0**, por lo que se selecciona el **canal 1**. Al transcurrir otros 250ms, **s0** cambia a **0** nuevamente, pero ahora **s1** se pone a **1**, seleccionándose el **canal 2**. Y por último, al pasar los siguientes 250ms, **s0** se pone nuevamente a **1** y **s1** continúa con **1**. El **canal 3** se selecciona. Todo este ciclo ha durado 1 segundo, y se vuelve a repetir
 
+**Cargamos** el circuito en la placa y lo **probamos**
+
 (animacion?)
 
 # Ejercicios propuestos (X BitPoints)
