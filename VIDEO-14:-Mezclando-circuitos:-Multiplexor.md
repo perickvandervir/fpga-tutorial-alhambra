@@ -150,9 +150,9 @@ Conectamos las dos entradas de selección a los **pulsadores externos**, y la sa
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/ej3-05.jpg)
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-4-04.gif)
+Inicialmente, cuando los dos interruptores están a cero, el **LED está apagado**. Al activar el interruptor de la derecha, el **LED se enciende**. Si activamos también el de la izquierda, el **LED parpadea rápido**. Al desconectar el de la derecha el **LED parpadea lent**o y finalmente al desconectar el de la izquierda, **se apaga**. **Cargamos** el circuito y vemos su funcionamiento
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-4-04.gif)
 
 ## Ejemplo 4: Secuencia de 3 notas con un zumbador
 
