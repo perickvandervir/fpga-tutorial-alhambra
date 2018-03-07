@@ -184,7 +184,8 @@ Ver los **detalles** de los ejercicios y las **entregas** en el menú **Archivos
 * **Ejercicio 1** (Total **3 Bitpoints**): Limpiaparabrisas a dos velocidades. Usar un servo para simular un limpiaparabrisas de un coche, que se mueva a dos velocidades: **lenta** y **rápida**, determinadas por un **interruptor externo**. En el modo lento el servo permanecerá **2 segundos** en cada posición, y en el 
 modo rápido **medio segundo** (Freq. de 1Hz)
 
-* **Ejercicio 2** (Total **3 Bitpoints**): Doble sirena, seleccionable por swtich y activada con pulsador
+* **Ejercicio 2** (Total **3 Bitpoints**): Sirena configurable. Sirena que funciona en **dos modos**, según la posición de un **interruptor externo**, usando un **único zumbador**. Además, tiene un **pulsador externo**, que al apretarlo debe sonar la sirena, y al soltarlo se apaga. En el **modo 1** se emiten alternativamente tonos de **1Khz** y **2Khz**, cada uno durante medio segundo.  En el **modo 2** se emiten alternativamente las notas **DO** y **Mi**, con duraciones de **250ms**  cada una.
+
 
 * **Ejercicio 3** (Total **5 Bitpoints**): franky en dos modos de funcionamiento (automático y manual)
 
