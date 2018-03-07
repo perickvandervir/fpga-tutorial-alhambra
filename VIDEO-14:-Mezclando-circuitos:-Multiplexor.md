@@ -14,7 +14,7 @@ Los multiplexores nos permite **combinar circuitos** que usan las mismas salidas
 
 # Colección
 
-**Academia-Jedi-HW-14.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-14.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/Collection/Academia-Jedi-HW-14.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
