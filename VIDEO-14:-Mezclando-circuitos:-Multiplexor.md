@@ -188,8 +188,7 @@ modo rápido **medio segundo** (Freq. de 1Hz)
 
 * **Ejercicio 3** (Total **5 Bitpoints**): Franky en modo automático y manual. Este es un ejercicio de **COMPLEJIDAD MEDIA**. Hay que entender bien los detalles del enunciado para implementarlo, que se encuentran en los ejercicios de esta colección. Aquí se puede ver un **vídeo de Franky** funcionando en los dos modos, **automático** y **manual**:
 
-(Video de referencia)
-
+[![Click to see the youtube video](http://img.youtube.com/vi/SWdSmQsTVTk/0.jpg)](https://www.youtube.com/watch?v=SWdSmQsTVTk)
 
 * **Ejercicio 4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
