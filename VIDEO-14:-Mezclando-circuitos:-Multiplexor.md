@@ -177,19 +177,16 @@ Inicialmente los dos corazones están a 0, por lo que **s1** y **s0** valen **ce
 
 # Ejercicios propuestos (14 BitPoints)
 
-TODO:
-* Doble sirena, seleccionable por swtich y activada con pulsador
-* franky en dos modos de funcionamiento (automático y manual)
-
-Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
+Ver los **detalles** de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **3 Bitpoints**): Limpiaparabrisas a dos velocidades (TODO)
+* **Ejercicio 1** (Total **3 Bitpoints**): Limpiaparabrisas a dos velocidades. Usar un servo para simular un limpiaparabrisas de un coche, que se mueva a dos velocidades: **lenta** y **rápida**, determinadas por un **interruptor externo**. En el modo lento el servo permanecerá **2 segundos** en cada posición, y en el 
+modo rápido **medio segundo** (Freq. de 1Hz)
 
-* **Ejercicio 2** (Total **3 Bitpoints**): 
+* **Ejercicio 2** (Total **3 Bitpoints**): Doble sirena, seleccionable por swtich y activada con pulsador
 
-* **Ejercicio 3** (Total **5 Bitpoints**): 
+* **Ejercicio 3** (Total **5 Bitpoints**): franky en dos modos de funcionamiento (automático y manual)
 
 * **Ejercicio 4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
