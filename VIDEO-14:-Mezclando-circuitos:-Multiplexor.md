@@ -175,22 +175,21 @@ Inicialmente los dos corazones están a 0, por lo que **s1** y **s0** valen **ce
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-14/mux-4-05.gif)
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (14 BitPoints)
 
 TODO:
-* Limpia parabrisas de dos velocidades
 * Doble sirena, seleccionable por swtich y activada con pulsador
-* ranky en dos modos de funcionamiento (automático y manual)
+* franky en dos modos de funcionamiento (automático y manual)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **x Bitpoints**): 
+* **Ejercicio 1** (Total **3 Bitpoints**): Limpiaparabrisas a dos velocidades (TODO)
 
-* **Ejercicio 2** (Total **x Bitpoints**): 
+* **Ejercicio 2** (Total **3 Bitpoints**): 
 
-* **Ejercicio 3** (Total **x Bitpoints**): 
+* **Ejercicio 3** (Total **5 Bitpoints**): 
 
 * **Ejercicio 4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
