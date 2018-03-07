@@ -27,3 +27,5 @@
 12. [Interruptores y pulsadores externos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos)
 
 13. [Periféricos: Leds externos y zumbadores](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-13:-Perif%C3%A9ricos:-Leds-externos-y-zumbadores)
+
+14. [Mezclando circuitos: Multiplexor](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-14:-Mezclando-circuitos:-Multiplexor)
