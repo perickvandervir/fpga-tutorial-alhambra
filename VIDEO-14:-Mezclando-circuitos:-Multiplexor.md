@@ -23,7 +23,7 @@ Los multiplexores nos permite **combinar circuitos** que usan las mismas salidas
 * [Multiplexor 4 a 1](#multiplexor-41)
   * [Ejemplo 3: LED en 4 modos](#ejemplo-3-led-en-4-modos)
   * [Ejemplo 4: Secuencia de 3 notas con un zumbador ](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-14:-Mezclando-circuitos:-Multiplexor#ejemplo-4-secuencia-de-3-notas-con-un-zumbador)
-* Ejercicios propuestos (X Bitpoints)
+* [Ejercicios propuestos (14 Bitpoints)](#ejercicios-propuestos-14-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
 * [Licencia](#licencia)
