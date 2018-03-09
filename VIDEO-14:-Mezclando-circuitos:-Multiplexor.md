@@ -245,11 +245,11 @@ modo rápido **medio segundo** (Freq. de 1Hz)
 [![Click to see the youtube video](http://img.youtube.com/vi/l_D_-tqJ_X0/0.jpg)](https://www.youtube.com/watch?v=l_D_-tqJ_X0)
 
 ### Ejercicio 3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-14/klarojms/Ejercicio%203-1.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/ScS-UQOjS7I/0.jpg)](https://www.youtube.com/watch?v=ScS-UQOjS7I)
 
 ### Ejercicio 4
 ![]()
