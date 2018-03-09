@@ -194,14 +194,15 @@ modo rápido **medio segundo** (Freq. de 1Hz)
 
 # Ejercicios entregados
 
-## Primero
+## Enea Kao
 
 ### Ejercicio 1
-![]()
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-14/Eneakao/Esquema-Ejercicio-14-1.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/0yVk5d7FiQE/0.jpg)](https://www.youtube.com/watch?v=0yVk5d7FiQE)
 
 ### Ejercicio 2
 ![]()
