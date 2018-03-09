@@ -206,11 +206,11 @@ modo rápido **medio segundo** (Freq. de 1Hz)
 [![Click to see the youtube video](http://img.youtube.com/vi/0yVk5d7FiQE/0.jpg)](https://www.youtube.com/watch?v=0yVk5d7FiQE)
 
 ### Ejercicio 2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-14/Eneakao/Esquema-Ejercicio-14-2.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/jIUf3Rh-9Pk/0.jpg)](https://www.youtube.com/watch?v=jIUf3Rh-9Pk)
 
 ### Ejercicio 3
 ![]()
