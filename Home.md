@@ -240,6 +240,7 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 | Núm   | Divisa     | Rango  |  Bitpoints  | Descripción |
 |-------|----------|--------|-------------|-------------|
 | 10  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan.png) | **Padawan** | 150 | Empiezas a dominar los **periféricos básicos** de entrada salida. Sabes emitir tus primeros **sonidos** |
+| 11  | ![]() | **Padawan Nivel 1** | 180 |  |
 
 ### Pendiente...
 
@@ -247,7 +248,6 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 |-------|----------|--------|-------------|-------------|
 | Núm   | Rango  |  Bitpoints  | Descripción |
 |-------|--------|-------------|-------------|
-| 11  |   **Padawan nivel-1** |  |  |  |
 | 12 |   **Padawan nivel-2** |  |  |  |
 | 13  |   **Padawan nivel-3** |  |  |  |
 |14  |   **Aspirante a Jedi**|  |  |  |
