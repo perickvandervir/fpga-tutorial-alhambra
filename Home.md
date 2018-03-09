@@ -53,9 +53,9 @@ Estudiante que se encuentran cursando el **segundo año** de la **academia de Ha
 
 |Divisa  | Nombe             | Rango    | BitPoints |
 |--------|-------------------|----------|-----------|
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Josep Montoliu (Klarojms)  | Padawan | 172 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Joaquín Cubillo (jcubilloarr)  | Padawan | 158 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Federico Coca  | Padawan | 158 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Josep Montoliu (Klarojms)  | Padawan | 158 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Fernando Coladas (@fcoladas)  | Padawan | 156 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Manuel Andújar (Matalobo)  | Padawan | 151 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Enea Kao (@Eneakao)  | Padawan | 150 |
