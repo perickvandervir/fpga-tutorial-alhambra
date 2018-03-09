@@ -25,6 +25,7 @@ Los multiplexores nos permite **combinar circuitos** que usan las mismas salidas
   * [Ejemplo 4: Secuencia de 3 notas con un zumbador ](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-14:-Mezclando-circuitos:-Multiplexor#ejemplo-4-secuencia-de-3-notas-con-un-zumbador)
 * [Ejercicios propuestos (14 Bitpoints)](#ejercicios-propuestos-14-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
+  * [Enea Kao](#enea-kao)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
