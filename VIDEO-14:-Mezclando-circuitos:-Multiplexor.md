@@ -264,23 +264,17 @@ modo rápido **medio segundo** (Freq. de 1Hz)
 ### Ejercicio 1
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-14/Jose%20Lopez/ejercicio_14-1.jpg)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/joselopez_ga/status/972170855668207616)
 
 ### Ejercicio 2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-14/Jose%20Lopez/ejercicio_14-2.jpg)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/joselopez_ga/status/972172137762115586)
 
 ### Ejercicio 3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-14/Jose%20Lopez/ejercicio_14-3.jpg)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/joselopez_ga/status/972172914400342016)
 
 ### Ejercicio 4
 ![]()
