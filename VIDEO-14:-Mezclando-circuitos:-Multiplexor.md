@@ -258,7 +258,7 @@ modo rápido **medio segundo** (Freq. de 1Hz)
 
 [![Click to see the youtube video](http://img.youtube.com/vi/1HuM0mBosG4/0.jpg)](https://www.youtube.com/watch?v=1HuM0mBosG4)
 
-## Tercero
+## Jose López
 
 ### Ejercicio 1
 ![]()
