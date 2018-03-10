@@ -262,7 +262,7 @@ modo rápido **medio segundo** (Freq. de 1Hz)
 ## Jose López
 
 ### Ejercicio 1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-14/Jose%20Lopez/ejercicio_14-1.jpg)
 
 * **Vídeo** en Youtube:
 
