@@ -25,6 +25,12 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
+TODO
+
+# El servo de rotación contínua SM-4304R
+
+TODO
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
