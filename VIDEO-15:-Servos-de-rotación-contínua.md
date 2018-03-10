@@ -171,7 +171,8 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 * [Fijador de placas](https://github.com/Obijuan/3D-parts/wiki/Fijador-de-placas)
 * [Octopus passive buzzer](http://www.elecfreaks.com/estore/octopus-passive-buzzer-brick-obpb01.html), de Elecfreak
 * [Kit de sensores para Arduino](http://tienda.bricogeek.com/kits-arduino/832-kit-de-37-sensores-compatible-arduino-1247563871496.html). BricoGeek. Dentro del kit con 37 módulos, hay uno con zumbador
-
+* [Trucaje de un servo Futaba 3003](https://www.diarioelectronicohoy.com/blog/trucar-un-servo-futaba-s3003)
+* [Servo de rotación continua SM-4303R](http://tienda.bricogeek.com/motores/118-servomotor-de-rotacion-continua-sm-s4303r.html) (en Bricogeek)
 
 # Preguntas frecuentes
 
