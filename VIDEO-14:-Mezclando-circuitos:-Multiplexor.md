@@ -27,6 +27,7 @@ Los multiplexores nos permite **combinar circuitos** que usan las mismas salidas
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Enea Kao](#enea-kao)
   * [Josep Montoliu](#josep-montoliu-klarojms)
+  * [Jose López](#jose-l%C3%B3pez)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
