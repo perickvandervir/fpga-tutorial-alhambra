@@ -64,15 +64,12 @@ Le colocamos la **cabeza** que queramos. En este tutorial yo le pondré la que t
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/servos-rotc-03.png)
 
-Estos servos son los que se utilizan en muchos de los **printbots libres**, como el [Renacuajo](https://github.com/bq/printbots/tree/master/Renacuajo)
-
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/renacuajo-0.png)
-
-[Beetle](https://github.com/bq/printbots/tree/master/Beetle) o el [Evolution](https://github.com/bq/printbots/tree/master/Evolution)
+Estos servos son los que se utilizan en muchos de los **printbots libres**, como el [Renacuajo](https://github.com/bq/printbots/tree/master/Renacuajo), [Beetle](https://github.com/bq/printbots/tree/master/Beetle) o el [Evolution](https://github.com/bq/printbots/tree/master/Evolution)
 
 |   |    |
 |---|----|
-|  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/beetle-image-1-v1_2.png) | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Evolution.jpg)   |
+| ![](![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/renacuajo-0.png))  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/beetle-image-1-v1_2.png)  |
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Evolution.jpg)   |
 
 # Ejercicios propuestos (X BitPoints)
 
