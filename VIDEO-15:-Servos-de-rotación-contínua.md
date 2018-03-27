@@ -36,6 +36,10 @@ En realidad, funcionan como **motores de corriente continua**, con la ventaja de
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/servo-rotc-02.gif)
 
+Típicamente los servos de rotación contínua los obtenemos **trucando** los servos normales: quitando los topes y cambiando el potenciómetro por una resistencia fija, o fijando la posición del propio potenciómetro. En esta página puedes ver las [diferentes formas de trucar un servo Futaba 3003](https://www.diarioelectronicohoy.com/blog/trucar-un-servo-futaba-s3003). El caso 2 es el más interesante para la construcción de robots móviles
+
+Sin embargo, existen a la venta servos ya trucados, como por ejemplo el **SpringRC SM-S430R** que es el que usaremos en este tutorial
+
 # El servo SpringRC SM-S4303R
 
 TODO
