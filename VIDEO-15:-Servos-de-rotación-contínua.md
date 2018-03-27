@@ -42,7 +42,9 @@ Los **servos trucados** se han utilizado muchísimo para construir pequeños **r
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/tritt.jpg)
 
-(Skybot)
+El [Skybot](http://www.iearobotics.com/wiki/index.php?title=Skybot) (2004) tenía una estructura diferente, hecha a partir de piezas cortadas por láser, y también usaba Servos Trucados
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Skybot-v1.0-foto1.jpg)
 
 (Miniskybot)
 
