@@ -36,7 +36,7 @@ En realidad, funcionan como **motores de corriente continua**, con la ventaja de
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/servo-rotc-02.gif)
 
-# El servo de rotación contínua SpringRC SM-S4303R
+# El servo SpringRC SM-S4303R
 
 TODO
 
