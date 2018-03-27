@@ -54,9 +54,9 @@ El trucaje de servos se ha estdo usando durante muchos años. Sin embargo, ya ex
 
 # El servo SpringRC SM-S4303R
 
-Usaremos el servo de rotación continua SpringRC SM-S430R. Lo puedes conseguir en muchas tiendas por internet, como por ejemplo en **Bricogeek**: [Servo SM-4303R Bricogeek](http://tienda.bricogeek.com/motores/118-servomotor-de-rotacion-continua-sm-s4303r.html). Esto NO es un enlace patrocinado. Lo pongo aquí porque Bricogeek funciona muy bien, sin más
+Usaremos el **servo de rotación continua** SpringRC SM-S430R. Lo puedes conseguir en muchas tiendas por internet, como por ejemplo en **Bricogeek**: [Servo SM-4303R Bricogeek](http://tienda.bricogeek.com/motores/118-servomotor-de-rotacion-continua-sm-s4303r.html). Esto NO es un enlace patrocinado. Lo pongo aquí porque Bricogeek funciona muy bien, sin más
 
-
+Como el resto de servos, viene con **diferentes cabezas** que se **atornillas** al eje de giro
 
 # Ejercicios propuestos (X BitPoints)
 
