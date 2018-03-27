@@ -46,9 +46,11 @@ El [Skybot](http://www.iearobotics.com/wiki/index.php?title=Skybot) (2004) tení
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Skybot-v1.0-foto1.jpg)
 
-(Miniskybot)
+El primer **printbot** móvil (Robot imprimible) fue el [Miniskybot](http://www.iearobotics.com/wiki/index.php?title=Mini-Skybot_v1.0) (2010), que heredó los **servos trucados** del Skybot
 
-Sin embargo, existen a la venta servos ya trucados, como por ejemplo el **SpringRC SM-S430R** que es el que usaremos en este tutorial
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Miniskybot-v1.0-red-r1.jpg)
+
+El trucaje de servos se ha estdo usando durante muchos años. Sin embargo, ya existen a la venta servos trucados, como por ejemplo el **SpringRC SM-S430R** que es el que usaremos en este tutorial
 
 # El servo SpringRC SM-S4303R
 
