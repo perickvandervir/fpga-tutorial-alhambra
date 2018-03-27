@@ -58,6 +58,8 @@ Usaremos el **servo de rotación continua** SpringRC SM-S430R. Lo puedes consegu
 
 Como el resto de servos, viene con **diferentes cabezas** que se **atornillas** al eje de giro
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/SM-S4303R-2.jpg)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
