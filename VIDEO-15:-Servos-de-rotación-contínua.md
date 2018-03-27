@@ -26,9 +26,9 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
-Los servos que hemos usado hasta ahora nos permiten **fijar el ángulo de salida** de su eje. Esto se denomina **control por posición**. Estos servos, además, tienen un **tope mecánico** que impide que giren más de **180 grados** típicamente
+Los servos que hemos usado hasta ahora nos permiten **fijar el ángulo de salida** de su eje. Esto se denomina **control por posición**. Estos servos, además, tienen un **tope mecánico** que impide que giren más de **180 grados**
 
-Exiten otro tipo de servos, conocidos como **servos de rotación contínua**. Se **controlan por velocidad** en vez de por posición, y **NO tienen topes mecanicos**, por lo que pueden girar continuamente. En realidad, funcionan como motores de corriente continua, con la ventaja de que **la etapa de potencia está dentro del servo** y su interfaz electrónica es igual que la de los servos tradicionales
+Exiten otro tipo de servos, conocidos como **servos de rotación contínua**. Se **controlan por velocidad** en vez de por posición, y **NO tienen topes mecánicos**, por lo que pueden girar continuamente. En realidad, funcionan como **motores de corriente continua**, con la ventaja de que **la etapa de potencia está dentro del servo** y su interfaz electrónica es igual que la de los servos tradicionales
 
 # El servo de rotación contínua SM-4304R
 
