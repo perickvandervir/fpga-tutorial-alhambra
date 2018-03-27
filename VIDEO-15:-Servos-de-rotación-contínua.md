@@ -60,6 +60,10 @@ Como el resto de servos, viene con **diferentes cabezas** que se **atornillas** 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/SM-S4303R-2.jpg)
 
+Le colocamos la **cabeza** que queramos. En este tutorial yo le pondré la que tiene **4 brazos**, que es la que usaremos para el colocar las ruedas del **Icebot**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/servos-rotc-03.png)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
