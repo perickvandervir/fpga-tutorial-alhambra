@@ -30,6 +30,8 @@ Los servos que hemos usado hasta ahora nos permiten **fijar el ángulo de salida
 
 Exiten otro tipo de servos, conocidos como **servos de rotación contínua**. Se **controlan por velocidad** en vez de por posición, y **NO tienen topes mecánicos**, por lo que pueden girar continuamente. En realidad, funcionan como **motores de corriente continua**, con la ventaja de que **la etapa de potencia está dentro del servo** y su interfaz electrónica es igual que la de los servos tradicionales
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/servos-rotc-01.png)
+
 # El servo de rotación contínua SM-4304R
 
 TODO
