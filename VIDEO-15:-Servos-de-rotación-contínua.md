@@ -16,7 +16,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 # Contenido
 
 * [Introducción](#introducci%C3%B3n)
-* [El servo de rotación contínua SM-4304R](#el-servo-de-rotaci%C3%B3n-cont%C3%ADnua-sm-4304r)
+* [El servo SM-4304R](#el-servo-springrc-sm-s4303r)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
