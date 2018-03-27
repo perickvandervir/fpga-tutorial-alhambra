@@ -68,6 +68,12 @@ Estos servos son los que se utilizan en muchos de los **printbots libres**, como
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/renacuajo-0.png)
 
+[Beetle](https://github.com/bq/printbots/tree/master/Beetle) o el [Evolution](https://github.com/bq/printbots/tree/master/Evolution)
+
+|   |    |
+|---|----|
+|  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/beetle-image-1-v1_2.png) | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Evolution.jpg)   |
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
