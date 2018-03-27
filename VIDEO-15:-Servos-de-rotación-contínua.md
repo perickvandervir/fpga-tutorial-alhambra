@@ -64,6 +64,10 @@ Le colocamos la **cabeza** que queramos. En este tutorial yo le pondré la que t
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/servos-rotc-03.png)
 
+Estos servos son los que se utilizan en muchos de los **printbots libres**, como el [Renacuajo](https://github.com/bq/printbots/tree/master/Renacuajo)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/renacuajo-0.png)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
