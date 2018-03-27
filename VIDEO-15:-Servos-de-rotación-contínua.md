@@ -38,7 +38,7 @@ En realidad, funcionan como **motores de corriente continua**, con la ventaja de
 
 Típicamente los servos de rotación contínua los obtenemos **trucando** los servos normales: quitando los topes y cambiando el potenciómetro por una resistencia fija, o fijando la posición del propio potenciómetro. En esta página puedes ver las [diferentes formas de trucar un servo Futaba 3003](https://www.diarioelectronicohoy.com/blog/trucar-un-servo-futaba-s3003). El caso 2 es el más interesante para la construcción de robots móviles
 
-Los servos trucados se han utilizado muchísimo para construir pequeños **robots móviles**. Uno de los primeros en España fue el [Microbot Tritt](http://www.iearobotics.com/wiki/index.php?title=Mini-Skybot) (Año 1997)
+Los servos trucados se han utilizado muchísimo para construir pequeños **robots móviles**. Uno de los primeros en España fue el [Microbot Tritt](http://www.iearobotics.com/proyectos/tritt/tritt.html) (Año 1997)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/tritt.jpg)
 
