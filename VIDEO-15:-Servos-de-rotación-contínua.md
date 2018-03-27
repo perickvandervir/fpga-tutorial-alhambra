@@ -82,6 +82,18 @@ El **modelo 3D** del servo SM-S4303R, hecho con **FreeCAD 0.16**, junto a todas 
 
 (TODO)
 
+# MotorBit
+
+(TODO)
+
+# Ejemplo 1: Control directo con pulsador y switch
+
+# Ejemplo 2: Moviendo dos servos
+
+# El robot ICEbot
+
+# Ejemplo 3: Adelante - stop
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
