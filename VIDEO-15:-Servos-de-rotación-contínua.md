@@ -40,7 +40,7 @@ Típicamente los servos de rotación contínua los obtenemos **trucando** los se
 
 Los servos trucados se han utilizado muchísimo para construir pequeños **robots móviles**. Uno de los primeros en España fue el [Microbot Tritt](http://www.iearobotics.com/wiki/index.php?title=Mini-Skybot) (Año 1997)
 
-(Tritt)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/tritt.jpg)
 
 (Skybot)
 
