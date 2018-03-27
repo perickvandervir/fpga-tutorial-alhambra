@@ -73,7 +73,10 @@ Estos servos son los que se utilizan en muchos de los **printbots libres**, como
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Evolution.jpg)   
 
+El **modelo 3D** del servo SM-S4303R, hecho con **FreeCAD 0.16**, junto a todas sus cabezas, está disponible en la [Biblioteca de piezas de FreeCAD](https://github.com/FreeCAD/FreeCAD-library/tree/master/Electrical%20Parts/Servos/SpringRC-SM-S4303R)
 
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/servos-rotc-04.png)
 
 
 # Ejercicios propuestos (X BitPoints)
