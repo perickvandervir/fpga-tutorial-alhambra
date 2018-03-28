@@ -24,6 +24,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [El controlador MotorBit](#el-controlador-motorbit)
 * [Ejemplo 1: Control con dos pulsadores](#ejemplo-1-control-con-dos-pulsadores)
 * [Calibrando el servo](#calibrando-el-servo)
+* [Ejemplo 2: Moviendo dos servos](#ejemplo-2-moviendo-dos-servos)
 
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
