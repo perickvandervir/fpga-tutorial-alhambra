@@ -130,7 +130,7 @@ Establecemos las conexiones y construimos el siguiente circuito. También lo pod
 
 Lo **cargamos** en la placa para probarlo. Lo podemos ver en funcionamiento en este **vídeo de Youtube**:
 
-(Video)
+[![Click to see the youtube video](http://img.youtube.com/vi/0p4b_wM1U7Y/0.jpg)](https://www.youtube.com/watch?v=0p4b_wM1U7Y)
 
 # Calibrando el servo
 
