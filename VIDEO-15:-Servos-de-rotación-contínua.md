@@ -94,7 +94,7 @@ Los servos de rotación continua, a todos los efectos, se comportan como **motor
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Motorbit-1.png)
 
-Necesitamos por tanto usar **2 bits de control**. En el controlador Motorbit, uno de los bits controla si el motor está **activo** o no (*On/off**) y el otro el **sentido de giro** (*horario/antihorario*)
+Necesitamos por tanto usar **2 bits de control**. En el controlador Motorbit, uno de los bits controla si el motor está **activo** o no (*On/off*) y el otro el **sentido de giro** (*horario/antihorario*)
 
 
 
