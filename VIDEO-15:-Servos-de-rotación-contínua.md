@@ -80,7 +80,7 @@ El **modelo 3D** del servo SM-S4303R, hecho con **FreeCAD 0.16**, junto a todas 
 
 # Accesorios impresos en 3D
 
-Para trabajar con los servos SM-S4303R desde nuestro **panel de corcho***, tenemos estas piezas **imprimibles en 3D**. En este tutorial usaremos 2 servos, por lo que es útil imprimir 2 soportes, de cualquiera de las dos versiones
+Para trabajar con los servos SM-S4303R desde nuestro **panel de corcho***, tenemos estas piezas **imprimibles en 3D**. En este tutorial usaremos 2 servos, por lo que es útil **imprimir 2 soportes**, de cualquiera de las dos versiones
 
 |  Pieza   |  Descripción  |
 |----------|---------------|
