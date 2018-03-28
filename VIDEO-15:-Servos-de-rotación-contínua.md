@@ -98,8 +98,7 @@ Necesitamos por tanto usar **2 bits de control**. En el controlador **Motorbit**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Motorbit-2.png)
 
-
-(TODO)
+(Dibujo tabla verdad)
 
 # Ejemplo 1: Control directo con pulsador y switch
 
