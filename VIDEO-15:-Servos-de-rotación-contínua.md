@@ -126,7 +126,8 @@ Lo **colocamos**:
 
 Establecemos las conexiones y construimos el siguiente circuito. También lo podemos cargar directamente desde **Archivos/Ejemplos/1-Ejemplo/1-Motor-pulsadores**
 
-(Pantallazo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Ejemplo-1-04.jpg)
+
 
 # Ejemplo 2: Moviendo dos servos
 
