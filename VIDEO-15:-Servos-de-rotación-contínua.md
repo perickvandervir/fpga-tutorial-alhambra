@@ -150,7 +150,13 @@ En este segundo ejemplo moveremos **dos servos en direcciones contrarias**. Con 
 
 El **montaje** es el siguiente:
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Ejemplo-2-01.jpg)
+
+Y el **circuito** de prueba este:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Ejemplo-2-02.jpg)
+
+Se han colocados **dos controaldores MotorBit**, uno para cada servo. Para conseguir que giren en **direcciones opuestas** usamos una **puerta NOT** entre las entradas de dirección de ambos controladores
 
 # El robot ICEbot
 
