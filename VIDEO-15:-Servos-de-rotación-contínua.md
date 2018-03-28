@@ -128,6 +128,10 @@ Establecemos las conexiones y construimos el siguiente circuito. También lo pod
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Ejemplo-1-04.jpg)
 
+Lo **cargamos** en la placa para probarlo. Lo podemos ver en funcionamiento en este **vídeo de Youtube**:
+
+(Video)
+
 
 # Ejemplo 2: Moviendo dos servos
 
