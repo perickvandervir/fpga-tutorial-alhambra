@@ -146,6 +146,12 @@ Con un **destornillador de estrella**, y con el servo conectado al **ejemplo 1**
 
 # Ejemplo 2: Moviendo dos servos
 
+En este segundo ejemplo moveremos **dos servos en direcciones contrarias**. Con un **interruptor** seleccionamos el sentido de la marcha, y con el **pulsador** haremos que se muevan (El interruptor simula una palanca de cambio, de dos marchas, adelante y atrás, y el pulsador el acelerador). Es el paso previo para tener todo listo para construir nuestro primer robot
+
+El **montaje** es el siguiente:
+
+(foto)
+
 # El robot ICEbot
 
 # Ejemplo 3: Adelante - stop
