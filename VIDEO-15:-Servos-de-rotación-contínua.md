@@ -22,6 +22,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [El servo SM-4303R](#el-servo-springrc-sm-s4303r)
 * [Accesorios impresos en 3D](#accesorios-impresos-en-3d)
 * [El controlador MotorBit](#el-controlador-motorbit)
+* [Calibrando el servo](#calibrando-el-servo)
 * [Ejemplo 1: Control con dos pulsadores](#ejemplo-1-control-con-dos-pulsadores)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
