@@ -80,7 +80,12 @@ El **modelo 3D** del servo SM-S4303R, hecho con **FreeCAD 0.16**, junto a todas 
 
 # Accesorios impresos en 3D
 
-(TODO)
+Para trabajar con los servos SM-S4303R desde nuestro **panel de corcho***, tenemos estas piezas **imprimibles en 3D**
+
+|  Pieza   |  Descripción  |
+|----------|---------------|
+|          |               |
+|          |               |
 
 # MotorBit
 
