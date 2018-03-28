@@ -157,7 +157,9 @@ Y el **circuito** de prueba este:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Ejemplo-2-02.jpg)
 
-Se han colocados **dos controaldores MotorBit**, uno para cada servo. Para conseguir que giren en **direcciones opuestas** usamos una **puerta NOT** entre las entradas de dirección de ambos controladores
+Se han colocados **dos controaldores MotorBit**, uno para cada servo. Para conseguir que giren en **direcciones opuestas** usamos una **puerta NOT** entre las entradas de dirección de ambos controladores. El pulsador está conectado directamente a los bits de *on* de ambos controladores. De esta forma, al apretarlo comienzan a moverse los motores
+
+(Video)
 
 # El robot ICEbot
 
