@@ -105,7 +105,7 @@ El **funcionamiento** del controlador MotorBit se detalla en la siguiente **tabl
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Motorbit-3.png)
 
-# Ejemplo 1: Control directo con pulsador y switch
+# Ejemplo 1: Control con dos pulsadores
 
 # Ejemplo 2: Moviendo dos servos
 
