@@ -136,7 +136,13 @@ Lo **cargamos** en la placa para probarlo. Lo podemos ver en funcionamiento en e
 
 # Calibrando el servo
 
-(TODO)
+Al probar el servo con el ejemplo 1, podría ocurrir que cuando el bit de *on* está a 0, y por tanto el motor debería estar parado, se **mueva ligeramente** en un sentido u otro. Para corregirlo, y lograr que está totalmente **parado**, los servos SM-S4303R disponen de un **potenciómetro para calibrar esta posición de reposo**. Se encuentra situado en la cara del servo que está encima del cable
+
+(Dibujo)
+
+Con un **destornillador de estrella**, y con el servo conectado al **ejemplo 1** (pero sin apretar ningún pulsador), giramos ligeramente este potenciómetro hasta que el servo se quede **totalmente parado**. Ya lo tendremos **calibrado**
+
+(foto)
 
 # Ejemplo 2: Moviendo dos servos
 
