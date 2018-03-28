@@ -116,11 +116,11 @@ El **montaje** es el siguiente
 
 El servo se puede alimentar directamente desde el USB del ordenador, pero para evitar los **picos de arranque** he conectado una **pila de 9v**
 
-Para crear el circuito de ejemplo, instalamos la colección **Academia-Jedi-HW-15.zip** y seleccionamos el **componente MotorBit**, que se encuentra en **Varios/Motor/SM-S4303R/Motorbit**
+Para crear el **circuito de ejemplo**, instalamos la colección **Academia-Jedi-HW-15.zip** y seleccionamos el **componente MotorBit**, que se encuentra en **Varios/Motor/SM-S4303R/Motorbit**
 
-(Pantallazo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Ejemplo-1-02.jpg)
 
-y lo colocamos
+Lo **colocamos**:
 
 (Pantallazo)
 
