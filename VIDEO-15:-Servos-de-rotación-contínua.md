@@ -132,6 +132,9 @@ Lo **cargamos** en la placa para probarlo. Lo podemos ver en funcionamiento en e
 
 (Video)
 
+# Calibrando el servo
+
+(TODO)
 
 # Ejemplo 2: Moviendo dos servos
 
