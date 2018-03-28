@@ -108,6 +108,12 @@ El **funcionamiento** del controlador MotorBit se detalla en la siguiente **tabl
 
 # Ejemplo 1: Control con dos pulsadores
 
+Empezaremos por el **circuito más sencillo**: un controlador **MotorBit** cuya salida está conectada a un servo (D0) y sus entradas a **dos pulsadores** (D13 y D11) que nos permiten cambiar los bits de controla manualmente. Esto nos permitirá experimentar y comprobar cómo funciona. Los pulsadores están conectados a dos **LEDs externos** para ver visualmente el estado de los bits de control
+
+El **montaje** es el siguiente
+
+(Foto)
+
 # Ejemplo 2: Moviendo dos servos
 
 # El robot ICEbot
