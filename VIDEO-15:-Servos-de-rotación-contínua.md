@@ -112,7 +112,21 @@ Empezaremos por el **circuito más sencillo**: un controlador **MotorBit** cuya 
 
 El **montaje** es el siguiente
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Ejemplo-1-01.jpg)
+
+El servo se puede alimentar directamente desde el USB del ordenador, pero para evitar los **picos de arranque** he conectado una **pila de 9v**
+
+Para crear el circuito de ejemplo, instalamos la colección **Academia-Jedi-HW-15.zip** y seleccionamos el **componente MotorBit**, que se encuentra en **Varios/Motor/SM-S4303R/Motorbit**
+
+(Pantallazo)
+
+y lo colocamos
+
+(Pantallazo)
+
+Establecemos las conexiones y construimos el siguiente circuito. También lo podemos cargar directamente desde **Archivos/Ejemplos/1-Ejemplo/1-Motor-pulsadores**
+
+(Pantallazo)
 
 # Ejemplo 2: Moviendo dos servos
 
