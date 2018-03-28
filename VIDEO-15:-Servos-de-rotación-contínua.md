@@ -90,7 +90,7 @@ Para trabajar con los servos SM-S4303R desde nuestro **panel de corcho***, tenem
 
 # El controlador MotorBit
 
-Los servos de rotación continua, a todos los efectos, se comportan como **motores de corriente continua** clásicos. Empezaremos por el **controlador** más simple posible: **MotorBit**. Nos permite llevar el motor a **3 estados**: giro en **sentido horario**, giro en **sentido antihorario** y **parado**
+Los servos de rotación continua, a todos los efectos, se comportan como **motores de corriente continua** clásicos. Empezaremos por el **controlador** más simple posible: **MotorBit**. Nos permite llevar el motor a **3 estados**: giro en **sentido horario**, giro en **sentido antihorario** y **parado**. Cuando se mueve, siempre lo hará a su máxima velocidad. No podemos establecer otra
 
 (Dibujo)
 
