@@ -142,7 +142,7 @@ Al probar el servo con el ejemplo 1, podría ocurrir que cuando el bit de *on* e
 
 Con un **destornillador de estrella**, y con el servo conectado al **ejemplo 1** (pero sin apretar ningún pulsador), giramos ligeramente este potenciómetro hasta que el servo se quede **totalmente parado**. Ya lo tendremos **calibrado**
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/calibracion-2.jpg)
 
 # Ejemplo 2: Moviendo dos servos
 
