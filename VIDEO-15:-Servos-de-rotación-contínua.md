@@ -85,7 +85,7 @@ Para trabajar con los servos SM-S4303R desde nuestro **panel de corcho***, tenem
 |  Pieza   |  Descripción  |
 |----------|---------------|
 |  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/servo-support-2.jpg)        |    [Soporte para servo SM-4303R en vertical](https://github.com/Obijuan/3D-parts/wiki/Soporte-para-servo-SM-4303R.-Vertical). Soporte pequeño para colocar el servo en el cocho en posición vertical           |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/servo-support-1.jpg)         |  ![Soporte para servo SM-S4303R. Inclinado](https://github.com/Obijuan/3D-parts/wiki/Soporte-para-servo-SM-S4303R.-Inclinado)  Colocación del servo SM-S4303R en posición inclinada           |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/servo-support-1.jpg)         |  [Soporte para servo SM-S4303R. Inclinado](https://github.com/Obijuan/3D-parts/wiki/Soporte-para-servo-SM-S4303R.-Inclinado)  Colocación del servo SM-S4303R en posición inclinada           |
 
 # MotorBit
 
