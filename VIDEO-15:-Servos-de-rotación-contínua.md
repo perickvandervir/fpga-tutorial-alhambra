@@ -159,7 +159,10 @@ Y el **circuito** de prueba este:
 
 Se han colocados **dos controaldores MotorBit**, uno para cada servo. Para conseguir que giren en **direcciones opuestas** usamos una **puerta NOT** entre las entradas de dirección de ambos controladores. El pulsador está conectado directamente a los bits de *on* de ambos controladores. De esta forma, al apretarlo comienzan a moverse los motores
 
-(Video)
+En este **vídeo en youtube** se puede ver su funcionamiento
+
+[![Click to see the youtube video](http://img.youtube.com/vi/s4ifZ0weQHI/0.jpg)](https://www.youtube.com/watch?v=s4ifZ0weQHI)
+
 
 # El robot ICEbot
 
