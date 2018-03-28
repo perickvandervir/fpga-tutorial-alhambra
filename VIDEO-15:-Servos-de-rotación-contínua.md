@@ -98,7 +98,9 @@ Necesitamos por tanto usar **2 bits de control**. En el controlador **Motorbit**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Motorbit-2.png)
 
-(Dibujo tabla verdad)
+El **funcionamiento** del controlador MotorBit se detalla en la siguiente **tabla de verdad**. Cuando el **bit de encendido/apagado** (on) está a **0**, el motor se encuentra **parado**, con independencia del valor que tenga el bit de dirección. Cuando el **bit de on** está a **1**, el motor estará **girando**, y su sentido de movimiento dependerá el del valor del **bit de dirección**: Cuando está a **1** gira en **sentido horario**, y cuando está a **0**, lo hace en el **antihorario**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Motorbit-3.png)
 
 # Ejemplo 1: Control directo con pulsador y switch
 
