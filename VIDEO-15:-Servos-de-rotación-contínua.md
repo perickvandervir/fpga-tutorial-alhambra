@@ -25,6 +25,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Ejemplo 1: Control con dos pulsadores](#ejemplo-1-control-con-dos-pulsadores)
 * [Calibrando el servo](#calibrando-el-servo)
 * [Ejemplo 2: Moviendo dos servos](#ejemplo-2-moviendo-dos-servos)
+* [El robot ICEbot](#el-robot-icebot)
 
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
