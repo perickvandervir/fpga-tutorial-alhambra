@@ -26,6 +26,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Calibrando el servo](#calibrando-el-servo)
   * [Ejemplo 2: Moviendo dos servos](#ejemplo-2-moviendo-dos-servos)
 * [El robot ICEbot](#el-robot-icebot)
+  * [Construyendo el icebot v0.1](#construyendo-el-icebot-01)
 
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
