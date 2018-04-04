@@ -174,7 +174,7 @@ Usando **dos servos de rotación continua** ya podemos construir **nuestro prime
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/icebot-0_1-01.jpg)
 
-(descripción breve)
+Es un robot de **tipo Diferencial**, en el que cada motor acciona una **rueda** de forma **independiente**: un servo para la rueda derecha y otro para la izquierda
 
 ## Construyendo el Icebot 0.1
 
