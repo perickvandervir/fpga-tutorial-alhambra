@@ -20,11 +20,11 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 * [Introducción](#introducci%C3%B3n)
 * [El servo SM-4303R](#el-servo-springrc-sm-s4303r)
-* [Accesorios impresos en 3D](#accesorios-impresos-en-3d)
-* [El controlador MotorBit](#el-controlador-motorbit)
-* [Ejemplo 1: Control con dos pulsadores](#ejemplo-1-control-con-dos-pulsadores)
-* [Calibrando el servo](#calibrando-el-servo)
-* [Ejemplo 2: Moviendo dos servos](#ejemplo-2-moviendo-dos-servos)
+  * [Accesorios impresos en 3D](#accesorios-impresos-en-3d)
+  * [El controlador MotorBit](#el-controlador-motorbit)
+  * [Ejemplo 1: Control con dos pulsadores](#ejemplo-1-control-con-dos-pulsadores)
+  * [Calibrando el servo](#calibrando-el-servo)
+  * [Ejemplo 2: Moviendo dos servos](#ejemplo-2-moviendo-dos-servos)
 * [El robot ICEbot](#el-robot-icebot)
 
 * Ejercicios propuestos (X Bitpoints)
