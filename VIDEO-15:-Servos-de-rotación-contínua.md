@@ -18,15 +18,6 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Contenido
 
-* [Combinando circuitos](#combinando-circuitos)
-* [Multiplexor 2 a 1](#multiplexor-21)
-  * [Ejemplo 1: Selección manual: LED parpadeando a dos velocidades](#ejemplo-1-selecci%C3%B3n-manual-led-parpadeando-a-dos-velocidades)
-  * [Ejemplo 2: Selección automática. Sirena](#ejemplo-2-selecci%C3%B3n-autom%C3%A1tica-sirena)
-* [Multiplexor 4 a 1](#multiplexor-41)
-  * [Ejemplo 3: LED en 4 modos](#ejemplo-3-led-en-4-modos)
-  * [Ejemplo 4: Secuencia de 3 notas con un zumbador ](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-14:-Mezclando-circuitos:-Multiplexor#ejemplo-4-secuencia-de-3-notas-con-un-zumbador)
-* [Ejercicios propuestos (14 Bitpoints)](#ejercicios-propuestos-14-bitpoints)
-
 * [Introducción](#introducci%C3%B3n)
 * [El servo SM-4303R](#el-servo-springrc-sm-s4303r)
   * [Accesorios impresos en 3D](#accesorios-impresos-en-3d)
