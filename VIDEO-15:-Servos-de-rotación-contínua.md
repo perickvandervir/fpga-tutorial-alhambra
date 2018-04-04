@@ -191,6 +191,15 @@ Y en esta otra se puede ver un **despiece**, para hacer una idea de dónde va ca
 
 ## Movimientos del robot
 
+Al ser un robot de **tipo diferencial**, las dos ruedas son **independientes**, cada una controlada por un servo. Cada rueda puede estar en **tres estados**: parada, girando en sentido horario o girando en sentido antihorario. Combinando estos estados de las ruedas, conseguirmos un total de 9 movimientos diferentes para el robot, incluido el estado de reposo. 
+
+Vamos a fijarnos en el **movimiento de avance**. En esta figura está representada la **estructura básica del robot** (los dos servos con sus ruedas), con los detalles eliminados, para fijarnos en el **sentido de giro*** de las ruedas durante el avance:
+
+
+(foto de la rotación en avance)
+
+(foto de lo mismo pero con los motores fuera del robot, para ver los sentidos de giro contrarios)
+
 (TODO)
 
 ## Tabla de verdad de movimientos
