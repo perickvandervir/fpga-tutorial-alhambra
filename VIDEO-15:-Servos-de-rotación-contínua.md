@@ -199,8 +199,6 @@ Y en esta otra se puede ver un **despiece**, para hacer una idea de dónde va ca
 
 ## Ejemplo 4: Adelante - Stop
 
-## Experimentando
-
 # Ejercicios propuestos (23 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
