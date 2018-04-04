@@ -209,7 +209,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 3** (Total **10 Bitpoints**): 
 
-(TODO): montar el icebot. Adelante - parado de forma automática
+(TODO): montar el icebot. Secuencia Adelante - Derecha, de forma automática
 
 * **Ejercicio 4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
