@@ -192,25 +192,25 @@ Usando **dos servos de rotación continua** ya podemos construir **nuestro prime
 
 ## Experimentando
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (23 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **x Bitpoints**): 
+* **Ejercicio 1** (Total **3 Bitpoints**): 
 
 (TODO): Movimiento del motor 1 en 4 estados: parado - adelante - parado - stop
 
-* **Ejercicio 2** (Total **x Bitpoints**): 
+* **Ejercicio 2** (Total **5 Bitpoints**): 
 
 (TODO): Movimiento alterno de los motores 1 y 2 en los 4 estados (añadimos seleccion manual automático?)
 
-* **Ejercicio 3** (Total **x Bitpoints**): 
+* **Ejercicio 3** (Total **10 Bitpoints**): 
 
 (TODO): montar el icebot. Adelante - parado de forma automática
 
-* **Ejercicio 4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
+* **Ejercicio 4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
 
