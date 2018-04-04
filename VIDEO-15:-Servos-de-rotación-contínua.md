@@ -170,7 +170,27 @@ En este **vídeo en youtube** se puede ver su funcionamiento
 
 # El robot ICEbot
 
-# Ejemplo 3: Adelante - stop
+Usando **dos servos de rotación continua** ya podemos construir **nuestro primer robot móvil**: el Icebot 0.1
+
+(foto)
+
+(descripción breve)
+
+## Construyendo el Icebot 0.1
+
+(Fotos)
+
+## Movimientos del robot
+
+(TODO)
+
+## Tabla de verdad de movimientos
+
+## Ejemplo 3: Adelante
+
+## Ejemplo 4: Adelante - Stop
+
+## Experimentando
 
 # Ejercicios propuestos (X BitPoints)
 
@@ -180,9 +200,15 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 1** (Total **x Bitpoints**): 
 
+(TODO): Movimiento del motor 1 en 4 estados: parado - adelante - parado - stop
+
 * **Ejercicio 2** (Total **x Bitpoints**): 
 
+(TODO): Movimiento alterno de los motores 1 y 2 en los 4 estados (añadimos seleccion manual automático?)
+
 * **Ejercicio 3** (Total **x Bitpoints**): 
+
+(TODO): montar el icebot. Adelante - parado de forma automática
 
 * **Ejercicio 4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
