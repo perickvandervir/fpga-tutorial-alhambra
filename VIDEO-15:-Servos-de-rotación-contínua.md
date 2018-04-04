@@ -87,7 +87,7 @@ El **modelo 3D** del servo SM-S4303R, hecho con **FreeCAD 0.16**, junto a todas 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/servos-rotc-04.png)
 
-# Accesorios impresos en 3D
+## Accesorios impresos en 3D
 
 Para trabajar con los servos SM-S4303R desde nuestro **panel de corcho***, tenemos estas piezas **imprimibles en 3D**. En este tutorial usaremos 2 servos, por lo que es útil **imprimir 2 soportes**, de cualquiera de las dos versiones
 
@@ -96,7 +96,7 @@ Para trabajar con los servos SM-S4303R desde nuestro **panel de corcho***, tenem
 |  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/servo-support-2.jpg)        |    [Soporte para servo SM-4303R en vertical](https://github.com/Obijuan/3D-parts/wiki/Soporte-para-servo-SM-4303R.-Vertical). Soporte pequeño para colocar el servo en el cocho en posición vertical           |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/servo-support-1.jpg)         |  [Soporte para servo SM-S4303R. Inclinado](https://github.com/Obijuan/3D-parts/wiki/Soporte-para-servo-SM-S4303R.-Inclinado)  Colocación del servo SM-S4303R en posición inclinada           |
 
-# El controlador MotorBit
+## El controlador MotorBit
 
 Los servos de rotación continua, a todos los efectos, se comportan como **motores de corriente continua** clásicos. Empezaremos por el **controlador** más simple posible: **MotorBit**. Nos permite llevar el motor a **3 estados**: giro en **sentido horario**, giro en **sentido antihorario** y **parado**. Cuando se mueve, siempre lo hará a su **máxima velocidad**. No podemos establecer otra
 
@@ -110,7 +110,7 @@ El **funcionamiento** del controlador MotorBit se detalla en la siguiente **tabl
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Motorbit-3.png)
 
-# Ejemplo 1: Control con dos pulsadores
+## Ejemplo 1: Control con dos pulsadores
 
 Empezaremos por el **circuito más sencillo**: un controlador **MotorBit** cuya salida está conectada a un servo (D0) y sus entradas a **dos pulsadores** (D13 y D11) que nos permiten cambiar los bits de control **manualmente**. Esto nos servirá para experimentar y comprobar cómo funciona. Los pulsadores están conectados a dos **LEDs externos** para ver visualmente el estado de los **bits de control**
 
@@ -136,7 +136,7 @@ Lo **cargamos** en la placa para probarlo. Lo podemos ver en funcionamiento en e
 
 [![Click to see the youtube video](http://img.youtube.com/vi/0p4b_wM1U7Y/0.jpg)](https://www.youtube.com/watch?v=0p4b_wM1U7Y)
 
-# Calibrando el servo
+## Calibrando el servo
 
 Al probar el servo con el ejemplo 1, podría ocurrir que cuando el bit de *on* está a 0, y por tanto el motor debería estar parado, se **mueva ligeramente** en un sentido u otro. Para corregirlo, y lograr que está totalmente **parado**, los servos SM-S4303R disponen de un **potenciómetro para calibrar esta posición de reposo**. Se encuentra situado en la cara del servo que está encima del cable
 
@@ -146,7 +146,7 @@ Con un **destornillador de estrella**, y con el servo conectado al **ejemplo 1**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/calibracion-2.jpg)
 
-# Ejemplo 2: Moviendo dos servos
+## Ejemplo 2: Moviendo dos servos
 
 En este segundo ejemplo moveremos **dos servos en direcciones contrarias**. Con un **interruptor** seleccionamos el sentido de la marcha, y con el **pulsador** haremos que se muevan (El interruptor simula una palanca de cambio, de dos marchas, adelante y atrás, y el pulsador el acelerador). Es el paso previo para tener todo listo para construir nuestro primer robot
 
