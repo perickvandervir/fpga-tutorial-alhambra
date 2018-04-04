@@ -179,7 +179,15 @@ Es un robot de **tipo diferencial**, en el que cada motor acciona una **rueda** 
 
 ## Construyendo el Icebot 0.1
 
-(Fotos)
+[Las instrucciones para montar el icebot así como el listado de material lo puedes encontrar en este enlace](https://github.com/Obijuan/icebot/wiki#instrucciones-de-montaje)
+
+En esta foto se resumen todos los **materiales necesarios** para construir la versión **0.1** del icebot
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/icebot-materials.jpg)
+
+Y en esta otra se puede ver un **despiece**, para hacer una idea de dónde va cada pieza
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/icebot-0_1-03.png)
 
 ## Movimientos del robot
 
