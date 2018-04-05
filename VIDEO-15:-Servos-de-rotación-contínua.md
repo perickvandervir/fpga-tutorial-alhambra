@@ -273,14 +273,29 @@ están en esta colección
 **Consejo**: Fijarse en los valores que deben tomar los dos bits de control del servo 
 en los diferentes estados y usar corazones y tortugas para reproducir la secuencia
 
+* **Ejercicio 2** (Total **5 Bitpoints**): Dos Motores en 4 estados, alternativamente
 
-* **Ejercicio 2** (Total **5 Bitpoints**): 
+Modificar el ejercicio 15.1 para que la misma secencia se reproduzca en **dos
+servos**, alternativamente. Primero el **servo 1** debe realizar la secuencia:
+parado, giro horario, parado, giro antihorario y después el **servo 2**. 
+Esta secuencia se repite **indefinidamente**
 
-(TODO): Movimiento alterno de los motores 1 y 2 en los 4 estados (añadimos seleccion manual automático?)
+**Consejo**:  Usar un  **multplexor 2:1** para cada entrada **on**
+de los controladores de los servos. 
 
-* **Ejercicio 3** (Total **10 Bitpoints**): 
 
-(TODO): montar el icebot. Secuencia Adelante - Derecha, de forma automática
+* **Ejercicio 3** (Total **10 Bitpoints**): Icebot: Adelante - Giro derecha
+
+Construir el **icebot 0.1**. Hacer que avance durante 2 segundos, y gira  
+hacia la derecha durante 2 segundos (con movimiento en arco). Esto se  
+repite indefinidamente
+
+**Consejo**: En esta secuencia, el motor izquiero siempre está activado y girando en 
+el mismo sentido
+
+**Video** de cómo se mueve el robot con la solución de este ejercicio:
+
+(Video)
 
 * **Ejercicio 4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
