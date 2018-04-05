@@ -209,6 +209,8 @@ En **1** el icebot está avanzando, con las dos ruedas rotando. En **2** hemos d
 
 ## Tabla de verdad de movimientos
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/icebot-07.png)
+
 ## Ejemplo 3: Adelante
 
 ## Ejemplo 4: Adelante - Stop
