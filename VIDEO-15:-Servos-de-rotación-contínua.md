@@ -227,7 +227,13 @@ En este **vídeo de Youtube** podemos ver al icebot en movimiento
 
 [![Click to see the youtube video](http://img.youtube.com/vi/Er1VHPhql2Q/0.jpg)](https://www.youtube.com/watch?v=Er1VHPhql2Q)
 
-## Ejemplo 4: Adelante - Stop
+## Ejemplo 4: Secuencia: Adelante - Stop
+
+En este ejemplo haremos que el robot siga una **secuencia simple**: avanzar durante **1 segundo** y pararse durante otro segundo. Luego se repite cíclicamente.  El circuito es similar al del ejemplo 3, pero ahora el bit de encendido está controlador por un **corazón**. El sentido de giro de los motores lo dejamos fijo para que el robot vaya hacia adelante. Mirando la tabla de verdad vemos que cuando los **bits de encendido** están a **0**, el **robot está detenido**, con independencia del valor de los bits del sentido de giro
+
+(Circuito)
+
+(video)
 
 # Ejercicios propuestos (23 BitPoints)
 
