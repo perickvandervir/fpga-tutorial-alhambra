@@ -256,9 +256,23 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **3 Bitpoints**): 
+* **Ejercicio 1** (Total **3 Bitpoints**): Motor en 4 estados
 
-(TODO): Movimiento del motor 1 en 4 estados: parado - adelante - parado - stop
+Hacer que un servo de **rotación continua** realice la siguiente **secuencia** de 
+movimientos, que se repiten **cícliclamente**:  
+
+Parado - Giro en sentido horario - Parado - Giro en sentido Antihorario
+
+Cada estado debe durar **2 segundos**. Así, estará 2 segundos parado, dos segundos 
+girando en sentido horario, 2 segundos parado, 2 en sentido antihorario... 
+(y se vuelve a comenzar)
+
+Usar sólo los componentes que hemos aprendido hasta ahora, y que son los que 
+están en esta colección
+
+**Consejo**: Fijarse en los valores que deben tomar los dos bits de control del servo 
+en los diferentes estados y usar corazones y tortugas para reproducir la secuencia
+
 
 * **Ejercicio 2** (Total **5 Bitpoints**): 
 
