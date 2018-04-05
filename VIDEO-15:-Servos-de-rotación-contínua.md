@@ -14,7 +14,7 @@ Aprenderemos a manejar los **servos de rotación contínua**, modelo **SM-4303R*
 
 # Colección
 
-**Academia-Jedi-HW-15.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-15.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Collection/Academia-Jedi-HW-15.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
