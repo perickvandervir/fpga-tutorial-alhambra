@@ -223,6 +223,8 @@ El **circuito** en Icestudio es el siguiente
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Ejemplo-3-1.png)
 
+En este **vídeo de Youtube** podemos ver al icebot en movimiento, con este circuito
+
 (Video)
 
 ## Ejemplo 4: Adelante - Stop
