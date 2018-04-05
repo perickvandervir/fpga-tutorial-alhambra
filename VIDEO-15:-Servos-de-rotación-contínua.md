@@ -28,6 +28,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [El robot ICEbot](#el-robot-icebot)
   * [Construyendo el icebot v0.1](#construyendo-el-icebot-01)
   * [Movimientos del robot](#movimientos-del-robot)
+  * [Tabla de verdad de movimientos](#tabla-de-verdad-de-movimientos)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
