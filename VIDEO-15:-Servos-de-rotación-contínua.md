@@ -33,6 +33,7 @@ Aprenderemos a manejar los **servos de rotación contínua**, modelo **SM-4303R*
   * [Ejemplo 4: Secuencia adelante - stop](#ejemplo-4-secuencia-adelante---stop)
   * [Ejemplo 5: Adelante con pulsador](#ejemplo-5-adelante-con-pulsador)
 * [Ejercicios propuestos (23 Bitpoints)](#ejercicios-propuestos-23-bitpoints)
+* [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
