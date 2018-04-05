@@ -245,7 +245,9 @@ El ejemplo 5 es similar al 4, pero ahora el robot avanza cuando un **pulsador ex
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Ejemplo-5-1.png)
 
-(video)
+* **Vídeo** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi/uJcKi5wiNTg/0.jpg)](https://www.youtube.com/watch?v=uJcKi5wiNTg&list=PLmnz0JqIMEzU9frUClvr_U9aBCRXjrf8J&index=11)
 
 
 # Ejercicios propuestos (23 BitPoints)
