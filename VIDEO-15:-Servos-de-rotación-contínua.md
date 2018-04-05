@@ -234,7 +234,9 @@ En este ejemplo haremos que el robot siga una **secuencia simple**: avanzar dura
 
 (Circuito)
 
-(video)
+En este **vídeo de Youtube** podemos ver al icebot en movimiento
+
+[![Click to see the youtube video](http://img.youtube.com/vi/R4lcdlduNKM/0.jpg)](https://www.youtube.com/watch?v=R4lcdlduNKM)
 
 # Ejercicios propuestos (23 BitPoints)
 
