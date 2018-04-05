@@ -232,11 +232,20 @@ En este **vídeo de Youtube** podemos ver al icebot en movimiento
 
 En este ejemplo haremos que el robot siga una **secuencia simple**: avanzar durante **1 segundo** y pararse durante otro segundo. Luego se repite cíclicamente.  El circuito es similar al del ejemplo 3, pero ahora el bit de encendido está controlador por un **corazón**. El sentido de giro de los motores lo dejamos fijo para que el robot vaya hacia adelante. Mirando la tabla de verdad vemos que cuando los **bits de encendido** están a **0**, el **robot está detenido**, con independencia del valor de los bits del sentido de giro
 
-(Circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Ejemplo-4-1.png)
 
 En este **vídeo de Youtube** podemos ver al icebot en movimiento
 
 [![Click to see the youtube video](http://img.youtube.com/vi/R4lcdlduNKM/0.jpg)](https://www.youtube.com/watch?v=R4lcdlduNKM)
+
+# Ejemplo 5: Adelante con pulsador
+
+El ejemplo 5 es similar al 4, pero ahora el robot avanza cuando un **pulsador externo**, conectado a **D13**, está apretado, y se para al soltarlo
+
+(circuito)
+
+(video)
+
 
 # Ejercicios propuestos (23 BitPoints)
 
