@@ -217,6 +217,14 @@ En la siguiente **tabla de verdad** se resumen todos los movimientos posibles y 
 
 ## Ejemplo 3: Adelante
 
+En este ejemplo moveremos el Icebot hacia **adelante**. Primero consultamos los valores en la **tabla de verdad**, para saber qué bits hay que activar para lograr ese movimiento: el servo derecho tiene que girar en sentido horario por lo que se ponen a **uno** su **bit de dirección** (dir) y **encendido** (on). El servo izquierdo lo tiene que hacer en setido contrario, por lo que su **bit de dirección** se pone a **0** y el de **encendido** a **uno**
+
+El **circuito** en Icestudio es el siguiente
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Ejemplo-3-1.png)
+
+(Video)
+
 ## Ejemplo 4: Adelante - Stop
 
 # Ejercicios propuestos (23 BitPoints)
