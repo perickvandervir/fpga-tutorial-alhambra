@@ -195,6 +195,8 @@ Al ser un robot de **tipo diferencial**, las dos ruedas son **independientes**, 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/icebot-04.png)
 
+En los movimientos **tipo arco**, sólo hay una rueda moviéndose, mientras que la otra está **parada**. Lo que se consigue es un giro cuyo **centro** es la rueda que está parada
+
 Vamos a fijarnos en el **movimiento de avance**. En esta figura está representada la **estructura básica del robot** (los dos servos con sus ruedas), con los detalles eliminados, para fijarnos en el **sentido de giro** de las ruedas durante el avance:
 
 
