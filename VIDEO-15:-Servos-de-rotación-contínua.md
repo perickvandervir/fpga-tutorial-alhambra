@@ -197,10 +197,12 @@ Al ser un robot de **tipo diferencial**, las dos ruedas son **independientes**, 
 
 En los movimientos **tipo arco**, sólo hay una rueda moviéndose, mientras que la otra está **parada**. Lo que se consigue es un giro cuyo **centro** es la rueda que está parada
 
-Vamos a fijarnos en el **movimiento de avance**. En esta figura está representada la **estructura básica del robot** (los dos servos con sus ruedas), con los detalles eliminados, para fijarnos en el **sentido de giro** de las ruedas durante el avance:
+Vamos a fijarnos en el **movimiento de avance**. Ambas ruedas, derecha e izquierda, se están movimiento
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/icebot-05.png)
 
-(foto de la rotación en avance)
+Si nos fijamos en la **rotación de las ruedas**, la rueda izquierda está girando en **sentido antihorario** y la derecha ... en **¡sentido horario!** Las ruedas están rotando en **sentidos opuestos**. Esto es debido a que los servos están colocados en simetría de espejo. Si tomamos los servos en la posición en la que están rotando y los giramos para ponerlos en posición vertical, podemos apreciar que realmente los motores giran en sentidos contrarios
+
 
 (foto de lo mismo pero con los motores fuera del robot, para ver los sentidos de giro contrarios)
 
