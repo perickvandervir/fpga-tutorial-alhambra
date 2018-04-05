@@ -242,7 +242,7 @@ En este **vídeo de Youtube** podemos ver al icebot en movimiento
 
 El ejemplo 5 es similar al 4, pero ahora el robot avanza cuando un **pulsador externo**, conectado a **D13**, está apretado, y se para al soltarlo
 
-(circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/Ejemplo-5-1.png)
 
 (video)
 
