@@ -30,6 +30,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Movimientos del robot](#movimientos-del-robot)
   * [Tabla de verdad de movimientos](#tabla-de-verdad-de-movimientos)
   * [Ejemplo 3: Adelante](#ejemplo-3-adelante)
+  * [Ejemplo 4: Secuencia adelante - stop](#ejemplo-4-secuencia-adelante---stop)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
