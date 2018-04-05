@@ -10,7 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-(TODO)
+Aprenderemos a manejar los **servos de rotación contínua**, modelo **SM-4303R**, con el controlador **MotorBit**. Y esto nos permitirá construir nuestro primer robot móvil: el **icebot 0.1**. Usaremos circuitos digitales sencillos para mover el robot
 
 # Colección
 
