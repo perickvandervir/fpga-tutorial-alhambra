@@ -203,10 +203,9 @@ Vamos a fijarnos en el **movimiento de avance**. Ambas ruedas, derecha e izquier
 
 Si nos fijamos en la **rotación de las ruedas**, la rueda izquierda está girando en **sentido antihorario** y la derecha ... en **¡sentido horario!** Las ruedas están rotando en **sentidos opuestos**. Esto es debido a que los servos están colocados en **simetría de espejo**. Si tomamos los servos en la posición en la que están rotando y los giramos para ponerlos en posición vertical, podemos apreciar que realmente los motores giran en sentidos contrarios
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/icebot-06.png)
 
-(foto de lo mismo pero con los motores fuera del robot, para ver los sentidos de giro contrarios)
-
-(TODO)
+En **1** el icebot está avanzando, con las dos ruedas rotando. En **2** hemos dejado sólo los servos con las ruedas, que continúan rotando. Y en **3** se han girado los servos 90 grados para ponerlos en **posición vertical**, mientras continuaban girando. Podemos ver cómo el **derecho gira en sentido horario** y el **izquierdo en antihorario**
 
 ## Tabla de verdad de movimientos
 
