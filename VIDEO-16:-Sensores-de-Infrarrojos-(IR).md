@@ -25,6 +25,14 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
+TODO
+
+-IR logic5
+-Octopus
+-IR evolution, renacuajo
+-IR mbot...
+
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
