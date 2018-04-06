@@ -175,7 +175,7 @@ En este **vídeo en youtube** se puede ver su funcionamiento
 
 # El robot ICEbot
 
-Usando **dos servos de rotación continua** ya podemos construir **nuestro primer robot móvil**: el [Icebot 0.1](https://github.com/Obijuan/icebot)
+Usando **dos servos de rotación continua** ya podemos construir **nuestro primer robot móvil**: el [Icebot 0.1](https://github.com/Obijuan/icebot/wiki)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-15/icebot-0_1-01.jpg)
 
