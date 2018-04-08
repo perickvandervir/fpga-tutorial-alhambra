@@ -318,11 +318,11 @@ el mismo sentido
 [![Click to see the youtube video](http://img.youtube.com/vi/JyGm2TiWt6Y/0.jpg)](https://www.youtube.com/watch?v=JyGm2TiWt6Y)
 
 ### Ejercicio 3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-15/klarojms/Ejercicio%203-1.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/f-Uda_4714M/0.jpg)](https://www.youtube.com/watch?v=f-Uda_4714M)
 
 ### Ejercicio 4 (Libre)
 ![]()
