@@ -34,6 +34,8 @@ TODO
 -IR evolution, renacuajo  
 -IR mbot...  
 
+* [Sensor QTR-8RC](http://tienda.bricogeek.com/componentes/257-array-de-sensores-infrarojos-qtr-8rc-digital.html)
+
 
 # Ejercicios propuestos (X BitPoints)
 
