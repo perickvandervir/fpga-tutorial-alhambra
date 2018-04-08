@@ -35,6 +35,7 @@ TODO
 -IR mbot...  
 
 * [Sensor QTR-8RC](http://tienda.bricogeek.com/componentes/257-array-de-sensores-infrarojos-qtr-8rc-digital.html)
+* [Octopus Hunt sensor](http://www.elecfreaks.com/estore/octopus-hunt-sensor.html)
 
 
 # Ejercicios propuestos (X BitPoints)
