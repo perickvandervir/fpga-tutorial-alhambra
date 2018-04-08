@@ -25,12 +25,14 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
+Los **sensores de infrarrojos** nos permiten detectar la **presencia** de un objeto dentro de su campo de acción. Por eso, entran dentro de la categoría de **sensores de presencia**
+
 TODO
 
--IR logic5
--Octopus
--IR evolution, renacuajo
--IR mbot...
+-IR logic5  
+-Octopus  
+-IR evolution, renacuajo  
+-IR mbot...  
 
 
 # Ejercicios propuestos (X BitPoints)
