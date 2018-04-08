@@ -311,11 +311,11 @@ el mismo sentido
 [![Click to see the youtube video](http://img.youtube.com/vi/MFS9XchzQAA/0.jpg)](https://www.youtube.com/watch?v=MFS9XchzQAA)
 
 ### Ejercicio 2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-15/klarojms/Ejercicio%202-1.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/JyGm2TiWt6Y/0.jpg)](https://www.youtube.com/watch?v=JyGm2TiWt6Y)
 
 ### Ejercicio 3
 ![]()
@@ -324,7 +324,7 @@ el mismo sentido
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 4
+### Ejercicio 4 (Libre)
 ![]()
 
 * **Vídeo** en Youtube:
