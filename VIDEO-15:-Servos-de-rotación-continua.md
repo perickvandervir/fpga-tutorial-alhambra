@@ -300,7 +300,7 @@ el mismo sentido
 
 # Ejercicios entregados
 
-## Primero
+## Josep Montoliu i Sanahuja (klarojms)
 
 ### Ejercicio 1
 ![]()
