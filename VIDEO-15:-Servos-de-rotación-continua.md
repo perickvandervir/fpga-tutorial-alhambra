@@ -32,6 +32,7 @@ Aprenderemos a manejar los **servos de rotación contínua**, modelo **SM-4303R*
   * [Ejemplo 5: Adelante con pulsador](#ejemplo-5-adelante-con-pulsador)
 * [Ejercicios propuestos (23 Bitpoints)](#ejercicios-propuestos-23-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
+  * [Josep Montoliu i Sanahuja (klarojms) ](#josep-montoliu-i-sanahuja-klarojms)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
