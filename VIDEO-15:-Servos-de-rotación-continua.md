@@ -335,14 +335,13 @@ el mismo sentido
 [![Click to see the youtube video](http://img.youtube.com/vi/PKIArgDxGI8/0.jpg)](https://www.youtube.com/watch?v=PKIArgDxGI8)
 
 
-## Segundo
+## Jose López
 
 ### Ejercicio 1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-15/Jose%20Lopez/ejercicio_15-1.jpg)
 
-* **Vídeo** en Youtube:
+* [Vídeo en Twitter](https://twitter.com/joselopez_ga/status/983019785154854912)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ### Ejercicio 2
 ![]()
