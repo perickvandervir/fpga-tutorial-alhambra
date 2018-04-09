@@ -33,6 +33,7 @@ Aprenderemos a manejar los **servos de rotación contínua**, modelo **SM-4303R*
 * [Ejercicios propuestos (23 Bitpoints)](#ejercicios-propuestos-23-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Josep Montoliu i Sanahuja (klarojms) ](#josep-montoliu-i-sanahuja-klarojms)
+  * [Jose López](%B3n-continua#jose-l%C3%B3pez)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
