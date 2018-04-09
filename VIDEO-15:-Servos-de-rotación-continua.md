@@ -380,11 +380,11 @@ el mismo sentido
 [![Click to see the youtube video](http://img.youtube.com/vi/OAHsFxXDY9A/0.jpg)](https://www.youtube.com/watch?v=OAHsFxXDY9A)
 
 ### Ejercicio 4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-15/fgcoca/Ejercicio-4/Ejercicio15_4%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/74vGp2jIk6w/0.jpg)](https://www.youtube.com/watch?v=74vGp2jIk6w)
 
 
 # Autor
