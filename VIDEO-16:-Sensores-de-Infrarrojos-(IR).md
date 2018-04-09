@@ -30,8 +30,6 @@ Los **sensores de infrarrojos** nos permiten detectar la **presencia** de un obj
 TODO
 
 -IR logic5  
--Octopus  
--IR evolution, renacuajo  
 -IR mbot...  
 
 * [Sensor QTR-8RC](http://tienda.bricogeek.com/componentes/257-array-de-sensores-infrarojos-qtr-8rc-digital.html)
