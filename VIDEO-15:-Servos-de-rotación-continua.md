@@ -359,11 +359,11 @@ el mismo sentido
 ## Federico Coca
 
 ### Ejercicio 1
-![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-15/klarojms/Ejercicio%201-1.png)
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-15/fgcoca/Ejercicio-1/Ejercicio15_1%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi/MFS9XchzQAA/0.jpg)](https://www.youtube.com/watch?v=MFS9XchzQAA)
+[![Click to see the youtube video](http://img.youtube.com/vi/9eZmwUxKaHM/0.jpg)](https://www.youtube.com/watch?v=9eZmwUxKaHM)
 
 ### Ejercicio 2
 ![]()
