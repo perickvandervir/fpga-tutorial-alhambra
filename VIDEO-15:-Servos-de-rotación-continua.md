@@ -366,18 +366,18 @@ el mismo sentido
 [![Click to see the youtube video](http://img.youtube.com/vi/9eZmwUxKaHM/0.jpg)](https://www.youtube.com/watch?v=9eZmwUxKaHM)
 
 ### Ejercicio 2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-15/fgcoca/Ejercicio-2/Ejercicio15_2%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/7pxzgECv8wU/0.jpg)](https://www.youtube.com/watch?v=7pxzgECv8wU)
 
 ### Ejercicio 3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-15/fgcoca/Ejercicio-3/Ejercicio15_3%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/OAHsFxXDY9A/0.jpg)](https://www.youtube.com/watch?v=OAHsFxXDY9A)
 
 ### Ejercicio 4
 ![]()
