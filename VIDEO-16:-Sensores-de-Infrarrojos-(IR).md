@@ -34,6 +34,7 @@ TODO
 
 * [Sensor QTR-8RC](http://tienda.bricogeek.com/componentes/257-array-de-sensores-infrarojos-qtr-8rc-digital.html)
 * [Octopus Hunt sensor](http://www.elecfreaks.com/estore/octopus-hunt-sensor.html)
+* [Módulo sigue líneas mblock](https://www.makeblock.es/productos/modulo_sigue_lineas/)
 
 
 # Ejercicios propuestos (X BitPoints)
