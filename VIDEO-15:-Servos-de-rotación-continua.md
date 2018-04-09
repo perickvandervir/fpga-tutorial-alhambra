@@ -350,20 +350,12 @@ el mismo sentido
 * [Vídeo en Twitter](https://twitter.com/joselopez_ga/status/983020344234643456)
 
 ### Ejercicio 3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-15/Jose%20Lopez/ejercicio_15-3.jpg)
 
-* **Vídeo** en Youtube:
+* [Vídeo en Twitter](https://twitter.com/joselopez_ga/status/983020867256029184)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 4
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-## Tercero
+## Federico Coca
 
 ### Ejercicio 1
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-15/klarojms/Ejercicio%201-1.png)
