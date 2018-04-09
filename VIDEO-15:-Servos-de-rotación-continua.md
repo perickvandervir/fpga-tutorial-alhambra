@@ -345,11 +345,9 @@ el mismo sentido
 
 
 ### Ejercicio 2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-15/Jose%20Lopez/ejercicio_15-2.jpg)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/joselopez_ga/status/983020344234643456)
 
 ### Ejercicio 3
 ![]()
