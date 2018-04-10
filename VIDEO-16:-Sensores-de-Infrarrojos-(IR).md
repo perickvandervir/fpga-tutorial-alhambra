@@ -27,7 +27,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 Los **sensores de infrarrojos** que usaremos nos permiten detectar la **presencia** de un objeto que está **delante** de ellos, a un centímetro aproximadamente. Constan de un **emisor** y un **receptor**
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-ir-01.png)
 
 
 
