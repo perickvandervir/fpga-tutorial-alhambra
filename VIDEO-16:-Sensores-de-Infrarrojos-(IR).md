@@ -35,6 +35,7 @@ TODO
 * [Octopus Hunt sensor](http://www.elecfreaks.com/estore/octopus-hunt-sensor.html)
 * [Módulo sigue líneas mblock](https://www.makeblock.es/productos/modulo_sigue_lineas/)
 * [TCRT5000-ir](https://www.iberobotics.com/producto/modulo-sensor-siguelineas-tcrt5000-ir/)
+* [TCRT5000-IR-estrecho](https://www.iberobotics.com/producto/modulo-sensor-siguelineas-tcrt5000-ir-2/)
 
 
 # Ejercicios propuestos (X BitPoints)
