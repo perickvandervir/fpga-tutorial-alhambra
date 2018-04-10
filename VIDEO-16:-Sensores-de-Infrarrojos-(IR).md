@@ -27,9 +27,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 Los **sensores de infrarrojos** nos permiten detectar la **presencia** de un objeto dentro de su campo de acción. Por eso, entran dentro de la categoría de **sensores de presencia**
 
-TODO
-
--IR logic5  
+TODO  
 
 * [Sensor QTR-8RC](http://tienda.bricogeek.com/componentes/257-array-de-sensores-infrarojos-qtr-8rc-digital.html)
 * [Octopus Hunt sensor](http://www.elecfreaks.com/estore/octopus-hunt-sensor.html)
