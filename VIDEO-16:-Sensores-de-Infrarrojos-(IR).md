@@ -25,7 +25,11 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
-Los **sensores de infrarrojos** nos permiten detectar la **presencia** de un objeto dentro de su campo de acción. Por eso, entran dentro de la categoría de **sensores de presencia**
+Los **sensores de infrarrojos** que usaremos nos permiten detectar la **presencia** de un objeto que está **delante** de ellos, a un centímetro aproximadamente. Constan de un **emisor** y un **receptor**
+
+(foto)
+
+
 
 TODO  
 
