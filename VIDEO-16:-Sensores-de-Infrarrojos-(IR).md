@@ -35,6 +35,10 @@ El emisor es un **LED infrarrojo**. Es un LED de los que ya conocemos, pero en v
 
 TODO  
 
+* Sensor por reflexión
+* Objetos negros absorben luz ---> No reflejan
+* Detectar colores blanco/negro
+
 * [Sensor QTR-8RC](http://tienda.bricogeek.com/componentes/257-array-de-sensores-infrarojos-qtr-8rc-digital.html)
 * [Octopus Hunt sensor](http://www.elecfreaks.com/estore/octopus-hunt-sensor.html)
 * [Módulo sigue líneas mblock](https://www.makeblock.es/productos/modulo_sigue_lineas/)
