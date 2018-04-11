@@ -18,6 +18,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Introducción](#introducci%C3%B3n)
 * [Sensores IR](#sensores-ir)
 * [Modelos de sensores](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-16:-Sensores-de-Infrarrojos-(IR)#modelos-de-sensores)
+* [Conectando el sensor octopus IR](#conectando-el-sensor-octopus-ir)
 * [Ejemplo 1: Encendiendo un LED al detectar presencia](#ejemplo-1-encendiendo-un-led-al-detectar-presencia)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
