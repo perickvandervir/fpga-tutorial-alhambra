@@ -19,6 +19,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Sensores IR](#sensores-ir)
 * [Modelos de sensores](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-16:-Sensores-de-Infrarrojos-(IR)#modelos-de-sensores)
 * [Practicando con el sensor octopus IR](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-16:-Sensores-de-Infrarrojos-(IR)#practicando-con-el-sensor-octopus-ir)
+   * [Conexión a la Icezum Alhambra](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-16:-Sensores-de-Infrarrojos-(IR)#conexi%C3%B3n-a-la-icezum-alhambra)
 * [Ejemplo 1: Encendiendo un LED al detectar presencia](#ejemplo-1-encendiendo-un-led-al-detectar-presencia)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
