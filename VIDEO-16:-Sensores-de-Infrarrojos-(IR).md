@@ -37,6 +37,10 @@ El receptor es un **fototransistor**, que se activa cuando recibe luz infrarroja
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-ir-03.png)
 
+Estos sensores también se pueden utilizar para distinguir el **blanco** del **negro** en una superficie plana, y construir así robots que puedan por ejemplo **seguir un camino negro**. Cuando el sensor está sobre blanco, la luz del emisor se **refleja completamente**, devolviéndo un **1**. Cuando esta sobre la parte **negra**, **no hay reflexión**. El negro absorbe la luz, y no la refleja, por lo que no llega nada al receptor y devuelve un **0**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-ir-04.png)
+
 TODO  
 
 * Objetos negros absorben luz ---> No reflejan
