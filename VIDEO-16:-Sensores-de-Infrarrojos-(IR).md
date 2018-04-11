@@ -87,9 +87,15 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 1** (Total **x Bitpoints**): 
 
+Alarma
+
 * **Ejercicio 2** (Total **x Bitpoints**): 
 
+Barrera automática
+
 * **Ejercicio 3** (Total **x Bitpoints**): 
+
+Icebot siguiente mama y sonando alarma al andar
 
 * **Ejercicio 4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
