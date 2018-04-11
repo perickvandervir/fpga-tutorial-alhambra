@@ -61,7 +61,7 @@ Los **sensores de IR** que utilizaremos en este tutorial son **digitales**. Devu
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-modelo-1.png)      | [Octopus Hunt sensor](http://www.elecfreaks.com/estore/octopus-hunt-sensor.html) | Este es el modelo que estoy usando en el tutorial. Está fabricado por [Elecfreaks](http://www.elecfreaks.com/). Es el que se encuentra en los kits de robótica de BQ |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-modelo-2.jpg) | [Módulo sigue líneas mblock](https://www.makeblock.es/productos/modulo_sigue_lineas/)   |  Es el sensor del kit del [robot mbot](https://makeblock.es/productos/robot_educativo_mbot/). Incluye **2 sensores IR** en la misma placa. Hay que soldarle pines para conectar a la Icezum Alhambra  |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-modelo-3.jpg) | [TCRT5000-ir](https://www.iberobotics.com/producto/modulo-sensor-siguelineas-tcrt5000-ir/)    |  Compatible con la Icezum Alhambra. Permite también lectura analógica. Distribuido por [Iberobotics](https://www.iberobotics.com/)    |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-modelo-4.jpg) | [TCRT5000-IR-estrecho](https://www.iberobotics.com/producto/modulo-sensor-siguelineas-tcrt5000-ir-2/)  | Modelo estrecho. Compatible con Icezum Alhambra. Distribuido por [Iberobotics](https://www.iberobotics.com/)  |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-modelo-4.png) | [TCRT5000-IR-estrecho](https://www.iberobotics.com/producto/modulo-sensor-siguelineas-tcrt5000-ir-2/)  | Modelo estrecho. Compatible con Icezum Alhambra. Distribuido por [Iberobotics](https://www.iberobotics.com/)  |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-modelo-5.jpg) | [Sensor QTR-8RC](http://tienda.bricogeek.com/componentes/257-array-de-sensores-infrarojos-qtr-8rc-digital.html)  | Tira de **8 sensores IR**. Se puede partir en dos grupos de 2 y 6 sensores. Hay que soldarle los pines. Distribuido por [BricoGeek](http://tienda.bricogeek.com/)   |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-modelo-6.jpg)  | [Sensores IR del kit Beduino](http://www.logix5.com/roboticaeducativa/producto/beduino/) | Kit distribuido por [Logix5](http://www.logix5.com/roboticaeducativa/) |
 
@@ -71,7 +71,9 @@ El sensor que usaremos para las pruebas es el [Octopus IR](http://www.elecfreaks
 
 ## Conexión a la Icezum Alhambra
 
-TODO
+La conexión del sensore a la placa Icezum Alhambra se hace igual que los sensores que hemos visto hasta ahora: mediante un cable de tres hilos (señal, 5v y masa)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/octopus-ir-1.jpg)
 
 # Ejemplo 1: Encendiendo un LED al detectar presencia
 
