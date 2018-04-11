@@ -44,7 +44,7 @@ Estos sensores también se pueden utilizar para distinguir el **blanco** del **n
 
 # Modelos de sensores
 
-Los **sensores de IR** que utilizaremos en este tutorial son **digitales**. Devuelve 0 ó 1 dependiendo de si detectan el objeto o no. Cualquier de estos valdría: (y si buscas por internet encontrarás todavía más)
+Los **sensores de IR** que utilizaremos en este tutorial son **digitales**. Devuelven 0 ó 1 dependiendo de si detectan el objeto o no. Cualquier de estos valdría: (y si buscas por internet encontrarás todavía más)
 
 TODO  
 
