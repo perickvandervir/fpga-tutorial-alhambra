@@ -83,13 +83,23 @@ Por un lado se conecta al sensor, y por el otro a cualquiera de los **pines de d
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-1-1.png)
 
+(cambiar screenshot a LED D12)
+
+(Foto del montaje en corcho: Sensor IR + LED externo)
+
+(Gif animado mostrando el funcionamiento)
+
 # Ejemplo 2: Emitiendo pitidos al detectar objetos
 
 TODO
 
+(Montaje: sensor ir + zumbador)
+
 # Ejemplo 3: Pitidos con spinner
 
 TODO
+
+(Mismo montaje con spinner añadido)
 
 # Comportamientos reactivos con el Icebot
 
