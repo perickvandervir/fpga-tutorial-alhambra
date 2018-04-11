@@ -55,7 +55,7 @@ Los **sensores de IR** que utilizaremos en este tutorial son **digitales**. Devu
 
 | Foto  | Nombre | Descripción |
 |-------|--------|-------------|
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-modelo-1.png)      | [Octopus Hunt sensor](http://www.elecfreaks.com/estore/octopus-hunt-sensor.html) | Este es el modelo que estoy usando en el tutorial. Está fabricado por [Elecfreaks](http://www.elecfreaks.com/)
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-modelo-1.png)      | [Octopus Hunt sensor](http://www.elecfreaks.com/estore/octopus-hunt-sensor.html) | Este es el modelo que estoy usando en el tutorial. Está fabricado por [Elecfreaks](http://www.elecfreaks.com/). Es el que se encuentra en los kits de robótica de BQ
 
 TODO  
 
