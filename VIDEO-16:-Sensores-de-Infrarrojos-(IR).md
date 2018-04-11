@@ -26,7 +26,13 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
-Los **sensores de infrarrojos** que usaremos nos permiten detectar la **presencia** de un objeto que está **delante** de ellos, a un centímetro aproximadamente. Constan de un **emisor** y un **receptor**
+En este tutorial practicaremos con un sensor nuevo: el **sensor de IR digital**, de corto alcance, que nos permitirá **detectar objetos** a corta distncia, así como **distinguir** el color **negro** del **blanco** en una superficie plana. Así es como nos queda el **mapa de periféricos** que hemos tratado hasta ahora
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/perifericos-vistos.png)
+
+
+# Sensores IR
+Los **sensores de infrarrojos** (IR) que usaremos nos permiten detectar la **presencia** de un objeto que está **delante** de ellos, a un centímetro aproximadamente. Constan de un **emisor** y un **receptor**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-ir-01.png)
 
