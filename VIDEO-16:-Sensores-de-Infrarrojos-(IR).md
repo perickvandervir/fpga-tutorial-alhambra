@@ -35,9 +35,10 @@ El emisor es un **LED infrarrojo**. Es un LED de los que ya conocemos, pero en v
 
 El receptor es un **fototransistor**, que se activa cuando recibe luz infrarroja. La **detección de objetos** se hace por **reflexión**. La luz infrarroja que está constantemente generando el emisor se **refleja** en el objeto y llega al **receptor**, que nos devuelve un **1** (objeto detectado). Si por el contrario no hay objeto, la luz infrarroja se pierde y **no** regresa al receptor. En este caso el sensor nos devuelve un **0** (Objeto no detectado)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-ir-03.png)
+
 TODO  
 
-* Sensor por reflexión
 * Objetos negros absorben luz ---> No reflejan
 * Detectar colores blanco/negro
 
