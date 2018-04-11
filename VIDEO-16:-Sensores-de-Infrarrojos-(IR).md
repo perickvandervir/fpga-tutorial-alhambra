@@ -29,9 +29,11 @@ Los **sensores de infrarrojos** que usaremos nos permiten detectar la **presenci
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-ir-01.png)
 
-El emisor es un **LED infrarrojo**. Es un LED de los que ya conocemos, pero en vez de emitir luz visible, la emite en el **espectro infrarrojo**, que no nuestros ojos no pueden ver. El emisor está **constantemente emitiendo**, cuando el sensor está alimentado. Esto lo podemos observar mirando el sensor a través de la **cámara** de nuestro **teléfono móvil**: se puede apreciar un **color azulado/violeta**:
+El emisor es un **LED infrarrojo**. Es un LED de los que ya conocemos, pero en vez de emitir luz visible, la emite en el **espectro infrarrojo**, que no nuestros ojos no pueden ver. El emisor está **constantemente emitiendo**, cuando el sensor está alimentado. Esto lo podemos observar mirando el sensor a través de la **cámara** de nuestro **teléfono móvil**: se puede a preciar un **color azulado/violeta**:
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-ir-02.png)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-ir-02.png)a
+
+El receptor es un **fototransistor**, que se activa cuando recibe luz infrarroja. La **detección de objetos** se hace por **reflexión**. La luz infrarroja que está constantemente generando el emisor se **refleja** en el objeto y llega al **receptor**, que nos devuelve un **1** (objeto detectado). Si por el contrario no hay objeto, la luz infrarroja se pierde y **no** regresa al receptor. En este caso el sensor nos devuelve un **0** (Objeto no detectado)
 
 TODO  
 
