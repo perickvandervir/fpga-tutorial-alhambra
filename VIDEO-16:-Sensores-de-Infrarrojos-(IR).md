@@ -65,6 +65,19 @@ Los **sensores de IR** que utilizaremos en este tutorial son **digitales**. Devu
 
 # Ejemplo 1: Encendiendo un LED al detectar presencia
 
+TODO
+
+# Ejemplo 2: Emitiendo pitidos al detectar objetos
+
+TODO
+
+# Ejemplo 3: Pitidos con spinner
+
+TODO
+
+# Ejemplo 4: El patito y su mamá
+
+TODO
 
 # Ejercicios propuestos (X BitPoints)
 
