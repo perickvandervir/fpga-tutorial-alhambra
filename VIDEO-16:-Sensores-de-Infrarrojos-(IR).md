@@ -66,6 +66,8 @@ Los **sensores de IR** que utilizaremos en este tutorial son **digitales**. Devu
 
 # Practicando con el sensor Octopus IR
 
+El sensor que usaremos para las pruebas es el [Octopus IR](http://www.elecfreaks.com/estore/octopus-hunt-sensor.html)
+
 ## Conexión a la Icezum Alhambra
 
 TODO
