@@ -71,9 +71,13 @@ El sensor que usaremos para las pruebas es el [Octopus IR](http://www.elecfreaks
 
 ## Conexión a la Icezum Alhambra
 
-La conexión del sensore a la placa Icezum Alhambra se hace igual que los sensores que hemos visto hasta ahora: mediante un cable de tres hilos (señal, 5v y masa)
+La conexión del sensor a la placa Icezum Alhambra se hace igual que los sensores que hemos visto hasta ahora: mediante un **cable de tres hilos** (señal, 5v y masa)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/octopus-ir-1.jpg)
+
+Por un lado se conecta al sensor, y por el otro a cualquiera de los **pines de datos** con alimentación de la placa (**D0** - **D13**). En esta foto está conectado a D13:
+
+(foto)
 
 # Ejemplo 1: Encendiendo un LED al detectar presencia
 
