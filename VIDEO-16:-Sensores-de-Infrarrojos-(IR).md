@@ -16,6 +16,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 # Contenido
 
 * [Introducción](#introducci%C3%B3n)
+* [Sensores IR](#sensores-ir)
 * [Modelos de sensores](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-16:-Sensores-de-Infrarrojos-(IR)#modelos-de-sensores)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
