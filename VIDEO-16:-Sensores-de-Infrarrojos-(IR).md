@@ -46,11 +46,14 @@ Estos sensores también se pueden utilizar para distinguir el **blanco** del **n
 
 Los **sensores de IR** que utilizaremos en este tutorial son **digitales**. Devuelven 0 ó 1 dependiendo de si detectan el objeto o no. Cualquier de estos valdría: (y si buscas por internet encontrarás todavía más)
 
+| Foto  | Nombre | Descripción |
+|-------|--------|-------------|
+|       | [Octopus Hunt sensor](http://www.elecfreaks.com/estore/octopus-hunt-sensor.html) | Este es el modelo que estoy usando en el tutorial. Está fabricado por Electrfreak
+
 TODO  
 
 
 * [Sensor QTR-8RC](http://tienda.bricogeek.com/componentes/257-array-de-sensores-infrarojos-qtr-8rc-digital.html)
-* [Octopus Hunt sensor](http://www.elecfreaks.com/estore/octopus-hunt-sensor.html)
 * [Módulo sigue líneas mblock](https://www.makeblock.es/productos/modulo_sigue_lineas/)
 * [TCRT5000-ir](https://www.iberobotics.com/producto/modulo-sensor-siguelineas-tcrt5000-ir/)
 * [TCRT5000-IR-estrecho](https://www.iberobotics.com/producto/modulo-sensor-siguelineas-tcrt5000-ir-2/)
