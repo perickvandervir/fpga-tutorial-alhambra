@@ -63,9 +63,13 @@ Los **sensores de IR** que utilizaremos en este tutorial son **digitales**. Devu
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-modelo-5.jpg) | [Sensor QTR-8RC](http://tienda.bricogeek.com/componentes/257-array-de-sensores-infrarojos-qtr-8rc-digital.html)  | Tira de **8 sensores IR**. Se puede partir en dos grupos de 2 y 6 sensores. Hay que soldarle los pines. Distribuido por [BricoGeek](http://tienda.bricogeek.com/)   |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-modelo-6.jpg)  | [Sensores IR del kit Beduino](http://www.logix5.com/roboticaeducativa/producto/beduino/) | Kit distribuido por [Logix5](http://www.logix5.com/roboticaeducativa/) |
 
-# Ejemplo 1: Encendiendo un LED al detectar presencia
+# Conectando el sensor Octopus IR
 
 TODO
+
+# Ejemplo 1: Encendiendo un LED al detectar presencia
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-1-1.png)
 
 # Ejemplo 2: Emitiendo pitidos al detectar objetos
 
