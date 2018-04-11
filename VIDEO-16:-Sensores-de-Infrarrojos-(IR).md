@@ -57,7 +57,7 @@ Los **sensores de IR** que utilizaremos en este tutorial son **digitales**. Devu
 |-------|--------|-------------|
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-modelo-1.png)      | [Octopus Hunt sensor](http://www.elecfreaks.com/estore/octopus-hunt-sensor.html) | Este es el modelo que estoy usando en el tutorial. Está fabricado por [Elecfreaks](http://www.elecfreaks.com/). Es el que se encuentra en los kits de robótica de BQ |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-modelo-2.jpg) | [Módulo sigue líneas mblock](https://www.makeblock.es/productos/modulo_sigue_lineas/)   |  Es el sensor del kit del [robot mbot](https://makeblock.es/productos/robot_educativo_mbot/). Incluye **2 sensores IR** en la misma placa. Hay que soldarle pines para conectar a la Icezum Alhambra  |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-modelo-3.jpg) | [TCRT5000-ir](https://www.iberobotics.com/producto/modulo-sensor-siguelineas-tcrt5000-ir/)    |  Compatible con la Icezum Alhambra. Distribuido por [Iberobotics](https://www.iberobotics.com/)    |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/sensor-modelo-3.jpg) | [TCRT5000-ir](https://www.iberobotics.com/producto/modulo-sensor-siguelineas-tcrt5000-ir/)    |  Compatible con la Icezum Alhambra. Permite también lectura analógica. Distribuido por [Iberobotics](https://www.iberobotics.com/)    |
 
 TODO  
 
