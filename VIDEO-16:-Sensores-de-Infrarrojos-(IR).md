@@ -112,6 +112,8 @@ Se ha añadido un **corazón de 2Khz**, para **emitir un pitido** a esa frecuenc
 
 Cargamos el circuito y lo probamos. Funcionará igual que en el ejemplo 1, pero ahora además **sonará un pitido** que se mantendrá mientras tengamos el objeto delante del sensor
 
+(Vídeo ejemplo en youtube)
+
 Este ejemplo es muy sencillo, pero muy divertido. Suena como los **escáneres** que hay en las **cajas de los supermercados**. De hecho, cuando mi hija Alicia de 8 años vió este ejemplo por primera vez, exclamó: "¡Papi! Vamos a jugar a los supermercados" :-)
 
 # Ejemplo 3: Pitidos con spinner
@@ -119,6 +121,8 @@ Este ejemplo es muy sencillo, pero muy divertido. Suena como los **escáneres** 
 TODO
 
 (Mismo montaje con spinner añadido)
+
+(Vídeo en youtube)
 
 # Comportamientos reactivos con el Icebot
 
