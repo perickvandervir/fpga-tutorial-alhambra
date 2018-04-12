@@ -102,7 +102,17 @@ Lo cargamos en la placa para probar. Al pasar un objeto, a una distancia de **1 
 
 Ampliamos el montaje anterior añadiendo un **zumbador** conectado a la salida **D11**
 
-(Montaje: sensor ir + zumbador)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-2-1.jpg)
+
+Haremos que pite al detectar un objeto, además de encenderse el LED. El circuito en Icestudio ya lo sabemos hacer. Sería así:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-2-2.jpg)
+
+Se ha añadido un **corazón de 2Khz**, para **emitir un pitido** a esa frecuencia. Va modulado por la señal procedente del sensir IR. Cuando no hay objeto, por el sensor llega un 0 que deshabilita la señal de 2Khz, por lo que al zumbador sólo le entra una señal con todo ceros, y no suena. Al detectarse un objeto, la señal de corazón llega al zumbador y pita
+
+Cargamos el circuito y lo probamos. Funcionará igual que en el ejemplo 1, pero ahora además **sonará un pitido** que se mantendrá mientras tengamos el objeto delante del sensor
+
+Este ejemplo es muy sencillo, pero muy divertido. Suena como los **escáneres** que hay en las **cajas de los supermercados**. De hecho, cuando mi hija Alicia de 8 años vió este ejemplo por primera vez, exclamó: "¡Papi! Vamos a jugar a los supermercados" :-)
 
 # Ejemplo 3: Pitidos con spinner
 
