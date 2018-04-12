@@ -125,7 +125,7 @@ TODO
 
 (Mismo montaje con spinner añadido)
 
-(Vídeo en youtube)
+[![Click to see the youtube video](http://img.youtube.com/vi/9gU3GpuzH3A/0.jpg)](https://www.youtube.com/watch?v=9gU3GpuzH3A)
 
 # Comportamientos reactivos con el Icebot
 
