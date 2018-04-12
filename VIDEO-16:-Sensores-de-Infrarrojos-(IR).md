@@ -100,7 +100,7 @@ Lo cargamos en la placa para probar. Al pasar un objeto, a una distancia de **1 
 
 # Ejemplo 2: Emitiendo pitidos al detectar objetos
 
-TODO
+Ampliamos el montaje anterior añadiendo un **zumbador** conectado a la salida **D11**
 
 (Montaje: sensor ir + zumbador)
 
