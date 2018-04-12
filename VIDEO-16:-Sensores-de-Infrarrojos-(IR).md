@@ -23,6 +23,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 1: Encendiendo un LED al detectar presencia](#ejemplo-1-encendiendo-un-led-al-detectar-presencia)
   * [Ejemplo 2: Emitiendo pitidos al detectar objetos](#ejemplo-2-emitiendo-pitidos-al-detectar-objetos)
   * [Ejemplo 3: Pitidos con el spinner](#ejemplo-3-pitidos-con-spinner)
+* [Comportamientos reactivos con el Icebot](#comportamientos-reactivos-con-el-icebot)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
