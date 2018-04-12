@@ -87,8 +87,9 @@ Vamos a probar el sensor. El circuito más sencillo posible que nos permite prob
 
 El **montaje** es el mostrado en la siguiente foto. El sensor está conectado a la entrada **D13**, y el LED a la salida **D12**
 
-(Foto del montaje en corcho: Sensor IR + LED externo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-1-2.jpg)
 
+El circuito en Icestudio es el siguiente. Está accesible también desde la colección **Academia-Jedi-HW-16.zip**, en el menú **Archivo/Ejemplos/1-Ejemplos/1-Senosr-IR-LED**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-1-1.png)
 
