@@ -24,17 +24,17 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | 14| [Mezclando circuitos: Multiplexor](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-14:-Mezclando-circuitos:-Multiplexor) |
 | 15 | [Servos de rotación continua](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-15:-Servos-de-rotaci%C3%B3n-continua) |
 | 16| [Sensores de Infrarrojos (IR)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-16:-Sensores-de-Infrarrojos-(IR)) (...En construcción) |
-|17 | Temporizador |
-|18 | Puerta OR |
-|19 | Funciones lógicas |
-|20 | Buses |
-|21 | Circuitos combinacionales |
-|22 | Definiendo bloques |
-|23 | Biestables |
-|24 | Contando |
-|25 | Registros |
-|26 | Comparadores |
-|27 | ...
+| 17 | Parámetros y Buses |
+| 18 | Puertas lógicas  |
+| 19 | Circuitos combinacionales |
+| 20 | Funciones lógicas |
+| 21 | Definiendo bloques |
+| 22 | Biestables |
+| 23  | Temporizador
+| 24 | Contando |
+| 25 | Registros |
+| 26 | Comparadores |
+| 27 | ...
 
 
 ## Academia Jedi de hardware
