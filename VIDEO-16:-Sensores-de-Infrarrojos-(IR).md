@@ -112,7 +112,7 @@ Se ha añadido un **corazón de 2Khz**, para **emitir un pitido** a esa frecuenc
 
 Cargamos el circuito y lo probamos. Funcionará igual que en el ejemplo 1, pero ahora además **sonará un pitido** que se mantendrá mientras tengamos el objeto delante del sensor
 
-En este **Vídeo de youtube** se puede ver un ejemplo de funcionamiento
+En este **Vídeo de youtube** se puede ver un **ejemplo de funcionamiento**
 
 [![Click to see the youtube video](http://img.youtube.com/vi/rdhIZm3kZ_c/0.jpg)](https://www.youtube.com/watch?v=rdhIZm3kZ_c)
 
