@@ -83,11 +83,17 @@ Por un lado se conecta al sensor, y por el otro a cualquiera de los **pines de d
 
 ## Ejemplo 1: Encendiendo un LED al detectar presencia
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-1-1.png)
-
-(cambiar screenshot a LED D12)
+Vamos a probar el sensor. El circuito más sencillo posible que nos permite probarlo es el mismo que en el caso del pulsador: un **cable** que vaya directo desde el **sensor IR** a un **LED externo**. De esta forma, cuando el sensor detecte un objeto, devolverá un **1** que hará que se encienda en LED. Cuando no detecta objeto, devolverá **0** y el LED estará apagado
+**
+El **montaje** es el mostrado en la siguiente foto. El sensor está conectado a la entrada **D13**, y el LED a la salida **D12**
 
 (Foto del montaje en corcho: Sensor IR + LED externo)
+
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-1-1.png)
+
+
+
 
 (Gif animado mostrando el funcionamiento)
 
