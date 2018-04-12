@@ -77,7 +77,9 @@ La conexión del sensor a la placa Icezum Alhambra se hace igual que los sensore
 
 Por un lado se conecta al sensor, y por el otro a cualquiera de los **pines de datos** con alimentación de la placa (**D0** - **D13**). En esta foto está conectado a D13:
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/octopus-ir-2.jpg)
+
+¡Y ya está listo! Ahora funciona exactmente igual que un pulsador externo
 
 # Ejemplo 1: Encendiendo un LED al detectar presencia
 
