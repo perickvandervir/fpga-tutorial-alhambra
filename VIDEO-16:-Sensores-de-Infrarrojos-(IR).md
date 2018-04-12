@@ -93,10 +93,9 @@ El circuito en Icestudio es el siguiente. Está accesible también desde la cole
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-1-1.png)
 
+Lo cargamos en la placa para probar. Al pasar un objeto, a una distancia de **1 cm** aproximadamete, vemos que se enciende el LED
 
-
-
-(Gif animado mostrando el funcionamiento)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-1-anim.gif)
 
 # Ejemplo 2: Emitiendo pitidos al detectar objetos
 
