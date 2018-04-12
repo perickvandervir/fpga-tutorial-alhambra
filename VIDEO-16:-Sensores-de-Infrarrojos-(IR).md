@@ -121,9 +121,13 @@ Este ejemplo es muy sencillo, pero muy divertido. Suena como los **escáneres** 
 
 # Ejemplo 3: Pitidos con spinner
 
-TODO
+La cosa se pone más divertida si al montaje anterior, usando el mismo circuito, añadimos un spinner de tal forma que sus brazos pasen por encima del sensor IR
 
-(Mismo montaje con spinner añadido)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-3-1.jpg)
+
+Ahora si le damos **vueltas al spinner**, se escucharán pitidos continuamente, cada vez que los brazos atraviesan el sensor IR
+
+En este **vídeo de youtube** se puede ver en **acción**:
 
 [![Click to see the youtube video](http://img.youtube.com/vi/9gU3GpuzH3A/0.jpg)](https://www.youtube.com/watch?v=9gU3GpuzH3A)
 
