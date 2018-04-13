@@ -187,11 +187,15 @@ El **esquema** de nuestro robot reactivo es:
 
 Para este caso concreto, nuestros **elementos** serán los siguientes:
 
-* **Estimulos**: Son la **presencia** o **NO** de **objetos** delante de los sensores del robot.
+|  Elementos  | Descripción |
+|------------|-------------|
+| **Estimulos** | Son la **presencia** o **NO** de **objetos** delante de los sensores del robot |
+
+
 * **Sensores**: Dos **sensores de infrarrojos** digitales, que devuelven **1** cuando hay un objeto delante y **0** cuando no lo hay
 * **Actuadores**: Dos **servos de rotación continua**, que tienen un controlador con 2 bits de entrada (Motorbit) que permiten que cada rueda esté en alguno de sus **tres estados posibles**: **parada**, giro en sentido **horario**, o giro en sentido **antihorario**
-
-TODO
+* **Unidad de procesamiento**: Circuito digital que diseñaremos nosotros y que estará dentro de la FPGA
+* **Respuesta**: Son los movimientos del robot: avanzar, parado, arco derecha, arco izquierda...
 
 
 ## Experimento 1: Sensor derecho - motor derecho
