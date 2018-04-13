@@ -139,7 +139,7 @@ Este tipo de sensores son muy útiles para detectar el **color negro** sobre el 
 
 Como ejemplo haremos un circuito que encienda un LED y emita un **pitido** cuando se **detecta el color Negro**. Es igual que el circuito del ejemplo 3, pero añadimos una **puerta NOT**. Antes pitaba cuando el sensor estaba a 1 (objeto detectado). Esto es equivalente a detectar el color blanco. Ahora queremos lo contrario: que pite cuando no hay objeto, es decir, cuando no hay señal reflejada. Esto es lo que el negro consigue. Por eso añadimos la puerta NOT
 
-(Foto circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-4-1.png)
 
 
 # Comportamientos reactivos con el Icebot
