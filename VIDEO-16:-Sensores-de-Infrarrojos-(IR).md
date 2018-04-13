@@ -166,7 +166,7 @@ El **esquema** de un robot reactivo es el mostrado en el siguiente **digrama**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/robot-reactivos-1.png)
 
-El robot está formado por tres elementos:
+El robot está formado por **tres elementos**:
 
 * **Sensores**: Captan los **estímulos del entorno** y los entregan a la unidad que realiza su procesamiento
 * **Circuito de procesamiento**: Es el que lee la información de los sensores y genera unas respuestas de salida para controlar los actuadores y generar la respuesta del robot. Es la parte que define el comportamiento del robot
