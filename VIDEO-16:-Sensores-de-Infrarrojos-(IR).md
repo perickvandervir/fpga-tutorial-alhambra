@@ -187,7 +187,7 @@ El **esquema** de nuestro robot reactivo es:
 
 Para este caso concreto, nuestros **elementos** serán los siguientes:
 
-|  Elementos  | Descripción |
+|    |  |
 |------------|-------------|
 | **Estimulos** | Son la **presencia** o **NO** de **objetos** delante de los sensores del robot |
 | **Sensores** | Dos **sensores de infrarrojos** digitales, que devuelven **1** cuando hay un objeto delante y **0** cuando no lo hay |
