@@ -157,6 +157,18 @@ El montaje es similar al del ejemplo anterior. Ahora colocamos una **hoja blanca
 
 TODO
 
+## Robots reactivos
+
+Los **robots reactivos** son aquellos que **reaccionan** ante un **estímulo**, sin conocimiento del **entorno**. Hay unos **estímulos** de entrada, que provocan una **respuesta inmediata** en el robot
+
+El esquema de construcción de un robot reactivo es el mostrado en el siguiente digrama:
+
+(dibujo)
+
+Los **sensores** captan los **estímulos del entorno**. Esa información entra en un **circuito**, donde se **procesa** y se generan las **señales de salida** para controlar los **actuadores**, y provocar la **respuesta del robot**
+
+TODO
+
 # Ejemplo 4: El patito y su mamá
 
 TODO
