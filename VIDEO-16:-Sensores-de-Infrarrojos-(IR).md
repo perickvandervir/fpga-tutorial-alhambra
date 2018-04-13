@@ -177,7 +177,9 @@ El **comportamiento que emerge** del robot, siguiendo este esquema se llama **co
 
 ## Esquema del Icebot
 
-Para convertir el **Icebot** en un **robot reactivo** sólo tenemos que añadirle los **sensores IR**. Se los colocaremos en la **parte frontal**, sujetos por una **goma**. El sensor derecho lo conectaremos a XX
+Para convertir el **Icebot** en un **robot reactivo** sólo tenemos que añadirle los **sensores IR**. Se los colocaremos en la **parte frontal**, sujetos por una **goma**. El **sensor derecho** lo conectaremos a **D12** y el izquierdo a **D13**
+
+(Foto Icebot con sensores)
 
 TODO
 
