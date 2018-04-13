@@ -134,7 +134,12 @@ En este **vídeo de youtube** se puede ver en **acción**:
 
 ## Ejemplo 4: Detección blanco - negro
 
-TODO
+Este tipo de sensores son muy útiles para detectar el **color negro** sobre el **blanco** en superficies **planas**. Y así podemos crear **robots rastreadores**, capaces de seguir una **línea negra**
+
+Como ejemplo haremos un circuito que encienda un LED y emita un **pitido** cuando se **detecta el color Negro**. Es igual que el circuito del ejemplo 3, pero añadimos una **puerta NOT**. Antes pitaba cuando el sensor estaba a 1 (objeto detectado). Esto es equivalente a detectar el color blanco. Ahora queremos lo contrario: que pite cuando no hay objeto, es decir, cuando no hay señal reflejada. Esto es lo que el negro consigue. Por eso añadimos la puerta NOT
+
+(Foto circuito)
+
 
 # Comportamientos reactivos con el Icebot
 
