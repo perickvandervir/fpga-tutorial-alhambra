@@ -174,9 +174,19 @@ El robot está formado por **tres elementos**:
 
 El **comportamiento que emerge** del robot, siguiendo este esquema se llama **comportamiento reactivo**
 
+## Esquema del Icebot
+
 TODO
 
-# Ejemplo 4: El patito y su mamá
+(Diagrama con las partes: 2 IR (sensores), FPGA (procesamiento), 2 Motores (Actuadores). Estimulos de entrada: objetos. Respuestas: movimientos icebot: adelante, parado, arco derecha, arco izquierda)
+
+## Experimento 1: Sensor derecho - motor derecho
+
+## Experimento 2: Sensor izquierdo - motor izquierdo
+
+## Experimento 3: Superposición: Comportamiento de seguir objetos
+
+## Ejemplo 4: El patito y su mamá
 
 TODO
 
