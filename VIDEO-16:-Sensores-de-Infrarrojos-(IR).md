@@ -147,7 +147,7 @@ El montaje es similar al del ejemplo anterior. Ahora colocamos una **hoja blanca
 
 **Cargamos** el circuito y probamos. En este **vídeo en youtube** se puede ver su **funcionamiento**
 
-(video youtube)
+[![Click to see the youtube video](http://img.youtube.com/vi/zX8-kVyQrNo/0.jpg)](https://www.youtube.com/watch?v=zX8-kVyQrNo)
 
 # Comportamientos reactivos con el Icebot
 
