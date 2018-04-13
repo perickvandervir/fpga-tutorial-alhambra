@@ -145,7 +145,9 @@ El montaje es similar al del ejemplo anterior. Ahora colocamos una **hoja blanca
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-4-2.jpg)
 
-TODO
+**Cargamos** el circuito y probamos. En este **vídeo en youtube** se puede ver su **funcionamiento**
+
+(video youtube)
 
 # Comportamientos reactivos con el Icebot
 
