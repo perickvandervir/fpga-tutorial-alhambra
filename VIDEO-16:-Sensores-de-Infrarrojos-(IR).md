@@ -1,6 +1,10 @@
 ![]()
 
+(En construcción...)
+
 # Vídeo
+
+TODO
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
