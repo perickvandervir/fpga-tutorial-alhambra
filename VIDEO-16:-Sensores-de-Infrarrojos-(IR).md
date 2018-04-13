@@ -156,7 +156,7 @@ El montaje es similar al del ejemplo anterior. Ahora colocamos una **hoja blanca
 
 # Comportamientos reactivos con el Icebot
 
-TODO
+Los **robots móviles** más sencillos son los **robots reactivos**. Construiremos nuestro primer robot reactivo con el **Icebot**, y haremos una serie de experimentos para entender bien los **comportamientos reactivos**
 
 ## Robots reactivos
 
