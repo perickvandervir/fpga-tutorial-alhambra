@@ -132,6 +132,10 @@ En este **vídeo de youtube** se puede ver en **acción**:
 
 [![Click to see the youtube video](http://img.youtube.com/vi/9gU3GpuzH3A/0.jpg)](https://www.youtube.com/watch?v=9gU3GpuzH3A)
 
+## Ejemplo 4: Detección blanco - negro
+
+TODO
+
 # Comportamientos reactivos con el Icebot
 
 TODO
