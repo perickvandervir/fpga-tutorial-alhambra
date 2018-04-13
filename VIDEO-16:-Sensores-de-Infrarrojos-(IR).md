@@ -29,6 +29,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 3: Pitidos con el spinner](#ejemplo-3-pitidos-con-spinner)
   * [Ejemplo 4: Detección blanco - negro](#ejemplo-4-detecci%C3%B3n-blanco---negro)
 * [Comportamientos reactivos con el Icebot](#comportamientos-reactivos-con-el-icebot)
+  * [Robots reactivos](#robots-reactivos)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
@@ -166,6 +167,8 @@ El esquema de construcción de un robot reactivo es el mostrado en el siguiente 
 (dibujo)
 
 Los **sensores** captan los **estímulos del entorno**. Esa información entra en un **circuito**, donde se **procesa** y se generan las **señales de salida** para controlar los **actuadores**, y provocar la **respuesta del robot**
+
+El **comportamiento que emerge** del robot, siguiendo este esquema se llama **comportamiento reactivo**
 
 TODO
 
