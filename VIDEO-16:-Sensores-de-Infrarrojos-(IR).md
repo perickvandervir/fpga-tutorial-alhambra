@@ -30,6 +30,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 4: Detección blanco - negro](#ejemplo-4-detecci%C3%B3n-blanco---negro)
 * [Comportamientos reactivos con el Icebot](#comportamientos-reactivos-con-el-icebot)
   * [Robots reactivos](#robots-reactivos)
+  * [Esquema del Icebot](#esquema-del-icebot)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
