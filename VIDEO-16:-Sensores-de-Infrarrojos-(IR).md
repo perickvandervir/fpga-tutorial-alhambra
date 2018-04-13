@@ -185,6 +185,12 @@ El **esquema** de nuestro robot reactivo es:
 
 (Diagrama con las partes: 2 IR (sensores), FPGA (procesamiento), 2 Motores (Actuadores). Estimulos de entrada: objetos. Respuestas: movimientos icebot: adelante, parado, arco derecha, arco izquierda)
 
+Para este caso concreto, nuestros **elementos** serán los siguientes:
+
+* **Estimulos**: Son la **presencia** o **NO** de **objetos** delante de los sensores del robot.
+* **Sensores**: Dos **sensores de infrarrojos** digitales, que devuelven **1** cuando hay un objeto delante y **0** cuando no lo hay
+* **Actuadores**: Dos **servos de rotación continua**, que tienen un controlador con 2 bits de entrada (Motorbit) que permiten que cada rueda esté en alguno de sus **tres estados posibles**: **parada**, giro en sentido **horario**, o giro en sentido **antihorario**
+
 TODO
 
 
