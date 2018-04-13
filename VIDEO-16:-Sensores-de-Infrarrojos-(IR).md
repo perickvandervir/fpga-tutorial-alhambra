@@ -141,6 +141,11 @@ Como ejemplo haremos un circuito que encienda un LED y emita un **pitido** cuand
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-4-1.png)
 
+El montaje es similar al del ejemplo anterior. Ahora colocamos una **hoja blanca** con un trozo de **cinta aislante negra**, para que haya zonas negras y blancas. Cambiamos la orientación del sensor para que apunte a la hoja
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-4-2.jpg)
+
+TODO
 
 # Comportamientos reactivos con el Icebot
 
