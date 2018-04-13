@@ -169,7 +169,7 @@ El **esquema** de un robot reactivo es el mostrado en el siguiente **digrama**:
 El robot está formado por **tres elementos**:
 
 * **Sensores**: Captan los **estímulos del entorno** y los entregan a la unidad que realiza su procesamiento
-* **Circuito de procesamiento**: Es el que lee la información de los sensores y genera unas respuestas de salida para controlar los actuadores y generar la respuesta del robot. Es la parte que define el comportamiento del robot
+* **Circuito de procesamiento**: Es el que lee la información de los sensores y genera unas respuestas de salida para controlar los actuadores y generar la respuesta del robot. Es la parte que define el comportamiento del robot. Nosotros usaremos circuitos digitales en la FPGA
 * **Actuadores**: Son los que realizan una acción sobre el entorno, y permiten al robot dar una respuesta
 
 El **comportamiento que emerge** del robot, siguiendo este esquema se llama **comportamiento reactivo**
