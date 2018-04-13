@@ -181,11 +181,12 @@ Para convertir el **Icebot** en un **robot reactivo** sólo tenemos que añadirl
 
 (Foto Icebot con sensores)
 
-TODO
+El **esquema** de nuestro robot reactivo es:
 
 (Diagrama con las partes: 2 IR (sensores), FPGA (procesamiento), 2 Motores (Actuadores). Estimulos de entrada: objetos. Respuestas: movimientos icebot: adelante, parado, arco derecha, arco izquierda)
 
-(Foto del icebot con los IRs)
+TODO
+
 
 ## Experimento 1: Sensor derecho - motor derecho
 
