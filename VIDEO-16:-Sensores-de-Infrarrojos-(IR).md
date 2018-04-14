@@ -195,8 +195,13 @@ Para este caso concreto, nuestros **elementos** serán los siguientes:
 | **Unidad de procesamiento** | **Circuito digital** que diseñaremos nosotros y que estará dentro de la **FPGA**
 | **Respuesta** | Son los **movimientos del robot**: avanzar, parado, arco derecha, arco izquierda...|
 
-
 ## Experimento 1: Sensor derecho - motor derecho
+
+Comenzaremos por un experimento muy sencillo: hacer que el **motor derecho** se mueva en **sentido horario** cuando se activa el **sensor derecho**. Además encederemos el LED0 de pruebas 
+
+(cto)
+
+(Vídeo en youtube)
 
 ## Experimento 2: Sensor izquierdo - motor izquierdo
 
