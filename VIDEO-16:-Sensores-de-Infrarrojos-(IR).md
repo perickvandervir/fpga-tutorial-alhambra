@@ -179,7 +179,7 @@ El **comportamiento que emerge** del robot, siguiendo este esquema se llama **co
 
 Para convertir el **Icebot** en un **robot reactivo** sólo tenemos que añadirle los **sensores IR**. Se los colocaremos en la **parte frontal**, sujetos por una **goma**. El **sensor derecho** lo conectaremos a **D12** y el izquierdo a **D13**
 
-(Foto Icebot con sensores)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/robot-reactivos-2.jpg)
 
 El **esquema** de nuestro robot reactivo es:
 
