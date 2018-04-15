@@ -60,6 +60,7 @@ Estudiante que se encuentran cursando el **segundo año** de la **academia de Ha
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/11-Padawan-N1-min.png)|    Manuel Andújar (Matalobo) | Padawan Nivel 1 | 188 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Jose Roda (Rodalillo)  | Padawan | 175 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|     Viriato (@SrViriato)  | Padawan | 170 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|     Andrés (@Avarez_)   | Padawan | 168 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Jose López  | Padawan | 164 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Jose Luis (@movilujo)  | Padawan | 162 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Talud08 (@javivicen)  | Padawan | 162 |
@@ -68,7 +69,6 @@ Estudiante que se encuentran cursando el **segundo año** de la **academia de Ha
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Fernando Coladas (@fcoladas)  | Padawan | 156 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|   Koyikabuto (clonehazard,chetosvsgeez )  | Padawan | 153 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Enea Kao (@Eneakao)  | Padawan | 150 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Andrés (@Avarez_)  | Padawan | 150 |
 
 ### Primer curso
 
