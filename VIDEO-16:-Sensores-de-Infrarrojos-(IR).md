@@ -214,10 +214,13 @@ En este **vídeo en youtube** se puede ver el comportamiento en acción
 
 Modificamos el circuito del experimento 1 añadiendo una **puerta NOT**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-5-Exp-2.png)
 
 
+Ahora, cuando el sensor derecho **detecte un objeto**, el motor derecho se **parará**, y cuando no haya nada seguirá movimiento, haciendo que el robot gire hacia la izquierda, en arco
 
-, de manera que cuando el sensor derecho detecto un objeto se parará, y cuando no haya nada seguirá movimiento, haciendo que el robot gire hacia la izquierda, en arco
+El comportamiento se puede ver en este **vídeo en Youtube**:
+
 
 
 ## Experimento 3: Sensor izquierdo - motor izquierdo
