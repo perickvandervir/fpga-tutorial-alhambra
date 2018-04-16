@@ -232,6 +232,7 @@ El comportamiento del experimento anterior lo vamos a reproducir con el **lado i
 
 Y en este **vídeo en youtube** se ve el nuevo comportamiento
 
+[![Click to see the youtube video](http://img.youtube.com/vi/XdsftCxiXMI/0.jpg)](https://www.youtube.com/watch?v=XdsftCxiXMI)
 
 ## Experimento 4: Superposición: Comportamiento de seguir objetos
 
