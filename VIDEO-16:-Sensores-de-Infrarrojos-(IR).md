@@ -210,9 +210,19 @@ En este **vídeo en youtube** se puede ver el comportamiento en acción
 
 ![]([![Click to see the youtube video](http://img.youtube.com/vi/YM_dUvG2Ay8/0.jpg)](https://www.youtube.com/watch?v=YM_dUvG2Ay8))
 
-## Experimento 2: Sensor izquierdo - motor izquierdo
+## Experimento 2: Sensor derecho negado - motor derecho
 
-## Experimento 3: Superposición: Comportamiento de seguir objetos
+Modificamos el circuito del experimento 1 añadiendo una **puerta NOT**
+
+
+
+
+, de manera que cuando el sensor derecho detecto un objeto se parará, y cuando no haya nada seguirá movimiento, haciendo que el robot gire hacia la izquierda, en arco
+
+
+## Experimento 3: Sensor izquierdo - motor izquierdo
+
+## Experimento 4: Superposición: Comportamiento de seguir objetos
 
 ## Ejemplo 4: El patito y su mamá
 
