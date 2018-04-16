@@ -204,7 +204,11 @@ El **circuito** es el siguiente:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-5-Exp-1.png)
 
-(Vídeo en youtube)
+El **sensor derecho** está conectado directamente al **bit de on** del motor de la rueda derecha, de modo que al detectarse un objeto, se recibe un **1** y se activa el **motor derecho**, mientras el izquierdo está parado. El robot girará a la izquierda en arco, **embistiendo** el objeto que había delante. En cuanto ho tiene nada en su campo, el sensor lee un 0 y el motor se para
+
+En este **vídeo en youtube** se puede ver el comportamiento en acción
+
+![]([![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]())
 
 ## Experimento 2: Sensor izquierdo - motor izquierdo
 
