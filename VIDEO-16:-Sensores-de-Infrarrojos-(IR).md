@@ -241,7 +241,8 @@ TODO
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-5-Exp-4.png)
 
-![](https://www.youtube.com/watch?v=k_445ceKKMc)
+[![Click to see the youtube video](http://img.youtube.com/vi/k_445ceKKMc/0.jpg)](https://www.youtube.com/watch?v=k_445ceKKMc)
+
 
 ## Ejemplo 4: El patito y su mamá
 
