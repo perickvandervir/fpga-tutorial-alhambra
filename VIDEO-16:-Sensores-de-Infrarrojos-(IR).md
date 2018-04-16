@@ -33,6 +33,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Esquema del Icebot](#esquema-del-icebot)
   * [Experimento 1: Sensor derecho - motor izquierdo](#experimento-1-sensor-derecho---motor-derecho)
   * [Experimento 2: Sensor derecho negado - motor derecho](#experimento-2-sensor-derecho-negado---motor-derecho)
+  * [Experimento 3: Sensor izquierdo negado - motor izquierdo](#experimento-3-sensor-izquierdo-negado---motor-izquierdo)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
