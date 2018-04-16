@@ -236,7 +236,11 @@ Y en este **vídeo en youtube** se ve el nuevo comportamiento
 
 ## Experimento 4: Superposición: Comportamiento de seguir objetos
 
+TODO
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-5-Exp-4.png)
+
+![](https://www.youtube.com/watch?v=k_445ceKKMc)
 
 ## Ejemplo 4: El patito y su mamá
 
