@@ -198,7 +198,9 @@ Para este caso concreto, nuestros **elementos** serán los siguientes:
 
 ## Experimento 1: Sensor derecho - motor derecho
 
-Comenzaremos por un experimento muy sencillo: hacer que el **motor derecho** se mueva en **sentido horario** cuando se activa el **sensor derecho**. Además encederemos el LED0 de pruebas 
+Comenzaremos por un experimento muy sencillo: hacer que el **motor derecho** se mueva en **sentido horario** cuando se activa el **sensor derecho**. Además encederemos el **LED0** de pruebas 
+
+El **circuito** es el siguiente:
 
 (cto)
 
