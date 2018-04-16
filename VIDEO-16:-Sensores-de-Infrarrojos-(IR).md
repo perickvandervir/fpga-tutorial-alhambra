@@ -221,6 +221,7 @@ Ahora, cuando el sensor derecho **detecte un objeto**, el motor derecho se **par
 
 El comportamiento se puede ver en este **vídeo en Youtube**:
 
+[![Click to see the youtube video](http://img.youtube.com/vi/azZ6sUeNqLE/0.jpg)](https://www.youtube.com/watch?v=azZ6sUeNqLE)
 
 
 ## Experimento 3: Sensor izquierdo - motor izquierdo
