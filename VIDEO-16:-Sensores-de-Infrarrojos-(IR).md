@@ -217,15 +217,19 @@ Modificamos el circuito del experimento 1 añadiendo una **puerta NOT**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-5-Exp-2.png)
 
-
 Ahora, cuando el sensor derecho **detecte un objeto**, el motor derecho se **parará**, y cuando no haya nada seguirá movimiento, haciendo que el robot gire hacia la izquierda, en arco
 
 El comportamiento se puede ver en este **vídeo en Youtube**:
 
 [![Click to see the youtube video](http://img.youtube.com/vi/azZ6sUeNqLE/0.jpg)](https://www.youtube.com/watch?v=azZ6sUeNqLE)
 
+## Experimento 3: Sensor izquierdo negado - motor izquierdo
 
-## Experimento 3: Sensor izquierdo - motor izquierdo
+El comportamiento del experimento anterior lo vamos a reproducir con el **lado izquierdo del robot**. Para que la rueda izquierda gire hacia "adelante" hay que configurarla en **sentido antihorario**, colocando un **0** en su bit del **sentido de giro **
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-5-Exp-3.png)
+
+Y en este **vídeo en youtube** se ve el nuevo comportamiento
 
 ## Experimento 4: Superposición: Comportamiento de seguir objetos
 
