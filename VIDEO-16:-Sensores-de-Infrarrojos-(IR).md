@@ -231,6 +231,7 @@ El comportamiento del experimento anterior lo vamos a reproducir con el **lado i
 
 Y en este **vídeo en youtube** se ve el nuevo comportamiento
 
+
 ## Experimento 4: Superposición: Comportamiento de seguir objetos
 
 ## Ejemplo 4: El patito y su mamá
