@@ -202,7 +202,7 @@ Comenzaremos por un experimento muy sencillo: hacer que el **motor derecho** se 
 
 El **circuito** es el siguiente:
 
-(cto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-5-Exp-1.png)
 
 (Vídeo en youtube)
 
