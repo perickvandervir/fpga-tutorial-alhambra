@@ -208,7 +208,7 @@ El **sensor derecho** está conectado directamente al **bit de on** del motor de
 
 En este **vídeo en youtube** se puede ver el comportamiento en acción
 
-![]([![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]())
+![]([![Click to see the youtube video](http://img.youtube.com/vi/YM_dUvG2Ay8/0.jpg)](https://www.youtube.com/watch?v=YM_dUvG2Ay8))
 
 ## Experimento 2: Sensor izquierdo - motor izquierdo
 
