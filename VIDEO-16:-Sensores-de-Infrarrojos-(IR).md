@@ -260,6 +260,12 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 1** (Total **5 Bitpoints**): Alarma activada por sensor IR
 
+Diseñar un circuito digital que haga sonar una **alarma** mientras el **sensor de 
+infrarrojos** esté detectando un objeto. La alarma sonará por un **zumbador**, y estará  
+compuesta por **dos tonos** de **1Khz** y **2Khz**, alternados a la frecuencia de **2Hz**
+
+Cuando el sensor no detecta objetos, la alarma estará callada
+
 
 * **Ejercicio 2** (Total **x Bitpoints**): 
 
