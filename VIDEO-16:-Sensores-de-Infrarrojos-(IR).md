@@ -251,15 +251,14 @@ Este comportamiento de seguir objetos lo utiliza mi hija Alicia, de 8 años, par
 
 [![Click to see the youtube video](http://img.youtube.com/vi/CT7C3uGb3Ro/0.jpg)](https://www.youtube.com/watch?v=CT7C3uGb3Ro)
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (25 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **x Bitpoints**): 
+* **Ejercicio 1** (Total **5 Bitpoints**): Alarma activada por sensor IR
 
-Alarma
 
 * **Ejercicio 2** (Total **x Bitpoints**): 
 
