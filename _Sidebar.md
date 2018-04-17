@@ -31,3 +31,5 @@
 14. [Mezclando circuitos: Multiplexor](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-14:-Mezclando-circuitos:-Multiplexor)
 
 15. [Servos de rotación continua](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-15:-Servos-de-rotaci%C3%B3n-continua)
+
+16. [Sensores de Infrarrojos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-16:-Sensores-de-Infrarrojos-(IR))
