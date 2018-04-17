@@ -18,7 +18,7 @@ Hemos liberado hace muy poco [Icestudio 0.3.2](https://github.com/FPGAwars/icest
 
 # Colección
 
-**Academia-Jedi-HW-16.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-16.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Collection/Academia-Jedi-HW-16.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
