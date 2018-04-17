@@ -12,6 +12,10 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 Los **sensores de infrarrojos** nos permiten **detectar** objetos a corta distancia. Aprenderemos a manejarlos y los usaremos para dotar al robot **icebot** de su primer **comportamiento reactivo**
 
+# ¡Icestudio 0.3.2!
+
+Hemos liberado hace muy poco [Icestudio 0.3.2](https://github.com/FPGAwars/icestudio/releases/tag/0.3.2). La que estábamos usando antes era la 0.3.2-Beta. Por favor, **actualizarse** a esa versión. La colección empleada en este tutorial está hecha con esta versión, y en las anteriores no se verá correctamente
+
 # Colección
 
 **Academia-Jedi-HW-16.zip**: Colección para este tutorial. Descargar e instalar 
