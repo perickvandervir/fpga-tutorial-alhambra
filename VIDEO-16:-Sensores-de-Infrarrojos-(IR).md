@@ -237,16 +237,19 @@ Y en este **vídeo en youtube** se ve el nuevo comportamiento
 
 ## Experimento 4: Superposición: Comportamiento de seguir objetos
 
-TODO
+Los circuitos de los experimentos 2 y 3 son **independientes**, ya que no tienen ningún recurso en común. Por tanto los podemos combinar mediante **superposición**, en la que los dos circuitos funcionan en **paralelo**. Uno controla la parte derecha de robot: sensor y rueda. Y el otro la izquierda. De forma independiente
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-16/Ejemplo-5-Exp-4.png)
 
+El resultado es que aparece un **comportamiente emergente** que hace que el Icebot **siga un objeto**. Lo podemos ver en este **vídeo de youtube**
+
 [![Click to see the youtube video](http://img.youtube.com/vi/k_445ceKKMc/0.jpg)](https://www.youtube.com/watch?v=k_445ceKKMc)
 
+### El patito y su mamá
 
-## Ejemplo 4: El patito y su mamá
+Este comportamiento de seguir objetos lo utiliza mi hija Alicia, de 8 años, para jugar al **juego del patito y su mamá**. Nos explica en este vídeo cómo funciona :-)
 
-TODO
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 # Ejercicios propuestos (X BitPoints)
 
