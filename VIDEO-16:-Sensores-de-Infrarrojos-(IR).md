@@ -249,7 +249,7 @@ El resultado es que aparece un **comportamiente emergente** que hace que el Iceb
 
 Este comportamiento de seguir objetos lo utiliza mi hija Alicia, de 8 años, para jugar al **juego del patito y su mamá**. Nos explica en este vídeo cómo funciona :-)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/CT7C3uGb3Ro/0.jpg)](https://www.youtube.com/watch?v=CT7C3uGb3Ro)
 
 # Ejercicios propuestos (X BitPoints)
 
