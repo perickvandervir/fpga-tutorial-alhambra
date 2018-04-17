@@ -275,9 +275,13 @@ temporiza nada, ni almacena información. Simplemente sube o baja la barrera en 
 del estado del sensor IR
 
 
-* **Ejercicio 3** (Total **10 Bitpoints**): 
+* **Ejercicio 3** (Total **10 Bitpoints**): **Icebot Policia**
 
-Icebot siguiente mama y sonando alarma al andar
+Hacer un circuito digital para que el robot icebot **siga a un objeto**. Utilizará **dos  
+sensores IR** colocados en su parte delantera. Siempre que el icebot esté en movimiento  
+se activará una **sirena acústina** y otra **luminosa**. La sirena es la misma que la del 
+ejercicio 1. La luminosa está formada por **dos LEDs** que parpadean anternativamente a  
+la misma frecuecia que la acústica (2Hz)
 
 * **Ejercicio 4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
