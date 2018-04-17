@@ -267,15 +267,19 @@ compuesta por **dos tonos** de **1Khz** y **2Khz**, alternados a la frecuencia d
 Cuando el sensor no detecta objetos, la alarma estará callada
 
 
-* **Ejercicio 2** (Total **x Bitpoints**): 
+* **Ejercicio 2** (Total **5 Bitpoints**): Barrera automática
 
-Barrera automática
+Diseñar un circuito digital que suba una **barrera** cuando el **sensor de IR** detecta la  
+presencia de un coche. Se cierra cuando no se detecta nada. El circuito todavía no 
+temporiza nada, ni almacena información. Simplemente sube o baja la barrera en función
+del estado del sensor IR
 
-* **Ejercicio 3** (Total **x Bitpoints**): 
+
+* **Ejercicio 3** (Total **10 Bitpoints**): 
 
 Icebot siguiente mama y sonando alarma al andar
 
-* **Ejercicio 4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
+* **Ejercicio 4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
 
