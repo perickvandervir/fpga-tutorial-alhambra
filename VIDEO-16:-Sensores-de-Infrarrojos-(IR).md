@@ -10,6 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
+Los **sensores de infrarrojos** nos permiten **detectar** objetos a corta distancia. Aprenderemos a manejarlos y los usaremos para dotar al robot **icebot** de su primer **comportamiento reactivo**
 
 # Colección
 
