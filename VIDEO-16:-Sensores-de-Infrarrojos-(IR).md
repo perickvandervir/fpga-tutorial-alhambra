@@ -36,7 +36,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Experimento 3: Sensor izquierdo negado - motor izquierdo](#experimento-3-sensor-izquierdo-negado---motor-izquierdo)
   * [Experimento 4: Superposción. Comportamiento de seguir objetos](#experimento-4-superposici%C3%B3n-comportamiento-de-seguir-objetos)
     * [El patito y su mamá](#el-patito-y-su-mam%C3%A1)
-* Ejercicios propuestos (X Bitpoints)
+* [Ejercicios propuestos (25 Bitpoints)](#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
 * [Licencia](#licencia)
