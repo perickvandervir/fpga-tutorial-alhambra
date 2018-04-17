@@ -10,9 +10,9 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 Conectaremos a nuestros circuitos **LEDs externos** a los pines de 5v, para incorporarlos a nuestros papeles. También añadiremos **zumbadores**, con los que podremos crear **sonidos**
 
-# ¡Icestudio 0.3.2!
+# ¡Icestudio 0.3.2-Beta!
 
-Con motivo de nuestra asistencia a la [FOSDEM 2018](https://fosdem.org/2018/), hemos liberado una nueva versión de **Icestudio: 0.3.2**. Por favor, **actualizarse** a esa versión. La colección empleada en este tutorial está hecha con esta versión, y en las anteriores no se verá correctamente
+Con motivo de nuestra asistencia a la [FOSDEM 2018](https://fosdem.org/2018/), hemos liberado una nueva versión de **Icestudio: 0.3.2-beta**. Por favor, **actualizarse** a esa versión. La colección empleada en este tutorial está hecha con esta versión, y en las anteriores no se verá correctamente
 
 # Colección
 
