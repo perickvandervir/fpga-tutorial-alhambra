@@ -30,9 +30,9 @@ La **puerta lógica OR** nos permite hacer **manipulaciones** de bits. Aprendere
 
 Vamos a aprender a manejar una nueva puerta lógica: la puerta **OR**. En realidad ya la conocemos, del juego del **circuit Scramble**. En el **nivel 2** había **2** puertas OR, y una AND. Nos fijamos sólo en una: la que está conectada a los **dos pulsadores** de la izquierda
 
-![]()
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Circuit-scramble-N2-1.png)
 
-
+TODO
 
 # La puerta OR
 
