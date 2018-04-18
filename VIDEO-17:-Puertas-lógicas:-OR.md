@@ -25,6 +25,34 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
+TODO
+
+# La puerta OR
+
+* Símbolo
+* Dibujo: Solo está a 0 cuando las entradas a 0, resto casos a 1
+* Tabla de verdad
+
+# Ejemplo 1: Probando la OR con pulsadores
+
+TODO
+
+# Ejemplo 2: Avisador manual o por presencia
+
+(que suene un timbre, bien por detectar algo con el IR o bien dándole al pulsador)
+
+TODO
+
+# Ejemplo 3: Cerradura con doble clave
+
+(Se abre la caja fuerte con cualquiera de las dos claves: 111, 000)
+
+# Resumen puertas lógícas: AND, OR, NOT
+
+(tablas de verdad. Símbolos)
+(Conjunto completo: se pueden implementar todas las funciones lógicas solo con ellas)
+(Circuitos combinaciones, sin memomria)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
@@ -33,9 +61,15 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 1** (Total **x Bitpoints**): 
 
+(Barrera automática con detector de presencia + switch manual)
+
 * **Ejercicio 2** (Total **x Bitpoints**): 
 
+(Caja fuerte que se abra con las claves 101, ó 010
+
 * **Ejercicio 3** (Total **x Bitpoints**): 
+
+(Franky en modo defensa, disparando en uno de los lados. Pulsador para disparo manual)
 
 * **Ejercicio 4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
