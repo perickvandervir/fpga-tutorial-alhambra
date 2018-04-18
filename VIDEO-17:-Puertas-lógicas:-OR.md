@@ -26,8 +26,8 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Preguntas frecuentes](#preguntas-frecuentes)
 
 # Introducción
-
-TODO
+.
+Ya conocemos las puertas lógicas AND y NOT. Para poder implementar **cualquier circuito lógico** nos falta  una más: la **puerta OR**. Con estas tres puertas ya tenemos **todo lo necesario** para construir cualquier circuitos lógico para manipulaciones de bits.
 
 # La puerta OR
 
