@@ -28,7 +28,11 @@ La **puerta lógica OR** nos permite hacer **manipulaciones** de bits. Aprendere
 
 # Introducción
 
-Ya conocemos las puertas lógicas **AND** y **NOT**. Para poder implementar **cualquier circuito lógico** nos falta  una más: la **puerta OR**. Con estas tres puertas ya tenemos **todo lo necesario** para construir cualquier circuitos lógico para manipulaciones de bits.
+Vamos a aprender a manejar una nueva puerta lógica: la puerta **OR**. En realidad ya la conocemos, del juego del **circuit Scramble**. En el **nivel 2** había **2** puertas OR, y una AND. Nos fijamos sólo en una: la que está conectada a los **dos pulsadores** de la izquierda
+
+![]()
+
+
 
 # La puerta OR
 
@@ -55,6 +59,8 @@ TODO
 (tablas de verdad. Símbolos)
 (Conjunto completo: se pueden implementar todas las funciones lógicas solo con ellas)
 (Circuitos combinaciones, sin memomria)
+
+Ya conocemos las puertas lógicas **AND** y **NOT**. Para poder implementar **cualquier circuito lógico** nos falta  una más: la **puerta OR**. Con estas tres puertas ya tenemos **todo lo necesario** para construir cualquier circuitos lógico para manipulaciones de bits.
 
 # Ejercicios propuestos (X BitPoints)
 
