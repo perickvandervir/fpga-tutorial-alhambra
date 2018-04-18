@@ -9,7 +9,7 @@
 Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
-
+La **puerta lógica OR** nos permite hacer **manipulaciones** de bits. Aprenderemos su funcionamiento y la utilizaremos para **combinar** señales
 
 # Colección
 
