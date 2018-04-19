@@ -64,8 +64,7 @@ La puerta OR tiene **dos entradas** y **una salida**. La manera de describir su 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/OR-3.png)
 
-
-* Tabla de verdad
+Observando todos los casos, vemos que **la puerta OR  está a 0** sólo cuando sus **dos entradas están desactivadas**. En el resto de casos siempre está a **1** 
 
 # Ejemplo 1: Probando la OR con pulsadores
 
