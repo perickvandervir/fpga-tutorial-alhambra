@@ -46,7 +46,7 @@ Y también si las **dos entradas** están a *1**: la puerta OR se activa
 
 En esta animación se resumen los **4 casos posibles**:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Circuit-scramble-N2-4.gif)
 
 TODO
 
