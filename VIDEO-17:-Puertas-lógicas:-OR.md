@@ -20,6 +20,7 @@ La **puerta lógica OR** nos permite hacer **manipulaciones** de bits. Aprendere
 * [Introducción](#introducci%C3%B3n)
 * [La puerta OR](#la-puerta-or)
 * [Tabla de verdad](#tabla-de-verdad)
+* [Ejemplo 1: Probando la OR con pulsadores](#ejemplo-1-probando-la-or-con-pulsadores)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
