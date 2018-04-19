@@ -60,6 +60,10 @@ Como **regla nemotécnica** para diferenciar la puerta OR de la AND, cuando no l
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/OR-2.png)
 
+La puerta OR tiene **dos entradas** y **una salida**. La manera de describir su funcionamiento es mostrando su **respuesta** a **todas las posibles entradas**:
+
+![]()
+
 * Dibujo: Solo está a 0 cuando las entradas a 0, resto casos a 1
 * Tabla de verdad
 
