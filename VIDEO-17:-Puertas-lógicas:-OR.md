@@ -52,6 +52,10 @@ El **funcionamiento** es fácil de intuir: La puerta OR se **activa** si **algun
 
 # La puerta OR
 
+La **OR** es una de las tres **puertas lógicas básicas**, que nos permiten **manipular** y **combinar bits**. El **símbolo** usado para su representación en los circuitos digitales es este:
+
+![]()
+
 * Símbolo
 * Dibujo: Solo está a 0 cuando las entradas a 0, resto casos a 1
 * Tabla de verdad
