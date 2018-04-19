@@ -56,6 +56,7 @@ La **OR** es una de las tres **puertas lógicas básicas**, que nos permiten **m
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/OR-1.png)
 
+* Regla nemotécnica
 * Dibujo: Solo está a 0 cuando las entradas a 0, resto casos a 1
 * Tabla de verdad
 
