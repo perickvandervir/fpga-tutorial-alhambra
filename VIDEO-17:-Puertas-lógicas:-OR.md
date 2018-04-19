@@ -36,7 +36,7 @@ Las puertas OR tiene **dos entradas** y **una salida**. Inicialmente, los botone
 
 Al **activar el pulsador**, una de las entradas se pone a **1**, pero aunque la otra sigue estándo a **0**,  la **salida** se activa, y se pone a **1**
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Circuit-scramble-N2-2.png)
 
 TODO
 
