@@ -56,7 +56,7 @@ La **OR** es una de las tres **puertas lógicas básicas**, que nos permiten **m
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/OR-1.png)
 
-Como regla nemotécnica para diferenciar la puerta OR de la AND, cuando no llevan la palabra escrita, hay que fijarse en la parte curvada por la que llegan las entradas. Es como si representase un segmento de una  letra O grande :-)
+Como **regla nemotécnica** para diferenciar la puerta OR de la AND, cuando no llevan la palabra escrita, hay que fijarse en la parte curvada por la que llegan las entradas. Es como si representase un segmento de una  letra O grande :-)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/OR-2.png)
 
