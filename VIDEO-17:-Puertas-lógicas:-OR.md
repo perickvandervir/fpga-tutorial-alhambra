@@ -71,9 +71,7 @@ Observando todos los casos, vemos que **la puerta OR  está a 0** sólo cuando s
 
 Como la puerta OR tiene **2 entradas**, en total hay 4 casos diferentes y la tabla de verdad tiene **4 filas**, igual que la de la AND
 
-(dibujo tabla)
-
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/tabla-verdad-01.png)
 
 # Ejemplo 1: Probando la OR con pulsadores
 
