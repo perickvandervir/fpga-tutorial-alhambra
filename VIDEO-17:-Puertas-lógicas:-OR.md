@@ -54,9 +54,8 @@ El **funcionamiento** es fácil de intuir: La puerta OR se **activa** si **algun
 
 La **OR** es una de las tres **puertas lógicas básicas**, que nos permiten **manipular** y **combinar bits**. El **símbolo** usado para su representación en los circuitos digitales es este:
 
-![]()
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/OR-1.png)
 
-* Símbolo
 * Dibujo: Solo está a 0 cuando las entradas a 0, resto casos a 1
 * Tabla de verdad
 
