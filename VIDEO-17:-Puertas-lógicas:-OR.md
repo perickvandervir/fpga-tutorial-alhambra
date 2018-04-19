@@ -69,6 +69,10 @@ Observando todos los casos, vemos que **la puerta OR  está a 0** sólo cuando s
 
 # Tabla de verdad
 
+Como la puerta OR tiene **2 entradas**, en total hay 4 casos diferentes y la tabla de verdad tiene **4 filas**, igual que la de la AND
+
+(dibujo tabla)
+
 TODO
 
 # Ejemplo 1: Probando la OR con pulsadores
