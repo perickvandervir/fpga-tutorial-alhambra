@@ -66,6 +66,10 @@ La puerta OR tiene **dos entradas** y **una salida**. La manera de describir su 
 
 Observando todos los casos, vemos que **la puerta OR  está a 0** sólo cuando sus **dos entradas están desactivadas**. En el resto de casos siempre está a **1** 
 
+# Tabla de verdad
+
+TODO
+
 # Ejemplo 1: Probando la OR con pulsadores
 
 TODO
