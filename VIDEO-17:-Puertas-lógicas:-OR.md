@@ -40,7 +40,7 @@ Al **activar el pulsador**, una de las entradas se pone a **1**, pero aunque la 
 
 Con el caso contrario ocurre lo mismo. Si lo que se pone a 1 es su entrada de la derecha, pero se mantiene a 0 la de la izquierda, la puera también se activa
 
-Y también si las **dos entradas** están a *1**: la puerta OR se activa
+Y también si las **dos entradas** están a **1**: la puerta OR se activa
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Circuit-scramble-N2-3.png)
 
