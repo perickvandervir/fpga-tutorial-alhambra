@@ -77,7 +77,7 @@ Como la puerta OR tiene **2 entradas**, en total hay 4 casos diferentes y la tab
 
 TODO
 
-# Ejemplo 2: Avisador manual o por presencia
+# Ejemplo 2: Alarma disparada manualmente o por presencia
 
 (que suene un timbre, bien por detectar algo con el IR o bien dándole al pulsador)
 
