@@ -48,7 +48,7 @@ En esta animación se resumen los **4 casos posibles**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Circuit-scramble-N2-4.gif)
 
-TODO
+El **funcionamiento** es fácil de intuir: La puerta OR se **activa** si **alguna de sus entradas lo está** (o ambas). O visto de otra manera diferente: La puerta OR sólo está **desactivada** (a 0) cuando sus **entradas están desactivadas**. En el resto de casos está activa
 
 # La puerta OR
 
