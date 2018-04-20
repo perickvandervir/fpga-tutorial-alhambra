@@ -39,6 +39,7 @@ Hemos liberado hace muy poco [Icestudio 0.3.2](https://github.com/FPGAwars/icest
     * [El patito y su mamá](#el-patito-y-su-mam%C3%A1)
 * [Ejercicios propuestos (25 Bitpoints)](#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
+  * [Ximo Catala (Ximocat)](#ximo-catala-ximocat)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
