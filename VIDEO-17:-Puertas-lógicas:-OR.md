@@ -76,7 +76,10 @@ Como la puerta OR tiene **2 entradas**, en total hay 4 casos diferentes y la tab
 
 # Ejemplo 1: Probando la OR con pulsadores
 
-TODO
+Haremos un ejemplo **hola mundo** para comprobar cómo funciona la puerta OR. El **montaje** que usaremos será el siguiente. Colocaremos dos pulsadores externos. Cada uno de ellos con su LED de testigo para saber cuándo está pulsado. Y un tercer **LED externo** (a la derecha) que es el resultado de aplicar la **puerta OR** a estos pulsadores:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Ejemplo-1-1.jpg)
+
 
 # Ejemplo 2: Alarma disparada manualmente o por presencia
 
