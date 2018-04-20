@@ -313,12 +313,11 @@ la misma frecuecia que la acústica (2Hz)
 [![Click to see the youtube video](http://img.youtube.com/vi/vQSzpW_d6nQ/0.jpg)](https://www.youtube.com/watch?v=vQSzpW_d6nQ)
 
 ### Ejercicio 4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-16/ximocat/Ejercicio16_4.jpg)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
+[![Click to see the youtube video](http://img.youtube.com/vi/38jg-GRpXAY/0.jpg)](https://www.youtube.com/watch?v=38jg-GRpXAY)
 
 ## Segundo
 
