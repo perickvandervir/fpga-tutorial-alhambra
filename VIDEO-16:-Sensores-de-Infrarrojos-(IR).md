@@ -288,14 +288,14 @@ la misma frecuecia que la acústica (2Hz)
 
 # Ejercicios entregados
 
-## Primero
+## Ximo Catala (ximocat)
 
 ### Ejercicio 1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-16/ximocat/Ejercicio16_1.jpg)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http:/RG4z2Z1_H4I/img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=RG4z2Z1_H4I)
 
 ### Ejercicio 2
 ![]()
