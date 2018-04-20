@@ -80,6 +80,9 @@ Haremos un ejemplo **hola mundo** para comprobar cómo funciona la puerta OR. El
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Ejemplo-1-1.jpg)
 
+(animación o screenshots de la colocación de la OR desde el menú)
+(Circuito Icestudio)
+(Animación del funcionamiento)
 
 # Ejemplo 2: Alarma disparada manualmente o por presencia
 
