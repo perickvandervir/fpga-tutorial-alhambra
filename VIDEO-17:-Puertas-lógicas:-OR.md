@@ -84,6 +84,10 @@ La **puerta OR** la colocamos desde el **menú Puertas/or**, con la colección *
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Ejemplo-1-2.gif)
 
+El **circuito de ejemplo** lo podemos crear desde cero o bien cargarlo desde el menú **Archivo/ejemplos/1-Ejemplos/1-OR-Pulsadores**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Ejemplo-1-3.jpg)
+
 (animación o screenshots de la colocación de la OR desde el menú)
 (Circuito Icestudio)
 (Animación del funcionamiento)
