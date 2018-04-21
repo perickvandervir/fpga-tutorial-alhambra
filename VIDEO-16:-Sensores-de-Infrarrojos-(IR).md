@@ -40,6 +40,7 @@ Hemos liberado hace muy poco [Icestudio 0.3.2](https://github.com/FPGAwars/icest
 * [Ejercicios propuestos (25 Bitpoints)](#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Ximo Catala (Ximocat)](#ximo-catala-ximocat)
+  * [Josep Montoliu (Klarojms)](#josep-montoliu-klarojms)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
