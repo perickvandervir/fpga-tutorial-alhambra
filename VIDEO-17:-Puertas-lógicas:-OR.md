@@ -92,6 +92,8 @@ Lo **cargamos** en la placa y lo probamos. En esta **animación** podemos ver su
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Ejemplo-1-4.gif)
 
+En cuanto alguno de los dos botones,izquierdo o derecho, está pulsado, se activa la salida de la puerta OR que está conectada al **LED verde**
+
 # Ejemplo 2: Alarma disparada manualmente o por presencia
 
 (que suene un timbre, bien por detectar algo con el IR o bien dándole al pulsador)
