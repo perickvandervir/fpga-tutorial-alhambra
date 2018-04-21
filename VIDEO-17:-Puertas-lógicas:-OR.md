@@ -88,8 +88,8 @@ El **circuito de ejemplo** lo podemos crear desde cero o bien cargarlo desde el 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Ejemplo-1-3.jpg)
 
-(animación o screenshots de la colocación de la OR desde el menú)
-(Circuito Icestudio)
+Lo **cargamos** en la placa y lo probamos. En esta **animación** podemos ver su funcionamiento
+
 (Animación del funcionamiento)
 
 # Ejemplo 2: Alarma disparada manualmente o por presencia
