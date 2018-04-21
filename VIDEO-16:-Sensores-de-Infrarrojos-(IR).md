@@ -41,6 +41,7 @@ Hemos liberado hace muy poco [Icestudio 0.3.2](https://github.com/FPGAwars/icest
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Ximo Catala (Ximocat)](#ximo-catala-ximocat)
   * [Josep Montoliu (Klarojms)](#josep-montoliu-klarojms)
+  * [Andrés (@Avarez_](#andr%C3%A9s-avarez_)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
