@@ -90,7 +90,7 @@ El **circuito de ejemplo** lo podemos crear desde cero o bien cargarlo desde el 
 
 Lo **cargamos** en la placa y lo probamos. En esta **animación** podemos ver su funcionamiento
 
-(Animación del funcionamiento)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Ejemplo-1-4.gif)
 
 # Ejemplo 2: Alarma disparada manualmente o por presencia
 
