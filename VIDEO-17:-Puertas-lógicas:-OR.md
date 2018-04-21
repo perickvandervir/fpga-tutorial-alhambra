@@ -80,6 +80,10 @@ Haremos un ejemplo **hola mundo** para comprobar cómo funciona la puerta OR. El
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Ejemplo-1-1.jpg)
 
+La **puerta OR** la colocamos desde el **menú Puertas/or**, con la colección **Academia-Jedi-HW-17.zip** instalada
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Ejemplo-1-2.gif)
+
 (animación o screenshots de la colocación de la OR desde el menú)
 (Circuito Icestudio)
 (Animación del funcionamiento)
