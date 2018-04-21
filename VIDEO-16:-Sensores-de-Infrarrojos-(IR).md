@@ -344,11 +344,11 @@ la misma frecuecia que la acústica (2Hz)
 [![Click to see the youtube video](http://img.youtube.com/vi/kU7h_GlA_Ss/0.jpg)](https://www.youtube.com/watch?v=kU7h_GlA_Ss)
 
 ### Ejercicio 4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-16/klarojms/Ejercicio%204-2.png)
 
-* **Vídeo** en Youtube:
+* **Vídeo** en Youtube: El icebot siguiendo la línea negra
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/HK_jZnUTWxw/0.jpg)](https://www.youtube.com/watch?v=HK_jZnUTWxw)
 
 ## Tercero
 
