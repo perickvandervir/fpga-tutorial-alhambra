@@ -315,18 +315,18 @@ la misma frecuecia que la acústica (2Hz)
 ### Ejercicio 4
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-16/ximocat/Ejercicio16_4.jpg)
 
-* **Vídeo** en Youtube:
+* **Vídeo** en Youtube: El **icebot** siguiendo al **escornabot** :-)
 
 [![Click to see the youtube video](http://img.youtube.com/vi/38jg-GRpXAY/0.jpg)](https://www.youtube.com/watch?v=38jg-GRpXAY)
 
-## Segundo
+## Josep Montoliu (Klarojms)
 
 ### Ejercicio 1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-16/klarojms/Ejercicio%201-1.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/evpH6hFIpG4/0.jpg)](https://www.youtube.com/watch?v=evpH6hFIpG4)
 
 ### Ejercicio 2
 ![]()
