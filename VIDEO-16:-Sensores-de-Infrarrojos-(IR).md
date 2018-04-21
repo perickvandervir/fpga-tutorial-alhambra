@@ -359,26 +359,14 @@ la misma frecuecia que la acústica (2Hz)
 * [Vídeo en twitter](https://twitter.com/avarez_/status/987648918832996352)
 
 ### Ejercicio 2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-16/avarez/Ejercicio.16.2.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/avarez_/status/987649683790155776)
 
 ### Ejercicio 3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-16/avarez/Ejercicio.16.3.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-### Ejercicio 4
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
+* [Vídeo en twitter](https://twitter.com/avarez_/status/987650266240552960)
 
 # Autor
 
