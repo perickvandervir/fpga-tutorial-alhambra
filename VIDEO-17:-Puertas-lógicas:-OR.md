@@ -133,7 +133,7 @@ En este **vídeo en youtube** se muestra el ejemplo en funcionamiento:
 
 [![Click to see the youtube video](http://img.youtube.com/vi/XYZt74OJDrY/0.jpg)](https://www.youtube.com/watch?v=XYZt74OJDrY)
 
-# Resumen puertas lógícas: AND, OR, NOT
+# Resumen puertas lógicas: AND, OR, NOT
 
 Ya conocemos las puertas lógicas **AND**, **OR** y **NOT**. Sólo con ellas podemos implementar **cualquier función lógica**. O lo que es lo mismo, usando **combinaciones** de sólo estas **tres puertas lógicas** podemos construir **cualquier circuito combinacional**
 
