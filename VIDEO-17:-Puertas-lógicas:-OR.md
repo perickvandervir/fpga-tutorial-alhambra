@@ -141,7 +141,7 @@ Existen más puertas lógicas, pero **las podemos construir a partir de estas tr
 
 Aquí dejamos un **resumen** de las puertas lógicas **AND**, **OR** y **NOT**
 
-(dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/tablas-verdad-and-not-or.png)
 
 # Ejercicios propuestos (X BitPoints)
 
