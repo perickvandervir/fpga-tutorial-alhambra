@@ -97,7 +97,13 @@ En cuanto alguno de los dos botones,izquierdo o derecho, está pulsado, se activ
 
 # Ejemplo 2: Alarma disparada manualmente o por presencia
 
-(que suene un timbre, bien por detectar algo con el IR o bien dándole al pulsador)
+Como segundo ejemplo vamos a hacer una **alarma de dos tonos**, como la que ya conocemos y hemos hecho en los ejercicios de otros tutoriales pasados, que se **active automáticamente** mediante un **sensor de IR**. La novedad está ahora en que vamos a añadir una **activación manual** mediante un **pulsador**. De esta forma, la alarma se activará bien porque detecte con los sensores IR, **O** bien porque se apriete el pulsador (u ocurran ambas cosas simultáneamente)
+
+El **circuito en icestudio** es el siguiente:
+
+(circuito icestudio)
+(Foto montaje)
+(video youtube funcionamiento)
 
 TODO
 
