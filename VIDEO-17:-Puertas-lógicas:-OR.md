@@ -111,9 +111,7 @@ El **montaje** es el siguiente:
 
 Lo **cargamos** en la placa y lo probamos. En este **Vídeo de youtube** se puede ver en funcionamiento:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-TODO
+[![Click to see the youtube video](http://img.youtube.com/vi/3EIxx9mqdwg/0.jpg)](https://www.youtube.com/watch?v=3EIxx9mqdwg)
 
 # Ejemplo 3: Cerradura con doble clave
 
