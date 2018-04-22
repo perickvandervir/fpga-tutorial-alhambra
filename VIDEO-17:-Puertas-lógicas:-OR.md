@@ -149,15 +149,15 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 **Resumen**:
 
-* **Ejercicio 17.1** (Total **3 Bitpoints**): 
+* **Ejercicio 17.1** (Total **3 Bitpoints**): Barrera en modo automática y manual
 
 Diseñar el circuito digital para controlar una **barrera de acceso** que se levantará **automáticamente** cuando detecte la presencia de un coche, y se bajará cuando no lo haya. Además, tiene un **modo manual** para poder subirla mediante un **interruptor**. La barrera sólo baja si no hay coche detectado y no está activada manualmente
 
-* **Ejercicio 17.2** (Total **5 Bitpoints**): 
+* **Ejercicio 17.2** (Total **5 Bitpoints**): Caja fuerte con dos códigos de apertura
 
-(Caja fuerte que se abra con las claves 101, ó 010
+Diseñar un circuito digital para que se abra una **caja fuerte** cuando se introduce el código **101** ó el **010** en tres interruptores externos. Al abrirse se moverá un servo a una posición, y cuando está cerrada se moverá a la contraria
 
-* **Ejercicio 17.3** (Total **7 Bitpoints**): 
+* **Ejercicio 17.3** (Total **7 Bitpoints**): Franky en modo defesan, con disparo manual
 
 (Franky en modo defensa, disparando en uno de los lados. Pulsador para disparo manual)
 
