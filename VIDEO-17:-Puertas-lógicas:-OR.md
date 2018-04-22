@@ -103,6 +103,12 @@ El **circuito en icestudio** es el siguiente:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Ejemplo-2-1.png)
 
+La parte superior derecha es la **alarma**, que se activa mediante una **puerta AND** de **habilitación** que deja pasar los tonos hacia el zumbador. Esa señal de activación proviene del pulsador y del sensor de IR **combinadas** a través de una **puerta OR**, de forma que la alarma se activa cuando se ponga a 1 alguna de ellas (o ambas). Igual que en el ejemplo 1, tenemos puestos los **LEDs testigos**, para visualizar el estado de las entradas y de la salida de la puerta OR
+
+El **montaje** es el siguiente:
+
+
+
 (Foto montaje)
 (video youtube funcionamiento)
 
