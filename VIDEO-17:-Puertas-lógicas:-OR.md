@@ -120,8 +120,9 @@ Este es un ejemplo similar al que ya hicimos en el [Tutorial 12](https://github.
 
 No pondremos un pulsador de apertura. Se **abrirá automáticamente** en cuanto se detecte alguno de los **códigos correctos**. El montaje es el siguiente:
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Ejemplo-3-1.jpg)
+
 (circuito icestudio)
-(Foto montaje)
 (video youtube)
 
 (Se abre la caja fuerte con cualquiera de las dos claves: 111, 000)
