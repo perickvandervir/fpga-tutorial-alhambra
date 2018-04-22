@@ -130,7 +130,7 @@ Las **dos puertas AND** de la parte superior son las encargadas de detectar el *
 
 En este **vídeo en youtube** se muestra el ejemplo en funcionamiento:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=XYZt74OJDrY)
 
 # Resumen puertas lógícas: AND, OR, NOT
 
