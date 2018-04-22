@@ -143,21 +143,21 @@ Aquí dejamos un **resumen** de las puertas lógicas **AND**, **OR** y **NOT**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/tablas-verdad-and-not-or.png)
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (20 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **x Bitpoints**): 
+* **Ejercicio 1** (Total **3 Bitpoints**): 
 
-(Barrera automática con detector de presencia + switch manual)
+Diseñar el circuito digital para controlar una **barrera de acceso** que se levantará **automáticamente** cuando detecte la presencia de un coche, y se bajará cuando no lo haya. Además, tiene un **modo manual** para poder subirla mediante un **interruptor**. La barrera sólo baja si no hay coche detectado y no está activada manualmente
 
-* **Ejercicio 2** (Total **x Bitpoints**): 
+* **Ejercicio 2** (Total **5 Bitpoints**): 
 
 (Caja fuerte que se abra con las claves 101, ó 010
 
-* **Ejercicio 3** (Total **x Bitpoints**): 
+* **Ejercicio 3** (Total **7 Bitpoints**): 
 
 (Franky en modo defensa, disparando en uno de los lados. Pulsador para disparo manual)
 
