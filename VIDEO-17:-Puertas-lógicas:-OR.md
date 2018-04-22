@@ -107,10 +107,11 @@ La parte superior derecha es la **alarma**, que se activa mediante una **puerta 
 
 El **montaje** es el siguiente:
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Ejemplo-2-2.jpg)
 
+Lo **cargamos** en la placa y lo probamos. En este **Vídeo de youtube** se puede ver en funcionamiento:
 
-(Foto montaje)
-(video youtube funcionamiento)
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 TODO
 
