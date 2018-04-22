@@ -134,11 +134,13 @@ En este **vídeo en youtube** se muestra el ejemplo en funcionamiento:
 
 # Resumen puertas lógícas: AND, OR, NOT
 
-(tablas de verdad. Símbolos)
-(Conjunto completo: se pueden implementar todas las funciones lógicas solo con ellas)
-(Circuitos combinaciones, sin memomria)
+Ya conocemos las puertas lógicas **AND**, **OR** y **NOT**. Sólo con ellas podemos implementar **cualquier función lógica**. O lo que es lo mismo, usando **combinaciones** de sólo estas **tres puertas lógicas** podemos construir **cualquier circuito combinacional**
 
-Ya conocemos las puertas lógicas **AND** y **NOT**. Para poder implementar **cualquier circuito lógico** nos falta  una más: la **puerta OR**. Con estas tres puertas ya tenemos **todo lo necesario** para construir cualquier circuitos lógico para manipulaciones de bits.
+Existen más puertas lógicas, pero **las podemos construir a partir de estas tres**. También existen otros conjuntos de puertas que nos permiten obtener cualquier circuito combinacional. Lo veremos más adelante.
+
+Aquí dejamos un **resumen** de las puertas lógicas **AND**, **OR** y **NOT**
+
+(dibujo)
 
 # Ejercicios propuestos (X BitPoints)
 
