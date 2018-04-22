@@ -157,11 +157,11 @@ Diseñar el circuito digital para controlar una **barrera de acceso** que se lev
 
 Diseñar un circuito digital para que se abra una **caja fuerte** cuando se introduce el código **101** ó el **010** en tres interruptores externos. Al abrirse se moverá un servo a una posición, y cuando está cerrada se moverá a la contraria
 
-* **Ejercicio 17.3** (Total **7 Bitpoints**): Franky en modo defesan, con disparo manual
+* **Ejercicio 17.3** (Total **7 Bitpoints**): Franky en modo defensa, con disparo manual
 
 (Franky en modo defensa, disparando en uno de los lados. Pulsador para disparo manual)
 
-* **Ejercicio 17.4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
+* **Ejercicio 17.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
 
