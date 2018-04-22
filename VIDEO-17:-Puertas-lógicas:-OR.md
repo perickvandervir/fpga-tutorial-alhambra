@@ -116,7 +116,7 @@ Lo **cargamos** en la placa y lo probamos. En este **Vídeo de youtube** se pued
 
 # Ejemplo 3: Cerradura con doble clave
 
-Este es un ejemplo similar al que ya hicimos en el [Tutorial 12](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#ejemplo-3-apertura-de-una-cerradura-con-clave). Pero ahora la **cerradura** se abre con **dos claves diferentes**, que e este ejemplo serán los **códigos 000** y **111**. Cuando introducimos a través de los **3 interruptores** cualquiera de estos dos códigos, el servo se moverá, simulando que la caja fuerte se ha abierto
+Este es un ejemplo similar al que ya hicimos en el [Tutorial 12](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos#ejemplo-3-apertura-de-una-cerradura-con-clave). Pero ahora la **cerradura** se abre con **dos claves diferentes**, que en este ejemplo serán los **códigos 000** y **111**. Cuando introducimos a través de los **3 interruptores** cualquiera de estos dos códigos, el servo se moverá, simulando que la caja fuerte se ha abierto
 
 No pondremos un pulsador de apertura. Se **abrirá automáticamente** en cuanto se detecte alguno de los **códigos correctos**. El montaje es el siguiente:
 
