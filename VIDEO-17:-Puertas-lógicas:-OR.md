@@ -122,7 +122,7 @@ No pondremos un pulsador de apertura. Se **abrirá automáticamente** en cuanto 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Ejemplo-3-1.jpg)
 
-Se han colocado los tres interruptores en la parte izquierda, y a continuación 3 LEDs externos que muestran su estado. El LED del extremo de la derecha es el que indica si el código es correcto (encendido) o no (apagado). El **circuito en Icestudio** es:
+Se han colocado los **tres interruptores** en la parte izquierda, y a continuación **3 LEDs externos** que muestran su estado. El LED del extremo de la derecha es el que indica si el código es correcto (encendido) o no (apagado). El **circuito en Icestudio** es:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Ejemplo-3-2.jpg)
 
