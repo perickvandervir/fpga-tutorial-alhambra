@@ -149,19 +149,19 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **3 Bitpoints**): 
+* **Ejercicio 17.1** (Total **3 Bitpoints**): 
 
 Diseñar el circuito digital para controlar una **barrera de acceso** que se levantará **automáticamente** cuando detecte la presencia de un coche, y se bajará cuando no lo haya. Además, tiene un **modo manual** para poder subirla mediante un **interruptor**. La barrera sólo baja si no hay coche detectado y no está activada manualmente
 
-* **Ejercicio 2** (Total **5 Bitpoints**): 
+* **Ejercicio 17.2** (Total **5 Bitpoints**): 
 
 (Caja fuerte que se abra con las claves 101, ó 010
 
-* **Ejercicio 3** (Total **7 Bitpoints**): 
+* **Ejercicio 17.3** (Total **7 Bitpoints**): 
 
 (Franky en modo defensa, disparando en uno de los lados. Pulsador para disparo manual)
 
-* **Ejercicio 4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
+* **Ejercicio 17.4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
 
