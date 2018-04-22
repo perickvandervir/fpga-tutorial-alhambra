@@ -116,6 +116,11 @@ Lo **cargamos** en la placa y lo probamos. En este **Vídeo de youtube** se pued
 
 # Ejemplo 3: Cerradura con doble clave
 
+(Descripción)
+(circuito icestudio)
+(Foto montaje)
+(video youtube)
+
 (Se abre la caja fuerte con cualquiera de las dos claves: 111, 000)
 
 # Resumen puertas lógícas: AND, OR, NOT
