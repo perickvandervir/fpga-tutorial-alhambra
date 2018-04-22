@@ -126,9 +126,11 @@ Se han colocado los tres interruptores en la parte izquierda, y a continuación 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Ejemplo-3-2.jpg)
 
-(video youtube)
+Las **dos puertas AND** de la parte superior son las encargadas de detectar el **código 111**. Las **3 NOT y las 2 AND** inferiores detectan el **código 000**. Esta dos señales pasan a través de la **OR** y van directas al controlador del servo para abrirlo o cerrarlo (así como al LED verde que indica código correcto)
 
-(Se abre la caja fuerte con cualquiera de las dos claves: 111, 000)
+En este **vídeo en youtube** se muestra el ejemplo en funcionamiento:
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 # Resumen puertas lógícas: AND, OR, NOT
 
