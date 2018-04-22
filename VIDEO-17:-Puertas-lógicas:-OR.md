@@ -159,7 +159,8 @@ Diseñar un circuito digital para que se abra una **caja fuerte** cuando se intr
 
 * **Ejercicio 17.3** (Total **7 Bitpoints**): Franky en modo defensa, con disparo manual
 
-(Franky en modo defensa, disparando en uno de los lados. Pulsador para disparo manual)
+Diseñar un circuito digital para que franky funcione en modo "defensa". Estará irando de lado a lado con un periodo de **4 segundos** (2 segundos en cada lado).  En uno de los lados disparará automáticamente una **ráfaga** por sus ojos, que parpadearán a una frecuencia de **10Hz**. Además, durante el disparo, sonarán **pitidos  de 1Khz**, con una **cadenacia de 10Hz** (pi-pi-pi-pi...). Adicionalmente se colocará  
+un **pulsador** para **disparo manual**. Al pulsarlo realizará los mismos disparos  comentados anteriormente (señal luminosa en los ojos y pitidos de 1Khz con  cadencia de 10Hz)
 
 * **Ejercicio 17.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
