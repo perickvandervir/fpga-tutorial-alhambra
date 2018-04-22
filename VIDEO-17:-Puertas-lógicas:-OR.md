@@ -101,7 +101,8 @@ Como segundo ejemplo vamos a hacer una **alarma de dos tonos**, como la que ya c
 
 El **circuito en icestudio** es el siguiente:
 
-(circuito icestudio)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Ejemplo-2-1.png)
+
 (Foto montaje)
 (video youtube funcionamiento)
 
