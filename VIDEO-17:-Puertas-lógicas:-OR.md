@@ -1,8 +1,9 @@
-(En construcción...)
 
-![]()
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Portada/Tut-17-portada.png)
 
 # Vídeo
+
+(En construcción...)
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
