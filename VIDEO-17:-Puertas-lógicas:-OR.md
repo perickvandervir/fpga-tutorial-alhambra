@@ -23,7 +23,7 @@ La **puerta lógica OR** nos permite hacer **manipulaciones** de bits. Aprendere
 * [Ejemplo 1: Probando la OR con pulsadores](#ejemplo-1-probando-la-or-con-pulsadores)
 * [Ejemplo 2: Alarma disparada manualmente o por presencia](#ejemplo-2-alarma-disparada-manualmente-o-por-presencia)
 * [Ejemplo 3: Cerradura con doble clave](#ejemplo-3-cerradura-con-doble-clave)
-* [Resumen de las puertas lógicas AND, OR y NOT](#resumen-puertas-l%C3%B3g%C3%ADcas-and-or-not)
+* [Resumen de las puertas lógicas AND, OR y NOT](#resumen-puertas-l%C3%B3gicas-and-or-not)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
