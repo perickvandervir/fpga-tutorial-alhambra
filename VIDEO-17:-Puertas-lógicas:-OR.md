@@ -14,7 +14,7 @@ La **puerta lógica OR** nos permite hacer **manipulaciones** de bits. Aprendere
 
 # Colección
 
-**Academia-Jedi-HW-17.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-17.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-17/Collection/Academia-Jedi-HW-17.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
