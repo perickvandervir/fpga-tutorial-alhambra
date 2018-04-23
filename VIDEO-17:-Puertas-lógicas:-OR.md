@@ -10,7 +10,7 @@
 Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
-La **puerta lógica OR** nos permite hacer **manipulaciones** de bits. Aprenderemos su funcionamiento y la utilizaremos para **combinar** señales
+La **puerta lógica OR** nos permite hacer **manipulaciones** de bits. Aprenderemos su funcionamiento y la utilizaremos para **combinar** señales.  Con esto ya conocemos las **tres puertas lógicas básicas**: AND, OR y NOT, que nos permiten crear cualquier otra **función lógica**, por muy complicada que sea
 
 # Colección
 
