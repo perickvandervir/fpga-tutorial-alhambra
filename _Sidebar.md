@@ -33,3 +33,6 @@
 15. [Servos de rotación continua](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-15:-Servos-de-rotaci%C3%B3n-continua)
 
 16. [Sensores de Infrarrojos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-16:-Sensores-de-Infrarrojos-(IR))
+
+17. [Puertas Lógicas: OR](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-17:-Puertas-l%C3%B3gicas:-OR)
+
