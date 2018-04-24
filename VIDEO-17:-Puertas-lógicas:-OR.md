@@ -26,6 +26,7 @@ La **puerta lógica OR** nos permite hacer **manipulaciones** de bits. Aprendere
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Federico Coca](#federico-coca-fgcoca)
+  * [Josep klaro](#josep-klaro-klarojms)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
