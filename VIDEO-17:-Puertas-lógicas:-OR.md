@@ -197,14 +197,14 @@ un **pulsador** para **disparo manual**. Al pulsarlo realizará los mismos dispa
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=hByYWTzvSgY)
 
 
-## Segundo
+## Josep Klaro (klarojms)
 
 ### Ejercicio 1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-17/klarojms/Ejercicio%201-1.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=M6gvof1Hr9A)
 
 ### Ejercicio 2
 ![]()
