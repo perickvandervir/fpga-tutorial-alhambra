@@ -205,7 +205,7 @@ un **pulsador** para **disparo manual**. Al pulsarlo realizará los mismos dispa
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=M6gvof1Hr9A)
+[![Click to see the youtube video](http://img.youtube.com/vi/M6gvof1Hr9A/0.jpg)](https://www.youtube.com/watch?v=M6gvof1Hr9A)
 
 ### Ejercicio 2
 ![]()
