@@ -25,16 +25,17 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | 15 | [Servos de rotación continua](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-15:-Servos-de-rotaci%C3%B3n-continua) |
 | 16| [Sensores de Infrarrojos (IR)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-16:-Sensores-de-Infrarrojos-(IR)) |
 | 17 | [Puertas lógicas: OR](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-17:-Puertas-l%C3%B3gicas:-OR) |
-| 18 | Parámetros y Buses |
+| 18 | Bloques con Parámetros |
 | 19 | Circuitos combinacionales |
 | 20 | Funciones lógicas |
 | 21 | Definiendo bloques |
 | 22 | Biestables |
-| 23  | Temporizador
-| 24 | Contando |
-| 25 | Registros |
-| 26 | Comparadores |
-| 27 | ...
+| 23 | Buses  |
+| 24  | Temporizador
+| 26 | Contando |
+| 27 | Registros |
+| 28 | Comparadores |
+| 29 | ...
 
 
 ## Academia Jedi de hardware
