@@ -23,6 +23,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Introducción](#introducci%C3%B3n)
 * [Corazón paramétrico](#coraz%C3%B3n-param%C3%A9trico)
   * [Ejemplo 1: parpadeo de un LED a 1Hz](#ejemplo-1-parpadeo-de-un-led-a-1hz)
+  * [Ejemplo 2: Estableciendo la frecuencia a 4Hz)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
@@ -71,6 +72,8 @@ Nos falta por asignarle un valor al parámetro, pero **por defecto** vale **1Hz*
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-4.png)
 
 ## Ejemplo 2: Estableciendo la frecuencia a 4Hz
+
+
 
 TODO
 
