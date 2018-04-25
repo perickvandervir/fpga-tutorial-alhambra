@@ -30,7 +30,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
-Hay dos **técnicas** usadas para el diseño de **circuitos complejos**: la **composición** y la **parametrización**. Con ellas nuestros diseños estárán mejor estructurados y los podremos reutilizar más fácilmente.
+Hay dos **técnicas** usadas para el diseño de **circuitos complejos**: la **composición** y la **parametrización**. Con ellas nuestros diseños estárán mejor estructurados y los podremos **reutilizar** más fácilmente.
 
 (Dibujo)
 
