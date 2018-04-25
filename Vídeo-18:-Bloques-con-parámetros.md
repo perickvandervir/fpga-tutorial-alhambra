@@ -73,6 +73,8 @@ Nos falta por asignarle un valor al parámetro, pero **por defecto** vale **1Hz*
 
 ## Ejemplo 2: Estableciendo la frecuencia a 4Hz
 
+Para establecer una frecuencia diferente, en Hz, tenemos que dar un valor al parámetro. Para ello usaremos un elemento nuevo: el **bloque constante**, que se encuentra en **Básico/Constante**
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
