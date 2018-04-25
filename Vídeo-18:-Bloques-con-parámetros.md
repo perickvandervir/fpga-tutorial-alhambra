@@ -59,7 +59,7 @@ El **bloque corazón paramétrico** es como el mostrado a continuación. Es muy 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-2.png)
 
-## Ejemplo 1: Parpadeo a frecuencia de 1Hz
+## Ejemplo 1: Parpadeo de un LED a 1Hz
 
 
 
