@@ -56,13 +56,21 @@ Hasta ahora hemos utilizado **corazones con frecuencia fija**, para bombear bits
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-1.png)
 
-El **bloque corazón paramétrico** es como el mostrado a continuación. Es muy parecido a los anteriores, con la diferencia de que tiene un **"cable"** en la parte superior
+El **bloque corazón paramétrico** es como el mostrado a continuación. Es muy parecido a los anteriores, con la diferencia de que tiene un **"cable"** en la parte superior. Es el **parámetro frecuencia**, al que le tendremos que asignar un valor (en hercios)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-2.png)
 
 ## Ejemplo 1: Parpadeo de un LED a 1Hz
 
+Haremos un circuito para hacer parpadear el **LED0** a la frecuencia de **1Hz**, usando un **corazón paramétrico**. El componente lo encontramos en el menú **Varios/Bombeo/Corazon_Hz**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-3.png)
+
+Nos falta por asignarle un valor al parámetro, pero **por defecto** vale **1Hz**. Esto lo podemos saber viendo la información del bloque que aparece cuando dejamos el puntero del ratón sobre el bloque, durante unos segundos
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-4.png)
+
+## Ejemplo 2: Estableciendo la frecuencia a 4Hz
 
 TODO
 
