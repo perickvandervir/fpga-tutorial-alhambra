@@ -22,6 +22,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 * [Introducción](#introducci%C3%B3n)
 * [Corazón paramétrico](#coraz%C3%B3n-param%C3%A9trico)
+  * [Ejemplo 1: parpadeo de un LED a 1Hz](#ejemplo-1-parpadeo-de-un-led-a-1hz)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
