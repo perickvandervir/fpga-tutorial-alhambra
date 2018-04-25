@@ -36,8 +36,11 @@ Mediante la **composición** construirmos bloques a partir de otros más sencill
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/intro-1.png)
 
+(Animación icestudio)
+
 La otra técnica es la creación de **bloques paramétricos**. El objetivo es diseñar **bloques genéricos**, que se puedan **especializar** por medio de la **asignación** de valores a sus **parámetros**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/intro-2.png)
 
 TODO
 
