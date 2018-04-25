@@ -75,6 +75,8 @@ Nos falta por asignarle un valor al parámetro, pero **por defecto** vale **1Hz*
 
 Para establecer una frecuencia diferente, en Hz, tenemos que dar un valor al parámetro. Para ello usaremos un elemento nuevo: el **bloque constante**, que se encuentra en **Básico/Constante**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-5.gif)
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
