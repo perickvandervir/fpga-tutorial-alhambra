@@ -73,23 +73,7 @@ Nos falta por asignarle un valor al parámetro, pero **por defecto** vale **1Hz*
 
 ## Ejemplo 2: Estableciendo la frecuencia a 4Hz
 
-
-
 TODO
-
-Vamos a usar nuestro primer corazón paramétrico. Partimos del **circuito básico** que hace parpadear un LED a la **frecuencia de 1Hz**
-
-(foto)
-
-Para cambiar la frecuencia por ejemplo a 2Hz podemos colocar un corazón de esta frecuencia encima, como ya sabemos hacer:
-
-(amación)
-
-Ahora colocamos el corazón paramétrico sobre el de 2Hz. Lo encontramos en el menu Varios/Bombeo/Corazon_Hz. Lo seleccionamos y lo arrastramos:
-
-(animación)
-
-
 
 # Ejercicios propuestos (X BitPoints)
 
