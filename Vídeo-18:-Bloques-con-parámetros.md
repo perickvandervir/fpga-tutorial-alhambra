@@ -67,7 +67,7 @@ Haremos un circuito para hacer parpadear el **LED0** a la frecuencia de **1Hz**,
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-3.png)
 
-Nos falta por asignarle un valor al parámetro, pero **por defecto** vale **1Hz**. Esto lo podemos saber viendo la información del bloque que aparece cuando dejamos el puntero del ratón sobre el bloque, durante unos segundos
+Nos falta por asignarle un valor al parámetro, pero **por defecto** vale **1Hz**. Esto lo podemos saber viendo la **información del bloque** que aparece cuando dejamos el puntero del ratón sobre el bloque, durante unos segundos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-4.png)
 
