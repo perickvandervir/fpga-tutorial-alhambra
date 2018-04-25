@@ -53,7 +53,7 @@ En este nos familiarizaremos con el uso de los **bloques parámetricos** y apren
 
 Hasta ahora hemos utilizado **corazones con frecuencia fija**, para bombear bits en nuestros diseños. Hemos usado mucho los de 1Hz y 2Hz, cuyos bloques son:
 
-(dibujo corazones 1Hz y 2Hz)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-1.png)
 
 Vamos a usar nuestro primer corazón paramétrico. Partimos del **circuito básico** que hace parpadear un LED a la **frecuencia de 1Hz**
 
