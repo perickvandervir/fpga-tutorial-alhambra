@@ -32,7 +32,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 Hay dos **técnicas** usadas para el diseño de **circuitos complejos**: la **composición** y la **parametrización**. Con ellas nuestros diseños estárán mejor estructurados y los podremos **reutilizar** más fácilmente. 
 
-Mediante la **composición** construirmos bloques a partir de otros más sencillos, creando **jerarquías**. El situado en lo más alto es la **entidad superior** (top entity) cuyas entradas y salidas se corresponden con los **pines de la FPGA**
+Mediante la **composición** construirmos bloques a partir de otros más sencillos, creando **jerarquías**. El situado en lo más alto es la **entidad superior** (*top entity*) cuyas entradas y salidas se corresponden con los **pines de la FPGA**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/intro-1.png)
 
