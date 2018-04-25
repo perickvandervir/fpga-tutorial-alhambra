@@ -91,6 +91,15 @@ Si ahora sintetizamos y **cargamos el circuito**, vemos cómo efectivamente el L
 
 TODO
 
+## Bloques fijos
+
+TODO
+
+Servobit paramétrico  
+Motorbit paramétrico  
+Temporizador?  
+
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
