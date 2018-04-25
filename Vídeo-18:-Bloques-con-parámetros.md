@@ -48,6 +48,10 @@ Un ejemplo es el bloque genérico **corazón**, que veremos en el siguiente apar
 
 En este nos familiarizaremos con el uso de los **bloques parámetricos** y aprenderemos a **fijar sus valores**, dejando para más adelante el cómo diseñar mediante composición y parametrización
 
+# Corazón paramétrico
+
+TODO
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
