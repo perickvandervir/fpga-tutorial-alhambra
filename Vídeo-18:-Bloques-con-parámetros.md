@@ -73,11 +73,13 @@ Nos falta por asignarle un valor al parámetro, pero **por defecto** vale **1Hz*
 
 ## Ejemplo 2: Estableciendo la frecuencia a 4Hz
 
-Para establecer una frecuencia diferente, en Hz, tenemos que dar un valor al parámetro. Para ello usaremos un elemento nuevo: el **bloque constante**, que se encuentra en **Básico/Constante**
+Para establecer una frecuencia diferente, en Hz, tenemos que dar un valor al parámetro. Para ello usaremos un elemento nuevo: el **bloque constante**, que se encuentra en **Básico/Constante**. Igual que al colocar los pines de entrada o salida, nos pide un nombre para el valor que estamos introduciendo. Lo llamaremos, por ejemplo, **HZ** para representar que es un valor en hercios. A continuación lo unimos a su parámetro mediante **un cable**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-5.gif)
 
-TODO
+Ahora ya podemos asignarle cualquier valor. Nos metemos en la caja de texto del bloque HZ y ponemos el **valor de la frecuencia**, en hercios (y usando números enteros). En este ejemplo estamos usando un valor de **4**
+
+(foto circuito)
 
 # Ejercicios propuestos (X BitPoints)
 
