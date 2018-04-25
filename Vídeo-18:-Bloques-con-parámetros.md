@@ -57,7 +57,7 @@ Hasta ahora hemos utilizado **corazones con frecuencia fija**, para bombear bits
 
 El **bloque corazón paramétrico** es como el mostrado a continuación. Es muy parecido a los anteriores, con la diferencia de que tiene un **"cable"** en la parte superior
 
-(dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-2.png)
 
 Vamos a usar nuestro primer corazón paramétrico. Partimos del **circuito básico** que hace parpadear un LED a la **frecuencia de 1Hz**
 
