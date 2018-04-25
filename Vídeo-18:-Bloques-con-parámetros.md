@@ -44,9 +44,9 @@ La otra técnica es la creación de **bloques paramétricos**. El objetivo es di
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/intro-2.png)
 
+Un ejemplo es el bloque genérico **corazón**, que veremos en el siguiente apartado, y que produce un bombeo de bits a una frecuencia genérica. Esta frecuencia se establece simplemente cambiando el valor de su parámetro
 
-
-TODO
+En este nos familiarizaremos con el uso de los **bloques parámetricos** y aprenderemos a **fijar sus valores**, dejando para más adelante el cómo diseñar mediante composición y parametrización
 
 # Ejercicios propuestos (X BitPoints)
 
