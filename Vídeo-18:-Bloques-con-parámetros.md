@@ -51,7 +51,23 @@ En este nos familiarizaremos con el uso de los **bloques parámetricos** y apren
 
 # Corazón paramétrico
 
-TODO
+Hasta ahora hemos utilizado **corazones con frecuencia fija**, para bombear bits en nuestros diseños. Hemos usado mucho los de 1Hz y 2Hz, cuyos bloques son:
+
+(dibujo corazones 1Hz y 2Hz)
+
+Vamos a usar nuestro primer corazón paramétrico. Partimos del **circuito básico** que hace parpadear un LED a la **frecuencia de 1Hz**
+
+(foto)
+
+Para cambiar la frecuencia por ejemplo a 2Hz podemos colocar un corazón de esta frecuencia encima, como ya sabemos hacer:
+
+(amación)
+
+Ahora colocamos el corazón paramétrico sobre el de 2Hz. Lo encontramos en el menu Varios/Bombeo/Corazon_Hz. Lo seleccionamos y lo arrastramos:
+
+(animación)
+
+
 
 # Ejercicios propuestos (X BitPoints)
 
