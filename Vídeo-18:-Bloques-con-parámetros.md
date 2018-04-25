@@ -79,7 +79,7 @@ Para establecer una **frecuencia** diferente, en **Hz**, tenemos que dar un valo
 
 Ahora ya podemos asignarle cualquier valor. Nos metemos en la caja de texto del bloque HZ y ponemos el **valor de la frecuencia**, en hercios (y usando números enteros). En este ejemplo estamos usando un valor de **4**. 
 
-(foto circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-6.png)
 
 Si ahora sintetizamos y **cargamos el circuito**, vemos cómo efectivamente el LED parpadea **4 veces** más rápido.  ¡Hemos probado nuestro primer **circuito paramétrico**!
 
