@@ -81,9 +81,10 @@ Ahora ya podemos asignarle cualquier valor. Nos metemos en la caja de texto del 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-6.png)
 
-Si ahora sintetizamos y **cargamos el circuito**, vemos cómo efectivamente el LED parpadea **4 veces** más rápido.  ¡Hemos probado nuestro primer **circuito paramétrico**!
+Si ahora sintetizamos y **cargamos el circuito**, vemos cómo efectivamente el LED parpadea **4 veces** más rápido.  ¡Hemos probado nuestro primer **circuito paramétrico**! En este **Vídeo en Youtube** lo puedes ver en funcionamiento
 
-(Vídeo en youtube)
+[![Click to see the youtube video](http://img.youtube.com/vi/oieg43fxA80/0.jpg)](https://www.youtube.com/watch?v=oieg43fxA80)
+
 
 ## Circuitos reales y parámetros
 
