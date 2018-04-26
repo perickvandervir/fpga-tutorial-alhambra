@@ -105,7 +105,7 @@ Esto es importante por los siguientes motivos:
 
 Llamamos **bloques fijos**, o **constantes** a los que **no tienen parámetros**. Por ejemplo el bloque "Corazón de 1Hz", que hemos estado usando para generar una señal de 1Hz. Es un bloque fijo, porque esta frecuencia no es un parámetro, sino que está prefijada al valor 1
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-8.png)
 
 Los bloues fijos son muy **cómodos**. Se colocan y listo. Y **reducen la complejidad visual** del circuito. Sin embargo es muy incómodo tener que crear circuitos específicos para cada uno de estos bloques. Si por ejemplo queremos tener dos corazones de frecuencias fijas, 1 y 2Hz, tendríamos que crearnos estos dos bloques de manera independiente (duplicando el trabajo). Una opción mejor es partir del **bloque corazón genérico**, y obtener los **bloques fijos** a partir de él, mediante **composición**, asignando valores diferentes a su parámetros
 
