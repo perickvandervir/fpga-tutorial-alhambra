@@ -110,7 +110,7 @@ Llamamos **bloques fijos**, o **constantes** a los que **no tienen parámetros**
 
 Los bloues fijos son muy **cómodos**. Se colocan y listo. Y **reducen la complejidad visual** del circuito. Sin embargo es muy incómodo tener que crear circuitos específicos para cada uno de estos bloques. Si por ejemplo queremos tener dos corazones de frecuencias fijas, 1 y 2Hz, tendríamos que crearnos estos dos bloques de manera independiente (duplicando el trabajo). Una opción mejor es partir del **bloque corazón genérico**, y obtener los **bloques fijos** a partir de él, mediante **composición**, asignando valores diferentes a su parámetros
 
-Asi es como se han creado los **corazones de frecuencia fija** que se encuentra en **Varios/Bombeo/Fijos**. Para comprobarlo no hay más que hacer **doble click** en uno de ellos, para **entrar** y ver de qué otros bloques está compuesto
+Asi es como se han creado los **corazones de frecuencia fija** que se encuentra en **Varios/Bombeo/Fijos**. Para comprobarlo no hay más que hacer **doble click** en uno de ellos, para **entrar** y ver de qué otros bloques está compuesto. Lo podemos ver en esta **animación**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-9.gif)
 
