@@ -88,7 +88,7 @@ Si ahora sintetizamos y **cargamos el circuito**, vemos cómo efectivamente el L
 
 ## Circuitos reales y parámetros
 
-Los **bloques paramétricos** son una herramienta para el **diseñador de circuitos**, pero en realidad **no** tienen **existencia física**. Es decir, que lo que se sintetiza en la FPGA **no** es el circuito genérico, sino un circuito particular que surge al utilizar el parámetro indicado
+Los **bloques paramétricos** son una herramienta para el **diseñador de circuitos**, pero en realidad **no** tienen **existencia física**. Es decir, que lo que se **sintetiza** en la FPGA **no** es el circuito genérico, sino un circuito particular que surge al utilizar el parámetro indicado
 
 TODO
 
