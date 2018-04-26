@@ -25,7 +25,7 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | 15 | [Servos de rotación continua](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-15:-Servos-de-rotaci%C3%B3n-continua) |
 | 16| [Sensores de Infrarrojos (IR)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-16:-Sensores-de-Infrarrojos-(IR)) |
 | 17 | [Puertas lógicas: OR](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-17:-Puertas-l%C3%B3gicas:-OR) |
-| 18 | [Bloques con Parámetros](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-18:-Bloques-con-par%C3%A1metros) (En construcción...) |
+| 18 | [Bloques con parámetros](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-18:-Bloques-con-par%C3%A1metros) (En construcción...) |
 | 19 | Circuitos combinacionales |
 | 20 | Funciones lógicas |
 | 21 | Definiendo bloques |
