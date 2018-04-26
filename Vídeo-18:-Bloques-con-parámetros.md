@@ -94,6 +94,11 @@ Las **herramientas de síntesis** (invocadas por Icestudio) parten del circuito 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-7.png)
 
+Esto es importante por los siguientes motivos:
+
+* (Cable del parámetro no exite)
+* (El circuito genérico no tiene tamaño. Varía según el circuito particular)
+
 TODO
 
 ## Bloques fijos
