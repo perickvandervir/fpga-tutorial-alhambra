@@ -86,8 +86,9 @@ Si ahora sintetizamos y **cargamos el circuito**, vemos cómo efectivamente el L
 
 [![Click to see the youtube video](http://img.youtube.com/vi/oieg43fxA80/0.jpg)](https://www.youtube.com/watch?v=oieg43fxA80)
 
-
 ## Circuitos reales y parámetros
+
+Los **bloques paramétricos** son una herramienta para el **diseñador de circuitos**, pero en realidad **no** tienen **existencia física**.
 
 TODO
 
