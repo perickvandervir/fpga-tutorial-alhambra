@@ -96,10 +96,9 @@ Las **herramientas de síntesis** (invocadas por Icestudio) parten del circuito 
 
 Esto es importante por los siguientes motivos:
 
-* (Cable del parámetro no exite)
-* (El circuito genérico no tiene tamaño. Varía según el circuito particular)
+* El **"cable"** que une el parámetro con el circuito es **ficticio**. No tiene exitencia física. En la FPGA ese cable no aparecerá. Y lo mismo el parámetro. En el circuito particular NO hay parámetro
 
-TODO
+* El circuito genérico tiene un **tamaño desconocido**. Es al aplicarle el parámetro y convertirlo en particular cuando tiene un **tamaño real**. Y además, este tamaño **dependerá el parámetro**. Parámetros distintos darán lugar, en general, a circuitos particulares con tamaños distintos
 
 ## Bloques fijos
 
