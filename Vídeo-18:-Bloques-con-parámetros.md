@@ -26,6 +26,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 2: Estableciendo la frecuencia a 4Hz](#ejemplo-2-estableciendo-la-frecuencia-a-4hz)
   * [Circuitos reales y parámetros](#circuitos-reales-y-par%C3%A1metros)
   * [Bloques fijos](#bloques-fijos)
+* [Servobit paramétrico](#servobit-param%C3%A9trico)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
