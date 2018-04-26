@@ -25,6 +25,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 1: parpadeo de un LED a 1Hz](#ejemplo-1-parpadeo-de-un-led-a-1hz)
   * [Ejemplo 2: Estableciendo la frecuencia a 4Hz](#ejemplo-2-estableciendo-la-frecuencia-a-4hz)
   * [Circuitos reales y parámetros](#circuitos-reales-y-par%C3%A1metros)
+  * [Bloques fijos](#bloques-fijos)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
