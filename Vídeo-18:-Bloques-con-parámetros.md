@@ -114,6 +114,10 @@ Asi es como se han creado los **corazones de frecuencia fija** que se encuentra 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-9.gif)
 
+## Ejemplo 3: Fijando el periodo
+
+TODO
+
 # Servobit paramétrico  
 
 TODO
