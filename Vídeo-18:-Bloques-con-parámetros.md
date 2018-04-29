@@ -117,6 +117,14 @@ Asi es como se han creado los **corazones de frecuencia fija** que se encuentra 
 
 ## Ejemplo 3: Fijando el periodo
 
+También tenemos un **corazón paramétrico** que nos permite **fijar el periodo**, en vez de la frecuencia. Está disponible en el menú **Varios/Bombeo/Corazón_seg**, y por **defecto** tiene asignado un periodo de **1 segundo**
+
+(Animación)
+
+Como ejemplo, haremos **parpadear el LED0** con un periodo de **10 segundos**:
+
+(circuito ejemplo)
+
 TODO
 
 # Servobit paramétrico  
