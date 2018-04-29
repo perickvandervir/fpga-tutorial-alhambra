@@ -123,9 +123,9 @@ También tenemos un **corazón paramétrico** que nos permite **fijar el periodo
 
 Como ejemplo, haremos **parpadear el LED0** con un periodo de **10 segundos**. Colocamos el componente **Corazon_Seg** y ponemos una **constante** con el valor de **10** para asignársela a su **parámetro**
 
-(circuito ejemplo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-11.png)
 
-TODO
+Al **probar** el circuito veremos que inicialmente el LED está **apagado** durante **5 segundos**, y luego se **enciende** durante otros **5** (completando un periodo de 10 segundos). El ciclo se repite indefinidamente
 
 # Servobit paramétrico  
 
