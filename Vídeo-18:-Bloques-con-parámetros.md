@@ -119,7 +119,7 @@ Asi es como se han creado los **corazones de frecuencia fija** que se encuentra 
 
 También tenemos un **corazón paramétrico** que nos permite **fijar el periodo**, en vez de la frecuencia. Está disponible en el menú **Varios/Bombeo/Corazón_seg**, y por **defecto** tiene asignado un periodo de **1 segundo**
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-9.gif)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/corazon-param-10.gif)
 
 Como ejemplo, haremos **parpadear el LED0** con un periodo de **10 segundos**:
 
