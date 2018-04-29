@@ -31,7 +31,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
 * [Licencia](#licencia)
-* [Enlaces](#enlaces)* 
+* [Enlaces](#enlaces) 
 * [Preguntas frecuentes](#preguntas-frecuentes)
 
 # Introducción
