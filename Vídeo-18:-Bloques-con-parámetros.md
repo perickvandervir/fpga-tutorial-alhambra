@@ -317,6 +317,7 @@ El Futaba 3003 es uno de los servos que típicamente se han trucado para constru
   Son cables hembra-hembra de tres hilos. Como son los mismos que se usan para la conexión de servos, los puedes encontrar en tiendas donde vendan cualquier tipo de servo. Por ejemplo:  
   * En **Pololu**:  https://www.pololu.com/product/779
   * En **hobby king**: https://hobbyking.com/en_us/10cm-female-to-female-servo-lead-jr-26awg-10pcs-set.html?___store=en_us  
+
   También se pueden usar cables hembra-hembra aislados. A partir de ellos es muy fácil trenzarlos y hacerte tu propio cable de 3 pines:
 
   * **Adafruit**:  https://www.adafruit.com/product/266
