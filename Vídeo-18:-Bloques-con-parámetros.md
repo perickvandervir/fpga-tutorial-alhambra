@@ -133,9 +133,9 @@ Para mover los servos a **dos posiciones** hemos estado usando el bloque **servo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/servobit-param-1.png)
 
-Los dos parámetros, P0 y P1 están en unidades de **micro-segundos** (usec). Cada posición se encuentra siempre entre un valor máximo **Pmax** y uno mínimo, **Pmin**, que dependen del tipo de servo.
+Los dos parámetros, P0 y P1 (Px) están en unidades de **micro-segundos** (usec). Cada posición se encuentra siempre entre un valor máximo **Pmax** y uno mínimo, **Pmin**, que dependen del tipo de servo.
 
-(dibujo con P0, P1, Pmax, Pmin)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/servobit-param-2.png)
 
 (Explicación del tiempo como anchura del pulso, en usecs)
 
