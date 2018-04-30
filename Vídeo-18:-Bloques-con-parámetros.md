@@ -155,6 +155,12 @@ Es **MUY IMPORTANTE** NO dar valores mayores de PMAX ni menores de PMIN. Esto ll
 
 ## Ejemplo 4: Cambiando las posiciones al servobit
 
+Como ejemplo usaremos un servobit paramétrico para cambiar el ángulo en un **Futaba 3003**. Primero colocamos el componente, que lo encontraremos en **Varios/Servo/Futaba3003/Servobit**. Su entrada la conectamos a un **pulsador** y la salida al servo. Comprobaremos su funcionamiento primero con los **parámetros por defecto**
+
+(mostrar circuito)
+
+
+
 
 # Motorbit paramétrico  
 
