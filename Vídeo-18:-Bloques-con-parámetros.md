@@ -139,7 +139,7 @@ Los dos parámetros, **P0** y **P1** (A los que nos referiremos genéricamente c
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/servobit-param-2.png)
 
-Como ya vimos al hablar del servobit, la posición del servo queda determinada por la **anchura del pulso** que se mande. Esta posición, en microsegundos, es la que usamos para dar valores a P0 y P1. En la mayoría de los servos, la **posición central** se alcanza con **pulsos de 1.5ms** (1500 us). Si la anchura es menor, el ángulo apunta hacia la derecha, y si es mayor, a la izquieda
+Como ya vimos al hablar del servobit, la posición del servo queda determinada por la **anchura del pulso** que se mande. Esta posición, en microsegundos, es la que usamos para dar valores a P0 y P1. En la mayoría de los servos, la **posición central** se alcanza con **pulsos de 1.5ms** (1500 μs). Si la anchura es menor, el ángulo apunta hacia la derecha, y si es mayor, a la izquieda
 
 ## Tabla de valores de los parámetros Px
 
