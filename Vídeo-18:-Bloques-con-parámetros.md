@@ -146,9 +146,9 @@ En la siguiente **tabla** se resumen los valores **máximos** y **mínimos** de 
 
 Es **MUY IMPORTANTE** NO dar valores mayores de PMAX ni menores de PMIN. Esto llevaría al servo a posiciones fuera de su rango, y lo podríamos dañar
 
-| Servo           | Pmax(μs)  | Pmin(μs) |  P1(μs)  |  P0(μs)  |
-|-----------------|-----------|----------|----------|----------|
-|  **Futaba 3003**    |           |          |          |          |
+| Servo               | Pmax(μs)  | Pmin(μs) |  P1(μs)  |  P0(μs)  |
+|---------------------|-----------|----------|----------|----------|
+|  **Futaba 3003**    |  2410     |  380     |  1670    |    820   |
 |  **Emax-ES808A**    |           |          |          |          |
 |  **TowerPro SG-90** |  2350     |  500     |  1000    |  2000    |
 
