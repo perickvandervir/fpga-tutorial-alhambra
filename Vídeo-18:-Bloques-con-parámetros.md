@@ -129,15 +129,15 @@ Al **probar** el circuito veremos que inicialmente el LED está **apagado** dura
 
 # Servobit paramétrico  
 
-Para mover los servos a **dos posiciones** hemos estado usando el bloque **servobit-90**. Estas posiciones estaban fijadas en el propio bloque. Con el bloque **servobit paramétrico** las podemos fijar a los valores que queramos. Los parámetros se denominan **P0** y **P1**, correspondientes las posiciones del servo para sus dos valores de entrada: 0 y 1 respectivamente
+Para mover los servos a **dos posiciones** hemos estado usando el bloque **servobit-90**. Estas posiciones estaban fijadas en el propio bloque. Con el componente **servobit paramétrico** las podemos fijar a los valores que queramos. Los parámetros se denominan **P0** y **P1**, correspondientes las posiciones del servo para sus dos valores de entrada: 0 y 1 respectivamente
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/servobit-param-1.png)
 
-Los dos parámetros, P0 y P1 (Px) están en unidades de **micro-segundos** (usec). Cada posición se encuentra siempre entre un valor máximo **Pmax** y uno mínimo, **Pmin**, que dependen del tipo de servo.
+Los dos parámetros, P0 y P1 (**Px**) están en unidades de **micro-segundos** (usec). Cada posición se encuentra siempre entre un valor máximo **Pmax** y uno mínimo, **Pmin**, que dependen del tipo de servo.
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/servobit-param-2.png)
+![](https://github.com/Obijuan/digital-electronics-with-oapen-FPGAs-tutorial/raw/master/wiki/Tutorial-18/servobit-param-2.png)
 
-(Explicación del tiempo como anchura del pulso, en usecs)
+Como ya vimos al hablar del servobit, la posición del servo queda determinada por la **anchura del pulso** que se mande. Esta posición, en microsegundos, es la que usamos para dar valores a P0 y P1. En la mayoría de los servos, la **posición central** se alcanza con **pulsos de 1.5ms** (1500 us). Si la anchura es menor, el ángulo apunta hacia la derecha, y si es mayor, a la izquieda
 
 
 TODO
