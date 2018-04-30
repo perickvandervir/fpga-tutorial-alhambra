@@ -152,6 +152,8 @@ Es **MUY IMPORTANTE** NO dar valores mayores de PMAX ni menores de PMIN. Esto ll
 |  **Emax-ES808A**    |  2550     |  580     |  1000    |  2000    |
 |  **TowerPro SG-90** |  2350     |  500     |  1000    |  2000    |
 
+## Ejemplo 4: Cambiando las posiciones al servobit
+
 
 # Motorbit paramétrico  
 
