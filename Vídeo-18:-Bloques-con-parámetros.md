@@ -144,6 +144,8 @@ Como ya vimos al hablar del servobit, la posición del servo queda determinada p
 
 En la siguiente **tabla** se resumen los valores **máximos** y **mínimos** de los parámetros para los diferentes servos. También se incluyen las posiciones **P0** y **P1** que se usan en el **servobit-90**
 
+Es **MUY IMPORTANTE** no dar valores mayores de PMAX ni menores de PMIN. Esto llevaría al servo a posiciones fuera de su rango, y lo podríamos dañar
+
 | Servo           | Pmax(μs)  | Pmin(μs) |  P1(μs)  |  P0(μs)  |
 |-----------------|-----------|----------|----------|----------|
 |  Futaba 3003    |           |          |          |          |
