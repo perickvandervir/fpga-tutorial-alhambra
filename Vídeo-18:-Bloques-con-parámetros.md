@@ -29,6 +29,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Fijando el periodo](#ejemplo-3-fijando-el-periodo)
 * [Servobit paramétrico](#servobit-param%C3%A9trico)
   * [Tabla de valores para los parámetros (PX)](#tabla-de-valores-de-los-par%C3%A1metros-px)
+  * [Ejemplo 4:Cambiando las posiciones al servobit](#ejemplo-4-cambiando-las-posiciones-al-servobit)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
