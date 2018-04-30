@@ -131,7 +131,7 @@ Al **probar** el circuito veremos que inicialmente el LED está **apagado** dura
 
 Para mover los servos a **dos posiciones** hemos estado usando el bloque **servobit-90**. Estas posiciones estaban fijadas en el propio bloque. Con el bloque **servobit paramétrico** las podemos fijar a los valores que queramos. Los parámetros se denominan **P0** y **P1**, correspondientes las posiciones del servo para sus dos valores de entrada: 0 y 1 respectivamente
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-18:-Bloques-con-par%C3%A1metros#servobit-param%C3%A9trico)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/servobit-param-1.png)
 
 Los dos parámetros, P0 y P1 están en unidades de **micro-segundos** (usec). Cada posición se encuentra siempre entre un valor máximo **Pmax** y uno mínimo, **Pmin**, que dependen del tipo de servo.
 
