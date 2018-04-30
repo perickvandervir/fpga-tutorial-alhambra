@@ -159,6 +159,10 @@ Como ejemplo usaremos un servobit paramétrico para cambiar el ángulo en un **F
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/servobit-param-3.png)
 
+El sevo se mueve **igual** que cuando usábamos el **servobit-90**. Ahora le añadimos los bloques constantes para poner valores diferentes a P0 y P1, por ejemplo sus valores extermos:
+
+(circuito)
+
 TODO
 
 
