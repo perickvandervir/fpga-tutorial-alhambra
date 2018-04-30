@@ -150,7 +150,7 @@ Es **MUY IMPORTANTE** no dar valores mayores de PMAX ni menores de PMIN. Esto ll
 |-----------------|-----------|----------|----------|----------|
 |  Futaba 3003    |           |          |          |          |
 |  Emax-ES808A    |           |          |          |          |
-|  TowerPro SG-90 |           |          |          |          |
+|  TowerPro SG-90 |  2350     |  500     |  1000    |  2000    |
 
 
 TODO
