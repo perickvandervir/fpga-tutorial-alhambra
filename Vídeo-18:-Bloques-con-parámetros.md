@@ -139,11 +139,16 @@ Los dos parámetros, P0 y P1 (**Px**) están en unidades de **micro-segundos** (
 
 Como ya vimos al hablar del servobit, la posición del servo queda determinada por la **anchura del pulso** que se mande. Esta posición, en microsegundos, es la que usamos para dar valores a P0 y P1. En la mayoría de los servos, la **posición central** se alcanza con **pulsos de 1.5ms** (1500 us). Si la anchura es menor, el ángulo apunta hacia la derecha, y si es mayor, a la izquieda
 
-| Servo   | Pmax(μs)  | Pmin(μs) |  P1(μs)  |  P0(μs)  |
-|---------|-----------|----------|----------|----------|
-|         |           |          |          |          |
+## Tabla de valores de los parámetros Px
 
-(Tabla de valores para los tres servos)
+En la siguiente **tabla** se resumen los valores **máximos** y **mínimos** de los parámetros para los diferentes servos. También se incluyen las posiciones **P0** y **P1** que se usan en el **servobit-90**
+
+| Servo           | Pmax(μs)  | Pmin(μs) |  P1(μs)  |  P0(μs)  |
+|-----------------|-----------|----------|----------|----------|
+|  Futaba 3003    |           |          |          |          |
+|  Emax-ES808A    |           |          |          |          |
+|  TowerPro SG-90 |           |          |          |          |
+
 
 TODO
 
