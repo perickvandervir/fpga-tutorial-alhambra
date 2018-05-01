@@ -186,6 +186,13 @@ Si **cargamos** ahora el circuito para probarlo, veremos que el arco que recorre
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/servobit-param-5.png)
 
+## Bloques fijos
+
+TODO
+
+## Ejercicio 2: Movimiento de un Servo con ángulos pequeño y grande
+
+TODO
 
 # Motorbit paramétrico  
 
