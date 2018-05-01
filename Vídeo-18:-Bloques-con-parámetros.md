@@ -226,8 +226,9 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
   * El enunciado está en [este apartado](#ejercicio-1-tocar-las-notas-doremifa-con-dos-switches)
 
+* **Ejercicio 2** (Total **5 Bitpoints**): 
 
-* **Ejercicio 2** (Total **x Bitpoints**): 
+  * El enunciado está en [este apartado](#ejercicio-2-movimiento-de-un-servo-con-%C3%A1ngulos-peque%C3%B1o-y-grande)
 
 * **Ejercicio 3** (Total **x Bitpoints**): 
 
