@@ -213,8 +213,6 @@ En el modo ángulo grande, el servo se moverá entre sus **dos extremos**
 
 TODO
 
-Temporizador?  
-
 
 # Ejercicios propuestos (20 BitPoints)
 
