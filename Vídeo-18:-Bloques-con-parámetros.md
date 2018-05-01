@@ -199,6 +199,8 @@ Todavía no sabemos cómo crear esos bloques, pero lo aprenderemos en los **tuto
 
 ## Ejercicio 2: Movimiento de un Servo con ángulos pequeño y grande
 
+https://www.youtube.com/watch?v=uMLxEvIMIeM
+
 TODO
 
 # Motorbit paramétrico  
