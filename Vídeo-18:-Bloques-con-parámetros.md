@@ -132,7 +132,7 @@ Al **probar** el circuito veremos que inicialmente el LED está **apagado** dura
 
 ## Ejercicio 1: Tocar las notas DO,RE,MI,FA con dos switches
 
-TODO
+[![Click to see the youtube video](http://img.youtube.com/vi/vpLthAkkWCM/0.jpg)](https://www.youtube.com/watch?v=vpLthAkkWCM)
 
 # Servobit paramétrico  
 
