@@ -31,7 +31,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Servobit paramétrico](#servobit-param%C3%A9trico)
   * [Tabla de valores para los parámetros (PX)](#tabla-de-valores-de-los-par%C3%A1metros-px)
   * [Ejemplo 4:Cambiando las posiciones al servobit](#ejemplo-4-cambiando-las-posiciones-al-servobit)
-  * [Bloques servobit fijos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-18:-Bloques-con-par%C3%A1metros#bloques-fijos-1)
+  * [Bloques servobit fijos](#bloques-servobit-fijos)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
