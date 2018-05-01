@@ -223,7 +223,7 @@ El bloque parámetrico se llama igual: motorbit, y se encuentra en el mismo luga
 
 Tiene tres parámetros: **V0**, **V1** y **V2**. Los tres representan valores de la **anchura del pulso** en **microsegundos**, igual que en el caso del servobit (Los servos de rotación continua usan la misma señal PWM que los servos normales)
 
-* **V0**: Anchura del pulso de la posición que hace que el servo esté parado. Típicamente vale 1500 microsengudos (1.5ms)
+* **V0**: Anchura del pulso de la posición que hace que el **servo esté parado**. Típicamente vale **1500 microsengudos** (1.5ms)
 * **V1**: Anchura del pulso de la posición en la que el servo se mueve en **sentido horario**. Para el servo **SM-S4303R**, valores mayores o iguales a **1900** hacen que se mueva en **sentido horario** a **máxima velocidad**. Valores entre **1900 y 1500** hacen que la **velocidad sea menor**
 * **V2**: Anchura del pulso de la posición en la que el servo se mueve en **sentido antihorario**. Valores inferiores o iguales a **1100** hacen que el servo se mueve a la **máxima velocidad** en sentido **antihorario**. Valores entre **1500 y 1100** hacen que la velocidad sea menor (cuanto más cerca de V0 menor es la velocidad)
 
