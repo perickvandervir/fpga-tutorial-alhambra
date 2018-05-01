@@ -187,7 +187,7 @@ Si **cargamos** ahora el circuito para probarlo, veremos que el arco que recorre
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/servobit-param-5.png)
 
-## Bloques fijos
+## Bloques Servobit fijos
 
 TODO
 
