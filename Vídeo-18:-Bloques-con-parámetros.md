@@ -132,6 +132,20 @@ Al **probar** el circuito veremos que inicialmente el LED está **apagado** dura
 
 ## Ejercicio 1: Tocar las notas DO,RE,MI,FA con dos switches
 
+Diseñar un circuito digital que pueda tocar **4 notas** diferentes: Do-re-mi-fa 
+Las notas se seleccionan mediante *dos interruptores externos**. Al apretarse un **pulsador externo** sonará la nota seleccionada
+
+Las **frecuencias** de las notas a tocar son:
+
+* **Do**:  131 Hz
+* **Re**:  147 Hz
+* **Mi**:  165 Hz
+* **Fa**:  175 Hz
+
+Consejo: Utilizar un multiplexor 4:1
+
+* En este **Vídeo en youtube** se muestra su funcionamiento
+
 [![Click to see the youtube video](http://img.youtube.com/vi/vpLthAkkWCM/0.jpg)](https://www.youtube.com/watch?v=vpLthAkkWCM)
 
 # Servobit paramétrico  
