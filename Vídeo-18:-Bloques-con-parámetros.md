@@ -30,7 +30,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejercicio 1: Tocar las notas DO,RE,MI,FA con dos switches](#ejercicio-1-tocar-las-notas-doremifa-con-dos-switches)
 * [Servobit paramétrico](#servobit-param%C3%A9trico)
   * [Tabla de valores para los parámetros (PX)](#tabla-de-valores-de-los-par%C3%A1metros-px)
-  * [Ejemplo 4:Cambiando las posiciones al servobit](#ejemplo-4-cambiando-las-posiciones-al-servobit)
+  * [Ejemplo 4: Cambiando las posiciones al servobit](#ejemplo-4-cambiando-las-posiciones-al-servobit)
   * [Bloques servobit fijos](#bloques-servobit-fijos)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
