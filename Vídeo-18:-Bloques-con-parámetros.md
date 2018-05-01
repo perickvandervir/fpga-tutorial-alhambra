@@ -32,6 +32,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Tabla de valores para los parámetros (PX)](#tabla-de-valores-de-los-par%C3%A1metros-px)
   * [Ejemplo 4: Cambiando las posiciones al servobit](#ejemplo-4-cambiando-las-posiciones-al-servobit)
   * [Bloques servobit fijos](#bloques-servobit-fijos)
+  * [Ejercicio 2: Movimiento de un servo con ángulos pequeño y grande](#ejercicio-2-movimiento-de-un-servo-con-%C3%A1ngulos-peque%C3%B1o-y-grande)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
