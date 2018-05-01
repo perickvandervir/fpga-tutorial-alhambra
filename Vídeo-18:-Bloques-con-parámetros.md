@@ -202,7 +202,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 1** (Total **5 Bitpoints**): Notas DO-RE-MI-FA
 
-El enunciado está en [este apartado]()
+El enunciado está en [este apartado](#ejercicio-1-tocar-las-notas-doremifa-con-dos-switches)
 
 
 * **Ejercicio 2** (Total **x Bitpoints**): 
