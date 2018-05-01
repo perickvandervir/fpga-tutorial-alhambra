@@ -189,7 +189,13 @@ Si **cargamos** ahora el circuito para probarlo, veremos que el arco que recorre
 
 ## Bloques Servobit fijos
 
-TODO
+Igual que hicimos con el **corazón paramétrico**, podemos definir bloques en los que el **ángulo** entre las posiciones P0 y P1 esté **fijado**, y no haya que usar parámetros. Estos bloques están formados a partir de un **bloque genérico** al que se le han asignado unos **valores fijos**. Es el caso de los componentes Servobit-90, cuyo ángulo entre P0 y P1 se ha fijado en 90 grados
+
+En esta **animación** vemos el interior del bloque **Servobit-90** para servos **Emax-ES08A**
+
+(Animación)
+
+Todavía no sabemos cómo crear esos bloques, pero lo aprenderemos en los **tutoriales venideros**
 
 ## Ejercicio 2: Movimiento de un Servo con ángulos pequeño y grande
 
