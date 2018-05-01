@@ -194,13 +194,16 @@ TODO
 Temporizador?  
 
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (20 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **x Bitpoints**): 
+* **Ejercicio 1** (Total **5 Bitpoints**): Notas DO-RE-MI-FA
+
+El enunciado está en [este apartado]()
+
 
 * **Ejercicio 2** (Total **x Bitpoints**): 
 
