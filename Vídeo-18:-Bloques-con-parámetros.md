@@ -193,7 +193,7 @@ Igual que hicimos con el **corazón paramétrico**, podemos definir bloques en l
 
 En esta **animación** vemos el interior del bloque **Servobit-90** para servos **Emax-ES08A**
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/servobit-param-6.gif)
 
 Todavía no sabemos cómo crear esos bloques, pero lo aprenderemos en los **tutoriales venideros**
 
