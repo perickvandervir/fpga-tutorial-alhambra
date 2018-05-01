@@ -215,6 +215,12 @@ En el modo ángulo grande, el servo se moverá entre sus **dos extremos**
 
 Con el controlador **Motorbit** que hemos usado hasta ahora las velocidades usadas tanto para el sentido horario como el antihorario eran las máximas que podía el servo. Sin embargo, con el **motorbit paramétrico** se puede establecer velocidades menores, para cada sentido
 
+El que usaremos es para el **servo SM-S4303R**, pero al ser parámetrico, se puede adaptar a cualquier otro servo de **rotación continua** que tenga **20ms** de periodo de señal (que son las mayoría)
+
+El bloque parámetrico se llama igual: motorbit, y se encuentra en el mismo lugar que el anterior: en el menú **Varios/Motor/SM-S4303R/Motorbit**
+
+(Dibujo del bloque con sus parámetros)
+
 TODO
 
 
