@@ -165,9 +165,7 @@ El sevo se mueve **igual** que cuando usábamos el **servobit-90**. Ahora le añ
 
 Si **cargamos** ahora el circuito para probarlo, veremos que el arco que recorre el servo es mucho más amplio que antes
 
-(foto con el arco de los dos servos con diferentes parámetros)
-
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/servobit-param-5.png)
 
 
 # Motorbit paramétrico  
