@@ -199,9 +199,15 @@ Todavía no sabemos cómo crear esos bloques, pero lo aprenderemos en los **tuto
 
 ## Ejercicio 2: Movimiento de un Servo con ángulos pequeño y grande
 
-https://www.youtube.com/watch?v=uMLxEvIMIeM
+Diseñar un circuito digital para mover un servo a dos posiciones diferentes,  
+controladas por un **pulsador**. Mediante un **interruptor externo** seleccionaremos  
+entre dos modos: **ángulo pequeño** y **ángulo grande**.  En el modo ángulo pequeño,  
+el servo se mueve entre dos posiciones, separadas un ángulo pequeño, menor de 90.  
+En el modo ángulo grande, el servo se moverá entre sus **dos extremos**
 
-TODO
+* En este **vídeo en Youtube** se puede ver un ejemplo de funcionamiento
+
+[![Click to see the youtube video](http://img.youtube.com/vi/uMLxEvIMIeM/0.jpg)](https://www.youtube.com/watch?v=uMLxEvIMIeM)
 
 # Motorbit paramétrico  
 
