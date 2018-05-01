@@ -221,6 +221,12 @@ El bloque parámetrico se llama igual: motorbit, y se encuentra en el mismo luga
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/motorbit-param-1.png)
 
+(Explicación parámetros)
+
+(Ejemplo)
+
+(Ejercicio)
+
 TODO
 
 
