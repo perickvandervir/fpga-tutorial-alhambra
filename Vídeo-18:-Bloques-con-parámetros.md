@@ -219,7 +219,7 @@ El que usaremos es para el **servo SM-S4303R**, pero al ser parámetrico, se pue
 
 El bloque parámetrico se llama igual: motorbit, y se encuentra en el mismo lugar que el anterior: en el menú **Varios/Motor/SM-S4303R/Motorbit**
 
-(Dibujo del bloque con sus parámetros)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/motorbit-param-1.png)
 
 TODO
 
