@@ -240,6 +240,8 @@ Como ejemplo vamos a mover el servo de rotación continua **SpringRC SM4303R** a
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/motorbit-param-3.jpg)
 
+Primero probamos el **motorbit paramétrico** con sus **valores por defecto**, sin asignar constantes. El motor se moverá igual que en los tutoriales anteriores. El circuito es el siguiente:
+
 (pantallazo circuito 1 sin parametros)
 
 (pantallazo circuito 2 con V1 y V2 (sin V0)
