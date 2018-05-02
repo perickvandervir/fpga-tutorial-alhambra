@@ -277,7 +277,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
   * El enunciado está en [este apartado](#ejercicio-2-movimiento-de-un-servo-con-%C3%A1ngulos-peque%C3%B1o-y-grande)
 
-* **Ejercicio 3** (Total **5 Bitpoints**): 
+* **Ejercicio 3** (Total **5 Bitpoints**): Servo con dos velocidades en cada sentido
 
   * El enunciado está en [este apartado](#ejercicio-3-servo-con-dos-velocidades-en-cada-sentido)
 
