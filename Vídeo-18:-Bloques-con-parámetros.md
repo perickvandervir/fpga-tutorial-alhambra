@@ -253,7 +253,7 @@ Al **cargarlo** en la placa, veremos que funciona igual que antes, pero las dos 
 
 ## Ejercicio 3: Servo con dos velocidades en cada sentido
 
-TODO
+https://www.youtube.com/watch?v=M9iuAXRoF8g
 
 
 # Ejercicios propuestos (20 BitPoints)
