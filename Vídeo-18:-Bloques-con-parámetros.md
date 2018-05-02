@@ -35,6 +35,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejercicio 2: Movimiento de un servo con ángulos pequeño y grande](#ejercicio-2-movimiento-de-un-servo-con-%C3%A1ngulos-peque%C3%B1o-y-grande)
 * [Motorbit paramétrico](#motorbit-param%C3%A9trico)
   * [Ejemplo 5: reduciendo las velocidades de motorbit](#ejemplo-5-reduciendo-las-velocidades-de-motorbit)
+  * [Ejercicio 3: Servo con dos velocidades en cada sentido](#ejercicio-3-servo-con-dos-velocidades-en-cada-sentido)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
