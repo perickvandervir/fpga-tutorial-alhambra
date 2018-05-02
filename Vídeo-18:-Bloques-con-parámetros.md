@@ -253,8 +253,15 @@ Al **cargarlo** en la placa, veremos que funciona igual que antes, pero las dos 
 
 ## Ejercicio 3: Servo con dos velocidades en cada sentido
 
-https://www.youtube.com/watch?v=M9iuAXRoF8g
+Diseñar un circuito digital para mover un servo de **rotación continua** con **dos  
+velocidades** diferentes en cada entido. Se utilizarán **dos interruptores externos**  
+uno para establecer la **velocidad**: rápida/lenta, y otro para fijar el  
+**sentido de giro**: horario/antohorario. Usaremos un **pulsador externo** para que  
+el motor se mueva al pulsarlo, o esté parado al soltarlo
 
+* En este **vídeo en Youtube** se puede ver un ejemplo de funcionamiento
+
+[![Click to see the youtube video](http://img.youtube.com/vi/M9iuAXRoF8g/0.jpg)](https://www.youtube.com/watch?v=M9iuAXRoF8g)
 
 # Ejercicios propuestos (20 BitPoints)
 
