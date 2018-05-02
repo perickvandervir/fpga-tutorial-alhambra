@@ -229,6 +229,10 @@ Tiene tres parámetros: **V0**, **V1** y **V2**. Los tres representan valores de
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/motorbit-param-2.png)
 
+En esta figura se representan gráficamente los **parámetros** y todos sus posibles valores para el servo **SpringRC SM4303R**. El parámetro más importante es **V0**, que determina el punto en el que el servo está **parado**. **V1** tiene **valores mayores a V0**, para hacer que el servo gire en **sentido horario**. Cuando alcanza el valor **V1max**, la velocidad es **máxima**, en este sentido. Todavía se puede seguir incrementando V1 hasta llegar a **V1limit**, pero la velocidad seguirá siendo la máxima.
+
+Lo mismo sucede con **V2**. Su valor siempre es **menor a V0**, para hacer que gire en sentido antihorario. Cuando su valor llega a **V2min**, la velocidad es máxima, en sentido antihorario. El parámetro se puede seguir decrementando hasta alcanzar **v2limit**, pero la velocidad no variará 
+
 (Ejemplo)
 
 (Ejercicio)
