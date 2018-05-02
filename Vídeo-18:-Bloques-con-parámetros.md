@@ -279,6 +279,8 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 3** (Total **5 Bitpoints**): 
 
+  * El enunciado está en [este apartado](#ejercicio-3-servo-con-dos-velocidades-en-cada-sentido)
+
 * **Ejercicio 4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
