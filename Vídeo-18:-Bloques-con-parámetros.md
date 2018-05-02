@@ -236,6 +236,12 @@ Lo mismo sucede con **V2**. Su valor siempre es **menor a V0**, para hacer que g
 
 ## Ejemplo 5: Reduciendo las velocidades de Motorbit
 
+(foto escenarario)
+
+(pantallazo circuito 1 sin parametros)
+
+(pantallazo circuito 2 con V1 y V2 (sin V0)
+
 TODO
 
 ## Ejercicio 3: Servo con dos velocidades en cada sentido
