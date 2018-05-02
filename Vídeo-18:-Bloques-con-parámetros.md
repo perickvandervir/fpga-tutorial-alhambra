@@ -233,9 +233,11 @@ En esta figura se representan gráficamente los **parámetros** y todos sus posi
 
 Lo mismo sucede con **V2**. Su valor siempre es **menor a V0**, para hacer que gire en sentido antihorario. Cuando su valor llega a **V2min**, la velocidad es máxima, en sentido antihorario. El parámetro se puede seguir decrementando hasta alcanzar **v2limit**, pero la velocidad no variará 
 
-(Ejemplo)
+## Ejemplo 5: Reduciendo las velocidades de Motorbit
 
-(Ejercicio)
+TODO
+
+## Ejercicio 3: Servo con dos velocidades en cada sentido
 
 TODO
 
