@@ -33,7 +33,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 4: Cambiando las posiciones al servobit](#ejemplo-4-cambiando-las-posiciones-al-servobit)
   * [Bloques servobit fijos](#bloques-servobit-fijos)
   * [Ejercicio 2: Movimiento de un servo con ángulos pequeño y grande](#ejercicio-2-movimiento-de-un-servo-con-%C3%A1ngulos-peque%C3%B1o-y-grande)
-  * [Pinza mecánica](#ejemplo-5-pinza-mec%C3%A1nica)
+  * [Ejemplo 5: Pinza mecánica](#ejemplo-5-pinza-mec%C3%A1nica)
 * [Motorbit paramétrico](#motorbit-param%C3%A9trico)
   * [Ejemplo 5: reduciendo las velocidades de motorbit](#ejemplo-5-reduciendo-las-velocidades-de-motorbit)
   * [Ejercicio 3: Servo con dos velocidades en cada sentido](#ejercicio-3-servo-con-dos-velocidades-en-cada-sentido)
