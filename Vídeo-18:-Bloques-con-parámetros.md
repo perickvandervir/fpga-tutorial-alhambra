@@ -242,7 +242,11 @@ Como ejemplo vamos a mover el servo de rotación continua **SpringRC SM4303R** a
 
 Primero probamos el **motorbit paramétrico** con sus **valores por defecto**, sin asignar constantes. El motor se moverá igual que en los tutoriales anteriores. El circuito es el siguiente:
 
-(pantallazo circuito 1 sin parametros)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/motorbit-param-4.png)
+
+Ahora le damos vamos a **V1** y **V2** para **reducir la velocidad**. El parámetro **V0** de dejamos con su **valor por defecto**. Sería necesario cambiarlo si estamos usando modelos de servos diferentes. A **V1** le damos por ejemplo un valor de **1600 μs**. Como es mayor del valor de V0 (1500 μs), se moverá en **sentido horario**, y como es menor de **V1max** (1900 μs) la velocidad será menor a la máxima. Al parámetro **V2** le damos un valor de **1400 μs**, para que se mueva despacio
+
+
 
 (pantallazo circuito 2 con V1 y V2 (sin V0)
 
