@@ -213,6 +213,10 @@ En el modo ángulo grande, el servo se moverá entre sus **dos extremos**
 
 [![Click to see the youtube video](http://img.youtube.com/vi/uMLxEvIMIeM/0.jpg)](https://www.youtube.com/watch?v=uMLxEvIMIeM)
 
+## Ejemplo 5: Pinza mecánica
+
+TODO
+
 # Motorbit paramétrico  
 
 Con el controlador **Motorbit** que hemos usado hasta ahora las velocidades usadas tanto para el sentido horario como el antihorario eran las máximas que podía el servo. Sin embargo, con el **motorbit paramétrico** se puede establecer velocidades menores, para cada sentido
