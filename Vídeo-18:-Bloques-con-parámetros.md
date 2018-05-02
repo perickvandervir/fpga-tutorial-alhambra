@@ -236,6 +236,8 @@ Lo mismo sucede con **V2**. Su valor siempre es **menor a V0**, para hacer que g
 
 ## Ejemplo 5: Reduciendo las velocidades de Motorbit
 
+Como ejemplo vamos a mover el servo de rotación continua **SpringRC SM4303R** a una **velocidad menor** de la que ya conocemos. El escenario que vamos a utilizar es el siguiente: colocremos un **interruptor externo** para establacer el sentido de giro, y un **pulsador** para mover/parar el motor
+
 (foto escenarario)
 
 (pantallazo circuito 1 sin parametros)
