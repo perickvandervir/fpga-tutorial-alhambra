@@ -216,9 +216,17 @@ En el modo ángulo grande, el servo se moverá entre sus **dos extremos**
 
 ## Ejemplo 5: Pinza mecánica
 
-Como ejemplo de aplicación de nuevo bloque servobit paramétrico, lo usaremos para abrir y cerrar esta [Pinza mecánica](http://www.iearobotics.com/wiki/index.php?title=Freecad:_Pinza_mecanica), imprimible en 3D, que tiene un **mecanismo paralelo** que le permite agarrar objetos
+Como ejemplo de **aplicación** de nuevo bloque **servobit paramétrico**, lo usaremos para abrir y cerrar esta [Pinza mecánica](http://www.iearobotics.com/wiki/index.php?title=Freecad:_Pinza_mecanica), imprimible en 3D, que tiene un **mecanismo paralelo** que le permite agarrar objetos
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/servobit-param-7.png)
 
+Las piezas se **imprimen en 3D** y se ensamblan. La parte superior queda así:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/servobit-param-8.jpg)
+
+y por la parte posterior se coloca un **micro-servo**, atornillado a la **base de la pinza**:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/servobit-param-9.jpg)
 
 TODO
 
