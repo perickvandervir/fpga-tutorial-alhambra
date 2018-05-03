@@ -10,7 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-(TODO...)
+Hasta ahora hemos utilizado bloques específicos que hacían una función concreta. Aprenderemos a usar los **bloques genéricos**, que nos permiten crear **bloques específicos** mediante la asignación de valores a sus **parámetros**. Lo aplicaremos al manejo de tres nuevos componentes paramétricos: el **corazon**, el **servobit** y el **motorbit**. Esto nos permitirá fijar la frecuencia, el periodo, el ángulo del servo o la velocidad a valores diferentes de los establecidos por defecto
 
 # Colección
 
