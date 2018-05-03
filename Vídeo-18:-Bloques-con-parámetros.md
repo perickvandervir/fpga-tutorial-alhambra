@@ -234,9 +234,7 @@ Haremos un circuito para poder **abrir** y **cerrar** la pinza usando un **pulsa
 
 En este **vídeo en youtube** se muestra un **ejemplo** de funcionamiento
 
-(Video demo de la pinza en youtube)
-
-TODO
+[![Click to see the youtube video](http://img.youtube.com/vi/lTvd8dPOzsI/0.jpg)](https://www.youtube.com/watch?v=lTvd8dPOzsI)
 
 # Motorbit paramétrico  
 
