@@ -24,7 +24,7 @@ Hasta ahora hemos utilizado bloques específicos que hacían una función concre
   * [Ejemplo 2: Estableciendo la frecuencia a 4Hz](#ejemplo-2-estableciendo-la-frecuencia-a-4hz)
   * [Circuitos reales y parámetros](#circuitos-reales-y-par%C3%A1metros)
   * [Bloques fijos](#bloques-fijos)
-  * [Fijando el periodo](#ejemplo-3-fijando-el-periodo)
+  * [Ejemplo 3: Fijando el periodo](#ejemplo-3-fijando-el-periodo)
   * [Ejercicio 1: Tocar las notas DO,RE,MI,FA con dos switches](#ejercicio-1-tocar-las-notas-doremifa-con-dos-switches)
 * [Servobit paramétrico](#servobit-param%C3%A9trico)
   * [Tabla de valores para los parámetros (PX)](#tabla-de-valores-de-los-par%C3%A1metros-px)
