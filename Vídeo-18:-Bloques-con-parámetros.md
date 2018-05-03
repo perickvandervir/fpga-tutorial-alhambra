@@ -228,6 +228,12 @@ y por la parte posterior se coloca un **micro-servo**, atornillado a la **base d
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/servobit-param-9.jpg)
 
+Haremos un circuito para poder **abrir** y **cerrar** la pinza usando un **pulsador externo**. Sólo hay que colocar el servobit paramétrico y dar los **valores** adecuados a sus **parámetros**. En **P1** especificamos el valor para que la **pinza esté abierta**. Estos valores dependen de cómo hayamos colocado el servo a la pinza, y en general serán diferentes para cada pinza. En mi caso, el valor de **P1** es de **2050 μs**. En **P0** colocamos el valor para que la **pinza esté cerrada**: **1500 μs**
+
+(Circuito)
+
+(Video demo de la pinza en youtube)
+
 TODO
 
 # Motorbit paramétrico  
