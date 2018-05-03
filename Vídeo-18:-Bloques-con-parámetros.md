@@ -216,6 +216,8 @@ En el modo ángulo grande, el servo se moverá entre sus **dos extremos**
 
 ## Ejemplo 5: Pinza mecánica
 
+[http://www.iearobotics.com/wiki/index.php?title=Freecad:_Pinza_mecanica](Pinza paralela)
+
 TODO
 
 # Motorbit paramétrico  
