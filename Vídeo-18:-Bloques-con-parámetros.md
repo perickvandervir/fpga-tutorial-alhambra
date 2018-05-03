@@ -14,7 +14,7 @@ Hasta ahora hemos utilizado bloques específicos que hacían una función concre
 
 # Colección
 
-**Academia-Jedi-HW-18.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-18.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-18/Collection/Academia-Jedi-HW-18.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
