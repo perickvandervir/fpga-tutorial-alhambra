@@ -171,8 +171,8 @@ Es **MUY IMPORTANTE** NO dar valores mayores de PMAX ni menores de PMIN. Esto ll
 | Servo               | Pmax(μs)  | Pmin(μs) |  P1(μs)  |  P0(μs)  |
 |---------------------|-----------|----------|----------|----------|
 |  **Futaba 3003**    |  2410     |  380     |  1670    |   820    |
-|  **Emax-ES808A**    |  2550     |  580     |  1000    |  2000    |
-|  **TowerPro SG-90** |  2350     |  500     |  1000    |  2000    |
+|  **Emax-ES808A**    |  2550     |  580     |  2000    |  1000    |
+|  **TowerPro SG-90** |  2350     |  500     |  2000    |  1000    |
 
 ## Ejemplo 4: Cambiando las posiciones al servobit
 
