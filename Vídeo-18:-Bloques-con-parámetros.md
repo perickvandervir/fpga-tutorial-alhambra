@@ -329,11 +329,11 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 [![Click to see the youtube video](http://img.youtube.com/vi/yO9TQ43rwD4/0.jpg)](https://www.youtube.com/watch?v=yO9TQ43rwD4)
 
 ### Ejercicio 4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-18/jcubilloarr/4.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/b1j1Pc9CB_E/0.jpg)](https://www.youtube.com/watch?v=b1j1Pc9CB_E)
 
 
 ## Segundo
