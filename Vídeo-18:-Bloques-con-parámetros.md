@@ -35,6 +35,7 @@ Hasta ahora hemos utilizado bloques específicos que hacían una función concre
   * [Ejercicio 3: Servo con dos velocidades en cada sentido](#ejercicio-3-servo-con-dos-velocidades-en-cada-sentido)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
+  * [Joaquín Cubillo (jcubilloarr)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-18:-Bloques-con-par%C3%A1metros#joaqu%C3%ADn-cubillo-jcbubilloarr)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces) 
