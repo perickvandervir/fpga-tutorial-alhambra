@@ -304,10 +304,10 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 # Ejercicios entregados
 
-## Primero
+## Joaquín Cubillo (jcbubilloarr)
 
 ### Ejercicio 1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-18/jcubilloarr/1.png)
 
 * **Vídeo** en Youtube:
 
