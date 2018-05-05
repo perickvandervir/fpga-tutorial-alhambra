@@ -337,7 +337,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 [![Click to see the youtube video](http://img.youtube.com/vi/b1j1Pc9CB_E/0.jpg)](https://www.youtube.com/watch?v=b1j1Pc9CB_E)
 
 
-## Josep Klaro (klarojms)
+## Josep Montoliu (klarojms)
 
 ### Ejercicio 1
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-18/klarojms/Ejercicio%201-1.png)
