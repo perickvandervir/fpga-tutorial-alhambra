@@ -312,7 +312,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/JjcPB2LBj0U/0.jpg)](https://www.youtube.com/watch?v=JjcPB2LBj0U)
 
 ### Ejercicio 2
 ![]()
