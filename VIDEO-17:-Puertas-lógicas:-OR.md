@@ -27,7 +27,7 @@ La **puerta lógica OR** nos permite hacer **manipulaciones** de bits. Aprendere
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Federico Coca](#federico-coca-fgcoca)
   * [Josep klaro](#josep-klaro-klarojms)
-  * [Joaquín Cubillo (jcbubilloarr)](#joaqu%C3%ADn-cubillo-jcubilloarr)
+  * [Joaquín Cubillo (jcubilloarr)](#joaqu%C3%ADn-cubillo-jcubilloarr)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
