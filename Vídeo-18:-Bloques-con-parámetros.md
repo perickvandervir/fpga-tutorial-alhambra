@@ -340,11 +340,11 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 ## Josep Klaro (klarojms)
 
 ### Ejercicio 1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-18/klarojms/Ejercicio%201-1.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/4OEgpp80KOE/0.jpg)](https://www.youtube.com/watch?v=4OEgpp80KOE)
 
 ### Ejercicio 2
 ![]()
