@@ -1,7 +1,5 @@
 ![]()
 
-TODO: Actualizar las faqs con las del tutorial 18!!!!
-
 # Vídeo
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
