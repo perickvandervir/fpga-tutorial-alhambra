@@ -336,7 +336,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 [![Click to see the youtube video](http://img.youtube.com/vi/b1j1Pc9CB_E/0.jpg)](https://www.youtube.com/watch?v=b1j1Pc9CB_E)
 
 
-## Segundo
+## Josep Klaro (klarojms)
 
 ### Ejercicio 1
 ![]()
