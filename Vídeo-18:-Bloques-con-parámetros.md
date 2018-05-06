@@ -367,14 +367,13 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 [![Click to see the youtube video](http://img.youtube.com/vi/_r4M1gDY2aU/0.jpg)](https://www.youtube.com/watch?v=_r4M1gDY2aU)
 
-## Tercero
+## Jose López
 
 ### Ejercicio 1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-18/Jose%20Lopez/ejercicio_18-1.jpg)
 
-* **Vídeo** en Youtube:
+* [Vídeo en twitter](https://twitter.com/joselopez_ga/status/992744135445635072)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ### Ejercicio 2
 ![]()
