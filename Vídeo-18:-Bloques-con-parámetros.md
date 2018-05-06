@@ -361,11 +361,11 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 [![Click to see the youtube video](http://img.youtube.com/vi/YS82X8YiUFs/0.jpg)](https://www.youtube.com/watch?v=YS82X8YiUFs)
 
 ### Ejercicio 4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-18/klarojms/Ejercicio%204-2.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/_r4M1gDY2aU/0.jpg)](https://www.youtube.com/watch?v=_r4M1gDY2aU)
 
 ## Tercero
 
