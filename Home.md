@@ -55,7 +55,7 @@ Estudiante que se encuentran cursando el **segundo año** de la **academia de Ha
 |Divisa  | Nombe             | Rango    | BitPoints |
 |--------|-------------------|----------|-----------|
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/13-Padawan-N3-min.png)|     Joaquín Cubillo (jcubilloarr) | Padawan Nivel 3 | 260 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/13-Padawan-N3-min.png)|     Josep Montoliu (Klarojms) | Padawan Nivel 3 | 255 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/13-Padawan-N3-min.png)|     Josep Montoliu (Klarojms) | Padawan Nivel 3 | 260 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/13-Padawan-N3-min.png)|    Federico Coca | Padawan Nivel 3 | 240 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/13-Padawan-N3-min.png)|     Ximo Catala (Ximocat) | Padawan Nivel 3 | 240 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/12-Padawan-N2-min.png)|    Andrés Prieto-Moreno (aprieto) | Padawan Nivel 2 | 238 |
