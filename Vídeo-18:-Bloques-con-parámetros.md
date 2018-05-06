@@ -37,6 +37,7 @@ Hasta ahora hemos utilizado bloques específicos que hacían una función concre
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Joaquín Cubillo (jcubilloarr)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-18:-Bloques-con-par%C3%A1metros#joaqu%C3%ADn-cubillo-jcubilloarr)
   * [Josep Montoliu (klarojms)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-18:-Bloques-con-par%C3%A1metros#josep-montoliu-klarojms)
+  * [Jose López](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-18:-Bloques-con-par%C3%A1metros#jose-l%C3%B3pez)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces) 
