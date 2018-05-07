@@ -36,6 +36,8 @@ Los circuitos digitales realizan tres operaciones con los bits: **manipular**, *
 
 Todos los circuitos combinaciones se caracterizan porque **NO tienen memoria**. Las operaciones que realizan son siempre las mismas, y **no dependen** de los datos que hayan recibido en el pasado. Una operación AND entre dos bits es siempre la misma, da igual el valor de las entradas en el pasado. Da igual si en el pasado ha hecho 2000 operaciones. Si en el instante actual ambas entradas están a 1, entonces la salida será 1 
 
+## Tablas de verdad
+
 Una característica **muy importante** de los **circuitos combinaciones** es que quedan **totalmente definidos** por su **tabla de verdad**. En ella se especifica el valor de todas sus salidas para todas las combinaciones posibles de sus entradas. Así, de forma genérica, un circuito combinacional de dos entradas y una salida tendrá una tabla con la siguiente pinta:
 
 (Dibujo de tabla de 2x1, genérica, y el circuito genérico)
