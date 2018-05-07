@@ -21,6 +21,7 @@ TODO
 # Contenido
 
 * [Introducción](#introducci%C3%B3n)
+  * [Tablas de verdad](#tablas-de-verdad)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
