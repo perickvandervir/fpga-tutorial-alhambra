@@ -34,7 +34,9 @@ Los circuitos digitales realizan tres operaciones con los bits: **manipular**, *
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/intro-1.png)
 
-(descripción)
+Todos los circuitos combinaciones se caracterizan porque **NO tienen memoria**. Las operaciones que realizan son siempre las mismas, y **no dependen** de los datos que hayan recibido en el pasado. Una operación AND entre dos bits es siempre la misma, da igual el valor de las entradas en el pasado. Da igual si en el pasado ha hecho 2000 operaciones. Si en el instante actual ambas entradas están a 1 entonces la salida será 1 
+
+(descripción de circuitos combinaciones como tablas de verdad)
 
 TODO
 
