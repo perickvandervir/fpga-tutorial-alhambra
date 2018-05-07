@@ -32,7 +32,7 @@ TODO
 
 Los circuitos digitales realizan tres operaciones con los bits: **manipular**, **almacenar** y **transportar**. El transporte se realiza gracias a los cables. Los circuitos que realizan las **manipulaciones** pero no hacen ningún tipo de almacenamiento de información se denominan **combinacionales**. Ya hemos visto varios ejemplos de ellos: las puertas lógicas (AND, OR, NOT) y los multiplexores, pero hay muchos más circuitos combinacionales
 
-(Dibujo con puertas lógicas que hemos visto y los multiplexores)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/intro-1.png)
 
 (descripción)
 
