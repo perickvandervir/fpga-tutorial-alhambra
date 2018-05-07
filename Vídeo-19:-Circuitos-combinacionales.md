@@ -30,6 +30,8 @@ TODO
 
 # Introducción
 
+Los circuitos digitales realizan tres operaciones con los bits: **manipular**, **almacenar** y **transportar**. El transporte se realiza gracias a los cables. Los circuitos que realizan las **manipulaciones** pero no hacen ningún tipo de almacenamiento de información se denominan **combinaciones**
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
