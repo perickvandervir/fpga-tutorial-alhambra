@@ -67,6 +67,7 @@ Estudiante que se encuentran cursando el **segundo año** de la **academia de Ha
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/11-Padawan-N1-min.png)|    Talud08 (@javivicen) | Padawan Nivel 1 | 185 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|     Viriato (@SrViriato)  | Padawan | 170 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Jose Luis (@movilujo)  | Padawan | 162 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Migue (@Migueabellan)  | Padawan | 162 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Jorge Lobo (Lobotic)  | Padawan | 158 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Fernando Coladas (@fcoladas)  | Padawan | 156 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|   Koyikabuto (clonehazard,chetosvsgeez )  | Padawan | 153 |
@@ -80,7 +81,6 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 
 |Divisa  | Nombe             | Rango    | BitPoints |
 |--------|-------------------|----------|-----------|
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|    Migue (@Migueabellan)  | Aspirante a Padawan Nivel-3 | 148 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|   Felix J. Marcelo(wernitzer)  | Aspirante a Padawan Nivel-3 | 147 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|   Gut-mart  | Aspirante a Padawan Nivel-3 | 146 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|   Jordi R. Crespo  | Aspirante a Padawan Nivel-3 | 133 |
