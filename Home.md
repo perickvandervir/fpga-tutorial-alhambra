@@ -262,7 +262,7 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 
 ## Noticias
 
-### 8-Mayo-2018: CTIF Madrid capital en la Academia de Hardware Jedi
+### 8-Mayo-2018: CTIF Madrid capital en la Academia Jedi de Hardware
 
 Los matriculados en el curso [Diseño de sistemas digitales en Verilog usando FPGAs Libres](https://github.com/Obijuan/CTIF-Madrid-2018-FPGAs-Libres/wiki) organizado por el [CTIF Madrid Capital](http://ctif.madridcapital.educa.madrid.org/) pueden optativamente, entrar en la Academia Jedi de Hardware
 
