@@ -70,8 +70,8 @@ Estudiante que se encuentran cursando el **segundo año** de la **academia de Ha
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Migue (@Migueabellan)  | Padawan | 162 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Jorge Lobo (Lobotic)  | Padawan | 158 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Fernando Coladas (@fcoladas)  | Padawan | 156 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Felix J. Marcelo(wernitzer)  | Padawan | 156 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|   Koyikabuto (clonehazard,chetosvsgeez )  | Padawan | 153 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Felix J. Marcelo(wernitzer)  | Padawan | 153 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Enea Kao (@Eneakao)  | Padawan | 150 |
 
 ### Primer curso
