@@ -45,7 +45,7 @@ Una característica **muy importante** de los **circuitos combinaciones** es que
 
 El circuito de ejemplo tiene **2 entradas**, llamadas **a** y **b**, y una **salida**, denominada **c**. En la **tabla de verdad** se representan las salidas del circuito cuando se dan todas las **combinaciones** posibles en las entradas. Estas combinaciones de a y b es lo que se muestra en la parte de la izquierda de la tabla. En la derecha se ponen los valores asociados a sus entradas. En el dibujo se han marcado como **X** para indicar que pueden valer tanto 0 como 1 (esto depende del circuito particular que implementemos)
 
-# Circuitos combinacionales de 1 bit de salida
+# Circuitos combinacionales de una salida
 
 Comenzaremos experimentando con los circuitos combinaciones que tiene varias entradas pero **una única salida**
 
