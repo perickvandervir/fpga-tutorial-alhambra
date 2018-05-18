@@ -22,6 +22,7 @@ TODO
 
 * [Introducción](#introducci%C3%B3n)
   * [Tablas de verdad](#tablas-de-verdad)
+* [Circuitos combinacionales de una salida](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#circuitos-combinacionales-de-una-salida)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
