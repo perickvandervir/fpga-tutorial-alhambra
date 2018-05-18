@@ -47,6 +47,11 @@ El circuito de ejemplo tiene **2 entradas**, llamadas **a** y **b**, y una **sal
 
 # Circuitos combinacionales de 1 bit de salida
 
+Comenzaremos experimentando con los circuitos combinaciones que tiene varias entradas pero **una única salida**
+
+## Circuitos combacionales de 1 entrada y 1 salida
+
+
 TODO
 
 # Circuitos combinacionales de 2 bits de salida
