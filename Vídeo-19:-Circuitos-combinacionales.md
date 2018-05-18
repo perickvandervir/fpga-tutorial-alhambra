@@ -41,7 +41,7 @@ Todos los circuitos combinaciones se caracterizan porque **NO tienen memoria**. 
 
 Una característica **muy importante** de los **circuitos combinaciones** es que quedan **totalmente definidos** por su **tabla de verdad**. En ella se especifica el valor de todas sus salidas para todas las combinaciones posibles de sus entradas. Así, de forma genérica, un circuito combinacional de dos entradas y una salida tendrá una tabla con la siguiente pinta:
 
-(Dibujo de tabla de 2x1, genérica, y el circuito genérico)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/intro-2.png)
 
 TODO
 
