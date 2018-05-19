@@ -53,6 +53,9 @@ Comenzaremos experimentando con los circuitos combinaciones que tiene varias ent
 
 ## Circuitos combacionales de 1 entrada y 1 salida
 
+Sólo hay dos circuitos combinacionales con una entrada y una salida, que se corresponde con la **puerta NOT** y la **puerta "identidad"**, es decir, un simple cable que sólo transmite bits
+
+(dibujo)
 
 TODO
 
