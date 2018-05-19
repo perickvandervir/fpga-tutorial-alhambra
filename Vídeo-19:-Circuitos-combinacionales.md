@@ -55,7 +55,7 @@ Comenzaremos experimentando con los circuitos combinaciones que tiene varias ent
 
 Sólo hay dos circuitos combinacionales con una entrada y una salida, que se corresponde con la **puerta NOT** y la **puerta "identidad"**, es decir, un simple cable que sólo transmite bits
 
-(dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-1x1-1.png)
 
 TODO
 
