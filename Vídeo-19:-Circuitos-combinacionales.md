@@ -61,6 +61,8 @@ Sólo hay dos circuitos combinacionales con una entrada y una salida, que se cor
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-1x1-1.png)
 
+(Circuitos en icestudio 0.3.3 con tablas)
+
 TODO
 
 # Circuitos combinacionales de 2 bits de salida
