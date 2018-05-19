@@ -51,7 +51,7 @@ El circuito de ejemplo tiene **2 entradas**, llamadas **a** y **b**, y una **sal
 
 Comenzaremos experimentando con los circuitos combinaciones que tiene varias entradas pero **una única salida**
 
-## Circuitos combacionales de 1 entrada y 1 salida
+## Circuitos combinacionales de 1 entrada y 1 salida
 
 Sólo hay dos circuitos combinacionales con una entrada y una salida, que se corresponde con la **puerta NOT** y la **puerta "identidad"**, es decir, un simple cable que sólo transmite bits
 
