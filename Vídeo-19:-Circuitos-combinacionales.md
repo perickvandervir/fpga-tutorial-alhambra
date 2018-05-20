@@ -91,13 +91,11 @@ Como segundo ejemplo vamos a **editar la tabla de verdad** para obtener el otro 
 
 Lo **cargamos** y lo **probamos**:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-1x1-6.gif)
 
 Ahora se comporta como un **simple cable**: inicialmente el LED0 está apagado. Al apretar el botón se recibe un 1 que se transmite al LED y se enciende
 
 Lo interesante de estos dos ejemplos es que conseguimos tener **dos circuitos diferentes** simplemente **cambiando los valores de la tabla de verdad**
-
-TODO
 
 # Circuitos combinacionales de 2 bits de salida
 
