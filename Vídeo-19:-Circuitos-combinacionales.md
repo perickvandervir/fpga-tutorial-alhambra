@@ -80,6 +80,8 @@ Lo **cargamos** en la placa y lo **probamos**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-1x1-4.gif)
 
+Comprobamos que efectivamente es una **puerta NOT**. Cuando **no** está apretado el pulsador, se recibe un **0** por la entrada del circuito, que se convierte en un **1** en la salida y por tanto se **enciende el LED**. Al **apretar el pulsador** sucede lo contrario: entra un **1**, que se convierte en un **0** y se **apaga** el LED0
+
 TODO
 
 # Circuitos combinacionales de 2 bits de salida
