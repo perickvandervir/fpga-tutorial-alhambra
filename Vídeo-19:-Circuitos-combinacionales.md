@@ -61,6 +61,8 @@ Sólo hay dos circuitos combinacionales con una entrada y una salida, que se cor
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-1x1-1.png)
 
+### Ejemplo 1: Puerta NOT con tablas
+
 A partir de la versión **0.3.3** de Icestudio podemos hacer circuitos combinacionales muy fácilmente a partir de las **tablas de verdad**. Como ejemplo, vamos a crear la **puerta NOT**. Utilizaremos el pulsador integrado **SW1** de la Alhambra como entrada, y el **LED0** como salida. Colocamos primero los pines de entrada y salida
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-1x1-2.png)
