@@ -28,6 +28,7 @@ TODO
   * [Tablas de verdad](#tablas-de-verdad)
 * [Circuitos combinacionales de una salida](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#circuitos-combinacionales-de-una-salida)
   * [Circuitos combinacionales de 1 entrada y 1 salida](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#circuitos-combinacionales-de-1-entrada-y-1-salida)
+    * [Ejemplo 1: Puerta NOT con tablas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#ejemplo-1-puerta-not-con-tablas)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
