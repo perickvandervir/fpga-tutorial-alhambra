@@ -14,7 +14,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 TODO
 
-# ¡Icestudio 0.3.3!
+# ¡Icestudio 0.3.3-beta!
 
 TODO
 
