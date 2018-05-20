@@ -97,6 +97,10 @@ Ahora se comporta como un **simple cable**: inicialmente el LED0 está apagado. 
 
 Lo interesante de estos dos ejemplos es que conseguimos tener **dos circuitos diferentes** simplemente **cambiando los valores de la tabla de verdad**
 
+## Circuitos combinacionales de 2 entradas y 1 salida
+
+TODO
+
 # Circuitos combinacionales de 2 bits de salida
 
 TODO
