@@ -73,7 +73,9 @@ El **circuito** queda de esta manera:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-1x1-4.png)
 
-(Circuitos en icestudio 0.3.3 con tablas)
+Lo **cargamos** en la placa y lo **probamos**
+
+(animación)
 
 TODO
 
