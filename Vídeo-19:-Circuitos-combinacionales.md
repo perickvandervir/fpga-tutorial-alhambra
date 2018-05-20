@@ -82,6 +82,8 @@ Lo **cargamos** en la placa y lo **probamos**
 
 Comprobamos que efectivamente es una **puerta NOT**. Cuando **no** está apretado el pulsador, se recibe un **0** por la entrada del circuito, que se convierte en un **1** en la salida y por tanto se **enciende el LED**. Al **apretar el pulsador** sucede lo contrario: entra un **1**, que se convierte en un **0** y se **apaga** el LED0
 
+### Ejemplo 2: Cable con tablas
+
 TODO
 
 # Circuitos combinacionales de 2 bits de salida
