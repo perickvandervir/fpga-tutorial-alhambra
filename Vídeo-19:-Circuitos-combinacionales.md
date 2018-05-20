@@ -85,6 +85,18 @@ Comprobamos que efectivamente es una **puerta NOT**. Cuando **no** está apretad
 
 ### Ejemplo 2: Cable con tablas
 
+Como segundo ejemplo vamos a **editar la tabla de verdad** para obtener el otro posible circuito de una entrada y una salida: la **puerta indentidad**, que en realidad es un **cable**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-1x1-5.png)
+
+Lo **cargamos** y lo **probamos**:
+
+(animación)
+
+Ahora se comporta como un **simple cable**: inicialmente el LED0 está apagado. Al apretar el botón se recibe un 1 que se transmite al LED y se enciende
+
+Lo interesante de estos dos ejemplos es que conseguimos tener **dos circuitos diferentes** simplemente **cambiando los valores de la tabla de verdad**
+
 TODO
 
 # Circuitos combinacionales de 2 bits de salida
