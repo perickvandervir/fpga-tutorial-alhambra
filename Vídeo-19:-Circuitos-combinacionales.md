@@ -69,6 +69,10 @@ Ahora colocamos el elemento **tabla-1-1**, dispoinble en el menú **Combinaciona
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-1x1-3.gif)
 
+El **circuito** queda de esta manera:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-1x1-4.png)
+
 (Circuitos en icestudio 0.3.3 con tablas)
 
 TODO
