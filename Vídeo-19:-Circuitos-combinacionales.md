@@ -102,6 +102,10 @@ Lo interesante de estos dos ejemplos es que conseguimos tener **dos circuitos di
 
 Los siguientes circuitos en complejidad con los que tiene **2 entradas**. Como cada una de las entradas puede encontrase en dos estados: 0 ó 1, en total hay **4 casos posibles**, por lo que las **tablas de verdad** tendrán **4 filas**. Todas las **puertas lógicas** de dos entradas, como las que hemos visto (AND y OR) son circuitos combinaciones de este tipo
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-2x1-1.png)
+
+Fíjate que hemos añadido una **columan nueva** en la izquierda, con el **número de fila empezando** por el 0. Ese núero de fila es el **valor en decimal** correspondiente a al número binario definido por las entradas. Así, en la fila 3, al pasar a binario tenemos que es 11. Esto quiere decir que la primera entrada está a 1 y la segunda también a 1
+
 TODO
 
 # Circuitos combinacionales de 2 bits de salida
