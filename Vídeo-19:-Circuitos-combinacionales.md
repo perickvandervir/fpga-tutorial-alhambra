@@ -115,6 +115,8 @@ Lo primero que hacemos es **definir** su **tabla de verdad**. Como tiene 2 entra
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-2x1-2.png)
 
+Ahora creamos el **circuito en icestudio** utilizando el componente **Comb/Tablas/tabla-2-1**. Conectaremos los dos bits de entrada de circuitos a los pulsadores **SW1** y **SW2** y la salida al **LED0**. Añadimos el elemento **Basico/memory** para definir la **tabla de verdad**. El circuito nos queda así:
+
 TODO
 
 # Circuitos combinacionales de 2 bits de salida
