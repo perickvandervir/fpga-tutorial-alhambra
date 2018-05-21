@@ -123,9 +123,11 @@ Lo **cargamos** y lo **probamos**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-2x1-4.gif)
 
-TODO
+Vemos que el LED0 sólo se enciende cuando **los dos pulsadores están en el mismo estado**. Bien porque no están apretados, o bien porque lo están ambos
 
-(Ejemplo 4: Puerta XOR)
+### Ejemplo 4: Puerta XOR
+
+TODO
 
 # Circuitos combinacionales de 2 bits de salida
 
