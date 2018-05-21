@@ -106,6 +106,8 @@ Los siguientes circuitos en complejidad con los que tiene **2 entradas**. Como c
 
 Fíjate que hemos añadido una **columan nueva** en la izquierda, con el **número de fila empezando** por el 0. Ese núero de fila es el **valor en decimal** correspondiente a al número binario definido por las entradas. Así, en la fila 3, al pasar a binario tenemos que es 11. Esto quiere decir que la primera entrada está a 1 y la segunda también a 1
 
+### Ejemplo 3: Comparador de bits
+
 TODO
 
 # Circuitos combinacionales de 2 bits de salida
