@@ -109,7 +109,13 @@ Fíjate que hemos añadido una **columan nueva** en la izquierda, con el **núme
 
 ### Ejemplo 3: Comparador de bits
 
-![]()
+Vamos a diseñar nuestro primer circuito combinacional de 2 entradas y una salida. Haremos un comparador de bits. Cuando las dos entradas estén al mismo valor, la salida se activará a 1. En caso contrario permanecerá a 0.
+
+Lo primero que hacemos es **definir** su **tabla de verdad**. Como tiene 2 entradas, en total tendrá **4 filas**. Las numeramos del 0 al 3 y ponemos todos los casos posibles de sus entradas. Esta parte de la tabla siempre será igual. Ahora **asignamos valores a las salida**s. Sólo estará a uno en la fila 0, ya que las dos entradas son iguales (0 y 0) y en la 3 ya ambas entradas están a 1
+
+(Dibujo tabla verdad)
+
+TODO
 
 # Circuitos combinacionales de 2 bits de salida
 
