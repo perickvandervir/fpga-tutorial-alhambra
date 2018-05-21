@@ -113,7 +113,7 @@ Vamos a **diseñar** nuestro primer circuito combinacional de 2 entradas y una s
 
 Lo primero que hacemos es **definir** su **tabla de verdad**. Como tiene 2 entradas, en total tendrá **4 filas**. Las numeramos del 0 al 3 y ponemos todos los casos posibles de sus entradas. Esta parte de la tabla siempre será igual. Ahora **asignamos valores a las salida**s. Sólo estará a uno en la fila 0, ya que las dos entradas son iguales (0 y 0) y en la 3 ya ambas entradas están a 1
 
-(Dibujo tabla verdad)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-2x1-2.png)
 
 TODO
 
