@@ -100,6 +100,8 @@ Lo interesante de estos dos ejemplos es que conseguimos tener **dos circuitos di
 
 ## Circuitos combinacionales de 2 entradas y 1 salida
 
+Los siguientes circuitos en complejidad con los que tiene **2 entradas**. Como cada una de las entradas puede encontrase en dos estados: 0 ó 1, en total hay **4 casos posibles**, por lo que las **tablas de verdad** tendrán **4 filas**. Todas las **puertas lógicas** de dos entradas, como las que hemos visto (AND y OR) son circuitos combinaciones de este tipo
+
 TODO
 
 # Circuitos combinacionales de 2 bits de salida
