@@ -119,6 +119,10 @@ Ahora creamos el **circuito en icestudio** utilizando el componente **Comb/Tabla
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-2x1-3.png)
 
+Lo **cargamos** y lo **probamos**:
+
+
+
 TODO
 
 # Circuitos combinacionales de 2 bits de salida
