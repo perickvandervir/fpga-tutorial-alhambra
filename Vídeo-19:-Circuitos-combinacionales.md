@@ -70,7 +70,7 @@ A partir de la versión **0.3.3** de Icestudio podemos hacer circuitos combinaci
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-1x1-2.png)
 
-Ahora colocamos el elemento **tabla-1-1**, dispoinble en el menú **Combinacional/tablas/tabla-1-1** de la colección **Academia-Jedi-HW-19**. Es un componente que representa un **circuito combinacional genérico** con una entrada y una salida. Determinamos la tabla de verdad asignándosela como parámetro. Para ello colocamos el nuevo elemento **Basico/memory**. Es una **tabla de verdad** que podemos **editar**. Escribirmos la tabla de verdad de la **puerta NOT**
+Ahora colocamos el elemento **tabla-1-1**, disponible en el menú **Comb/tablas/tabla-1-1** de la colección **Academia-Jedi-HW-19**. Es un componente que representa un **circuito combinacional genérico** con una entrada y una salida. Determinamos la tabla de verdad asignándosela como parámetro. Para ello colocamos el nuevo elemento **Basico/memory**. Es una **tabla de verdad** que podemos **editar**. Escribirmos la tabla de verdad de la **puerta NOT**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-1x1-3.gif)
 
