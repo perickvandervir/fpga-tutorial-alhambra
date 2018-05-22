@@ -129,7 +129,9 @@ Vemos que el LED0 sólo se enciende cuando **los dos pulsadores están en el mis
 
 ### Las puertas NAND y NOR
 
-TODO
+Además de las puertas básicas que ya conocemos, **AND**, **OR** y **NOT**, existen otras que son muy usadas. Todas ellas las podemos definir a partir de sus tablas de verdad. Las versiones **negadas** de las puertas AND y OR se denominan, **NAND** y **NOR** respectivamente
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-2x1-5.png)
 
 ### Ejemplo 4: Puerta XOR
 
