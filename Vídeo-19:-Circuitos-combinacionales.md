@@ -135,6 +135,10 @@ Además de las puertas básicas que ya conocemos, **AND**, **OR** y **NOT**, exi
 
 Una característica de estas puertas es que permiten crear **cualquier circuito lógico** usando sólo el mismo tipo de puertas: bien puertas NAND, o bien puertas NOR.  El computador que realizó los cálculos de navegación en el [Apolo 11](https://es.wikipedia.org/wiki/Apolo_11), la nave que llevó al primer hombre a la luna, estaba hecho **sólo con puertas NAND**
 
+### Las puertas XOR y XNOR
+
+TODO
+
 ### Ejemplo 4: Puerta XOR
 
 TODO
