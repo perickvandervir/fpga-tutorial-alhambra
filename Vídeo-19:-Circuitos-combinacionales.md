@@ -33,6 +33,7 @@ TODO
   * [Circuitos combinacionales de 2 entradas y 1 salida](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#circuitos-combinacionales-de-2-entradas-y-1-salida)
     * [Ejemplo 3: Comparador de bits](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#ejemplo-3-comparador-de-bits)
     * [Las puertas NAND y NOR](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#las-puertas-nand-y-nor)
+    * [Las puertas XOR y XNOR](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#las-puertas-xor-y-xnor)
     * [Ejemplo 4: Puerta XOR](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#ejemplo-4-puerta-xor)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
