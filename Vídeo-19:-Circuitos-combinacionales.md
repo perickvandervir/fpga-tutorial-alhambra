@@ -126,6 +126,10 @@ Lo **cargamos** y lo **probamos**:
 
 Vemos que el LED0 sólo se enciende cuando **los dos pulsadores están en el mismo estado**. Bien porque no están apretados, o bien porque lo están ambos
 
+### Las puertas NAND y NOR
+
+TODO
+
 ### Ejemplo 4: Puerta XOR
 
 TODO
