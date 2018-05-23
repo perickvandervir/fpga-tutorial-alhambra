@@ -34,7 +34,7 @@ Hemos liberado hace muy poco [Icestudio 0.3.3-Beta](https://github.com/FPGAwars/
     * [Ejemplo 3: Comparador de bits](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#ejemplo-3-comparador-de-bits)
     * [Las puertas NAND y NOR](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#las-puertas-nand-y-nor)
     * [Las puertas XOR y XNOR](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#las-puertas-xor-y-xnor)
-    * [Ejemplo 4: Puerta XOR](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#ejemplo-4-puerta-xor)
+    * [Ejemplo 4: Puerta XOR con tablas de verdad](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#ejemplo-4-puerta-xor-con-tablas-de-verdad)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
