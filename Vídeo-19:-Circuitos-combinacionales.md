@@ -154,6 +154,10 @@ Ambas puertas, **XOR** y **XNOR** se encuentran disponibles en el menú **Comb/P
 
 ### Ejemplo 4: Puerta XOR con tablas de verdad
 
+Como ejemplo implementaremos una **puerta XOR** usando la **tabla de verdad** (en vez del propio componente). El circuito es exactamente igual que el ejemplo 3, pero con diferentes valores aplicados a su tabla de verdad
+
+(image)
+
 TODO
 
 ## Circuitos combinacionales de 3 entradas y 1 salida
