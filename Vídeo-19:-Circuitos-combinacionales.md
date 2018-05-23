@@ -148,6 +148,8 @@ La puerta **XNOR** es una XOR negada, y se usa para **comparar bits**. Su tabla 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-2x1-7.png)
 
+Ambas puertas, **XOR** y **XNOR** se encuentran disponibles en el menú **Comb/Puertas** de la colección **Academia-Jedi-HW-19.zip**
+
 (imagen de las puertas en Icestudio)
 
 TODO
