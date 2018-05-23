@@ -136,9 +136,9 @@ Además de las puertas básicas que ya conocemos, **AND**, **OR** y **NOT**, exi
 
 Una característica de estas puertas es que permiten crear **cualquier circuito lógico** usando sólo el mismo tipo de puertas: bien puertas NAND, o bien puertas NOR.  El computador que realizó los cálculos de navegación en el [Apolo 11](https://es.wikipedia.org/wiki/Apolo_11), la nave que llevó al primer hombre a la luna, estaba hecho **sólo con puertas NAND**
 
-Ambas puertas, **NAND** y **NOR** se encuentran disponibles en el menú **Comb/Puertas** de la colección Academia-Jedi-HW-19.zip
+Ambas puertas, **NAND** y **NOR** se encuentran disponibles en el menú **Comb/Puertas** de la colección **Academia-Jedi-HW-19.zip**
 
-(pantallazo con NAND y NOR)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-2x1-6.png)
 
 ### Las puertas XOR y XNOR
 
