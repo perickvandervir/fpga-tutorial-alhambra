@@ -160,9 +160,9 @@ Como ejemplo implementaremos una **puerta XOR** usando la **tabla de verdad** (e
 
 Lo **cargamos** y lo **probamos**:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-2x1-10.gif)
 
-TODO
+Efectivamente es una puerta XOR. Cuando no hay ningún pulsador apretado, el LED0 está apagado. Y también si los dos están apretados a la vez. Sólo en el caso de que haya uno, y sólo uno de los pulsadores apretados, se enciende el LED0
 
 ## Circuitos combinacionales de 3 entradas y 1 salida
 
