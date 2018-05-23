@@ -146,7 +146,7 @@ Hay otras dos puertas lógicas que se usan mucho en electrónica digital: la **X
 
 La puerta **XNOR** se usa para **comparar bits**, y su tabla de verdad es justo la que hemos implementado en el ejemplo 3: comparador de bits
 
-(Figura con las puertas y sus tablas de verdad)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-2x1-7.png)
 
 (imagen de las puertas en Icestudio)
 
