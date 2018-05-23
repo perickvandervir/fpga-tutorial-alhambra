@@ -156,7 +156,11 @@ Ambas puertas, **XOR** y **XNOR** se encuentran disponibles en el menú **Comb/P
 
 Como ejemplo implementaremos una **puerta XOR** usando la **tabla de verdad** (en vez del propio componente). El circuito es exactamente igual que el ejemplo 3, pero con diferentes valores aplicados a su tabla de verdad
 
-(image)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-2x1-9.png)
+
+Lo **cargamos** y lo **probamos**:
+
+(animación)
 
 TODO
 
