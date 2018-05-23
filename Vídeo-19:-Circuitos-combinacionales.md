@@ -16,7 +16,7 @@ TODO
 
 # ¡Icestudio 0.3.3-beta!
 
-TODO
+Hemos liberado hace muy poco [Icestudio 0.3.3-Beta](https://github.com/FPGAwars/icestudio/releases/tag/v0.3.3-beta). La que estábamos usando antes era la 0.3.2. Por favor, **actualizarse** a esa versión. La colección empleada en este tutorial está hecha con esta versión, y en las anteriores no se verá correctamente
 
 # Colección
 
