@@ -142,9 +142,17 @@ Ambas puertas, **NAND** y **NOR** se encuentran disponibles en el menú **Comb/P
 
 ### Las puertas XOR y XNOR
 
+Hay otras dos puertas lógicas que se usan mucho en electrónica digital: la **XOR** y la **XNOR**. La XOR se denomina **O-exclusivo**. Funciona igual que una puerta OR salvo en el caso en el que las dos entradas son 1, cuya salida es 0 en vez de 1. Las puertas **XOR** se usan muchísimo para implementar **circuitos aritméticos** (como sumadores, por ejemplo)
+
+La puerta **XNOR** se usa para **comparar bits**, y su tabla de verdad es justo la que hemos implementado en el ejemplo 3: comparador de bits
+
+(Figura con las puertas y sus tablas de verdad)
+
+(imagen de las puertas en Icestudio)
+
 TODO
 
-### Ejemplo 4: Puerta XOR
+### Ejemplo 4: Puerta XOR con tablas de verdad
 
 TODO
 
