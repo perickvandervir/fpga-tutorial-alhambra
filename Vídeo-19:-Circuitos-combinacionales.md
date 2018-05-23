@@ -165,6 +165,10 @@ Lo **cargamos** y lo **probamos**:
 
 Efectivamente es una puerta XOR. Cuando no hay ningún pulsador apretado, el LED0 está apagado. Y también si los dos están apretados a la vez. Sólo en el caso de que haya uno, y sólo uno de los pulsadores apretados, se enciende el LED0
 
+### Ejercicio 1: Franky en modo defensivo
+
+TODO
+
 ## Circuitos combinacionales de 3 entradas y 1 salida
 
 TODO
