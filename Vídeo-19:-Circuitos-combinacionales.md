@@ -156,7 +156,12 @@ Ambas puertas, **XOR** y **XNOR** se encuentran disponibles en el menú **Comb/P
 
 TODO
 
-# Circuitos combinacionales de 2 bits de salida
+## Circuitos combinacionales de 3 entradas y 1 salida
+
+TODO
+
+## Circuitos combinacionales de 4 entradas y 1 salida
+
 
 TODO
 
