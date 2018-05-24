@@ -166,9 +166,13 @@ Efectivamente es una puerta XOR. Cuando no hay ningún pulsador apretado, el LED
 
 # Circuitos combinacionales de 3 entradas y 1 salida
 
+Los circuitos combinaciones de 3 entradas se definen mediante **tablas de verdad de 8 filas**, ya que hay 8 posibles **combinaciones** de sus entradas
+
+(dibujo)
+
 TODO
 
-## Circuitos combinacionales de 4 entradas y 1 salida
+# Circuitos combinacionales de 4 entradas y 1 salida
 
 
 TODO
