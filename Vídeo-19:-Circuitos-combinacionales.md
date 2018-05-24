@@ -192,9 +192,13 @@ La **tabla de verdad** de este multiplexor es la siguiente
 |  6   |  1  |   1  |  0  |    1   |
 |  7   |  1  |   1  |  1  |    1   |
 
-Ahora ya podemos implementar el ejemplo anterior usando la tabla que encontramos en **Comb/Tablas/tabla-3-1**
+Ahora ya podemos implementar el ejemplo anterior usando la **tabla** que encontramos en **Comb/Tablas/tabla-3-1**
 
-(Circuito icestudio con tablas: ejemplo 5-2)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-3x1-3.png)
+
+**Cargamos** y **probamos**:
+
+(animación)
 
 Ejercicio: Caja fuerte con apertura mediante dos códigos
 
