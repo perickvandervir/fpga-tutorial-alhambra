@@ -180,7 +180,9 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **x Bitpoints**): 
+* **Ejercicio 1** (Total **5 Bitpoints**): Franky en modo defensivo
+
+Diseñar un **circuito combinacional**, de dos entradas y una salida, mediante su **tabla de verdad**, para controlar la posición del cuello de Franky con dos **sensores de infrarrojos**: izquierdo y derecho. Cuando ningún sensor esté activado, o sólo lo esté el izquierdo, Franky mirará hacia la izquierda. Cuando el sensor derecho está activado, o ambos (izquierdo y derecho), Franky mirará hacia la derecha
 
 * **Ejercicio 2** (Total **x Bitpoints**): 
 
