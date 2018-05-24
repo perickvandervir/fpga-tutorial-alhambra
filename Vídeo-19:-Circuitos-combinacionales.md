@@ -58,17 +58,17 @@ Una característica **muy importante** de los **circuitos combinaciones** es que
 
 El circuito de ejemplo tiene **2 entradas**, llamadas **a** y **b**, y una **salida**, denominada **c**. En la **tabla de verdad** se representan las salidas del circuito cuando se dan todas las **combinaciones** posibles en las entradas. Estas combinaciones de a y b es lo que se muestra en la parte de la izquierda de la tabla. En la derecha se ponen los valores asociados a sus entradas. En el dibujo se han marcado como **X** para indicar que pueden valer tanto 0 como 1 (esto depende del circuito particular que implementemos)
 
-# Circuitos combinacionales de una salida
+## Circuitos combinacionales de varias entradas y una salida
 
-Comenzaremos experimentando con los circuitos combinaciones que tiene varias entradas pero **una única salida**
+En este tutorial nos centraremos en los **circuitos combinacionales** con **una única salida**, y **varias entradas**. En realidad, los que tienen varias salidas se construyen mediante la **superposición de circuitos de una salida**. Pero esto lo veremos en los tutoriales venideros
 
-## Circuitos combinacionales de 1 entrada y 1 salida
+# Circuitos combinacionales de 1 entrada y 1 salida
 
-Sólo hay dos circuitos combinacionales con una entrada y una salida, que se corresponde con la **puerta NOT** y la **puerta "identidad"**, es decir, un simple cable que sólo transmite bits
+Comenzaremos por los circuitos combinaciones **más sencillos posibles**: los que tienen una entrada y una salida. Sólo hay dos, que se corresponde con la **puerta NOT** y la **puerta "identidad"**. Esta última un simple **cable** que sólo transmite bits
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-1x1-1.png)
 
-### Ejemplo 1: Puerta NOT con tablas
+## Ejemplo 1: Puerta NOT con tablas
 
 A partir de la versión **0.3.3** de Icestudio podemos hacer circuitos combinacionales muy fácilmente a partir de las **tablas de verdad**. Como ejemplo, vamos a crear la **puerta NOT**. Utilizaremos el pulsador integrado **SW1** de la Alhambra como entrada, y el **LED0** como salida. Colocamos primero los pines de entrada y salida
 
@@ -88,7 +88,7 @@ Lo **cargamos** en la placa y lo **probamos**
 
 Comprobamos que efectivamente es una **puerta NOT**. Cuando **no** está apretado el pulsador, se recibe un **0** por la entrada del circuito, que se convierte en un **1** en la salida y por tanto se **enciende el LED**. Al **apretar el pulsador** sucede lo contrario: entra un **1**, que se convierte en un **0** y se **apaga** el LED0
 
-### Ejemplo 2: Cable con tablas
+## Ejemplo 2: Cable con tablas
 
 Como segundo ejemplo vamos a **editar la tabla de verdad** para obtener el otro posible circuito de una entrada y una salida: la **puerta indentidad**, que en realidad es un **cable**
 
@@ -102,7 +102,7 @@ Ahora se comporta como un **simple cable**: inicialmente el LED0 está apagado. 
 
 Lo interesante de estos dos ejemplos es que conseguimos tener **dos circuitos diferentes** simplemente **cambiando los valores de la tabla de verdad**
 
-## Circuitos combinacionales de 2 entradas y 1 salida
+# Circuitos combinacionales de 2 entradas y 1 salida
 
 Los siguientes circuitos en complejidad con los que tiene **2 entradas**. Como cada una de las entradas puede encontrase en dos estados: 0 ó 1, en total hay **4 casos posibles**, por lo que las **tablas de verdad** tendrán **4 filas**. Todas las **puertas lógicas** de dos entradas, como las que hemos visto (AND y OR) son circuitos combinaciones de este tipo
 
@@ -110,7 +110,7 @@ Los siguientes circuitos en complejidad con los que tiene **2 entradas**. Como c
 
 Fíjate que hemos añadido una **columan nueva** en la izquierda, con el **número de fila empezando** por el 0. Ese núero de fila es el **valor en decimal** correspondiente a al número binario definido por las entradas. Así, en la fila 3, al pasar a binario tenemos que es 11. Esto quiere decir que la primera entrada está a 1 y la segunda también a 1
 
-### Ejemplo 3: Comparador de bits
+## Ejemplo 3: Comparador de bits
 
 Vamos a **diseñar** nuestro primer circuito combinacional de 2 entradas y una salida. Haremos un **comparador de bits**. Cuando las dos entradas estén al mismo valor, la salida se activará a 1. En caso contrario permanecerá a 0.
 
@@ -128,7 +128,7 @@ Lo **cargamos** y lo **probamos**:
 
 Vemos que el LED0 sólo se enciende cuando **los dos pulsadores están en el mismo estado**. Bien porque no están apretados, o bien porque lo están ambos
 
-### Las puertas NAND y NOR
+## Las puertas NAND y NOR
 
 Además de las puertas básicas que ya conocemos, **AND**, **OR** y **NOT**, existen otras que son muy usadas. Todas ellas las podemos definir a partir de sus tablas de verdad. Las versiones **negadas** de las puertas AND y OR se denominan, **NAND** y **NOR** respectivamente
 
@@ -140,7 +140,7 @@ Ambas puertas, **NAND** y **NOR** se encuentran disponibles en el menú **Comb/P
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-2x1-6.png)
 
-### Las puertas XOR y XNOR
+## Las puertas XOR y XNOR
 
 Hay otras dos puertas lógicas que se usan mucho en electrónica digital: la **XOR** y la **XNOR**. La XOR se denomina **O-exclusivo**. Funciona igual que una puerta OR salvo en el caso en el que las dos entradas son 1, cuya salida es 0 en vez de 1. Las puertas **XOR** se usan muchísimo para implementar **circuitos aritméticos** (como sumadores, por ejemplo)
 
@@ -152,7 +152,7 @@ Ambas puertas, **XOR** y **XNOR** se encuentran disponibles en el menú **Comb/P
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-2x1-8.png)
 
-### Ejemplo 4: Puerta XOR con tablas de verdad
+## Ejemplo 4: Puerta XOR con tablas de verdad
 
 Como ejemplo implementaremos una **puerta XOR** usando la **tabla de verdad** (en vez del propio componente). El circuito es exactamente igual que el ejemplo 3, pero con diferentes valores aplicados a su tabla de verdad
 
@@ -164,7 +164,7 @@ Lo **cargamos** y lo **probamos**:
 
 Efectivamente es una puerta XOR. Cuando no hay ningún pulsador apretado, el LED0 está apagado. Y también si los dos están apretados a la vez. Sólo en el caso de que haya uno, y sólo uno de los pulsadores apretados, se enciende el LED0
 
-## Circuitos combinacionales de 3 entradas y 1 salida
+# Circuitos combinacionales de 3 entradas y 1 salida
 
 TODO
 
