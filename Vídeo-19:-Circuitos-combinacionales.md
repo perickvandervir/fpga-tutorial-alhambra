@@ -177,7 +177,7 @@ El multiplexor 2:1 que ya conocemos es un **circuito combinacional** de 3 entrad
 
 Partimos de este **circuito de ejemplo**, que también conocemos, que hace parpadear el **LED0** a diferentes frecuencias, según el valor del pulsador **SW1**
 
-(Circuito icestudio: ejemplo 5-1)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-3x1-2.png)
 
 (Tabla de verdad)
 
