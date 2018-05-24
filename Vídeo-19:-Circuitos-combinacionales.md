@@ -35,7 +35,6 @@ Hemos liberado hace muy poco [Icestudio 0.3.3-Beta](https://github.com/FPGAwars/
     * [Las puertas NAND y NOR](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#las-puertas-nand-y-nor)
     * [Las puertas XOR y XNOR](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#las-puertas-xor-y-xnor)
     * [Ejemplo 4: Puerta XOR con tablas de verdad](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#ejemplo-4-puerta-xor-con-tablas-de-verdad)
-    * [Ejercicio 1: Franky en modo defensivo](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#ejercicio-1-franky-en-modo-defensivo)
   * [Circuitos combinacionales de 3 entradas y 1 salida](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#circuitos-combinacionales-de-3-entradas-y-1-salida)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
@@ -165,10 +164,6 @@ Lo **cargamos** y lo **probamos**:
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-2x1-10.gif)
 
 Efectivamente es una puerta XOR. Cuando no hay ningún pulsador apretado, el LED0 está apagado. Y también si los dos están apretados a la vez. Sólo en el caso de que haya uno, y sólo uno de los pulsadores apretados, se enciende el LED0
-
-### Ejercicio 1: Franky en modo defensivo
-
-TODO
 
 ## Circuitos combinacionales de 3 entradas y 1 salida
 
