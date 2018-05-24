@@ -168,7 +168,7 @@ Efectivamente es una puerta XOR. Cuando no hay ningún pulsador apretado, el LED
 
 Los circuitos combinaciones de 3 entradas se definen mediante **tablas de verdad de 8 filas**, ya que hay 8 posibles **combinaciones** de sus entradas
 
-(dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-3x1-1.png)
 
 TODO
 
