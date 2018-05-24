@@ -179,7 +179,20 @@ Partimos de este **circuito de ejemplo**, que también conocemos, que hace parpa
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-3x1-2.png)
 
-(Tabla de verdad)
+La **tabla de verdad** de este multiplexor es la siguiente
+
+| Fila | i1  |  i0  | Sel | Salida |
+|------|-----|------|-----|--------|
+|  0   |  0  |   0  |  0  |    0   |
+|  1   |  0  |   0  |  1  |    0   |
+|  2   |  0  |   1  |  0  |    1   |
+|  3   |  0  |   1  |  1  |    0   |
+|  4   |  1  |   0  |  0  |    0   |
+|  5   |  1  |   0  |  1  |    1   |
+|  6   |  1  |   1  |  0  |    1   |
+|  7   |  1  |   1  |  1  |    1   |
+
+Ahora ya podemos implementar el ejemplo anterior usando la tabla que encontramos en **Comb/Tablas/tabla-3-1**
 
 (Circuito icestudio con tablas: ejemplo 5-2)
 
