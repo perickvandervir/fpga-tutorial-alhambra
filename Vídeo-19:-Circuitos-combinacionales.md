@@ -35,6 +35,7 @@ Hemos liberado hace muy poco [Icestudio 0.3.3-Beta](https://github.com/FPGAwars/
     * [Las puertas XOR y XNOR](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#las-puertas-xor-y-xnor)
     * [Ejemplo 4: Puerta XOR con tablas de verdad](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#ejemplo-4-puerta-xor-con-tablas-de-verdad)
 * [Circuitos combinacionales de 3 entradas y 1 salida](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#circuitos-combinacionales-de-3-entradas-y-1-salida)
+  * [Ejemplo 5: multiplexor de 2 a 1 con tabla de verdad](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#ejemplo-5-multiplexor-de-2-a-1-con-tabla-de-verdad)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
