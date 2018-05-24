@@ -170,6 +170,20 @@ Los circuitos combinaciones de 3 entradas se definen mediante **tablas de verdad
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-3x1-1.png)
 
+## Ejemplo 5: Multiplexor de 2 a 1 con tabla de verdad
+
+El multiplexor 2:1 que ya conocemos es un **circuito combinacional** de 3 entradas y una salida. Las entradas son el **canal 1** (*i1*), el **canal 0** (*i0*) y la **selección* (*Sel*). Como es combinacional, lo podemos construir mediante su tabla de verdad
+
+Partimos de este **circuito de ejemplo**, que también conocemos, que hace parpadear el **LED0** a diferentes frecuencias, según el valor del pulsador **SW1**
+
+(Circuito icestudio: ejemplo 5-1)
+
+(Tabla de verdad)
+
+(Circuito icestudio con tablas: ejemplo 5-2)
+
+Ejercicio: Caja fuerte con apertura mediante dos códigos
+
 TODO
 
 # Circuitos combinacionales de 4 entradas y 1 salida
