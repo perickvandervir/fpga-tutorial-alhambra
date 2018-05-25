@@ -100,8 +100,8 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|   Bercebus  | Aspirante a Padawan Nivel-1 | 80 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|    Jose Maria Martínez (Itubal)  | Aspirante a Padawan Nivel-1 | 80 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|    **Jose Frutos** (Wychy7) (**CTIF**)  | Aspirante a Padawan Nivel-1 | 80 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|    **Carlos DM** (mdsolrac) (**CTIF**)   | Aspirante a Padawan Nivel-1 | 80 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)| Gerardo Gómez (clonehazard,chetosvsgeez )   | Aspirante a Padawan | 76 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)|  **Carlos DM** (mdsolrac) (**CTIF**)   | Aspirante a Padawan | 75 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)| Jose Daniel García Espinel  | Aspirante a Padawan | 73 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)|  Hector López (Afuallapis)   | Aspirante a Padawan | 69 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/06-Aspirante-padawan-min.png)| Pedro Ruiz (pedroruizf)   | Aspirante a Padawan | 68 |
