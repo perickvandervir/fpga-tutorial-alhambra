@@ -205,6 +205,7 @@ Al apretar el pulsador **SW1**, la frecuencia de parpadeo del LED0 cambia. **¡N
 
 # Circuitos combinacionales de 4 entradas y 1 salida
 
+Los circuitos combinaciones de 4 entradas se definen mediante **tablas de verdad de 16 filas**, ya que hay 16 posibles **combinaciones** de sus entradas
 
 TODO
 
