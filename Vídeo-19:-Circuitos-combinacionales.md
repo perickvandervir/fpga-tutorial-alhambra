@@ -200,6 +200,8 @@ Ahora ya podemos implementar el ejemplo anterior usando la **tabla** que encontr
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-3x1-4.gif)
 
+Al apretar el pulsador **SW1**, la frecuencia de parpadeo del LED0 cambia. **¡Nuestro multiplexor hecho con tablas de verdad está funcionando!**
+
 # Circuitos combinacionales de 4 entradas y 1 salida
 
 
