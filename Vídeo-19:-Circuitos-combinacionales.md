@@ -214,6 +214,8 @@ Los circuitos combinaciones de 4 entradas se definen mediante **tablas de verdad
 
 TODO
 
+* Ejercicio 3: Detector de paridad de números de 4 bits
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
