@@ -207,6 +207,8 @@ Al apretar el pulsador **SW1**, la frecuencia de parpadeo del LED0 cambia. **¡N
 
 Los circuitos combinaciones de 4 entradas se definen mediante **tablas de verdad de 16 filas**, ya que hay 16 posibles **combinaciones** de sus entradas
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-4x1-1.png)
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
