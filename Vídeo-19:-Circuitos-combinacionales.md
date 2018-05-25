@@ -209,7 +209,7 @@ Los circuitos combinaciones de 4 entradas se definen mediante **tablas de verdad
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-4x1-1.png)
 
-# Ejemplo 6: Comparador de números de 2 bits
+## Ejemplo 6: Comparador de números de 2 bits
 
 TODO
 
