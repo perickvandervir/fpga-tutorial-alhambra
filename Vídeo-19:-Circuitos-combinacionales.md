@@ -198,7 +198,7 @@ Ahora ya podemos implementar el ejemplo anterior usando la **tabla** que encontr
 
 **Cargamos** y **probamos**:
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-3x1-1.png)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-3x1-4.gif)
 
 # Circuitos combinacionales de 4 entradas y 1 salida
 
