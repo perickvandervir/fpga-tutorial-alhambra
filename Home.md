@@ -69,6 +69,7 @@ Estudiante que se encuentran cursando el **segundo año** de la **academia de Ha
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/11-Padawan-N1-min.png)|    Migue (@Migueabellan)  | Padawan Nivel 1 | 185 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/11-Padawan-N1-min.png)|    Jose Luis (@movilujo)  | Padawan Nivel 1 | 185 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|     Viriato (@SrViriato)  | Padawan | 170 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|     Javier Solsona (javsol)  | Padawan | 158 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Fernando Coladas (@fcoladas)  | Padawan | 156 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|    Felix J. Marcelo(wernitzer)  | Padawan | 156 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/10-Padawan-min.png)|   Koyikabuto (clonehazard,chetosvsgeez )  | Padawan | 153 |
@@ -83,7 +84,6 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 |Divisa  | Nombe             | Rango    | BitPoints |
 |--------|-------------------|----------|-----------|
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|   Gut-mart  | Aspirante a Padawan Nivel-3 | 146 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|     Javier Solsona (javsol) | Aspirante a Padawan Nivel-3 | 140 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|     Pegatutti (Alfredo Sanz) | Aspirante a Padawan Nivel-3 | 135 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|   Jordi R. Crespo  | Aspirante a Padawan Nivel-3 | 133 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|    Javier Liras  | Aspirante a Padawan Nivel-3 | 128 |
