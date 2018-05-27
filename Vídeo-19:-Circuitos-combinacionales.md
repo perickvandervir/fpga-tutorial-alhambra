@@ -218,6 +218,17 @@ En este ejemplo haremos un **comparador muy sencillo**, para números de bits, b
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-4x1-2.jpg)
 
+La **tabla de verdad** la creamos a partir de la **definición de comparador**. La salida sólo será uno si los dos bits del primer número (i3, i2) son iguales a los del segundo (i1,i0), en el resto de casos será 0
+
+| Fila | i3 | i2 | i1 | i0 | Salida |
+|------|----|----|----|----|--------|
+|  0   |  0 | 0  |  0 |  0 |   1    |
+|  1   |  0 | 0  |  0 |  1 |   0    |
+|  2   |  0 | 0  |  1 |  0 |   0    |
+|  3   |  0 | 0  |  1 |  1 |   0    |
+
+
+
 TODO
 
 * Ejercicio 3: Detector de paridad de números de 4 bits
