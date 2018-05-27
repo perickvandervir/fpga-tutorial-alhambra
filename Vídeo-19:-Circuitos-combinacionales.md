@@ -212,6 +212,12 @@ Los circuitos combinaciones de 4 entradas se definen mediante **tablas de verdad
 
 ## Ejemplo 6: Comparador de números de 2 bits
 
+Los **comparadores** con unos circuitos muy usados en electrónica digital. Nos permiten generar eventos cuando dos números son iguales, establecer umbrales, activación de zonas de memoria, detección de caracteres, limitación de contadores...
+
+En este ejemplo haremos un **comparador muy sencillo**, para números de bits, basado en **tablas de verdad**. Utilizaremos **4 interruptores externos**, divididos en 2 grupos de 2, para representar la entrada de los 2 números de 2 bits. Cuando ambos números son iguales, se enciende un LED externo. El montaje es el siguiente:
+
+(foto montaje)
+
 TODO
 
 * Ejercicio 3: Detector de paridad de números de 4 bits
