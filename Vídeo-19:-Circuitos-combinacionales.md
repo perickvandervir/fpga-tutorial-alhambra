@@ -239,7 +239,11 @@ La **tabla de verdad** la creamos a partir de la **definición de comparador**. 
 | 14   |  1     | 1      |  1     |  0     |   0    |
 | 15   |  **1** | **1**  | **1**  | **1**  |  **1** |
 
+y ahora **implementamos** el circuito usando el componente **Comb/Tablas/Tabla-4-1**
 
+(circuito en icestudio)
+
+(animación)
 
 TODO
 
