@@ -241,7 +241,9 @@ La **tabla de verdad** la creamos a partir de la **definición de comparador**. 
 
 y ahora **implementamos** el circuito usando el componente **Comb/Tablas/Tabla-4-1**
 
-(circuito en icestudio)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-4x1-3.jpg)
+
+Lo **cargamos** y lo **probamos**
 
 (animación)
 
