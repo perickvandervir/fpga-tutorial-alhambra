@@ -216,7 +216,7 @@ Los **comparadores** con unos circuitos muy usados en electrónica digital. Nos 
 
 En este ejemplo haremos un **comparador muy sencillo**, para números de bits, basado en **tablas de verdad**. Utilizaremos **4 interruptores externos**, divididos en 2 grupos de 2, para representar la entrada de los 2 números de 2 bits. Cuando ambos números son iguales, se enciende un LED externo. El montaje es el siguiente:
 
-(foto montaje)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-4x1-2.jpg)
 
 TODO
 
