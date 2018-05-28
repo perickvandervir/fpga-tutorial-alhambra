@@ -245,11 +245,7 @@ y ahora **implementamos** el circuito usando el componente **Comb/Tablas/Tabla-4
 
 Lo **cargamos** y lo **probamos**
 
-(animación)
-
-TODO
-
-* Ejercicio 3: Detector de paridad de números de 4 bits
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-4x1-4.gif)
 
 # Ejercicios propuestos (X BitPoints)
 
