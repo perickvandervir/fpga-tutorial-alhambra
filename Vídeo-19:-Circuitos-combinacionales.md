@@ -10,7 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-TODO
+Los **circuitos combinaciones** son los que nos permiten realizar **manipulaciones** de los bits. Se caracterizan porque sólo manipulan bits, pero no los almacenan. No tienen memoria. Quedan totalmente definidos por su **tabla de verdad**. Empezaremos estudiando los circuitos combinacionales de **varias entradas** y **una salida**, y cómo los podemos implementar fácilmente a partir de su tabla de verdad usando los **bloques memory** de **Icestudio 0.3.3-beta** o superior
 
 # ¡Icestudio 0.3.3-beta!
 
