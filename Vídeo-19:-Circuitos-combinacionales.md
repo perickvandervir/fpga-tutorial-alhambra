@@ -247,7 +247,7 @@ Lo **cargamos** y lo **probamos**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/comb-4x1-4.gif)
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (20 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
