@@ -38,7 +38,7 @@ Hemos liberado hace muy poco [Icestudio 0.3.3-Beta](https://github.com/FPGAwars/
   * [Ejemplo 5: multiplexor de 2 a 1 con tabla de verdad](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#ejemplo-5-multiplexor-de-2-a-1-con-tabla-de-verdad)
 * [Circuitos combinacionales de 4 entradas y 1 salida](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#circuitos-combinacionales-de-4-entradas-y-1-salida)
   * [Ejemplo 6: Comparador de números de 2 bits](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#ejemplo-6-comparador-de-n%C3%BAmeros-de-2-bits)
-* Ejercicios propuestos (X Bitpoints)
+* [Ejercicios propuestos (20 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
 * [Licencia](#licencia)
