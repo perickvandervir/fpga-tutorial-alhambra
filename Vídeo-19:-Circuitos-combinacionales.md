@@ -261,9 +261,11 @@ Diseñar un **circuito combinacional**, de dos entradas y una salida, mediante s
 
 Diseñar un **circuito combinacional**, mediante su **tabla de verdad**, para abrir la puerta de una caja fuerte cuando se introducen los códigos correctos. Se usarán 3 interruptores externos para introducir la clave. Cuando esta clave sea **101** ó **011** se moverá un servo a la otra posición, simulando la apertura de la caja
 
-* **Ejercicio 3** (Total **x Bitpoints**): 
+* **Ejercicio 3** (Total **5 Bitpoints**): Detector de paridad de 4 bits
 
-* **Ejercicio 4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
+Diseñar un **circuito combinacional** de **4 bits de entrada** y uno de salida, usando su tabla de verdad, capaz de detectar si el número de 1's en sus entradas es **par**. En ese caso, se encenderá el LED conectado a su salida. Si el número es impar, se apagará. Este tipo de circuitos se llaman **detectores de paridad**, y se usan mucho en comunicaciones para comprobar la integridad de la información recibida. La entrada **0000** tiene **paridad par** (0 es par).
+
+* **Ejercicio 4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
 
