@@ -18,7 +18,7 @@ Ya está liberado [Icestudio 0.3.3-Beta](https://github.com/FPGAwars/icestudio/r
 
 # Colección
 
-**Academia-Jedi-HW-19.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-19.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-19/Coleccion/Academia-Jedi-HW-19.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
