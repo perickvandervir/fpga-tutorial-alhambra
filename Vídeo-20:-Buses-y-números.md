@@ -63,6 +63,8 @@ Al pinchar sobre el **OK** nos aparecerá un **bloque con 2 salidas**, y un bus 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-6.png)
 
+Ahora **tiramos el bus** como si se tratase de un cable cualquiera, uniendo los dos bloques. Y por último seleccionamos los LEDs por lo que enviar los bits. Por ejemplo **LED1** y **LED0**
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
