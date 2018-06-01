@@ -30,10 +30,12 @@ TODO
 
 # Introducción
 
-Hasta ahora hemos trabajado con **bits individuales**. Cada bit se transmite por un cable, de un componente a otro. Por ejemplo, si queremos encender dos LEDs, hacemos un circuito como este:
+Hasta ahora hemos trabajado con **bits individuales**. Cada bit se transmite por un cable, de un componente a otro. Por ejemplo, si queremos encender **dos LEDs**, hacemos un circuito como este:
 
-(ejemplo 2 leds on)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-1.png)
 
+
+TODO
 
 # Ejercicios propuestos (X BitPoints)
 
