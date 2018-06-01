@@ -82,7 +82,7 @@ Al trabajar con buses nos centramos en los **números**. Lo que transmitimos de 
 
 El funcionamiento de los **buses de 4 bit** (y de cualquier tamaño) es similar al de dos bits. Este es el circuito de ejemplo para **encender 4 LEDs** usando un bus de 4 bits. Está accesible desde el menú **Archivo/Ejemplos/1-Ejemplo/02-BUS-4bits-LEDs**
 
-(Ejemplo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-4bits-1.png)
 
 TODO
 
