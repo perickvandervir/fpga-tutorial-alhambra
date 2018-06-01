@@ -51,6 +51,10 @@ Nos aparecerá un bloque con el **número 3**, y el número en binario debajo (1
 
 Por la salida de este bloque aparece un cable más gordo de lo normal, con el nombre **k[1:0]**. Se trata de un **bus de 2 bits**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-4.png)
+
+La letra **k** es el nombre que se le ha dado al bus en la salida de la constante, pero podría tener cualquier otro. Entre **corchetes** se indican los **números de los cables** que transportan los bits más significativo y menos significativo respectivamente. Siempre usaremos el **0** para referirnos al de **menor peso**. Como es un bus de 2 bits, el más significativo será el 1
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
