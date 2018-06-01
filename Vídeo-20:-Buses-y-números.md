@@ -84,6 +84,14 @@ El funcionamiento de los **buses de 4 bit** (y de cualquier tamaño) es similar 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-4bits-1.png)
 
+(Explicación constante 15: decimal, binario, hex, menú donde encontrarla)
+
+(dibujo bus k[3:0])
+
+(foto alhambra con los leds encendidos)
+
+(pruebas a enviar otra constante: 5 por ejemplo (ó 10))
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
