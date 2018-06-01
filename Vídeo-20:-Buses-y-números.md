@@ -49,6 +49,8 @@ Nos aparecerá un bloque con el **número 3**, y el número en binario debajo (1
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-3.png)
 
+Por la salida de este bloque aparece un cable más gordo de lo normal, con el nombre **k[1:0]**. Se trata de un bus de 2 bits
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
