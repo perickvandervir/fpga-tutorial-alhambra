@@ -67,7 +67,11 @@ Ahora **tiramos el bus** como si se tratase de un cable cualquiera, uniendo los 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-7.png)
 
-(Foto icezum con circuito cargado)
+Lo **cargamos** y lo **probamos**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-8.png)
+
+Vemos que los dos LEDs, LED0 y LED1 se encienden. Lo importante es saber que los dos circuito que hemos probado, el que tiene **cables aislados** y el que tiene el **bus**, **son equivalentes**
 
 (pantallazo de los dos circuitos. Son equivalentes)
 
