@@ -21,6 +21,7 @@ TODO
 # Contenido
 
 * [Introducción](#introducci%C3%B3n)
+* [Bus de 2 bits](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-20:-Buses-y-n%C3%BAmeros#buses-de-2-bits)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
