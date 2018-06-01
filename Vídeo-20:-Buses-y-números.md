@@ -80,6 +80,10 @@ Al trabajar con buses nos centramos en los **números**. Lo que transmitimos de 
 
 # Buses de 4 bits
 
+El funcionamiento de los **buses de 4 bit** (y de cualquier tamaño) es similar al de dos bits. Este es el circuito de ejemplo para **encender 4 LEDs** usando un bus de 4 bits. Está accesible desde el menú **Archivo/Ejemplos/1-Ejemplo/02-BUS-4bits-LEDs**
+
+(Ejemplo)
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
