@@ -43,7 +43,7 @@ Según los **números** con los que trabajemos en nuestro circuito, usaremos bus
 
 # Buses
 
-Veremos buses de 3 tamaños, a modo de ejemplo. Empezaremos por los **buses más simples**: de **2 bits**. Luego mostraremos de 4 y de 8 bits
+Veremos buses de 3 tamaños, a modo de ejemplo. Empezaremos por los **buses más simples**: de **2 bits**. Luego mostraremos de **4** y de **8 bits**
 
 ## Buses de 2 bits
 
