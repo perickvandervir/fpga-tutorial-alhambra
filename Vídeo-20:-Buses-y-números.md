@@ -38,9 +38,13 @@ Hasta ahora hemos trabajado con **bits individuales**. Cada bit se transmite por
 
 Sin embargo, también podemos **agrupar los bits** en un cable más gordo, que llamamos **Bus**. Los bit se siguen transportando igual, y en paralelo, cada uno por su cable, pero sólo dibujamos un único cable de bus. De esta forma, **los diseños son más sencillos de dibujar y de entender**
 
-Según los **números** con los que trabajemos en nuestro circuito, usaremos buses de un **tamaño** un otro. Empezaremos por los **buses más simples**: de **2 bits**
+Según los **números** con los que trabajemos en nuestro circuito, usaremos buses de un **tamaño** un otro. 
 
-# Buses de 2 bits
+# Buses
+
+Veremos buses de 3 tamaños, a modo de ejemplo. Empezaremos por los **buses más simples**: de **2 bits**. Luego mostraremos de 4 y de 8 bits
+
+## Buses de 2 bits
 
 Haremos un circuito equivalente al anterior, para **enceder 2 LEDs**, pero usando una **constante**  y un bus de **2 bits**. Primero colocamos la **constante 3** (que en binario es 11) desde el menú **Const/Bus/2-bits/Valor_3**
 
@@ -78,7 +82,7 @@ Vemos que los dos LEDs, LED0 y LED1 se encienden. Lo importante es saber que los
 
 Al trabajar con buses nos centramos en los **números**. Lo que transmitimos de un sitio a otro son números. Y eso es lo que nos importa, aunque internamente se transportes los bits individualmente
 
-# Buses de 4 bits
+## Buses de 4 bits
 
 El funcionamiento de los **buses de 4 bit** (y de cualquier tamaño) es similar al de dos bits. Este es el circuito de ejemplo para **encender 4 LEDs** usando un bus de 4 bits. Está accesible desde el menú **Archivo/Ejemplos/1-Ejemplo/02-BUS-4bits-LEDs**
 
@@ -91,6 +95,10 @@ El funcionamiento de los **buses de 4 bit** (y de cualquier tamaño) es similar 
 (foto alhambra con los leds encendidos)
 
 (pruebas a enviar otra constante: 5 por ejemplo (ó 10))
+
+TODO
+
+## Buses de 8 bits
 
 TODO
 
