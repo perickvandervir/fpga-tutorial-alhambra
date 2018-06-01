@@ -77,6 +77,9 @@ Vemos que los dos LEDs, LED0 y LED1 se encienden. Lo importante es saber que los
 
 Al trabajar con buses nos centramos en los **números**. Lo que transmitimos de un sitio a otro son números. Y eso es lo que nos importa, aunque internamente se transportes los bits individualmente
 
+# Buses de 4 bits
+
+TODO
 
 # Ejercicios propuestos (X BitPoints)
 
