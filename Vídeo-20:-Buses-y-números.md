@@ -45,6 +45,10 @@ Haremos un circuito equivalente al anterior, para **enceder 2 LEDs**, pero usand
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-2.png)
 
+Nos aparecerá un bloque con el **número 3**, y el número en binario debajo (11)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-3.png)
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
