@@ -71,7 +71,7 @@ Lo **cargamos** y lo **probamos**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-8.png)
 
-Vemos que los dos LEDs, LED0 y LED1 se encienden. Lo importante es saber que los dos circuito que hemos probado, el que tiene **cables aislados** y el que tiene el **bus**, **son equivalentes**
+Vemos que los dos LEDs, LED0 y LED1 se encienden. Lo importante es saber que los dos circuito que hemos probado, el que tiene **cables aislados** y el que tiene el **bus**, **son equivalentes**. Este ejemplo de comparación se encuentra disponible en **Archivo/Ejemplos/1-Ejemplos/01-Bus-2Bits-LEDs**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-9.png)
 
