@@ -42,7 +42,7 @@ Según los **números** con los que trabajemos en nuestro circuito, usaremos bus
 
 Haremos un circuito equivalente al anterior, para **enceder 2 LEDs**, pero usando una **constante**  y un bus de **2 bits**. Primero colocamos la **constante 3** (que en binario es 11) desde el menú **Const/Bus/2-bits/Valor_3**
 
-(pantallazo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-2.png)
 
 TODO
 
