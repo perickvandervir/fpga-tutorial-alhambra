@@ -34,6 +34,11 @@ Hasta ahora hemos trabajado con **bits individuales**. Cada bit se transmite por
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-1.png)
 
+Sin embargo, también podemos **agrupar los bits** en un cable más gordo, que llamamos **Bus**. Los bit se siguen transportando igual, y en paralelo, cada uno por su cable, pero sólo dibujamos un único cable de bus. De esta forma, **los diseños son más sencillos de dibujar y de entender**
+
+Según los **números** con los que trabajemos en nuestro circuito, usaremos buses de un tamaño un otro. Empezaremos por los **buses más simples**: de 2 bits
+
+# Buses de 2 bits
 
 TODO
 
