@@ -73,9 +73,10 @@ Lo **cargamos** y lo **probamos**
 
 Vemos que los dos LEDs, LED0 y LED1 se encienden. Lo importante es saber que los dos circuito que hemos probado, el que tiene **cables aislados** y el que tiene el **bus**, **son equivalentes**
 
-(pantallazo de los dos circuitos. Son equivalentes)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-9.png)
 
-TODO
+Al trabajar con buses nos centramos en los **números**. Lo que transmitimos de un sitio a otro son números. Y eso es lo que nos importa, aunque internamente se transportes los bits individualmente
+
 
 # Ejercicios propuestos (X BitPoints)
 
