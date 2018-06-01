@@ -59,6 +59,8 @@ Los **LEDs** los trataremos como un **bloque** al que le entra un **bus de 2 bit
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-5.png)
 
+Al pinchar sobre el **OK** nos aparecerá un **bloque con 2 salidas**, y un bus de entrada. Lo colocamos en el circuito
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
