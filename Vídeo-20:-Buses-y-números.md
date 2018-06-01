@@ -57,7 +57,7 @@ La letra **k** es el nombre que se le ha dado al bus en la salida de la constant
 
 Los **LEDs** los trataremos como un **bloque** al que le entra un **bus de 2 bits**. Para ello colocamos un pin de salida como hacemos normalmente, pero en el nombre usamos la nomenclatura del bus: **LED[1:0]**
 
-(pantallazo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-5.png)
 
 TODO
 
