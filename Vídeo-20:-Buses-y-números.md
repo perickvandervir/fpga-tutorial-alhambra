@@ -67,6 +67,10 @@ Ahora **tiramos el bus** como si se tratase de un cable cualquiera, uniendo los 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-7.png)
 
+(Foto icezum con circuito cargado)
+
+(pantallazo de los dos circuitos. Son equivalentes)
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
