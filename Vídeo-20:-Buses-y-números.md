@@ -55,6 +55,10 @@ Por la salida de este bloque aparece un cable más gordo de lo normal, con el no
 
 La letra **k** es el nombre que se le ha dado al bus en la salida de la constante, pero podría tener cualquier otro. Entre **corchetes** se indican los **números de los cables** que transportan los bits más significativo y menos significativo respectivamente. Siempre usaremos el **0** para referirnos al de **menor peso**. Como es un bus de 2 bits, el más significativo será el 1
 
+Los **LEDs** los trataremos como un **bloque** al que le entra un **bus de 2 bits**. Para ello colocamos un pin de salida como hacemos normalmente, pero en el nombre usamos la nomenclatura del bus: **LED[1:0]**
+
+(pantallazo)
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
