@@ -30,6 +30,11 @@ TODO
 
 # Introducción
 
+Hasta ahora hemos trabajado con **bits individuales**. Cada bit se transmite por un cable, de un componente a otro. Por ejemplo, si queremos encender dos LEDs, hacemos un circuito como este:
+
+(ejemplo 2 leds on)
+
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
