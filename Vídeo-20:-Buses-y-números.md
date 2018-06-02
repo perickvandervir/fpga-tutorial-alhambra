@@ -97,7 +97,7 @@ Es un bus formado por **4 cables**, numerados desde el 0 (que transporta el bit 
 
 Lo **cargamos** y lo **probamos**:
 
-(foto alhambra con los leds encendidos)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-4bits-3.png)
 
 (pruebas a enviar otra constante: 5 por ejemplo (ó 10))
 
