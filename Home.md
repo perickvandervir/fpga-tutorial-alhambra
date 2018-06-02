@@ -251,7 +251,7 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 | 11  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/11-Padawan-N1.png) | **Padawan Nivel 1** | 180 | Sabes utilizar los **multiplexores**, y ya manejas los servos de **rotación contínua**. Sabes como hacer tus **primeros robots móviles** |
 | 12  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/12-Padawan-N2.png) | **Padawan Nivel 2** | 210 | Ya tienes experiencia con **sensores de IR**. Has construido tus primeros **robots reactivos** con FPGA |
 | 13  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/13-Padawan-N3.png) | **Padawan Nivel 3** | 240 | Ya sabes manejar las **tres pueras lógicas básicas**, con las que puedes hacer **cualquier** circuito combinacional |
-| 14  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/14-Aspirante-jedi.png) | **Aspirante a Jedi** | 270 |  |
+| 14  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/14-Aspirante-jedi.png) | **Aspirante a Jedi** | 270 | Conoces los secretos de los circuitos paramétricos y el uso de las tablas de verdad para diseñar circuitos combinacionales |
 
 ### Pendiente...
 
