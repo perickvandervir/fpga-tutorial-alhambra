@@ -24,6 +24,7 @@ TODO
 * [Buses](#buses)
   * [Buses de 2 bits](#buses-de-2-bits)
   * [Buses de 4 bits](#buses-de-4-bits)
+  * [Buses de 8 bits](#buses-de-8-bits)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
