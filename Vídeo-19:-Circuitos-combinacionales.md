@@ -37,6 +37,7 @@ Ya está liberado [Icestudio 0.3.3-Beta](https://github.com/FPGAwars/icestudio/r
 * [Ejercicios propuestos (20 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Andrés Prieto-Moreno Torres](#andr%C3%A9s-prieto-moreno-andrespmt)
+  * [Andrés (@Avarez)](#andr%C3%A9s-avarez_)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
