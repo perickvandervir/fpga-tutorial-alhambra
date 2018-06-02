@@ -106,6 +106,12 @@ Ahora ponemos otra **constante de 4 bits**, como por ejemplo el **5**. Cargamos 
 
 ## Buses de 8 bits
 
+(Crear constantes de 8 bits: FF, AA, 00, 55)
+
+(Ejemplo: encender los 8 leds de la alhambra. Constante FF)
+
+(foto placa leds encendidos)
+
 TODO
 
 # Numeros paramétricos
