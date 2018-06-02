@@ -265,21 +265,16 @@ Diseñar un **circuito combinacional** de **4 bits de entrada** y uno de salida,
 
 # Ejercicios entregados
 
-## Primero
+## Andrés Prieto-Moreno (andrespmt)
 
 ### Ejercicio 1
-![]()
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+(pendiente)
 
 ### Ejercicio 2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-19/aprieto/ewjercicio-19-2.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/Keithpmt/status/1002576367815311360)
 
 ### Ejercicio 3
 ![]()
