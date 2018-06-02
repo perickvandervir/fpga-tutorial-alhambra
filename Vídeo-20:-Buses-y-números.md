@@ -99,9 +99,9 @@ Lo **cargamos** y lo **probamos**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-4bits-3.png)
 
-(pruebas a enviar otra constante: 5 por ejemplo (ó 10))
+Ahora ponemos otra **constante de 4 bits**, como por ejemplo el **5**. Cargamos el circuito y vermos que se encienden los LEDs 6 y 4, ya que el 5 en binario es **0101**
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-4bits-4.gif)
 
 ## Buses de 8 bits
 
