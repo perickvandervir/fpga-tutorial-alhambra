@@ -303,14 +303,14 @@ Diseñar un **circuito combinacional** de **4 bits de entrada** y uno de salida,
 ### Ejercicio 4
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-19/avarez/Ejercicio.19.4.png)
 
-## Tercero
+## Federico Coca
 
 ### Ejercicio 1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-19/fgcoca/Ejercicio-1/Ejercicio19_1%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/4VVngfFGJ-k/0.jpg)](https://www.youtube.com/watch?v=4VVngfFGJ-k)
 
 ### Ejercicio 2
 ![]()
