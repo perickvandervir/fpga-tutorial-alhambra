@@ -38,6 +38,7 @@ Ya está liberado [Icestudio 0.3.3-Beta](https://github.com/FPGAwars/icestudio/r
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Andrés Prieto-Moreno Torres](#andr%C3%A9s-prieto-moreno-andrespmt)
   * [Andrés (@Avarez)](#andr%C3%A9s-avarez_)
+  * [Federico Coca](#federico-coca)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
