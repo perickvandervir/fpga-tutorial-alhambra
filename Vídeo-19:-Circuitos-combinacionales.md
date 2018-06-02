@@ -321,18 +321,18 @@ Diseñar un **circuito combinacional** de **4 bits de entrada** y uno de salida,
 [![Click to see the youtube video](http://img.youtube.com/vi/cmnIYYvzHIY/0.jpg)](https://www.youtube.com/watch?v=cmnIYYvzHIY)
 
 ### Ejercicio 3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-19/fgcoca/Ejercicio-3/Ejercicio19_3%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=ZqgJuoLv5vk)
 
 ### Ejercicio 4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-19/fgcoca/Ejercicio-4/Ejercicio19_4%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/M1IOIfPKCIk/0.jpg)](https://www.youtube.com/watch?v=M1IOIfPKCIk)
 
 
 # Autor
