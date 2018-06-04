@@ -112,11 +112,19 @@ El circuito para **encender los 8 leds** de la Icezum Alhambra usando un **bus d
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-8bits-1.png)
 
-Hemos utilizado la constante de 8-bits **255**, que se corresponde con el número binario que tiene sus **8 bits a 1**, por lo que al enviarlo por el bus de 8-bits **se encienden todos los LEDs**. El valor en **hexadecimal** es el **FF**. La salida de la constante es un **bus de 8 bits**, que se ha denotado por **k[7:0]**
+Hemos utilizado la constante de 8-bits **255**, que se corresponde con el número binario que tiene sus **8 bits a 1**, por lo que al enviarlo por el bus de 8-bits **se encienden todos los LEDs**. El valor en **hexadecimal** es el **FF**. Esta constante se encuentra en el menú **Const/Bus/8_bits/Valor_255**. Como salida tiene un **bus de 8 bits**, que se ha denotado por **k[7:0]**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-8bits-2.png)
 
+El cable que lleva el **bit de mayor** peso se ha numerdo como **7**, y que lleva el de **menor peso** como **0**
+
+Lo **cargamos** y lo **probamos**
+
 (foto placa leds encendidos)
+
+(Animación colocando otra constante: por ejemplo 170)
+
+
 
 TODO
 
