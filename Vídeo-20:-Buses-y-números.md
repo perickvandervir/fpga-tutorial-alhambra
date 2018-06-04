@@ -170,6 +170,8 @@ Cuando trabajamos con números y buses es **responsabilidad del diseñador** el 
 
 Lo que ocurrirá es lo siguiente: El **valor 16** en binario es **10000**. Se necesitan 5 bits para representarlo. Como lo estamos sacando por un **bus de 4 bits**, sólo se envían los 4 bits menos significativos, ignorándose el 1 de mayor peso (El número se ha truncado). El resultado es que no se encenderá ningún LED
 
+Es importante recordar esto, y siempre tener en la cabeza los números de bits que estamos usando, para **evitar truncamientos indeseados**
+
 ## Números en decimal, hexadecimal y binario
 
 TODO
