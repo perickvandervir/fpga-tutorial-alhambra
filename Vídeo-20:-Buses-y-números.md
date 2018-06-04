@@ -148,6 +148,15 @@ Si **cargamos** este circuito en la placa, veremos que se encienden los leds LED
 
 Al haber usado una constante genérica, podemos editar este valor y poner el que queramos, de 8 bits. **Podemos introducir cualquier número de 8 bits**
 
+## Ejemplo 5: Constante genérica de 4 bits
+
+Si queremos introducir constantes de 4 bits se hace la misma forma, pero ahora colocamos el bloque que está en el menú **Const/Bus/4_bits/Genérico**. En este ejemplo usamos **2 constantes de 4 bits** para activar los LEDs. La primera actúa sobre los 4 leds más significativos, y la segunda sobre los 4 menos significativos. Los valores que enviamos son **12** (1100) y **3** (0011)
+
+(Foto circuito)
+
+(Foto Alhambra)
+
+
 # Separadores y agregadores
 
 TODO
