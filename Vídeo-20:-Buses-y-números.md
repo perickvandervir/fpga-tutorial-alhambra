@@ -120,7 +120,7 @@ El cable que lleva el **bit de mayor** peso se ha numerdo como **7**, y que llev
 
 Lo **cargamos** y lo **probamos**
 
-(foto placa leds encendidos)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-8bits-3.png)
 
 (Animación colocando otra constante: por ejemplo 170)
 
