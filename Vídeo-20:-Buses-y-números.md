@@ -164,7 +164,11 @@ El resultarío sería exactamente igual si en lugar de 2 constantes de 4 bits en
 
 ## Truncado de números
 
-TODO
+Cuando trabajamos con números y buses es **responsabilidad del diseñador** el usar los valores correctos. Cuando se asignan constantes a buses, se **trunca** la constante a los bits del bus definido, **ignorándose** el resto. Así por ejemplo, si estamos usando un bus de 4 bits, el valor más alto que podemos usar es de 15, o de lo contrario se truncará el valor. En el siguiente ejemplo estamos introduciendo un valor de 16 a un bus de 4 bits
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/constantes-06.png)
+
+Lo que ocurrirá es lo siguiente: El **valor 16** en binario es **10000**. Se necesitan 5 bits para representarlo. Como lo estamos sacando por un **bus de 4 bits**, sólo se envían los 4 bits menos significativos, ignorándose el 1 de mayor peso (El número se ha truncado). El resultado es que no se encenderá ningún LED
 
 ## Números en decimal, hexadecimal y binario
 
