@@ -29,6 +29,7 @@ TODO
   * [Ejemplo 4: Constante genérica de 8 bits](#ejemplo-4-constante-gen%C3%A9rica-de-8-bits)
   * [Ejemplo 5: Constante genérica de 4 bits](#ejemplo-5-constante-gen%C3%A9rica-de-4-bits)
   * [Truncado de números](#truncado-de-n%C3%BAmeros)
+  * [Números en decimal, hexadecimal y binario](#n%C3%BAmeros-en-decimal-hexadecimal-y-binario)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
