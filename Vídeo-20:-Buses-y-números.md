@@ -181,6 +181,15 @@ Sin embargo, es posible introducirlos también en **hexadecimal** o **binario**,
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/constantes-07.png)
 
+Así, si quieremos encender los 8 LEDs, cualquiera de los siguientes valores sería válido: 
+
+```verilog
+255
+8'd255
+8'hFF
+8'b11111111
+```
+
 TODO
 
 
