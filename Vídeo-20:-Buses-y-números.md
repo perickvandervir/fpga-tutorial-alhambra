@@ -129,7 +129,7 @@ Probamos con otra constante, por ejemplo **170**. Se corresponde con el número 
 
 # Números constantes paramétricos
 
-Las constantes que hemos utilizado hasta ahora para introducir valores por los buses, tienen **valores fijos**, que no se puede cambiar. Vamos a partir del ejemplo anterior, que enciende los 8 leds de la icezum alhambra a través de la constante 255 en el bus de 8 bits. Si hacemos **doble click** sobre la **constante**, veres que está creada a partir de una **constante genérica k**, a la que se le pasa como **parámetro** el valor que queramos
+Las constantes que hemos utilizado hasta ahora para introducir valores por los buses, tienen **valores fijos**, que no se puede cambiar. Volvamos al **ejemplo** anterior, que **enciende los 8 leds** de la icezum alhambra a través de la constante 255 en el bus de 8 bits. Si hacemos **doble click** sobre la **constante**, veres que está creada a partir de una **constante genérica k**, a la que se le pasa como **parámetro** el valor que queramos
 
 (Animación de ver el interior de la constante)
 
