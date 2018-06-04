@@ -26,6 +26,7 @@ TODO
   * [Buses de 4 bits](#buses-de-4-bits)
   * [Buses de 8 bits](#buses-de-8-bits)
 * [Números constantes paramétricos](#n%C3%BAmeros-constantes-param%C3%A9tricos)
+  * [Ejemplo 4: Constante genérica de 8 bits](#ejemplo-4-constante-gen%C3%A9rica-de-8-bits)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
