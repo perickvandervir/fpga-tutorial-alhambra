@@ -201,7 +201,7 @@ Este es otro ejemplo en el que se envían **4 constantes de 2 bits** a los LEDs,
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/constantes-09.png)
 
 
-# Separadores y agregadores
+# Separadores y agregadores de bus
 
 TODO
 
