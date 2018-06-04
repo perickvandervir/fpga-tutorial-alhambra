@@ -175,7 +175,7 @@ Es importante recordar esto, y siempre tener en la cabeza los números de bits q
 
 ## Números en decimal, hexadecimal y binario
 
-Si no indicamos nada, cuando introducimos los valores como paráetros, **por defecto están en decimal**. Sólo tenemos que tener la precaución de que no se trunque. Todos los valores que hemos introducido hasta ahora estaban en decimal.
+Si no indicamos nada, cuando introducimos los valores como parámetros, **por defecto están en decimal**. Sólo tenemos que tener la precaución de que no se trunque. Todos los valores que hemos introducido hasta ahora estaban en decimal.
 
 Sin embargo, es posible introducirlos también en **hexadecimal** o **binario**, usando la **notación de Verilog**. Esta notación tiene la siguiente **sintáxis**. Usaremos como ejemplo el **valor 255 de 8 bits**
 
