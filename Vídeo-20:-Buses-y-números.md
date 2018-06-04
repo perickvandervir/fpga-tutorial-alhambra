@@ -103,8 +103,10 @@ Lo **cargamos** y lo **probamos**:
 Ahora ponemos otra **constante de 4 bits**, como por ejemplo el **5**. Cargamos el circuito y vermos que se encienden los LEDs 6 y 4, ya que el 5 en binario es **0101**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-4bits-4.gif)
-
+t
 ## Buses de 8 bits
+
+Los **buses de 8 bits** se utilizan muchísimo. Los **procesadores** de los primeros ordenadores que llegaron a nuestras casas, en los inicios de la informática, eran de **8-bits**. Por ejemplo el procesador [Z80](https://es.wikipedia.org/wiki/Zilog_Z80) o el [6502](https://es.wikipedia.org/wiki/MOS_6502), son de 8-bits. Se usaron en los ordenadores de la época, como ZX-spectrum o el Amstrad CPC entre otros muchos.
 
 (Crear constantes de 8 bits: FF, AA, 00, 55)
 
