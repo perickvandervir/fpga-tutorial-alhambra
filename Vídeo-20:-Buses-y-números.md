@@ -190,6 +190,10 @@ Así, si quieremos **encender los 8 LEDs**, cualquiera de los siguientes valores
 8'b11111111
 ```
 
+Y aquí está el **circuito en icestudio**, donde introducimos el valor en **binario**, pero se muestran las otras posibilidades
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/constantes-08.png)
+
 TODO
 
 
