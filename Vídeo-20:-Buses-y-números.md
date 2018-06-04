@@ -179,7 +179,7 @@ Si no indicamos nada, cuando introducimos los valores como paráetros, **por def
 
 Sin embargo, es posible introducirlos también en **hexadecimal** o **binario**, usando la **notación de Verilog**. Esta notación tiene la siguiente **sintáxis**. Usaremos como ejemplo el **valor 255 de 8 bits**
 
-(dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/constantes-07.png)
 
 TODO
 
