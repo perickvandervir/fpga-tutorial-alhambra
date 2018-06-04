@@ -161,6 +161,15 @@ Si **cargamos** el circuito en la Icezum Alhambra, se nos **encenderán** los si
 
 El resultarío sería exactamente igual si en lugar de 2 constantes de 4 bits enviamos el valor constante **195**, de 8 bits  (que en binario es 11000011)
 
+## Truncado de números
+
+TODO
+
+## Números en decimal, hexadecimal y binario
+
+TODO
+
+
 # Separadores y agregadores
 
 TODO
