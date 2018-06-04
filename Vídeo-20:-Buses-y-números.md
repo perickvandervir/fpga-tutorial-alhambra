@@ -194,6 +194,8 @@ Y aquí está el **circuito en icestudio**, donde introducimos el valor en **bin
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/constantes-08.png)
 
+(Ejemplo con buses de 2 bits: primero en decimal, segundo (1) en decimal, tercero (2) en hexa, y cuarto (3) en binario
+
 TODO
 
 
