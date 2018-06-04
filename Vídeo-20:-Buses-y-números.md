@@ -122,6 +122,8 @@ Lo **cargamos** y lo **probamos**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-8bits-3.png)
 
+Probamos con otra constante, por ejemplo **170**. Se corresponde con el número hexadecimal **AAh**, y el binario **10101010**, que se caracteriza porque tiene los bits alternados: pares a uno, impares a 0.  La constante **85** (**55h**) es la negada:  se correspone con el número binario 01010101, en el que los bits pares están a 0 y los impares a uno. Ambas constantes, **170** y **85** se **utilizan muchísimo** en hardware, para hacer pruebas
+
 (Animación colocando otra constante: por ejemplo 170)
 
 
