@@ -206,7 +206,7 @@ Este es otro ejemplo en el que se envían **4 constantes de 2 bits** a los LEDs,
 
 TODO
 
-# Multiplexores de N-bits
+# Multiplexores de N bits
 
 TODO
 
