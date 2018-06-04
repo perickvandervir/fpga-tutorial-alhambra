@@ -28,6 +28,7 @@ TODO
 * [Números constantes paramétricos](#n%C3%BAmeros-constantes-param%C3%A9tricos)
   * [Ejemplo 4: Constante genérica de 8 bits](#ejemplo-4-constante-gen%C3%A9rica-de-8-bits)
   * [Ejemplo 5: Constante genérica de 4 bits](#ejemplo-5-constante-gen%C3%A9rica-de-4-bits)
+  * [Truncado de números](#truncado-de-n%C3%BAmeros)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
