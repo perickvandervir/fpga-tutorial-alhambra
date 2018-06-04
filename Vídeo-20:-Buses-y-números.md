@@ -137,7 +137,11 @@ Esa **constante genérica** la podemos colocar desde el menú **Const/Bus/8_bits
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/constantes-02.png)
 
+Si **cargamos** este circuito en la placa, veremos que se encienden los leds LED7 y LED0, ya que el 129 en binario es 10000001
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/constantes-03.png)
+
+Al haber usado una constante genérica, podemos editar este valor y poner el que queramos, de 8 bits. **Podemos introducir cualquier número de 8 bits**
 
 # Separadores y agregadores
 
