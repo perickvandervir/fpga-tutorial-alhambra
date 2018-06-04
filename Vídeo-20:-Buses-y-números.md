@@ -25,6 +25,7 @@ TODO
   * [Buses de 2 bits](#buses-de-2-bits)
   * [Buses de 4 bits](#buses-de-4-bits)
   * [Buses de 8 bits](#buses-de-8-bits)
+* [Números constantes paramétricos](#n%C3%BAmeros-constantes-param%C3%A9tricos)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
