@@ -110,7 +110,7 @@ Los **buses de 8 bits** se utilizan muchísimo. Los **procesadores** de los prim
 
 El circuito para **encender los 8 leds** de la Icezum Alhambra usando un **bus de 8 bits** es el siguiente:
 
-(Ejemplo: encender los 8 leds de la alhambra. Constante FF)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-8bits-1.png)
 
 (foto placa leds encendidos)
 
