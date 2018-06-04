@@ -133,10 +133,9 @@ Las constantes que hemos utilizado hasta ahora para introducir valores por los b
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/constantes-01.gif)
 
-Esa **constante genérica** la podemos colocar desde el menú **Const/Bus/8_bits/Genérico** y luego le pasamos el valor **como parámetro**. En este ejemplo estamos usando una constante genérica de 8 bits al que le pasamos el **valor 129** para mostrar en los LEDs
+Esa **constante genérica** la podemos colocar desde el menú **Const/Bus/8_bits/Genérico** y luego le pasamos el valor **como parámetro**. En este **ejemplo** estamos usando una constante genérica de 8 bits al que le pasamos el **valor 129** para mostrar en los LEDs
 
-(Animación de ver el interior de la constante)
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/constantes-02.png)
 
 
 
