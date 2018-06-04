@@ -157,7 +157,7 @@ Si queremos introducir **constantes de 4 bits** se hace la misma forma, pero aho
 
 Si **cargamos** el circuito en la Icezum Alhambra, se nos **encenderán** los siguientes LEDs
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/constantes-04.png)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/constantes-05.png)
 
 El resultarío sería exactamente igual si en lugar de 2 constantes de 4 bits enviamos el valor constante **195**, de 8 bits  (que en binario es 11000011)
 
