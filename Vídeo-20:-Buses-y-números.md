@@ -33,6 +33,7 @@ TODO
 * [Separadores y agregadores de bus](#separadores-y-agregadores-de-bus)
   * [Buses de 2 bits](#buses-de-2-bits-1)
   * [Buses de 4 bits](#buses-de-4-bits-1)
+  * [Buses de 8 bits](#buses-de-8-bits-1)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
