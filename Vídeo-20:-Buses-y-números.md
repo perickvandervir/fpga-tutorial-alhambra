@@ -233,9 +233,9 @@ La constante va por un **bus de 4 bits** y entra en un **separador**, obteniénd
 
 ## Buses de 8 bits
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/agregador-5.png)
+Como último ejemplo hacemos lo mismo pero con **separadores** y **agregadores de 8 bits**. Se envía la constante AAh (10101010) de 8 bits a los LEDs, primero por un bus de 8 bits que entra en un separador, obteniéndose dos buses de 4 bits. Estos entran en un agregador que vuelve a formar el bus de 8 bits que se envía a los LEDs
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/agregador-5.png)
 
 # Multiplexores de N bits
 
