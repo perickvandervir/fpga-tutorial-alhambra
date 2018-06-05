@@ -224,7 +224,11 @@ Es simplemente un ejemplo de uso. Este circuito es equivalente al que habíamos 
 
 ## Buses de 4 bits
 
+Los **separadores de bus de 4 bits**, parten el bus en otros dos buses de 2 bits. Por los **agregadores** entran dos buses de 2 bits, y se obtiene a la salida un bus de 4 bits. Como ejemplo sacaremos la constante 10 de 4 bits por los LEDs
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/agregador-4.png)
+
+La constante va por un **bus de 4 bits** y entra en un **separador**, obteniéndose 2 buses de 2 bits a su salida. Estos buses se llevan a un **agregador** que vuelve a formar otra vez un bus de 4 bits que se lleva hasta los LEDs
 
 ## Buses de 8 bits
 
