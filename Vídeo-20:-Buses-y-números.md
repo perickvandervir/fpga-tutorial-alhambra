@@ -202,7 +202,7 @@ Este es otro ejemplo en el que se envían **4 constantes de 2 bits** a los LEDs,
 
 # Separadores y agregadores de bus
 
-En nuestros diseños podemos estar trabajando con ***cables sueltos**, y en un momento determinado **unirlos** para convertirlos en un **bus**. Esto lo hacemos usando un componente que denominamos **agregador**.  
+En nuestros diseños podemos estar trabajando con **cables sueltos**, y en un momento determinado **unirlos** para convertirlos en un **bus**. Esto lo hacemos usando un componente que denominamos **agregador**. El **símbolo** que utilizamos es el siguiente: 
 
 (dibujo)
 
