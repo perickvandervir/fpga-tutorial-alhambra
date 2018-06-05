@@ -232,6 +232,8 @@ La constante va por un **bus de 4 bits** y entra en un **separador**, obteniénd
 
 ## Buses de 8 bits
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/agregador-5.png)
+
 TODO
 
 # Multiplexores de N bits
