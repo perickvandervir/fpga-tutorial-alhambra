@@ -214,7 +214,9 @@ Y también podemos hacer la operación inversa, **extraer los cables aislados** 
 Mostraremos algunos **ejemplos de agregadores** y **separadores** de bus, de tamaños de **2**, **4** y **8** bits, aunque cuando aprendamos a hacer nuestros propios bloques nos podremos crear exactamente los que necesitemos
 
 ## Buses de 2 bits
-TODO
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/agregador-3.png)
+
 
 ## Buses de 4 bits
 TODO
