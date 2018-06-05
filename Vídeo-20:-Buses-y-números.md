@@ -202,6 +202,10 @@ Este es otro ejemplo en el que se envían **4 constantes de 2 bits** a los LEDs,
 
 # Separadores y agregadores de bus
 
+En nuestros diseños podemos estar trabajando con ***cables sueltos**, y en un momento determinado **unirlos** para convertirlos en un **bus**. Esto lo hacemos usando un componente que denominamos **agregador**.  Y también podemos hacer la operación inversa, **extraer los cables aislados** a partir de un bus. El componente se llama **separador**
+
+Mostraremos algunos **ejemplos de agregadores** y **separadores** de bus, de tamaños de **2**, **4** y **8** bits, aunque cuando aprendamos a hacer nuestros propios bloques nos podremos crear exactamente los que necesitemos
+
 TODO
 
 # Multiplexores de N bits
