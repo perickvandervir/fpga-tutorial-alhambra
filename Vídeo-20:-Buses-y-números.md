@@ -215,8 +215,11 @@ Mostraremos algunos **ejemplos de agregadores** y **separadores** de bus, de tam
 
 ## Buses de 2 bits
 
+Como ejemplo vamos a **encender 2 LEDs** usando un **bus de 2 bits**, pero **separando** los cables y luego volviendo a **unirlos**
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/agregador-3.png)
 
+Es simplemente un ejemplo de uso. Este circuito es equivalente al que habíamos usado antes con un único cable de bus. La **constante 3** de **dos bits** se lleva por un bus hasta el **separador**, donde se obtiene sus dos cables, que se llevan de nuevo a un **agregador** para volver a formar un **bus de 2 bits** que se muestra por los LEDs 1 y 0
 
 ## Buses de 4 bits
 TODO
