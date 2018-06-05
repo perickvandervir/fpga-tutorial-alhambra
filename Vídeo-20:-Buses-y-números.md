@@ -208,11 +208,9 @@ En nuestros diseños podemos estar trabajando con **cables sueltos**, y en un mo
 
 Y también podemos hacer la operación inversa, **extraer los cables aislados** a partir de un bus. El componente se llama **separador**
 
-(dbujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/agregador-2.png)
 
 Mostraremos algunos **ejemplos de agregadores** y **separadores** de bus, de tamaños de **2**, **4** y **8** bits, aunque cuando aprendamos a hacer nuestros propios bloques nos podremos crear exactamente los que necesitemos
-
-TODO
 
 ## Buses de 2 bits
 TODO
