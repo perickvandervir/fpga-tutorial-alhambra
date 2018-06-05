@@ -240,6 +240,8 @@ Como último ejemplo hacemos lo mismo pero con **separadores** y **agregadores d
 
 # Multiplexores de N bits
 
+Los buses se usan como entradas y salidas de otros componentes, por ejemplo de los multiplexores. Hasta ahora sólo habíamos usados **multiplexores de 1 bit**, en los que los canales que entran son de 1 bit, y la salida son por tanto, también de 1 bit
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
