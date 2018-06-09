@@ -248,7 +248,8 @@ Como **ejemplo de aplicación** haremos un circuito que encienda alternativament
 
 Utilizaremos un **multiplexor 2 a 1 de 8 bits**. Se encuentra en el menú **Comb/Mux/8-bits/Mux-2-1**
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Mux-Nbits-1.png)
+
 
 TODO
 
