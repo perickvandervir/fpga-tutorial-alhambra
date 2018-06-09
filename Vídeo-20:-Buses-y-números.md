@@ -258,6 +258,10 @@ Por tanto, nuestro circuito lo único que tiene que hacer es **enviar alternativ
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Mux-Nbits-2.png)
 
+Lo **cargamos** y lo **probamos**
+
+(animación)
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
