@@ -250,6 +250,11 @@ Utilizaremos un **multiplexor 2 a 1 de 8 bits**. Se encuentra en el menú **Comb
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Mux-Nbits-1.png)
 
+Este multiplexor tiene dos **entradas de datos**, **i1[7:0]** e **i0[7:0]**, que ahora son **buses de 8 bits**. La **salida** es también un bus de 8 bits, que se denota por **o[7:0]**. La entrada de selección es de 1 bit
+
+Para hacer que los LEDs pares se alternen con los impares **pensamos** en los LEDs como un **número de 8 bits**. Si enviamos el número **170** se encenderán los **bits pares**, ya que este número en binario es **10101010** (y en hexadecimal AA). Por el contrario, si enviamos el número **85**, se encenderán sólo los **impares**, porque en binario es **01010101** (y 55 en hexadecimal)
+
+Por tanto, nuestro circuito lo único que tiene que hacer es **enviar alternativamente** los valores **170** y **85** a los **LEDs**
 
 TODO
 
