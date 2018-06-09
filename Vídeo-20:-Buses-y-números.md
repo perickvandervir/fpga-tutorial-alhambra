@@ -264,7 +264,7 @@ Lo **cargamos** y lo **probamos**
 
 De forma similar podemos usar **multiplexores de otro número de bits**. Por ejemplo, en este otro ejemplo usamos un **multiplexor de 4 a 1 de 4 bits** para sacar por los LEDs dos secuencias, según el estado del **pulsador**
 
-(esquema circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Mux-Nbits-4.png)
 
 (animación)
 
