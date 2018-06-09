@@ -242,6 +242,14 @@ Como último ejemplo hacemos lo mismo pero con **separadores** y **agregadores d
 
 Los buses se usan como entradas y salidas de otros componentes, por ejemplo de los multiplexores. Hasta ahora sólo habíamos usados **multiplexores de 1 bit**, en los que los canales que entran son de 1 bit, y la salida son por tanto, también de 1 bit
 
+Con los multiplexores de N bits podemos **seleccionar** qué números se envían por un bus de salida. Los canales, ahora, serán fuentes de números
+
+Como **ejemplo de aplicación** haremos un circuito que encienda alternativamente los **LEDs pares** e **impares** de la Icezum Alhambra. Esto ya lo hemos hecho previamente, pero **pensando en bits aislados**. Ahora lo haremos igual, pero **pensando con números**
+
+Utilizaremos un **multiplexor 2 a 1 de 8 bits**. Se encuentra en el menú **Comb/Mux/8-bits/Mux-2-1**
+
+(Screenshot)
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
