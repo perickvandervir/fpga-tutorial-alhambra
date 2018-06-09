@@ -256,6 +256,8 @@ Para hacer que los LEDs pares se alternen con los impares **pensamos** en los LE
 
 Por tanto, nuestro circuito lo único que tiene que hacer es **enviar alternativamente** los valores **170** y **85** a los **LEDs**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Mux-Nbits-2.png)
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
