@@ -266,6 +266,8 @@ De forma similar podemos usar **multiplexores de otro número de bits**. Por eje
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Mux-Nbits-4.png)
 
+Lo **cargamos** y lo **probamos**
+
 (animación)
 
 TODO
