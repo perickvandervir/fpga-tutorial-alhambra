@@ -260,9 +260,17 @@ Por tanto, nuestro circuito lo único que tiene que hacer es **enviar alternativ
 
 Lo **cargamos** y lo **probamos**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Mux-N-bits-3.gif)
+
+De forma similar podemos usar **multiplexores de otro número de bits**. Por ejemplo, en este otro ejemplo usamos un **multiplexor de 4 a 1 de 4 bits** para sacar por los LEDs dos secuencias, según el estado del **pulsador**
+
+(esquema circuito)
+
 (animación)
 
 TODO
+
+
 
 # Ejercicios propuestos (X BitPoints)
 
