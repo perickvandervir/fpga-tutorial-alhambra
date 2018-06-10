@@ -270,11 +270,7 @@ Cuando el **pulsador** no está apretado (sel1=0), se seleccionan los **canales 
 
 Lo **cargamos** y lo **probamos**
 
-(animación)
-
-TODO
-
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Mux-Nbits-5.gif)
 
 # Ejercicios propuestos (X BitPoints)
 
