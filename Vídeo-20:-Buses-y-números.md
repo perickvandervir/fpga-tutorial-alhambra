@@ -106,7 +106,7 @@ El funcionamiento de los **buses de 4 bit** (y de cualquier tamaño) es similar 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-4bits-1.png)
 
-Vamos a fijarnos en la **constante 15**. Es el número 15, que en binario es **1111** (Todos los bits a 1), por lo que al enviarla por el bus, hará que se enciendan todos los LEDs. En l parte inferior derecha de la constante está escrito el carácter **F**, que es el número 15 en **hexadecimal**. El bus de salida utilizado tiene esta notación **k[3:0]**, cuyo significado se muestra en esta figura
+Vamos a fijarnos en la **constante 15**. Es el número 15, que en binario es **1111** (Todos los bits a 1), por lo que al enviarla por el bus, hará que se enciendan todos los LEDs. En la parte inferior derecha de la constante está escrito el carácter **F**, que es el número 15 en **hexadecimal**. El bus de salida utilizado tiene esta notación **k[3:0]**, cuyo significado se muestra en esta figura
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-4bits-2.png)
 
