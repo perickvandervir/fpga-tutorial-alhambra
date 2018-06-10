@@ -266,6 +266,8 @@ De forma similar podemos usar **multiplexores de otro número de bits**. Por eje
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Mux-Nbits-4.png)
 
+Cuando el **pulsador** no está apretado (sel1=0), se seleccionan los **canales 0** y **1** cada medio segundo, por lo que por los LEDs se visualizan los **números 3** y **12** (0011 y 1100 en binario). Cuando el pulsador está apretado (sel1=1), se seleccionan los **canales 2** y **3**, enviándose las constantes **10** y **5** (1010 y 0101 en binario) a los LEDs
+
 Lo **cargamos** y lo **probamos**
 
 (animación)
