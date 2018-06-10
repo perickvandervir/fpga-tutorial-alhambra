@@ -1,6 +1,10 @@
 ![]()
 
+En construcción...
+
 # Vídeo
+
+En construcción...
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
@@ -8,6 +12,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
+TODO
 
 # Colección
 
@@ -24,6 +29,12 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Preguntas frecuentes](#preguntas-frecuentes)
 
 # Introducción
+
+TODO
+
+* Pegatinas (stickers)
+* Dibujos vectoriales: SVG e inkscape
+* 
 
 # Ejercicios propuestos (X BitPoints)
 
