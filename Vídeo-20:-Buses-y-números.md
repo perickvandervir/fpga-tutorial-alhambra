@@ -300,7 +300,9 @@ Diseñar un circuito digital que muestre por los **8 LEDs** de la Icezum Alhambr
 
 Diseñar un circuito digital que saque por los **LEDs 7** y **6** los pulsadores **SW2** y **SW1**, usando un **bus de 2-bits**. Además, se sacará por el **LED0** el resultado de la **operación AND** entre SW1 y SW2, obteniendo sus valores del bus de 2 bits, mediante un separador
 
-* **Ejercicio 3** (Total **5 Bitpoints**): 
+* **Ejercicio 3** (Total **5 Bitpoints**): Cifrador de números de 4-bits
+
+Diseñar un circuito digital que **cifre un número de 4-bits** mediante el **intercambio** de sus **bits centrales** (Bits 1 y 2), dejando el de mayor y menor peso iguales (bit 3 y bit 0). El número se introducirá mediante **4 interruptores externos** que entran en la icezum Alhambra mediante un **bus de 4 bits**. El número sin cifrar se sacará por los LEDs 7,6,5 y 4, y el número cifrado por los LEDs 3,2,1 y 0
 
 * **Ejercicio 4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
