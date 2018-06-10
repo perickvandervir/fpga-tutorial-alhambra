@@ -100,7 +100,7 @@ Lo **cargamos** y lo **probamos**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-10.png)
 
-Las **entradas** también se pueden **agrupar en un bus**. En este ejemplo, agrupamos los dos pulsadores de la Icezum Alhambra en un bloque de entrada de 2 bits
+Las **entradas** también se pueden **agrupar en un bus**. En este ejemplo, agrupamos los dos pulsadores de la Icezum Alhambra en un bloque de entrada de 2 bits, y los conectamos con los **LEDs de salida** mediante un **bus de 2 bits**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-11.png)
 
