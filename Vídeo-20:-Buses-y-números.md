@@ -240,6 +240,12 @@ Los **separadores de bus de 4 bits**, parten el bus en otros dos buses de 2 bits
 
 La constante va por un **bus de 4 bits** y entra en un **separador**, obteniéndose 2 buses de 2 bits a su salida. Estos buses se llevan a un **agregador** que vuelve a formar otra vez un bus de 4 bits que se lleva hasta los LEDs
 
+Una de las aplicaciones muy usadas de los agregadores y separadores es la de **intercambiar el orden de los bits de un bus**. En este ejemplo enviamos por un lado la constante 10 de 4 bits a los LEDS 7,6,5 y 4 y por otro se intercambian los dos bits de mayor y menor peso y la nueva constante se saca por los LEDS 3,2,1 y 0
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/agregador-6.png)
+
+Cambiar las posiciones de los bits es una forma simplificada de **encriptar** información
+
 ## Buses de 8 bits
 
 Como último ejemplo hacemos lo mismo pero con **separadores** y **agregadores de 8 bits**. Se envía la constante AAh (10101010) de 8 bits a los LEDs, primero por un bus de 8 bits que entra en un separador, obteniéndose dos buses de 4 bits. Estos entran en un agregador que vuelve a formar el bus de 8 bits que se envía a los LEDs
