@@ -100,7 +100,7 @@ Los buses se **comportan igual** que los cables que ya conocemos. Si queremos ti
 
 Lo **cargamos** y lo **probamos**
 
-(imagen)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-10.png)
 
 ## Buses de 4 bits
 
