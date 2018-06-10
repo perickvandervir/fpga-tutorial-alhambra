@@ -296,7 +296,9 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 Diseñar un circuito digital que muestre por los **8 LEDs** de la Icezum Alhambra la siguiente **secuencia**: 0, 15, 255 y 15, que se repetirá indefinidamente. Utilizar un multiplexor de 4 a 1 de 8 bits
 
-* **Ejercicio 2** (Total **5 Bitpoints**): 
+* **Ejercicio 2** (Total **5 Bitpoints**): Operación AND en bus de 2 bits
+
+Diseñar un circuito digital que saque por los **LEDs 7** y **6** los pulsadores **SW2** y **SW1**, usando un **bus de 2-bits**. Además, se sacará por el **LED0** el resultado de la **operación AND** entre SW1 y SW2, obteniendo sus valores del bus de 2 bits, mediante un separador
 
 * **Ejercicio 3** (Total **5 Bitpoints**): 
 
