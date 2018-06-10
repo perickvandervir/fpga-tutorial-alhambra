@@ -80,11 +80,11 @@ Al pinchar sobre el **OK** nos aparecerá un **bloque con 2 salidas**, y un bus 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-6.png)
 
-Ahora **tiramos el bus** como si se tratase de un cable cualquiera, uniendo los dos bloques. Y por último seleccionamos los LEDs por lo que enviar los bits. Por ejemplo **LED1** y **LED0**
-
+Ahora **tiramos el bus** como si se tratase de un cable cuahttps://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-1-1.pnglquiera, uniendo los dos bloques. Y por último seleccionamos los LEDs por lo que enviar los bits. Por ejemplo **LED1** y **LED0**
+https://github.com/Obijuan/digital-electronics-with-ohttps://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-1-1.pngpen-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-1-1.png
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-7.png)
 
-Lo **cargamos** y lo **probamos**
+Lo **cargamos** y lo **probamos**https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-1-1.png
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-8.png)
 
@@ -93,6 +93,14 @@ Vemos que los dos LEDs, LED0 y LED1 se encienden. Lo importante es saber que los
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-9.png)
 
 Al trabajar con buses nos centramos en los **números**. Lo que transmitimos de un sitio a otro son números. Y eso es lo que nos importa, aunque internamente se transportes los bits individualmente
+
+Los buses se **comportan igual** que los cables que ya conocemos. Si queremos tirar **más de un bus** desde la misma salida lo hacemos igual. En este ejemplo se están encendiendo **4 LEDs** usando **dos buses de 2 bits**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Bus-2bits-1-1.png)
+
+Lo **cargamos** y lo **probamos**
+
+(imagen)
 
 ## Buses de 4 bits
 
