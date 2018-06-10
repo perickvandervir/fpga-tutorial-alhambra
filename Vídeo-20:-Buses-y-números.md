@@ -14,7 +14,7 @@ Hasta ahora hemos hecho circuitos que trataban con los bits de manera aislada. C
 
 # Colección
 
-**Academia-Jedi-HW-20.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-20.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Collection/Academia-Jedi-HW-20.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
