@@ -35,7 +35,7 @@ TODO
   * [Buses de 4 bits](#buses-de-4-bits-1)
   * [Buses de 8 bits](#buses-de-8-bits-1)
 * [Multiplexores de N bits](#multiplexores-de-n-bits)
-* Ejercicios propuestos (X Bitpoints)
+* [Ejercicios propuestos (20 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-20:-Buses-y-n%C3%BAmeros#ejercicios-propuestos-20-bitpoints)  
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
 * [Licencia](#licencia)
