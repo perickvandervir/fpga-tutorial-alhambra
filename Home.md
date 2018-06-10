@@ -27,7 +27,7 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | 17 | [Puertas lógicas: OR](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-17:-Puertas-l%C3%B3gicas:-OR) |
 | 18 | [Bloques con parámetros](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-18:-Bloques-con-par%C3%A1metros) |
 | 19 | [Circuitos combinacionales](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales) |
-| 20 | [Buses y números](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-20:-Buses-y-n%C3%BAmeros) (En construcción...)  |
+| 20 | [Buses y números](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-20:-Buses-y-n%C3%BAmeros) |
 | 21 | Mi primer bloque |
 | 22 | Biestables |
 | 23  | Temporizador
