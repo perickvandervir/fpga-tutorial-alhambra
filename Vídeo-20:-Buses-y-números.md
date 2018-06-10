@@ -10,7 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-TODO
+Hasta ahora hemos hecho circuitos que trataban con los bits de manera aislada. Con circuitos más complejos, es mejor **agrupar los cables en buses**, y **tratar la información como números**, en vez de bits aislados. Aprenderemos a crear **buses**, **agrupar** entradas y salidas, y utilizar componentes cuyas entradas y salidas son **números**
 
 # Colección
 
