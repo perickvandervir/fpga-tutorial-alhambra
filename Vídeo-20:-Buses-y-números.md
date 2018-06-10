@@ -294,9 +294,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 1** (Total **5 Bitpoints**):  Secuencia de 4 estados en los LEDs
 
-Diseñar un circuito digital que muestre por los **8 LEDs** de la Icezum Alhambra  
-la siguiente **secuencia**: 0, 15, 255 y 15, que se repetirá indefinidamente.  
-Utilizar un multiplexor de 4 a 1 de 8 bits
+Diseñar un circuito digital que muestre por los **8 LEDs** de la Icezum Alhambra la siguiente **secuencia**: 0, 15, 255 y 15, que se repetirá indefinidamente. Utilizar un multiplexor de 4 a 1 de 8 bits
 
 * **Ejercicio 2** (Total **5 Bitpoints**): 
 
