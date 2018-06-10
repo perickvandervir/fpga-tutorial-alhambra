@@ -286,19 +286,23 @@ Lo **cargamos** y lo **probamos**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-20/Mux-Nbits-5.gif)
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (20 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **x Bitpoints**): 
+* **Ejercicio 1** (Total **5 Bitpoints**):  Secuencia de 4 estados en los LEDs
 
-* **Ejercicio 2** (Total **x Bitpoints**): 
+Diseñar un circuito digital que muestre por los **8 LEDs** de la Icezum Alhambra  
+la siguiente **secuencia**: 0, 15, 255 y 15, que se repetirá indefinidamente.  
+Utilizar un multiplexor de 4 a 1 de 8 bits
 
-* **Ejercicio 3** (Total **x Bitpoints**): 
+* **Ejercicio 2** (Total **5 Bitpoints**): 
 
-* **Ejercicio 4** (**3 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
+* **Ejercicio 3** (Total **5 Bitpoints**): 
+
+* **Ejercicio 4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
 
