@@ -326,18 +326,18 @@ Diseñar un circuito digital que **cifre un número de 4-bits** mediante el **in
 [![Click to see the youtube video](http://img.youtube.com/vi/sOGObpO2T9E/0.jpg)](https://www.youtube.com/watch?v=sOGObpO2T9E)
 
 ### Ejercicio 3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-20/ximocat/Ejercicio20_3.jpg)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/YbXP685Pc1w/0.jpg)](https://www.youtube.com/watch?v=YbXP685Pc1w)
 
 ### Ejercicio 4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-20/ximocat/Ejercicio20_4.jpg)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/ct4T0T5qL9s/0.jpg)](https://www.youtube.com/watch?v=ct4T0T5qL9s)
 
 
 ## Segundo
