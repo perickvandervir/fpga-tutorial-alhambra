@@ -21,6 +21,7 @@ TODO
 # Contenido
 
 * [Introducción](#introducci%C3%B3n)
+  * [Puertos y pines](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-21:-Mi-primer-bloque#puertos-y-pines)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
