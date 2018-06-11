@@ -260,7 +260,6 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 |-------|----------|--------|-------------|-------------|
 | Núm   | Rango  |  Bitpoints  | Descripción |
 |-------|--------|-------------|-------------|
-|15  |   **Aspirante a Jedi Nivel 1**|  |  |  |
 |16  |   **Aspirante a Jedi Nivel 2**|  |  |  |
 |17  |   **Aspirante a Jedi Nivel 3**|  |  |  |
 |18  |  **Jedi**          |  |  |  |
