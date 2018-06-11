@@ -308,14 +308,14 @@ Diseñar un circuito digital que **cifre un número de 4-bits** mediante el **in
 
 # Ejercicios entregados
 
-## Primero
+## Ximo Catalá
 
 ### Ejercicio 1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-20/ximocat/Ejercicio20_1.jpg)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/bNc6v789jKQ/0.jpg)](https://www.youtube.com/watch?v=bNc6v789jKQ)
 
 ### Ejercicio 2
 ![]()
