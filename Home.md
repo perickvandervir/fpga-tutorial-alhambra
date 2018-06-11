@@ -54,7 +54,7 @@ Estudiante que se encuentran cursando el **segundo año** de la **academia de Ha
 
 |Divisa  | Nombe             | Rango    | BitPoints |
 |--------|-------------------|----------|-----------|
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/15-Aspirante-jedi-N1-min.png)|     Ximo Catala (Ximocat) | Aspirante a Jedi | 280 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/15-Aspirante-jedi-N1-min.png)|     Ximo Catala (Ximocat) | Aspirante a Jedi Nivel 1| 300 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/14-Aspirante-jedi-min.png)|     Federico Coca | Aspirante a Jedi | 280 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/14-Aspirante-jedi-min.png)|     Andrés Prieto-Moreno (aprieto) | Aspirante a Jedi | 280 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/14-Aspirante-jedi-min.png)|     Manuel Andújar (Matalobo) | Aspirante a Jedi | 280 |
