@@ -30,6 +30,8 @@ TODO
 
 # Introducción
 
+En el [tutorial 18](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-18:-Bloques-con-par%C3%A1metros) vimos que existen dos **técnicas** para hacer **circuitos complejos**: la **parametrización** y la **composición**. Nos vamos a centrar en este último, para aprender a construir **nuestros propios bloques** a partir de otros bloques que ya conocemos. 
+
 TODO
 
 * Pegatinas (stickers)
