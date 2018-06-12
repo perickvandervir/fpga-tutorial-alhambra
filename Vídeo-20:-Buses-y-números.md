@@ -379,26 +379,17 @@ Diseñar un circuito digital que **cifre un número de 4-bits** mediante el **in
 * [Vídeo en twitter](https://twitter.com/SrViriato/status/1006251106442326018)
 
 ### Ejercicio 2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-20/Viriato/Ejercicio-20-2/Captura%20de%20pantalla%20-2018-06-11%2019-03-45.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en twitter](https://twitter.com/SrViriato/status/1006251255902154757)
 
 ### Ejercicio 3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-20/Viriato/Ejercicio-20-3/Captura%20de%20pantalla%20-2018-06-11%2019-04-21.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en twitter](https://twitter.com/SrViriato/status/1006251419182256133)
 
 ### Ejercicio 4
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-20/Viriato/Ejercicio-20-4/Captura%20de%20pantalla%20-2018-06-11%2019-54-21.png)
 
 # Autor
 
