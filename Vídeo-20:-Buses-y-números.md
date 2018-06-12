@@ -35,6 +35,7 @@ Hasta ahora hemos hecho circuitos que trataban con los bits de manera aislada. C
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Ximo Catalá](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-20:-Buses-y-n%C3%BAmeros#ximo-catal%C3%A1)
   * [Federico Coca (fgcoca)](#federico-coca-fgcoca)
+  * [SrViriato](#srviriato)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
