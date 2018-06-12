@@ -370,14 +370,12 @@ Diseñar un circuito digital que **cifre un número de 4-bits** mediante el **in
 
 [![Click to see the youtube video](http:/5oroJHIdseU/img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=5oroJHIdseU)
 
-## Tercero
+## SrViriato
 
 ### Ejercicio 1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-20/Viriato/Ejercicio-20-1/Captura%20de%20pantalla%20-2018-06-11%2019-02-56.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en twitter](https://twitter.com/SrViriato/status/1006251106442326018)
 
 ### Ejercicio 2
 ![]()
