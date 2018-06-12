@@ -357,11 +357,11 @@ Diseñar un circuito digital que **cifre un número de 4-bits** mediante el **in
 [![Click to see the youtube video](http://img.youtube.com/vi/uFJECexVCWM/0.jpg)](https://www.youtube.com/watch?v=uFJECexVCWM)
 
 ### Ejercicio 3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-20/fgcoca/Ejercicio-3/-Ejercicio20_3%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/IpAWCFdJ9Ac/0.jpg)](https://www.youtube.com/watch?v=IpAWCFdJ9Ac)
 
 ### Ejercicio 4
 ![]()
