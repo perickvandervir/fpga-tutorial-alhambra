@@ -35,7 +35,7 @@ En el [tutorial 18](https://github.com/Obijuan/digital-electronics-with-open-FPG
 
 ## Puertos
 
-Las entradas y las salidas de los **bloques** las denominamos **puertos**.  Los **puertos de entrada** son los puntos donde **entra** la información al bloque. Los **puertos de salida** son los puntos donde la información **sale** del bloque
+Las entradas y las salidas de los **bloques** las denominamos **puertos**.  Los **puertos de entrada** son los puntos donde **entra** la información al bloque. Los **puertos de salida** son los puntos donde la información **sale** del bloque. Por ejemplo, el **bloque** que representa una **puerta AND** tiene 2 puertos de entrada y uno de salida
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/intro-01.png)
 
