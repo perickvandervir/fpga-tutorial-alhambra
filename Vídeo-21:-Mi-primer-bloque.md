@@ -39,7 +39,7 @@ Las entradas y las salidas de los **bloques** las denominamos **puertos**.  Los 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/intro-01.png)
 
-Los puertos tienen un **nombre** y un **tamaño** en bits. El nombre es **opcional** cuando se trata de **puertos de un bit**, como en el ejemplo de la puerta AND, pero se pone siempre cuando son de más de un bits (buses). Además de los puertos, los bloques de icestudio tienen **parámetros**, en su parte superior. También tienen un nombre, que es opcional
+Los puertos tienen un **nombre** y un **tamaño** en bits. El nombre es **opcional** cuando se trata de **puertos de un bit**, como en el ejemplo de la puerta AND, pero se pone siempre cuando son de más de un bits (buses). Además de los puertos, los bloques de icestudio tienen **parámetros**, en su **parte superior**. También tienen un nombre, que es opcional
 
 
 (figura)
