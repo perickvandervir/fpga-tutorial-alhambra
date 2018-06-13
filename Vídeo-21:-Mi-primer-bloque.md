@@ -35,7 +35,13 @@ En el [tutorial 18](https://github.com/Obijuan/digital-electronics-with-open-FPG
 
 ## Puertos
 
-Las entradas y las salidas de los **bloques** las denominamos **puertos**.  Los **puertos de entrada** son los puntos donde **entr**a la información al bloque. Los **puertos de salida** son los puntos donde la información **sale** del bloque. Los puertos, en general, son de **N bits**
+Las entradas y las salidas de los **bloques** las denominamos **puertos**.  Los **puertos de entrada** son los puntos donde **entra** la información al bloque. Los **puertos de salida** son los puntos donde la información **sale** del bloque. 
+
+
+
+
+
+Los puertos, en general, son de **N bits**
 
 (figura)
 
