@@ -69,9 +69,11 @@ Si hacemos **doble click** en este bloque para ver cómo está hecho, veremos qu
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/intro-05.gif)
 
-Cuando hablamos de **bloque** a secas, nos referiremos a la **apariencia del bloque**, visto desde fuera: su icono, puertos y parámetros. Y por otra parte tenemos la **implementación del bloque**, que es su interior, cómo está construido
+Cuando hablamos de **bloque** a secas, nos referiremos a la **apariencia del bloque**, visto desde fuera: su icono, puertos y parámetros. Y por otra parte tenemos la **implementación del bloque**, que es su interior. Cómo está **construido**
 
-(División entre bloque e implementación del bloque)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/intro-06.png)
+
+En la **implementación** del bloque de la constante 255, vemos que el puerto de salida de 8 bits queda definido mediante un **bloque verde**, que tiene el nombre del puerto en su interior. Es la forma de **definir los puertos** en los bloques, y lo veremos en las siguientes secciones
 
 TODO
 
