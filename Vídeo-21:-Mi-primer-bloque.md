@@ -67,7 +67,7 @@ Este circuito se **sintetiza en la FPGA**. Si pudiésemos ver la FPGA por dentro
 
 Si hacemos **doble click** en este bloque para ver cómo está hecho, veremos que está formado por un **bloque constante genérico**, al que se le pasa como **parámetro** el valor **255**
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/intro-05.gif)
 
 (División entre bloque e implementación del bloque)
 
