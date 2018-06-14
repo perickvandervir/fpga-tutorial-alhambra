@@ -75,6 +75,11 @@ Cuando hablamos de **bloque** a secas, nos referiremos a la **apariencia del blo
 
 En la **implementación** del bloque de la constante 255, vemos que el puerto de salida de 8 bits queda definido mediante un **bloque verde**, que tiene el nombre del puerto en su interior. Es la forma de **definir los puertos** en los bloques, y lo veremos en las siguientes secciones
 
+Este es otro ejemplo, en el que se ha creado una **puerta AND de 3 entradas** a partir de dos puertas AND de dos entradas
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/intro-07.png)
+
+
 TODO
 
 * Pegatinas (stickers)
