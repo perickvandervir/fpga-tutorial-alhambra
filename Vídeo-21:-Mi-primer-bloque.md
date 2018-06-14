@@ -56,7 +56,9 @@ En este **ejemlo** se ha colocado el bloque **comecocos** anterior, y se han con
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/intro-03.png)
 
-(Figura pines en la icezum)
+Este circuito se **sintetiza en la FPGA**. Si pudiésemos ver la FPGA por dentro, veríamos algo similar a esto, donde los **puertos del comecocos** están conectados a **pines físicos de la FPGA**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/intro-04.png)
 
 TODO
 
