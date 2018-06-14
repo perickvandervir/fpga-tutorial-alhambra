@@ -81,6 +81,7 @@ Este es otro **ejemplo**, en el que se ha creado una **puerta AND de 3 entradas*
 
 La puerta tiene en total **4 puertos**, 3 de entrada y uno de salida, que no tienen nombres. Por eso, en su **implementación**, se han colocado **4 bloques verdes**, que **definen** sus **puertos**
 
+# Bloques sin puertos
 
 TODO
 
