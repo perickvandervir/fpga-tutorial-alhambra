@@ -49,7 +49,7 @@ Este **bloque comecocos** es un **ejemplo** que tiene dos **parámetros de entra
 
 ## Pines
 
-Los **pines** son los **puntos físicos** por donde **entra la información** a nuestro circuito en la FPGA, y por donde se **envían las respuestas** de salida. Son **puertos** que están **asociados una pata de la FPGA**
+Los **pines** son los **puntos físicos** por donde **entra la información** a nuestro circuito en la FPGA, y por donde se **envían las respuestas** de salida. Son **puertos** que están **asociados a una pata de la FPGA**
 
 Los **pines** son de **1 bit** y se **conectan** a los **puertos de 1 bit** de otros bloques mediante **cables**. Pueden tener un **nombre** opcionalmente. En icestudio, los **pines de entrada** se ponen en la izquierda (su puerto está en la derecha) y los **pines de salida** se colocan a la derecha (su puerto está en la izquierda). Como ya vimos en el [tutorial 20](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-20:-Buses-y-n%C3%BAmeros), varios pines se pueden **agrupar** formando un **bloque**, que se conecta a otros bloques mediante un **bus**
 
