@@ -63,6 +63,14 @@ Este circuito se **sintetiza en la FPGA**. Si pudiésemos ver la FPGA por dentro
 
 ## Diseño jerárquico
 
+**Combinando** los bloques existentes, y **asignando** valores a sus **parámetros**, construimos **nuevos bloques**, creando una **jerarquía**. Vamos a echar un vistazo al **bloque constante 255**, que representa al número 255. Tiene un **único puerto de salida**, de 8 bits
+
+Si hacemos **doble click** en este bloque para ver cómo está hecho, veremos que está formado por un **bloque constante genérico**, al que se le pasa como **parámetro** el valor **255**
+
+(Animación)
+
+(División entre bloque e implementación del bloque)
+
 TODO
 
 * Pegatinas (stickers)
