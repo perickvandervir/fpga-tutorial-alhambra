@@ -60,6 +60,8 @@ Este circuito se **sintetiza en la FPGA**. Si pudiésemos ver la FPGA por dentro
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/intro-04.png)
 
+## Diseño jerárquico
+
 TODO
 
 * Pegatinas (stickers)
