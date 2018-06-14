@@ -79,6 +79,8 @@ Este es otro **ejemplo**, en el que se ha creado una **puerta AND de 3 entradas*
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/intro-07.png)
 
+La puerta tiene en total **4 puertos**, 3 de entrada y uno de salida, que no tienen nombres. Por eso, en su **implementación**, se han colocado **4 bloques verdes**, que **definen** sus **puertos**
+
 
 TODO
 
