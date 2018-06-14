@@ -90,6 +90,19 @@ TODO
 * Dibujos vectoriales: SVG e inkscape
 * 
 
+# Bloques con puertos de 1 bit
+
+TODO
+
+# Bloques con puertos de varios bits
+
+TODO
+
+# Creando iconos con Inkscape
+
+TODO
+
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
