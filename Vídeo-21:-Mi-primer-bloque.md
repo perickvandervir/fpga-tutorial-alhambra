@@ -69,6 +69,8 @@ Si hacemos **doble click** en este bloque para ver cómo está hecho, veremos qu
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/intro-05.gif)
 
+Cuando hablamos de **bloque** a secas, nos referiremos a la **apariencia del bloque**, visto desde fuera: su icono, puertos y parámetros. Y por otra parte tenemos la **implementación del bloque**, que es su interior, cómo está construido
+
 (División entre bloque e implementación del bloque)
 
 TODO
