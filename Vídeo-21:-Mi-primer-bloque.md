@@ -84,6 +84,14 @@ La puerta tiene en total **4 puertos**, 3 de entrada y uno de salida, que no tie
 
 # Bloques sin puertos
 
+Como ya vimos en el [tutorial 5](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-5:-Colecciones-en-Icestudio), existen **bloques sin puertos**. Su misión es la **documentación**, o la estética. Cuando estos bloques tienen una imagen asociada los llamamos **pegatinas** (stickers)
+
+## Pegatinas
+
+Los **bloques pegatinas** (stickers) nos permiten añadir **información visual** a nuestros circuitos, así como incluir **documentación** en su interior. En la colección de la **Academia-Jedi-HW-21** se han incluido algunas pegatinas
+
+(animación o screenshot)
+
 TODO
 
 * Pegatinas (stickers)
