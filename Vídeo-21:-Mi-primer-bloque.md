@@ -25,6 +25,7 @@ TODO
   * [Pines](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-21:-Mi-primer-bloque#pines)
   * [Diseño jerárquico](#dise%C3%B1o-jer%C3%A1rquico)
 * [Bloques sin puertos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-21:-Mi-primer-bloque#bloques-sin-puertos)
+  * [Pegatinas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-21:-Mi-primer-bloque#pegatinas)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
