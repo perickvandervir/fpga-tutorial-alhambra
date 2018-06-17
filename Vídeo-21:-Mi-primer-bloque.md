@@ -104,7 +104,19 @@ No tienen ninguna utilidad, pero mola añadirlos a nuestros circuitos para mostr
 
 ## Bloque1.ice: Creando un bloque de sólo Texto
 
-TODO
+Vamos a crear nuestro primer bloque. Sólo contendrá el texto: **Bloque 1**. Los **pasos** a seguir son los siguientes:
+
+* **Arrancamos Icestudio**. El circuito lo dejaremos en blanco (no tiene nada), simplemente queremos crear un bloque sin puertos, que sólo tenga su nombre
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque1-1.png)
+
+* **Pinchamos** en la opción del menú **Editar/Información del proyecto**. 
+
+(Screenshot)
+
+* Nos aparece una ventana nueva, con información para el bloque. De momento sólo escribiremos la cadena **Bloque1** en la casilla **Nombre**
+*
+
 
 # Bloques con puertos de 1 bit
 
