@@ -89,9 +89,9 @@ Como ya vimos en el [tutorial 5](https://github.com/Obijuan/digital-electronics-
 
 ## Pegatinas
 
-Los **bloques pegatinas** (stickers) nos permiten añadir **información visual** a nuestros circuitos, así como incluir **documentación** en su interior. En la colección de la **Academia-Jedi-HW-21** se han incluido algunas pegatinas
+Los **bloques pegatinas** (stickers) nos permiten añadir **información visual** a nuestros circuitos, así como incluir **documentación** en su interior. En la colección de la **Academia-Jedi-HW-21** se han incluido algunas pegatinas, que están accesibles desde el menú **Varios/Pegatinas**
 
-(animación o screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/intro-08.gif)
 
 TODO
 
