@@ -26,7 +26,7 @@ TODO
   * [Diseño jerárquico](#dise%C3%B1o-jer%C3%A1rquico)
 * [Bloques sin puertos](#bloques-sin-puertos)
   * [Pegatinas](#pegatinas)
-  * [](#bloque1ice-creando-un-bloque-de-s%C3%B3lo-texto)
+  * [Bloque1.ice: Creando un bloque de texto](#bloque1ice-creando-un-bloque-de-s%C3%B3lo-texto)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
