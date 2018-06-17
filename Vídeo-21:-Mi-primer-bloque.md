@@ -97,6 +97,12 @@ Además de algunos **emojis**, se han incluido todos los **rangos de la Academia
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/pegatinas-02.png)
 
+No tienen ninguna utilidad, pero mola añadirlos a nuestros circuitos para mostrar nuestro rango :-)  También se han añadido, a modo de ejemplos, pegatinas del **mundial de Rusia 2018**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/pegatinas-01.png)
+
+## Bloque1.ice: Creando un bloque de sólo Texto
+
 TODO
 
 # Bloques con puertos de 1 bit
