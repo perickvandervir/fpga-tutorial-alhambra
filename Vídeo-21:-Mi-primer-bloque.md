@@ -95,10 +95,6 @@ Los **bloques pegatinas** (stickers) nos permiten añadir **información visual*
 
 TODO
 
-* Pegatinas (stickers)
-* Dibujos vectoriales: SVG e inkscape
-* 
-
 # Bloques con puertos de 1 bit
 
 TODO
