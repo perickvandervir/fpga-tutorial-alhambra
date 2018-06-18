@@ -132,9 +132,11 @@ Vamos a crear nuestro primer bloque. Sólo contendrá el texto: **Bloque 1**. Lo
 
 * **Pulsamos** el botón de guardar. Nos aparecerá otra **notificación** indicando que se ha guardado el proyecto
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque1-7.png)
 
+El **nuevo bloque** ya está creado y almacenado en el **fichero bloque1.ice**, que hemos guardado en el escritorio. El proceso completo se resumen en esta **animación**
 
+(animación)
 
 # Bloques con puertos de 1 bit
 
