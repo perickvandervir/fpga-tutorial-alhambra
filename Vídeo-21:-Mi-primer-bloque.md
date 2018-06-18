@@ -156,8 +156,11 @@ Ahora vamos a colocar el **bloque nuevo** en un **circuito nuevo**. En la ventan
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque1-13.png)
 
-TODO
+Si hacemos **doble click** en el bloque, veremos su **interior**. En este ejemplo no tiene nada dentro. En la esquina superior izquierda vemos su nombre: Bloque1. Y en la inferior izquierda la jerarquía: **proyecto actual/Bloque1**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque1-14.png)
+
+El proceso completo de **colocación** del **nuevo bloque** creado se resume en esta **animación**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque1-9.gif)
 
