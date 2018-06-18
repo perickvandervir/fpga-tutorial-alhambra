@@ -148,6 +148,9 @@ Ahora vamos a colocar el **bloque nuevo** en un **circuito nuevo**. En la ventan
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque1-11.png)
 
+* **Seleccionamos** el fichero **bloque1.ice** y le damos al **OK**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque1-12.png)
 
 TODO
 
