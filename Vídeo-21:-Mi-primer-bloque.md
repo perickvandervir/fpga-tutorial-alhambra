@@ -164,6 +164,9 @@ El proceso completo de **colocación** del **nuevo bloque** creado se resume en 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque1-9.gif)
 
+## Bloque2.ice: Añadiendo más información
+
+TODO
 
 # Bloques con puertos de 1 bit
 
