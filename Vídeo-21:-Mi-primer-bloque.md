@@ -124,6 +124,12 @@ Vamos a crear nuestro primer bloque. Sólo contendrá el texto: **Bloque 1**. Lo
 
 * **Grabamos** el bloque en el **fichero bloque1.ice** (por ejemplo). Pinchamos en **Archivo/Guardar como**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque1-5.png)
+
+* Se nos abre una ventana donde debemos **introducir el nombre del fichero** y el **directorio** en el que queremos grabarlo. Por ejemplo, lo llamamo **bloque1.ice** y lo guardamos en el **Escritorio**. La **apariencia** de esta ventana depende del **sistema operativo empleado**. Este pantallazo se corresponde con Ubuntu 16.04
+
+(Screenshot)
+
 # Bloques con puertos de 1 bit
 
 TODO
