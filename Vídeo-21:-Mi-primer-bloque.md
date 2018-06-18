@@ -142,6 +142,12 @@ Ahora vamos a colocar el **bloque nuevo** en un **circuito nuevo**. En la ventan
 
 * **Abrimos** una nueva para crear el nuevo Circuito. Pinchamos en **Archivo/Nuevo** y nos aparece una ventana en blanco
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque1-10.png)
+
+* Para **colocar** el bloque creado, pinchamos en **Archivo/Añadir como bloque**
+
+![]()
+
 
 TODO
 
