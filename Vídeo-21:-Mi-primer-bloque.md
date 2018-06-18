@@ -27,6 +27,7 @@ TODO
 * [Bloques sin puertos](#bloques-sin-puertos)
   * [Pegatinas](#pegatinas)
   * [Bloque1.ice: Creando un bloque de texto](#bloque1ice-creando-un-bloque-de-s%C3%B3lo-texto)
+  * [Bloque2.ice: Añadiendo más información](#bloque2ice-a%C3%B1adiendo-m%C3%A1s-informaci%C3%B3n)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
