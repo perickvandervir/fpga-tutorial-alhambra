@@ -130,7 +130,7 @@ Vamos a crear nuestro primer bloque. Sólo contendrá el texto: **Bloque 1**. Lo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque1-6.png)
 
-* ***Pulsamos** el botón de guardar. Nos aparecerá otra **notificación** indicando que se ha guardado el proyecto
+* **Pulsamos** el botón de guardar. Nos aparecerá otra **notificación** indicando que se ha guardado el proyecto
 
 (screenshot)
 
