@@ -114,9 +114,9 @@ Vamos a crear nuestro primer bloque. Sólo contendrá el texto: **Bloque 1**. Lo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque1-2.png)
 
-* Nos aparece una **ventana nueva**, con información para el bloque. De momento sólo escribiremos la cadena **Bloque1** en la casilla **Nombre**
+* Nos aparece una **ventana nueva**, con información para el bloque. De momento sólo escribiremos la cadena **Bloque1** en la casilla **Nombre** (pero podemos poner el nombre que queramos, es sólo un ejemplo)
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/blob/master/wiki/Tutorial-21/bloque1-3.png)
 
 
 # Bloques con puertos de 1 bit
