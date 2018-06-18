@@ -136,7 +136,13 @@ Vamos a crear nuestro primer bloque. Sólo contendrá el texto: **Bloque 1**. Lo
 
 El **nuevo bloque** ya está creado y almacenado en el **fichero bloque1.ice**, que hemos guardado en el escritorio. El proceso completo se resumen en esta **animación**
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque1-8.gif)
+
+Ahora vamos a colocar el **bloque nuevo** en un **circuito nuevo**. En la ventana actual de Icestudio tenemos la implementación del bloque 1. 
+
+* **Abrimos** una nueva para crear el nuevo Circuito. Pinchamos en **Archivo/Nuevo** y nos aparece una ventana en blanco
+
+(screenshot)
 
 # Bloques con puertos de 1 bit
 
