@@ -118,6 +118,11 @@ Vamos a crear nuestro primer bloque. Sólo contendrá el texto: **Bloque 1**. Lo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/blob/master/wiki/Tutorial-21/bloque1-3.png)
 
+* Aparecerá una **notificación** verde, en la parte inferior derecha indicando que la **información del proyecto se ha actualizado**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque1-4.png)
+
+* **Grabamos** el bloque en el **fichero bloque1.ice** (por ejemplo). Pinchamos en **Archivo/Guardar como**
 
 # Bloques con puertos de 1 bit
 
