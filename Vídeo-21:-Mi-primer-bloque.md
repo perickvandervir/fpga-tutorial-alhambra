@@ -179,6 +179,8 @@ Nos vamos a la ventana donde estamos editando el **bloque1.ice** y ponemos **com
 
 Todos los campos son **opcionales**. Podemos añadir información sobre el **autor**, la **versión**, el **icono** del bloque, etc. En este ejemplo sólo hemos rellenado el **nombre**, para que aparezca en el bloque, y la **descripción**, que aparecerá cuando pongamos el puntero **encima del bloque**, durante unos segundos
 
+Pulsamos **OK** y guardamos el bloque como **bloque2.ice**.  Nos vamos a la otra ventana, donde habíamos colocado el bloque1, y colocamos el nuevo bloque, con la opción que ya conocemos de **Archivo/Añadir como bloque**
+
 TODO
 
 # Bloques con puertos de 1 bit
