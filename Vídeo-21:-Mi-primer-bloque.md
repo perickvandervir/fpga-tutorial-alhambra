@@ -189,7 +189,7 @@ Si dejamos el **cursor del ratón** unos segundos **sobre el Bloque2**, veremos 
 
 Y si nos **metemos en su interior** (haciendo doble click) vemos los comentarios y pegatinas que hemos colocado, aunque **NO** podemos editarlos desde ahí
 
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque2-5.png)
 
 TODO
 
