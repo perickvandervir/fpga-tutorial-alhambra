@@ -195,6 +195,10 @@ En esta **animación** se resume el proceso:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque2-6.gif)
 
+## Bloque3.ice: Añadiendo iconos
+
+TODO
+
 # Bloques con puertos de 1 bit
 
 TODO
