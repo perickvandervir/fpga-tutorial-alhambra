@@ -185,7 +185,9 @@ Pulsamos **OK** y guardamos el bloque como **bloque2.ice**.  Nos vamos a la otra
 
 Si dejamos el **cursor del ratón** unos segundos **sobre el Bloque2**, veremos que aparece el texto que hemos introducido en la **descripción**
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque2-4.png)
+
+Y si nos **metemos en su interior** (haciendo doble click) vemos los comentarios y pegatinas que hemos colocado, aunque **NO** podemos editarlos desde ahí
 
 
 
