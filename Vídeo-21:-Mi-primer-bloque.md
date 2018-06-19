@@ -173,6 +173,11 @@ Nos vamos a la ventana donde estamos editando el **bloque1.ice** y ponemos **com
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque2-1.png)
 
+**Editamos** la información del bloque en **Editar/Información del proyecto**. Cambiamos el nombre por Bloque2 y añadimos un texto en el **campo descripción**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque2-2.png)
+
+Todos los campos son **opcionales**. Podemos añadir información sobre el **autor**, la **versión**, el **icono** del bloque, etc. En este ejemplo sólo hemos rellenado el **nombre**, para que aparezca en el bloque, y la **descripción**, que aparecerá cuando pongamos el puntero **encima del bloque**, durante unos segundos
 
 TODO
 
