@@ -167,6 +167,13 @@ El proceso completo de **colocación** del **nuevo bloque** creado se resume en 
 
 ## Bloque2.ice: Añadiendo más información
 
+Ahora vamos a crear el **bloque2** a partir del **bloque1** añadiendo **más información**. En vez de ser un bloque en blanco añadiremos comentarios usando **bloques de información**
+
+Nos vamos a la ventana donde estamos editando el **bloque1.ice** y ponemos los **comentarios**:
+
+(screenshot)
+
+
 TODO
 
 # Bloques con puertos de 1 bit
