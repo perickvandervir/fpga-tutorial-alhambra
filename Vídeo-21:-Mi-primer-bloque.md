@@ -171,7 +171,7 @@ Ahora vamos a crear el **bloque2** a partir del **bloque1** añadiendo **más in
 
 Nos vamos a la ventana donde estamos editando el **bloque1.ice** y ponemos **comentarios** y algunas **pegatinas**
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque2-1.png)
 
 
 TODO
