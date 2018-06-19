@@ -181,6 +181,8 @@ Todos los campos son **opcionales**. Podemos añadir información sobre el **aut
 
 Pulsamos **OK** y guardamos el bloque como **bloque2.ice**.  Nos vamos a la otra ventana, donde habíamos colocado el bloque1, y colocamos el nuevo bloque, con la opción que ya conocemos de **Archivo/Añadir como bloque**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque2-3.png)
+
 TODO
 
 # Bloques con puertos de 1 bit
