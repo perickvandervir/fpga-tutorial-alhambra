@@ -183,6 +183,12 @@ Pulsamos **OK** y guardamos el bloque como **bloque2.ice**.  Nos vamos a la otra
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque2-3.png)
 
+Si dejamos el **cursor del ratón** unos segundos **sobre el Bloque2**, veremos que aparece el texto que hemos introducido en la **descripción**
+
+(screenshot)
+
+
+
 TODO
 
 # Bloques con puertos de 1 bit
