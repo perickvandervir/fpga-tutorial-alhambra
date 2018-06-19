@@ -191,6 +191,10 @@ Y si nos **metemos en su interior** (haciendo doble click) vemos los comentarios
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque2-5.png)
 
+En esta **animación** se resume el proceso:
+
+(Animación)
+
 TODO
 
 # Bloques con puertos de 1 bit
