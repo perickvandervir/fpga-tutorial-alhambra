@@ -29,6 +29,7 @@ TODO
   * [Bloque1.ice: Creando un bloque de texto](#bloque1ice-creando-un-bloque-de-s%C3%B3lo-texto)
   * [Bloque2.ice: Añadiendo más información](#bloque2ice-a%C3%B1adiendo-m%C3%A1s-informaci%C3%B3n)
   * [Bloque3.ice: Añadiendo iconos](#bloque3ice-a%C3%B1adiendo-iconos)
+* [Bloques con puertos](#bloques-con-puertos)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
