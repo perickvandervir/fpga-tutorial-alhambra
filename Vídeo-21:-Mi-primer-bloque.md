@@ -202,6 +202,13 @@ Crearemos un nuevo bloque, **bloque3.ice**, a partir del anterior, añadiendo un
 
 TODO
 
+(icono de la estrella)
+(Ponerlo en fpgawas-icons)
+(Descargar)
+(Editar bloque2)
+(screenshots)
+(animación final)
+
 # Bloques con puertos de 1 bit
 
 TODO
