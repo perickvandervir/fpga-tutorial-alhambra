@@ -236,9 +236,9 @@ Si nos metemos **dentro del bloque3**, veremos su nuevo contenido. Ahora, en la 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque3-6.png)
 
-TODO
+En esta **animación** se resume el proceso:
 
-(animación final)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque3-7.gif)
 
 # Bloques con puertos de 1 bit
 
