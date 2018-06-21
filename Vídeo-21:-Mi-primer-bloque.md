@@ -226,6 +226,14 @@ Seguimos los siguientes pasos:
 
 * Guardamos el bloque como **bloque3.ice**, con la opción **Archivo/Guardar como**
 
+* Cambiamos a la ventana donde estamos colocando los bloques de ejemplo y añadimos el nuevo, con **Archivo/Añadir como bloque**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque3-5.png)
+
+Vemos que ahora **se ha sustituido el nombre del bloque por su icono**. No aparece el nombre, como en el caso de los bloques anteriores, pero sí la imagen que hemos añadido. Si nos situamos **encima del bloque** aparecerá la **nueva descripción**
+
+
+
 TODO
 
 (animación final)
