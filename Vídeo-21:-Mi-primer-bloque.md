@@ -240,11 +240,19 @@ En esta **animación** se resume el proceso:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque3-7.gif)
 
-# Bloques con puertos de 1 bit
+# Bloques con puertos
+
+Aprenderemos a **crear bloques con puertos**, para poder introducir información en ellos y sacar sus respuestas. Comezaremos por los **puertos de 1 bit**
+
+## Puertos de 1 bit
 
 TODO
 
-# Bloques con puertos de varios bits
+## Puertos de varios bits
+
+TODO
+
+# Bloques con parámetros
 
 TODO
 
