@@ -198,7 +198,7 @@ En esta **animación** se resume el proceso:
 
 ## Bloque3.ice: Añadiendo iconos
 
-Crearemos un nuevo bloque, **bloque3.ice**, a partir del anterior, añadiendo un **icono**.  Las imágenes que se usan para los bloques tienen que estar en [formato SVG](https://es.wikipedia.org/wiki/Gr%C3%A1ficos_vectoriales_escalables). Es un formato **vectorial**, **abierto** y **estandarizado**. Los ficheros SVG se pueden visualizar desde el **navegador**, y se pueden editar con bastantes herramientas, como por ejemplo el programa [Inkscape](https://inkscape.org/), que es software libre
+Crearemos un nuevo bloque, **bloque3.ice**, a partir del anterior, añadiendo un **icono**.  Las imágenes que se usan para los bloques tienen que estar en [formato SVG](https://es.wikipedia.org/wiki/Gr%C3%A1ficos_vectoriales_escalables). Es un formato **vectorial**, **abierto** y **estandarizado**. Los ficheros SVG se pueden visualizar desde el **navegador**, y se pueden editar con bastantes herramientas, como por ejemplo el programa [Inkscape](https://inkscape.org/), que es **software libre**
 
 TODO
 
