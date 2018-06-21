@@ -208,9 +208,9 @@ Seguimos los siguientes pasos:
 
 * **Descargamos** el **icono SVG** de la estrella: [star-5p.svg](https://github.com/FPGAwars/icestudio-block-icons/raw/master/Stars/star-5p.svg)
 
-* **Editamos** el bloque2 y cambiamos sus comentarios. Ahora es el **bloque3**. Podemos poner otras pegatinas
+* **Editamos** el bloque2 y cambiamos sus comentarios. Ahora es el **bloque3**. Ponemos otras pegatinas
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque3-1.png)
 
 TODO
 
