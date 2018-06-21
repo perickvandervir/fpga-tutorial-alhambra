@@ -200,6 +200,11 @@ En esta **animación** se resume el proceso:
 
 Crearemos un nuevo bloque, **bloque3.ice**, a partir del anterior, añadiendo un **icono**.  Las imágenes que se usan para los bloques tienen que estar en [formato SVG](https://es.wikipedia.org/wiki/Gr%C3%A1ficos_vectoriales_escalables). Es un formato **vectorial**, **abierto** y **estandarizado**. Los ficheros SVG se pueden visualizar desde el **navegador**, y se pueden editar con bastantes herramientas, como por ejemplo el programa [Inkscape](https://inkscape.org/), que es **software libre**
 
+Para este **ejemplo** utilizaremos el **fichero SVG** de una **estrella de 5 puntas**: [star-5p.svg](https://github.com/FPGAwars/icestudio-block-icons/raw/master/Stars/star-5p.svg)
+
+![](https://github.com/FPGAwars/icestudio-block-icons/raw/master/Stars/star-5p.svg?sanitize=true)
+
+
 TODO
 
 (icono de la estrella)
