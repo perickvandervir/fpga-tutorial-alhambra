@@ -248,6 +248,10 @@ Aprenderemos a **crear bloques con puertos**, para poder introducir información
 
 ## Puertos de 1 bit
 
+Los **puertos de 1 bits** son los que más hemos usado hasta ahora. El **nombre** asociado a cada puerto de 1 bit es **opcional**. Aprenderemos mediante **ejemplos**: Primero haremos una **puerta AND de 3 entradas** y luego un **detector del número 2**
+
+### Ejemplo: Puerta AND de 3 entradas
+
 TODO
 
 ## Puertos de varios bits
