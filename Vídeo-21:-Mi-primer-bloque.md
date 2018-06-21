@@ -31,6 +31,7 @@ TODO
   * [Bloque3.ice: Añadiendo iconos](#bloque3ice-a%C3%B1adiendo-iconos)
 * [Bloques con puertos](#bloques-con-puertos)
   * [Puertos de 1 bit](#puertos-de-1-bit)
+    * [Ejemplo: Puerta AND de 3 entradas](#ejemplo-puerta-and-de-3-entradas)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
