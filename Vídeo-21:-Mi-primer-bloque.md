@@ -220,9 +220,11 @@ Seguimos los siguientes pasos:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque3-3.png)
 
-* En la información del proyecto nos aparece el **icono** que hemos seleccionado, en la parte inferior. ¡Ya lo tenemos listo!. Pinchamos en **OK**
+* En la información del proyecto nos aparece el **icono** que hemos seleccionado, en la parte inferior. **¡Ya lo tenemos listo!**. Pinchamos en **OK**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque3-4.png)
+
+* Guardamos el bloque como **bloque3.ice**, con la opción **Archivo/Guardar como**
 
 TODO
 
