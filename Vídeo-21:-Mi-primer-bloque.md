@@ -232,7 +232,9 @@ Seguimos los siguientes pasos:
 
 Vemos que ahora **se ha sustituido el nombre del bloque por su icono**. No aparece el nombre, como en el caso de los bloques anteriores, pero sí la imagen que hemos añadido. Si nos situamos **encima del bloque** aparecerá la **nueva descripción**
 
+Si nos metemos **dentro del bloque3**, veremos su nuevo contenido. Ahora, en la **esquina superior izquierda**, además del nombre aparece su **versión**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque3-6.png)
 
 TODO
 
