@@ -204,14 +204,16 @@ Para este **ejemplo** utilizaremos el **fichero SVG** de una **estrella de 5 pun
 
 ![](https://github.com/FPGAwars/icestudio-block-icons/raw/master/Stars/star-5p.svg?sanitize=true)
 
+Seguimos los siguientes pasos:
+
+* **Descargamos** el **icono SVG** de la estrella: [star-5p.svg](https://github.com/FPGAwars/icestudio-block-icons/raw/master/Stars/star-5p.svg)
+
+* **Editamos** el bloque2 y cambiamos sus comentarios. Ahora es el **bloque3**. Podemos poner otras pegatinas
+
+(Screenshot)
 
 TODO
 
-(icono de la estrella)
-(Ponerlo en fpgawas-icons)
-(Descargar)
-(Editar bloque2)
-(screenshots)
 (animación final)
 
 # Bloques con puertos de 1 bit
