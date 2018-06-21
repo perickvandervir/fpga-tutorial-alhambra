@@ -214,6 +214,8 @@ Seguimos los siguientes pasos:
 
 * Abrimos la ventana con la **información del proyecto**, cambiamos el nombre y la descripción. Aprovechamos para completar el resto de campos
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/bloque3-2.png)
+
 TODO
 
 (animación final)
