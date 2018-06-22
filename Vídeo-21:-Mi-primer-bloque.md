@@ -253,13 +253,13 @@ Los **puertos de 1 bits** son los que más hemos usado hasta ahora. El **nombre*
 
 ### Ejemplo: Puerta AND de 3 entradas
 
-Empezamos **definiendo** cómo será nuestro **bloque**. Tendrá en total **4 puertos**: 3 de entrada y uno de salida. El **icono** que usaremos será el siguiente:
+Empezamos **definiendo** cómo será nuestro **bloque**. Tendrá en total **4 puertos**: 3 de entrada y uno de salida. No asignaremos nombres a los puertos. El **icono** que usaremos será el siguiente:
 
 ![](https://github.com/FPGAwars/Icestudio-block-icons/raw/master/Logic_gates/and3.svg?sanitize=true)
 
 Que se puede **descargar** desde aquí: [and3.svg](https://github.com/FPGAwars/Icestudio-block-icons/raw/master/Logic_gates/and3.svg)
 
-Empezamos con su **implementación**. Creamos un circuito nuevo. Primero colocaremos los puertos de entrada. Nos vamos a **Básico/Entradas**, igual que cuando colocamos un pin de entrada. En la venta que aparece **desmarcamos** la opción **FPGA pin** y pinchamos en OK
+Empezamos con su **implementación**. Creamos un circuito nuevo. Primero colocaremos los **puertos de entrada**. Nos vamos a **Básico/Entradas**, igual que cuando colocamos un pin de entrada. En la venta que aparece **desmarcamos** la opción **FPGA pin** y pinchamos en OK
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/and-01.png)
 
