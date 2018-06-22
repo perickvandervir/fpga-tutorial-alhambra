@@ -259,6 +259,10 @@ Empezamos **definiendo** cómo será nuestro **bloque**. Tendrá en total **4 pu
 
 Que se puede **descargar** desde aquí: [and3.svg](https://github.com/FPGAwars/Icestudio-block-icons/raw/master/Logic_gates/and3.svg)
 
+Empezamos con su **implementación**. Creamos un circuito nuevo. Primero colocaremos los puertos de entrada. Nos vamos a **Básico/Entradas**, igual que cuando colocamos un pin de entrada. En la venta que aparece **desmarcamos** la opción **FPGA pin** y pinchamos en OK
+
+(Screenshot)
+
 TODO
 
 ## Puertos de varios bits
