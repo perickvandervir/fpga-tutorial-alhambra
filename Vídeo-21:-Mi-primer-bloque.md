@@ -293,6 +293,18 @@ Ahora editamos la información del bloque en **Editar/Información del proyecto*
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/and-08.png)
 
+Pulsamos **OK** y **guardamos** el fichero como **and3.ice**. Ya tenemos nuestro nuevo bloque listo para probar
+
+### Probando la puerta AND
+
+Creamos un **documento nuevo**. Colocamos la **puerta AND de 3 entradas** recién creada con la opción de **Archivo/Añadir como bloque**
+
+(pantallazo)
+
+Para probarla colocaremos **3 pines de entrada**, en los que conectaremos **3 interruptores externos**, y un **pin de salida** conectado a un **LED externo**
+
+(pantallazo circuito)
+
 TODO
 
 ## Puertos de varios bits
