@@ -289,6 +289,10 @@ Una implementación sería utilizando **tablas de verdad**. Otra posible impleme
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/and-06.png)
 
+Ahora editamos la información del bloque en **Editar/Información del proyecto**. Le ponemos de nombre **AND-3**, la versión (por ejemplo 0.1), una descripción, nombre del autor (nuestro nombre, por ejemplo) y seleccionamos como **icono** el fichero **and3.svg** que hemos descargado antes
+
+(pantallazo)
+
 TODO
 
 ## Puertos de varios bits
