@@ -315,6 +315,8 @@ El **montaje** para probarlo es este:
 
 Al activar los **tres pulsadores** se enciende el LED
 
+### Ejemplo: Detector del número 2
+
 TODO
 
 ## Puertos de varios bits
