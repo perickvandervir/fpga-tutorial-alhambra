@@ -281,7 +281,7 @@ Lo **colocamos** en la parte de la derecha
 
 La **colocación de los puertos** se puede ver en esta **animación**:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/and-7.gif)
 
 La **puerta AND de tres entradas** se puede **implementar** de muchas maneras. Es un **circuito combinacional** de 3 entradas y una salida, definido por una tabla de verdad en la que la **salida** se pone a **1** solo en el caso en que las **tres entradas estén a uno**. En el resto de casos la salida es **0**.
 
