@@ -267,8 +267,11 @@ Nos aparece un **bloque verde**, que representa un **puerto**. Lo colocamos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/and-02.png)
 
-
 Añadimos **dos puertos de entrada más**, bien repitiendo el proceso anterior o bien copiando y pengando el puerto colocado
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/and-03.png)
+
+El **puerto de salida** se coloca de forma similar, pinchando en **Básico/Salidas** y **desmarcando** la opción **Pin FPGA**
 
 TODO
 
