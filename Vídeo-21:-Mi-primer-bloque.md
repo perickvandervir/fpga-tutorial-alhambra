@@ -249,9 +249,15 @@ Aprenderemos a **crear bloques con puertos**, para poder introducir información
 
 ## Puertos de 1 bit
 
-Los **puertos de 1 bits** son los que más hemos usado hasta ahora. El **nombre** asociado a cada puerto de 1 bit es **opcional**. Aprenderemos mediante **ejemplos**: Primero haremos una **puerta AND de 3 entradas** y luego un **detector del número 2**
+Los **puertos de 1 bits** son los que más hemos usado hasta ahora. El **nombre** asociado a cada puerto de 1 bit es **opcional**. Aprenderemos mediante **ejemplos**: Primero haremos una **puerta AND de 3 entradas** y luego un **detector del número 2** (Comparador de un número de 2 bits con el número 2)
 
 ### Ejemplo: Puerta AND de 3 entradas
+
+Empezamos **definiendo** cómo será nuestro **bloque**. Tendrá en total **4 puertos**: 3 de entrada y uno de salida. El **icono** que usaremos será el siguiente:
+
+![](https://github.com/FPGAwars/Icestudio-block-icons/raw/master/Logic_gates/and3.svg?sanitize=true)
+
+Que se puede **descargar** desde aquí: [and3.svg](https://github.com/FPGAwars/Icestudio-block-icons/raw/master/Logic_gates/and3.svg)
 
 TODO
 
