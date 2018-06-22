@@ -279,11 +279,13 @@ Lo **colocamos** en la parte de la derecha
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/and-05.png)
 
+(animación)
+
 La **puerta AND de tres entradas** se puede **implementar** de muchas maneras. Es un **circuito combinacional** de 3 entradas y una salida, definido por una tabla de verdad en la que la **salida** se pone a **1** solo en el caso en que las **tres entradas estén a uno**. En el resto de casos la salida es **0**.
 
 Una implementación sería utilizando **tablas de verdad**. Otra posible implementación es usando las **puertas AND de dos entradas** que ya conocemos. Usaremos esta última para el ejemplo. El circuito que creamos es el siguiente:
 
-(Implementación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/and-06.png)
 
 TODO
 
