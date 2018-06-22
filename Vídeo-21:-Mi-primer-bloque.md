@@ -279,6 +279,8 @@ Lo **colocamos** en la parte de la derecha
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/and-05.png)
 
+(Implementación)
+
 TODO
 
 ## Puertos de varios bits
