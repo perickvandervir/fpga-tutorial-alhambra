@@ -261,7 +261,7 @@ Que se puede **descargar** desde aquí: [and3.svg](https://github.com/FPGAwars/I
 
 Empezamos con su **implementación**. Creamos un circuito nuevo. Primero colocaremos los puertos de entrada. Nos vamos a **Básico/Entradas**, igual que cuando colocamos un pin de entrada. En la venta que aparece **desmarcamos** la opción **FPGA pin** y pinchamos en OK
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/and-01.png)
 
 TODO
 
