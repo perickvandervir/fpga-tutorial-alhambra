@@ -299,11 +299,21 @@ Pulsamos **OK** y **guardamos** el fichero como **and3.ice**. Ya tenemos nuestro
 
 Creamos un **documento nuevo**. Colocamos la **puerta AND de 3 entradas** recién creada con la opción de **Archivo/Añadir como bloque**
 
-(pantallazo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/and-09.png)
 
 Para probarla colocaremos **3 pines de entrada**, en los que conectaremos **3 interruptores externos**, y un **pin de salida** conectado a un **LED externo**
 
-(pantallazo circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/and-10.png)
+
+El **montaje** para probarlo es este:
+
+(foto)
+
+**Cargamos** y **probamos**:
+
+(animación)
+
+Al activar los **tres pulsadores** se enciende el LED
 
 TODO
 
