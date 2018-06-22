@@ -263,9 +263,12 @@ Empezamos con su **implementación**. Creamos un circuito nuevo. Primero colocar
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/and-01.png)
 
-Nos aparece un bloque verde, que representa un puerto. Lo colocamos
+Nos aparece un **bloque verde**, que representa un **puerto**. Lo colocamos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/and-02.png)
+
+
+Añadimos **dos puertos de entrada más**, bien repitiendo el proceso anterior o bien copiando y pengando el puerto colocado
 
 TODO
 
