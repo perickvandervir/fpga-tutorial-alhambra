@@ -312,9 +312,9 @@ El **montaje** para probarlo es este:
 
 **Cargamos** y **probamos**:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/and-13.gif)
 
-Al activar los **tres pulsadores** se enciende el LED
+Al activar los **tres pulsadores** se enciende el LED, en el resto de casos está apagado (en la animación no se muestran todos los casos)
 
 ### Ejemplo: Detector del número 2
 
