@@ -326,7 +326,7 @@ Vamos a hacer el bloque de **otra manera**. Empezamos por crear un **circuito de
 
 Hacemos el **montaje**, **cargamos** y lo **probamos**
 
-(Funcionamiento. Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-0.gif)
 
 (Convertir los pines en puertos)
 
