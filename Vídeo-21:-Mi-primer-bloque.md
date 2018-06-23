@@ -318,6 +318,10 @@ Al activar los **tres pulsadores** se enciende el LED, en el resto de casos est�
 
 ### Ejemplo: Detector del número 2
 
+Como segundo ejemplo haremos un **circuito combinacional** que tiene **2 puertos de entrada**, y **uno de salida**. Los dos puertos de entrada tienen asignados los nombres **i0** e **i1**. Se trata de un circuito que detecta si el número entrante es el **2** (en binario 10). La **entrada i1** se corresponde con la de mayor peso y la **i0 con la de menor**. Para distinguirlas es necesario asignarles nombres
+
+
+
 TODO
 
 ## Puertos de varios bits
