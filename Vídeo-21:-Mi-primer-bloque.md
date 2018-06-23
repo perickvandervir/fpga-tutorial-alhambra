@@ -328,6 +328,8 @@ Hacemos el **montaje**, **cargamos** y lo **probamos**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-0.gif)
 
+El interruptor de la **izquierda** es el **más significativo**. Sólo cuando está activado y el de la derecha no lo está, es cuando se está introduciendo el **número 2** (10) y por tanto se **enciende el LED**. En el resto de casos el LED está apagado
+
 (Convertir los pines en puertos)
 
 (Añadir icono e información. Guardar)
