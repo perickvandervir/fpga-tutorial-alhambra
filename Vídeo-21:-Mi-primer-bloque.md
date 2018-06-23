@@ -320,7 +320,7 @@ Al activar los **tres pulsadores** se enciende el LED, en el resto de casos est√
 
 Como segundo ejemplo haremos un **circuito combinacional** que tiene **2 puertos de entrada**, y **uno de salida**. Los dos puertos de entrada tienen asignados los nombres **i0** e **i1**. Se trata de un circuito que detecta si el n√∫mero entrante es el **2** (en binario 10). La **entrada i1** se corresponde con la de mayor peso y la **i0 con la de menor**. Para distinguirlas es necesario asignarles nombres
 
-Vamos a hacer el bloque de otra manera. Empezamos por crear un **circuito de pruebas**, con el detector implementado mediante una **puerta AND** y **una NOT**. Usamos pines normales (bloques amarillos). A los pines de entrada le damos los **nombres i1** e **i0**. Al de salida no le ponemos ninguna etiqueta
+Vamos a hacer el bloque de **otra manera**. Empezamos por crear un **circuito de pruebas**, con el detector implementado mediante una **puerta AND** y **una NOT**. Usamos **pines normales** (bloques amarillos). A los pines de entrada le damos los **nombres i1** e **i0**. Al de salida no le ponemos ninguna etiqueta
 
 (screenshot Circuito)
 
