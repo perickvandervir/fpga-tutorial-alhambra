@@ -324,7 +324,7 @@ Vamos a hacer el bloque de **otra manera**. Empezamos por crear un **circuito de
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-01.png)
 
-(screenshot Circuito)
+Hacemos el **montaje**, **cargamos** y lo **probamos**
 
 (Funcionamiento. Animación)
 
