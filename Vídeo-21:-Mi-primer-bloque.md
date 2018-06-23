@@ -322,6 +322,8 @@ Como segundo ejemplo haremos un **circuito combinacional** que tiene **2 puertos
 
 Vamos a hacer el bloque de **otra manera**. Empezamos por crear un **circuito de pruebas**, con el detector implementado mediante una **puerta AND** y **una NOT**. Usamos **pines normales** (bloques amarillos). A los pines de entrada le damos los **nombres i1** e **i0**. Al de salida no le ponemos ninguna etiqueta
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-01.png)
+
 (screenshot Circuito)
 
 (Funcionamiento. Animación)
