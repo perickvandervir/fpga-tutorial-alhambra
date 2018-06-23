@@ -308,7 +308,7 @@ Para probarla colocaremos **3 pines de entrada**, en los que conectaremos **3 in
 
 El **montaje** para probarlo es este:
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/and-12.jpg)
 
 **Cargamos** y **probamos**:
 
