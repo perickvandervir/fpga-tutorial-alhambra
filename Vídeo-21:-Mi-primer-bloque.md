@@ -419,7 +419,8 @@ Cada vez que apretamos el pulsador, el **LED** se pone a **parpadear**
 
 Para convertirlo en **bloque**, empezamos colocando una **entrada sin nombre**, **desactivamos** la opción de **FPGA pin** y **activamos** la opción de **mostrar reloj**
 
-(Puerto de entrada de reloj)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/corazon-enable-04.png)
+
 (Convertir a puertos)
 (Crear bloque)
 (Circuito de ejemplo)
