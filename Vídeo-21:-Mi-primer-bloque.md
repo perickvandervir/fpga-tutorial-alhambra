@@ -340,7 +340,7 @@ Pinchamos el **OK** y se **actualiza** la entrada de pin a **puerto**
 
 Hacemos los mismo con el **resto de pines**
 
-(Convertir los pines en puertos)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-04.png)
 
 (Añadir icono e información. Guardar)
 
