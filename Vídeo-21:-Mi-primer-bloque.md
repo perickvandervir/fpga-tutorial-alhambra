@@ -35,6 +35,7 @@ TODO
     * [Ejemplo: Detector del número 2](#ejemplo-detector-del-n%C3%BAmero-2)
   * [Puertos de varios bits](#puertos-de-varios-bits)
 * [Bloques con entradas de reloj](#bloques-con-entradas-de-reloj)
+  * [Ejemplo: Corazón de 1Hz con entrada de enable](#ejemplo-coraz%C3%B3n-de-1hz-con-entrada-de-enable)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
@@ -399,6 +400,8 @@ Como **ejemplo** usaremos el circuito que hace **parpadear un LED** a la frecuen
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/corazon-ena-01.png)
 
 ## Ejemplo: Corazón de 1Hz con entrada de enable
+
+
 
 TODO
 
