@@ -392,6 +392,8 @@ En esta **animación** vemos el bloque en su interior
 
 # Bloques con entradas de reloj
 
+Los bloques tienen una **entrada especial**, llamada **entrada de reloj**. Más adelante veremos para qué sirve, y crearemos circuitos secuenciales, que tienen la capacidad de almacenar información en su interior. Pero de momento aprenderemos a **hacer bloques** con una **entrada de reloj**, aunque no sepamos para qué sirve
+
 TODO
 
 
