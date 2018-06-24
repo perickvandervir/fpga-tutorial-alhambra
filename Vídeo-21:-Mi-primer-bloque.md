@@ -385,7 +385,13 @@ Ahora creamos otro circuito para **probar** el nuevo bloque, conectando sus dos 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector-2-bus-3.png)
 
+(Animación)
+
 # Bloques con parámetros
+
+TODO
+
+# Bloques con entradas de reloj
 
 TODO
 
