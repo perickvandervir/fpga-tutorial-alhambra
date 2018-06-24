@@ -364,7 +364,9 @@ Ahora lo podemos usar en nuestros circuitos. Para probarlo, simplemente **conect
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-07.png)
 
-TODO
+Si nos **metemos** dentro del bloque, veremos la implementación que hemos hecho previamente
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-08.gif)
 
 ## Puertos de varios bits
 
