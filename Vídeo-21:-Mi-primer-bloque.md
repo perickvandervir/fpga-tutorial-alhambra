@@ -389,14 +389,16 @@ En esta **animación** vemos el bloque en su interior
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector-2-bus-4.gif)
 
+# Bloques con entradas de reloj
+
+TODO
+
 
 # Bloques con parámetros
 
 TODO
 
-# Bloques con entradas de reloj
 
-TODO
 
 # Creando iconos con Inkscape
 
