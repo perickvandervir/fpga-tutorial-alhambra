@@ -352,7 +352,7 @@ Introducimos la información del bloque desde **Editar/Información del proyecto
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-05.png)
 
-y pinchamos en OK.
+y pinchamos en **OK**.
 
 (Mismo circuito de pruebas pero usando el nuevo bloque)
 
