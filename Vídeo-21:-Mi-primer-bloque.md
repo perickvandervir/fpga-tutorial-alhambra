@@ -338,7 +338,7 @@ Pinchamos el **OK** y se **actualiza** la entrada de pin a **puerto**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-03.png)
 
-Hacemos los mismo con el **resto de pines**
+Hacemos lo mismo con el **resto de pines**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-04.png)
 
