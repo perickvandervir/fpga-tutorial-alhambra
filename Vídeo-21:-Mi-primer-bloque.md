@@ -409,7 +409,9 @@ Empezamos haciendo su implementación, usando pines para poder probar el circuit
 
 En el **esquema de montaje** colocamos un **pulsador** y un **LED externos**
 
-(esquema del montaje)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/corazon-enable-02.jpg)
+
+Lo **cargamos** y lo **probamos**:
 
 (animación)
 
