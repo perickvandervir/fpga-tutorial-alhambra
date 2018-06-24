@@ -334,6 +334,12 @@ Una vez comprobado que el circuito funciona, vamos a **convertirlo** en un **blo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-02.png)
 
+Pinchamos el **OK** y se **actualiza** la entrada de pin a **puerto**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-03.png)
+
+Hacemos los mismo con el **resto de pines**
+
 (Convertir los pines en puertos)
 
 (Añadir icono e información. Guardar)
