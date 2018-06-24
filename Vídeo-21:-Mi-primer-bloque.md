@@ -398,6 +398,8 @@ Como **ejemplo** usaremos el circuito que hace **parpadear un LED** a la frecuen
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/corazon-ena-01.png)
 
+## Ejemplo: Corazón de 1Hz con entrada de enable
+
 TODO
 
 
