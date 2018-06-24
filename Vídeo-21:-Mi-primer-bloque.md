@@ -401,7 +401,11 @@ Como **ejemplo** usaremos el circuito que hace **parpadear un LED** a la frecuen
 
 ## Ejemplo: Corazón de 1Hz con entrada de enable
 
+Vamos a crearnos **nuestro propio bloque corazón**, de frecuencia 1Hz, que disponga de una **entrada de enable**. Cuando esta entrada esté activada, el corazón bombeará bits normalmente. Cuando esté a 0, su salida estará a 0, y no se bombearán bits
 
+Empezamos haciendo su implementación, usando pines para poder probar el circuito. Lo implementamos a partir de un corazón de 1Hz y una puerta AND para realizar la habilitación. Este bloque tiene en total **dos puertos de entrada**, uno para su **entrada de reloj** y otra para la **de enable**, y un **puerto de salida**
+
+(Circuito)
 
 TODO
 
