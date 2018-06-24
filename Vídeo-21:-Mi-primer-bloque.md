@@ -34,6 +34,7 @@ TODO
     * [Ejemplo: Puerta AND de 3 entradas](#ejemplo-puerta-and-de-3-entradas)
     * [Ejemplo: Detector del número 2](#ejemplo-detector-del-n%C3%BAmero-2)
   * [Puertos de varios bits](#puertos-de-varios-bits)
+* [Bloques con entradas de reloj](#bloques-con-entradas-de-reloj)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
