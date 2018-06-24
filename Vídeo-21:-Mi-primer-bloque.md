@@ -423,6 +423,8 @@ Para convertirlo en **bloque**, empezamos colocando una **entrada sin nombre**, 
 
 Pinchamos el botón de **OK** y colocamos el bloque. Observamos que tiene el **símbolo >**, que indica que es un **puerto especial de entrada de reloj**. Tiramos un **cable** a la entrada de reloj del bloque del corazón
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/corazon-enable-06.png)
+
 (Convertir a puertos)
 (Crear bloque)
 (Circuito de ejemplo)
