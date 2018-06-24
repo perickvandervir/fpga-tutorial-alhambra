@@ -377,8 +377,9 @@ Creamos primero el circuito usando **pines**, para poder **sintetizarlo** y **co
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector-2-bus-1.png)
 
-Es el mismo detector del ejemplo anterior pero al que se le ha añadido un **separador de bus**. Ponemos la misma información en el proyecto, y el mismo icono (Editar/Información del proyecto). Cambiamos los pines por puertos, y lo **guardamos** como **detector2-bus.ice**
+Es el mismo detector del ejemplo anterior pero al que se le ha añadido un **separador de bus**. Ponemos la **misma información** en el proyecto, y el mismo icono (Editar/Información del proyecto). Cambiamos los **pines por puertos**, y lo **guardamos** como **detector2-bus.ice**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector-2-bus-2.png)
 
 TODO
 
