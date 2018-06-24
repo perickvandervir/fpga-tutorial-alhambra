@@ -342,13 +342,17 @@ Hacemos los mismo con el **resto de pines**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-04.png)
 
+En esta **animación** vemos el proceso:
+
+(animación)
+
 Como **icono** para el bloque usaremos este:
 
 ![](https://github.com/FPGAwars/icestudio-block-icons/raw/master/Comparations/is_2.svg?sanitize=true)
 
 que podemos descargar desde aquí: [is_2.svg](https://github.com/FPGAwars/icestudio-block-icons/raw/master/Comparations/is_2.svg)
 
-Introducimos la información del bloque desde **Editar/Información del proyecto**
+Ahora introducimos la **información** del bloque desde **Editar/Información del proyecto**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-05.png)
 
