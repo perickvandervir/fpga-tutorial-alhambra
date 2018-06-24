@@ -356,7 +356,7 @@ Ahora introducimos la **información** del bloque desde **Editar/Información de
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-05.png)
 
-y pinchamos en **OK**.
+y pinchamos en **OK**. **Guardamos** el bloque como **detector-2.ice**. Creamos un **circuito nuevo** y colocamos el **bloque detector** recién creado, pinchando en la opción **Archivo/Añadir como bloque**
 
 (Mismo circuito de pruebas pero usando el nuevo bloque)
 
