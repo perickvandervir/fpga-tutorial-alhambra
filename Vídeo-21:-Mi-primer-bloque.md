@@ -405,7 +405,16 @@ Vamos a crearnos **nuestro propio bloque corazón**, de frecuencia 1Hz, que disp
 
 Empezamos haciendo su implementación, usando pines para poder probar el circuito. Lo implementamos a partir de un corazón de 1Hz y una puerta AND para realizar la habilitación. Este bloque tiene en total **dos puertos de entrada**, uno para su **entrada de reloj** y otra para la **de enable**, y un **puerto de salida**
 
-(Circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/corazon-enable-01.png)
+
+(esquema del montaje)
+
+(animación)
+
+(Puerto de entrada de reloj)
+(Convertir a puertos)
+(Crear bloque)
+(Circuito de ejemplo)
 
 TODO
 
