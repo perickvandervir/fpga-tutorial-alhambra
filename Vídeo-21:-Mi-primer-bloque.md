@@ -381,7 +381,9 @@ Es el mismo detector del ejemplo anterior pero al que se le ha añadido un **sep
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector-2-bus-2.png)
 
-TODO
+Ahora creamos otro circuito para **probar** el nuevo bloque, conectando sus dos puertos a pines
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector-2-bus-3.png)
 
 # Bloques con parámetros
 
