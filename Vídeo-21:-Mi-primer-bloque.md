@@ -330,7 +330,9 @@ Hacemos el **montaje**, **cargamos** y lo **probamos**
 
 El interruptor de la **izquierda** es el **más significativo**. Sólo cuando está activado y el de la derecha no lo está, es cuando se está introduciendo el **número 2** (10) y por tanto se **enciende el LED**. En el resto de casos el LED está apagado
 
-Comprobado que el circuito funciona, vamos a **convertirlo** en un **bloque**. Hacemos **doble click** en el **marco de los pines** para editarlos. Y **deshabilitamos** la opción **FPGA pin** para convertirlos en **puertos**
+Una vez comprobado que el circuito funciona, vamos a **convertirlo** en un **bloque**. Hacemos **doble click** en el **marco de los pines** para editarlos. Y **deshabilitamos** la opción **FPGA pin** para convertirlos en **puertos**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-02.png)
 
 (Convertir los pines en puertos)
 
