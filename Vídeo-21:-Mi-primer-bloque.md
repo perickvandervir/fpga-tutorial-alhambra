@@ -360,7 +360,9 @@ y pinchamos en **OK**. **Guardamos** el bloque como **detector-2.ice**. Creamos 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-06.png)
 
-Ahora lo podemos usar en nuestros circuitos. Para probarlo, simplemente conectaremos sus entradas y salidas a **pines**, igual que cuando lo creamos
+Ahora lo podemos usar en nuestros circuitos. Para probarlo, simplemente **conectaremos** sus entradas y salidas a **pines**, igual que cuando lo creamos
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-07.png)
 
 TODO
 
