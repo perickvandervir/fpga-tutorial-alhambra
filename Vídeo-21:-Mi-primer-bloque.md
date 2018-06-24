@@ -373,6 +373,8 @@ Si nos **metemos** dentro del bloque, veremos la implementación que hemos hecho
 
 Para aprender a usar **puertos de varios bits**, y no sólo de 1, **modificaremos** el bloque anterior para que su entrada sea un **puerto de 2 bits** en vez de 2 entradas de 1 bit separadas. La manera de trabajar es **exactamente igual**. Sólo hay que tener en cuenta que los puertos de más de 1 bits **siempre** tienen que tener un **nombre** (NO es opcional, es obligatorio). En el caso de los puertos de 1 bit, el nombre es opcional
 
+Creamos primero el circuito usando **pines**, para poder **sintetizarlo** y **comprobarlo** en el montaje que tenemos:
+
 (screenshot circuito)
 
 TODO
