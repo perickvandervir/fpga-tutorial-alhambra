@@ -344,7 +344,7 @@ Hacemos los mismo con el **resto de pines**
 
 En esta **animación** vemos el proceso:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/detector2-05.gif)
 
 Como **icono** para el bloque usaremos este:
 
