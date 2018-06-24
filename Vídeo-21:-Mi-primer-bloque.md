@@ -413,7 +413,7 @@ En el **esquema de montaje** colocamos un **pulsador** y un **LED externos**
 
 Lo **cargamos** y lo **probamos**:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/corazon-enable-03.gif)
 
 (Puerto de entrada de reloj)
 (Convertir a puertos)
