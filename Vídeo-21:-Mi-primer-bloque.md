@@ -394,6 +394,10 @@ En esta **animación** vemos el bloque en su interior
 
 Los bloques tienen una **entrada especial**, llamada **entrada de reloj**. Más adelante veremos para qué sirve, y crearemos circuitos secuenciales, que tienen la capacidad de almacenar información en su interior. Pero de momento aprenderemos a **hacer bloques** con una **entrada de reloj**, aunque no sepamos para qué sirve
 
+Como **ejemplo** usaremos el circuito que hace **parpadear un LED** a la frecuencia de **1Hz**, que ya conocemos muy bien. En la izquierda tiene una **entrada de reloj**, que está marcada con el **símbolo >**.  Está conectada a un pin de entrada especial: el **reloj del sistema**, que en icestudio se denota por un **cuadrado añarillo pequeño**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/corazon-ena-01.png)
+
 TODO
 
 
