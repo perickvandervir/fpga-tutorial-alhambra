@@ -427,7 +427,9 @@ Pinchamos el botón de **OK** y colocamos el bloque. Observamos que tiene el **s
 
 Y **convertimos** el resto de pines a **puertos**
 
-(Convertir a puertos)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/corazon-enable-08.png)
+
+En esta **animación** se muestra con más detalle el proceo para **crear** el puerto de **entrada del reloj**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/corazon-enable-07.gif)
 
