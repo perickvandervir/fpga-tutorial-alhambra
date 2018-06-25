@@ -29,13 +29,16 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | 19 | [Circuitos combinacionales](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales) |
 | 20 | [Buses y números](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-20:-Buses-y-n%C3%BAmeros) |
 | 21 | [Mi primer bloque](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-21:-Mi-primer-bloque) (En construcción...) |
-| 22 | Biestables |
-| 23  | Temporizador
-| 24 | Contando |
-| 25 | Registros |
-| 26 | Comparadores |
-| 27 | Funciones lógicas |
-| 28 | ...
+| 22 | Circuitos combinacionales con varias salidas
+| 23 | Mi primera colección
+| 24 | Display de 7 segmentos
+| 25 | Biestables |
+| 26 | Temporizador
+| 27 | Contando |
+| 28 | Registros |
+| 29 | Comparadores |
+| 30 | Funciones lógicas |
+| 31 | ...
 
 
 ## Academia Jedi de hardware
