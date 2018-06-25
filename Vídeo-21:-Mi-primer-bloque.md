@@ -439,11 +439,11 @@ El **icono** lo descargamos de este enlace: [Heart_1Hz.svg](https://github.com/F
 
 Lo **guardamos** como **corazon-1hz-enable.ice**. Creamos un circuito en blanco e **importamos el corazón**:
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/corazon-enable-10.png)
 
-(Circuito de ejemplo)
+Vemos cómo la **entrada de reloj** nos aparece conectada automáticamente al **pin de reloj del sistema**. Conectamos el resto de pines para realizar **pruebas**
 
-TODO
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/corazon-enable-11.png)
 
 # Bloques con parámetros
 
