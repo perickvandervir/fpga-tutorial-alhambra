@@ -453,7 +453,7 @@ Además de los puertos, los bloques tienen **parámetros de entrada**. Para crea
 
 Haremos dos ejemplos: Un **corazón con entrada de enable**, igual que el del apartado anterior, pero con la **frecuencia en HZ paramétrizada**. El otro será un **detector paramétrico de números de dos bits**. En apartados anteriores hicimo uno que detectaba el número 2 exclusivamente. Ahora haremos uno que detecte el número de 2 bits que se introduzca como **parámetro**
 
-## Corazón paramétrico con enable
+## Ejemplo: Corazón paramétrico con enable
 
 TODO
 
