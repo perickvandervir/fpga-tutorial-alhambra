@@ -429,6 +429,7 @@ Y **convertimos** el resto de pines a **puertos**
 
 (Convertir a puertos)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/corazon-enable-07.gif)
 
 (Crear bloque)
 (Circuito de ejemplo)
