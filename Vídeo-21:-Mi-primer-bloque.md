@@ -425,7 +425,11 @@ Pinchamos el botón de **OK** y colocamos el bloque. Observamos que tiene el **s
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/corazon-enable-06.png)
 
+Y **convertimos** el resto de pines a **puertos**
+
 (Convertir a puertos)
+
+
 (Crear bloque)
 (Circuito de ejemplo)
 
