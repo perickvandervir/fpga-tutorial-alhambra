@@ -37,6 +37,7 @@ TODO
 * [Bloques con entradas de reloj](#bloques-con-entradas-de-reloj)
   * [Ejemplo: Corazón de 1Hz con entrada de enable](#ejemplo-coraz%C3%B3n-de-1hz-con-entrada-de-enable)
 * [Bloques con parámetros](#bloques-con-par%C3%A1metros)
+  * [Ejemplo: Corazón paramétrico con enable]()
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
