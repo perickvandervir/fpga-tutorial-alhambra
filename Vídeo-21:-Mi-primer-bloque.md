@@ -457,7 +457,9 @@ Haremos dos ejemplos: Un **corazón con entrada de enable**, igual que el del ap
 
 TODO
 
+## Ejemplo: Detector paramétrico de números de 2 bits
 
+TODO
 
 # Creando iconos con Inkscape
 
