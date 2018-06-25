@@ -433,6 +433,10 @@ En esta **animación** se muestra con más detalle el proceo para **crear** el p
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/corazon-enable-07.gif)
 
+El **icono** lo descargamos de este enlace: [Heart_1Hz.svg](https://github.com/FPGAwars/Icestudio-block-icons/raw/master/Hearts/Heart_1Hz.svg). Editamos la información del bloque:
+
+(screenshot)
+
 (Crear bloque)
 (Circuito de ejemplo)
 
