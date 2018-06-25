@@ -448,6 +448,12 @@ Vemos cómo la **entrada de reloj** nos aparece conectada automáticamente al **
 
 # Bloques con parámetros
 
+Además de los puertos, los bloques tienen **parámetros de entrada**. Para crearlos, simplemente basta con usar otros **bloques paramétricos** y colocar los **contenedores** (contante o Memory) para establecer su valor
+
+Haremos dos ejemplos: Un **corazón con entrada de enable**, igual que el del apartado anterior, pero con la **frecuencia en HZ paramétrizada**. El otro será un **detector paramétrico de números de dos bits**. En apartados anteriores hicimo uno que detectaba el número 2 exclusivamente. Ahora haremos uno que detecte el número de 2 bits que se introduzca como **parámetro**
+
+## Corazón paramétrico con enable
+
 TODO
 
 
