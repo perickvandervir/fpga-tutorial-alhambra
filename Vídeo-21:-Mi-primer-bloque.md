@@ -435,9 +435,11 @@ En esta **animación** se muestra con más detalle el proceo para **crear** el p
 
 El **icono** lo descargamos de este enlace: [Heart_1Hz.svg](https://github.com/FPGAwars/Icestudio-block-icons/raw/master/Hearts/Heart_1Hz.svg). Editamos la información del bloque:
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/corazon-enable-09.png)
 
-(Crear bloque)
+Lo **guardamos** como **corazon-1hz-enable.ice**. Creamos un circuito en blanco e **importamos el corazón**:
+
+
 (Circuito de ejemplo)
 
 TODO
