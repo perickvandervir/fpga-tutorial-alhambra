@@ -508,10 +508,13 @@ Usaremos este **icono**: [is_k.svg](https://github.com/FPGAwars/icestudio-block-
 
 Creamos un **circuito en blanco** y añadimos el **bloque nuevo**
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/block-param-11.png)
 
+Vemos cómo solo tiene **un parámetro de entrada** en la parte superior. Le damos un valor y conectamos la entrada y la salida a pines para probar el bloque
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/block-param-12.png)
+
+Cambiando el valor del parámetro realizamos comparaciones con diferentes números
 
 # Creando iconos con Inkscape
 
