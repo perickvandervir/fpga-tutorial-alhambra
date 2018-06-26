@@ -459,6 +459,15 @@ Partimos del **mismo ejemplo** que hemos hecho antes, para hacer nuestro propio 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/block-param-01.png)
 
+Ahora lo convertimos a bloque como ya sabemos: **convertimos los pines en puertos**
+
+(screenshot)
+
+
+El parámetro se deja tal cual. Aparecerá como parámetro en el bloque. Como no le hemos asignado ningún nombre, simplemente nos aparecerá una línea en la parte superior del bloque, sin ningún nombre
+
+
+
 TODO
 
 ## Ejemplo: Detector paramétrico de números de 2 bits
