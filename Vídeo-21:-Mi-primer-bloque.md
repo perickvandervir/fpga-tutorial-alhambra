@@ -527,7 +527,15 @@ Una vez **instalado**, lo arancamos, y nos aparecerá una ventana como esta
 
 La apariencia exacta depende del sistema operativo, el tamaño de la ventana y el idioma. Los iconos pueden estar en otras posiciones, así como los menúes
 
-Vamos a crear nuestro primero icono. Simplemente haremos un **círculo rojo**
+Vamos a crear **nuestro primero icono**. Simplemente haremos un **círculo rojo**. Pinchamos en el icono el círculo en la parte de la derecha. Nos situamos en cualquier parte del lienzo de dibujo. Pulsamos el botón izquierdo y arrastramos el ratón hasta que tengamos el círculo. El tamaño no es importante, porque al tratarse de un **dibujo vectorial**, se verá perfectamente en cualquier tamaño. Con el círculo seleccionado, pinchamos en la barra inferior de colores, para establecer el relleno
+
+El **paso clave es ajustar el tamaño de la página** para que se ajuste a nuestro icono. Si no lo hacemos, se usará el tamaño de la página por defecto, que es un din A4, y nuestro icono se verá muy pequeño
+
+Nos vamos a **Archivo/Propiedades del documento**.   Desplegamos la opción de **Ajustar página a contenido** y pinchamos en el botón de **Ajustar página a dibujo o selección**
+
+(screenshot)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/icono-02.gif)
 
 (Screenshot)
 
