@@ -500,7 +500,7 @@ Aparece un **candado cerrado** en su esquina superior derecha, indicando que es 
 
 Ahora **cambiamos** los **pines** por **puertos**
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/block-param-09.png)
 
 
 TODO
