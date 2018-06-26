@@ -502,6 +502,10 @@ Ahora **cambiamos** los **pines** por **puertos**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/block-param-09.png)
 
+Usaremos este **icono**: [is_k.svg](https://github.com/FPGAwars/icestudio-block-icons/raw/master/Comparations/is_k.svg). Editamos la **información del bloque**
+
+(screenshot)
+
 
 TODO
 
