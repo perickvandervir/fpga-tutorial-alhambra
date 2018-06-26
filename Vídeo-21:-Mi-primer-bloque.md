@@ -533,7 +533,13 @@ El **paso clave es ajustar el tamaño de la página** para que se ajuste a nuest
 
 Nos vamos a **Archivo/Propiedades del documento**.   Desplegamos la opción de **Ajustar página a contenido** y pinchamos en el botón de **Ajustar página a dibujo o selección**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/iconos-03.png)
+
+Veremos cómo la paǵina se **ajusta** a nuestro círculo rojo
+
 (screenshot)
+
+En esta **animación** de muestra el proceso completo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/icono-02.gif)
 
