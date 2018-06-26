@@ -459,12 +459,13 @@ Partimos del **mismo ejemplo** que hemos hecho antes, para hacer nuestro propio 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/block-param-01.png)
 
-Ahora lo convertimos a bloque como ya sabemos: **convertimos los pines en puertos**
+Ahora lo **convertimos a bloque** como ya sabemos: **convertimos los pines en puertos** y añadimos el puerto del reloj
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/block-param-02.png)
+
+El **parámetro** se deja tal cual. Aparecerá como parámetro en el bloque. Como no le hemos asignado ningún nombre, simplemente nos aparecerá una línea en la parte superior del bloque, sin ningún nombre. Guardamos el bloque como **corazon-enable.ice**. Descargamos este icono: [Heart_Hz.svg](https://github.com/FPGAwars/icestudio-block-icons/raw/master/Hearts/Heart_Hz.svg). **Editamos** la información del bloque
 
 (screenshot)
-
-
-El parámetro se deja tal cual. Aparecerá como parámetro en el bloque. Como no le hemos asignado ningún nombre, simplemente nos aparecerá una línea en la parte superior del bloque, sin ningún nombre
 
 
 
