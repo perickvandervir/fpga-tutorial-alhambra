@@ -482,6 +482,8 @@ Le **asignamos un valor al parámetro**, por ejemplo 2, y conectamos la entrada 
 
 En uno de los ejemplos anteriores hicimos un detector del número 2. Ahora lo **generalizaremos** para que sea un **detector paramétrico**, y que el **número k** a detectar sea un parámetro. Para su implementación utilizaremos el [comparador de números de dos bits](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales#ejemplo-6-comparador-de-n%C3%BAmeros-de-2-bits) que hicimos en el [tutorial 19](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales).
 
+El **circuito completo**, usando **pines**, es el siguiente
+
 TODO
 
 # Creando iconos con Inkscape
