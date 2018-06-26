@@ -467,7 +467,15 @@ El **parámetro** se deja tal cual. Aparecerá como parámetro en el bloque. Com
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/block-param-03.png)
 
-TODO
+En un circuito nuevo **importamos el bloque** (Archivo/Añadir como bloque). Nos aparece el corazón, con su entrada de enable, el reloj del sistema conectado al puerto del reloj y **la entrada del parámetro** en la parte superior
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/block-param-04.png)
+
+Le **asignamos un valor al parámetro**, por ejemplo 2, y conectamos la entrada y la salida a dos pines para **probar** el bloque
+
+(screenshot)
+
+¡Ya hemos hecho nuestro primer bloque paramétrico!
 
 ## Ejemplo: Detector paramétrico de números de 2 bits
 
