@@ -553,6 +553,10 @@ Creamos un **bloque pegatina** para probarlo, que ya lo sabemos hacer. Lo import
 
 Ahora ya sólo es cuestión de **aprender a manejar el inkscape**, para aprender a dibujar con él, y bien crear nuestros iconos  desde cero o bien modificar los creados por otros. En este ejemplo sólo hemos puesto un círculo rojo, pero podemos hacer lo mismo con otras **figuras geométricas**: rectángulos, estrellas, polígonos..., ***añadir trazos**, importar **imágenes** png, jpg..., colocar **texto**, etc.
 
+## Repositorio de iconos para Icestudio
+
+TODO
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
