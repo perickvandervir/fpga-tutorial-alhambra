@@ -473,7 +473,7 @@ En un circuito nuevo **importamos el bloque** (Archivo/Añadir como bloque). Nos
 
 Le **asignamos un valor al parámetro**, por ejemplo 2, y conectamos la entrada y la salida a dos pines para **probar** el bloque
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/block-param-05.png)
 
 ¡Ya hemos hecho nuestro primer bloque paramétrico!
 
