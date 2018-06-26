@@ -486,6 +486,16 @@ El **circuito completo**, usando **pines**, es el siguiente
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/block-param-06.png)
 
+Para los **dos bits superiores** del comparador introducimos la **constante** que queremos detectar, que por defecto está puesto el 3. Por los **2 bits inferiores** introducimos el **número a detectar**, que proviene de los **interruptores externos**. Lo Cargamos para probarlo
+
+Ahora vamos a convertirlo en bloque. Vemos que tenemos **2 parámetros**: el valor de la **contante k**, que es el número a detectar, y la **tabla de verdad** del comparador. Esta última no queremos sacarla hacia fuera. No queremos que se tenga acceso a ella desde el exterior. Es decir, queremos convertirla en un **parámetro interno**, sólo visible en la **implementación del bloque**, pero no accesible desde el exterior
+
+Hacemos **doble click** en la tabla, para editarla, y **marcamos** la casilla que pone **parámetro local**
+
+(screenshot)
+
+
+
 TODO
 
 # Creando iconos con Inkscape
