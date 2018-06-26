@@ -541,12 +541,17 @@ Veremos cómo la paǵina se **ajusta** a nuestro círculo rojo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/iconos-04.png)
 
-En esta **animación** de muestra el proceso completo
+En esta **animación** se muestra el proceso completo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/icono-02.gif)
 
-TODO
+Ahora **grabamos** el icono como **mi-icono.svg**, desde **Archivo/Guardar**
 
+Creamos un **bloque pegatina** para probarlo, que ya lo sabemos hacer. Lo importamos en un documento nuevo de Icestudio:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/iconos-06.png)
+
+Ahora ya sólo es cuestión de **aprender a manejar el inkscape**, para aprender a dibujar con él, y bien crear nuestros iconos  desde cero o bien modificar los creados por otros. En este ejemplo sólo hemos puesto un círculo rojo, pero podemos hacer lo mismo con otras **figuras geométricas**: rectángulos, estrellas, polígonos..., ***añadir trazos**, importar **imágenes** png, jpg..., colocar **texto**, etc.
 
 # Ejercicios propuestos (X BitPoints)
 
