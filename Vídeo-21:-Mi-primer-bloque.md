@@ -480,6 +480,8 @@ Le **asignamos un valor al parámetro**, por ejemplo 2, y conectamos la entrada 
 
 ## Ejemplo: Detector paramétrico de números de 2 bits
 
+En uno de los ejemplos anteriores hicimos un detector del número 2. Ahora lo **generalizaremos** para que sea un **detector paramétrico**, y que el **número k** a detectar sea un parámetro. Para su implementación utilizaremos un **comparador de números de dos bits** a partir de su **tabla de verdad**.
+
 TODO
 
 # Creando iconos con Inkscape
