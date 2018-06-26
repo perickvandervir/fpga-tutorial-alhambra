@@ -537,13 +537,11 @@ Nos vamos a **Archivo/Propiedades del documento**.   Desplegamos la opción de *
 
 Veremos cómo la paǵina se **ajusta** a nuestro círculo rojo
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/iconos-04.png)
 
 En esta **animación** de muestra el proceso completo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/icono-02.gif)
-
-(Screenshot)
 
 TODO
 
