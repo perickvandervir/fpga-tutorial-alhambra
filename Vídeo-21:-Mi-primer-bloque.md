@@ -484,6 +484,8 @@ En uno de los ejemplos anteriores hicimos un detector del número 2. Ahora lo **
 
 El **circuito completo**, usando **pines**, es el siguiente
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/block-param-06.png)
+
 TODO
 
 # Creando iconos con Inkscape
