@@ -38,6 +38,7 @@ TODO
   * [Ejemplo: Corazón de 1Hz con entrada de enable](#ejemplo-coraz%C3%B3n-de-1hz-con-entrada-de-enable)
 * [Bloques con parámetros](#bloques-con-par%C3%A1metros)
   * [Ejemplo: Corazón paramétrico con enable](#ejemplo-coraz%C3%B3n-param%C3%A9trico-con-enable)
+  * [Ejemplo: Detector paramétrico de números de dos bits](#ejemplo-detector-param%C3%A9trico-de-n%C3%BAmeros-de-2-bits)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
