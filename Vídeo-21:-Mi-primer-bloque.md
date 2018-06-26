@@ -465,9 +465,7 @@ Ahora lo **convertimos a bloque** como ya sabemos: **convertimos los pines en pu
 
 El **parámetro** se deja tal cual. Aparecerá como parámetro en el bloque. Como no le hemos asignado ningún nombre, simplemente nos aparecerá una línea en la parte superior del bloque, sin ningún nombre. Guardamos el bloque como **corazon-enable.ice**. Descargamos este icono: [Heart_Hz.svg](https://github.com/FPGAwars/icestudio-block-icons/raw/master/Hearts/Heart_Hz.svg). **Editamos** la información del bloque
 
-(screenshot)
-
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/block-param-03.png)
 
 TODO
 
