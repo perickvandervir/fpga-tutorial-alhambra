@@ -492,8 +492,7 @@ Ahora vamos a convertirlo en bloque. Vemos que tenemos **2 parámetros**: el val
 
 Hacemos **doble click** en la tabla, para editarla, y **marcamos** la casilla que pone **parámetro local**
 
-(screenshot)
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/block-param-07.png)
 
 
 TODO
