@@ -455,6 +455,10 @@ Haremos dos ejemplos: Un **corazón con entrada de enable**, igual que el del ap
 
 ## Ejemplo: Corazón paramétrico con enable
 
+Partimos del **mismo ejemplo** que hemos hecho antes, para hacer nuestro propio corazón con entrada de enable, pero cambiamos el corazón de frecuencia fija por uno **paramétrico**, y le asignamos un valor por defecto de la frecuencia, de 1Hz, por ejemplo. Usamos **pines** para **probar** el circuito y comprobar que **funciona correctamente**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/block-param-01.png)
+
 TODO
 
 ## Ejemplo: Detector paramétrico de números de 2 bits
