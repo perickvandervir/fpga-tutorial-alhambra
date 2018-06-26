@@ -521,8 +521,13 @@ Cambiando el valor del parámetro realizamos comparaciones con diferentes númer
 Hasta ahora hemos usado **iconos SVG** ya c
 reados, para nuestros bloques. Vamos a aprender a **crear** los nuestros propios. Para ello usaremos el programa **libre** y **multiplataforma** [Inkscape](https://inkscape.org)
 
-
 Una vez **instalado**, lo arancamos, y nos aparecerá una ventana como esta
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/iconos-01.png)
+
+La apariencia exacta depende del sistema operativo, el tamaño de la ventana y el idioma. Los iconos pueden estar en otras posiciones, así como los menúes
+
+Vamos a crear nuestro primero icono. Simplemente haremos un **círculo rojo**
 
 (Screenshot)
 
