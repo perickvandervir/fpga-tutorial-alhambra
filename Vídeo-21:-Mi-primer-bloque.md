@@ -506,6 +506,8 @@ Usaremos este **icono**: [is_k.svg](https://github.com/FPGAwars/icestudio-block-
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/block-param-10.png)
 
+Creamos un **circuito en blanco** y añadimos el **bloque nuevo**
+
 (screenshot)
 
 
