@@ -575,7 +575,19 @@ Además, puedes encontrar otros **iconos SVG libres** en estos repositorios:
 
 ## ¡Comparte tus iconos! :-)
 
-TODO
+Si has creado iconos nuevos para tus bloques o diseños derivados, **compártelos** con el resto de la comunidad, publícándolos con una **licencia libre** (Por ejemplo [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/es/)) en el repositorio que quieras.
+
+Cualquier **contribución** al [repositorio de iconos de Icestudio](https://github.com/FPGAwars/icestudio-block-icons/wiki) será muy bienvenida. Estas contribuciones te servirán como **ejercicio libre**, y también para obtener **bitpoints adicionales** (5 bitpoints por logo) hasta completar los bitpoints que podrías tener como máximo hasta el último tutorial que hayas hecho. Simplemente envía el pull-request.
+
+La **tabla de bitpoints** que podrías tener según los tutoriales completados es:
+
+| Tutorial |  Tope de Bitpoints |
+|----------|--------------------|
+| Tutorial 1 | 4                |
+| Tutorial 2 | 10               |
+| Tutorial 3 | |
+
+Así, por ejemplo, puedes estar por el tutorial 20, pero tener menos de bitpoints xxx, porque hay ejercicios de tutoriales anteriores que no has entregado, o porque no has hecho todos los ejercicios libres. Bien. Si compartes tus logos SVG puedes recuperar esos bitpoints
 
 # Ejercicios propuestos (X BitPoints)
 
