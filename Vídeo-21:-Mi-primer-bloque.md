@@ -564,7 +564,9 @@ En la wiki hay un **índice** donde se muestran algunos de los iconos, pero en e
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/repos-2.png)
 
-Todos los iconos están hecho con el [Inkscape](https://inkscape.org), y tienen una **licencia libre** para que cualquiera los pueda usar y modificar. Las **contribuciones** son muy bienvenidas. Anímate y añade tus contribuciones (pull requests) a este repositorio
+Todos los iconos están hecho con el [Inkscape](https://inkscape.org), y tienen una **licencia libre** para que cualquiera los pueda usar y modificar. Las **contribuciones** son muy bienvenidas. Anímate y añade tus contribuciones (pull requests) al repositorio
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/repos-3.png)
 
 Además, puedes encontrar otros **iconos SVG libres** en estos repositorios:
 
