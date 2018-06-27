@@ -608,7 +608,7 @@ La **tabla de bitpoints** que podrías tener según los tutoriales completados e
 
 Así, por ejemplo, puedes estar por el tutorial 20, pero tener menos de 300 bitpoints, porque hay ejercicios de tutoriales anteriores que no has entregado, o porque no has hecho todos los ejercicios libres. Bien. Si compartes tus logos SVG puedes recuperar esos bitpoints
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (20 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
