@@ -569,7 +569,7 @@ Todos los iconos están hecho con el [Inkscape](https://inkscape.org), y tienen 
 Además, puedes encontrar otros **iconos SVG libres** en estos repositorios:
 
 * [OpenClipart](https://openclipart.org/)
-* [Wikicommons](https://commons.wikimedia.org/wiki/Category:Icons)
+* [Wikicommons](https://commons.wikimedia.org/wiki/Category:SVG_icons)
 
 ## ¡Comparte tus iconos! :-)
 
