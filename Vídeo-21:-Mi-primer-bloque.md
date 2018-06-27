@@ -582,7 +582,7 @@ Cualquier **contribución** al [repositorio de iconos de Icestudio](https://gith
 
 La **tabla de bitpoints** que podrías tener según los tutoriales completados es:
 
-| Tutorial |  Tope de Bitpoints |
+| Tutorial |  Tope de Bitpoints acumulados |
 |----------|--------------------|
 | Tutorial 1 | 4                |
 | Tutorial 2 | 10               |
