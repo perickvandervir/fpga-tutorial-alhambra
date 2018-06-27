@@ -41,6 +41,7 @@ TODO
   * [Ejemplo: Detector paramétrico de números de dos bits](#ejemplo-detector-param%C3%A9trico-de-n%C3%BAmeros-de-2-bits)
 * [Creando iconos con Inkscape](#creando-iconos-con-inkscape)
   * [Repositorio de iconos para icestudio](#repositorio-de-iconos-para-icestudio)
+  * [Comparte tus iconos :-)](#comparte-tus-iconos--)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
