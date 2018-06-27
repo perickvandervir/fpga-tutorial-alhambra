@@ -556,6 +556,8 @@ Ahora ya sólo es cuestión de **aprender a manejar el inkscape**, para aprender
 
 ## Repositorio de iconos para Icestudio
 
+Todos los **iconos SVG** utilizados en los bloques de muchas colecciones, incluidos los de estos tutoriales, están publicados en este **repositorio de github**:  [Icestudio block icons](https://github.com/FPGAwars/icestudio-block-icons/wiki)
+
 TODO
 
 ## ¡Comparte tus iconos! :-)
