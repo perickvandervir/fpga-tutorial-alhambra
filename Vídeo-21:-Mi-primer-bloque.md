@@ -42,7 +42,7 @@ TODO
 * [Creando iconos con Inkscape](#creando-iconos-con-inkscape)
   * [Repositorio de iconos para icestudio](#repositorio-de-iconos-para-icestudio)
   * [Comparte tus iconos :-)](#comparte-tus-iconos--)
-* [Ejercicios propuestos (20 Bitpoints)](e#ejercicios-propuestos-20-bitpoints)
+* [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
 * [Licencia](#licencia)
