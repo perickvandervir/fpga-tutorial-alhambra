@@ -10,7 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-TODO
+Los circuitos que hemos creado utilizan bloques. Aprenderemos a crear **nuestros propios bloques**, utilizando los que ya conocemos. Esto nos permitirá ocultar la **complejidad** y así crear circuitos más potentes, usando **diseño jerárquico**
 
 # Colección
 
