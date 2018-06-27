@@ -612,7 +612,9 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **5 Bitpoints**): 
+* **Ejercicio 1** (Total **5 Bitpoints**): **Bloque pegatina con tu avatar**
+
+Crea un bloque pegatina (sin puertos) con tu avatar, logo, foto, etc. Puedes usar imágenes de cualquier tamaño, sin embargo es mejor que las reduzcas para que el bloque ocupe menos espacio
 
 * **Ejercicio 2** (Total **5 Bitpoints**): 
 
