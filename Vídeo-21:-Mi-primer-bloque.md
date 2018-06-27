@@ -558,11 +558,11 @@ Ahora ya sólo es cuestión de **aprender a manejar el inkscape**, para aprender
 
 Todos los **iconos SVG** utilizados en los bloques de muchas colecciones, incluidos los de estos tutoriales, están publicados en este **repositorio de github**:  [Icestudio block icons](https://github.com/FPGAwars/icestudio-block-icons/wiki)
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/repos-1.png)
 
 En la wiki hay un **índice** donde se muestran algunos de los iconos, pero en el repositorio hay muchísimos más, **agrupados por categorías**
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/repos-2.png)
 
 (contributions are welcome!!!!)
 (Otros repos)
