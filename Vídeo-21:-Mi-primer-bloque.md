@@ -586,9 +586,27 @@ La **tabla de bitpoints** que podrías tener según los tutoriales completados e
 |----------|--------------------|
 | Tutorial 1 | 4                |
 | Tutorial 2 | 10               |
-| Tutorial 3 | |
+| Tutorial 3 | 21               |
+| Tutorial 4 | 31               |
+| Tutorial 5 | 40               |
+| Tutorial 6 | 51               |
+| Tutorial 7 | 62               |
+| Tutorial 8 | 80               |
+| Tutorial 9 | 94               |
+| Tutorial 10 | 110             |
+| Tutorial 11 | 124             |
+| Tutorial 12 | 140             |
+| Tutorial 13 | 158             |
+| Tutorial 14 | 172             |
+| Tutorial 15 | 195             |
+| Tutorial 16 | 220             |
+| Tutorial 17 | 240             |
+| Tutorial 18 | 260             |
+| Tutorial 19 | 280             |
+| Tutorial 20 | 300             |
+| Tutorial 21 | 320             |
 
-Así, por ejemplo, puedes estar por el tutorial 20, pero tener menos de bitpoints xxx, porque hay ejercicios de tutoriales anteriores que no has entregado, o porque no has hecho todos los ejercicios libres. Bien. Si compartes tus logos SVG puedes recuperar esos bitpoints
+Así, por ejemplo, puedes estar por el tutorial 20, pero tener menos de 300 bitpoints, porque hay ejercicios de tutoriales anteriores que no has entregado, o porque no has hecho todos los ejercicios libres. Bien. Si compartes tus logos SVG puedes recuperar esos bitpoints
 
 # Ejercicios propuestos (X BitPoints)
 
