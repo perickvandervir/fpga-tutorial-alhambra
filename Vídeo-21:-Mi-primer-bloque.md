@@ -612,17 +612,22 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **5 Bitpoints**): **Bloque pegatina con tu avatar**
+* **Ejercicio 21.1** (Total **5 Bitpoints**): **Bloque pegatina con tu avatar**
 
 Crea un bloque pegatina (sin puertos) con tu avatar, logo, foto, etc. Puedes usar imágenes de cualquier tamaño, sin embargo es mejor que las reduzcas para que el bloque ocupe menos espacio
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/Ejercicios-1.png)
 
-* **Ejercicio 2** (Total **5 Bitpoints**): 
+* **Ejercicio 21.2** (Total **5 Bitpoints**): **Puerta AND del circuit Scramble**
 
-* **Ejercicio 3** (Total **5 Bitpoints**): 
+Crear un **bloque** que implemente una puerta AND usando el icono del Circuit Scramble.  
+El icono está disponible en este enlace: [AND-cs.svg](https://github.com/FPGAwars/icestudio-block-icons/raw/master/Circuit-scramble/AND-cs.svg)  
 
-* **Ejercicio 4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
+
+
+* **Ejercicio 21.3** (Total **5 Bitpoints**): 
+
+* **Ejercicio 21.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
 
