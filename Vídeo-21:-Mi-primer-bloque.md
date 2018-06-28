@@ -620,9 +620,12 @@ Crea un bloque pegatina (sin puertos) con tu avatar, logo, foto, etc. Puedes usa
 
 * **Ejercicio 21.2** (Total **5 Bitpoints**): **Puerta AND del circuit Scramble**
 
-Crear un **bloque** que implemente una puerta AND usando el icono del Circuit Scramble.  
+Crear un **bloque** que implemente una **puerta AND** usando el icono del **Circuit Scramble**.  
 El icono está disponible en este enlace: [AND-cs.svg](https://github.com/FPGAwars/icestudio-block-icons/raw/master/Circuit-scramble/AND-cs.svg)  
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/Ejercicios-2.png)
+
+Hacer un **circuito de prueba**, con este nuevo bloque, usando **dos interruptores externos** para introducir bit por sus entradas y un **LED externo** conectado a la salida
 
 
 * **Ejercicio 21.3** (Total **5 Bitpoints**): 
