@@ -107,7 +107,7 @@ Los **bloques pegatinas** (stickers) nos permiten añadir **información visual*
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/intro-08.gif)
 
-Además de algunos **emojis**, se han incluido todos los **rangos de la Academia Jedi** disponibles hasta ahora. Están accesibles todos desde el ejemplo accesible desde el menú **Archivo/Ejemplos/1-Ejemplos/02-Pegatinas-Academia-Jedi**
+Además de algunos **emojis**, se han incluido todos los **rangos de la Academia Jedi** disponibles hasta ahora. Están accesibles todos desde el menú **Archivo/Ejemplos/1-Ejemplos/02-Pegatinas-Academia-Jedi**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/pegatinas-02.png)
 
