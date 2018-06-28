@@ -627,8 +627,13 @@ El icono está disponible en este enlace: [AND-cs.svg](https://github.com/FPGAwa
 
 Hacer un **circuito de prueba**, con este nuevo bloque, usando **dos interruptores externos** para introducir bit por sus entradas y un **LED externo** conectado a la salida
 
+* **Ejercicio 21.3** (Total **5 Bitpoints**): **Bloque Franky**
+Diseñar un bloque para controlar a Franky. Tendrá **2 puertos de entrada** de un bit (además del de reloj). Uno hará que Franky dispare por sus ojos,  cuando se ponga a 1, y no dispare mientras esté a 0. El disparo es un parpadeo de los ojos a una frecuencia definida por el usuario mediante un parámetro. Por** defecto** será de **10Hz**. La otra entrada hará que Franky mire hacia un lado (1) o hacia el otro (0). Tendrá como salidas un **puerto de 2 bits** para los **LEDs de los ojos**, y uno de **un bit** para el **control del servo** del cuello. Tendrá un **parámetro** para especificar la frecuencia del parpadeo de los ojos en el disparo
 
-* **Ejercicio 21.3** (Total **5 Bitpoints**): 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/Ejercicios-3.png)
+
+Hacer un **circuito de prueba** del bloque, conectando la entrada de disparo a un pulsador y la del cuello a un interruptor
+
 
 * **Ejercicio 21.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
