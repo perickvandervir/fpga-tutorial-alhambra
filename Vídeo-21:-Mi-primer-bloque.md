@@ -14,7 +14,7 @@ Los circuitos que hemos creado utilizan bloques. Aprenderemos a crear **nuestros
 
 # Colección
 
-[Academia-Jedi-HW-21.zip(https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/Collection/Academia-Jedi-HW-21.zip): Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-21.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-21/Collection/Academia-Jedi-HW-21.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
