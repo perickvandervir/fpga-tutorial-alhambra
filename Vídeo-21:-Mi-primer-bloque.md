@@ -639,14 +639,10 @@ Hacer un **circuito de prueba** del bloque, conectando la entrada de disparo a u
 
 # Ejercicios entregados
 
-## Primero
+## Andrés (Avarez)
 
 ### Ejercicio 1
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-21/avarez/Ejercicio.21.1.png)
 
 ### Ejercicio 2
 ![]()
