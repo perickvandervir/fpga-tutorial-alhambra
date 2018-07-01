@@ -11,7 +11,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Colección
 
-**Academia-Jedi-HW-21.zip**: Colección para este tutorial. Descargar e instalar 
+**Academia-Jedi-HW-22.zip**: Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
@@ -31,40 +31,40 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 **Resumen**:
 
-* **Ejercicio 1** (Total **x Bitpoints**): 
+* **Ejercicio 22.1** (Total **x Bitpoints**): 
 
-* **Ejercicio 2** (Total **x Bitpoints**): 
+* **Ejercicio 22.2** (Total **x Bitpoints**): 
 
-* **Ejercicio 3** (Total **x Bitpoints**): 
+* **Ejercicio 22.3** (Total **x Bitpoints**): 
 
-* **Ejercicio 4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
+* **Ejercicio 22.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
 
 ## Primero
 
-### Ejercicio 1
+### Ejercicio 22.1
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 2
+### Ejercicio 22.2
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 3
+### Ejercicio 22.3
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 4
+### Ejercicio 22.4
 ![]()
 
 * **Vídeo** en Youtube:
@@ -74,28 +74,28 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 ## Segundo
 
-### Ejercicio 1
+### Ejercicio 22.1
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 2
+### Ejercicio 22.2
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 3
+### Ejercicio 22.3
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 4
+### Ejercicio 22.4
 ![]()
 
 * **Vídeo** en Youtube:
@@ -104,28 +104,28 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 ## Tercero
 
-### Ejercicio 1
+### Ejercicio 22.1
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 2
+### Ejercicio 22.2
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 3
+### Ejercicio 22.3
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 4
+### Ejercicio 22.4
 ![]()
 
 * **Vídeo** en Youtube:
@@ -171,7 +171,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 * [Fijador de placas](https://github.com/Obijuan/3D-parts/wiki/Fijador-de-placas)
 * [Octopus passive buzzer](http://www.elecfreaks.com/estore/octopus-passive-buzzer-brick-obpb01.html), de Elecfreak
 * [Kit de sensores para Arduino](http://tienda.bricogeek.com/kits-arduino/832-kit-de-37-sensores-compatible-arduino-1247563871496.html). BricoGeek. Dentro del kit con 37 módulos, hay uno con zumbador
-
+* [Repositorio de iconos SVG para Icestudio](https://github.com/FPGAwars/icestudio-block-icons/wiki)
 
 # Preguntas frecuentes
 
