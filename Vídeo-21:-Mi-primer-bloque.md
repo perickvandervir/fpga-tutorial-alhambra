@@ -40,6 +40,7 @@ Los circuitos que hemos creado utilizan bloques. Aprenderemos a crear **nuestros
   * [Comparte tus iconos :-)](#comparte-tus-iconos--)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
+  * [Andrés (Avarez)](#andr%C3%A9s-avarez)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
