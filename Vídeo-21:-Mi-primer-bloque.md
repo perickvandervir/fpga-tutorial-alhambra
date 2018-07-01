@@ -652,11 +652,11 @@ Hacer un **circuito de prueba** del bloque, conectando la entrada de disparo a u
 
 
 ### Ejercicio 3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-21/avarez/Ejercicio.21.3.png)
 
-* **Vídeo** en Youtube:
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-21/avarez/Ejercicio.21.3.franky.block.png)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/avarez_/status/1012994168275324930)
 
 ### Ejercicio 4
 ![]()
