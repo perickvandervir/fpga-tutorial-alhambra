@@ -635,7 +635,6 @@ El **icono** está disponible en este enlace: [Robot-face-1.svg](https://github.
 
 Hacer un **circuito de prueba** del bloque, conectando la entrada de disparo a un pulsador y la del cuello a un interruptor
 
-
 * **Ejercicio 21.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
@@ -663,14 +662,11 @@ Hacer un **circuito de prueba** del bloque, conectando la entrada de disparo a u
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-21/avarez/Ejercicio.21.4.conversor.bloque.png)
 
-## Segundo
+## Jose López
 
 ### Ejercicio 1
-![]()
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-21/Jose%20Lopez/ejercicio_21-1.jpg)
 
 ### Ejercicio 2
 ![]()
