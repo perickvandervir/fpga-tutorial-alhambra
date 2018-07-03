@@ -676,18 +676,12 @@ Hacer un **circuito de prueba** del bloque, conectando la entrada de disparo a u
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-21/Jose%20Lopez/ejercicio_21-2a.jpg)
 
 ### Ejercicio 3
-![]()
 
-* **Vídeo** en Youtube:
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-21/Jose%20Lopez/ejercicio_21-3b.jpg)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-21/Jose%20Lopez/ejercicio_21-3a.jpg)
 
-### Ejercicio 4
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/joselopez_ga/status/1013827294820028416)
 
 ## Tercero
 
