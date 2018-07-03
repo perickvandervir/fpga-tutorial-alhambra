@@ -713,6 +713,14 @@ Hacer un **circuito de prueba** del bloque, conectando la entrada de disparo a u
 ### Ejercicio 4
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-21/fgcoca/Circuit-scramble/AND-cs.svg?sanitize=true)
 
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-21/fgcoca/Circuit-scramble/INVERTER-cs.svg?sanitize=true)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-21/fgcoca/Circuit-scramble/OR-cs.svg?sanitize=true)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-21/fgcoca/Circuit-scramble/SWITCH-cs.svg?sanitize=true)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-21/fgcoca/Circuit-scramble/XOR-cs.svg?sanitize=true)
+
 # Autor
 
 * [Juan González-Gómez](https://github.com/Obijuan) (Obijuan)
