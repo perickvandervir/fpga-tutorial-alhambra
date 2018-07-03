@@ -683,14 +683,10 @@ Hacer un **circuito de prueba** del bloque, conectando la entrada de disparo a u
 
 * [Vídeo en Twitter](https://twitter.com/joselopez_ga/status/1013827294820028416)
 
-## Tercero
+## Federico Coca (fgcoca)
 
 ### Ejercicio 1
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-21/fgcoca/Ejercicio-1/Ejercicio21_1%20%E2%94%80%20P.png)
 
 ### Ejercicio 2
 ![]()
