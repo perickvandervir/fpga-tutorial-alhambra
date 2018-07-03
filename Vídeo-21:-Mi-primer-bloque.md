@@ -42,6 +42,7 @@ Los circuitos que hemos creado utilizan bloques. Aprenderemos a crear **nuestros
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Andrés (Avarez)](#andr%C3%A9s-avarez)
   * [Jose López](#jose-l%C3%B3pez)
+  * [Federico Coca (fgcoca)](#federico-coca-fgcoca)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
