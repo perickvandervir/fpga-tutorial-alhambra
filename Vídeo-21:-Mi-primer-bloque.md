@@ -711,12 +711,7 @@ Hacer un **circuito de prueba** del bloque, conectando la entrada de disparo a u
 [![Click to see the youtube video](http://img.youtube.com/vi/U6-rn01fvjs/0.jpg)](https://www.youtube.com/watch?v=U6-rn01fvjs)
 
 ### Ejercicio 4
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-21/fgcoca/Circuit-scramble/AND-cs.svg?sanitize=true)
 
 # Autor
 
