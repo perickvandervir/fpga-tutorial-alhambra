@@ -701,11 +701,14 @@ Hacer un **circuito de prueba** del bloque, conectando la entrada de disparo a u
 [![Click to see the youtube video](http://img.youtube.com/vi/G0bL9ZzIVA8/0.jpg)](https://www.youtube.com/watch?v=G0bL9ZzIVA8)
 
 ### Ejercicio 3
-![]()
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-21/fgcoca/Ejercicio-3/Ejercicio21_3%20%E2%94%80%20P.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-21/fgcoca/Ejercicio-3/Franky-Block%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/U6-rn01fvjs/0.jpg)](https://www.youtube.com/watch?v=U6-rn01fvjs)
 
 ### Ejercicio 4
 ![]()
