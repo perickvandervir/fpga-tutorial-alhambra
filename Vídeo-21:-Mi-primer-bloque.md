@@ -41,6 +41,7 @@ Los circuitos que hemos creado utilizan bloques. Aprenderemos a crear **nuestros
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Andrés (Avarez)](#andr%C3%A9s-avarez)
+  * [Jose López](#jose-l%C3%B3pez)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
