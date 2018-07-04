@@ -42,6 +42,10 @@ Hay un **número de entrada**, de **N bits**, y otro de **salida**, de **M bits*
 
 Para practicar, haremos circuitos de **ejemplo** que manejen los **LEDs**, haciendo **secuencias básicas**, y retomaremos el [robot Icebot](https://github.com/Obijuan/icebot/wiki) que vimos en el [tutorial 15](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-15:-Servos-de-rotaci%C3%B3n-continua): lo primero será crear varios **bloques controladores** del Icebot, con  buses de entrada de 2 y 4 bits
 
+# Controlador de movimientos para el Icebot
+
+TODO
+
 
 # Ejercicios propuestos (X BitPoints)
 
