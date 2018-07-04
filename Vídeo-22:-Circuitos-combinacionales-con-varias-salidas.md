@@ -30,6 +30,8 @@ TODO
 
 # Introducción
 
+En el tutorial xx introdujimos los buses y cómo con ellos agrupamos los bits y pensamos en números. Esto facilita mucho las cosas, y nos permite hacer circuitos más avanzados.
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
