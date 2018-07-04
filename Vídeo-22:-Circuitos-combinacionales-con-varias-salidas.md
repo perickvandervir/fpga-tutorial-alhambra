@@ -34,6 +34,12 @@ En el [tutorial 20](https://github.com/Obijuan/digital-electronics-with-open-FPG
 
 Retomaremos los **circuitos combinacionales**, comenzados en el [tutorial 19](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales), donde tenían un único bit de salida. Ahora los mezclaremos con **buses** para aprender a hacer **circuitos combinaciones con varias salidas**
 
+El **esquema general** de los **circuitos combinacionales** se muestra en esta figura:
+
+(dibujo)
+
+Hay un **número de entrada**, de **N bits**, y otro de **salida**, de **M bits**. El circuito combinacional **manipula** los bits, convirtiendo el número de entrada en el número de salida. Pero **NO almacena** ningún tipo de información. 
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
