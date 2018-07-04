@@ -36,7 +36,7 @@ Retomaremos los **circuitos combinacionales**, comenzados en el [tutorial 19](ht
 
 El **esquema general** de los **circuitos combinacionales** se muestra en esta figura:
 
-(dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Intro-01.png)
 
 Hay un **número de entrada**, de **N bits**, y otro de **salida**, de **M bits**. El circuito combinacional **manipula** los bits, convirtiendo el número de entrada en el número de salida. Pero **NO almacena** ningún tipo de información. 
 
