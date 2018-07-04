@@ -47,6 +47,33 @@ Para practicar, haremos circuitos de **ejemplo** que manejen los **LEDs**, hacie
 
 TODO
 
+* Icemove4
+* Icemove8
+
+# Circuitos combinacionales con 1 entrada y varias salidas
+
+TODO
+
+* 1x2: Icebot: Adelante-Stop
+* 1x4: Secuencia LEDs. Dos secuencias en paralelo
+* 1x8: Secuencia LEDs. Dos sencuencias multiplexadas
+
+# Circuitos combinacionales con 2 entradas y varias salidas
+
+TODO
+
+* 2x2: Icemove4
+* 2x4: Icemove8
+
+# Circuitos combinacionales con 3 entradas y varias salidas
+
+TODO
+
+Ej. Decodificador de 3 a 8
+
+# Generació automática de tablas: IceFactory
+
+TODO
 
 # Ejercicios propuestos (X BitPoints)
 
