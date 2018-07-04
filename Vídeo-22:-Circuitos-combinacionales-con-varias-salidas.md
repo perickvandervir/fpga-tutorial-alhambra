@@ -71,7 +71,7 @@ TODO
 
 Ej. Decodificador de 3 a 8
 
-# Generació automática de tablas: IceFactory
+# Generación automática de tablas: IceFactory
 
 TODO
 
