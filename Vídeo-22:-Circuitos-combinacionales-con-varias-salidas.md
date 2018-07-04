@@ -21,6 +21,7 @@ TODO
 # Contenido
 
 * [Introducción](#introducci%C3%B3n)
+* [Controlador de movimiento para el Icebot](#controlador-de-movimientos-para-el-icebot)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
