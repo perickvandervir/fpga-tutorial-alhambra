@@ -30,7 +30,7 @@ TODO
 
 # Introducción
 
-En el tutorial xx introdujimos los buses y cómo con ellos agrupamos los bits y pensamos en números. Esto facilita mucho las cosas, y nos permite hacer circuitos más avanzados.
+En el [tutorial 20](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-20:-Buses-y-n%C3%BAmeros) introdujimos los **buses** y cómo con ellos **agrupamos** los bits y pensamos en **números**. Esto facilita mucho las cosas, y nos permite hacer **circuitos más avanzados**.
 
 TODO
 
