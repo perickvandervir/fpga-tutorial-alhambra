@@ -40,7 +40,8 @@ El **esquema general** de los **circuitos combinacionales** se muestra en esta f
 
 Hay un **número de entrada**, de **N bits**, y otro de **salida**, de **M bits**. El circuito combinacional **manipula** los bits, convirtiendo el número de entrada en el número de salida. Pero **NO almacena** ningún tipo de información. 
 
-TODO
+Para practicar, haremos circuitos de **ejemplo** que manejen los **LEDs**, haciendo **secuencias básicas**, y retomaremos el [robot Icebot](https://github.com/Obijuan/icebot/wiki) que vimos en el [tutorial 16](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-16:-Sensores-de-Infrarrojos-(IR)): lo primero será crear varios **bloques controladores** del Icebot, con un buses de entrada de 2 y 4 bits
+
 
 # Ejercicios propuestos (X BitPoints)
 
