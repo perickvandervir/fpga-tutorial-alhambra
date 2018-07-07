@@ -52,13 +52,11 @@ Para mover el Icebot, en vez de "pensar en bits", utilizaremos **códigos**. Cad
 
 El controlador **icemove4** tiene un **puerto de entrada de 2 bits**, por el que se introduce el **código de movimiento**. Como salidas tiene dos bits independietes, cada uno para controlar uno de los motores
 
-
-(Dibujo bloque icemove4)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove4-1.png)
 
 TODO
 
-* Icemove4
-* Icemove8
+* Icemove16
 
 # Circuitos combinacionales con 1 entrada y varias salidas
 
