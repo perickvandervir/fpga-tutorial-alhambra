@@ -22,6 +22,7 @@ TODO
 
 * [Introducción](#introducci%C3%B3n)
 * [Controlador de movimiento para el Icebot](#controlador-de-movimientos-para-el-icebot)
+  * [Icemove-4](#icemove4)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
