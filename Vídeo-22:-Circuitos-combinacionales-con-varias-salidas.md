@@ -54,6 +54,16 @@ El controlador **icemove4** tiene un **puerto de entrada de 2 bits**, por el que
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove4-1.png)
 
+(Dibujo: tabla de movimientos)
+
+(Ejemplo1: Prueba del icemove4)
+
+(Foto montaje)
+
+(Vídeo en acción)
+
+(Implementación del bloque)
+
 TODO
 
 * Icemove16
