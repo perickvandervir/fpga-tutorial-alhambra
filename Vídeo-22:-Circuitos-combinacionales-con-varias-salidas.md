@@ -54,7 +54,7 @@ El controlador **icemove4** tiene un **puerto de entrada de 2 bits**, por el que
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove4-1.png)
 
-El **código de los movimientos** se muestra en la siguiente **tabla**
+El **código de los movimientos** se muestra en la siguiente **tabla**. Los 4 movimientos implementados en este controlador son: Parado, adelante, giro derecha (en arco) y giro izquierda (en arco)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove4-2.png)
 
