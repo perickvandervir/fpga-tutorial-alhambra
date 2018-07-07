@@ -45,6 +45,15 @@ Para practicar, haremos circuitos de **ejemplo** que manejen los **LEDs**, hacie
 
 # Controlador de movimientos para el Icebot
 
+Para mover el Icebot, en vez de "pensar en bits", utilizaremos **códigos**. Cada código representa un **movimiento**. Utilizaremos los bloques **icemove4** y **icemove16**, uno que permite hacer 4 movimientos y el otro 16
+
+## Icemove4
+
+El controlador **icemove4** tiene un **puerto de entrada de 2 bits**, por el que se introduce el **código de movimiento**. Como salidas tiene dos bits independietes, cada uno para controlar uno de los motores
+
+
+(Dibujo bloque icemove4)
+
 TODO
 
 * Icemove4
