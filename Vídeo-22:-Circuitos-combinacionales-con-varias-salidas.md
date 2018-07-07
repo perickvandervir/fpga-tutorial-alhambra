@@ -67,7 +67,7 @@ El bloque **icemove4** está disponible en la **colección 22** de la Academia J
 
 Para probar este controlador, utilizaremos **dos interruptores externos** por los que introduciremos el **código del movimiento** (en binario). Situaremos el Icebot sobre un **soporte** para que las ruedas estén levantadas y no se pueda desplazar el robot. Así las pruebas con **más sencillas**
 
-(Foto montaje)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove4-5.jpg)
 
 (Ejemplo1: Prueba del icemove4)
 
