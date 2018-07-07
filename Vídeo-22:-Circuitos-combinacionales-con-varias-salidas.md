@@ -59,7 +59,7 @@ El **código de los movimientos** se muestra en la siguiente **tabla**. Los 4 mo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove4-2.png)
 
-El bloque **icemove4** está disponible en la **colección** de la Academia Jedi **22**, en el menú: **Varios/Icebot/icemove4**
+El bloque **icemove4** está disponible en la **colección 22** de la Academia Jedi, en el menú: **Varios/Icebot/icemove4**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove4-3.gif)
 
