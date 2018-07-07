@@ -62,6 +62,8 @@ El bloque **icemove4** está disponible en la **colección** de la Academia Jedi
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove4-3.gif)
 
+### Ejemplo 1: Probando el icemove-4
+
 (Ejemplo1: Prueba del icemove4)
 
 (Foto montaje)
