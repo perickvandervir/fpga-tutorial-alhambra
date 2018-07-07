@@ -65,9 +65,13 @@ El bloque **icemove4** está disponible en la **colección** de la Academia Jedi
 
 ### Ejemplo 1: Probando el icemove-4
 
-(Ejemplo1: Prueba del icemove4)
+Para probar este controlador, utilizaremos **dos interruptores externos** por los que introduciremos el **código del movimiento** (en binario). Situaremos el Icebot sobre un **soporte** para que las ruedas estén levantadas y no se pueda desplazar el robot. Así las pruebas con **más sencillas**
 
 (Foto montaje)
+
+(Ejemplo1: Prueba del icemove4)
+
+
 
 (Vídeo en acción)
 
