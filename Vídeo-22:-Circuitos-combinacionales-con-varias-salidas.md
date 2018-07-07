@@ -69,7 +69,7 @@ Para probar este controlador, utilizaremos **dos interruptores externos** por lo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove4-5.jpg)
 
-En este **vídeo de Youtube** se pueden ver las **pruebas**, y cómo cambia el movimiento al introducir los diferentes **códigos binarios** con los **interruptores**
+En este **vídeo de Youtube** se pueden ver las **pruebas**, y cómo cambia el movimiento al introducir los diferentes **códigos binarios** con los **interruptores** (Haz click en la imagen para ver el vídeo)
 
 [![Click to see the youtube video](http://img.youtube.com/vi/2LXvQCOBw6Y/0.jpg)](https://www.youtube.com/watch?v=2LXvQCOBw6Y)
 
