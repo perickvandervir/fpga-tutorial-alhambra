@@ -89,6 +89,10 @@ El bloque **icemove4** está formado por los dos bloques **motorbit**, cuyos **s
 
 El controlador **icemove9** permite realizar los **9 movimientos** del Icebot (todos los posibles con los controladores motorbit). Tiene un **puerto de entrada de 4 bits**, por el que se introduce el **código de movimiento**. Tiene 2 salidas para controlar los dos motores
 
+El bloque es **igual** al del icemove4, pero con **4 bits de entrada** en vez de 2
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove9-1.png)
+
 TODO
 
 # Circuitos combinacionales con 1 entrada y varias salidas
