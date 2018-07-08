@@ -1,4 +1,4 @@
-![]()
+> ![]()
 
 (En construcción...)
 
@@ -93,9 +93,11 @@ El bloque es **igual** al del icemove4, pero con **4 bits de entrada** en vez de
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove9-1.png)
 
-TODO
+La **tabla de movimientos**, con sus códigos asociados se muestra a continuación. Hay movimientos que se consiguen con códigos diferentes. Así, por ejemplo, enviando cualquier de los códigos 0,1,2 ó 3, el robot estará parado
 
-(Tabla de movimientos)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove9-2.png)
+
+TODO
 
 (Ejemplo 2: Test)
 
