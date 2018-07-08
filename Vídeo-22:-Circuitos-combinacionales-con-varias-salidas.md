@@ -109,7 +109,11 @@ Y este es el **circuito de pruebas**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove9-4.png)
 
-### Implementación del bloque
+### Implementaciónr del bloque
+
+La **implementación** del bloque es directa. Los **4 bits del bus de entrada** se separan en **cables**. Los dos de **mayor peso** se conectan con los **bits de activación** (on) de las ruedas derecha e izquierda, y los dos de **menor peso** con las **entradas de dirección** (dir)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove9-5.png)
 
 # Circuitos combinacionales con 1 entrada y varias salidas
 
