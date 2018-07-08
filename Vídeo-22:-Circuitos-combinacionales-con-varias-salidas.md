@@ -106,10 +106,7 @@ Las pruebas del **icemove9** son iguales que las del icemove4 pero usando **4 in
 
 Y este es el **circuito de pruebas**
 
-(Circuito)
-
-TODO
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove9-4.png)
 
 ### Implementación del bloque
 
