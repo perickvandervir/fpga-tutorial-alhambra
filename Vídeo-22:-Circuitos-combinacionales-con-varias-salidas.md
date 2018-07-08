@@ -100,15 +100,18 @@ La **tabla de movimientos**, con sus códigos asociados se muestra a continuaci�
 
 ### Ejemplo 2: Probando el icemove-9
 
-Las pruebas del **icemove9** son iguales que las del icemove4 pero usando **4 interruptores externos**. El montaje es el siguiente:
+Las pruebas del **icemove9** son iguales que las del icemove4 pero usando **4 interruptores externos**. El **montaje** es el siguiente:
 
-![]()
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove9-3.jpg)
+
+Y este es el **circuito de pruebas**
+
+(Circuito)
 
 TODO
 
-(Ejemplo 2: Test)
 
-(Foto del montaje con 4 Interruptores externos)
+### Implementación del bloque
 
 # Circuitos combinacionales con 1 entrada y varias salidas
 
