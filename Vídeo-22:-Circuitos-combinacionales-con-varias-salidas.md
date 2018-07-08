@@ -24,6 +24,7 @@ TODO
 * [Controlador de movimiento para el Icebot](#controlador-de-movimientos-para-el-icebot)
   * [Icemove-4](#icemove4)
     * [Ejemplo 1: Probando el icemove-4](#ejemplo-1-probando-el-icemove-4)
+    * [Implementación del bloque](#implementaci%C3%B3n-del-bloque)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
