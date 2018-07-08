@@ -87,9 +87,9 @@ El bloque **icemove4** está formado por los dos bloques **motorbit**, cuyos **s
 
 ## Icemove-9
 
-TODO
+El controlador **icemove9** permite realizar los **9 movimientos** del Icebot (todos los posibles con los controladores motorbit). Tiene un **puerto de entrada de 4 bits**, por el que se introduce el **código de movimiento**. Tiene 2 salidas para controlar los dos motores
 
-* Icemove16
+TODO
 
 # Circuitos combinacionales con 1 entrada y varias salidas
 
