@@ -28,6 +28,7 @@ TODO
   * [Icemove-9](#icemove-9)
     * [Ejemplo 2: Probando el icemove-9](#ejemplo-2-probando-el-icemove-9)
     * [Implementación del bloque](#implementaci%C3%B3n-del-bloque-1)
+* [Circuitos combinacionales con 1 entrada y varias salidas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-22:-Circuitos-combinacionales-con-varias-salidas#circuitos-combinacionales-con-1-entrada-y-varias-salidas)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
