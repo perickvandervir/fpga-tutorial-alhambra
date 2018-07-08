@@ -97,6 +97,12 @@ La **tabla de movimientos**, con sus c√≥digos asociados se muestra a continuaci√
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove9-2.png)
 
+### Ejemplo 2: Probando el icemove-9
+
+Las pruebas del **icemove9** son iguales que las del icemove4 pero usando **4 interruptores externos**. El montaje es el siguiente:
+
+![]()
+
 TODO
 
 (Ejemplo 2: Test)
