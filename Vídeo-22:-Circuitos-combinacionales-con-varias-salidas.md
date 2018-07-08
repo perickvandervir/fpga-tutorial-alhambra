@@ -25,7 +25,7 @@ TODO
   * [Icemove-4](#icemove4)
     * [Ejemplo 1: Probando el icemove-4](#ejemplo-1-probando-el-icemove-4)
     * [Implementación del bloque](#implementaci%C3%B3n-del-bloque)
-  * [Icemove-16](#icemove-9)
+  * [Icemove-9](#icemove-9)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
