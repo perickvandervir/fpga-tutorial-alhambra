@@ -80,7 +80,9 @@ Este es el **circuito de pruebas**. El código de movimiento se muestra además 
 
 ### Implementación del bloque 
 
-(Implementación del bloque)
+El bloque **icemove4** está formado por los dos bloques **motorbit**, cuyos **sentidos de giro** están fijados a 1 y 0, de manera que ambos **giran hacia adelante** cuando se activan. El código de entrada de 2 bits se corresponde con los 2 bits de activación, para los motores derecho e izquierdo
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove4-7.png)
 
 TODO
 
