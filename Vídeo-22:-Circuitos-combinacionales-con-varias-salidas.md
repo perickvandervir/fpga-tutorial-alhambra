@@ -73,7 +73,11 @@ En este **vídeo de Youtube** se pueden ver las **pruebas**, y cómo cambia el m
 
 [![Click to see the youtube video](http://img.youtube.com/vi/2LXvQCOBw6Y/0.jpg)](https://www.youtube.com/watch?v=2LXvQCOBw6Y)
 
-(Circuito de pruebas)
+Este es el **circuito de pruebas**. El código de movimiento se muestra además por dos LEDs
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove4-6.png)
+
+### Implementación del bloque 
 
 (Implementación del bloque)
 
