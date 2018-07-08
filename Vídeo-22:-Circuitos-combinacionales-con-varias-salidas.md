@@ -95,6 +95,12 @@ El bloque es **igual** al del icemove4, pero con **4 bits de entrada** en vez de
 
 TODO
 
+(Tabla de movimientos)
+
+(Ejemplo 2: Test)
+
+(Foto del montaje con 4 Interruptores externos)
+
 # Circuitos combinacionales con 1 entrada y varias salidas
 
 TODO
