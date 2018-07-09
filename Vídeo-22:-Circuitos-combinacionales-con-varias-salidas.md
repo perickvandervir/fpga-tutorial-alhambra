@@ -146,6 +146,8 @@ Lo **cargamos** y lo **probamos**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo3-02.gif)
 
+### Ejemplo 4: Parpadeo simultáneo de dos LEDs
+
 TODO
 
 * 1x2: Secuencia: LEDs parpadeando a la vez: Ejemplo de modificación de tabla
