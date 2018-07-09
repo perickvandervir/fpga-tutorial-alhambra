@@ -118,6 +118,10 @@ La **implementación** del bloque es directa. Los **4 bits del bus de entrada** 
 
 # Circuitos combinacionales con 1 entrada
 
+Empezaremos a diseñar circuitos combinaciones de ***varias salidas**, desde lo más sencillo: los que tienen sólo **una entrada**. Haremos ejemplos de circuitos con salidas de **2**, **4** y **8 bits**
+
+## Salidas de 2 bits
+
 TODO
 
 * 1x2: Icebot: Adelante-Stop
