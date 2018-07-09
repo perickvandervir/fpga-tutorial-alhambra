@@ -116,7 +116,7 @@ La **implementación** del bloque es directa. Los **4 bits del bus de entrada** 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/icemove9-5.png)
 
-# Circuitos combinacionales con 1 entrada y varias salidas
+# Circuitos combinacionales con 1 entrada
 
 TODO
 
