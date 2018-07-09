@@ -138,6 +138,7 @@ Las constantes **X**, **Y** representan los **números de dos bits** que se obti
 
 ### Ejemplo 3: LEDs alternantes
 
+Comenzamos con el circuito que ya conocemos de hacer parpadear **dos LEDs** de forma **alternada**: cuando uno está encendido el otro está apagado, y viceversa. Los números de salida serán: 1 y 2, que en binario (de 2 bits) serán: **01** y **10**
 TODO
 
 * 1x2: Icebot: Adelante-Stop
