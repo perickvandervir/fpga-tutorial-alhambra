@@ -177,6 +177,12 @@ Sólo cuando se aprieta el pulsador, el robot avanza
 
 ### Ejemplo 6: Icebot: Adelante - derecha 
 
+En este ejemplo **cambiaremos la secuencia**, para hacer que **avance** cuando **no** se aprieta el **pulsador**, y que **gire a la derecha** en arco cuando se pulsa. Vemos que el circuito es exactamente **el mismo**, pero con los valores de la tabla **actualizados**. Ahora son **3** (11) y **1** (01), en vez de 0 y 3
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo6-01.png)
+
+**Actualizamos** los valores y **cargamos** el circuito para **probarlo**. Comprobamos que efectivamente su comportamiento reactivo se ha modificado. En este **vídeo de youtube** se puede ver el nuevo comportamiento
+
 TODO
 * 1x4: Secuencia LEDs. Dos secuencias en paralelo
 * 1x8: Secuencia LEDs. Dos sencuencias multiplexadas
