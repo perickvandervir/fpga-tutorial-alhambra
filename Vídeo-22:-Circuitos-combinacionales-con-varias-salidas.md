@@ -129,6 +129,10 @@ Los **circuitos combinacionales** de **1 entrada** y **dos salidas** tienen **2 
 
 Las constantes **X**, **Y** representan los **números de dos bits** que se obtienen en la **salida**. Al ser de dos bits, sólo pueden valer **0**, **1**, **2** ó **3**. El funcionamiento es muy sencillo: Cuando se recibe un **0** por la entrada, por la salida sale **X**. Cuando se recibe un **1**, sale **Y**
 
+Las **tablas de una entrada** que usaremos en este tutorial se encuentran en el menú **Comb/Tablas/Tablas-1-input/**, de la colección **Academia-Jedi-HW-22.zip**
+
+(foto)
+
 TODO
 
 * 1x2: Icebot: Adelante-Stop
