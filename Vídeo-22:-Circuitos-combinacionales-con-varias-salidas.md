@@ -183,6 +183,8 @@ En este ejemplo **cambiaremos la secuencia**, para hacer que **avance** cuando *
 
 **Actualizamos** los valores y **cargamos** el circuito para **probarlo**. Comprobamos que efectivamente su comportamiento reactivo se ha modificado. En este **vídeo de youtube** se puede ver el nuevo comportamiento
 
+[![Click to see the youtube video](http://img.youtube.com/vi/buo6BuwAR3o/0.jpg)](https://www.youtube.com/watch?v=buo6BuwAR3o)
+
 TODO
 * 1x4: Secuencia LEDs. Dos secuencias en paralelo
 * 1x8: Secuencia LEDs. Dos sencuencias multiplexadas
