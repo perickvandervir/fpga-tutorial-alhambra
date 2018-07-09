@@ -168,9 +168,11 @@ Para que el robot esté **parado**, hay que enviar el **código 0** (00), y para
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo5-01.png)
 
-Lo **cargamos** y lo **probamos** en el Icebot:
+Lo **cargamos** y lo **probamos** en el Icebot. En este vídeo de youtube se muestra su funcionamiento (pulsar en la imagen para verlo)
 
-(Video)
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+Sólo cuando se aprieta el pulsador, el robot avanza 
 
 TODO
 * 1x4: Secuencia LEDs. Dos secuencias en paralelo
