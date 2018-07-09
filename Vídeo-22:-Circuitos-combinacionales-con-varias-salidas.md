@@ -33,6 +33,7 @@ TODO
     * [Ejemplo 3: LEDs alternantes](#ejemplo-3-leds-alternantes)
     * [Ejemplo 4: Parpadeo simultáneo de dos LEDs](#ejemplo-4-parpadeo-simult%C3%A1neo-de-dos-leds)
     * [Ejemplo 5: Icebot: Adelante - Stop](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-22:-Circuitos-combinacionales-con-varias-salidas#ejemplo-5-icebot-adelante---stop)
+    * [Ejemplo 6: Icebot: Adelante - derecha](#ejemplo-6-icebot-adelante---derecha)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
