@@ -157,11 +157,10 @@ Colocamos los números de salida **0** (00) y **3** (11), por lo que los dos LED
 
 (Animación)
 
-Además, 
+Además, en este ejemplo hemos añadido **comentarios** en la tabla. Usando los caracteres // añadimos comentarios a los números de salida. Estos comentarios se renderizan en **color verde**, para diferenciarlos de los valores de la tabla (en azul). Los números de fila están en negro
 
 
 TODO
-* 1x2: Secuencia: LEDs parpadeando a la vez: Ejemplo de modificación de tabla
 * 1x2: Icebot: Adelante-Stop
 * 1x4: Secuencia LEDs. Dos secuencias en paralelo
 * 1x8: Secuencia LEDs. Dos sencuencias multiplexadas
