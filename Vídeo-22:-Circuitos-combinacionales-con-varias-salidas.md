@@ -168,6 +168,10 @@ Para que el robot esté **parado**, hay que enviar el **código 0** (00), y para
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo5-01.png)
 
+Lo **cargamos** y lo **probamos** en el Icebot:
+
+(Video)
+
 TODO
 * 1x4: Secuencia LEDs. Dos secuencias en paralelo
 * 1x8: Secuencia LEDs. Dos sencuencias multiplexadas
