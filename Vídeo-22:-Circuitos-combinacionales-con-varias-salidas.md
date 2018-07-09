@@ -155,7 +155,7 @@ Partiendo del ejemplo anterior, si ahora queremos que los **LEDs parpadeen de ot
 
 Colocamos los números de salida **0** (00) y **3** (11), por lo que los dos LEDs estarán siempre en el **mismo estado**. Lo **cargamos** y lo **probamos** en la placa:
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo4-02.gif)
 
 Además, en este ejemplo hemos añadido **comentarios** en la tabla. Usando los caracteres // añadimos comentarios a los números de salida. Estos comentarios se renderizan en **color verde**, para diferenciarlos de los valores de la tabla (en azul). Los números de fila están en negro
 
