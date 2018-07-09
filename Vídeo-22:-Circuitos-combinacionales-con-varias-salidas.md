@@ -185,8 +185,14 @@ En este ejemplo **cambiaremos la secuencia**, para hacer que **avance** cuando *
 
 [![Click to see the youtube video](http://img.youtube.com/vi/buo6BuwAR3o/0.jpg)](https://www.youtube.com/watch?v=buo6BuwAR3o)
 
+## Salidas de 4 bits
+
 TODO
 * 1x4: Secuencia LEDs. Dos secuencias en paralelo
+
+## Salidas de 8 bits
+
+TODO
 * 1x8: Secuencia LEDs. Dos sencuencias multiplexadas
 
 # Circuitos combinacionales con 2 entradas y varias salidas
