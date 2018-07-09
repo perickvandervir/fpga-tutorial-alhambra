@@ -123,6 +123,8 @@ Empezaremos a diseñar circuitos combinaciones de ***varias salidas**, desde lo 
 
 ## Salidas de 2 bits
 
+Los **circuitos combinacionales** de **1 entrada** y **dos salidas** tienen **2 filas**. En la izquierda se coloca el **número de fila**: 0 ó 1, y en la derecha el **número de 2 bits** que queremos que salga. En las tablas de Icestudio, este número lo expresaremos siempre con **dígitos hexadecimales**. Aunque con números de 2 bits, los dígitos decimales y hexadecimales **coinciden** (ya que sólo tenemos los números 0, 1, 2 y 3)
+
 TODO
 
 * 1x2: Icebot: Adelante-Stop
