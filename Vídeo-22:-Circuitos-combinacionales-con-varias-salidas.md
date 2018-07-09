@@ -136,7 +136,7 @@ Las constantes **X**, **Y** representan los **números de dos bits** que se obti
 
 **Practicaremos** con algunos ejemplos muy sencillos
 
-### Ejemplo 3: Icebot Adelante-Atrás
+### Ejemplo 3: LEDs alternantes
 
 TODO
 
