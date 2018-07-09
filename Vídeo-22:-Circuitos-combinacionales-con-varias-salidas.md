@@ -149,7 +149,7 @@ Lo **cargamos** y lo **probamos**
 
 ### Ejemplo 4: Parpadeo simultáneo de dos LEDs
 
-Partiendo del ejemplo anterior, si ahora queremos que los **LEDs parpadeen de otra forma**, por ejemplo simultáneamente, sólo hay que cambiar los valores de la tabla de verdad, manteniendo la misma estructura del circuito
+Partiendo del ejemplo anterior, si ahora queremos que los **LEDs parpadeen de otra forma**, por ejemplo simultáneamente, sólo hay que cambiar los valores de la tabla de verdad, manteniendo **la misma estructura** del circuito
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo4-01.png)
 
