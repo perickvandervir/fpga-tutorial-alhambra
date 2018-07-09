@@ -121,6 +121,10 @@ La **implementación** del bloque es directa. Los **4 bits del bus de entrada** 
 
 Empezaremos a diseñar circuitos combinaciones de **varias salidas**, desde lo más sencillo: los que tienen sólo **una entrada**. Haremos ejemplos de circuitos con salidas de **2**, **4** y **8 bits**
 
+Las **tablas de una entrada** que usaremos en este tutorial se encuentran en el menú **Comb/Tablas/Tablas-1-input/**, de la colección **Academia-Jedi-HW-22.zip**
+
+(foto)
+
 ## Salidas de 2 bits
 
 Los **circuitos combinacionales** de **1 entrada** y **dos salidas** tienen **2 filas**. En la izquierda se coloca el **número de fila**: 0 ó 1, y en la derecha el **número de 2 bits** que queremos que salga. En las tablas de Icestudio, este número lo expresaremos siempre con **dígitos hexadecimales**. Aunque con números de 2 bits, los dígitos decimales y hexadecimales **coinciden** (ya que sólo tenemos los números 0, 1, 2 y 3)
@@ -129,9 +133,9 @@ Los **circuitos combinacionales** de **1 entrada** y **dos salidas** tienen **2 
 
 Las constantes **X**, **Y** representan los **números de dos bits** que se obtienen en la **salida**. Al ser de dos bits, sólo pueden valer **0**, **1**, **2** ó **3**. El funcionamiento es muy sencillo: Cuando se recibe un **0** por la entrada, por la salida sale **X**. Cuando se recibe un **1**, sale **Y**
 
-Las **tablas de una entrada** que usaremos en este tutorial se encuentran en el menú **Comb/Tablas/Tablas-1-input/**, de la colección **Academia-Jedi-HW-22.zip**
+**Practicaremos** con algunos ejemplos muy sencillos
 
-(foto)
+### Ejemplo 3: Icebot Adelante-Atrás
 
 TODO
 
