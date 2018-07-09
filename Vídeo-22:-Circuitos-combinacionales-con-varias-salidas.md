@@ -144,7 +144,7 @@ Comenzamos con el circuito que ya conocemos de hacer parpadear **dos LEDs** de f
 
 Lo **cargamos** y lo **probamos**
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo3-02.gif)
 
 TODO
 
