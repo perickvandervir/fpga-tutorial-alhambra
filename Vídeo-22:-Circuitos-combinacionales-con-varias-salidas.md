@@ -31,6 +31,7 @@ TODO
 * [Circuitos combinacionales con 1 entrada](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-22:-Circuitos-combinacionales-con-varias-salidas#circuitos-combinacionales-con-1-entrada)
   * [Salidas de 2 bits](#salidas-de-2-bits)
     * [Ejemplo 3: LEDs alternantes](#ejemplo-3-leds-alternantes)
+    * [Ejemplo 4: Parpadeo simultáno de dos LEDs](#ejemplo-4-parpadeo-simult%C3%A1neo-de-dos-leds)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
