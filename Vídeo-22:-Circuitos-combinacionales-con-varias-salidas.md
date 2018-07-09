@@ -142,6 +142,10 @@ Comenzamos con el circuito que ya conocemos de hacer parpadear **dos LEDs** de f
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo3-01.png)
 
+Lo **cargamos** y lo **probamos**
+
+(Animación)
+
 TODO
 
 * 1x2: Icebot: Adelante-Stop
