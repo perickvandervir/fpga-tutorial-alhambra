@@ -149,8 +149,18 @@ Lo **cargamos** y lo **probamos**
 
 ### Ejemplo 4: Parpadeo simultáneo de dos LEDs
 
-TODO
+Partiendo del ejemplo anterior, si ahora queremos que los **LEDs parpadeen de otra forma**, por ejemplo simultáneamente, sólo hay que cambiar los valores de la tabla de verdad, manteniendo la misma estructura del circuito
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo4-01.png)
+
+Colocamos los números de salida **0** (00) y **3** (11), por lo que los dos LEDs estarán siempre en el **mismo estado**. Lo **cargamos** y lo **probamos** en la placa:
+
+(Animación)
+
+Además, 
+
+
+TODO
 * 1x2: Secuencia: LEDs parpadeando a la vez: Ejemplo de modificación de tabla
 * 1x2: Icebot: Adelante-Stop
 * 1x4: Secuencia LEDs. Dos secuencias en paralelo
