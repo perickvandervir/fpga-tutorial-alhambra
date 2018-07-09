@@ -124,7 +124,7 @@ Empezaremos a diseñar circuitos combinaciones de **varias salidas**, desde lo m
 
 Las **tablas de una entrada** que usaremos en este tutorial se encuentran en el menú **Comb/Tablas/Tablas-1-input/**, de la colección **Academia-Jedi-HW-22.zip**
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/comb-2-1-02.png)
 
 ## Salidas de 2 bits
 
