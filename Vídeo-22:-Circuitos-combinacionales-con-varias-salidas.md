@@ -164,12 +164,11 @@ Además, en este ejemplo hemos añadido **comentarios** en la tabla. Usando los 
 
 En este ejemplo mostraremos un circuito que hace que el **robot Icebot** esté **parado** o se mueve hacia **adelante** según el estado de un **pulsador externo**. Utilizaremos el controlador **icemove4**, presentado en los apartados anteriores.  Utilizaremos una **tabla de dos entradas** y **una salida**, que almacenará el **código de movimiento** asociado a la pulsación o no del botón. 
 
-Para que el robot esté **parado**, hay que enviar el **código 0** (00), y para **avanzar** el **código 3** (11). El circuito es el siguiente:
+Para que el robot esté **parado**, hay que enviar el **código 0** (00), y para **avanzar** el **código 3** (11). El **circuito** es el siguiente:
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo5-01.png)
 
 TODO
-* 1x2: Icebot: Adelante-Stop
 * 1x4: Secuencia LEDs. Dos secuencias en paralelo
 * 1x8: Secuencia LEDs. Dos sencuencias multiplexadas
 
