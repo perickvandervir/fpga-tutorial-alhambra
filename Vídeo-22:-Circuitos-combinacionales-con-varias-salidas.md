@@ -159,6 +159,7 @@ Colocamos los números de salida **0** (00) y **3** (11), por lo que los dos LED
 
 Además, en este ejemplo hemos añadido **comentarios** en la tabla. Usando los caracteres // añadimos comentarios a los números de salida. Estos comentarios se renderizan en **color verde**, para diferenciarlos de los valores de la tabla (en azul). Los números de fila están en negro
 
+### Ejemplo 5: Icebot adelante - stop
 
 TODO
 * 1x2: Icebot: Adelante-Stop
