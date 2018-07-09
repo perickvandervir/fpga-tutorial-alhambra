@@ -148,6 +148,7 @@ Lo **cargamos** y lo **probamos**
 
 TODO
 
+* 1x2: Secuencia: LEDs parpadeando a la vez: Ejemplo de modificación de tabla
 * 1x2: Icebot: Adelante-Stop
 * 1x4: Secuencia LEDs. Dos secuencias en paralelo
 * 1x8: Secuencia LEDs. Dos sencuencias multiplexadas
