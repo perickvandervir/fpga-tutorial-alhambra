@@ -174,8 +174,9 @@ Lo **cargamos** y lo **probamos** en el Icebot. En este **vídeo de youtube** se
 
 Sólo cuando se aprieta el pulsador, el robot avanza 
 
+### Ejemplo 6: Icebot: Adelante - derecha 
+
 TODO
-* 1x2: Icebot: Adelante - Derecha
 * 1x4: Secuencia LEDs. Dos secuencias en paralelo
 * 1x8: Secuencia LEDs. Dos sencuencias multiplexadas
 
