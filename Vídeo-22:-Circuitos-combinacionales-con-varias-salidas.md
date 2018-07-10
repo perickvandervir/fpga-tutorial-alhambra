@@ -240,12 +240,9 @@ Añadimos otra **secuencia** de 2 estados, para los **8 LEDs** y la combinamos c
 
 Lo **cargamos** y lo **probamos**:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo10-2.gif)
 
-TODO
-* 1x8: Secuencia LEDs. Dos sencuencias multiplexadas
-
-# Circuitos combinacionales con 2 entradas y varias salidas
+# Circuitos combinacionales con 2 entradas
 
 TODO
 
