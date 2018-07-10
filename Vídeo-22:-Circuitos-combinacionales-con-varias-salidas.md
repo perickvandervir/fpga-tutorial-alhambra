@@ -208,9 +208,9 @@ Lo **cargamos** y lo **probamos**:
 
 Cambiando los valores de la tabla, conseguimos otra secuencia, sin tener que modificar la estructura del circuito. En este ejemplo añadimos otra secuencia diferente en los **LEDs de mayor peso**: 7,6,5,4. Se envían los números 5 y 10, que en hexadecimal son **5** y **A**, y en binario **0101** y **1010**
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo8-01.png)
 
-Lo **cargamos** y lo **probamos**:
+Las dos secuencias se realizan en **paralelo**. Una sobre los 4 LEDs de **mayor peso** y la otra en los 4 LEDs de **menor peso**. Lo **cargamos** y lo **probamos**:
 
 (Animación)
 
