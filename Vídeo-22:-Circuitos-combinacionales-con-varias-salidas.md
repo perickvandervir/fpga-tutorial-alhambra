@@ -38,6 +38,7 @@ TODO
     * [Ejemplo 7: Secuencia de dos estados en 4 LEDs](#ejemplo-7-secuencia-de-dos-estados-en-4-leds)
     * [Ejemplo 8: Dos secuencias en paralelo en los LEDs](#ejemplo-8-dos-secuencias-en-paralelo-en-los-leds)
   * [Salidas de 8 bits](#salidas-de-8-bits)
+    * [Ejemplo 9: Secuencia de dos estados en los 8 LEDs](#ejemplo-9-secuencia-de-dos-estados-en-los-8-leds)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
