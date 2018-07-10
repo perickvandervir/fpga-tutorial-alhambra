@@ -189,7 +189,7 @@ En este ejemplo **cambiaremos la secuencia**, para hacer que **avance** cuando *
 
 ## Salidas de 4 bits
 
-Los **circuitos combinacionales** de **1 entrada** y **dos salidas** tienen **2 filas**. En la derecha está el **número de 4 bits** que queremos que salga. Este número debe estar en **hexadecimal**, en las tablas de Icestudio. Como es de **4 bits**, se representa utilizando sólo **1 dígito hexadecimal**: 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E y F
+Los **circuitos combinacionales** de **1 entrada** y **cuatro salidas** tienen **2 filas**. En la derecha está el **número de 4 bits** que queremos que salga. Este número debe estar en **hexadecimal**, en las tablas de Icestudio. Como es de **4 bits**, se representa utilizando sólo **1 dígito hexadecimal**: 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E y F
 
 La tabla se encuentra en el menú **Comb/Tablas/Tablas-1-input/Tabla-1-4**
 
