@@ -199,6 +199,10 @@ En este primer ejemplo generamos una **secuencia** de **2 estados** en los **4 L
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/comb-4-1-01.png)
 
+Lo **cargamos** y lo **probamos**:
+
+(animación)
+
 TODO
 * 1x4: Secuencia LEDs. Dos secuencias en paralelo
 
