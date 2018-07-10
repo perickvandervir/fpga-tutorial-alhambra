@@ -226,7 +226,11 @@ Para finalizar con los circuitos combinaciones con una entrada, veremos ejemplos
 
 En este ejemplo generamos la famosa **secuencia** de prueba **0x55** - **0xAA** que alterna los bits pares con los impares en los **8 LEDs**, a una frecuencia de 2Hz
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo9-01.png)
+
+Lo **cargamos** y lo **probamos**:
+
+(animación)
 
 TODO
 * 1x8: Secuencia LEDs. Dos sencuencias multiplexadas
