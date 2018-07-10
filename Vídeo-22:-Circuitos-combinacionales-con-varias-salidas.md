@@ -230,7 +230,7 @@ En este ejemplo generamos la famosa **secuencia** de prueba **0x55** - **0xAA** 
 
 Lo **cargamos** y lo **probamos**:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo9-02.gif)
 
 TODO
 * 1x8: Secuencia LEDs. Dos sencuencias multiplexadas
