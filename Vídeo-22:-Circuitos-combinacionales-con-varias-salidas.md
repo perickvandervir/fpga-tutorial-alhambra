@@ -197,7 +197,7 @@ La tabla se encuentra en el menú **Comb/Tablas/Tablas-1-input/Tabla-1-4**
 
 En este primer ejemplo generamos una **secuencia** de **2 estados** en los **4 LEDs** de menor peso: 3,2,1 y 0 de la Icezum Alhambra, enviando alternativamente los números 12 y 3, que en **hexadecimal** son **C** y **3**, y en binario **1100** y **0011**
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/comb-4-1-01.png)
 
 TODO
 * 1x4: Secuencia LEDs. Dos secuencias en paralelo
