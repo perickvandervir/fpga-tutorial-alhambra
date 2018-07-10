@@ -212,7 +212,9 @@ Cambiando los valores de la tabla, conseguimos otra secuencia, sin tener que mod
 
 Las dos secuencias se realizan en **paralelo**. Una sobre los 4 LEDs de **mayor peso** y la otra en los 4 LEDs de **menor peso**. Lo **cargamos** y lo **probamos**:
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo8-02.gif)
+
+Aquí se están reproduciendo a la misma frecuencia (1Hz), pero al ser independientes podríamos ejecutarlas con frecuencias diferentes
 
 ## Salidas de 8 bits
 
