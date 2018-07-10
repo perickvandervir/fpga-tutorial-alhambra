@@ -36,6 +36,7 @@ TODO
     * [Ejemplo 6: Icebot: Adelante - derecha](#ejemplo-6-icebot-adelante---derecha)
   * [Salidas de 4 bits](#salidas-de-4-bits)
     * [Ejemplo 7: Secuencia de dos estados en 4 LEDs](#ejemplo-7-secuencia-de-dos-estados-en-4-leds)
+    * [Ejemplo 8: Dos secuencias en paralelo en los LEDs](#ejemplo-8-dos-secuencias-en-paralelo-en-los-leds)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
