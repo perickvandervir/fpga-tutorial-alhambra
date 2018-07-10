@@ -190,6 +190,11 @@ En este ejemplo **cambiaremos la secuencia**, para hacer que **avance** cuando *
 
 Los **circuitos combinacionales** de **1 entrada** y **dos salidas** tienen **2 filas**. En la derecha está el **número de 4 bits** que queremos que salga. Este número debe estar en **hexadecimal**, en las tablas de Icestudio. Como es de **4 bits**, se representa utilizando sólo **1 dígito hexadecimal**: 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E y F 
 
+### Ejemplo 7: Secuencia de dos estados en 4 LEDs
+
+En este primer ejemplo generamos una **secuencia** de **2 estados** en los **4 LEDs** de menor peso: 3,2,1 y 0 de la Icezum Alhambra, enviando alternativamente los números 12 y 3, que en **hexadecimal** son **C** y **3**, y en binario **1100** y **0011**
+
+(screenshot)
 
 TODO
 * 1x4: Secuencia LEDs. Dos secuencias en paralelo
