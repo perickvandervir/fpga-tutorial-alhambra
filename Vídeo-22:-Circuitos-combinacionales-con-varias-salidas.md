@@ -203,8 +203,15 @@ Lo **cargamos** y lo **probamos**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo7-02.gif)
 
-TODO
-* 1x4: Secuencia LEDs. Dos secuencias en paralelo
+### Ejemplo 8: Dos secuencias en paralelo en los LEDs
+
+Cambiando los valores de la tabla, conseguimos otra secuencia, sin tener que modificar la estructura del circuito. En este ejemplo añadimos otra secuencia diferente en los **LEDs de mayor peso**: 7,6,5,4. Se envían los números 5 y 10, que en hexadecimal son **5** y **A**, y en binario **0101** y **1010**
+
+(screenshot)
+
+Lo **cargamos** y lo **probamos**:
+
+(Animación)
 
 ## Salidas de 8 bits
 
