@@ -232,6 +232,16 @@ Lo **cargamos** y lo **probamos**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo9-02.gif)
 
+### Ejemplo 10: Dos secuencias de dos estados en 8 LEDs
+
+Añadimos otra **secuencia** de 2 estados, para los **8 LEDs** y la combinamos con la anterior mediante un **multiplexor de 2 a 1**. Usando un **interruptor externo** seleccionamos entre una y otra. En la nueva secuencia se envían los números **0F** (00001111) y **F0** (11110000) para iluminar alternativamente los 4 leds de menor peso y los 4 de mayor, a la frecuencia de 1 Hz
+
+(Screenshot)
+
+Lo **cargamos** y lo **probamos**:
+
+(animación)
+
 TODO
 * 1x8: Secuencia LEDs. Dos sencuencias multiplexadas
 
