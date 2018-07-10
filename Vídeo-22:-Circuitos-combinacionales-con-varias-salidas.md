@@ -245,6 +245,10 @@ Lo **cargamos** y lo **probamos**:
 
 # Circuitos combinacionales con 2 entradas
 
+Los circuitos combinacionales con **2 entradas** se definen mediante una tabla de verdad de **4 filas**. Son muy útiles para la implementación de **comportamientos reactivos** en **robots** como el icebot, del tipo seguir la línea negra, seguir objetos, etc. Veremos **tres ejemplos** de circuitos combinaciones con 2 entradas y diferentes salidas: 2, 4 y 8 bits. 
+
+### Ejemplo 11: Movimiento del Icebot con 2 pulsadores
+
 TODO
 
 * 2x2: Icemove4. Arco derecha, arco izquierda, parado y adelante
