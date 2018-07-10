@@ -39,6 +39,7 @@ TODO
     * [Ejemplo 8: Dos secuencias en paralelo en los LEDs](#ejemplo-8-dos-secuencias-en-paralelo-en-los-leds)
   * [Salidas de 8 bits](#salidas-de-8-bits)
     * [Ejemplo 9: Secuencia de dos estados en los 8 LEDs](#ejemplo-9-secuencia-de-dos-estados-en-los-8-leds)
+* [Circuitos combinacionales con 2 entradas](#circuitos-combinacionales-con-2-entradas)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
