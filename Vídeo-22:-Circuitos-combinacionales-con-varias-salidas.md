@@ -219,6 +219,10 @@ Aquí se están reproduciendo a la misma frecuencia (1Hz), pero al ser independi
 
 ## Salidas de 8 bits
 
+Para finalizar con los circuitos combinaciones con una entrada, veremos ejemplos de circuitos con **una entrada** y **8 salidas**. En este caso en la tabla hay que colocar **números hexadecimales** entre **0** y **FF** (255), es decir, con **2 dígitos hexadecimales**
+
+### Ejemplo 9: Secuencia de dos estados en los 8 LEDs
+
 TODO
 * 1x8: Secuencia LEDs. Dos sencuencias multiplexadas
 
