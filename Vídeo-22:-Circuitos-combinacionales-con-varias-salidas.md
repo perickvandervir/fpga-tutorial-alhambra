@@ -299,16 +299,20 @@ Como **ejemplo** de un circuito combinacional de **3 entradas** y **8 salidas**,
 
 El decodificador de 3 a 8 tiene una entrada de **3 bits**, por la que se recibe un número entre 0 y 7. La salida tiene **8 bits**. El decodificador activa una y solo una de las salidas en función del número de entrada. Su **tabla de verdad** es la siguiente:
 
-| Entrada (3 bits) | Salida (8 bits) |
-|------------------|-----------------|
-| 0                | 01 (00000001)   |
-| 1                | 02 (00000010)   |
-| 2                | 04 (00000100)   |
-| 3                | 08 (00001000)   |
-| 4                | 10 (00010000)   |
-| 5                | 20 (00100000)   |
-| 6                | 40 (01000000)   |
-| 7                | 80 (10000000)   |
+| Entrada (3 bits) | Salida (8 bits)     |
+|------------------|---------------------|
+| 0                | **01** (00000001)   |
+| 1                | **02** (00000010)   |
+| 2                | **04** (00000100)   |
+| 3                | **08** (00001000)   |
+| 4                | **10** (00010000)   |
+| 5                | **20** (00100000)   |
+| 6                | **40** (01000000)   |
+| 7                | **80** (10000000)   |
+
+Si nos fijamos en el número de salida en binario, vemos que en todos los casos sólo hay un **bit activado**, y los demás están a 0
+
+Este es el **circuito de prueba** del decodificador. Por las entradas conectados **3 interruptores externos** por los que introducimos el código de entrada. Las salidas se conectan a los **LEDs** de la Icezum Alhambra. 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo-14-1.png)
 
