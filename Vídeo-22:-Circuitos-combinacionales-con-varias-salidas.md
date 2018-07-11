@@ -266,6 +266,8 @@ Da la casualidad que los códigos de los movimientos a realizar coinciden con el
 
 Si querremos asignar una combinación de movimientos diferentes a los pulsadores, sólo hay que cambiar el **contenido de la tabla**, manteniendo la misma estructura del circuito
 
+### Ejemplo 12: Movimiento del Icebot con 2 pulsadores (II)
+
 
 TODO
 * 2x4: Icemove8. Derecha, izquierda, adelante, atrás
