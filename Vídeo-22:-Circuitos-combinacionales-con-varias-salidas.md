@@ -282,7 +282,7 @@ Lo **cargamos** y lo **probamos**
 
 ### Ejemplo 13: Secuencia de 4 estados en los 8 LEDs
 
-TOO
+Como ejemplo de un circuito combinacional de **2 entradas** y **8 salidas** haremos uno que reproduzca una secuencia de **4 estados** en los **8 LEDs**. La secuencia envía los números **0**, **7**, **3F** (63) y **FF* (255) a los leds para se vayan encendiendo progresivamente: primero todos apagados, luego 3, luego 6 y finalmente los 8. 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo13-1.png)
 
@@ -295,6 +295,8 @@ Ej. Decodificador de 3 a 8
 # Generación automática de tablas: IceFactory
 
 TODO
+
+Cifrador
 
 # Ejercicios propuestos (X BitPoints)
 
