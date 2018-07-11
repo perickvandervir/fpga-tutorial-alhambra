@@ -270,7 +270,14 @@ Si querremos asignar una combinación de movimientos diferentes a los pulsadores
 ### Ejemplo 12: Movimiento del Icebot con 2 pulsadores (II)
 
 
+
+
+
 TODO
+
+https://www.youtube.com/watch?v=E7AeNKPwjvQ
+
+
 * 2x4: Icemove8. Derecha, izquierda, adelante, atrás
 * 2x8: Secuencia en 8 LEDs de 4 estados: 0, 0x7, 0x3F, 0xFF 
 
