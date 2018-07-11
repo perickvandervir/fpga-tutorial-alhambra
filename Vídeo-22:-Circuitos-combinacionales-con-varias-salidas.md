@@ -262,7 +262,7 @@ El circuito es el siguiente:
 
 Da la casualidad que los códigos de los movimientos a realizar coinciden con el número de fila, pero es una mera **coicidencia**. Cargamos el circuito y lo probamos. En este vídeo de youtube se muestra el funcionamiento
 
-(Video)
+[![Click to see the youtube video](http://img.youtube.com/vi/RzkW_pF2-KU/0.jpg)](https://www.youtube.com/watch?v=RzkW_pF2-KU)
 
 Si querremos asignar una combinación de movimientos diferentes a los pulsadores, sólo hay que cambiar el **contenido de la tabla**, manteniendo la misma estructura del circuito
 
