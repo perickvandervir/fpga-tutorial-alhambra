@@ -278,7 +278,7 @@ Los **códigos de movimimiento** que hay que introducir en la tabla, en **hexade
 
 Lo **cargamos** y lo **probamos**
 
-[![Click to see the youtube video](https://www.youtube.com/watch?v=E7AeNKPwjvQ)](https://www.youtube.com/watch?v=E7AeNKPwjvQ)
+[![Click to see the youtube video](http://img.youtube.com/vi/E7AeNKPwjvQ/0.jpg)](https://www.youtube.com/watch?v=E7AeNKPwjvQ)
 
 ### Ejemplo 13: Secuencia de 4 estados en los 8 LEDs
 
