@@ -261,7 +261,7 @@ El circuito es el siguiente:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo11-1.png)
 
-Da la casualidad que los códigos de los movimientos a realizar coinciden con el número de fila, pero es una mera **coicidencia**. Cargamos el circuito y lo probamos. En este vídeo de youtube se muestra el funcionamiento
+Da la casualidad que los códigos de los movimientos a realizar coinciden con el número de fila, pero es una mera **coicidencia**. Cargamos el circuito y lo probamos. En este **vídeo de youtube** se muestra el funcionamiento
 
 [![Click to see the youtube video](http://img.youtube.com/vi/RzkW_pF2-KU/0.jpg)](https://www.youtube.com/watch?v=RzkW_pF2-KU)
 
