@@ -44,6 +44,7 @@ TODO
   * [Ejemplo 12: Movimiento del Icebot con 2 pulsadores (II)](#ejemplo-12-movimiento-del-icebot-con-2-pulsadores-ii)
   * [Secuencia de 4 estados en los 8 LEDs](#ejemplo-13-secuencia-de-4-estados-en-los-8-leds)
 * [Decodificador de 3 a 8](#decodificador-de-3-a-8)
+* [Generación automática de Tablas: IceFactory](#generaci%C3%B3n-autom%C3%A1tica-de-tablas-icefactory)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
