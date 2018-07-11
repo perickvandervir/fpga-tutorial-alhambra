@@ -2,7 +2,7 @@
 
 # Tutorial de Electrónica Digital para makers con FPGAs Libres
 
-Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Electrónica digital para makers utilizando FPGAs libres**. Es un curso diferente, totalmente distinto a lo que hayas visto. El objetivo es enseñar **pensamiento hardware** de una forma *gut*práctica**, haciendo circuitos desde el minuto 0.
+Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Electrónica digital para makers utilizando FPGAs libres**. Es un curso diferente, totalmente distinto a lo que hayas visto. El objetivo es enseñar **pensamiento hardware** de una forma **práctica**, haciendo circuitos desde el minuto 0.
 
 ## Contenido
 
