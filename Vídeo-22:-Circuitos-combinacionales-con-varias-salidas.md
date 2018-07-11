@@ -252,6 +252,14 @@ Los circuitos combinacionales con **2 entradas** se definen mediante una tabla d
 
 ### Ejemplo 11: Movimiento del Icebot con 2 pulsadores
 
+Diseñaremos un circuito combinacional que nos permita **controlar el icebot** mediante **dos pulsadores externos**. Uno lo usaremos para que **gire hacia la derecha** (en arco), el otro a la **izquierda** (también en arco) y al pulsar los dos que vaya hacia **adelante**. Cuando no se aprietan los pulsadores el robot estará **parado**
+
+Utilizaremos el controlador **icemove4**, que recibe códigos de movimiento de 2 bits. Los dos **pulsadores externos** se usan como entradas del circuito combinacional, y su salida de 2 bits se conecta al icemove4. En la **tabla** se almacenan los **códigos de los movimientos** a realizar según la combinación de pulsadores apretados.
+
+El circuito es el siguiente:
+
+(screenshot)
+
 TODO
 
 * 2x2: Icemove4. Arco derecha, arco izquierda, parado y adelante
