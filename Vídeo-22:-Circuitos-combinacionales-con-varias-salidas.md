@@ -248,6 +248,8 @@ Lo **cargamos** y lo **probamos**:
 
 Los circuitos combinacionales con **2 entradas** se definen mediante una tabla de verdad de **4 filas**. Son muy útiles para la implementación de **comportamientos reactivos** en **robots** como el icebot, del tipo seguir la línea negra, seguir objetos, etc. Veremos **tres ejemplos** de circuitos combinaciones con 2 entradas y diferentes salidas: 2, 4 y 8 bits. 
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/comb-2-inputs.png)
+
 ### Ejemplo 11: Movimiento del Icebot con 2 pulsadores
 
 TODO
