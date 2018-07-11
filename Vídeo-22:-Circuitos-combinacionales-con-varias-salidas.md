@@ -316,6 +316,10 @@ Este es el **circuito de prueba** del decodificador. Por las entradas conectados
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo-14-1.png)
 
+Lo **cargamos** y lo **probamos**
+
+(Animación)
+
 TODO
 
 # Generación automática de tablas: IceFactory
