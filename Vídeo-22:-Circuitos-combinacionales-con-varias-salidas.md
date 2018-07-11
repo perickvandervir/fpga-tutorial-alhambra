@@ -258,7 +258,7 @@ Utilizaremos el controlador **icemove4**, que recibe códigos de movimiento de 2
 
 El circuito es el siguiente:
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo11-1.png)
 
 TODO
 
