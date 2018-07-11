@@ -290,13 +290,11 @@ Para recorrer la tabla se utilizan dos **corazones** de **1** y **2 Hz**. Con es
 
 Lo **cargamos** y lo **probamos**:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo13-2.gif)
 
-# Circuitos combinacionales con 3 entradas y varias salidas
+# Decodificador de 3 a 8
 
 TODO
-
-Ej. Decodificador de 3 a 8
 
 # Generación automática de tablas: IceFactory
 
