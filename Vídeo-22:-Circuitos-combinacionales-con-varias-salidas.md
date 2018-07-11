@@ -260,9 +260,14 @@ El circuito es el siguiente:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo11-1.png)
 
-TODO
+Da la casualidad que los códigos de los movimientos a realizar coinciden con el número de fila, pero es una mera **coicidencia**. Cargamos el circuito y lo probamos. En este vídeo de youtube se muestra el funcionamiento
 
-* 2x2: Icemove4. Arco derecha, arco izquierda, parado y adelante
+(Video)
+
+Si querremos asignar una combinación de movimientos diferentes a los pulsadores, sólo hay que cambiar el **contenido de la tabla**, manteniendo la misma estructura del circuito
+
+
+TODO
 * 2x4: Icemove8. Derecha, izquierda, adelante, atrás
 * 2x8: Secuencia en 8 LEDs de 4 estados: 0, 0x7, 0x3F, 0xFF 
 
