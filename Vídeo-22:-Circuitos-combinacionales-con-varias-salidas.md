@@ -275,12 +275,14 @@ Los **códigos de movimimiento** que hay que introducir en la tabla, en **hexade
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo12-1.png)
 
+Lo **cargamos** y lo **probamos**
+
+[![Click to see the youtube video](https://www.youtube.com/watch?v=E7AeNKPwjvQ)](https://www.youtube.com/watch?v=E7AeNKPwjvQ)
+
+### Ejemplo 13: Secuencia de 4 estados en los 8 LEDs
+
 TODO
 
-https://www.youtube.com/watch?v=E7AeNKPwjvQ
-
-
-* 2x4: Icemove8. Derecha, izquierda, adelante, atrás
 * 2x8: Secuencia en 8 LEDs de 4 estados: 0, 0x7, 0x3F, 0xFF 
 
 # Circuitos combinacionales con 3 entradas y varias salidas
