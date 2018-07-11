@@ -282,9 +282,9 @@ Lo **cargamos** y lo **probamos**
 
 ### Ejemplo 13: Secuencia de 4 estados en los 8 LEDs
 
-TODO
+TOO
 
-* 2x8: Secuencia en 8 LEDs de 4 estados: 0, 0x7, 0x3F, 0xFF 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo13-1.png)
 
 # Circuitos combinacionales con 3 entradas y varias salidas
 
