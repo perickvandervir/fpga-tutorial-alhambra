@@ -269,9 +269,11 @@ Si querremos asignar una combinación de movimientos diferentes a los pulsadores
 
 ### Ejemplo 12: Movimiento del Icebot con 2 pulsadores (II)
 
+Modificamos el ejemplo anterior para usar el controlar **icemove9**, que permite nuevos movimientos. Ahora el circuito combinacional tiene **2 entradas** y **4 salidas**. Los movimientos que queremos son: **adelante**, cuando no se aprieta ningún pulsador, **atrás**, cuando están apretado ambos, **giro a la derecha** al apretar el pulsador derecha y **giro a la izquierda** al apretar el izquierdo
 
+Los **códigos de movimimiento** que hay que introducir en la tabla, en **hexadecimal** son: E (15), C (12), F (15), y D (14)
 
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo12-1.png)
 
 TODO
 
