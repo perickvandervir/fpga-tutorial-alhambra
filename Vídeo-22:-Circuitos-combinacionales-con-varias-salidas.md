@@ -318,9 +318,9 @@ Este es el **circuito de prueba** del decodificador. Por las entradas conectados
 
 Lo **cargamos** y lo **probamos**
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo-14-2.gif)
 
-TODO
+Con los **interruptores** introducimos **todos los números**, desde el 0 hasta el 7 y vemos cómo se encienden consecutivamente **todos los LEDs**, del 0 al 7, uno cada vez
 
 # Generación automática de tablas: IceFactory
 
