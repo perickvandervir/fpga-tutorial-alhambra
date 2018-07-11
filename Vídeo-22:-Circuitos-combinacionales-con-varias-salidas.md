@@ -286,6 +286,12 @@ Como ejemplo de un circuito combinacional de **2 entradas** y **8 salidas** hare
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Ejemplo13-1.png)
 
+Para recorrer la tabla se utilizan dos **corazones** de **1** y **2 Hz**. Con esto se consigue que se envíen los números 0,1,2 y 3 consecutivamente, y luego se vuelve a empezar (Más adelante en los tutoriales veremos cómo esto se hace más fácilmente usando contadores)
+
+Lo **cargamos** y lo **probamos**:
+
+(animación)
+
 # Circuitos combinacionales con 3 entradas y varias salidas
 
 TODO
