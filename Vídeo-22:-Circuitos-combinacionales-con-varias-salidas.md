@@ -297,7 +297,7 @@ Lo **cargamos** y lo **probamos**:
 
 Como **ejemplo** de un circuito combinacional de **3 entradas** y **8 salidas**, haremos un **decodificador de 3 a 8**. Los decodificadores se utilizan muchísimo en el diseño de microprocesadores para activar los periféricos o zonas de memoria a partir de una dirección
 
-El decodificador de 3 a 8 tiene una entrada de **3 bits**, por la que se recibe un número entre 0 y 7. La salida tiene **8 bits**. El decodificador activa una y solo una de las salidas en función del número de entrada. Su **tabla de verdad** es la siguiente:
+El decodificador de 3 a 8 tiene una entrada de **3 bits**, por la que se recibe un número entre 0 y 7. La salida tiene **8 bits**. El decodificador activa **una y solo una** de las salidas en función del número de entrada. Su **tabla de verdad** es la siguiente:
 
 | Entrada (3 bits) | Salida (8 bits)     |
 |------------------|---------------------|
