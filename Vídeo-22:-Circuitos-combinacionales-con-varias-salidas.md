@@ -355,11 +355,13 @@ Los **pasos** para generar tu **bloque-tabla**, del tamaño que quieras, son los
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/IceFactory-06.png)
 
-* Importa el bloque en Icestudio desde la opción Archivo/Añadir como bloque
+* **Importa** el bloque en **Icestudio** desde la opción **Archivo/Añadir como bloque**
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/IceFactory-07.png)
 
-El proceso completo se resume en esta animación:
+**¡Listo!** ¡Ya tienes tu tabla lista para usarla con tus circuitos! :-)
+
+El proceso completo se resume en esta **animación**:
 
 (animación)
 
