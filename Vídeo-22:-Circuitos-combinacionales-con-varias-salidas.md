@@ -349,7 +349,7 @@ Los **pasos** para generar tu **bloque-tabla**, del tamaño que quieras, son los
 
 * Aparecerá un **enlace nuevo**, con el nombre de la tabla generada, debajo del texto que pone **Paso 3**
 
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/IceFactory-05.png)
 
 * **Pincha** en él para **grabar** el bloque en tu ordenador
 
