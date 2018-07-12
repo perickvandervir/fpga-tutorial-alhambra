@@ -337,7 +337,7 @@ Los **pasos** para generar tu **bloque-tabla**, del tamaño que quieras, son los
 *  Accede a la [Página principal de la Fábrica](https://obijuan.github.io/iceFactory/index.html)
 * En la sección **Generadores**, pincha en el **icono de la tabla**. Esto te llevará a la **página web** de la generación de tablas. También puedes acceder directamente a través de este enlace: [Icetables](https://obijuan.github.io/iceFactory/icetable/icetable.html)
 
-(imagen)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/IceFactory-02.png)
 
 TODO
 
