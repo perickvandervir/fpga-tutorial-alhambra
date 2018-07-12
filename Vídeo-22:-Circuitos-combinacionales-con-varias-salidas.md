@@ -46,6 +46,7 @@ TODO
 * [Decodificador de 3 a 8](#decodificador-de-3-a-8)
 * [Generación automática de Tablas: IceFactory](#generaci%C3%B3n-autom%C3%A1tica-de-tablas-icefactory)
   * [Creando tu bloque-tabla desde la iceFactory](#creando-tu-bloque-tabla-desde-la-icefactory)
+  * [Usando la fábrica sin conexión a Internet](#usando-la-f%C3%A1brica-sin-conexi%C3%B3n-a-internet)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
