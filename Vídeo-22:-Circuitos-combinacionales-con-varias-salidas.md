@@ -329,6 +329,8 @@ Los **bloque de icestudio** que nos permiten implementar **circuitos combinacion
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/IceFactory-01.png)
 
+## Creando tu bloque-tabla desde la IceFactory
+
 TODO
 
 Cifrador
