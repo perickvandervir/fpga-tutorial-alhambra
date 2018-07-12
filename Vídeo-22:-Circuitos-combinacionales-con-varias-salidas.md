@@ -353,7 +353,7 @@ Los **pasos** para generar tu **bloque-tabla**, del tamaño que quieras, son los
 
 * **Pincha** en él para **grabar** el bloque en tu ordenador
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/IceFactory-06.png)
 
 * Importa el bloque en Icestudio desde la opción Archivo/Añadir como bloque
 
