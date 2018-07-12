@@ -327,7 +327,7 @@ Con los **interruptores** introducimos **todos los números**, desde el 0 hasta 
 
 Los **bloque de icestudio** que nos permiten implementar **circuitos combinacionales** mediante **tablas de verdad**, que hemos usado en este tutorial, están disponibles en el menú **Comb/tablas**. Sin embargo, sólo están disponibles unos pocos de todos los que podríamos necesitar. **¿Y si necesitamos hacer una tabla que no se encuentra en esta colección?**. La podemos crear de manera muy sencilla a través de la **Fábrica de bloques de Icestudio**: [IceFactory](https://obijuan.github.io/iceFactory/index.html)
 
-(imagen)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/IceFactory-01.png)
 
 TODO
 
