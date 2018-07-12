@@ -361,9 +361,9 @@ Los **pasos** para generar tu **bloque-tabla**, del tamaño que quieras, son los
 
 **¡Listo!** ¡Ya tienes tu tabla lista para usarla con tus circuitos! :-)
 
-El proceso completo se resume en esta **animación**:
+El **proceso completo** se resume en esta **animación**:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/IceFactory-08.gif)
 
 ## Usando la fábrica sin conexión a internet
 
