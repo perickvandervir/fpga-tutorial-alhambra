@@ -339,6 +339,30 @@ Los **pasos** para generar tu **bloque-tabla**, del tamaño que quieras, son los
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/IceFactory-02.png)
 
+* Introduce el **número** de **bits de entrada** y **bits de salida** de tu circuito. Por defecto los valores que hay son 2 y 4. Modifícalos para introducir los de tu circuito
+
+* **Pulsa** en el botón azul de **generar**
+
+* Aparecerá un **enlace nuevo**, con el nombre de la tabla generada, debajo del texto que pone **Paso 3**
+
+(foto)
+
+* **Pincha** en él para **grabar** el bloque en tu ordenador
+
+(foto)
+
+* Importa el bloque en Icestudio desde la opción Archivo/Añadir como bloque
+
+(foto)
+
+El proceso completo se resume en esta animación:
+
+(animación)
+
+## Usando la fábrica sin conexión a internet
+
+(imagen)
+
 TODO
 
 Cifrador
