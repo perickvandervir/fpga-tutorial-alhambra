@@ -14,7 +14,7 @@ Aprenderemos a construir **circuitos combinacionales de varias salidas**, y vere
 
 # Colección
 
-**Academia-Jedi-HW-22.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-22.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/Collection/Academia-Jedi-HW-22.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
