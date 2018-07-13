@@ -374,7 +374,11 @@ Para **probarlo en local** hay que seguir los siguientes **pasos**:
 
 * **Descargar** el [repositorio IceFactory de github](https://github.com/Obijuan/iceFactory): bien clonándolo o bien bajando el fichero .zip y descomprimiéndolo
 
-* 
+* **Entrar en la carpeta iceFactory** (iceFactory-master si lo hemos descomprimido del .zip)
+
+* Hacer **doble click** en el fichero **index.html** para abrir la fábrica en el **navegador en local**
+
+* **Generar los bloques** de la misma forma que se ha mostrado en el **apartado anterior**, pero todo se hará en local
 
 (imagen)
 
