@@ -382,13 +382,19 @@ En esta **animación** se resume el proceso
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-22/IceFactory-09.gif)
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (20 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
 **Resumen**:
 
-* **Ejercicio 22.1** (Total **x Bitpoints**): 
+* **Ejercicio 22.1** (Total **5 Bitpoints**): **Secuencia de 4 estados en los LEDs**
+
+Hacer un circuito que muestre por los LEDs una **secuencia de 4 estados** en la que primero se encienden los LEDS 0,1 y 2. Despúes los 3 y 4, luego los 5,6,7 y por último nuevamente los LEDs 3 y 4. El proceso se repite a una frecuencia de 2Hz. Utilizar un circuito combinacional de **2 entradas** y **8 salidas**
+
+La secuencia resultante tiene que ser como la mostrada en [Este vídeo de Youtube](https://www.youtube.com/watch?v=klusAMMd7Ac)
+
+[![Click to see the youtube video](http://img.youtube.com/vi/klusAMMd7Ac/0.jpg)](https://www.youtube.com/watch?v=klusAMMd7Ac)
 
 * **Ejercicio 22.2** (Total **x Bitpoints**): 
 
