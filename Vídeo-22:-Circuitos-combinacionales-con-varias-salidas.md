@@ -10,7 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-TODO
+Aprenderemos a construir **circuitos combinacionales de varias salidas**, y veremos de ejemplo de manejo del robot **icebot** con los **pulsadores**, así como la reproducción de secuencias en los **LEDs**. Para crear bloques combinacionales a partir de **tablas de verdad**, con las entradas y salidas que queramos, utilizaremos la **Fábrica de bloques** de Icestudio (IceFactory)
 
 # Colección
 
