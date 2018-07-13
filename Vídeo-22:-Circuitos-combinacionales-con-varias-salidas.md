@@ -396,7 +396,24 @@ La secuencia resultante tiene que ser como la mostrada en [Este vídeo de Youtub
 
 [![Click to see the youtube video](http://img.youtube.com/vi/klusAMMd7Ac/0.jpg)](https://www.youtube.com/watch?v=klusAMMd7Ac)
 
-* **Ejercicio 22.2** (Total **x Bitpoints**): 
+* **Ejercicio 22.2** (Total **5 Bitpoints**):  **Icebot San Fermín**
+
+Hacer un circuito que implemente el comportamiento reactivo de **embestir** en el Icebot. Se conectan dos sensores de **Infrarrojos** para detectar el objeto delante del icebot. El comportamiento de embestir se define mediante la siguiente **tabla de verdad**:
+
+| IR izquierdo | IR derecho  | Movimiento del icebot  |
+|--------------|-------------|------------------------|
+| No detecta  |  No detecta  |  Parado                |
+| No detecta  |  Detecta     |  Giro izquierda (Arco) |
+| Detecta     |  No detecta  |  Giro derecha (arco)   |
+| Detecta     |  Detecta     |  Adelante              |
+
+Los valores a introducir en la tabla dependen de los sensores IR utilizados. Algunos devuelven 1 al detectar un objeto delante y 0 cuando NO. Otros se comportan al revés (lógica negativa)
+
+Utilizar el controlador **Icemove4**. Y un **circuito combinacional de 2 entradas y 2 salidas**  
+
+El **comportamiento** del icebot se muestra en [Este vídeo de Youtube](https://www.youtube.com/watch?v=Wr5cy3I2vWA)
+
+[![Click to see the youtube video](http://img.youtube.com/vi/Wr5cy3I2vWA/0.jpg)](https://www.youtube.com/watch?v=Wr5cy3I2vWA)
 
 * **Ejercicio 22.3** (Total **x Bitpoints**): 
 
