@@ -415,7 +415,19 @@ El **comportamiento** del icebot se muestra en [Este vídeo de Youtube](https://
 
 [![Click to see the youtube video](http://img.youtube.com/vi/Wr5cy3I2vWA/0.jpg)](https://www.youtube.com/watch?v=Wr5cy3I2vWA)
 
-* **Ejercicio 22.3** (Total **x Bitpoints**): 
+* **Ejercicio 22.3** (Total **5 Bitpoints**):  **Control manual del Icebot**
+
+Diseñar un circuito de control de Icebot, que tenga **3 entradas**: una será un **interruptor**, y las otras **dos pulsadores**. El interruptor selecciona el **modo** de movimiento del icebot: Directo e inverso.  
+
+En el **modo directo** controlamos el icebot con los dos pulsadores. Con uno **gira a la derecha**, con otro a la **izquierda**, y si se aprietan ambos se mueve hacia **adelante**
+
+En el **modo inverso** los pulsadores se usan con otro propósito. Con uno el robot hará un **arco atrás-izquierda**, con el otro un **arco atrás-derecha** y cuando se pulsan los dos irá hacia **atrás**
+
+Hay que usar un circuito combinacional con **3 entradas y 4 salidas**, y el controlador **icemove9**. La **tabl**a no está en la colección por lo que habrá que generarla en la **IceFactory**
+
+El **comportamiento** del icebot se muestra en [Este vídeo de Youtube](https://www.youtube.com/watch?v=mT3gG4sRomU)
+
+[![Click to see the youtube video](http://img.youtube.com/vi/mT3gG4sRomU/0.jpg)](https://www.youtube.com/watch?v=mT3gG4sRomU)
 
 * **Ejercicio 22.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
