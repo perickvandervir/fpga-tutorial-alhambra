@@ -368,6 +368,14 @@ El **proceso completo** se resume en esta **animación**:
 
 ## Usando la fábrica sin conexión a internet
 
+La fábrica de bloques está implementada en **Javascript**, y usa una **interfaz web** para la generación de los bloques. Se puede ejecutar sin problemas desde nuestro **navegador** en **local**, sin necesidad de estar conectados a internet
+
+Para **probarlo en local** hay que seguir los siguientes **pasos**:
+
+* **Descargar** el [repositorio IceFactory de github](https://github.com/Obijuan/iceFactory): bien clonándolo o bien bajando el fichero .zip y descomprimiéndolo
+
+* 
+
 (imagen)
 
 TODO
