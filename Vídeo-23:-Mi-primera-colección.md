@@ -19,7 +19,7 @@ TODO
 
 # Contenido
 
-* [Introducción](#introducci%C3%B3n)
+* [Carpeta de usuario de Icestudio](#carpeta-de-usuario-de-icestudio)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
