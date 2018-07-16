@@ -450,14 +450,14 @@ El **comportamiento** del icebot se muestra en [Este vídeo de Youtube](https://
 [![Click to see the youtube video](http://img.youtube.com/vi/ajGbk1BbypQ/0.jpg)](https://www.youtube.com/watch?v=ajGbk1BbypQ)
 
 ### Ejercicio 22.3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-22/fgcoca/Ejercicio-3/Ejercicio22_3%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/m2Iac755hpo/0.jpg)](https://www.youtube.com/watch?v=m2Iac755hpo)
 
 ### Ejercicio 22.4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-22/fgcoca/Ejercicio-3/Ejercicio22_3%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
