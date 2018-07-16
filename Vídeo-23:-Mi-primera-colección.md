@@ -19,7 +19,7 @@ TODO
 
 # Contenido
 
-* [Carpeta de usuario de Icestudio](#carpeta-de-usuario-de-icestudio)
+* [Carpeta de datos de Icestudio](#carpeta-de-datos-de-icestudio)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
