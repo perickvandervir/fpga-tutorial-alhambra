@@ -49,6 +49,10 @@ Una forma **muy cómoda** de acceder es añadiendo un **marcador**. Así sólo t
 
 ## Windows 10
 
+En las máquinas Windows 10 podemos encontrar el directorio de datos de Icestudio dentro de nuestra **carpeta de usuario**, en la carpeta **.icestudio**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Icestudio-data-04.png)
+
 TODO
 
 ## Mac
