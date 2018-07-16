@@ -27,7 +27,7 @@ TODO
 * [Enlaces](#enlaces)
 * [Preguntas frecuentes](#preguntas-frecuentes)
 
-# Carpeta de usuario de Icestudio
+# Carpeta de datos de Icestudio
 
 TODO
 
