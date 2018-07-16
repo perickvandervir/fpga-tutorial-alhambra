@@ -23,6 +23,7 @@ TODO
   * [GNU/Linux](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-23:-Mi-primera-colecci%C3%B3n#gnulinux)
   * [Windows 10](#windows-10)
   * [Mac](#mac)
+* []()
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
