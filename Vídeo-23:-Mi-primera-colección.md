@@ -55,7 +55,13 @@ En las máquinas Windows 10 podemos encontrar el directorio de datos de Icestudi
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Icestudio-data-04.png)
 
-TODO
+Se llega a ella pinchando en la **flechita** que apunta hacia abajo. Ahí seleccionamos el nombre de nuestro usuario
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Icestudio-data-05.png)
+
+Y también se puede llegar a través de la **ruta completa**:  Equipos - OS(C:) - usuarios - obijuan - .icestudio
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Icestudio-data-06.png)
 
 ## Mac
 
