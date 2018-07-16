@@ -29,6 +29,14 @@ TODO
 
 # Carpeta de datos de Icestudio
 
+Cuando se instala **Icestudio**, se crea una **carpeta de datos**, dentro de nuestra **carpeta de usuario**, donde se almacenan las **preferencias**, las **colecciones** instaladas, el entorno de **python** y las **herramientas** necesarias para sintetizar los circuitos (Toolchain)
+
+La ruta exacta depende del **sistema operativo** que estemos usando.
+
+## GNU/Linux
+
+ En el caso las máquinas **GNU/Linux**, la carpeta de datos está en nuestro *home*, con el nombre **.icestudio**
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
