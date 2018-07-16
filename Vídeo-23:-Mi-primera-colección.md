@@ -31,7 +31,7 @@ TODO
 
 Cuando se instala **Icestudio**, se crea una **carpeta de datos**, dentro de nuestra **carpeta de usuario**, donde se almacenan las **preferencias**, las **colecciones** instaladas, el entorno de **python** y las **herramientas** necesarias para sintetizar los circuitos (Toolchain)
 
-La ruta exacta depende del **sistema operativo** que estemos usando. Dentro de ella encontrarmos tres carpetas: **apio**, **collections**, **venv**, y el fichero de *configuración **profile.json**
+La ruta exacta depende del **sistema operativo** que estemos usando. Dentro de ella encontrarmos tres carpetas: **apio**, **collections**, **venv**, y el fichero de configuración **profile.json**
 
 ## GNU/Linux
 
