@@ -47,6 +47,12 @@ Una forma muy cómoda de acceder es añadiendo un **marcador**. Así sólo tenem
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Icestudio-data-03.gif)
 
+## Windows 10
+
+TODO
+
+## Mac
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
