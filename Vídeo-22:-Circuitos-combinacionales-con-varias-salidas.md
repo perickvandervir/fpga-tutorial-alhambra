@@ -45,6 +45,7 @@ Aprenderemos a construir **circuitos combinacionales de varias salidas**, y vere
   * [Usando la fábrica sin conexión a Internet](#usando-la-f%C3%A1brica-sin-conexi%C3%B3n-a-internet)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
+  * [Federico Coca (fgcoca)](#federico-coca-fgcoca)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
