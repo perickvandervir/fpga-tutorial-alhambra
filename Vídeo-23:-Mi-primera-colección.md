@@ -35,7 +35,7 @@ La ruta exacta depende del **sistema operativo** que estemos usando. Dentro de e
 
 ## GNU/Linux
 
- En el caso las máquinas **GNU/Linux**, la carpeta de datos está en nuestro *home*, con el nombre **.icestudio**
+ En el caso las máquinas **GNU/Linux**, la carpeta de datos está en nuestro **home**, con el nombre **.icestudio**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Icestudio-data-01.png)
 
