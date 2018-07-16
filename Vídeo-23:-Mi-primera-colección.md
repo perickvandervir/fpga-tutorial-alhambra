@@ -67,6 +67,10 @@ Y también se puede llegar a través de la **ruta completa**:  Equipos - OS(C:) 
 
 TODO
 
+## Carpeta de colecciones
+
+TODO
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
