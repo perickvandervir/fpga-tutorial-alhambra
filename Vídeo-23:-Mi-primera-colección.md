@@ -41,7 +41,11 @@ La ruta exacta depende del **sistema operativo** que estemos usando. Dentro de e
 
 **¡Importante!** En Linux los directorio que empiezan con un punto están **ocultos** por defecto (no se ven). Para poder veerlos hay que activar la opción **Mostrar ficheros ocultos** en el navegador de archivos, o pulsar directamente  **Control-H**
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Icestudio-data-02.gif)
+
+Una forma muy cómoda de acceder es añadiendo un **marcador**. Así sólo tenemos que pinchar en la carpeta **.icestudio** que aparece en la **barra de la izquierda**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Icestudio-data-03.gif)
 
 TODO
 
