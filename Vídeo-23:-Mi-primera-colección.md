@@ -149,6 +149,8 @@ Este fichero se escribe en [markdown](https://guides.github.com/features/masteri
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-11.png)
 
+### Ejemplo 2: Cambiando el Readme
+
 (Ejemplo 2: Cambiamos el readme)
 
 (ejemplos de la colección)
