@@ -169,9 +169,9 @@ La **carpeta examples** contiene todos los **ejemplos** de la colección, que se
 
 Nos **metemos** dentro de la carpeta **examples**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-15.png)
 
-
-
+Dentro hay un ejemplo, llamado **Test.ice** y otras **tres carpetas**. Si nos vamos a **Archivo/Examples** se nos abre el menú de los ejemplo que contiene exactamente lo que hay en la carpeta examples:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-14.png)
 
