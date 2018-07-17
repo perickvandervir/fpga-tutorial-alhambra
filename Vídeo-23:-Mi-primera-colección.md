@@ -141,6 +141,20 @@ Esta es otra descripción, más visual
 
 ## README.md
 
+El fichero README.md es el que se muestra cuando se pincha en la opción del menú Ver/Información de la colección
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-10.png)
+
+Este fichero se escribe en [markdown](https://guides.github.com/features/mastering-markdown/), igual que en github (y que en los bloques de información de icestudio)
+
+(Foto del readme)
+
+(Ejemplo 2: Cambiamos el readme)
+
+(ejemplos de la colección)
+
+(ejemplos de los bloques)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
