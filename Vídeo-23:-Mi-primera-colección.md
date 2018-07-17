@@ -32,6 +32,7 @@ TODO
   * [Ejemplos de la colección](#ejemplos-de-la-colecci%C3%B3n)
     * [Ejemplo 3: Añadiendo un ejemplo](#ejemplo-3-a%C3%B1adiendo-un-ejemplo)
     * [Ejemplo 4: Añadiendo un ejemplo en un sub-menú](#ejemplo-4-a%C3%B1adiendo-un-ejemplo-en-un-sub-men%C3%BA)
+  * [Bloques de la colección](#bloques-de-la-colecci%C3%B3n)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
