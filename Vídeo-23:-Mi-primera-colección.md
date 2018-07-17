@@ -124,11 +124,12 @@ Todas las colecciones tienen la **misma estructura**. Nos metemos dentro de la c
 
 Todos los elementos son **opcionales**, salvo el fichero **package.json**
 
+
 | Elemento         | Obligatorio | Descripción |
 |------------------|-------------|-------------|
-| **package.json** | SI          | Información sobre la colección: nombre, versión, autores, repo... Icestudio necesita este fichero para reconocerlo como una colección |
- 
-* **blocks**: Carpeta con los **bloques** de la colección. Su contenido se muestra en la parte superior derecha del **menú de Icestudio**
+| **package.json** | **SI**      | **Información** sobre la colección: nombre, versión, autores, repo... Icestudio necesita este fichero para reconocerlo como una colección |
+| **blocks**       | NO          | Carpeta con los **bloques** de la colección. Su contenido se muestra en la parte superior derecha del **menú de Icestudio**| 
+
 * **examples**: Carpeta con los **ejemplos** de la colección. Su contenido se muestra en el **menú Archivo/Ejemplos**
 * **locale**: Carpeta con las traducciones a diferentes idiomas
 * **README.md**: Información de la colección, para humanos. Su contenido se muestra en la opción **Ver/Informacón de la coleción**
