@@ -193,6 +193,16 @@ En esta **animación** se muestra todo el **proceso**:
 
 ### Ejemplo 4: Añadiendo un ejemplo en un sub-menú
 
+**Añadir** un ejemplo en un **sub-menú** es igual de sencillo. Primero creamos la carpeta que será el sub-menú. La llamamos por ejemplo **Sub-menu**. Ahí colocamos el ejemplo o ejemplos a añadir. Para hacer una prueba rápida **copiaremos** el fichero **Test-2.ice**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-19.png)
+
+Ahora recargamos la colección (Herramietas/Colecciones/Reload) y miramos el menú de los ejemplos. El nuevo Sub-menú con el ejemplo se encuentran ahí
+
+(screenshot)
+
+(animación)
+
 (ejemplo 4: Añadiendo un ejemplo en un sub-menú)
 (Copiar test.ice en mi_carpeta)
 
