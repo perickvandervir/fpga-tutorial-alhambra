@@ -201,12 +201,11 @@ Ahora **recargamos la colección** (Herramietas/Colecciones/Reload) y miramos el
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-20.png)
 
-(animación)
+En esta **animación** se resume el **proceso**:
 
-(ejemplo 4: Añadiendo un ejemplo en un sub-menú)
-(Copiar test.ice en mi_carpeta)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-21.gif)
 
-(ejemplos de los bloques)
+## Bloques de la colección
 
 (TODO)
 
