@@ -165,7 +165,9 @@ Y vemos que se ha **actualizado** directamente (no hace falta usar el Reload. Es
 
 ## Ejemplos de la colección
 
-(ejemplos de la colección)
+La **carpeta examples** contiene todos los **ejemplos** de la colección, que se muestran desde el menú **Archivos/Ejemplos**. Los **ficheros .ice** con los ejemplos se muestran **directamente** en el menú, mientras que las **carpetas** adicionales se muestran como **sub-menúes**. De esta forma, podemos organizar los ejemplos en carpetas y se mostrarán en Icestudio mediante menúes y sub-menúes
+
+
 
 (ejemplos de los bloques)
 
