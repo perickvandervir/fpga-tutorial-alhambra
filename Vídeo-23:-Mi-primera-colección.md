@@ -220,6 +220,15 @@ En este nivel **sólo puede haber carpetas**, y no ficheros .ice con bloques. Si
 
 (TODO)
 
+(añadiendo un menú)
+(Añadiendo un bloque)
+(Añadiendo bloque en sub-menú)
+
+(Creando una colección nueva)
+(Editando bloques de una colección)
+(herramienta icm)
+(Compartiendo bloques)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
