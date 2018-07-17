@@ -122,7 +122,14 @@ Todas las colecciones tienen la **misma estructura**. Nos metemos dentro de la c
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-08.png)
 
-(Componentes obligatorios)
+Todos los elementos son **opcionales**, salvo el fichero **package.json**
+
+* **package.json**: (Obligatorio) Información sobre la colección: nombre, versión, autores, repo... Icestudio necesita este fichero para reconocerlo como una colección 
+* **blocks**: Carpeta con los **bloques** de la colección. Su contenido se muestra en la parte superior derecha del **menú de Icestudio**
+* **examples**: Carpeta con los **ejemplos** de la colección. Su contenido se muestra en el **menú Archivo/Ejemplos**
+* **locale**: Carpeta con las traducciones a diferentes idiomas
+* **README.md**: Información de la colección, para humanos. Su contenido se muestra en la opción **Ver/Informacón de la coleción**
+* **LICENSE**: Licencia de la colección
 
 (TODO)
 
