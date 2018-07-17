@@ -122,7 +122,7 @@ Todas las colecciones tienen la **misma estructura**. Nos metemos dentro de la c
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-08.png)
 
-Todos los elementos son **opcionales**, salvo el fichero **package.json**
+Todos los elementos son **opcionales**, salvo el fichero **package.json**. Se describen en la siguiente **tabla**
 
 
 | Elemento         | Obligatorio | Descripción |
@@ -133,6 +133,10 @@ Todos los elementos son **opcionales**, salvo el fichero **package.json**
 |**locale**        | NO          | Carpeta con las **traducciones** a diferentes idiomas |
 | **README.md**    | NO          | Información de la colección, para humanos. Su contenido se muestra en la opción **Ver/Informacón de la coleción** |
 |**LICENSE**        | NO          | Fichero de texto con la **licencia** de la colección |
+
+Esta es otra descripción, más visual
+
+(Dibujo con la descripción)
 
 (TODO)
 
