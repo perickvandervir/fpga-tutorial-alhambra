@@ -99,7 +99,7 @@ Vamos a crear **nuestra primera colección** duplicando la que ya tenemos instal
 
 En esta **animación** se muestra el proceso
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-04.gif)
 
 TODO
 
