@@ -221,6 +221,8 @@ En este nivel **sólo puede haber carpetas**, y no ficheros .ice con bloques. Si
 
 ### Ejemplo 5: Añadiendo un menú
 
+(Añadir menú mi_menu)
+
 (TODO)
 
 (Añadiendo un bloque)
