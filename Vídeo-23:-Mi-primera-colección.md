@@ -88,7 +88,7 @@ Partiremos de un Icestudio que sólo tenga instalada **una colección**: la corr
 
 Si ahora nos **metemos** en la carpeta collections, veremos que hay **una carpeta** con el nombre de la colección instalada: **Academia-Jedi-HW-23**. Cada vez que **instalamos** una colección en icestudio, se descomprimirá en este directorio. Así, dentro de collections existirá **una carpeta por cada colección instalada**. Como ahora sólo tenemos instalada una sola colección, sólo aparece una carpeeta
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-02.png)
 
 
 TODO
