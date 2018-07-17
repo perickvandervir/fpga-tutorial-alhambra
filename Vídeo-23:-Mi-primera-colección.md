@@ -158,6 +158,12 @@ Este fichero se escribe en [markdown](https://guides.github.com/features/masteri
 
 Ahora desde **Icestudio** lo mostramos, en la opción **Ver/Información de la colección**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-13.png)
+
+Y vemos que se ha **actualizado** directamente (no hace falta usar el Reload. Esta opción directamente busca el README desde la carpeta y lo renderiza. De forma que cualquier cambio se muestra directamente al visualizarse)
+
+## Ejemplos de la colección
+
 (ejemplos de la colección)
 
 (ejemplos de los bloques)
