@@ -120,7 +120,7 @@ Cualquier **cambio** que hagamos dentro de la carpeta de colecciones (collection
 
 Todas las colecciones tienen la **misma estructura**. Nos metemos dentro de la carpeta **test-1** para ver cómo está organizada
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-08.png)
 
 (TODO)
 
