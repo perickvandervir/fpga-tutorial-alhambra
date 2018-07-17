@@ -37,6 +37,8 @@ Las **colecciones de Icestudio** nos permiten **organizar** los bloques y los ej
 
 Las colecciones están pensadas para que cada uno las **adapte** a lo que necesita. Por ejemplo se podrían crear colecciones para cada **proyecto**, o colecciones donde se recopilan los problemas de tal libro de electrónica digital, o bibliotecas de componentes...
 
+Pero lo más importante es que **las colecciones se pueden compartir**. De esta forma, entre todos, podemos **reutilizar** el trabajo de los demás, **aprender**, **mejorarlo** y contribuir al incremento del **patrimonio tecnológico de la humanidad**
+
 # Carpeta de datos de Icestudio
 
 Cuando se instala **Icestudio**, se crea una **carpeta de datos**, dentro de nuestra **carpeta de usuario**, donde se almacenan las **preferencias**, las **colecciones** instaladas, el entorno de **python** y las **herramientas** necesarias para sintetizar los circuitos (Toolchain)
