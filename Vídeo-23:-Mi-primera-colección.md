@@ -218,9 +218,10 @@ Vemos que hay **tres carpetas**, que se corresponden con los **menúes de bloque
 
 En este nivel **sólo puede haber carpetas**, y no ficheros .ice con bloques. Si existieran Icestudio los ignoraría. Esto es así porque en la barra superior sólo puede haber menúes. **Dentro** de ellos es donde están los bloques
 
+### Ejemplo 5: Añadiendo un menú
+
 (TODO)
 
-(añadiendo un menú)
 (Añadiendo un bloque)
 (Añadiendo bloque en sub-menú)
 
