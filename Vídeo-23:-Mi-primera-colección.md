@@ -210,7 +210,7 @@ En esta **animación** se resume el **proceso**:
 
 La **carpeta blocks** contiene todos los bloques de la colección, organizados en carpetas que son **menúes** y **sub-menúes**. Nos **metemos** dentro de blocks para echar un vistazo:
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-22.png)
 
 (TODO)
 
