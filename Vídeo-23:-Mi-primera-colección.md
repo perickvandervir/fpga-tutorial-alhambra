@@ -28,6 +28,7 @@ TODO
   * [Ejemplo 1: Duplicando una colección](#ejemplo-1-duplicando-una-colecci%C3%B3n)
   * [Estructura de las colecciones](#estructura-de-las-colecciones)
   * [README](#readmemd)
+    * [Ejemplo 2: Cambiando el readme](#ejemplo-2-cambiando-el-readme)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
