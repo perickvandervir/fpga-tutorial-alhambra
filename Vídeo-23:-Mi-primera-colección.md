@@ -30,6 +30,7 @@ TODO
   * [README](#readmemd)
     * [Ejemplo 2: Cambiando el readme](#ejemplo-2-cambiando-el-readme)
   * [Ejemplos de la colección](#ejemplos-de-la-colecci%C3%B3n)
+    * [Ejemplo 3: Añadiendo un ejemplo](#ejemplo-3-a%C3%B1adiendo-un-ejemplo)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
