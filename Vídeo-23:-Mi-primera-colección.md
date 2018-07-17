@@ -26,7 +26,7 @@ TODO
   * [Mac](#mac)
 * [Colecciones](#colecciones)
   * [Ejemplo 1: Duplicando una colección](#ejemplo-1-duplicando-una-colecci%C3%B3n)
-  * []()
+  * [Estructura de las colecciones](#estructura-de-las-colecciones)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
