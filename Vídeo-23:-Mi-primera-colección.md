@@ -29,6 +29,7 @@ TODO
   * [Estructura de las colecciones](#estructura-de-las-colecciones)
   * [README](#readmemd)
     * [Ejemplo 2: Cambiando el readme](#ejemplo-2-cambiando-el-readme)
+  * [Ejemplos de la colección](#ejemplos-de-la-colecci%C3%B3n)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
