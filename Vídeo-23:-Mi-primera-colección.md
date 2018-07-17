@@ -95,6 +95,12 @@ Si ahora nos **metemos** en la carpeta collections, veremos que hay **una carpet
 
 Vamos a crear **nuestra primera colección** duplicando la que ya tenemos instalada. Nos vamos a la carpeta de colecciones de icestudio y **duplicamos** la carpeta de la colección instalada (usando copy & paste por ejemplo). Luego le **cambiamos** el nombre a **test-1**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-03.png)
+
+En esta **animación** se muestra el proceso
+
+(Animación)
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
