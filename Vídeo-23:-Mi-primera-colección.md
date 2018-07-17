@@ -93,6 +93,8 @@ Si ahora nos **metemos** en la carpeta collections, veremos que hay **una carpet
 
 ## Ejemplo 1: Duplicando una colección
 
+Vamos a crear **nuestra primera colección** duplicando la que ya tenemos instalada. Nos vamos a la carpeta de colecciones de icestudio y **duplicamos** la carpeta de la colección instalada (usando copy & paste por ejemplo). Luego le **cambiamos** el nombre a **test-1**
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
