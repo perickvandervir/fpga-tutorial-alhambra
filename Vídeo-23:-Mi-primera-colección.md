@@ -184,9 +184,7 @@ Para añadir un ejemplo simplemente hay que **copiarlo en la carpeta examples**.
 
 Ahora le damos a la opción **Herramientas/Colecciones/Reload** para que se actualice la colección en Icestudio. Si miramos en el menú **Archivos/Ejemplos** vemos que ha aparecido el **nuevo ejemplo Test-2**
 
-(Screenshot)
-
-(copiar test.ice en test-1.ice)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-17.png)
 
 (ejemplo 4: Añadiendo un ejemplo en un sub-menú)
 (Copiar test.ice en mi_carpeta)
