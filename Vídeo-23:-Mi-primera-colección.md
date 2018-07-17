@@ -136,7 +136,7 @@ Todos los elementos son **opcionales**, salvo el fichero **package.json**. Se de
 
 Esta es otra descripción, más visual
 
-(Dibujo con la descripción)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-09.png)
 
 (TODO)
 
