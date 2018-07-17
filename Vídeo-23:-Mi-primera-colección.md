@@ -101,6 +101,18 @@ En esta **animación** se muestra el proceso
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-04.gif)
 
+Ahora nos vamos a la ventana de **Icestudio** y pinchamos en la opción **Herramientas/Colecciones/Reload**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-05.png)
+
+Volvemos a ver las colecciones que tenemos **instaladas**, yendo a la opción **Seleccionar/Colección**. Ahí nos aparecerá la **nueva colección test-1**
+
+(foto)
+
+La **seleccionamos**. En los siguientes ejemplos la modificaremos. Todo el proceso se resume en esta **animación**:
+
+(animación)
+
 TODO
 
 # Ejercicios propuestos (X BitPoints)
