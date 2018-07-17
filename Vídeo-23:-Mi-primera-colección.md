@@ -214,7 +214,7 @@ La **carpeta blocks** contiene todos los bloques de la colección, organizados e
 
 Vemos que hay **tres carpetas**, que se corresponden con los **menúes de bloques** que hay en la parte superior derecha de Icestudio
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-23.png)
 
 En este nivel **sólo puede haber carpetas**, y no ficheros .ice con bloques. Si existieran Icestudio los ignoraría. Esto es así porque en la barra superior sólo puede haber menúes. Dentro de ellos es donde están los bloques
 
