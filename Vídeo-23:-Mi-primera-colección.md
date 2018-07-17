@@ -90,6 +90,7 @@ Si ahora nos **metemos** en la carpeta collections, veremos que hay **una carpet
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-02.png)
 
+## Ejemplo 1: Duplicando una colección
 
 TODO
 
