@@ -78,9 +78,9 @@ Y también se puede llegar a través de la **ruta completa**:  Equipos - OS(C:) 
 
 TODO
 
-# Carpeta de colecciones
+# Colecciones
 
-Las **colecciones instaladas** se encuentran en la carpeta **collections**. A partir de ahora la estructura de los directorio no depende del Sistema operativo, por lo que usaré pantallazos del que uso yo: **GNU/Linux/Ubuntu 18.04**
+Las **colecciones instaladas** se encuentran en la **carpeta de colecciones**, que tiene el nombre **collections**. A partir de ahora la estructura de los directorio no depende del Sistema operativo, por lo que usaré pantallazos del que uso yo: **GNU/Linux/Ubuntu 18.04**
 
 Partiremos de un Icestudio que sólo tenga instalada **una colección**: la correspondiente a este tutorial: **Academia-Jedi-HW-23**. Desde el menú **Seleccionar/Colección** lo comprobamos
 
