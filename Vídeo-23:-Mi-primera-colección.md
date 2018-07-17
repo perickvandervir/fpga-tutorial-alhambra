@@ -122,6 +122,8 @@ Todas las colecciones tienen la **misma estructura**. Nos metemos dentro de la c
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-08.png)
 
+(Componentes obligatorios)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
