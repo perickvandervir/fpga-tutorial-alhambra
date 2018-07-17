@@ -31,6 +31,12 @@ TODO
 * [Enlaces](#enlaces)
 * [Preguntas frecuentes](#preguntas-frecuentes)
 
+# Introducción
+
+Las **colecciones de Icestudio** nos permiten **organizar** los bloques y los ejemplos. Con ellas podemos estructurar lo que queremos enseñar, mostrando sólo lo que es relevante. Un ejemplo de uso son estos tutoriales, donde hay una colección por cada vídeo, en la que se añaden los nuevos **bloques** que se verán, los **ejemplos** de uso, los **ejercicios propuestos** y las **soluciones** a los ejercicios del tutorial anterior
+
+Las colecciones están pensadas para que cada uno las **adapte** a lo que necesita. Por ejemplo se podrían crear colecciones para cada **proyecto**, o colecciones donde se recopilan los problemas de tal libro de electrónica digital, o bibliotecas de componentes...
+
 # Carpeta de datos de Icestudio
 
 Cuando se instala **Icestudio**, se crea una **carpeta de datos**, dentro de nuestra **carpeta de usuario**, donde se almacenan las **preferencias**, las **colecciones** instaladas, el entorno de **python** y las **herramientas** necesarias para sintetizar los circuitos (Toolchain)
