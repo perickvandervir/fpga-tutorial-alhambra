@@ -178,6 +178,14 @@ Dentro hay un ejemplo, llamado **Test.ice** y otras **tres carpetas**. Si nos va
 
 ### Ejemplo 3: Añadiendo un ejemplo
 
+Para añadir un ejemplo simplemente hay que **copiarlo en la carpeta examples**. En vez de crear un ejemplo desde 0, copiaremos el que ya exite: Test.ice y le ponemos el nombre **Test-2.ice**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-16.png)
+
+Ahora le damos a la opción **Herramientas/Colecciones/Reload** para que se actualice la colección en Icestudio. Si miramos en el menú **Archivos/Ejemplos** vemos que ha aparecido el **nuevo ejemplo Test-2**
+
+(Screenshot)
+
 (copiar test.ice en test-1.ice)
 
 (ejemplo 4: Añadiendo un ejemplo en un sub-menú)
