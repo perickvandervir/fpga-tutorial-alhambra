@@ -109,7 +109,7 @@ Volvemos a ver las colecciones que tenemos **instaladas**, yendo a la opción **
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-06.png)
 
-Cualquier **cambio** que hagamos dentro de la carpeta de colecciones (collections) se ***reflejará** en Icestudio. Los cambios se **actualizarán** al **arrancar** Icestudio, al **abrir una ventana nueva** o bin al darle a la opción de **Reload**
+Cualquier **cambio** que hagamos dentro de la carpeta de colecciones (collections) se ***reflejará** en Icestudio. Los cambios se **actualizarán** al **arrancar** Icestudio, al **abrir una ventana nueva** o bien al darle a la opción de **Reload**
 
 **Seleccionamos** la nueva colección **test-1**. En los siguientes ejemplos la modificaremos. Todo el proceso se resume en esta **animación**:
 
