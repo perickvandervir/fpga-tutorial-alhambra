@@ -132,7 +132,7 @@ Todos los elementos son **opcionales**, salvo el fichero **package.json**
 | **examples**     | NO          | Carpeta con los **ejemplos** de la colección. Su contenido se muestra en el **menú Archivo/Ejemplos** |
 |**locale**        | NO          | Carpeta con las **traducciones** a diferentes idiomas |
 | **README.md**    | NO          | Información de la colección, para humanos. Su contenido se muestra en la opción **Ver/Informacón de la coleción** |
-|**LICENSE**        | NO          | Fichero de texto con la licencia de la colección |
+|**LICENSE**        | NO          | Fichero de texto con la **licencia** de la colección |
 
 (TODO)
 
