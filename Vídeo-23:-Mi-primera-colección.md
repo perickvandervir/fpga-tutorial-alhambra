@@ -186,6 +186,12 @@ Ahora le damos a la opción **Herramientas/Colecciones/Reload** para que se actu
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-17.png)
 
+En esta **animación** se muestra todo el **proceso**:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-18.gif)
+
+### Ejemplo 4: Añadiendo un ejemplo en un sub-menú
+
 (ejemplo 4: Añadiendo un ejemplo en un sub-menú)
 (Copiar test.ice en mi_carpeta)
 
