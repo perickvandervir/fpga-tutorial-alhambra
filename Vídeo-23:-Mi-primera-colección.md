@@ -152,7 +152,11 @@ Este fichero se escribe en [markdown](https://guides.github.com/features/masteri
 
 ### Ejemplo 2: Cambiando el Readme
 
-(Ejemplo 2: Cambiamos el readme)
+**Abrimos** el fichero README.md con un **editor** de texto, borramos su contenido y **escribimos** esto:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-12.png)
+
+Ahora desde **Icestudio** lo mostramos, en la opción **Ver/Información de la colección**
 
 (ejemplos de la colección)
 
