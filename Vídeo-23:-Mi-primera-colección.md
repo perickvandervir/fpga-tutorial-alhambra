@@ -82,10 +82,13 @@ TODO
 
 Las **colecciones instaladas** se encuentran en la carpeta **collections**. A partir de ahora la estructura de los directorio no depende del Sistema operativo, por lo que usaré pantallazos del que uso yo: GNU/Linux/Ubuntu 18.04.
 
-Partiremos de un Icestudio que sólo tenga instalada **una colección**: la correspondiente a este tutorial: **Academia-Jedi-HW-23**
+Partiremos de un Icestudio que sólo tenga instalada **una colección**: la correspondiente a este tutorial: **Academia-Jedi-HW-23**. Desde el menú **Seleccionar/Colección** lo comprobamos
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-01.png)
 
+Si ahora nos **metemos** en la carpeta collections, veremos que hay **una carpeta** con el nombre de la colección instalada: **Academia-Jedi-HW-23**. Cada vez que **instalamos** una colección en icestudio, se descomprimirá en este directorio. Así, dentro de collections existirá **una carpeta por cada colección instalada**. Como ahora sólo tenemos instalada una sola colección, sólo aparece una carpeeta
+
+(Foto)
 
 
 TODO
