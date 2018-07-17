@@ -167,7 +167,13 @@ Y vemos que se ha **actualizado** directamente (no hace falta usar el Reload. Es
 
 La **carpeta examples** contiene todos los **ejemplos** de la colección, que se muestran desde el menú **Archivos/Ejemplos**. Los **ficheros .ice** con los ejemplos se muestran **directamente** en el menú, mientras que las **carpetas** adicionales se muestran como **sub-menúes**. De esta forma, podemos organizar los ejemplos en carpetas y se mostrarán en Icestudio mediante menúes y sub-menúes
 
+Nos **metemos** dentro de la carpeta **examples**
 
+
+
+
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-14.png)
 
 (ejemplos de los bloques)
 
