@@ -113,9 +113,7 @@ Cualquier **cambio** que hagamos dentro de la carpeta de colecciones (collection
 
 **Seleccionamos** la nueva colección **test-1**. En los siguientes ejemplos la modificaremos. Todo el proceso se resume en esta **animación**:
 
-(animación)
-
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-07.gif)
 
 # Ejercicios propuestos (X BitPoints)
 
