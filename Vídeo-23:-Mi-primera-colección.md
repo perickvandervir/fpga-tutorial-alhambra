@@ -145,7 +145,7 @@ El fichero **README.md** es el que se muestra cuando se pincha en la opción del
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-10.png)
 
-Este fichero se escribe en [markdown](https://guides.github.com/features/mastering-markdown/), igual que en github (y que en los bloques de información de icestudio). Al **verlo** desde Icestudio se renderiza en una ventana nueva:
+Este fichero se escribe en [markdown](https://guides.github.com/features/mastering-markdown/), igual que en github (y que en los bloques de información de icestudio). Al **verlo** desde Icestudio se renderiza en una **ventana nueva**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-11.png)
 
