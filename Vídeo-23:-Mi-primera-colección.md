@@ -197,7 +197,7 @@ En esta **animación** se muestra todo el **proceso**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-19.png)
 
-Ahora recargamos la colección (Herramietas/Colecciones/Reload) y miramos el menú de los ejemplos. El nuevo Sub-menú con el ejemplo se encuentran ahí
+Ahora **recargamos la colección** (Herramietas/Colecciones/Reload) y miramos el menú de los ejemplos. El nuevo Sub-menú con el ejemplo se encuentran ahí
 
 (screenshot)
 
