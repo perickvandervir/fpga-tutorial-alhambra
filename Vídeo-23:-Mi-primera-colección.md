@@ -175,6 +175,8 @@ Dentro hay un ejemplo, llamado **Test.ice** y otras **tres carpetas**. Si nos va
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-14.png)
 
+### Ejemplo 3: Añadiendo un ejemplo
+
 (ejemplos de los bloques)
 
 (TODO)
