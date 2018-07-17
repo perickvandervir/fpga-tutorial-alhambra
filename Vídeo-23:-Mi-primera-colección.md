@@ -141,7 +141,7 @@ Esta es otra descripción, más visual
 
 ## README.md
 
-El fichero README.md es el que se muestra cuando se pincha en la opción del menú Ver/Información de la colección
+El fichero **README.md** es el que se muestra cuando se pincha en la opción del menú **Ver/Información de la colección**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-10.png)
 
