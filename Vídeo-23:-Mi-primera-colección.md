@@ -118,6 +118,10 @@ Cualquier **cambio** que hagamos dentro de la carpeta de colecciones (collection
 
 ## Estructura de las colecciones
 
+Todas las colecciones tienen la **misma estructura**. Nos metemos dentro de la carpeta **test-1** para ver cómo está organizada
+
+(Foto)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
