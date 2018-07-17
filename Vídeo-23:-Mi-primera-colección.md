@@ -208,6 +208,10 @@ En esta **animación** se resume el **proceso**:
 
 ## Bloques de la colección
 
+La **carpeta blocks** contiene todos los bloques de la colección, organizados en carpetas que son **menúes** y **sub-menúes**. Nos **metemos** dentro de blocks para echar un vistazo:
+
+(screenshot)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
