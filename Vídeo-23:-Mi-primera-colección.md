@@ -178,6 +178,11 @@ Dentro hay un ejemplo, llamado **Test.ice** y otras **tres carpetas**. Si nos va
 
 ### Ejemplo 3: Añadiendo un ejemplo
 
+(copiar test.ice en test-1.ice)
+
+(ejemplo 4: Añadiendo un ejemplo en un sub-menú)
+(Copiar test.ice en mi_carpeta)
+
 (ejemplos de los bloques)
 
 (TODO)
