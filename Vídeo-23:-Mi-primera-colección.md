@@ -330,6 +330,10 @@ Desde **Windows/Mac** se instala con:
 pip install icm
 ```
 
+Podemos comprobar que se ha **instalado correctamente** abriendo un terminal y ejecutando el **comando icm**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/icm-01.png)
+
 ### Creando una colección
 
 Los **pasos** a seguir para **crear** una colección usando icm son los siguientes:
