@@ -231,7 +231,7 @@ Ahora **recargamos la colección** y veremos cómo ha aparecido el **nuevo menú
 
 En esta **animación** se muestra el **proceso completo**:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-26.gif)
 
 ### Ejemplo 6: Añadiendo un bloque nuevo
 
