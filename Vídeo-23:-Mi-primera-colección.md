@@ -306,7 +306,7 @@ También podríamos haberla descomprimido directamente dentro de la carpeta Coll
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/zero-04.png)
 
-(TODO)
+* Ahora ya podemos **añadir** menúes, sub-menúes, bloques y ejemplos como hemos visto en los apartados anteriores
 
 ## Utilidad icm
 
