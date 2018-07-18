@@ -45,6 +45,7 @@ TODO
 * [Distribuyendo colecciones](#distribuyendo-colecciones)
 * [Editando bloques de una colección](#editando-bloques-de-una-colecci%C3%B3n)
   * [Ejemplo 8: Creando un corazón de 2Hz](#ejemplo-8-creando-un-coraz%C3%B3n-de-2hz)
+* [¡Comparte tus bloques!](#comparte-tus-bloques)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
