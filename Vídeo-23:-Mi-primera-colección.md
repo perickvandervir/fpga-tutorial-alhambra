@@ -265,6 +265,14 @@ Ahora **copiamos** el corazón de 1Hz (o cualquier otro componentes que queramos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-32.png)
 
+Desde Icestudio **recargamos** la colección y comprobamos que el nuevo sub-menú y el nuevo corazón aparcen
+
+(Screenshot)
+
+Todo el proceso se muestra en esta **animación**:
+
+(Animación)
+
 (Crear carpeta sub-menu dentro de mi_menu y copiar el corazón)
 (screenshots + animación)
 
