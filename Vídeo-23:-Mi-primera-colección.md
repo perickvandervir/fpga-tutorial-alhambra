@@ -367,6 +367,8 @@ Esto **crea** todos los directorios y las plantillas necesarias
 
 ### Actualizando la documentación y la traducción
 
+Cuando hemos hecho una **modificación** a la colección, como **añadir** bloques o ejemplos nuevos, o modificar alguno de los cambpos del fichero **package.json**, podemos ejecutar el **comando icm update** para generar un nuevo fichero **README.md**, así como actualizar la traducción
+
 TODO
 
 # Distribuyendo colecciones
