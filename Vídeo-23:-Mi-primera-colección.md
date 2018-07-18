@@ -38,6 +38,7 @@ TODO
     * [Ejemplo 7: Añadiendo un sub-menú](#ejemplo-7-a%C3%B1adiendo-un-sub-men%C3%BA)
 * [Creando una colección nueva desde cero](#creando-una-colecci%C3%B3n-nueva-desde-cero)
   * [Plantilla coleccion-zero](#plantilla-coleccion-zero)
+  * [Utilidad icm](#utilidad-icm)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
