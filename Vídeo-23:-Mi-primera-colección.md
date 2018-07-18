@@ -357,7 +357,11 @@ Los **pasos** a seguir para **crear** una colección usando icm son los siguient
 $ icm create
 ```
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/icm-05.png)
+
+Esto **crea** todos los directorios y las plantillas necesarias
+
+* Ahora ya podemos **añadir** menúes, sub-menúes, bloques y ejemplos
 
 (TODO)
 
