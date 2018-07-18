@@ -273,12 +273,10 @@ Todo el proceso se muestra en esta **animación**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-34.gif)
 
-(Crear carpeta sub-menu dentro de mi_menu y copiar el corazón)
-(screenshots + animación)
+# Creando una colección nueva desde cero
 
 (TODO)
 
-(Creando una colección nueva)
 (Editando bloques de una colección)
 (herramienta icm)
 (Compartiendo bloques)
