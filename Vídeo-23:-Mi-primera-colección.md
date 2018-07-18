@@ -242,7 +242,7 @@ Añadiremos un **bloque nuevo** en el menú que acabamos de crear. Para no crear
 
 Ahí se encuentra el componente **Corazon_1Hz.ice**. Lo copiamos a la carpeta **blocks/mi_menu** que hemos creado en el ejemplo anterior
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-28.png)
 
 **Recargamos** la colección y observamos que nos ha aparecido  el nuevo componente
 
