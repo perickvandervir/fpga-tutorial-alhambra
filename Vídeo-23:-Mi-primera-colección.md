@@ -399,6 +399,12 @@ Como ejemplo vamos a crear un **corazón de 2Hz** editando el de 1Hz.
 
 Seleccionamos la colección **Test-1** y editar el bloque del corazón de 1Hz que se encuentra en **Mi_menu/mi_sub_menu** a través de la opción **Archivo/Bloques**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/editando-01.png)
+
+En vez de aparecer el bloque corazón de 1Hz, se nos abre su **implementación** (su interior)
+
+(Screenshot)
+
 (TODO)
 
 # ¡Comparte tus bloques!
