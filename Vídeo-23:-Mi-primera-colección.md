@@ -363,6 +363,15 @@ Esto **crea** todos los directorios y las plantillas necesarias
 
 * Ahora ya podemos **añadir** menúes, sub-menúes, bloques y ejemplos
 
+# Distribuyendo colecciones
+
+Si ya tenemos una **colección creada** y queremos que otros la **usen** seguimos los siguientes pasos:
+
+* Nos vamos al directorio donde **se encuentra** la carpeta con **nuestra colección** (puede ser en Collections o en cualquier otro directorio)
+
+(Screenshot)
+
+
 (TODO)
 
 (Editando bloques de una colección)
