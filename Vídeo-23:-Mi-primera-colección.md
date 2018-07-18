@@ -39,6 +39,7 @@ TODO
 * [Creando una colección nueva desde cero](#creando-una-colecci%C3%B3n-nueva-desde-cero)
   * [Plantilla coleccion-zero](#plantilla-coleccion-zero)
   * [Utilidad icm](#utilidad-icm)
+    * [Instalación](#instalaci%C3%B3n)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
