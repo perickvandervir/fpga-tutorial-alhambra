@@ -250,7 +250,7 @@ Ahí se encuentra el componente **Corazon_1Hz.ice**. Lo copiamos a la carpeta **
 
 En esta **animación** se muestra todo el **proceso**:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-30.gif)
 
 ### Ejemplo 7: Añadiendo un sub-menú
 
