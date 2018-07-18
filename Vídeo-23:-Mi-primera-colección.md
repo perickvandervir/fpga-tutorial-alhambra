@@ -370,7 +370,13 @@ Si ya tenemos una **colección creada** y queremos que otros la **usen** seguimo
 
 * Nos vamos al directorio donde **se encuentra** la carpeta con **nuestra colección** (puede ser en Collections o en cualquier otro directorio)
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/icm-03.png)
+
+* La **comprimimos** en **ZIP**
+
+(screenshot)
+
+(Animación)
 
 
 (TODO)
