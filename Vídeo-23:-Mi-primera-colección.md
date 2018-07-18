@@ -302,9 +302,9 @@ También podríamos haberla descomprimido directamente dentro de la carpeta Coll
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/zero-03.png)
 
-* **Recargamos** desde Icestudio. Nos vamos a **Seleccionar/Colección**. Vemos que aparece la colección con el nuevo nombre
+* **Recargamos** desde Icestudio. Nos vamos a **Seleccionar/Colección**. Vemos que aparece la colección con el nuevo nombre. Pero como como hemos cambiado el nombre, estará seleccionada la colección por defecto. **Seleccionamos mi-zero**
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/zero-04.png)
 
 (TODO)
 
