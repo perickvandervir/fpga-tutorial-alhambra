@@ -255,6 +255,9 @@ En esta **animación** se muestra todo el **proceso**:
 
 ### Ejemplo 7: Añadiendo un sub-menú
 
+(Crear carpeta sub-menu dentro de mi_menu y copiar el corazón)
+(screenshots + animación)
+
 (TODO)
 
 (Creando una colección nueva)
