@@ -41,6 +41,7 @@ TODO
   * [Utilidad icm](#utilidad-icm)
     * [Instalación](#instalaci%C3%B3n)
     * [Creando una colección](#creando-una-colecci%C3%B3n)
+    * [Actualizando la documentación y la traducción](#actualizando-la-documentaci%C3%B3n-y-la-traducci%C3%B3n)
 * [Distribuyendo colecciones](#distribuyendo-colecciones)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
