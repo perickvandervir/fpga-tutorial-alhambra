@@ -244,9 +244,9 @@ Ahí se encuentra el componente **Corazon_1Hz.ice**. Lo copiamos a la carpeta **
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-28.png)
 
-**Recargamos** la colección y observamos que nos ha aparecido  el nuevo componente
+**Recargamos** la colección y observamos que nos ha aparecido  el **nuevo componente**
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-29.png)
 
 En esta **animación** se muestra todo el **proceso**:
 
