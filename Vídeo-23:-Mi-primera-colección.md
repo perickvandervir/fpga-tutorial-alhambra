@@ -257,7 +257,7 @@ En esta **animación** se muestra todo el **proceso**:
 
 Crearemos un **sub-menú**, llamado **mi_sub_menú**, dentro del menú mi_menu, y añadiremos una **copia** del corazón de 1Hz. Nos metemos dentro de la carpeta mi_menú y creamos la **carpeta mi_sub_menú**
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-31.png)
 
 (Crear carpeta sub-menu dentro de mi_menu y copiar el corazón)
 (screenshots + animación)
