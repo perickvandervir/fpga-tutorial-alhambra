@@ -221,6 +221,20 @@ En este nivel **sólo puede haber carpetas**, y no ficheros .ice con bloques. Si
 
 ### Ejemplo 5: Añadiendo un menú
 
+Vamos a añadir un **menú vacío** a nuestra colección. Nos metemos en la carpeta **blocks** y creamos un directorio vacío, llamado por ejemplo **mi_menu**
+
+(Foto)
+
+Ahora **recargamos la colección** y veremos cómo ha aparecido el nuevo menú en la parte superior (tenemos que asegurarnos de que la colección test1 está seleccionada). Este menú está vacío, por lo que si situamos el ratón encima no se despliega
+
+(foto)
+
+En esta animación se muestra el proceso completo:
+
+(animación)
+
+### Ejemplo 6: Añadiendo un bloque nuevo
+
 (Añadir menú mi_menu)
 
 (TODO)
