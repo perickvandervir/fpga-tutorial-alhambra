@@ -236,12 +236,25 @@ En esta **animación** se muestra el **proceso completo**:
 
 ### Ejemplo 6: Añadiendo un bloque nuevo
 
-(Añadir menú mi_menu)
+Añadiremos un **bloque nuevo** en el menú que acabamos de crear. Para no crearlo desde cero, directamente **copiaremos** uno ya existente. Por ejemplo el **corazón de 1Hz** que se encuentra en el menú **Varios/Bombeo/Fijos**. Este menú se corresponde con la carpeta **.icestudio/collections/test-1/blocks/Varios/Bombeo/Fijos**
+
+(Screenshot)
+
+Ahí se encuentra el componente **Corazon_1Hz.ice**. Lo copiamos a la carpeta **blocks/mi_menu** que hemos credo en el ejemplo anterior
+
+(screenshot)
+
+**Recargamos** la colección y observamos que nos ha aparecido  el nuevo componente
+
+(screenshot)
+
+En esta **animación** se muestra todo el **proceso**:
+
+(animación)
+
+### Ejemplo 7: Añadiendo un sub-menú
 
 (TODO)
-
-(Añadiendo un bloque)
-(Añadiendo bloque en sub-menú)
 
 (Creando una colección nueva)
 (Editando bloques de una colección)
