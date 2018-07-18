@@ -349,6 +349,14 @@ Los **pasos** a seguir para **crear** una colección usando icm son los siguient
 
 * Entrar en el directorio **Mi_colección**, abrir un **terminal**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/icm-04.png)
+
+* **Ejecutar** el comando **icm create**
+
+```
+$ icm create
+```
+
 (Screenshot)
 
 (TODO)
