@@ -415,9 +415,15 @@ También cambiamos la **información del proyecto** (icono, descripción, nombre
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/editando-04.png)
 
-y finalmente lo grabamos con el nombre **Corazon-2Hz** en la ruta **.icestudio/collections/test-1/blocks/mi_menu/mi_sub_menu/**, para que esté en la colección Test-1 en el mismo menú que el de 1Hz
+y finalmente lo grabamos con el nombre **Corazon-2Hz** en la ruta **.icestudio/collections/test-1/blocks/mi_menu/mi_sub_menu/**, para que esté en la **colección Test-1** en el mismo menú que el de 1Hz
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/editando-05.png)
 
+Abrimos una **ventana nueva** de icestudio y miramos en el menú **Mi_menu/Mi_sub_menu**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/editando-06.png)
+
+Ahí está nuestro nuevo corazón. Lo **colocamos**
 
 (Screenshot)
 
