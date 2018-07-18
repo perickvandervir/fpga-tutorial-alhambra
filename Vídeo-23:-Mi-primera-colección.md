@@ -425,9 +425,9 @@ Abrimos una **ventana nueva** de icestudio y miramos en el menú **Mi_menu/Mi_su
 
 Ahí está nuestro nuevo corazón. Lo **colocamos** y lo conectamos a un LED para probarlo
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/editando-07.png)
 
-(TODO)
+¡Nuestro nuevo bloque está funcionando! :-)
 
 # ¡Comparte tus bloques!
 
