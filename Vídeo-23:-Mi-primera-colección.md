@@ -372,7 +372,7 @@ Si ya tenemos una **colección creada** y queremos que otros la **usen** seguimo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/icm-03.png)
 
-* La **comprimimos** en **ZIP**
+* La **comprimimos** en **ZIP**. Desde GNU/Linux es muy fácil. Simplemente nos ponemos encima de la carpeta, le damos al botón derecho del ratón y elegimos la opción comprimir...
 
 (screenshot)
 
