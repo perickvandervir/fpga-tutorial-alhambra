@@ -238,7 +238,7 @@ En esta **animación** se muestra el **proceso completo**:
 
 Añadiremos un **bloque nuevo** en el menú que acabamos de crear. Para no crearlo desde cero, directamente **copiaremos** uno ya existente. Por ejemplo el **corazón de 1Hz** que se encuentra en el menú **Varios/Bombeo/Fijos**. Este menú se corresponde con la carpeta **.icestudio/collections/test-1/blocks/Varios/Bombeo/Fijos**
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-27.png)
 
 Ahí se encuentra el componente **Corazon_1Hz.ice**. Lo copiamos a la carpeta **blocks/mi_menu** que hemos credo en el ejemplo anterior
 
