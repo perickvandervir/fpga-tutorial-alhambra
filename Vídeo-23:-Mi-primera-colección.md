@@ -374,9 +374,9 @@ Si ya tenemos una **colección creada** y queremos que otros la **usen** seguimo
 
 * La **comprimimos** en **ZIP**. Desde GNU/Linux es muy fácil. Simplemente nos ponemos encima de la carpeta, le damos al botón derecho del ratón y elegimos la opción comprimir...
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/deliver-01.gif)
 
-(Animación)
+* ¡Ya tenemos el fichero **Mi-coleccion.zip** con nuestra colección!. Cualquiera puede añadir la colección a Icestudio desde la opción **Herramientas/Colecciones/Añadir**, pasándole este fichero 
 
 
 (TODO)
