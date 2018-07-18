@@ -378,6 +378,7 @@ Si ya tenemos una **colección creada** y queremos que otros la **usen** seguimo
 
 * ¡Ya tenemos el fichero **Mi-coleccion.zip** con nuestra colección!. Cualquiera puede añadir la colección a Icestudio desde la opción **Herramientas/Colecciones/Añadir**, pasándole este fichero 
 
+* **Opcionalmente**, antes de crear el fichero .ZIP podemos actualizar la documentación ejecutando el comando icm update dentro de la carpeta Mi-colección. Esto nos genera un fichero README.md nuevo, que está actualizado
 
 (TODO)
 
