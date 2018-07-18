@@ -336,6 +336,8 @@ Podemos comprobar que se ha **instalado correctamente** abriendo un terminal y e
 
 En una **máquina Windows 10** se haría de la misma forma:
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/icm-02.png)
+
 (Screenshot)
 
 ### Creando una colección
