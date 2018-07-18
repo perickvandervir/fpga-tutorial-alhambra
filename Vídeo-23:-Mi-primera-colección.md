@@ -405,6 +405,14 @@ Seleccionamos la colección **Test-1** y editar el bloque del corazón de 1Hz qu
 
 En vez de aparecer el bloque corazón de 1Hz, se nos abre su **implementación** (su interior)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/editando-02.png)
+
+Convertirlo en un **corazón de 2Hz** es muy fácil en este ejemplo, sólo hay que cambiar el **parámetro Hz** dándole el valor **2** en vez de 1
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/editando-03.png)
+
+También cambiamos la **información del proyecto** (icono, descripción, nombre...)
+
 (Screenshot)
 
 (TODO)
