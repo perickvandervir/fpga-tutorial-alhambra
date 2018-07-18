@@ -271,7 +271,7 @@ Desde Icestudio **recargamos** la colecci처n y comprobamos que el nuevo sub-men�
 
 Todo el proceso se muestra en esta **animaci처n**:
 
-(Animaci처n)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-34.gif)
 
 (Crear carpeta sub-menu dentro de mi_menu y copiar el coraz처n)
 (screenshots + animaci처n)
