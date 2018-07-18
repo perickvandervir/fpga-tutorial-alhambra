@@ -385,10 +385,13 @@ Si ya tenemos una **colección creada** y queremos que otros la **usen** seguimo
 
 * **Opcionalmente**, antes de crear el fichero .ZIP podemos actualizar la documentación ejecutando el comando icm update dentro de la carpeta Mi-colección. Esto nos genera un fichero README.md nuevo, que está actualizado
 
+# Editando bloques de una colección
+
 (TODO)
 
-(Editando bloques de una colección)
-(Compartiendo bloques)
+# ¡Comparte tus bloques!
+
+(TODO)
 
 # Ejercicios propuestos (X BitPoints)
 
