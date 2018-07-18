@@ -37,6 +37,7 @@ TODO
     * [Ejemplo 6: Añadiendo un bloque nuevo](#ejemplo-6-a%C3%B1adiendo-un-bloque-nuevo)
     * [Ejemplo 7: Añadiendo un sub-menú](#ejemplo-7-a%C3%B1adiendo-un-sub-men%C3%BA)
 * [Creando una colección nueva desde cero](#creando-una-colecci%C3%B3n-nueva-desde-cero)
+  * [Plantilla coleccion-zero](#plantilla-coleccion-zero)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
