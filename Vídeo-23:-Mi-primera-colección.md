@@ -223,7 +223,7 @@ En este nivel **sólo puede haber carpetas**, y no ficheros .ice con bloques. Si
 
 Vamos a añadir un **menú vacío** a nuestra colección. Nos metemos en la carpeta **blocks** y creamos un directorio vacío, llamado por ejemplo **mi_menu**
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-24.png)
 
 Ahora **recargamos la colección** y veremos cómo ha aparecido el nuevo menú en la parte superior (tenemos que asegurarnos de que la colección test1 está seleccionada). Este menú está vacío, por lo que si situamos el ratón encima no se despliega
 
