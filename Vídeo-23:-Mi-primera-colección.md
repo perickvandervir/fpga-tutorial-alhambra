@@ -35,7 +35,7 @@ TODO
   * [Bloques de la colección](#bloques-de-la-colecci%C3%B3n)
     * [Ejemplo 5: Añadiendo un menú](#ejemplo-5-a%C3%B1adiendo-un-men%C3%BA)
     * [Ejemplo 6: Añadiendo un bloque nuevo](#ejemplo-6-a%C3%B1adiendo-un-bloque-nuevo)
-    * [Ejemplo 7: Añadiendo un sub-menú](h#ejemplo-7-a%C3%B1adiendo-un-sub-men%C3%BA)
+    * [Ejemplo 7: Añadiendo un sub-menú](#ejemplo-7-a%C3%B1adiendo-un-sub-men%C3%BA)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
