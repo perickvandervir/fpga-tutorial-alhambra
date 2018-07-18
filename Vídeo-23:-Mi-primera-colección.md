@@ -311,7 +311,32 @@ También podríamos haberla descomprimido directamente dentro de la carpeta Coll
 
 ## Utilidad icm
 
-https://pypi.org/project/icm/
+La [utilidad icm](https://pypi.org/project/icm/) es un programa en **python**, creado por [Jesús Arroyo](https://github.com/Jesus89), que nos permite **crear** las plantillas para las colecciones así como **actualizar** su documentación
+
+### Instalación
+
+Se instala directamente desde el **repositorio de paquetes de python**, usando **pip install**
+
+En los sistemas **GNU/Linux** lo más cómodo es instalarlo globalmente, para que esté accesible desde el path:
+
+```
+$ sudo pip install icm
+```
+
+Desde **Windows/Mac** se instala con:
+
+```
+pip install icm
+```
+
+### Creando una colección
+
+Los **pasos** a seguir para **crear** una colección usando icm son los siguientes:
+
+* **Crear un directorio con el nombre de la colección**. Se puede crear en **cualquier** sitio, NO sólo en la carpeta Collections de Icestudio
+
+(Screenshot)
+
 
 (TODO)
 
