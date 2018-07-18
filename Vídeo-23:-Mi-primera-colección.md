@@ -391,6 +391,10 @@ Si ya tenemos una **colección creada** y queremos que otros la **usen** seguimo
 
 # Editando bloques de una colección
 
+Existe una forma sencilla de **editar los bloques** de una colección, mediante la opción **Archivo/Bloques**. Desde ella podemos acceder a todos los bloques de la colección, igual que con el menú superior, con la diferencia de que se **abren los bloques** como un **proyecto**, y no se insertan como bloques.
+
+### ddd
+
 (TODO)
 
 # ¡Comparte tus bloques!
