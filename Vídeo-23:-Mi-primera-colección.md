@@ -300,7 +300,7 @@ También podríamos haberla descomprimido directamente dentro de la carpeta Coll
 
 * **Cambiamos el nombre** de la carpeta, para llamarla como nosotros queramos. Por ejemplo **mi-zero**
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/zero-03.png)
 
 * **Recargamos** desde Icestudio. Nos vamos a **Seleccionar/Colección**. Vemos que aparece la colección con el nuevo nombre
 
