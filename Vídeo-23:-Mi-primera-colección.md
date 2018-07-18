@@ -296,7 +296,7 @@ También podríamos haberla descomprimido directamente dentro de la carpeta Coll
 
 * Nos metemos en la **carpeta Collections**. Vemos que está creada la **carpeta Coleccion-zero**, que acabamos de instalar
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/zero-02.png)
 
 * **Cambiamos el nombre** de la carpeta, para llamarla como nosotros queramos. Por ejemplo **mi-zero**
 
