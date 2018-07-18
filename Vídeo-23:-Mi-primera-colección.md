@@ -423,7 +423,7 @@ Abrimos una **ventana nueva** de icestudio y miramos en el menú **Mi_menu/Mi_su
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/editando-06.png)
 
-Ahí está nuestro nuevo corazón. Lo **colocamos**
+Ahí está nuestro nuevo corazón. Lo **colocamos** y lo conectamos a un LED para probarlo
 
 (Screenshot)
 
