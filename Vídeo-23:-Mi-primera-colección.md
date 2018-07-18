@@ -290,9 +290,21 @@ Los **pasos** a seguir son:
 * **Descargar** la plantilla: [Coleccion-zero.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Collections/Coleccion-zero.zip)
 * **Añadirla** a Icestudio como una colección cualquiera: **Herramientas/Colecciones/Añadir**. La seleccionamos
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/zero-01.png)
 
+También podríamos haberla descomprimido directamente dentro de la carpeta Collections y ejecutar la opción Herramientas/Colecciones/Reload. El proceso es equivalente
 
+* Nos metemos en la **carpeta Collections**. Vemos que está creada la **carpeta Coleccion-zero**, que acabamos de instalar
+
+(Screenshot)
+
+* **Cambiamos el nombre** de la carpeta, para llamarla como nosotros queramos. Por ejemplo **mi-zero**
+
+(Screenshot)
+
+* **Recargamos** desde Icestudio. Nos vamos a **Seleccionar/Colección**. Vemos que aparece la colección con el nuevo nombre
+
+(Screenshot)
 
 (TODO)
 
