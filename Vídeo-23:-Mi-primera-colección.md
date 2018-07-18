@@ -263,7 +263,7 @@ Primero nos metemos dentro de la **carpeta mi_menú** y creamos la **carpeta mi_
 
 Ahora **copiamos** el corazón de 1Hz (o cualquier otro componentes que queramos probar) en esa carpeta
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-32.png)
 
 (Crear carpeta sub-menu dentro de mi_menu y copiar el corazón)
 (screenshots + animación)
