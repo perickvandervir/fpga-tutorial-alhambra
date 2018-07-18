@@ -344,7 +344,7 @@ Los **pasos** a seguir para **crear** una colección usando icm son los siguient
 
 * **Crear un directorio con el nombre de la colección**. Se puede crear en **cualquier** sitio, NO sólo en la carpeta Collections de Icestudio
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/icm-03.png)
 
 
 (TODO)
