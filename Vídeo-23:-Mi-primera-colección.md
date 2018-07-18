@@ -43,6 +43,7 @@ TODO
     * [Creando una colección](#creando-una-colecci%C3%B3n)
     * [Actualizando la documentación y la traducción](#actualizando-la-documentaci%C3%B3n-y-la-traducci%C3%B3n)
 * [Distribuyendo colecciones](#distribuyendo-colecciones)
+* [Editando bloques de una colección](#editando-bloques-de-una-colecci%C3%B3n)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
