@@ -255,9 +255,15 @@ En esta **animación** se muestra todo el **proceso**:
 
 ### Ejemplo 7: Añadiendo un sub-menú
 
-Crearemos un **sub-menú**, llamado **mi_sub_menú**, dentro del menú mi_menu, y añadiremos una **copia** del corazón de 1Hz. Nos metemos dentro de la carpeta mi_menú y creamos la **carpeta mi_sub_menú**
+Crearemos un **sub-menú**, llamado **mi_sub_menú**, dentro del menú mi_menu, y añadiremos una **copia** del corazón de 1Hz. 
+
+Primero nos metemos dentro de la **carpeta mi_menú** y creamos la **carpeta mi_sub_menú**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-31.png)
+
+Ahora **copiamos** el corazón de 1Hz (o cualquier otro componentes que queramos probar) en esa carpeta
+
+(Screenshot)
 
 (Crear carpeta sub-menu dentro de mi_menu y copiar el corazón)
 (screenshots + animación)
