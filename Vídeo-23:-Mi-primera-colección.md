@@ -225,11 +225,11 @@ Vamos a añadir un **menú vacío** a nuestra colección. Nos metemos en la carp
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-24.png)
 
-Ahora **recargamos la colección** y veremos cómo ha aparecido el nuevo menú en la parte superior (tenemos que asegurarnos de que la colección test1 está seleccionada). Este menú está vacío, por lo que si situamos el ratón encima no se despliega
+Ahora **recargamos la colección** y veremos cómo ha aparecido el **nuevo menú** en la parte superior (tenemos que asegurarnos de que la colección test1 está seleccionada). Este menú está vacío, por lo que si situamos el ratón encima no se despliega
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-25.png)
 
-En esta animación se muestra el proceso completo:
+En esta **animación** se muestra el **proceso completo**:
 
 (animación)
 
