@@ -413,6 +413,10 @@ Convertirlo en un **corazón de 2Hz** es muy fácil en este ejemplo, sólo hay q
 
 También cambiamos la **información del proyecto** (icono, descripción, nombre...)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/editando-04.png)
+
+y finalmente lo grabamos con el nombre **Corazon-2Hz**
+
 (Screenshot)
 
 (TODO)
