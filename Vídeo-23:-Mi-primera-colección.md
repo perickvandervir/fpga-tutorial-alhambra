@@ -364,6 +364,10 @@ Esto **crea** todos los directorios y las plantillas necesarias
 
 * Ahora ya podemos **añadir** menúes, sub-menúes, bloques y ejemplos
 
+### Actualizando la documentación y la traducción
+
+TODO
+
 # Distribuyendo colecciones
 
 Si ya tenemos una **colección creada** y queremos que otros la **usen** seguimos los siguientes pasos:
