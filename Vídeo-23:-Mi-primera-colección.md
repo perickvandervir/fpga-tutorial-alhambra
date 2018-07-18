@@ -221,7 +221,7 @@ En este nivel **sólo puede haber carpetas**, y no ficheros .ice con bloques. Si
 
 ### Ejemplo 5: Añadiendo un menú
 
-Vamos a añadir un **menú vacío** a nuestra colección. Nos metemos en la carpeta **blocks** y creamos un directorio vacío, llamado por ejemplo **mi_menu**
+Vamos a añadir un **menú vacío** a nuestra colección. Nos metemos en la carpeta **blocks** y creamos un **directorio vacío**, llamado por ejemplo **mi_menu**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/collection-24.png)
 
