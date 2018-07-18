@@ -369,7 +369,9 @@ Esto **crea** todos los directorios y las plantillas necesarias
 
 Cuando hemos hecho una **modificación** a la colección, como **añadir** bloques o ejemplos nuevos, o modificar alguno de los cambpos del fichero **package.json**, podemos ejecutar el **comando icm update** para generar un nuevo fichero **README.md**, así como actualizar la traducción
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/icm-06.gif)
+
+Todas las colecciones de la** Academia Jedi de Hardware** están actualizadas con el comando **icm update**. Puedes ver el resultado desde **Ver/Información de la colección**
 
 # Distribuyendo colecciones
 
