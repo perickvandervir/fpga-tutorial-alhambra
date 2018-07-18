@@ -393,7 +393,11 @@ Si ya tenemos una **colección creada** y queremos que otros la **usen** seguimo
 
 Existe una forma sencilla de **editar los bloques** de una colección, mediante la opción **Archivo/Bloques**. Desde ella podemos acceder a todos los bloques de la colección, igual que con el menú superior, con la diferencia de que se **abren los bloques** como un **proyecto**, y no se insertan como bloques.
 
-### ddd
+### Ejemplo 8: Creando un corazón de 2Hz
+
+Como ejemplo vamos a crear un **corazón de 2Hz** editando el de 1Hz. 
+
+Seleccionamos la colección **Test-1** y editar el bloque del corazón de 1Hz que se encuentra en **Mi_menu/mi_sub_menu** a través de la opción **Archivo/Bloques**
 
 (TODO)
 
