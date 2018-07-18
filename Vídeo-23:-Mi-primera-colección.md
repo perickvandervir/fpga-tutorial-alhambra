@@ -276,10 +276,19 @@ Todo el proceso se muestra en esta **animación**:
 
 # Creando una colección nueva desde cero
 
+Las **colecciones** las podemos **crear** fácilmente como hemos visto en los apartados anteriores: copiamos la carpeta de una ya instalada y **añadimos/borramos** ficheros y carpetas
+
+En este apartado enseñaremos otras dos formas: una es partiendo de una **plantilla** de colección vacía, y la otra es utilizando la **utilidad icm**
+
+## Plantilla Coleccion-zero 
+
+(TODO)
+
+## Utilidad icm
+
 (TODO)
 
 (Editando bloques de una colección)
-(herramienta icm)
 (Compartiendo bloques)
 
 # Ejercicios propuestos (X BitPoints)
