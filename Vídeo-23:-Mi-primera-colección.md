@@ -461,6 +461,8 @@ Crearlas usando la [Fábrica de tablas](https://obijuan.github.io/iceFactory/ice
 
 * **Ejercicio 23.3** (Total **5 Bitpoints**): 
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Soluciones/sol-23.3.png)
+
 * **Ejercicio 23.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
