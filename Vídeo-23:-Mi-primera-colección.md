@@ -10,7 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-TODO
+Las **colecciones de Icestudio** nos permiten **organizar** los bloques y los ejemplos. Con ellas podemos estructurar lo que queremos enseñar, mostrando sólo lo que es relevante. Aprenderemos a **modificarlas** y **crearlas** desde cero
 
 # Colección
 
