@@ -98,6 +98,9 @@ Y también se puede llegar a través de la **ruta completa**:  Equipos - OS(C:) 
 
 TODO
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Icestudio-data-07.jpg)
+
+
 # Colecciones
 
 Las **colecciones instaladas** se encuentran en la **carpeta de colecciones**, que tiene el nombre **collections**. A partir de ahora la estructura de los directorio no depende del Sistema operativo, por lo que usaré pantallazos del que uso yo: **GNU/Linux/Ubuntu 18.04**
