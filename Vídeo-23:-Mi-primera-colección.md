@@ -437,10 +437,33 @@ En [la wiki del repositorio icestudio-blocks](https://github.com/FPGAwars/icestu
 
 Adicionalmente puedes añadir en [este repositorio](https://github.com/FPGAwars/icestudio-blocks) bloques y ejemplos. Cualquier bloque que hayas hecho y no sepas dónde ponerlo, este es el lugar :-)
 
+Por cada bloque que **compartas** en el repositorio, tendrás **5 Bitpoints** adicionales, aunque no puedes superar el total de bitpoints máximos para cada tutorial. Sin embargo, si subes más, tendrás **Bitpoints en crédito**, que podrás **convalidar** por **ejercicios** (Se te asignan los bitpoints sin tener que entregar los ejercicios)
 
-
-
-(TODO)
+| Tutorial |  Tope de Bitpoints acumulados |
+|----------|--------------------|
+| Tutorial 1 | 4                |
+| Tutorial 2 | 10               |
+| Tutorial 3 | 21               |
+| Tutorial 4 | 31               |
+| Tutorial 5 | 40               |
+| Tutorial 6 | 51               |
+| Tutorial 7 | 62               |
+| Tutorial 8 | 80               |
+| Tutorial 9 | 94               |
+| Tutorial 10 | 110             |
+| Tutorial 11 | 124             |
+| Tutorial 12 | 140             |
+| Tutorial 13 | 158             |
+| Tutorial 14 | 172             |
+| Tutorial 15 | 195             |
+| Tutorial 16 | 220             |
+| Tutorial 17 | 240             |
+| Tutorial 18 | 260             |
+| Tutorial 19 | 280             |
+| Tutorial 20 | 300             |
+| Tutorial 21 | 320             |
+| Tutorial 22 | 340             |
+| Tutorial 23 | 360             |
 
 # Ejercicios propuestos (20 BitPoints)
 
