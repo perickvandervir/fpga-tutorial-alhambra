@@ -455,11 +455,16 @@ Continuar con la colección creada en el ejercicio 23.1. Añadir un **nuevo menu
 
 Crearlas usando la [Fábrica de tablas](https://obijuan.github.io/iceFactory/icetable/icetable.html)
 
+Este es un **ejemplo** del pantallazo a entregar:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Soluciones/sol-23.2.png)
 
 
-* **Ejercicio 23.3** (Total **5 Bitpoints**): 
+* **Ejercicio 23.3** (Total **5 Bitpoints**): Añadiendo Ejemplos a mi colección
+
+Añadir los dos **circuitos de pruebas** de los bloques AND y de Franky que se hicieron en el **tutorial 21**. Se deben llamar **Test-and** y **Test-Franky**. Tiene que ser accesible desde el menú de **Ejemplos** de la colección
+
+Este es un **ejemplo** del pantallazo a entregar:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Soluciones/sol-23.3.png)
 
