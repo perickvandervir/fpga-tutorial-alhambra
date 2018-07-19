@@ -438,6 +438,8 @@ Entre todos podemos **crear bloques** y **compartirlos**. Si has creado bloques,
 
 En [la wiki del repositorio icestudio-blocks](https://github.com/FPGAwars/icestudio-blocks/wiki) estamos recopilando todos los enlaces a los **recursos de Icestudio**. Es una **wiki pública**, en la que todo el mundo puede editar. Si tienes repositorios o wikis con bloques, ejemplos, o cualquier información relacionada con Icestudio, puedes añadir los enlaces y la información en esta wiki. La idea es usarla como **UN ÍNDICE**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/comparte-01.png)
+
 Adicionalmente puedes añadir en [este repositorio](https://github.com/FPGAwars/icestudio-blocks) bloques y ejemplos. Cualquier bloque que hayas hecho y no sepas dónde ponerlo, este es el lugar :-)
 
 Por cada bloque que **compartas** en el repositorio, tendrás **5 Bitpoints** adicionales, aunque no puedes superar el total de bitpoints máximos para cada tutorial. Sin embargo, si subes más, tendrás **Bitpoints en crédito**, que podrás **convalidar** por **ejercicios** (Se te asignan los bitpoints sin tener que entregar los ejercicios)
