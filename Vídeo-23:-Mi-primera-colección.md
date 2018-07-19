@@ -447,7 +447,7 @@ ejercicios del **tutorial 21**
 
 Este es un **ejemplo** del pantallazo a entregar:
 
-![](![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Soluciones/sol-23.1.png))
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Soluciones/sol-23.1.png)
 
 * **Ejercicio 23.2** (Total **5 Bitpoints**): 
 
