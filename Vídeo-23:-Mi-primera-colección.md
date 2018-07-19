@@ -14,7 +14,7 @@ Las **colecciones de Icestudio** nos permiten **organizar** los bloques y los ej
 
 # Colección
 
-**Academia-Jedi-HW-23.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-23.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Collections/Academia-Jedi-HW-23.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
