@@ -96,7 +96,7 @@ Y también se puede llegar a través de la **ruta completa**:  Equipos - OS(C:) 
 
 ## Mac
 
-TODO
+En MAC, el funcionamiento es similar a Linux. La carpeta **.icestudio** es un directorio oculto, que se encuentra en nuestro **HOME** (Se puede abrir el home desde Finder pinchando en Go/Home). Los ficheros ocultos se pueden ver a partir de **MacOS Sierra** con el atajo **CMD + SHIFT + .** Para versiones anteriores consultar [este post](https://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Icestudio-data-07.jpg)
 
