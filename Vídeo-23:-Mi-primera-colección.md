@@ -451,6 +451,10 @@ Este es un **ejemplo** del pantallazo a entregar:
 
 * **Ejercicio 23.2** (Total **5 Bitpoints**): 
 
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Soluciones/sol-23.2.png)
+
+
 * **Ejercicio 23.3** (Total **5 Bitpoints**): 
 
 * **Ejercicio 23.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
