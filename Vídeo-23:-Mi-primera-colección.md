@@ -431,6 +431,15 @@ Ahí está nuestro nuevo corazón. Lo **colocamos** y lo conectamos a un LED par
 
 # ¡Comparte tus bloques!
 
+Entre todos podemos **crear bloques** y **compartirlos**. Si has creado bloques, aunque sean prototipos, ***compártelos con la comunidad** para poder aprender de ellos, mejorarlos o crear otros bloques derivados
+
+En [la wiki del repositorio icestudio-blocks](https://github.com/FPGAwars/icestudio-blocks/wiki) estamos recopilando todos los enlaces a los **recursos de Icestudio**. Es una **wiki pública**, en la que todo el mundo puede editar. Si tienes repositorios o wikis con bloques, ejemplos, o cualquier información relacionada con Icestudio, puedes añadir los enlaces y la información en esta wiki. La idea es usarla como **UN ÍNDICE**
+
+Adicionalmente puedes añadir en [este repositorio](https://github.com/FPGAwars/icestudio-blocks) bloques y ejemplos. Cualquier bloque que hayas hecho y no sepas dónde ponerlo, este es el lugar :-)
+
+
+
+
 (TODO)
 
 # Ejercicios propuestos (20 BitPoints)
