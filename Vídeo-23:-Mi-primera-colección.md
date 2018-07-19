@@ -440,11 +440,18 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 **Resumen**:
 
-* **Ejercicio 23.1** (Total **x Bitpoints**): 
+* **Ejercicio 23.1** (Total **5 Bitpoints**): **Colección con mis bloques**
 
-* **Ejercicio 23.2** (Total **x Bitpoints**): 
+Crear una colección desde 0 (usando la plantilla [Coleccion-zero.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Collections/Coleccion-zero.zip)), que se llame como tu apodo (en mi caso sería la colección Obijuan). Esta colección la iremos ampliando y modificando en los siguientes ejercicios. En este primero tendrás que crear un menú que se llame **Mis_bloques** y en él situar los **3 bloques** que creaste como  
+ejercicios del **tutorial 21**
 
-* **Ejercicio 23.3** (Total **x Bitpoints**): 
+Este es un **ejemplo** del pantallazo a entregar:
+
+![](![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Soluciones/sol-23.1.png))
+
+* **Ejercicio 23.2** (Total **5 Bitpoints**): 
+
+* **Ejercicio 23.3** (Total **5 Bitpoints**): 
 
 * **Ejercicio 23.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
