@@ -1,6 +1,5 @@
-![]()
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-23/Portada/Tut-23-portada.png)
 
-(En construcción...)
 # Vídeo
 
 (En construcción...)
