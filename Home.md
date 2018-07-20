@@ -30,7 +30,7 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | 20 | [Buses y números](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-20:-Buses-y-n%C3%BAmeros) |
 | 21 | [Mi primer bloque](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-21:-Mi-primer-bloque) |
 | 22 | [Circuitos combinacionales con varias salidas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-22:-Circuitos-combinacionales-con-varias-salidas)
-| 23 | [Mi primera colección](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-23:-Mi-primera-colecci%C3%B3n) (En construcción...)
+| 23 | [Mi primera colección](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-23:-Mi-primera-colecci%C3%B3n)
 | 24 | Display de 7 segmentos
 | 25 | Biestables |
 | 26 | Temporizador
