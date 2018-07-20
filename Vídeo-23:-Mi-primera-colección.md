@@ -2,8 +2,6 @@
 
 # Vídeo
 
-(En construcción...)
-
 [![Click to see the youtube video](http://img.youtube.com/vi/R1dc2P2thhs/0.jpg)](https://www.youtube.com/watch?v=R1dc2P2thhs&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=23)
 
 Haz click en la imagen para ver el **vídeo en Youtube**
