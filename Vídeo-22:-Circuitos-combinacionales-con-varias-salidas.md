@@ -478,35 +478,23 @@ El **comportamiento** del icebot se muestra en [Este vídeo de Youtube](https://
 ### Ejercicio 22.4
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-22/Viriato/Ejercicio-22-4/Captura%20de%20pantalla%20-2018-07-20%2011-20-16.png)
 
-## Tercero
+## Jose López
 
 ### Ejercicio 22.1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-22/Jose%20Lopez/ejercicio_22-1.jpg)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo Twitter](https://twitter.com/joselopez_ga/status/1020289981670133760)
 
 ### Ejercicio 22.2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-22/Jose%20Lopez/ejercicio_22-2.jpg)
 
-* **Vídeo** en Youtube:
+* [Vídeo Twitter](https://twitter.com/joselopez_ga/status/1020290301980827648)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ### Ejercicio 22.3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-22/Jose%20Lopez/ejercicio_22-3.jpg)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-### Ejercicio 22.4
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo Twitter](https://twitter.com/joselopez_ga/status/1020290812293369857)
 
 
 # Autor
