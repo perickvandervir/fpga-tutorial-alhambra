@@ -30,7 +30,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
-Hasta ahora, los circuitos se han comunicado con nosotros en **binario**. La forma más simple ha sido **encender LEDs**. Cuando se enciende, significa que el bit está a **1**, y cuando se apaga, que está a **0**
+Hasta ahora, los circuitos se han **comunicado** con nosotros en **binario**. La forma más simple ha sido **encender LEDs**. Cuando se enciende, significa que el bit está a **1**, y cuando se apaga, que está a **0**
 
 # Ejercicios propuestos (X BitPoints)
 
