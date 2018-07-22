@@ -518,35 +518,18 @@ Este es un **ejemplo** del pantallazo a entregar:
 ### Ejercicio 23.3
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-23/fgcoca/Ejercicio-3/Ejercicio%2023-3%20-P.png)
 
-## Segundo
+## Jose López
 
 ### Ejercicio 23.1
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-23/Jose%20Lopez/ejercicio_23-1.jpg)
 
 ### Ejercicio 23.2
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-23/Jose%20Lopez/ejercicio_23-2.jpg)
 
 ### Ejercicio 23.3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-23/Jose%20Lopez/ejercicio_23-3.jpg)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-### Ejercicio 23.4
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* Colección: [Coleccion-Jose.zip](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-23/Jose%20Lopez/Coleccion-Jose.zip)
 
 ## Tercero
 
