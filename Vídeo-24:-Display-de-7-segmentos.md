@@ -36,7 +36,7 @@ El **circuito más sencillo** que nos permite **observar un bit** es el que ya c
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/Intro-02.png)
 
-Mirando el **LED0** sabemos que si está **encendido**, es que este bit está a **1**, y si está **apagado** vale **0**. Es una forma de comunicación muy básica
+Mirando el **LED0** sabemos que si está **encendido**, es que este bit está a **1**, y si está **apagado** vale **0**. Es una forma de comunicación **muy básica**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/Intro-01.png)
 
