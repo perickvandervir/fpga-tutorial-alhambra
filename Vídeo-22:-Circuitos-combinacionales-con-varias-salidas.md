@@ -47,6 +47,7 @@ Aprenderemos a construir **circuitos combinacionales de varias salidas**, y vere
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Federico Coca (fgcoca)](#federico-coca-fgcoca)
   * [SrViriato](#srviriato)
+  * [Jose López](#jose-l%C3%B3pez)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
