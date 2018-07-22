@@ -45,6 +45,7 @@ Las **colecciones de Icestudio** nos permiten **organizar** los bloques y los ej
 * [¡Comparte tus bloques!](#comparte-tus-bloques)
 * [Ejercicios propuestos (20 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-23:-Mi-primera-colecci%C3%B3n#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
+  * [Federico Coca (fgcoca)](#federico-coca-fgcoca)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
