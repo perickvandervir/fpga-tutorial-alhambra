@@ -48,7 +48,7 @@ Y lo veremos en **binario** en los **LEDs**.  Este número **6** en binario (de 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/Intro-04.png)
 
-Con este sistema logramos que **nuestros circuitos** nos muestren **cualquier número**. Sin embargo, los humanos no estamos acostumbrados al binario. En vez de ver una serie de LEDs encendidos y apagados, preferiríamos ver el **dígito 6**, en decimal. ¿Cómo podemos lograr eso?
+Con este sistema logramos que **nuestros circuitos** nos muestren **cualquier número**. Sin embargo, los humanos no estamos acostumbrados al binario. En vez de ver una serie de LEDs encendidos y apagados, preferiríamos ver el **dígito 6**, en decimal. ¿Cómo podemos lograr esto?
 
 # Ejercicios propuestos (X BitPoints)
 
