@@ -32,7 +32,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 Hasta ahora, los circuitos se han **comunicado** con nosotros en **binario**. La forma más simple ha sido **encender LEDs**. Cuando se enciende, significa que el bit está a **1**, y cuando se apaga, que está a **0**
 
-Así, el circuito más sencillo que nos permite **observar un bit** es el que ya conocemos, el hola mundo:
+El **circuito más sencillo** que nos permite **observar un bit** es el que ya conocemos, el hola mundo:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/Intro-02.png)
 
