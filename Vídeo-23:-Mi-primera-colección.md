@@ -506,14 +506,10 @@ Este es un **ejemplo** del pantallazo a entregar:
 
 # Ejercicios entregados
 
-## Primero
+## Federico Coca (fgcoca)
 
 ### Ejercicio 23.1
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-23/fgcoca/Ejercicio-1/Ejercicio%2023-1%20-%20P.png)
 
 ### Ejercicio 23.2
 ![]()
