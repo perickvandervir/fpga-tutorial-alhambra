@@ -50,6 +50,10 @@ Y lo veremos en **binario** en los **LEDs**.  Este número **6** en binario (de 
 
 Con este sistema logramos que **nuestros circuitos** nos muestren **cualquier número**. Sin embargo, los humanos no estamos acostumbrados al binario. En vez de ver una serie de LEDs encendidos y apagados, preferiríamos ver el **dígito 6**, en decimal. ¿Cómo podemos lograr esto?
 
+# Dibujando con LEDs
+
+(TODO)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
