@@ -456,14 +456,13 @@ El **comportamiento** del icebot se muestra en [Este vídeo de Youtube](https://
 
 [![Click to see the youtube video](http://img.youtube.com/vi/m2Iac755hpo/0.jpg)](https://www.youtube.com/watch?v=m2Iac755hpo)
 
-## Segundo
+## SrViriato
 
 ### Ejercicio 22.1
-![]()
 
-* **Vídeo** en Youtube:
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-22/Viriato/Ejercicio-22-1/Captura%20de%20pantalla%20-2018-07-16%2015-15-53.png)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en twitter](https://twitter.com/SrViriato/status/1020252323107561474)
 
 ### Ejercicio 22.2
 ![]()
