@@ -519,6 +519,8 @@ Este es un **ejemplo** del pantallazo a entregar:
 ### Ejercicio 23.3
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-23/fgcoca/Ejercicio-3/Ejercicio%2023-3%20-P.png)
 
+* Colección: [fgcoca.zip](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-23/fgcoca/Ejercicio-3/fgcoca.zip)
+
 ## Jose López
 
 ### Ejercicio 23.1
