@@ -46,6 +46,8 @@ Mediante los **buses** pasamos de **uno** a **varios bits**. Y esto nos permite 
 
 Y lo veremos en **binario** en los **LEDs**.  Este número **6** en binario (de 8 bits) es **00000110**, por lo que habrá 6 LEDs apagados y **dos encendidos**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/Intro-04.png)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
