@@ -40,6 +40,10 @@ Mirando el **LED0** sabemos que si está **encendido**, es que este bit está a 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/Intro-01.png)
 
+Mediante los **buses** pasamos de **uno** a **varios bits**. Y esto nos permite visualizar **números en binarios en los LEDs**. Desde puestro circuito **enviamos un número**, por ejemplo el **6**:
+
+
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
