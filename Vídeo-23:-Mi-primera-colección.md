@@ -513,18 +513,10 @@ Este es un **ejemplo** del pantallazo a entregar:
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-23/fgcoca/Ejercicio-1/Ejercicio%2023-1%20-%20P.png)
 
 ### Ejercicio 23.2
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-23/fgcoca/Ejercicio-2/Ejercicio-22-3%20-%20P.png)
 
 ### Ejercicio 23.3
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-23/fgcoca/Ejercicio-3/Ejercicio%2023-3%20-P.png)
 
 ### Ejercicio 23.4
 ![]()
