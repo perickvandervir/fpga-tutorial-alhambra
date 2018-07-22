@@ -11,7 +11,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Colección
 
-**Academia-Jedi-HW-22.zip**: Colección para este tutorial. Descargar e instalar 
+**Academia-Jedi-HW-23.zip**: Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
@@ -31,40 +31,40 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 **Resumen**:
 
-* **Ejercicio 22.1** (Total **x Bitpoints**): 
+* **Ejercicio 23.1** (Total **x Bitpoints**): 
 
-* **Ejercicio 22.2** (Total **x Bitpoints**): 
+* **Ejercicio 23.2** (Total **x Bitpoints**): 
 
-* **Ejercicio 22.3** (Total **x Bitpoints**): 
+* **Ejercicio 23.3** (Total **x Bitpoints**): 
 
-* **Ejercicio 22.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
+* **Ejercicio 23.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
 
 ## Primero
 
-### Ejercicio 22.1
+### Ejercicio 23.1
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 22.2
+### Ejercicio 23.2
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 22.3
+### Ejercicio 23.3
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 22.4
+### Ejercicio 23.4
 ![]()
 
 * **Vídeo** en Youtube:
@@ -74,28 +74,28 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 ## Segundo
 
-### Ejercicio 22.1
+### Ejercicio 23.1
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 22.2
+### Ejercicio 23.2
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 22.3
+### Ejercicio 23.3
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 22.4
+### Ejercicio 23.4
 ![]()
 
 * **Vídeo** en Youtube:
@@ -104,28 +104,28 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 ## Tercero
 
-### Ejercicio 22.1
+### Ejercicio 23.1
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 22.2
+### Ejercicio 23.2
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 22.3
+### Ejercicio 23.3
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 22.4
+### Ejercicio 23.4
 ![]()
 
 * **Vídeo** en Youtube:
