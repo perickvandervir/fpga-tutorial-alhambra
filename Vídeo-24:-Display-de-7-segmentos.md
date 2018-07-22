@@ -30,6 +30,8 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
+Hasta ahora, nuestros circuitos se han comunicado con nosotrosen **binario**. La forma más simple ha sido **encender LEDs**. Cuando se enciende, el bit está a 1, y cuando se apaga, está a 0
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
