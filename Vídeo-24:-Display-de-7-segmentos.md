@@ -53,6 +53,8 @@ Con este sistema logramos que **nuestros circuitos** nos muestren **cualquier n√
 
 # Dibujando con LEDs
 
+**Encender** y **apagar LEDs** desde nuestros circuitos no tiene ning√∫n misterio. Lo sabemos hacer desde el [tutorial 2](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
