@@ -66,6 +66,10 @@ Hagámosle una **boca** a Franky, para que pueda **sonreir** o mostrar **indifer
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/franky-01.png)
 
+Nos fijamos en la **boca**. Está creada mediante **6 LEDs**, cuatro en una fila horizontal y otros dos debado. Si sólo **encendemos** los **cuatro LEDs de la parte superior**, nos aparecerá la boca con **forma horizontal**. Si por el contrario encendemos los **dos de abajo** y los de **los extremos superiores**, obtenemos una boca con forma de **sonrisa**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/franky-02.png)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
