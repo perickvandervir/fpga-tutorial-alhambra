@@ -64,6 +64,7 @@ Es una representación de los ojos muy sencilla. Cada **LED** actúa como un [P�
 
 Hagámosle una **boca** a Franky, para que pueda **sonreir** o mostrar **indiferencia**. Mis dotes artísticas son muy malas, así que me temo que mi boca será muy cutre, pero espero que sirva de **inspiración** para los que tenéis un sentido artístico más desarrollado 😀
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/franky-01.png)
 
 (TODO)
 
