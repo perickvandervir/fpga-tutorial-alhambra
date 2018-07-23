@@ -78,7 +78,7 @@ Sólo nos falta **rellenar la tabla** con los valores correctos para que se **en
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/franky-04.png)
 
-**Nombramos** a los LEDs con las letras **a**, **b**, **c**, **d**, **e** y **f**. Tomaremos la **a** como el **bit de mayor peso**, conectándolo a **GP5**, y **f** el de **menor**, conectado a **GP0**. Con estos datos ya podemos hacer la **tabla de verdad**
+**Nombramos** a los LEDs con las letras **a**, **b**, **c**, **d**, **e** y **f**. Tomaremos la **a** como el **bit de mayor peso**, conectándolo a **GP5**, y **f** el de **menor**, conectado a **GP0**. Con estos datos ya podemos determinar los **valores de las salidas**
 
 (TODO)
 
