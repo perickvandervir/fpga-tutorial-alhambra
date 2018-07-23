@@ -23,6 +23,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Introducción](#introducci%C3%B3n)
 * [Dibujando con LEDs](#dibujando-con-leds)
   * [La sonrisa de Franky](#la-sorisa-de-franky)
+  * [Ejemplo 1: Franky sonríe al apretar el pulsador](#ejemplo-1-franky-sonr%C3%ADe-al-apretar-el-pulsador)
   * [Visualizando los dígitos 0 y 1](#visualizando-los-d%C3%ADgitos-0-y-1)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
