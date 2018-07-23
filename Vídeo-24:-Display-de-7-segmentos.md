@@ -76,6 +76,10 @@ Ya sabemos cómo hacer un circuito de este tipo. Usaremos un **circuito combinac
 
 Sólo nos falta **rellenar la tabla** con los valores correctos para que se **enciendan** los LEDs adecuados en cada caso. Simplemente tenemos que  darles un nombres y decidir a qué pin de la FPGA lo vamos a conectar. Usaremos los **pines GP** de la Icezum Alhambra (3.3v) que son que ya habíamos usado para los ojos de franky
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/franky-04.png)
+
+**Nombramos** a los LEDs con las letras **a**, **b**, **c**, **d**, **e** y **f**. Tomaremos la **a** como el **bit de mayor peso**, conectándolo a **GP5**, y **f** el de **menor**, conectado a **GP0**. Con estos datos ya podemos hacer la **tabla de verdad**
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
