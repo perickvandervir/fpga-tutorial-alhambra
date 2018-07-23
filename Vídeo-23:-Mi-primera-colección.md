@@ -47,6 +47,7 @@ Las **colecciones de Icestudio** nos permiten **organizar** los bloques y los ej
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Federico Coca (fgcoca)](#federico-coca-fgcoca)
   * [Jose López](#jose-l%C3%B3pez)
+  * [SrViriato](#srviriato)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
