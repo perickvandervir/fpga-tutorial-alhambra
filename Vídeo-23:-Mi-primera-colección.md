@@ -534,36 +534,22 @@ Este es un **ejemplo** del pantallazo a entregar:
 
 * Colección: [Coleccion-Jose.zip](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-23/Jose%20Lopez/Coleccion-Jose.zip)
 
-## Tercero
+## SrViriato
 
 ### Ejercicio 23.1
-![]()
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-23/Viriato/Ejercicio-23-1/Captura%20de%20pantalla%20-2018-07-22%2011-33-00.png)
 
 ### Ejercicio 23.2
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-23/Viriato/Ejercicio-23-2/Captura%20de%20pantalla%20-2018-07-22%2011-46-21.png)
 
 ### Ejercicio 23.3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-23/Viriato/Ejercicio-23-3/Captura%20de%20pantalla%20-2018-07-22%2012-24-00.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* Colección: [Viriato.zip](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-23/Viriato/Ejercicio-23-3/Viriato.zip)
 
 ### Ejercicio 23.4
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-23/Viriato/Ejercicio-23-4/Captura%20de%20pantalla%20-2018-07-23%2013-33-40.png)
 
 # Autor
 
