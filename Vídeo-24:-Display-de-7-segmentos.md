@@ -41,7 +41,7 @@ Mirando el **LED0** sabemos que si está **encendido**, es que este bit está a 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/Intro-01.png)
 
-Mediante los **buses** pasamos de **uno** a **varios bits**. Y esto nos permite visualizar **números en binarios en los LEDs**. Desde puestro circuito **enviamos un número**, por ejemplo el **6**:
+Mediante los **buses** pasamos de **uno** a **varios bits**. Y esto nos permite visualizar **números en binarios en los LEDs**. Desde nuestro circuito **enviamos un número**, por ejemplo el **6**, de esta forma
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/Intro-03.png)
 
