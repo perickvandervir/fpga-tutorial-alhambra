@@ -88,6 +88,8 @@ Y la **tabla de verdad** es la siguiente
 
 Con ello ya tenemos el **circuito definitivo**. Sólo hay que rellenar la tabla con los valores **3C** y **27**
 
+## Ejemplo 1: Franky sonríe al apretar el pulsador
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
