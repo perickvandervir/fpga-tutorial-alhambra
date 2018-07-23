@@ -62,6 +62,7 @@ Es una representación de los ojos muy sencilla. Cada **LED** actúa como un [P�
 
 ## La sorisa de Franky
 
+Hagámosle una **boca** a Franky, para que pueda **sonreir** o mostrar **indiferencia**. Mis dotes artísticas son muy malas, así que me temo que mi boca será muy cutre, pero espero que sirva de **inspiración** para los que tenéis un sentido artístico más desarrollado 😀
 
 
 (TODO)
