@@ -53,7 +53,9 @@ Con este sistema logramos que **nuestros circuitos** nos muestren **cualquier n�
 
 # Dibujando con LEDs
 
-**Encender** y **apagar LEDs** desde nuestros circuitos no tiene ningún misterio. Lo sabemos hacer desde el [tutorial 2](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!)
+**Encender** y **apagar LEDs** desde nuestros circuitos no tiene ningún misterio. Lo sabemos hacer desde el [tutorial 2](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!). ¿Y si usamos los LEDs para hacer **dibujos con luz** controlada por nosotros? Bueno, esto es algo que en realidad ya hemos hecho. En el [tutorial 8](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos) usamos 2 LEDs para representar los [ojos de Franky](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-8:-Pines-y-LEDs-externos#circuitos-sobre-cart%C3%B3n--papel)
+
+![](https://raw.githubusercontent.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/master/wiki/Tutorial-08/Franky-anim.gif)
 
 (TODO)
 
