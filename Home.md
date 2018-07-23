@@ -85,7 +85,7 @@ Estudiante que se encuentran cursando el **segundo año** de la **academia de Ha
 
 Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en **primer curso**. Para acceder al primer curso necesitas tener el **rango de Cadete** para lo que necesitas un mínimo de **5 Bitpoints**
 
-[[https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/insignias/Academia-jedi-blanco.png|width=200px]]
+![](https://github.com/FPGAwars/icestudio-block-icons/raw/master/Jedi-HW-academy/First-course/First-course.svg?sanitize=true)
 
 |Divisa  | Nombe             | Rango    | BitPoints |
 |--------|-------------------|----------|-----------|
