@@ -94,6 +94,14 @@ Este es el circuito que hace que **Franky sonría** cuando se aprieta el **pulsa
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/franky-07.png)
 
+(TOO)
+
+(Montaje del circuito) 
+
+(Animación del funcionamiento)
+
+## Visualizando los dígitos 0 y 1
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
