@@ -22,6 +22,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 * [Introducción](#introducci%C3%B3n)
 * [Dibujando con LEDs](#dibujando-con-leds)
+  * [La sonrisa de Franky](#la-sorisa-de-franky)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
@@ -60,6 +61,8 @@ Con este sistema logramos que **nuestros circuitos** nos muestren **cualquier n�
 Es una representación de los ojos muy sencilla. Cada **LED** actúa como un [Píxel](https://es.wikipedia.org/wiki/P%C3%ADxel). Podemos usar más LEDs para representar otras cosas, con más resolución. **Iluminando** ciertos LEDs y **apagando** otros, conseguimos representar **dibujos con luz**
 
 ## La sorisa de Franky
+
+
 
 (TODO)
 
