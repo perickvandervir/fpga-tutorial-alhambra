@@ -84,6 +84,10 @@ Sólo nos falta **rellenar la tabla** con los valores correctos para que se **en
 
 Y la **tabla de verdad** es la siguiente
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/franky-06.png)
+
+Con ello ya tenemos el **circuito definitivo**. Sólo hay que rellenar la tabla con los valores **3C** y **27**
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
