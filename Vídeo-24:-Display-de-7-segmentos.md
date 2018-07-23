@@ -57,7 +57,7 @@ Con este sistema logramos que **nuestros circuitos** nos muestren **cualquier n�
 
 ![](https://raw.githubusercontent.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/master/wiki/Tutorial-08/Franky-anim.gif)
 
-Es una representación de los ojos muy sencilla. Cada **LED** actúa como un [Píxel](https://es.wikipedia.org/wiki/P%C3%ADxel). Podemos usar más LEDs para representar otras cosas, con más resolución. Iluminando ciertos LEDs y apagando otros, conseguimos representar **dibujos con luz**
+Es una representación de los ojos muy sencilla. Cada **LED** actúa como un [Píxel](https://es.wikipedia.org/wiki/P%C3%ADxel). Podemos usar más LEDs para representar otras cosas, con más resolución. **Iluminando** ciertos LEDs y **apagando** otros, conseguimos representar **dibujos con luz**
 
 (TODO)
 
