@@ -72,6 +72,9 @@ Nos fijamos en la **boca**. Está creada mediante **6 LEDs**, cuatro en una fila
 
 Ya sabemos cómo hacer un circuito de este tipo. Usaremos un **circuito combinacional** definido mediante su **tabla de verdad**. Como la boca puede estar en dos estados, usaremos **un único bit de entrada**, y asignaremos **0** a la **boca horizontal** y **1** a la **sonrisa**. Como necesitamos controlar **6 LEDs**, el circuito tendrá **6 bits de salida**. Esta es la **estructura** del circuito en Icestudio
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/franky-03.png)
+
+Sólo nos falta **rellenar la tabla** con los valores correctos para que se **enciendan** los LEDs adecuados en cada caso. Simplemente tenemos que  darles un nombres y decidir a qué pin de la FPGA lo vamos a conectar. Usaremos los **pines GP** de la Icezum Alhambra (3.3v) que son que ya habíamos usado para los ojos de franky
 
 (TODO)
 
