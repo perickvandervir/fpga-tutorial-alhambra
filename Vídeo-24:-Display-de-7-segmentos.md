@@ -100,11 +100,11 @@ Y este es el montaje. Se ha colocado un **pulsador externo**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/franky-08.jpg)
 
-(TOO)
+**Cargamos** el circuito y lo **probamos**
 
-(Montaje del circuito) 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/franky-09.gif)
 
-(Animación del funcionamiento)
+¡Hola Franky II!
 
 ## Visualizando los dígitos 0 y 1
 
