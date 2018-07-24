@@ -106,6 +106,8 @@ Y este es el montaje. Se ha colocado un **pulsador externo**
 
 ## Visualizando los dígitos 0 y 1
 
+Ya hemos aprendido cómo hacer "dibujos" sencillos con los LEDs. Esta técnica nos vale también para **mostrar dígitos** y mejorar así la comunicación con el usuario. En vez de dibujar sonrisas, usamos los LEDs para **dibujar dígitos**. Por ejemplo, dibujaremos los dígitos **0** y **1**
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
