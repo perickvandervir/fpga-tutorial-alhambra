@@ -127,7 +127,11 @@ Y sacamos la **tabla de verdad**
 
 Como ejemplo haremos un circuito que muestre el **dígito 0** cuando el **pulsador** externo **NO** está **apretado**, y el **dígito 1** cuando **esté pulsado**. Necesitamos un **circuito combinacional** con **una entrada** (el pulsador) y **8 bits de salida** (para los valores de los LEDs)
 
-(cto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/digitos01-5.png)
+
+(Montaje)
+
+(Animación/vídeo)
 
 (TODO)
 
