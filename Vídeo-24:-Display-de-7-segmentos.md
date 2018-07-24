@@ -108,6 +108,10 @@ Y este es el montaje. Se ha colocado un **pulsador externo**
 
 Ya hemos aprendido cómo hacer "dibujos" sencillos con los **LEDs**. Esta técnica nos vale también para **mostrar dígitos** y mejorar así la comunicación con el usuario. En vez de dibujar sonrisas, usamos los LEDs para **dibujar dígitos**. Como ejemplo, dibujaremos los dígitos **0** y **1**, usando **8 LEDs**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/digitos01-1.png)
+
+El procecedimiento ya lo conocemos. Es igual que en el anterior ejemplo. Damos **nombres a los LEDs** y elegimos a qué **pin de la FPGA** conectarlo. Usaremos las letras **a**, **b** ,**c**, **d**, **e**, **f**, **g** y **h** y los conectaremos a los pines **GP7** - **GP0** respectivamente
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
