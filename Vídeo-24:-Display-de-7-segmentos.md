@@ -92,7 +92,7 @@ Con ello ya tenemos el **circuito definitivo**. Sólo hay que rellenar la tabla 
 
 ## Ejemplo 1: Franky sonríe al apretar el pulsador
 
-Este es el circuito que hace que **Franky sonría** cuando se aprieta el **pulsador**
+Este es el circuito que hace que **Franky sonría** cuando se aprieta el **pulsador**. Además los dos ojos se mantienen encendidos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/franky-07.png)
 
