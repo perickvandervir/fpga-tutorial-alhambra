@@ -118,6 +118,10 @@ El procecedimiento ya lo conocemos. Es igual que en el anterior ejemplo. Damos *
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/digitos01-3.png)
 
+Y sacamos la **tabla de verdad**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/digitos01-4.png)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
