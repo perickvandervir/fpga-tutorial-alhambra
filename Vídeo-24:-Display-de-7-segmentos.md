@@ -112,6 +112,8 @@ Ya hemos aprendido cómo hacer "dibujos" sencillos con los **LEDs**. Esta técni
 
 El procecedimiento ya lo conocemos. Es igual que en el anterior ejemplo. Damos **nombres a los LEDs** y elegimos a qué **pin de la FPGA** conectarlo. Usaremos las letras **a**, **b** ,**c**, **d**, **e**, **f**, **g** y **h** y los conectaremos a los pines **GP7** - **GP0** respectivamente
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/digitos01-2.png)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
