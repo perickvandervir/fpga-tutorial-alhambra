@@ -96,6 +96,10 @@ Este es el circuito que hace que **Franky sonría** cuando se aprieta el **pulsa
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/franky-07.png)
 
+Y este es el montaje. Se ha colocado un ***pulsador externo**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/franky-08.jpg)
+
 (TOO)
 
 (Montaje del circuito) 
