@@ -122,6 +122,12 @@ Y sacamos la **tabla de verdad**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/digitos01-4.png)
 
+## Ejemplo 2: Mostrando los dígitos 0 y 1 con el pulsador
+
+Como ejemplo haremos un circuito que muestre el **dígito 0** cuando el **pulsador** externo **NO** está **apretado**, y el **dígito 1** cuando **esté pulsado**. Necesitamos un **circuito combinacional** con **una entrada** (el pulsador) y **8 bits de salida** (para los valores de los LEDs)
+
+(cto)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
