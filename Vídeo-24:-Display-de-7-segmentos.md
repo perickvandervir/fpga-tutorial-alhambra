@@ -114,6 +114,10 @@ El procecedimiento ya lo conocemos. Es igual que en el anterior ejemplo. Damos *
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/digitos01-2.png)
 
+**Calculamos** el valor **binario** de los LEDs para cada uno de los **dos dígitos** 
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/digitos01-3.png)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
