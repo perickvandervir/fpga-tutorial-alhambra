@@ -150,7 +150,7 @@ Aunque actualmente tenemos modos más sofisticados de mostrar la información, l
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/display-02.jpg)
 
-Pero sin duda, una de las aplicaciones más **épicas** de los 7-segmentos es en la **interfaz** de la [computadora de guiado del Apolo 11](https://es.wikipedia.org/wiki/Apollo_Guidance_Computer), la nave que llevó al primer hombre que pisó la Luna
+Pero sin duda, una de las aplicaciones más **épicas** de los 7-segmentos es en la **interfaz** de la [computadora de guiado del Apolo 11](https://es.wikipedia.org/wiki/Apollo_Guidance_Computer), la nave que llevó al **primer hombre que pisó la Luna**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/display-03.jpg)
 
