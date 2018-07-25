@@ -135,7 +135,7 @@ El **montaje** es el siguiente
 
 **Cargamos** el circuito y lo **probamos**. En esta **animación** se muestra el resultado
 
-(Animación/vídeo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/digitos01-7.gif)
 
 (TODO)
 
