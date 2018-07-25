@@ -129,7 +129,10 @@ Como ejemplo haremos un circuito que muestre el **dígito 0** cuando el **pulsad
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/digitos01-5.png)
 
-(Montaje)
+El **montaje** es el siguiente
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/digitos01-6.png)
+
 
 (Animación/vídeo)
 
