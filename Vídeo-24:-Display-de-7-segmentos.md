@@ -27,7 +27,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Visualizando los dígitos 0 y 1](#visualizando-los-d%C3%ADgitos-0-y-1)
   * [Ejemplo 2: Mostrando los dígitos 0 y 1 con el pulsador](#ejemplo-2-mostrando-los-d%C3%ADgitos-0-y-1-con-el-pulsador)
 * [Display de 7 segmentos](#displays-de-7-segmentos)
-  * [Segmentos]()
+  * [Segmentos](#segmentos)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
