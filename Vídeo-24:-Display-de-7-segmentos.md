@@ -161,6 +161,14 @@ Los **displays de 7 segmentos** están compuestos por **8 LEDs independientes**,
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/display-04.png)
 
+Según los **segmentos** que se **enciendan**, se representa un dígito u otro
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/display-05.png)
+
+Pero al tratarse de **segmentos individuales** podemos representar otras cosas, aunque no sean los dígitos del 0 al 9, como por ejemplo la letra H, E... En total hay un total de 128 combinaciones (2 elevado a 7)
+
+## Nomenclatura
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
