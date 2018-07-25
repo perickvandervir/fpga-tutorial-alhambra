@@ -133,6 +133,7 @@ El **montaje** es el siguiente
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/digitos01-6.png)
 
+**Cargamos** el circuito y lo **probamos**. En esta **animación** se muestra el resultado
 
 (Animación/vídeo)
 
