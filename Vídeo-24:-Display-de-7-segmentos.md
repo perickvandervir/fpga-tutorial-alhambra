@@ -140,7 +140,7 @@ El **montaje** es el siguiente
 
 # Displays de 7 segmentos
 
-Afortunadamente ya existe un componente que tiene los **LEDs integrados** y nos permite **dibujar** los **dígitos decimales**, del 0 al 9, fácilmente: Es el **display de 7 segmentos**
+Afortunadamente ya existe un componente que tiene los **LEDs integrados** y nos permite **dibujar** los **dígitos decimales**, del 0 al 9, fácilmente: Es el [display de 7 segmentos](https://es.wikipedia.org/wiki/Visualizador_de_siete_segmentos)
 
 (TODO)
 
@@ -263,6 +263,8 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/portada/attribution-share-alike-creative-commons-license.png)
 
 # Créditos y agradecimientos
+
+* dd
 
 # Enlaces
 
