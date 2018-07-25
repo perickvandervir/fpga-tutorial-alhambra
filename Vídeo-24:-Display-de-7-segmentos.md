@@ -157,6 +157,8 @@ Pero sin duda, una de las aplicaciones más **épicas** de los 7-segmentos es en
 
 ## Segmentos
 
+Los **displays de 7 segmentos** están compuestos por **8 LEDs independientes**, 7 de ellos tienen una forma **alargada** para representar las **líneas de los dígitos**, y uno para representar el **punto**
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
