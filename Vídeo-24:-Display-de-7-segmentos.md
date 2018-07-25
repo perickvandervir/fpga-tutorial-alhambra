@@ -137,6 +137,8 @@ El **montaje** es el siguiente
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/digitos01-7.gif)
 
+# Displays de 7 segmentos
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
