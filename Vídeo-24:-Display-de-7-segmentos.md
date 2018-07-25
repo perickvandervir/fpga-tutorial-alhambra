@@ -27,6 +27,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Visualizando los dígitos 0 y 1](#visualizando-los-d%C3%ADgitos-0-y-1)
   * [Ejemplo 2: Mostrando los dígitos 0 y 1 con el pulsador](#ejemplo-2-mostrando-los-d%C3%ADgitos-0-y-1-con-el-pulsador)
 * [Display de 7 segmentos](#displays-de-7-segmentos)
+  * [Segmentos]()
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
@@ -153,6 +154,8 @@ Aunque actualmente tenemos modos más sofisticados de mostrar la información, l
 Pero sin duda, una de las aplicaciones más **épicas** de los 7-segmentos es en la **interfaz** de la [computadora de guiado del Apolo 11](https://es.wikipedia.org/wiki/Apollo_Guidance_Computer), la nave que llevó al **primer hombre que pisó la Luna**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/display-03.jpg)
+
+## Segmentos
 
 (TODO)
 
