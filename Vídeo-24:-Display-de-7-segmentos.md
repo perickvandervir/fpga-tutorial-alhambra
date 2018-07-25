@@ -144,7 +144,11 @@ Afortunadamente ya existe un componente que tiene los **LEDs integrados** y nos 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/display-01.jpg)
 
-Se inventaron en la **década de los 60s** para mostrar números en las primeras calculadoras electrónicas. Con ellos "dibujamos" los dígitos del **0** al **9**, usando luz, igual que hemos hecho en el [ejemplo 2](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-24:-Display-de-7-segmentos#ejemplo-2-mostrando-los-d%C3%ADgitos-0-y-1-con-el-pulsador). 
+Se inventaron en la **década de los 60s** para mostrar números en las primeras calculadoras electrónicas. Con ellos "dibujamos" los dígitos del **0** al **9**, usando luz, igual que hemos hecho en el [ejemplo 2](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-24:-Display-de-7-segmentos#ejemplo-2-mostrando-los-d%C3%ADgitos-0-y-1-con-el-pulsador)
+
+Aunque actualmente tenemos modos más sofisticados de mostrar la información, los displays de 7 segmentos se siguen usando muchísimo en los aparatos electrónicos, como electrodomésticos, despertadores, etc.
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/display-02.jpg)
 
 (TODO)
 
