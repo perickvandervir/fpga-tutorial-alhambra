@@ -144,6 +144,8 @@ Afortunadamente ya existe un componente que tiene los **LEDs integrados** y nos 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/display-01.jpg)
 
+Se inventaron en la década de los 60s. Nos permiten "dibujar" los números del 0 al 9, usando luz, igual que hemos hecho en el [ejemplo 2]()
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
