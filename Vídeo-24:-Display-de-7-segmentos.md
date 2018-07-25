@@ -264,7 +264,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 # Créditos y agradecimientos
 
-* dd
+* Foto del display de 7 segmentos. CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2550283
 
 # Enlaces
 
