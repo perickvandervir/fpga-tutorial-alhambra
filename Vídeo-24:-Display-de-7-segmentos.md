@@ -140,6 +140,8 @@ El **montaje** es el siguiente
 
 # Displays de 7 segmentos
 
+Afortunadamente ya existe un componente que tiene los **LEDs integrados** y nos permite **dibujar** los **dígitos decimales**, del 0 al 9, fácilmente: Es el display de 7 segmentos
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
