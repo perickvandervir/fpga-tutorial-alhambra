@@ -194,7 +194,7 @@ Como cada **segmento** es un **LED independiente**, el **esquema de conexión** 
 
 El **esquema completo** es el siguiente
 
-(Esquema general)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-02.png)
 
 ## Utilizando protoboard
 
