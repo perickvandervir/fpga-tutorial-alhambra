@@ -179,9 +179,11 @@ Para dibujar los dígitos necesitamos **nombrar** los diferentes **segmentos**, 
 
 Los displays de 7 segmentos vienen en un encapsulado con **10 patas**, 5 en la parte **superior** y 5 en la **inferior**. En los ejemplos que visto hasta ahora, hemos trabajado con **lógica positiva**: si enviamos un **1** el segmento se **enciende**, y si enviamos un **0** se **apaga**. Los displays que funcionan de esta manera se denominan de **cátodo común**. Pero también existen los de **lógica negativa**: con un 0 se encienden y con un 1 se apagan. Se denominan de **ánodo común**. 
 
-(Dibujo patillaje)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/display-07.png)
 
-Los patillajes son iguales para ambos tipos de displays, con la diferencia de que en unos las patas del medio se conectan a **GND** y en otros a **VCC**
+Los patillajes son iguales para ambos tipos de displays, con la diferencia de que en unos las patas del medio se conectan a **GND** (cátodo común) y en otros a **VCC** (ánodo común)
+
+## Ejemplo 3: Encendiendo segmentos aislados
 
 (TODO)
 
