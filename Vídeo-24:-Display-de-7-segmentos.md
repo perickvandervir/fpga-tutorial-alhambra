@@ -30,7 +30,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Segmentos](#segmentos)
   * [Nomenclatura](#nomenclatura)
   * [Patillaje](#patillaje)
-* Conexión a la placa Icezum Alhambra
+* [Conexión a la placa Icezum Alhambra](#conexi%C3%B3n-a-la-placa-icezum-alhambra)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
