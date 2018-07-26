@@ -199,9 +199,11 @@ El **esquema completo** es el siguiente
 
 ## Display en protoboard
 
-(TODO)
+Una forma de poner el display 7 segmentos en funcionamiento es utilizando una **placa entrenadora** y realizar las **siguientes conexiones**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-03.png)
+
+(Circuito real)
 
 ## Utilizando placa soldada
 
