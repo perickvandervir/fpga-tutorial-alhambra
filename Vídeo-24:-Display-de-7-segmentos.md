@@ -203,9 +203,11 @@ Una forma de poner el display 7 segmentos en funcionamiento es utilizando una **
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-03.png)
 
-(Circuito real)
+Este es el **montaje real**:
 
-## Utilizando placa soldada
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-04.jpg)
+
+## Display en placa soldada
 
 (TODO)
 
