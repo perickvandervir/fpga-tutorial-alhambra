@@ -31,6 +31,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Nomenclatura](#nomenclatura)
   * [Patillaje](#patillaje)
 * [Conexión a la placa Icezum Alhambra](#conexi%C3%B3n-a-la-placa-icezum-alhambra)
+  * [Display en protoboard](#display-en-protoboard)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
