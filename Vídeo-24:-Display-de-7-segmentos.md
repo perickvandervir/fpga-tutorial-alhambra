@@ -186,7 +186,19 @@ Los patillajes son iguales para ambos tipos de displays, con la diferencia de qu
 
 # Conexión a la placa Icezum Alhambra
 
-Conectaremos un **display de 7 segmentos** de **cátodo común** (lógica positiva) a la **icezum Alhambra** a través de los pines de 3.3v: **GP7 - GP0**. Utilizaremos una **resistencia de 100ohm**
+Conectaremos un **display de 7 segmentos** de **cátodo común** (lógica positiva) a la **icezum Alhambra** a través de los pines de 3.3v: **GP7 - GP0**. Utilizaremos una **resistencia de 100ohm**. El **segmento a** está conectado al bit de **mayor peso** (GP7) y el **segmento g** al de **menor** (GP0)
+
+(Esquema general)
+
+## Utilizando protoboard
+
+(TODO)
+
+## Utilizando placa soldada
+
+(TODO)
+
+## Ejemplo 3: Encendiendo segmentos aislados
 
 (TODO)
 
