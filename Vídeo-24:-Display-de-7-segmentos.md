@@ -30,6 +30,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Segmentos](#segmentos)
   * [Nomenclatura](#nomenclatura)
   * [Patillaje](#patillaje)
+* Conexión a la placa Icezum Alhambra
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
@@ -183,7 +184,9 @@ Los displays de 7 segmentos vienen en un encapsulado con **10 patas**, 5 en la p
 
 Los patillajes son iguales para ambos tipos de displays, con la diferencia de que en unos las patas del medio se conectan a **GND** (cátodo común) y en otros a **VCC** (ánodo común)
 
-## Ejemplo 3: Encendiendo segmentos aislados
+# Conexión a la placa Icezum Alhambra
+
+Conectaremos un **display de 7 segmentos** de **cátodo común** (lógica positiva) a la **icezum Alhambra** a través de los pines de 3.3v: **GP7 - GP0**. Utilizaremos una **resistencia de 100ohm**
 
 (TODO)
 
