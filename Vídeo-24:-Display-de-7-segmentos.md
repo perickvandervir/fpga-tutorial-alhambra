@@ -170,6 +170,10 @@ Pero al tratarse de **segmentos individuales** podemos representar otras cosas, 
 
 ## Nomenclatura
 
+Para dibujar los dígitos necesitamos **nombrar** los diferentes **segmentos**, igual que hemos hecho en los ejemplos anteriores. La nomenclatura estándar es usar las letras **a**, **b**, **c**, **d**, **e**, **f** y **g** para los segmentos. El **punto** lo llamaremos **p**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/display-06.png)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
