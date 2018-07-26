@@ -29,7 +29,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Display de 7 segmentos](#displays-de-7-segmentos)
   * [Segmentos](#segmentos)
   * [Nomenclatura](#nomenclatura)
-  * [Patillaje]()
+  * [Patillaje](#patillaje)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
