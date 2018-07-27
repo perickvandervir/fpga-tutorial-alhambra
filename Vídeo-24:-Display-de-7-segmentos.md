@@ -37,6 +37,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 4: Encendiendo todos los segmentos y el punto](#ejemplo-4-encendiendo-todos-los-segmentos-y-el-punto)
   * [Ejemplo 5: Lamp-test con bus](#ejemplo-5-lamp-test-con-bus)
 * [Mostrando dígitos en el display](#mostrando-d%C3%ADgitos-en-el-display)
+  * [Ejemplo 6: Dígito 0](#ejemplo-6-d%C3%ADgito-0)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
