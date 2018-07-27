@@ -286,6 +286,12 @@ Estas constantes se encuentra en la colección **Academia-Jedi-HW-24** en el **m
 
 ## Dígitos decimales (0-9)
 
+(Tabla para los 10 dígitos)
+
+(Constantes de bloque)
+
+### Ejemplo 8: Seleccionando dos dígitos con un pulsador
+
 (TODO)
 
 ## Dígitos hexadecimales (A-F)
