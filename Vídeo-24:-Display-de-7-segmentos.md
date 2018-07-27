@@ -240,6 +240,8 @@ En el siguiente ejemplo haremos lo que se conoce como **prueba de lámpara** (*l
 
 Lo haremos de dos formas. Primero **encendiendo individualmente** todos los segmentos, y el punto, conectándolos a **bits a 1** (como en el ejemplo anterior)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-09.png)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
