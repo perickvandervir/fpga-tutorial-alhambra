@@ -258,6 +258,8 @@ Ahora es **muy fácil** introducir valores en el **parámetro** de los 7 segment
 
 # Mostrando dígitos en el display
 
+Para **mostrar digitos** o cualquier otro dibujo en el display, sólo tenemos que determinar qué **segmentos** queremos **encender** y calcular su **valor de 7 bits**. Tendremos un número asociado a cada uno de los dibujos
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
