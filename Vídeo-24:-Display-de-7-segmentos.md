@@ -236,7 +236,7 @@ Se deja como **ejercicio** el encender los diferentes segmentos para probarlos. 
 
 ## Ejemplo 4: Encendiendo todos los segmentos y el punto
 
-
+(TODO)
 
 # Ejercicios propuestos (X BitPoints)
 
