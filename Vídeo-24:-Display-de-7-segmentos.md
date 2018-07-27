@@ -33,6 +33,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Conexión a la placa Icezum Alhambra](#conexi%C3%B3n-a-la-placa-icezum-alhambra)
   * [Display en protoboard](#display-en-protoboard)
   * [Display en placa soldada](#display-en-placa-soldada)
+  * [Ejemplo 3: Encendiendo segmentos aislados](#ejemplo-3-encendiendo-segmentos-aislados)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
@@ -221,6 +222,8 @@ Esta es la placa conectada a la **Icezum Alhambra**, con **todos los segmentos e
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-06.jpg)
 
 ## Ejemplo 3: Encendiendo segmentos aislados
+
+![]()
 
 (TODO)
 
