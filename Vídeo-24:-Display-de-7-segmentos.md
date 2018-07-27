@@ -302,7 +302,7 @@ En este ejemplo se muestra el **dígito 3** a partir de su **bloque constante**.
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-07.png)
 
-Están disponibles el resto de bloques para hacer pruebas. Sólo hay que **arrastrarlos** y ponerlos encima del que esté conectado para visualizarlo en el display, como se muestra en esta **animación**
+Están disponibles el **resto de bloques** para hacer pruebas. Sólo hay que **arrastrarlos** y ponerlos encima del que esté conectado para visualizarlo en el display, como se muestra en esta **animación**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-08.gif)
 
