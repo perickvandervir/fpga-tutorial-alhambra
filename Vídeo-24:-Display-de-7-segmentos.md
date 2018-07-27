@@ -234,7 +234,7 @@ Lo **cargamos** y lo **probamos**
 
 Se deja como **ejercicio** el encender los diferentes segmentos para probarlos. ¿Qué segmentos hay que encender para representar el dígito 1?
 
-## Ejemplo 4: Encendiendo todos los segmentos
+## Ejemplo 4: Encendiendo todos los segmentos y el punto
 
 
 
