@@ -278,9 +278,9 @@ Lo **cargamos** y lo **probamos**. ¡Ahí tenemos nuestro 0!
 
 ### Ejemplo 7: Dígito 0 desde constante en bloque
 
-(TODO)
+El valor de **7 bits** para representar el **dígito 0** lo podemos convertir en un **bloque constante**, por lo que el ejemplo 6 quedaría reducido a este **circuito**
 
-(Bloque constante, con el dígito 0 para el 7-seg)
+(TODO)
 
 ## Dígitos decimales (0-9)
 
