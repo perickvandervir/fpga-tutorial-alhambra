@@ -238,13 +238,15 @@ Se deja como **ejercicio** el encender los diferentes segmentos para probarlos. 
 
 En el siguiente ejemplo haremos lo que se conoce como **prueba de lámpara** (*lamp test*) que consiste en **encender todos los LEDs** para verificar que están operativos. Se usa mucho para comprobar si un montaje está bien conectado
 
-Lo haremos de dos formas. Primero **encendiendo individualmente** todos los segmentos, y el punto, conectándolos a **bits a 1** (como en el ejemplo anterior)
+**Encenderemos individualmente** todos los segmentos, y el punto, conectándolos a **bits a 1** (como en el ejemplo anterior)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-09.png)
 
 Lo **cargamos** y lo **probamos**. ¡*Lamp test* pasado! :-)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-10.jpg)
+
+## Ejemplo 5: Lamp-test con bus
 
 (TODO)
 
