@@ -227,7 +227,15 @@ Los displays de 7 segmentos en realidad son **LEDs independientes**, con forma d
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-07.png)
 
-(TODO)
+Lo **cargamos** y lo **probamos**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-08.jpg)
+
+Se deja como **ejercicio** el encender los diferentes segmentos para probarlos. ¿Qué segmentos hay que encender para representar el dígito 1?
+
+## Ejemplo 4: Encendiendo todos los segmentos
+
+
 
 # Ejercicios propuestos (X BitPoints)
 
