@@ -303,9 +303,7 @@ En este ejemplo se muestra el **dígito 3** a partir de su **bloque constante**.
 
 (Animación)
 
-(Constantes de bloque)
-
-### Ejemplo 8: Seleccionando dos dígitos con un pulsador
+### Ejemplo 9: Seleccionando dos dígitos con un pulsador
 
 (TODO)
 
