@@ -271,6 +271,10 @@ El **circuito** en Icestudio es el siguiente
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-02.png)
 
+Lo **cargamos** y lo **probamos**. ¡Ahí tenemos nuestro 0!
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-03.jpg)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
