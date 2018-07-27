@@ -279,6 +279,18 @@ Lo **cargamos** y lo **probamos**. ¡Ahí tenemos nuestro 0!
 
 (Bloque constante, con el dígito 0 para el 7-seg)
 
+## Dígitos decimales (0-9)
+
+(TODO)
+
+## Dígitos hexadecimales (A-F)
+
+(TODO)
+
+## Letras
+
+(TODO)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
