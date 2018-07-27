@@ -40,6 +40,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 6: Dígito 0](#ejemplo-6-d%C3%ADgito-0)
     * [Ejemplo 7: Dígito 0 desde constante en bloque](#ejemplo-7-d%C3%ADgito-0-desde-constante-en-bloque)
   * [Dígitos decimales 0-9](#d%C3%ADgitos-decimales-0-9)
+    * [Ejemplo 8: Probando los dígitos con bloques](#ejemplo-8-probando-los-d%C3%ADgitos-con-bloques)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
