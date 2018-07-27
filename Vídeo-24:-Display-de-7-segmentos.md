@@ -242,6 +242,10 @@ Lo haremos de dos formas. Primero **encendiendo individualmente** todos los segm
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-09.png)
 
+Lo **cargamos** y lo **probamos**. ¡*Lamp test* pasado! :-)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-10.jpg)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
