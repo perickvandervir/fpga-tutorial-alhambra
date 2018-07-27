@@ -280,7 +280,9 @@ Lo **cargamos** y lo **probamos**. ¡Ahí tenemos nuestro 0!
 
 El valor de **7 bits** para representar el **dígito 0** lo podemos convertir en un **bloque constante**, por lo que el ejemplo 6 quedaría reducido a este **circuito**
 
-(TODO)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-04.png)
+
+Estas constantes se encuentra en la colección **Academia-Jedi-HW-24** en el **menú Const/7Seg**
 
 ## Dígitos decimales (0-9)
 
