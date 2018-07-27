@@ -267,6 +267,10 @@ Comenzaremos mostrando el **dígito 0** en el Display. Para lograrlo, hay que en
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-01.png)
 
+El **circuito** en Icestudio es el siguiente
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-02.png)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
