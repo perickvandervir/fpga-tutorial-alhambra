@@ -214,7 +214,7 @@ La otra forma es **soldar el circuito** en una placa. Esta es una opción mejor 
 
 En la parte superior se ha colocado un **conector** con **pines machos** acodados, dividido en dos. En la izquierda están los **7 pines** para controlar los **segmentos**, colocados en el orden **abcdefg**. En la derecha hay **dos pines**, uno para el **punto** y el otro para **GND**
 
-(Foto placa)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-05.png)
 
 (Foto montaje)
 
