@@ -236,6 +236,10 @@ Se deja como **ejercicio** el encender los diferentes segmentos para probarlos. 
 
 ## Ejemplo 4: Encendiendo todos los segmentos y el punto
 
+En el siguiente ejemplo haremos lo que se conoce como **prueba de lámpara** (*lamp test*) que consiste en **encender todos los LEDs** para verificar que están operativos. Se usa mucho para comprobar si un montaje está bien conectado
+
+Lo haremos de dos formas. Primero **encendiendo individualmente** todos los segmentos, y el punto, conectándolos a **bits a 1** (como en el ejemplo anterior)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
