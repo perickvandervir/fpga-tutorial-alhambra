@@ -204,11 +204,19 @@ Una forma de poner el display 7 segmentos en funcionamiento es utilizando una **
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-03.png)
 
-Este es el **montaje real**:
+Esta es una opción muy útil para hacer pruebas rápidas y aprender a manejar el display. El **montaje real** es el siguiente:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-04.jpg)
 
 ## Display en placa soldada
+
+La otra forma es **soldar el circuito** en una placa. Esta es una opción mejor para nuestros proyectos, ya que todo es más sólido y es mucho más fácil hacer demostraciones
+
+En la parte superior se ha colocado un **conector** con **pines machos** acodados, dividido en dos. En la izquierda están los **7 pines** para controlar los **segmentos**, colocados en el orden **abcdefg**. En la derecha hay **dos pines**, uno para el **punto** y el otro para **GND**
+
+(Foto placa)
+
+(Foto montaje)
 
 (TODO)
 
