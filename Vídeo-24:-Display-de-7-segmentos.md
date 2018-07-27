@@ -210,7 +210,7 @@ Esta es una opción muy útil para hacer pruebas rápidas y aprender a manejar e
 
 ## Display en placa soldada
 
-La otra forma es **soldar el circuito** en una placa. Esta es una opción mejor para nuestros proyectos, ya que todo es más sólido y es mucho más fácil hacer demostraciones
+La otra forma es **soldar el circuito** en una placa. Esta es una opción mejor para nuestros proyectos, ya que todo es más **sólido** y es mucho más **fácil** hacer demostraciones
 
 En la parte superior se ha colocado un **conector** con **pines machos** acodados, dividido en dos. En la izquierda están los **7 pines** para controlar los **segmentos**, colocados en el orden **abcdefg**. En la derecha hay **dos pines**, uno para el **punto** y el otro para **GND**
 
