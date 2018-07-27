@@ -291,7 +291,10 @@ Repetimos el proceso anterior, con el resto de dígitos decimales (0-9), y obten
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-05.png)
 
-(Tabla para los 10 dígitos)
+Que se **resumen** en esta **tabla**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-06.png)
+
 
 (Constantes de bloque)
 
