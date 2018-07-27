@@ -34,6 +34,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Display en protoboard](#display-en-protoboard)
   * [Display en placa soldada](#display-en-placa-soldada)
   * [Ejemplo 3: Encendiendo segmentos aislados](#ejemplo-3-encendiendo-segmentos-aislados)
+  * [Ejemplo 4: Encendiendo todos los segmentos y el punto](#ejemplo-4-encendiendo-todos-los-segmentos)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
