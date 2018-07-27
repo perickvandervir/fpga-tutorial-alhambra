@@ -39,6 +39,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Mostrando dígitos en el display](#mostrando-d%C3%ADgitos-en-el-display)
   * [Ejemplo 6: Dígito 0](#ejemplo-6-d%C3%ADgito-0)
     * [Ejemplo 7: Dígito 0 desde constante en bloque](#ejemplo-7-d%C3%ADgito-0-desde-constante-en-bloque)
+  * [Dígitos decimales 0-9](#d%C3%ADgitos-decimales-0-9)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
