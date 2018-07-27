@@ -223,7 +223,7 @@ Esta es la placa conectada a la **Icezum Alhambra**, con **todos los segmentos e
 
 ## Ejemplo 3: Encendiendo segmentos aislados
 
-Los displays de 7 segmentos en realidad son **LEDs independientes**, con forma de **segmento** y **punto**. Como primer ejemplo vamos a encendere dos segmentos, el **a** (superior) y el **b** (inferior). Simplemente sacamos un **bit a 1** por los pines **GP6** y **GP4**
+Los displays de 7 segmentos en realidad son **LEDs independientes**, con forma de **segmento** y **punto**. Como primer ejemplo vamos a encendere dos segmentos, el **a** (superior) y el **d** (inferior). Simplemente sacamos un **bit a 1** por los pines **GP6** y **GP3**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-07.png)
 
