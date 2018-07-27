@@ -260,6 +260,12 @@ Ahora es **muy fácil** introducir valores en el **parámetro** de los 7 segment
 
 Para **mostrar digitos** o cualquier otro dibujo en el display, sólo tenemos que determinar qué **segmentos** queremos **encender** y calcular su **valor de 7 bits**. Tendremos un número asociado a cada uno de los dibujos
 
+## Ejemplo 6: Dígito 0
+
+Comenzaremos mostrando el **dígito 0** en el Display. Para lograrlo, hay que encender todos los segmentos salvo el **g**, que debe estar apagado. Por tanto, el número a enviar es el **1111110** binario o el **7E** en hexadecimal
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-01.png)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
