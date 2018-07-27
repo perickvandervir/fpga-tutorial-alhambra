@@ -249,7 +249,11 @@ Lo **cargamos** y lo **probamos**. ¡*Lamp test* pasado! :-)
 
 ## Ejemplo 5: Lamp-test con bus
 
-(TODO)
+Para activar los segmentos, es más cómodo utilizar un **bus de 7 bits** y enviar directamente el **número** que hace que se enciendan los segmentos. Para encenderlos todos, basta con enviar el número binario 1111111, que es el 7F en hexadecimal, o el 127 en decimal. El **punto** se controla mediante **1 bit**, colocando el valor del bit en su parámetro
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-11.png)
+
+Ahora es **muy fácil** introducir valores en el **parámetro** de los 7 segmentos para mostrar **diferentes dígitos**
 
 # Ejercicios propuestos (X BitPoints)
 
