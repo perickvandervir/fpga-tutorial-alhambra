@@ -216,9 +216,9 @@ En la parte superior se ha colocado un **conector** con **pines machos** acodado
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-05.png)
 
-(Foto montaje)
+Esta es la placa conectada a la **Icezum Alhambra**, con **todos los segmentos encendidos** para comprobarlos
 
-(TODO)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/conexion-06.jpg)
 
 ## Ejemplo 3: Encendiendo segmentos aislados
 
