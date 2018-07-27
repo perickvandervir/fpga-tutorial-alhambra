@@ -255,6 +255,10 @@ Para activar los segmentos, es más cómodo utilizar un **bus de 7 bits** y envi
 
 Ahora es **muy fácil** introducir valores en el **parámetro** de los 7 segmentos para mostrar **diferentes dígitos**
 
+# Mostrando dígitos en el display
+
+(TODO)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
