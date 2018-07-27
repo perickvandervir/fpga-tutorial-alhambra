@@ -298,11 +298,13 @@ Que se **resumen** en esta **tabla**
 
 ### Ejemplo 8: Probando los dígitos con bloques
 
-En este ejemplo se muestra el **dígito 3** a partir de su **bloque constante**. Están disponibles el resto de bloques para hacer pruebas. Sólo hay que **arrastrarlos** y ponerlos encima del que esté conectado para visualizarlo en el display
+En este ejemplo se muestra el **dígito 3** a partir de su **bloque constante**. 
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-07.png)
 
-(Animación)
+Están disponibles el resto de bloques para hacer pruebas. Sólo hay que **arrastrarlos** y ponerlos encima del que esté conectado para visualizarlo en el display, como se muestra en esta **animación**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-08.gif)
 
 ### Ejemplo 9: Seleccionando dos dígitos con un pulsador
 
