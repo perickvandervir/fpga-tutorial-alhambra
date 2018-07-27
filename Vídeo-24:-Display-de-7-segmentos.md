@@ -287,6 +287,10 @@ Estas constantes se encuentra en la colección **Academia-Jedi-HW-24** en el **m
 
 ## Dígitos decimales (0-9)
 
+Repetimos el proceso anterior, con el resto de dígitos decimales (0-9), y obtener así todos los **valores de activación**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-05.png)
+
 (Tabla para los 10 dígitos)
 
 (Constantes de bloque)
