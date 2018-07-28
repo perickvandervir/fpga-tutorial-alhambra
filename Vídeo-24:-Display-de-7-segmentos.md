@@ -41,6 +41,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Ejemplo 7: Dígito 0 desde constante en bloque](#ejemplo-7-d%C3%ADgito-0-desde-constante-en-bloque)
   * [Dígitos decimales 0-9](#d%C3%ADgitos-decimales-0-9)
     * [Ejemplo 8: Probando los dígitos con bloques](#ejemplo-8-probando-los-d%C3%ADgitos-con-bloques)
+    * [Ejemplo 9: Seleccionando dos dígitos con un interruptor](#ejemplo-9-seleccionando-dos-d%C3%ADgitos-con-un-interruptor)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
@@ -308,7 +309,7 @@ Están disponibles el **resto de bloques** para hacer pruebas. Sólo hay que **a
 
 ### Ejemplo 9: Seleccionando dos dígitos con un interruptor
 
-Usando un interruptor externo, mostraremos en el display los **dígitos 7** y **9**. Sólo tenemos que colocar los dos **bloques constantes** 7 y 9 y usar un **multiplexor de 7 bits** para seleccionar qué valor enviar a los pines del display
+Usando un **interruptor externo**, mostraremos en el display los **dígitos 7** y **9**. Sólo tenemos que colocar los dos **bloques constantes** 7 y 9 y usar un **multiplexor de 7 bits** para seleccionar qué valor enviar a los pines del display
 
 (mux de bits)
 (Circuito en icetudio)
