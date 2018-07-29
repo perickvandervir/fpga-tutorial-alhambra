@@ -341,9 +341,12 @@ Lo **cargamos** y lo **probamos**
 
 ## Letras
 
+Letras: a,b,c,d,e,f,g,h,i,j,l,n,ñ,o,p,q,r,s,u,y: 20: 4x5
+
+https://es.wikipedia.org/wiki/Visualizador_de_siete_segmentos
 (TODO)
 
-# Controladores para el display
+# Decodificadores
 
 (TODO)
 
