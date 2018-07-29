@@ -331,7 +331,7 @@ Se resumen en esta **tabla**
 
 ### Ejemplo 10: Probando los dígitos hexadecimales con bloques
 
-En este ejemplo se muestra el **dígito E** a partir de su **bloque constante**
+En este ejemplo se muestra el **dígito E** a partir de su **bloque constante**, junto al resto de bloques disponibles
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-13.png)
 
