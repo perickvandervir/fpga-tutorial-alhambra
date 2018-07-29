@@ -320,6 +320,14 @@ Lo **cargamos** y lo **probamos**
 
 ## Dígitos hexadecimales (A-F)
 
+https://es.wikipedia.org/wiki/Visualizador_de_siete_segmentos
+
+(digitos)
+
+(tabla)
+
+(bloques constantes?)
+
 (TODO)
 
 ## Letras
