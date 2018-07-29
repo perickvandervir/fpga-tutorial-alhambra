@@ -42,6 +42,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Dígitos decimales 0-9](#d%C3%ADgitos-decimales-0-9)
     * [Ejemplo 8: Probando los dígitos con bloques](#ejemplo-8-probando-los-d%C3%ADgitos-con-bloques)
     * [Ejemplo 9: Seleccionando dos dígitos con un interruptor](#ejemplo-9-seleccionando-dos-d%C3%ADgitos-con-un-interruptor)
+  * [Dígitos hexadecimales: A-F](#d%C3%ADgitos-hexadecimales-a-f)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
