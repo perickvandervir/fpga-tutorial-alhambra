@@ -320,9 +320,10 @@ Lo **cargamos** y lo **probamos**
 
 ## Dígitos hexadecimales (A-F)
 
-https://es.wikipedia.org/wiki/Visualizador_de_siete_segmentos
+Con los displays de 7 segmentos también se pueden visualizar **dígitos hexadecimales**. Los dígitos del 0 al 9 ya los tenemos. Nos faltan los del **A** a la **F**. Calculamos sus valores:
 
-(digitos)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-11.png)
+
 
 (tabla)
 
