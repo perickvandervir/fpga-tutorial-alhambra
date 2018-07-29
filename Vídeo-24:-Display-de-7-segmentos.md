@@ -337,9 +337,7 @@ En este ejemplo se muestra el **dígito E** a partir de su **bloque constante**,
 
 Lo **cargamos** y lo **probamos**
 
-(foto)
-
-(TODO)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-14.jpg)
 
 ## Letras
 
