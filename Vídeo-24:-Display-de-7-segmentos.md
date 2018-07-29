@@ -324,8 +324,9 @@ Con los displays de 7 segmentos también se pueden visualizar **dígitos hexadec
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-11.png)
 
+Se resumen en esta **tabla**
 
-(tabla)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-12.png)
 
 (bloques constantes?)
 
