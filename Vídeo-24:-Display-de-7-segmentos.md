@@ -313,9 +313,9 @@ Usando un **interruptor externo**, mostraremos en el display los **dígitos 7** 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-09.png)
 
-(Animación)
+Lo **cargamos** y lo **probamos**
 
-(TODO)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-10.gif)
 
 ## Dígitos hexadecimales (A-F)
 
