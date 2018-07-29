@@ -311,8 +311,8 @@ Están disponibles el **resto de bloques** para hacer pruebas. Sólo hay que **a
 
 Usando un **interruptor externo**, mostraremos en el display los **dígitos 7** y **9**. Sólo tenemos que colocar los dos **bloques constantes** 7 y 9 y usar un **multiplexor de 7 bits** para seleccionar qué valor enviar a los pines del display
 
-(mux de 7bits)
-(Circuito en icetudio)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-09.png)
+
 (Animación)
 
 (TODO)
