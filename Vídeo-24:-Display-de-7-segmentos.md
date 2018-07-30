@@ -364,7 +364,11 @@ Lo **cargamos** y lo **probamos**
 
 # Decodificadores
 
-(TODO)
+Aunque podemos representar diferentes formas en el display, típicamente se usa para **mostrar números**. Para ello se usan unos **circuitos combinacionales**, llamados **decodificadores**. Por su entrada llega un **número binario**, de varios bits, y por la salida se obtienen los **7 bits** para activar los segmentos correspondientes al número de entrada. Se denominan **decodificadores BCD a 7 segmentos**
+
+Para representar los **dígitos del 0 al 9** se nececitan **4 bits**. Por ello, los decodificadores típicos BCD a 7 segmentos tiene **4 bits de entrada** y **7 de salida**
+
+Pero nos puede interesar visualizar números de **menos de 4 bits**. Empezaremos por el más sencillo: el **displayBit**, que muestra el dígito decimal 0 ó 1 correspondiente al bit de entrada
 
 ## DisplayBit
 
