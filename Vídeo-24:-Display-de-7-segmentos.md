@@ -342,9 +342,12 @@ Lo **cargamos** y lo **probamos**
 
 ## Letras
 
-Letras: a,b,c,d,e,f,g,h,i,j,l,n,ñ,o,p,q,r,s,u,y: 20: 4x5
+También se pueden **representar letras** en los displays de 7 segmentos. En [este enlace de la wikipedia](https://es.wikipedia.org/wiki/Visualizador_de_siete_segmentos) se muestra la representación de todo el **alfabeto latino**. Sin embargo, algunos caracteres son poco intuitivos. Aquí mostramos los **20** caracteres que son bastante reconocibles: a,b,c,d,e,f,g,h,i,j,l,n,ñ,o,p,q,r,s,u,y
 
-https://es.wikipedia.org/wiki/Visualizador_de_siete_segmentos
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-15.png)
+
+Y en esta tabla se **resumen** sus valores
+
 (TODO)
 
 # Decodificadores
