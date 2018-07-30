@@ -47,6 +47,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Letras](#letras)
     * [Ejemplo 11: Probando las letras con bloques](#ejemplo-11-probando-las-letras-con-bloques)
 * [Decodificadores](#decodificadores)
+  * [DisplayBit](h#displaybit)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
