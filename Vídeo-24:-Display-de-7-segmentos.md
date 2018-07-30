@@ -350,6 +350,17 @@ Y en esta tabla se **resumen** sus valores
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-16.png)
 
+### Ejemplo 11: Probando las letras con bloques
+
+En este ejemplo se muestra la **letra J** a partir de su **bloque constante**, junto al resto de bloques disponibles
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-17.png)
+
+Lo **cargamos** y lo **probamos**
+
+![]()
+
+
 (TODO)
 
 # Decodificadores
