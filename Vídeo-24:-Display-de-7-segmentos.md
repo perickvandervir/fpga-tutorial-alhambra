@@ -46,6 +46,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Ejemplo 10: probando los dígitos hexadecimales con bloques](#ejemplo-10-probando-los-d%C3%ADgitos-hexadecimales-con-bloques)
   * [Letras](#letras)
     * [Ejemplo 11: Probando las letras con bloques](#ejemplo-11-probando-las-letras-con-bloques)
+* [Decodificadores](#decodificadores)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
