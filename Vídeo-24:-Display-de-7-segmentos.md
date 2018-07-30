@@ -348,6 +348,8 @@ También se pueden **representar letras** en los displays de 7 segmentos. En [es
 
 Y en esta tabla se **resumen** sus valores
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-16.png)
+
 (TODO)
 
 # Decodificadores
