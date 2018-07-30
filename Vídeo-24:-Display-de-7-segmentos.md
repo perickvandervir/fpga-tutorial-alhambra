@@ -359,10 +359,7 @@ En este ejemplo se muestra la **letra J** a partir de su **bloque constante**, j
 
 Lo **cargamos** y lo **probamos**
 
-![]()
-
-
-(TODO)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejemplos-digitos-18.jpg)
 
 # Decodificadores
 
