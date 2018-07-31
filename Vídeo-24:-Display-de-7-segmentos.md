@@ -381,6 +381,8 @@ Lo diseñamos a partir de una **tabla de verdad**, con un bit de entrada y 7 de 
 
 Mostraremos en el display el **estado de un sensor de IR**. Cuando **no detecta** ningún objeto, el sensor devuelve un **0**, por lo que se visualizará en el display el **dígito 0**. Al **detectar** un objeto devuelve un **1** y se visualiza el **dígito 1**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-01.png)
+
 (cto)
 
 (TODO)
