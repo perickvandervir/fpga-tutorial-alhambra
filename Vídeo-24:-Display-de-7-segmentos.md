@@ -412,7 +412,7 @@ Este es el mismo ejemplo 12 pero implementado con este decodificador
 
 (TODO)
 
-## Display2
+## DisplayBit2
 
 (TODO)
 
