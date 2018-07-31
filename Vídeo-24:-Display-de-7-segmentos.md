@@ -386,7 +386,13 @@ Mostraremos en el display el **estado de un sensor de IR**. Cuando **no detecta*
 
 El **montaje** es el siguiente
 
-(Foto cto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-02.jpg)
+
+Lo **cargamos** y lo **probamos**. En este **vídeo** se puede ver en funcionamiento
+
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
 
 (Vídeo)
 
