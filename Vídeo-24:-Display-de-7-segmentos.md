@@ -55,6 +55,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Ejemplo 13: Cuenta cíclica de 0 a 3](#ejemplo-13-cuenta-c%C3%ADclica-de-0-a-3)
   * [DisplayBit3](#displaybit3)
     * [Ejemplo 14: Conversión de binario a decimal](#ejemplo-14-conversi%C3%B3n-de-binario-a-decimal)
+  * [DisplayDec](#displaydec)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
