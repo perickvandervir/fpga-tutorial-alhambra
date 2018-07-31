@@ -53,6 +53,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Bloque DisplayBit](#bloque-displaybit)
   * [DisplayBit2](#displaybit2)
     * [Ejemplo 13: Cuenta cíclica de 0 a 3](#ejemplo-13-cuenta-c%C3%ADclica-de-0-a-3)
+  * [DisplayBit3](#displaybit3)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
