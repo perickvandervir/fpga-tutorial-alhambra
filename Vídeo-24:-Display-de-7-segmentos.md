@@ -422,6 +422,13 @@ Se usan dos **corazones** de periodos 2 y 4 segundos para mostrar una **cuenta c
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-05.png)
 
+Lo **cargamos** y lo **probamos**. En este **vídeo** se puede ver en acción:
+
+[![Click to see the youtube video](http://img.youtube.com/vi/nUOlFrh3aeQ/0.jpg)](https://www.youtube.com/watch?v=nUOlFrh3aeQ)
+
+(Mismo ejemplo pero con el bloque DisplayBit2)
+
+
 (TODO)
 
 ## DisplayDec
