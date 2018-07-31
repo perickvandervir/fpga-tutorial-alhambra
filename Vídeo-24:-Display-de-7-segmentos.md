@@ -51,7 +51,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Ejemplo 12: Mostrando el estado de un sensor IR en el display](#ejemplo-12-mostrando-el-estado-de-un-sensor-ir-en-el-display)
     * [Tablas en binario y hexadecimal](#tablas-en-binario-y-hexadecimal)
     * [Bloque DisplayBit](#bloque-displaybit)
-  * [DisplayBit2](h#displaybit2)
+  * [DisplayBit2](#displaybit2)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
