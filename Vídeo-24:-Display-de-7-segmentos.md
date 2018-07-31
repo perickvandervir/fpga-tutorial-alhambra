@@ -373,6 +373,16 @@ Pero nos puede interesar visualizar números de **menos de 4 bits**. Empezaremos
 
 ## DisplayBit
 
+El **decodificador** más sencillo es el que llamaremos **DisplayBit**. Sólo tiene **un bit de entrada** y nos permite visualizar en el display los **dígitos 0** y **1** correspondientes al estado del bit de entrada
+
+Lo diseñamos a partir de una **tabla de verdad**, con un bit de entrada y 7 de salida. A partir del tutorial 24 las tablas se pueden rellenar bien en **hexadecimal** o en **binario**
+
+### Ejemplo 12: Mostrando el estado de un sensor IR en el display 
+
+Mostraremos en el display el **estado de un sensor de IR**. Cuando **no detecta** ningún objeto, el sensor devuelve un **0**, por lo que se visualizará en el display el **dígito 0**. Al **detectar** un objeto devuelve un **1** y se visualiza el **dígito 1**
+
+(cto)
+
 (TODO)
 
 ## Display2
