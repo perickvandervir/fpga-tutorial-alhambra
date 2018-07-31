@@ -410,9 +410,15 @@ Este es el mismo ejemplo 12 pero implementado con este decodificador
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-04.png)
 
-(TODO)
-
 ## DisplayBit2
+
+El decodificador **DisplayBit2** tiene **2 bits** de entrada y **7 de salida**. Permite mostrar en el display números de 2 bits. Los **dígitos** que se muestran son: **0**, **1**, **2** y **3**
+
+### Ejemplo 13: Cuenta cíclica de 0 a 3
+
+Se usan dos corazones de periodo 2 y 4 segundos para mostrar una **cuenta cíclica** en la que se muestran los **dígitos** del **0** al **3**. Se ha implementado con una **tabla de verdad** hexadecimal de 2 bits de entrada y 7 de salida
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-05.png)
 
 (TODO)
 
