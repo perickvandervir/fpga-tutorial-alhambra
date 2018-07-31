@@ -435,6 +435,16 @@ Este **decodificador** lo metemos dentro de un **bloque**. Este es el mismo ejem
 
 El decodificador **DisplayBit3** tiene **3 bits** de entrada y 7 de salida, y permite visualizar los **dígitos del 0** al **7**
 
+### Ejemplo 14: Conversión de binario a decimal
+
+En este ejemplo colocamos **3 interruptores externos** por los que se introduce un número en **binario** y por el display se muestra el número en **decimal**
+
+(Circuito)
+
+(Montaje)
+
+(Vídeo)
+
 (TODO)
 
 ## DisplayDec
