@@ -430,6 +430,10 @@ Este **decodificador** lo metemos dentro de un **bloque**. Este es el mismo ejem
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-06.png)
 
+## DisplayBit3
+
+(TODO)
+
 ## DisplayDec
 
 (TODO)
