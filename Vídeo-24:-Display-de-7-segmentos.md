@@ -404,6 +404,12 @@ Este es el mismo **ejemplo 12**, pero implementando con una **tabla en binario**
 
 ### Bloque DisplayBit
 
+Para hacer **más fácil** el uso del **controlador DisplayBit**, se ha incluido en un **bloque** dentro de la **colección 24**. Está disponible en el menú **Comb/Decodificadores/7Seg/Cátodo_común/DisplayBit**
+
+Este es el mismo ejemplo 12 pero implementado con este decodificador
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-04.png)
+
 (TODO)
 
 ## Display2
