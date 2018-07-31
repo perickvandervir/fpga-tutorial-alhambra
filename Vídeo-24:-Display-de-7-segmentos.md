@@ -390,12 +390,7 @@ El **montaje** es el siguiente
 
 Lo **cargamos** y lo **probamos**. En este **vídeo** se puede ver en funcionamiento
 
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-
-(Vídeo)
-
+[![Click to see the youtube video](http://img.youtube.com/vi/boXZusFCCIU/0.jpg)](https://www.youtube.com/watch?v=boXZusFCCIU)
 
 (TODO)
 
