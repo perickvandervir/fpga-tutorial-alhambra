@@ -392,6 +392,13 @@ Lo **cargamos** y lo **probamos**. En este **vídeo** se puede ver en funcionami
 
 [![Click to see the youtube video](http://img.youtube.com/vi/boXZusFCCIU/0.jpg)](https://www.youtube.com/watch?v=boXZusFCCIU)
 
+### Tablas en binario y hexadecimal
+
+A partir del 31 de Julio de 2018, [Jesús Arroyo](https://github.com/Obijuan/iceFactory/pull/2) ha incluido en la [fábrica de tablas de Icestudio](https://obijuan.github.io/iceFactory/icetable/icetable.html) la posibilidad de generar tablas con contenido **binario** o **hexadecimal**
+
+Este es el mismo **ejemplo 12**, pero implementando con una **tabla en binario**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-03.png)
 
 (TODO)
 
