@@ -433,6 +433,8 @@ Este **decodificador** lo metemos dentro de un **bloque**. Este es el mismo ejem
 
 ## DisplayBit3
 
+El decodificador **DisplayBit3** tiene **3 bits** de entrada y 7 de salida, y permite visualizar los **dígitos del 0** al **7**
+
 (TODO)
 
 ## DisplayDec
