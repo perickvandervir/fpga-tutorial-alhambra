@@ -52,6 +52,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Tablas en binario y hexadecimal](#tablas-en-binario-y-hexadecimal)
     * [Bloque DisplayBit](#bloque-displaybit)
   * [DisplayBit2](#displaybit2)
+    * [Ejemplo 13: Cuenta cíclica de 0 a 3](h#ejemplo-13-cuenta-c%C3%ADclica-de-0-a-3)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
