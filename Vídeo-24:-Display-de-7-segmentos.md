@@ -446,7 +446,7 @@ Este es el **montaje**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-09.jpg)
 
-Lo **cargamos** y lo **probamos**
+Lo **cargamos** y lo **probamos**. En este **vídeo** lo vemos en acción
 
 [![Click to see the youtube video](http://img.youtube.com/vi/W0V5RZ-waZg/0.jpg)](https://www.youtube.com/watch?v=W0V5RZ-waZg)
 
