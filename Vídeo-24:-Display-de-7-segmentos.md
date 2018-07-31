@@ -448,7 +448,9 @@ Este es el **montaje**:
 
 Lo **cargamos** y lo **probamos**
 
-(Vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/W0V5RZ-waZg/0.jpg)](https://www.youtube.com/watch?v=W0V5RZ-waZg)
+
+(DisplayBit3)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-07.png)
 
