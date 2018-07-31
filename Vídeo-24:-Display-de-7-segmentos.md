@@ -440,6 +440,12 @@ El decodificador **DisplayBit3** tiene **3 bits** de entrada y 7 de salida, y pe
 
 En este ejemplo colocamos **3 interruptores externos** por los que se introduce un número en **binario** y por el display se muestra el número en **decimal**
 
+
+
+
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-07.png)
+
 (Circuito)
 
 (Montaje)
