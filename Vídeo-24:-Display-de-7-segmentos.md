@@ -401,6 +401,8 @@ Este es el mismo **ejemplo 12**, pero implementando con una **tabla en binario**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-03.png)
 
+### Bloque DisplayBit
+
 (TODO)
 
 ## Display2
