@@ -444,7 +444,7 @@ En este ejemplo colocamos **3 interruptores externos** por los que se introduce 
 
 Este es el **montaje**:
 
-(montaje)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-09.jpg)
 
 (Vídeo)
 
