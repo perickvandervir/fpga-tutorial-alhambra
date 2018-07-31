@@ -388,9 +388,10 @@ El **montaje** es el siguiente
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-02.jpg)
 
-Lo **cargamos** y lo **probamos**. En este **vídeo** se puede ver en funcionamiento
+Lo **cargamos** y lo **probamos**. En este **vídeo** se puede ver en funcionamiento. El controlador **DisplayBit** nos permite "ver" los bits de manera más legible. La **interfaz** con nuestros bits ha mejorado :-)
 
 [![Click to see the youtube video](http://img.youtube.com/vi/boXZusFCCIU/0.jpg)](https://www.youtube.com/watch?v=boXZusFCCIU)
+
 
 (TODO)
 
