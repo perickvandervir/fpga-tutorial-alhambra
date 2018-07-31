@@ -418,7 +418,7 @@ El decodificador **DisplayBit2** tiene **2 bits** de entrada y **7 de salida**. 
 
 ### Ejemplo 13: Cuenta cíclica de 0 a 3
 
-Se usan dos corazones de periodo 2 y 4 segundos para mostrar una **cuenta cíclica** en la que se muestran los **dígitos** del **0** al **3**. Se ha implementado con una **tabla de verdad** hexadecimal de 2 bits de entrada y 7 de salida
+Se usan dos **corazones** de periodos 2 y 4 segundos para mostrar una **cuenta cíclica** en la que se muestran los **dígitos** del **0** al **3**. Se ha implementado con una **tabla de verdad** hexadecimal de 2 bits de entrada y 7 de salida
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-05.png)
 
