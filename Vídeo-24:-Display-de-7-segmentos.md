@@ -450,11 +450,9 @@ Lo **cargamos** y lo **probamos**. En este **vídeo** lo vemos en acción
 
 [![Click to see the youtube video](http://img.youtube.com/vi/W0V5RZ-waZg/0.jpg)](https://www.youtube.com/watch?v=W0V5RZ-waZg)
 
-(DisplayBit3)
+El **decodificador** lo metemos dentro de un **bloque**. Este ejemplo es el mismo que el anterior, pero usando el nuevo bloque **DisplayBit3**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-07.png)
-
-(TODO)
 
 ## DisplayDec
 
