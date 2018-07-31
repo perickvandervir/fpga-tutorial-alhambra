@@ -446,6 +446,8 @@ Este es el **montaje**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-09.jpg)
 
+Lo **cargamos** y lo **probamos**
+
 (Vídeo)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-07.png)
