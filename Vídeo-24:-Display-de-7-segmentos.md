@@ -459,6 +459,12 @@ El **decodificador** lo metemos dentro de un **bloque**. Este ejemplo es el mism
 
 Este es el típico **decodificador BCD a 7 segmentos**. Los números **BCD** (Decimal codificado en binario) con de **4 bits**, y representan los **dígitos decimales** del **0** al **9**
 
+### Ejemplo 15: Prueba de dígitos decimales 0 - 9
+
+Para comprobar que se muestran todos los dígitos correctamente colocaremos **4 interruptores externos** para introducir los **números en BCD** y ver su salida en el display de 7 segmentos
+
+(foto)
+
 (TODO)
 
 ## DisplayHex
