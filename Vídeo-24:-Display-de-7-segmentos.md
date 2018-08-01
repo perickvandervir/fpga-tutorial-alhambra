@@ -493,6 +493,12 @@ El **ejemplo** es el mismo que el 15: usaremos **4 interruptores externos** para
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-13.png)
 
+Lo **cargamos** y lo **probamos**
+
+[![Click to see the youtube video](http://img.youtube.com/vi/WwU66JwobN0/0.jpg)](https://www.youtube.com/watch?v=WwU66JwobN0)
+
+
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
