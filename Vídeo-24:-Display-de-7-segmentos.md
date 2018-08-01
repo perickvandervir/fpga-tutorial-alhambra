@@ -502,7 +502,7 @@ Y como hemos hechos antes, lo convertimos en el **bloque DisplayHEX** para que s
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-14.png)
 
 
-# Ejercicios propuestos (20 BitPoints)
+# Ejercicios propuestos (25 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
@@ -516,9 +516,22 @@ Conectar un **display de 7 segmentos** a los pines **GP0 - GP7** de la Icezum Al
 
 Hacer un circuito digital para mostrar en un display de 7 segmentos el estado de **dos sensores IR**. Se utilizará un **interruptor externo** para seleccionar qué sensor es el que se visualiza en el display. Para cada sensor IR se visualiza su estado mostrando los **dígitos 0** ó **1**
 
-* **Ejercicio 24.3** (Total **10 Bitpoints**): 
+* **Ejercicio 24.3** (Total **10 Bitpoints**): **Decodificador decimal con caracteres extra**
+
+Hacer un bloque **decodificador** decimal a siete segmentos que tenga **6 caracteres extra** correspondiente a los números del **10** al **15**. Los nuevos caracteres son los siguientes:  
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejercicio3.png)
+
+* **Carácter 10**: Ningún segmento activado
+* **Carácter 11**: segmento d activado
+* **Carácter 12**: segmentos d y g activados
+* **Carácter 13**: segmentos a,d y g activados
+* **Carácter 14**: segmentos a,b, f y g activados
+* **Carácter 15**: segmentos c,d,e y g activados
+
+Meter este decodificador en un bloque llamado **DisplayEXTRA**. Utilizar este icono: [7Seg-Extra.svg](https://github.com/FPGAwars/icestudio-block-icons/raw/master/7Seg/7Seg-Extra.svg)
+
+Como **circuito de pruebas** conectar **4 interruptores externos** para seleccionar el carácter a visualizar en el display
 
 * **Ejercicio 24.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
