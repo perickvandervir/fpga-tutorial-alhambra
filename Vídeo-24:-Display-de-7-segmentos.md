@@ -457,6 +457,8 @@ El **decodificador** lo metemos dentro de un **bloque**. Este ejemplo es el mism
 
 ## DisplayDec
 
+Este es el típico **decodificador BCD a 7 segmentos**. Los números **BCD** (Decimal codificado en binario) con de **4 bits**, y representan los **dígitos decimales** del **0** al **9**
+
 (TODO)
 
 ## DisplayHex
