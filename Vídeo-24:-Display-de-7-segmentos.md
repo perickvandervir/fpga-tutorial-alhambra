@@ -484,6 +484,10 @@ El **decodificador** lo metemos dentro de un **bloque**. Este ejemplo es el mism
 
 ## DisplayHex
 
+El último decodificador que veremos es el **DisplayHEX**. Es igual que el DisplayDEC, de 4 bits a 7 segmentos, pero completado para mostrar los **dígitos hexadecimales** **0-9** y **A-F**
+
+### Ejemplo 16: Mostrando Digitos hexadecimales
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
