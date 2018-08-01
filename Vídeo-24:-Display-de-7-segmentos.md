@@ -512,7 +512,10 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 Conectar un **display de 7 segmentos** a los pines **GP0 - GP7** de la Icezum Alhambra. Enviar la constante "8" del display para que **se enciendan todos los segmentos** y comprobar que las conexiones están bien (lamp test). Activar también el **punto**
 
-* **Ejercicio 24.2** (Total **x Bitpoints**): 
+* **Ejercicio 24.2** (Total **5 Bitpoints**): **Mostrar el estado de dos sensores IR**
+
+Hacer un circuito digital para mostrar en un display de 7 segmentos el estado de **dos sensores IR**. Se utilizará un **interruptor externo** para seleccionar qué sensor es el que se visualiza en el display. Para cada sensor IR se visualizá su estado mostrando los **dígitos 0** ó **1**
+
 
 * **Ejercicio 24.3** (Total **x Bitpoints**): 
 
