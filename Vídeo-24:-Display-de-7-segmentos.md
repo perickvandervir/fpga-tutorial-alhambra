@@ -497,7 +497,7 @@ Lo **cargamos** y lo **probamos**
 
 [![Click to see the youtube video](http://img.youtube.com/vi/WwU66JwobN0/0.jpg)](https://www.youtube.com/watch?v=WwU66JwobN0)
 
-Y como hechos antes, lo convertimos en el **bloque DisplayHEX** para que sea muy **fácil de utilizar**. El ejemplo anterior se haría de esta forma, con el **nuevo bloque**:
+Y como hemos hechos antes, lo convertimos en el **bloque DisplayHEX** para que sea muy **fácil de utilizar**. El ejemplo anterior se haría de esta forma, con el **nuevo bloque**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-14.png)
 
