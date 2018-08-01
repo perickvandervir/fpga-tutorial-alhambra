@@ -489,6 +489,10 @@ El último decodificador que veremos es el **DisplayHEX**. Es igual que el Displ
 
 ### Ejemplo 16: Mostrando Digitos hexadecimales
 
+El **ejemplo** es el mismo que el 15: usaremos **4 interruptores externos** para introducir el **número en binario** y observar su **conversión** a **hexadecimal** en el display
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-13.png)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
