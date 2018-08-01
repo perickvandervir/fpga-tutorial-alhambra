@@ -476,9 +476,9 @@ Lo **cargamos** y lo **probamos**. En este **vídeo** se muestra en funcionamien
 
 [![Click to see the youtube video](http://img.youtube.com/vi/6J3UF13qh6I/0.jpg)](https://www.youtube.com/watch?v=6J3UF13qh6I)
 
+El **decodificador** lo metemos dentro de un **bloque**. Este ejemplo es el mismo que el anterior, pero usando el nuevo bloque **DisplayDEC**
 
-
-(TODO)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-12.png)
 
 ## DisplayHex
 
