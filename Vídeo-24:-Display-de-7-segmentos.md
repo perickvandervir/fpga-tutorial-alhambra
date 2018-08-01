@@ -472,6 +472,12 @@ Este es el **montaje**. Es igual que el del ejemplo 14, pero con un **interrupto
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-11.jpg)
 
+Lo **cargamos** y lo **probamos**. En este **vídeo** se muestra en funcionamiento. Se puede ver cómo los dígitos mayores a 9 no se muestran
+
+[![Click to see the youtube video](http://img.youtube.com/vi/6J3UF13qh6I/0.jpg)](https://www.youtube.com/watch?v=6J3UF13qh6I)
+
+
+
 (TODO)
 
 ## DisplayHex
