@@ -516,7 +516,9 @@ Conectar un **display de 7 segmentos** a los pines **GP0 - GP7** de la Icezum Al
 
 Hacer un circuito digital para mostrar en un display de 7 segmentos el estado de **dos sensores IR**. Se utilizará un **interruptor externo** para seleccionar qué sensor es el que se visualiza en el display. Para cada sensor IR se visualiza su estado mostrando los **dígitos 0** ó **1**
 
-* **Ejercicio 24.3** (Total **x Bitpoints**): 
+* **Ejercicio 24.3** (Total **10 Bitpoints**): 
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/ejercicio3.png)
 
 * **Ejercicio 24.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
