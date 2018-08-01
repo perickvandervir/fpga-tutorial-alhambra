@@ -56,6 +56,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [DisplayBit3](#displaybit3)
     * [Ejemplo 14: Conversión de binario a decimal](#ejemplo-14-conversi%C3%B3n-de-binario-a-decimal)
   * [DisplayDec](#displaydec)
+    * [Ejemplo 15: Prueba de dígitos decimales 0-9](#ejemplo-15-prueba-de-d%C3%ADgitos-decimales-0---9)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
