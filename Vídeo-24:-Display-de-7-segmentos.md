@@ -468,6 +468,10 @@ Usamos una **tabla de verdad** de 4 entradas y 7 salidas, que realiza la **conve
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/blob/master/wiki/Tutorial-24/DisplayBit-10.png)
 
+Este es el **montaje**. Es igual que el del ejemplo 14, pero con un **interruptor externo adicional**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-11.jpg)
+
 (TODO)
 
 ## DisplayHex
