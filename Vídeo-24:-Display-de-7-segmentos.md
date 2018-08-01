@@ -58,6 +58,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [DisplayDec](#displaydec)
     * [Ejemplo 15: Prueba de dígitos decimales 0-9](#ejemplo-15-prueba-de-d%C3%ADgitos-decimales-0---9)
   * [DisplayHex](#displayhex)
+    * [Ejemplo 16: Mostrando dígitos hexadecimales](#ejemplo-16-mostrando-digitos-hexadecimales)
 * Ejercicios propuestos (X Bitpoints)
 
 * [Ejercicios entregados](#ejercicios-entregados)
