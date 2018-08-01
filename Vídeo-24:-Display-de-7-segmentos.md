@@ -514,8 +514,7 @@ Conectar un **display de 7 segmentos** a los pines **GP0 - GP7** de la Icezum Al
 
 * **Ejercicio 24.2** (Total **5 Bitpoints**): **Mostrar el estado de dos sensores IR**
 
-Hacer un circuito digital para mostrar en un display de 7 segmentos el estado de **dos sensores IR**. Se utilizará un **interruptor externo** para seleccionar qué sensor es el que se visualiza en el display. Para cada sensor IR se visualizá su estado mostrando los **dígitos 0** ó **1**
-
+Hacer un circuito digital para mostrar en un display de 7 segmentos el estado de **dos sensores IR**. Se utilizará un **interruptor externo** para seleccionar qué sensor es el que se visualiza en el display. Para cada sensor IR se visualiza su estado mostrando los **dígitos 0** ó **1**
 
 * **Ejercicio 24.3** (Total **x Bitpoints**): 
 
