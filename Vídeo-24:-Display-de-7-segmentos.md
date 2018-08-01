@@ -462,9 +462,11 @@ Este es el típico **decodificador BCD a 7 segmentos**. Los números **BCD** (De
 
 ### Ejemplo 15: Prueba de dígitos decimales 0 - 9
 
-Para comprobar que se muestran todos los dígitos correctamente colocaremos **4 interruptores externos** para introducir los **números en BCD** y ver su salida en el display de 7 segmentos. Usamos una **tabla de verdad** de 4 entradas y 7 salidas, que realiza la **conversión** entre **BCD** y los **7 segmentos**. Si se introduce un número **mayor de 9** el display permanecerá **apagado**
+Para comprobar que se muestran todos los dígitos correctamente colocaremos **4 interruptores externos** para introducir los **números en BCD** y ver su salida en el display de 7 segmentos
 
-(foto)
+Usamos una **tabla de verdad** de 4 entradas y 7 salidas, que realiza la **conversión** entre **BCD** y los **7 segmentos**. Si se introduce un número **mayor de 9** el display permanecerá **apagado**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/blob/master/wiki/Tutorial-24/DisplayBit-10.png)
 
 (TODO)
 
