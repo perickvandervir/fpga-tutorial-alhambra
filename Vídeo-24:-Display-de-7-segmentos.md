@@ -502,13 +502,15 @@ Y como hemos hechos antes, lo convertimos en el **bloque DisplayHEX** para que s
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-14.png)
 
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (20 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
 **Resumen**:
 
-* **Ejercicio 24.1** (Total **x Bitpoints**): 
+* **Ejercicio 24.1** (Total **5 Bitpoints**): **Conexión del 7 segmentos**
+
+Conectar un **display de 7 segmentos** a los pines **GP0 - GP7** de la Icezum Alhambra. Enviar la constante "8" del display para que **se enciendan todos los segmentos** y comprobar que las conexiones están bien (lamp test). Activar también el **punto**
 
 * **Ejercicio 24.2** (Total **x Bitpoints**): 
 
