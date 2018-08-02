@@ -14,7 +14,7 @@ Los **displays de 7 segmentos** permiten que nuestros circuitos, que internament
 
 # Colección
 
-**Academia-Jedi-HW-24.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-24.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/Collections/Academia-Jedi-HW-24.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
