@@ -10,7 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-(TODO)
+Los **displays de 7 segmentos** permiten que nuestros circuitos, que internamente trabajan en binario, muestren información en **dígitos decimales**, que son legibles por los humanos. Para manejarlos simplemente hay que saber **encender LEDs** y saber hacer **circuitos combinacionales** a partir de **tablas de verdad**
 
 # Colección
 
