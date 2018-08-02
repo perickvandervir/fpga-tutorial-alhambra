@@ -64,7 +64,6 @@ Este tutorial está hecho con la versión [0.3.3-rc de Icestudio](https://github
   * [DisplayHex](#displayhex)
     * [Ejemplo 16: Mostrando dígitos hexadecimales](#ejemplo-16-mostrando-digitos-hexadecimales)
 * [Ejercicios propuestos (25 Bitpoints)](#ejercicios-propuestos-25-bitpoints)
-
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
 * [Licencia](#licencia)
