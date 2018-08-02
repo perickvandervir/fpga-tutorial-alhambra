@@ -504,6 +504,9 @@ Y como hemos hechos antes, lo convertimos en el **bloque DisplayHEX** para que s
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/DisplayBit-14.png)
 
+# Displays de ánodo común
+
+En la colección [Academia-Jedi-HW-24.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/Collections/Academia-Jedi-HW-24.zip) se han incluido las constantes y los bloques para trabajar tanto con **displays de 7 segmentos** de **ánodo común** como de **cátodo común**. Los **ejemplos** del tutorial se han hecho para displays de **cátodo común** (lógica positiva). Para que funcionen con los de ánodo común (lógica negativa) sólo hay que **sustituir los decodificadores** por los equivalente pero de ánodo común (disponibles en la colección 24). En el caso de los ejemplos que envían directamente valores a los segmentos, sólo hay que **invertir estos valores** (sustituir los unos por ceros y los ceros por unos)
 
 # Ejercicios propuestos (25 BitPoints)
 
