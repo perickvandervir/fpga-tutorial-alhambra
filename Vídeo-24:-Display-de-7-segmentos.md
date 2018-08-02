@@ -63,6 +63,7 @@ Este tutorial está hecho con la versión [0.3.3-rc de Icestudio](https://github
     * [Ejemplo 15: Prueba de dígitos decimales 0-9](#ejemplo-15-prueba-de-d%C3%ADgitos-decimales-0---9)
   * [DisplayHex](#displayhex)
     * [Ejemplo 16: Mostrando dígitos hexadecimales](#ejemplo-16-mostrando-digitos-hexadecimales)
+* [Notas sobre displays de ánodo común](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-24:-Display-de-7-segmentos#displays-de-%C3%A1nodo-com%C3%BAn)
 * [Ejercicios propuestos (25 Bitpoints)](#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
