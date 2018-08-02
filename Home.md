@@ -199,6 +199,7 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| @Nuria_pp (VentressAsajj)   | Aspirante a Cadete | 4 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| @Leperotero   | Aspirante a Cadete | 4 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| Jdlrav             | Aspirante a Cadete | 3 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| Julián (@cilleromartin)      | Aspirante a Cadete | 3 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| Juan G. Maker         | Aspirante a Cadete | 2 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| Javi (@Seat_128)      | Aspirante a Cadete | 2 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| Javi (@JavimJavi)     | Aspirante a Cadete | 2 |
@@ -259,6 +260,7 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 | 15  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/15-Aspirante-jedi-N1.png) | **Aspirante a Jedi Nivel 1** | 300 | Ya has pasado de usar bits aislados a **números**, que se transmiten por los **Buses**. Tu capacidad para crear **circuitos complejos** ha aumentado |
 | 16  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/16-Aspirante-jedi-N2.png) | **Aspirante a Jedi Nivel 2** | 330 | Conoces el secreto de la **creación de bloques**, y sabes diseñar **circuitos combinacionales** de cualquier número de entradas y salidas, a partir de sus **tablas de verdad** |
 | 17  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3.png) | **Aspirante a Jedi Nivel 3** | 360 | ¡Ya sabes crear tus propias **colecciones**! |
+
 
 ### Pendiente...
 
