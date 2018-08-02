@@ -12,6 +12,10 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 Los **displays de 7 segmentos** permiten que nuestros circuitos, que internamente trabajan en binario, muestren información en **dígitos decimales**, que son legibles por los humanos. Para manejarlos simplemente hay que saber **encender LEDs** y saber hacer **circuitos combinacionales** a partir de **tablas de verdad**
 
+# ¡Icestudio 0.3.3!
+
+(TODO)
+
 # Colección
 
 [Academia-Jedi-HW-24.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/Collections/Academia-Jedi-HW-24.zip): Colección para este tutorial. Descargar e instalar 
