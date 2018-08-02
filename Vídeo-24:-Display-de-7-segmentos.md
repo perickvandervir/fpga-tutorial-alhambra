@@ -14,6 +14,8 @@ Los **displays de 7 segmentos** permiten que nuestros circuitos, que internament
 
 # ¡Icestudio 0.3.3!
 
+Este tutorial está hecho con la versión [0.3.3-rc de Icestudio](https://github.com/FPGAwars/icestudio/releases/tag/v0.3.3-rc). Asegúrate de tener instalada esta versión (o superior)
+
 (TODO)
 
 # Colección
