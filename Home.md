@@ -32,9 +32,9 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | 22 | [Circuitos combinacionales con varias salidas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-22:-Circuitos-combinacionales-con-varias-salidas)
 | 23 | [Mi primera colección](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-23:-Mi-primera-colecci%C3%B3n)
 | 24 | [Display de 7 segmentos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-24:-Display-de-7-segmentos) (En construcción...)
-| 25 | Biestables |
-| 26 | Temporizador
-| 27 | Contando |
+| 25 | Biestables y notificaciones |
+| 26 | Contando eventos |
+| 27 | Temporizador
 | 28 | Registros |
 | 29 | Comparadores |
 | 30 | Funciones lógicas |
