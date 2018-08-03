@@ -30,7 +30,7 @@ Los **circuitos digitales** realizan tres operaciones con bits: **transporte**, 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/intro-01.png)
 
-Un biestable es el **elemento mínimo** que permite **almacenar 1 bit**. Almacenar los bits es **muy importante**, porque nos permite **recordar** lo que ha ocurrido en el **pasado**. Y así **tomar decisiones** sobre lo que hacer en el presente y el futuro.
+Un biestable es el **elemento mínimo** que permite **almacenar un bit**. Almacenar los bits es **muy importante**, porque nos permite **recordar** lo que ha ocurrido en el **pasado**. Y así **tomar decisiones** sobre lo que hacer en el presente y el futuro.
 
 (TODO)
 
