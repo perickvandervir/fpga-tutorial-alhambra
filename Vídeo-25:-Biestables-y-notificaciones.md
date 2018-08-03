@@ -30,7 +30,7 @@ Los **circuitos digitales** realizan tres operaciones con bits: **transporte**, 
 
 (Dibujo!)
 
-Un biestable es el **elemento mínimo** que permite **almacenar 1 bit**. Almacenar los bits es **muy importante**, porque nos permite **recordar** lo que ha ocurrido en el **pasado**. Y así **tomar decisiones** sobre lo que hacer en el presente/futuro.
+Un biestable es el **elemento mínimo** que permite **almacenar 1 bit**. Almacenar los bits es **muy importante**, porque nos permite **recordar** lo que ha ocurrido en el **pasado**. Y así **tomar decisiones** sobre lo que hacer en el presente y el futuro.
 
 (TODO)
 
