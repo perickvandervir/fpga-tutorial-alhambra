@@ -8,6 +8,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
+(TODO)
 
 # Colección
 
@@ -24,6 +25,10 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Preguntas frecuentes](#preguntas-frecuentes)
 
 # Introducción
+
+Los **circuitos digitales** realizan tres operaciones con bits: **transporte**, **manipulación** y **almacenamiento**. Los **cables** se encargan del **transporte** y los **circuitos combinacionales** de su **manipulación**. Nos falta por aprender **cómo almacenar bits**. Esto lo realizan los **biestables**
+
+(TODO)
 
 # Ejercicios propuestos (X BitPoints)
 
