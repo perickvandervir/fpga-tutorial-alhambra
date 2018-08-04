@@ -46,6 +46,8 @@ Aprenderemos a **manejar biestables** usando la **intuición**, y haciendo **muc
 
 En nuestros circuitos ocurren **eventos**: pulsación de un botón, detección de un objeto por parte de un sensor IR, que dos números sean iguales, que haya transcurrido cierto tiempo, que una operación se ha terminado de realizar... 
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/intro-03.png)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
