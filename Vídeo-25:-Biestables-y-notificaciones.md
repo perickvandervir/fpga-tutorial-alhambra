@@ -17,6 +17,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 # Contenido
 
 * [Introducción](#introducci%C3%B3n)
+* [Notificaciones](#notificaciones)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
