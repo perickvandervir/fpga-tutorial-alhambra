@@ -158,6 +158,12 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 # Créditos y agradecimientos
 
+* Icon used on image [intro-01.png](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/intro-01.png) made by [Freepik](https://www.flaticon.es/autores/freepik) from [www.flaticon.com](https://www.flaticon.es/icono-gratis/carretilla-elevadora_3736)
+
+
+
+
+
 # Enlaces
 
 * [Repositorio con las colecciones de la Academia Jedi de Hardware](https://github.com/Obijuan/Academia-Jedi-Hw)
