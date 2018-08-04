@@ -32,6 +32,8 @@ Los **circuitos digitales** realizan tres operaciones con bits: **transporte**, 
 
 Un biestable es el **elemento mínimo** que permite **almacenar un bit**. Almacenar los bits es **muy importante**, porque nos permite **recordar** lo que ha ocurrido en el **pasado**. Y así **tomar decisiones** sobre lo que hacer en el presente y el futuro.
 
+Y es precisamente por esta **capacidad de recordad** que utilizaremos este símbolo para **representar un biestable** en Icestudio:
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
