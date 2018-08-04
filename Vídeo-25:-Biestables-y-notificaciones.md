@@ -41,6 +41,10 @@ Los biestables son los que guardan las **notificaciones** de lo que ocurre en nu
 
 Aprenderemos a **manejar biestables** usando la **intuición**, y haciendo **muchos ejemplos** de su uso. La mejor manera de aprender es **practicar**. ¡Vamos a ello!
 
+# Notificaciones
+
+(TODO)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
