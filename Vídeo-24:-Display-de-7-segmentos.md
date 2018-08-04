@@ -66,6 +66,7 @@ Este tutorial está hecho con la versión [0.3.3-rc de Icestudio](https://github
 * [Notas sobre displays de ánodo común](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-24:-Display-de-7-segmentos#notas-sobre-displays-de-%C3%A1nodo-com%C3%BAn)
 * [Ejercicios propuestos (25 Bitpoints)](#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
+  * [Joaquín Cubillo](#joaqu%C3%ADn-cubillo)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
