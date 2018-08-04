@@ -21,6 +21,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
 * [Licencia](#licencia)
+* [Créditos y agradecimientos](#cr%C3%A9ditos-y-agradecimientos)
 * [Enlaces](#enlaces)
 * [Preguntas frecuentes](#preguntas-frecuentes)
 
