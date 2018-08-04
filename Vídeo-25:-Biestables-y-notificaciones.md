@@ -48,7 +48,11 @@ En nuestros circuitos ocurren **eventos**: pulsación de un botón, detección d
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/intro-03.png)
 
-Hasta ahora, los **eventos** los hemos **mostrado en LEDs**, y en otros **periféricos de salida**, como los servos. Sólo hemos visualizado el **presente**. Si conectamos un pulsador a un LED, mientras lo mantengamos pulsado, el LED estará encendido, pero al soltarlo se apagará. Visualizamos su estado presente, pero no registramos el evento. Una vez que pasa, queda olvidado.
+Hasta ahora, los **eventos** los hemos **mostrado en LEDs**, y en otros **periféricos de salida**, como los servos. Sólo hemos visualizado el **presente**. Si conectamos un pulsador a un LED, mientras lo mantengamos pulsado, el LED estará encendido, pero al soltarlo se apagará. Visualizamos su estado presente, pero no registramos el evento. Una vez que pasa, queda olvidado. Pero con los biestables podemos **registrar los eventos**, para **recordarlos**
+
+### Ejemplo 1: Encender un LED con pulsador, sin biestable
+
+
 
 (TODO)
 
