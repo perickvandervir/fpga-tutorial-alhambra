@@ -37,7 +37,9 @@ Y es precisamente por esta **capacidad de recordad** que utilizaremos **este sí
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/intro-02.png)
 
-(TODO)
+Los biestables son los que guardan las **notificaciones** de lo que ocurre en nuestro circuito. Como un biestable sólo puede **almacenar 1 bit**, se usará para **registrar** sólo **1 notificación**
+
+Aprenderemos a **manejar biestables** usando la **intuición**, y haciendo **muchos ejemplos** de su uso. La mejor manera de aprender es **practicar**. ¡Vamos a ello!
 
 # Ejercicios propuestos (X BitPoints)
 
