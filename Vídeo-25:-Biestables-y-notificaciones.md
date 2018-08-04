@@ -34,6 +34,8 @@ Un biestable es el **elemento mínimo** que permite **almacenar un bit**. Almace
 
 Y es precisamente por esta **capacidad de recordad** que utilizaremos este símbolo para **representar un biestable** en Icestudio:
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/intro-02.png)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
