@@ -558,25 +558,27 @@ Como **circuito de pruebas** conectar **4 interruptores externos** para seleccio
 [![Click to see the youtube video](http://img.youtube.com/vi/XE36j6ikips/0.jpg)](https://www.youtube.com/watch?v=XE36j6ikips)
 
 ### Ejercicio 24.2
-![]()
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-24/jcubilloarr/2.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/4RBEhuJ93Og/0.jpg)](https://www.youtube.com/watch?v=4RBEhuJ93Og)
 
 ### Ejercicio 24.3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-24/jcubilloarr/3.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/6LHMxjH_PBo/0.jpg)](https://www.youtube.com/watch?v=6LHMxjH_PBo)
 
 ### Ejercicio 24.4
-![]()
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-24/jcubilloarr/4.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/BPnDNPP1VjA/0.jpg)](https://www.youtube.com/watch?v=BPnDNPP1VjA)
 
 
 ## Segundo
