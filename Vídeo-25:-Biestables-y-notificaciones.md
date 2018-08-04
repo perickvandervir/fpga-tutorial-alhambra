@@ -32,7 +32,7 @@ Los **circuitos digitales** realizan tres operaciones con bits: **transporte**, 
 
 Un biestable es el **elemento mínimo** que permite **almacenar un bit**. Almacenar los bits es **muy importante**, porque nos permite **recordar** lo que ha ocurrido en el **pasado**. Y así **tomar decisiones** sobre lo que hacer en el presente y el futuro.
 
-Y es precisamente por esta **capacidad de recordad** que utilizaremos este símbolo para **representar un biestable** en Icestudio:
+Y es precisamente por esta **capacidad de recordad** que utilizaremos **este símbolo** para **representar un biestable** en Icestudio:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/intro-02.png)
 
