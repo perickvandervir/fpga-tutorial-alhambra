@@ -44,6 +44,8 @@ Aprenderemos a **manejar biestables** usando la **intuición**, y haciendo **muc
 
 # Notificaciones
 
+En nuestros circuitos ocurren **eventos**: pulsación de un botón, detección de un objeto por parte de un sensor IR, que dos números sean iguales, que haya transcurrido cierto tiempo, que una operación se ha terminado de realizar... 
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
