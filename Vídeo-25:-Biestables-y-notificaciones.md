@@ -51,8 +51,12 @@ En nuestros circuitos ocurren **eventos**: pulsación de un botón, detección d
 
 Hasta ahora, los **eventos** los hemos **mostrado en LEDs**, y en otros **periféricos de salida**, como los servos. Sólo hemos visualizado el **presente**. Si conectamos un pulsador a un LED, mientras lo mantengamos pulsado, el LED estará encendido, pero al soltarlo se apagará. Visualizamos su estado presente, pero no registramos el evento. Una vez que pasa, queda olvidado. Pero con los biestables podemos **registrar los eventos**, para **recordarlos**
 
+Definimos **evento** como un **cambio en una señal**. Hay dos tipos de cambio, **de 0 a 1**, también llamado **flanco de subida**, y de **1 a 0**, denominado **flanco de bajada**. En este tutorial nos centraremos en los eventos de cambio de cero a 1 (flanco de subida). De esta forma, al apretar un pulsador, se genera un flanco de subida, ya que la señal pasa de 0 a 1. Será nuestro evento
+
+
 ### Ejemplo 1: Encender un LED con pulsador, sin biestable
 
+Retomaremos el circuito "Hola mundo" para **encender un LED** al apretar **un pulsador**, del [Tutorial 9](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas). 
 
 
 (TODO)
