@@ -89,7 +89,9 @@ Vamos a hacer un circuito para **registrar** y **notificar** el evento de **bot�
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/Biestable-RS-02.png)
 
-Es necesario conectar la **entrada de RESET** para **borrar las notificaciones pendientes** y volver al estado inicial. Esto lo haremos conectándolo al **pulsador interno SW1**. El circuito es el siguiente:
+Es necesario conectar la **entrada de RESET** para **borrar la notificación pendiente** y volver al estado inicial. Esto lo hacemos conectándola al **pulsador interno SW1**
+
+**Cargamos** el circuito y lo **probamos**:
 
 (TODO)
 
