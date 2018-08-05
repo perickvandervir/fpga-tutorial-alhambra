@@ -21,6 +21,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 1: Encender un LED con pulsador, sin biestable](#ejemplo-1-encender-un-led-con-pulsador-sin-biestable)
 * [Biestables con Set y Reset](#biestables-con-set-y-reset)
   * [Ejemplo 2: Notificación de botón apretado](#ejemplo-2-notificaci%C3%B3n-de-bot%C3%B3n-apretado)
+  * [Banderas (Flags)](#banderas-flags)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
