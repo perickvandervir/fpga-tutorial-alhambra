@@ -71,6 +71,8 @@ Lo **cargamos** y lo **probamos**
 
 Funciona como esperábamos: es un circuito muy sencillo y muy conocido. Pero vamos a fijarnos en **lo que está ocurriendo**: en el **LED** se está reflejando **lo que ocurre en el presente**, en este momento. Mirando el LED sabemos el estado del pulsador. Pero **no sabemos nada** de lo que ha ocurrido en el **pasado**
 
+# Biestables con Set y Reset
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
