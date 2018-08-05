@@ -100,7 +100,9 @@ En cuanto se **aprieta el pulsador**, el biestable **registra el evento** y se p
 
 ## Banderas (Flags)
 
-(TODO)
+Los **biestables con Set y Reset**, como el que hemos usado en el **ejemplo 2**, funcionan como **banderas** o **indicadores** (Conocidos como *flags* en inglés).  Es una técnica que se usa también en **programación**, donde se definen **variables** que permiten registrar la ocurrencia de un evento. Según el valor de estos flags, el programa hace una acción u otra
+
+Con la **entrada SET** ponemos la **bandera** a **1**, para señalar que ha ocurrido el evento. Con **RESET** la ponemos a **cero**. Es un comportamiento muy sencillo, pero **muy potente**, y nos permitirá hacer muchísimas cosas, como veremos en los **ejemplos de aplicación**
 
 # Ejemplos de aplicación
 
