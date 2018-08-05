@@ -63,6 +63,11 @@ Hasta ahora, los **eventos** los hemos **mostrado en LEDs**, y en otros **perif√
 
 Retomaremos el circuito "Hola mundo" para **encender un LED** al apretar **un pulsador**, del [Tutorial 9](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-9:-Pulsadores-y-entradas). 
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/intro-06.png)
+
+Lo **cargamos** y lo **probamos**
+
+(video)
 
 (TODO)
 
