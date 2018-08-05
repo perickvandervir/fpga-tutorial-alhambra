@@ -93,7 +93,9 @@ Es necesario conectar la **entrada de RESET** para **borrar la notificación pen
 
 **Cargamos** el circuito y lo **probamos**:
 
-(TODO)
+[![Click to see the youtube video](http://img.youtube.com/vi/Qadxbefl4k8/0.jpg)](https://www.youtube.com/watch?v=Qadxbefl4k8)
+
+En cuanto se **aprieta el pulsador**, el biestable **registra el evento** y se pone su **salida** a **1**. Aunque soltemos el pulsador, la notificación seguirá estando: recuerda que el **botón se ha apretado**. Como sólo tiene **memoria de 1 bit**, sólo puede recordar **un evento**, por lo que no puede distinguir si el pulsador ha sido apretado una o varias veces. Con el otro pulsador **borramos la notificación**
 
 # Ejercicios propuestos (X BitPoints)
 
