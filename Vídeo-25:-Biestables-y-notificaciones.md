@@ -74,11 +74,13 @@ Funciona como esperábamos: es un circuito muy sencillo y muy conocido. Pero vam
 
 # Biestables con Set y Reset
 
-Los **biestables** nos permiten **registrar** los eventos y **notificarlos**. Para recordar cosas lo primero que hacemos es **registrarlas**. Hay que poner una marca para indicar que ha ocurrido un evento. Es la **operación SET** de los biestables. Los móviles nos lo marcan con las **notificaciones** que vemos en la parte superior: al mirarlas sabemos que hay mensajes pendientes, que sucedieron en el pasado, y que todavía no han sido leidos
+Los **biestables** nos permiten **registrar** los eventos y **notificarlos**. Para recordar cosas lo primero que hacemos es **registrarlas**. Es la **operación SET** de los biestables. Los móviles nos lo marcan con las **notificaciones** que vemos en la parte superior: al mirarlas sabemos que hay mensajes pendientes, que sucedieron en el pasado, y que todavía no han sido leidos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/Biestable-RS-01.png)
 
-La segunda operación es la de **borrado de las notificaciones**. Una vez que hemos procesado los eventos pendientes, borramos las marcas para indicar que ya está todo procesado. En el caso de la lectura de mensajes en el móvil, las notificaciones desaparecen una vez que los hemos leído. Es la **operión RESET** de los biestables
+La segunda operación es la de **borrado de las notificaciones**. En el caso de la lectura de mensajes en el móvil, las notificaciones desaparecen una vez que los hemos leído. Es la **operión RESET** de los biestables
+
+Así, nuestro biestable es un circuito con **dos entradas**: Set y Reset. Una para **registrar el evento**, y la otra para **borrarlo**. Y tienen **una salida**: nos indica la **notificación**. Si está a **0** es que **no ha ocurrido el evento**. Si está a **1** es que hay **una notificación pendiente**
 
 
 (TODO)
