@@ -82,6 +82,11 @@ La segunda operación es la de **borrado de las notificaciones**. En el caso de 
 
 Así, nuestro biestable es un circuito con **dos entradas**: Set y Reset. Una para **registrar el evento**, y la otra para **borrarlo**. Y tienen **una salida**: nos indica la **notificación**. Si está a **0** es que **no ha ocurrido el evento**. Si está a **1** es que hay **una notificación pendiente**
 
+## Ejemplo 2: Notificación de botón apretado
+
+Vamos a hacer un circuito para **registrar** y **notificar** el evento de **botón apretado**. Conectamos el pulsador a la **entrada SET** del biestable y la su **salida** a un **LED**: de esta forma veremos en el LED el estado del biestable: Si está **encendido** es que el **pulsador ha sido apretado** en el pasado. Si está apagado es que no se ha pulsado desde la última vez que lo borramos
+
+Es necesario conectar la **entrada de RESET** para **borrar las notificaciones pendientes** y volver al estado inicial. Esto lo haremos conectándolo al **pulsador interno SW1**. El circuito es el siguiente:
 
 (TODO)
 
