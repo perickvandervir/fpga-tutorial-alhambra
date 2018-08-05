@@ -97,6 +97,30 @@ Es necesario conectar la **entrada de RESET** para **borrar la notificación pen
 
 En cuanto se **aprieta el pulsador**, el biestable **registra el evento** y se pone su **salida** a **1**. Aunque soltemos el pulsador, la notificación seguirá estando: recuerda que el **botón se ha apretado**. Como sólo tiene **memoria de 1 bit**, sólo puede recordar **un evento**, por lo que no puede distinguir si el pulsador ha sido apretado una o varias veces. Con el otro pulsador **borramos la notificación**
 
+## Banderas (Flags)
+
+(TODO)
+
+# Ejemplos de aplicación
+
+(TODO)
+
+## Ejemplo 3: Detector de presencia
+
+(TODO)
+
+## Ejemplo 4: Sistema automático de subida y bajada de barrera
+
+(TODO)
+
+## Ejemplo 5: Caja fuerte con apertura con código
+
+(TODO)
+
+## Ejemplo 6: Alarma persistente
+
+(TODO)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
