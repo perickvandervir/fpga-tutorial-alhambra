@@ -67,7 +67,9 @@ Retomaremos el circuito "Hola mundo" para **encender un LED** al apretar **un pu
 
 Lo **cargamos** y lo **probamos**
 
-(video)
+[![Click to see the youtube video](http://img.youtube.com/vi/8UH14Mup2JU/0.jpg)](https://www.youtube.com/watch?v=8UH14Mup2JU)
+
+Funciona como esperábamos: es un circuito muy sencillo y muy conocido. Pero vamos a fijarnos en **lo que está ocurriendo**: en el **LED** se está reflejando **lo que ocurre en el presente**, en este momento. Mirando el LED sabemos el estado del pulsador. Pero **no sabemos nada** de lo que ha ocurrido en el **pasado**
 
 (TODO)
 
