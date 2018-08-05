@@ -87,6 +87,8 @@ Así, nuestro biestable es un circuito con **dos entradas**: Set y Reset. Una pa
 
 Vamos a hacer un circuito para **registrar** y **notificar** el evento de **botón apretado**. Conectamos el pulsador a la **entrada SET** del biestable y la su **salida** a un **LED**: de esta forma veremos en el LED el estado del biestable: Si está **encendido** es que el **pulsador ha sido apretado** en el pasado. Si está apagado es que no se ha pulsado desde la última vez que lo borramos
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/Biestable-RS-02.png)
+
 Es necesario conectar la **entrada de RESET** para **borrar las notificaciones pendientes** y volver al estado inicial. Esto lo haremos conectándolo al **pulsador interno SW1**. El circuito es el siguiente:
 
 (TODO)
