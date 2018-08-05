@@ -70,9 +70,16 @@ Lo **cargamos** y lo **probamos**
 
 [![Click to see the youtube video](http://img.youtube.com/vi/8UH14Mup2JU/0.jpg)](https://www.youtube.com/watch?v=8UH14Mup2JU)
 
-Funciona como esperábamos: es un circuito muy sencillo y muy conocido. Pero vamos a fijarnos en **lo que está ocurriendo**: en el **LED** se está reflejando **lo que ocurre en el presente**, en este momento. Mirando el LED sabemos el estado del pulsador. Pero **no sabemos nada** de lo que ha ocurrido en el **pasado**
+Funciona como esperábamos: es un circuito muy sencillo y muy conocido. Pero vamos a fijarnos en **lo que está ocurriendo**: en el **LED** se está reflejando **lo que ocurre en el presente**, en este momento. Mirando el LED sabemos el estado del pulsador. Pero **no sabemos nada** de lo que ha ocurrido en el **pasado**. Necesitamos usar biestables para ello
 
 # Biestables con Set y Reset
+
+Los **biestables** nos permiten **registrar **los eventos y **notificarlos**. Para recordar cosas lo primero que hacemos es **registrarlas**. Hay que poner una marca para indicar que ha ocurrido un evento. Es la **operación SET** de los biestables. Los móviles nos lo marcan con las **notificaciones** que vemos en la parte superior: al mirarlas sabemos que hay mensajes pendientes, que sucedieron en el pasado, y que todavía no han sido leidos
+
+La segunda operación es la de **borrado de las notificaciones**. Una vez que hemos procesado los eventos pendientes, borramos las marcas para indicar que ya está todo procesado. En el caso de la lectura de mensajes en el móvil, las notificaciones desaparecen una vez que los hemos leído. Es la **operión RESET** de los biestables
+
+
+. Una vez que leemos estos mensajes, las notificaciones desaparecen
 
 (TODO)
 
