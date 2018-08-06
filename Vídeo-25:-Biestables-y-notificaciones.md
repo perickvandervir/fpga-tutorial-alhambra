@@ -141,8 +141,6 @@ Lo **cargamos** y lo **probamos**
 
 [![Click to see the youtube video](http://img.youtube.com/vi/XOACBbBHbxY/0.jpg)](https://www.youtube.com/watch?v=XOACBbBHbxY)
 
-(TODO)
-
 ## Ejemplo 5: Sistema automático de subida y bajada de barrera
 
 (TODO)
