@@ -133,8 +133,9 @@ Añadimos un **biestable** al ejemplo anterior para **capturar el evento de obje
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/ejemploIR-03.png)
 
+En el montaje incluimos un **pulsador externo** para **rearmar** el detector y **borrar** la notificación
 
-(foto cto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/ejemploIR-04.jpg)
 
 (video)
 
