@@ -24,6 +24,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Banderas (Flags)](#banderas-flags)
 * [Ejemplos de aplicación](#ejemplos-de-aplicaci%C3%B3n)
   * [Ejemplo 3: Encender un LED con sensor IR, sin biestable](#ejemplo-3-encender-un-led-con-sensor-ir-sin-biestable)
+  * [Ejemplo 4: Notificación de presencia](#ejemplo-4-notificaci%C3%B3n-de-presencia)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
