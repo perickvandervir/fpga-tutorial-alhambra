@@ -120,7 +120,9 @@ Partiremos del **mismo circuito del ejemplo 1**, pero conectando un **sensor de 
 
 El **montaje** es el siguiente. Colocamos el **sensor IR** y el **LED externo**
 
-(Montaje)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/ejemploIR-01.jpg)
+
+Lo **cargamos** y lo **probamos**. Es un ejemplo que ya conocemos. En el LED se muestra el estado **presente** del sensor. Sólo cuando hay un objeto delante del sensor, se enciende el LED. Cuando no hay nada, se apaga
 
 (Video)
 
