@@ -131,7 +131,8 @@ Lo **cargamos** y lo **probamos**. Es un ejemplo que ya conocemos. En el LED se 
 
 Añadimos un **biestable** al ejemplo anterior para **capturar el evento de objeto detectado**, y **notificarlo** en un **LED**. Ahora, el LED se enciende cuando se detecta un objeto, y permance encendido. Nos está indicando que en algún momento del **pasado**, el sensor **ha detectado** un objeto
 
-(circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/ejemploIR-03.png)
+
 
 (foto cto)
 
