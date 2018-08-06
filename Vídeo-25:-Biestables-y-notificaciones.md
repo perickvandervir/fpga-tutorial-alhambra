@@ -129,6 +129,14 @@ Lo **cargamos** y lo **probamos**. Es un ejemplo que ya conocemos. En el LED se 
 
 ## Ejemplo 4: Notificación de presencia
 
+Añadimos un **biestable** al ejemplo anterior para **capturar el evento de objeto detectado**, y **notificarlo** en un **LED**. Ahora, el LED se enciende cuando se detecta un objeto, y permance encendido. Nos está indicando que en algún momento del **pasado**, el sensor **ha detectado** un objeto
+
+(circuito)
+
+(foto cto)
+
+(video)
+
 (TODO)
 
 ## Ejemplo 5: Sistema automático de subida y bajada de barrera
