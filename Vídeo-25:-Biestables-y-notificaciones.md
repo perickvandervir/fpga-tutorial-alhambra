@@ -23,6 +23,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 2: Notificación de botón apretado](#ejemplo-2-notificaci%C3%B3n-de-bot%C3%B3n-apretado)
   * [Banderas (Flags)](#banderas-flags)
 * [Ejemplos de aplicación](#ejemplos-de-aplicaci%C3%B3n)
+  * [Ejemplo 3: Encender un LED con sensor IR, sin biestable](#ejemplo-3-encender-un-led-con-sensor-ir-sin-biestable)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
