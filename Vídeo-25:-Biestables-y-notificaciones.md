@@ -115,7 +115,9 @@ Vamos a practicar el **pensamiento hardware** con biestables. Aplicaremos la mis
 
 Partiremos del **mismo circuito del ejemplo 1**, pero conectando un **sensor de infrarrojos** (IR) en vez de un pulsador. Tiramos un cable para mostrar el **estado del sensor** en el **LED**
 
-(Cto icestudio)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/ejemploIR-02.png)
+
+El **montaje** es el siguiente. Colocamos el **sensor IR** y el **LED externo**
 
 (Montaje)
 
