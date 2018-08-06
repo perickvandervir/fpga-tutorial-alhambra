@@ -124,7 +124,7 @@ El **montaje** es el siguiente. Colocamos el **sensor IR** y el **LED externo**
 
 Lo **cargamos** y lo **probamos**. Es un ejemplo que ya conocemos. En el LED se muestra el estado **presente** del sensor. Sólo cuando hay un objeto delante del sensor, se enciende el LED. Cuando no hay nada, se apaga
 
-(Video)
+[![Click to see the youtube video](http://img.youtube.com/vi/WnUfGfjhTY4/0.jpg)](https://www.youtube.com/watch?v=WnUfGfjhTY4)
 
 (TODO)
 
