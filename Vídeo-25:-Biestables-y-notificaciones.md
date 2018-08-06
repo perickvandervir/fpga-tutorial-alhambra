@@ -137,6 +137,8 @@ En el montaje incluimos un **pulsador externo** para **rearmar** el detector y *
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/ejemploIR-04.jpg)
 
+Lo **cargamos** y lo **probamos**
+
 [![Click to see the youtube video](http://img.youtube.com/vi/XOACBbBHbxY/0.jpg)](https://www.youtube.com/watch?v=XOACBbBHbxY)
 
 (TODO)
