@@ -126,17 +126,19 @@ Lo **cargamos** y lo **probamos**. Es un ejemplo que ya conocemos. En el LED se 
 
 [![Click to see the youtube video](http://img.youtube.com/vi/WnUfGfjhTY4/0.jpg)](https://www.youtube.com/watch?v=WnUfGfjhTY4)
 
-(TODO)
-
-## Ejemplo 4: Sistema automático de subida y bajada de barrera
+## Ejemplo 4: Notificación de presencia
 
 (TODO)
 
-## Ejemplo 5: Caja fuerte con apertura con código
+## Ejemplo 5: Sistema automático de subida y bajada de barrera
 
 (TODO)
 
-## Ejemplo 6: Alarma persistente
+## Ejemplo 6: Caja fuerte con apertura con código
+
+(TODO)
+
+## Ejemplo 7: Alarma persistente
 
 (TODO)
 
