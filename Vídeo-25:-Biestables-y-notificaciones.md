@@ -111,7 +111,15 @@ Con la **entrada SET** ponemos la **bandera** a **1**, para señalar que ha ocur
 
 Vamos a practicar el **pensamiento hardware** con biestables. Aplicaremos la misma idea del **ejemplo 2** a otros ejemplos
 
-## Ejemplo 3: Detector de presencia
+## Ejemplo 3: Encender un LED con sensor IR, sin biestable
+
+Partiremos del **mismo circuito del ejemplo 1**, pero conectando un **sensor de infrarrojos** (IR) en vez de un pulsador. Tiramos un cable para mostrar el **estado del sensor** en el **LED**
+
+(Cto icestudio)
+
+(Montaje)
+
+(Video)
 
 (TODO)
 
