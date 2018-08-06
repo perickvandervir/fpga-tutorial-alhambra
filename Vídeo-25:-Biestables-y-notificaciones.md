@@ -109,7 +109,7 @@ Con la **entrada SET** ponemos la **bandera** a **1**, para señalar que ha ocur
 
 # Ejemplos de aplicación
 
-(TODO)
+Vamos a practicar el **pensamiento hardware** con biestables. Aplicaremos la misma idea del **ejemplo 2** a otros ejemplos
 
 ## Ejemplo 3: Detector de presencia
 
