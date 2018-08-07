@@ -602,17 +602,14 @@ Como **circuito de pruebas** conectar **4 interruptores externos** para seleccio
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-24/fgcoca/Ejercicio-3/-Ejercicio24_3_Block%20%E2%94%80%20P-interior.png)
 
-## Tercero
+## Ximo Catala (Ximocat)
 
 ### Ejercicio 24.1
-![]()
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-24/ximocat/Ejercicio24_1.jpg)
 
 ### Ejercicio 24.2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-24/ximocat/Ejercicio24_2.jpg)
 
 * **Vídeo** en Youtube:
 
