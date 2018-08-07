@@ -67,6 +67,7 @@ Este tutorial está hecho con la versión [0.3.3-rc de Icestudio](https://github
 * [Ejercicios propuestos (25 Bitpoints)](#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Joaquín Cubillo](#joaqu%C3%ADn-cubillo)
+  * [Federico Coca (fgcoca)](#federico-coca-fgcoca)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
