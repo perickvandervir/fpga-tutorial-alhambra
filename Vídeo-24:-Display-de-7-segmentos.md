@@ -590,11 +590,11 @@ Como **circuito de pruebas** conectar **4 interruptores externos** para seleccio
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-24/fgcoca/Ejercicio-1/Ejercicio24_1%20%E2%94%80%20Foto.jpg)
 
 ### Ejercicio 24.2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-24/fgcoca/Ejercicio-2/Ejercicio24_2%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/vZb5eIKg76s/0.jpg)](https://www.youtube.com/watch?v=vZb5eIKg76s)
 
 ### Ejercicio 24.3
 
