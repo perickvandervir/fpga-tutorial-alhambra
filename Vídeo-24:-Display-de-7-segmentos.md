@@ -617,18 +617,20 @@ Como **circuito de pruebas** conectar **4 interruptores externos** para seleccio
 [![Click to see the youtube video](http://img.youtube.com/vi/DFDa8fraJM4/0.jpg)](https://www.youtube.com/watch?v=DFDa8fraJM4)
 
 ### Ejercicio 24.3
-![]()
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-24/ximocat/Ejercicio24_3.jpg)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/95SYVwP2Mno/0.jpg)](https://www.youtube.com/watch?v=95SYVwP2Mno)
 
 ### Ejercicio 24.4
-![]()
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-24/ximocat/Ejercicio24_4.jpg)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/HrwtUsNxybY/0.jpg)](https://www.youtube.com/watch?v=HrwtUsNxybY)
 
 
 # Autor
