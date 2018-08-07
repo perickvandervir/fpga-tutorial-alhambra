@@ -68,6 +68,7 @@ Este tutorial está hecho con la versión [0.3.3-rc de Icestudio](https://github
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Joaquín Cubillo](#joaqu%C3%ADn-cubillo)
   * [Federico Coca (fgcoca)](#federico-coca-fgcoca)
+  * [Ximo Catala (ximocat)](#ximo-catala-ximocat)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
