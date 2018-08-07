@@ -148,7 +148,8 @@ En el ejercicio 2 del [Tutorial 16](https://github.com/Obijuan/digital-electroni
 
 Mejoraremos ese ejercicio. Incluiremos **dos sensores de IR**, que generan los eventos: **Ha llegado un vehículo** y **Vehículo ha entrado en recinto**. El **sensor 1** está colocado en **la entrada**, y detecta los **vehículos** que **quieren entrar** en el recinto. El **sensor 2** está colocado dentro del recinto, y detecta los vehículos que **han entrado** en el recinto
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/barrera-01.png)
+
 
 (TODO)
 
