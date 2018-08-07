@@ -581,7 +581,6 @@ Como **circuito de pruebas** conectar **4 interruptores externos** para seleccio
 
 [![Click to see the youtube video](http://img.youtube.com/vi/BPnDNPP1VjA/0.jpg)](https://www.youtube.com/watch?v=BPnDNPP1VjA)
 
-
 ## Federico Coca (@fgcoca)
 
 ### Ejercicio 24.1
@@ -598,18 +597,10 @@ Como **circuito de pruebas** conectar **4 interruptores externos** para seleccio
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ### Ejercicio 24.3
-![]()
 
-* **Vídeo** en Youtube:
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-24/fgcoca/Ejercicio-3/-Ejercicio24_3_Block%20%E2%94%80%20P.png)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-### Ejercicio 24.4
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-24/fgcoca/Ejercicio-3/-Ejercicio24_3_Block%20%E2%94%80%20P-interior.png)
 
 ## Tercero
 
