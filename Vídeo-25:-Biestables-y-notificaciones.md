@@ -144,6 +144,12 @@ Lo **cargamos** y lo **probamos**
 
 ## Ejemplo 5: Sistema automático de subida y bajada de barrera
 
+En el ejercicio 2 del [Tutorial 16](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-16:-Sensores-de-Infrarrojos-(IR)) propusimos hacer una barrera que se levantase cuando llegase un vehículo, y que se cerrase cuando no lo detectase.  Se trataba de un **circuito combinacional**, usando un único sensor de IR. Aunque era muy divertido, la barrera era poco funcional
+
+Mejoraremos ese ejercicio. Incluiremos **dos sensores de IR**, que generan los eventos: **Ha llegado un vehículo** y **Vehículo ha entrado en recinto**. El **sensor 1** está colocado en **la entrada**, y detecta los **vehículos** que **quieren entrar** en el recinto. El **sensor 2** está colocado dentro del recinto, y detecta los vehículos que **han entrado** en el recinto
+
+(Dibujo)
+
 (TODO)
 
 ## Ejemplo 6: Caja fuerte con apertura con código
