@@ -614,7 +614,7 @@ Como **circuito de pruebas** conectar **4 interruptores externos** para seleccio
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/DFDa8fraJM4/0.jpg)](https://www.youtube.com/watch?v=DFDa8fraJM4)
 
 ### Ejercicio 24.3
 ![]()
