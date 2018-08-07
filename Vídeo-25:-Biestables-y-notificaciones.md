@@ -152,7 +152,15 @@ Mejoraremos ese ejercicio. Incluiremos **dos sensores de IR**, que generan los e
 
 El **funcionamiento de la barrera** es el siguiente. Cuando llega un vehículo, lo detecta el **sensor 1** y la barrera se abre. El vehículo entra. Una vez dentro, el **sensor 2** lo detecta y cierra la barrera. Se muestra en esta **animación**
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/barrera-02.gif)
+
+Queremos diseñar un **circuito controlador** que haga que la barrera se mueva de esta forma. ¿Cómo sería?
+
+(Circuito)
+
+(Montaje)
+
+(Vídeo demo)
 
 (TODO)
 
