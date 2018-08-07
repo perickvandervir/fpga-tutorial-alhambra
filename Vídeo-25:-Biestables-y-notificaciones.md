@@ -150,6 +150,9 @@ Mejoraremos ese ejercicio. Incluiremos **dos sensores de IR**, que generan los e
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/barrera-01.png)
 
+El **funcionamiento de la barrera** es el siguiente. Cuando llega un vehículo, lo detecta el **sensor 1** y la barrera se abre. El vehículo entra. Una vez dentro, el **sensor 2** lo detecta y cierra la barrera. Se muestra en esta **animación**
+
+(Animación)
 
 (TODO)
 
