@@ -172,9 +172,6 @@ En esta **simulación-animación** se muestra el circuito y lo que está ocurrie
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/barrera-05.gif)
 
-
-(TODO)
-
 ## Ejemplo 6: Caja fuerte con apertura con código
 
 (TODO)
