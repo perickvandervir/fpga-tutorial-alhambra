@@ -26,6 +26,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 3: Encender un LED con sensor IR, sin biestable](#ejemplo-3-encender-un-led-con-sensor-ir-sin-biestable)
   * [Ejemplo 4: Notificación de presencia](#ejemplo-4-notificaci%C3%B3n-de-presencia)
   * [Ejemplo 5: Sistema automático de subida y bajada de barrera](#ejemplo-5-sistema-autom%C3%A1tico-de-subida-y-bajada-de-barrera)
+  * [Ejemplo 6: Caja fuerte con apertura con código](#ejemplo-6-caja-fuerte-con-apertura-con-c%C3%B3digo)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
