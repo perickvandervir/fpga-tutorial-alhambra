@@ -168,7 +168,10 @@ Lo **cargamos** y lo **probamos**. En este **vídeo** de Youtube se muestra su f
 
 [![Click to see the youtube video](http://img.youtube.com/vi/a9gnKUaNNQw/0.jpg)](https://www.youtube.com/watch?v=a9gnKUaNNQw)
 
-(animación-sumulación)
+En esta **simulación-animación** se muestra el circuito y lo que está ocurriendo en su interior mientras el vehículo se desplaza y activa los sensores de infrarrojos
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/barrera-05.gif)
+
 
 (TODO)
 
