@@ -166,7 +166,7 @@ Este es el **montaje**. En la **izquierda** se encuentra el **sensor 1**, de det
 
 Lo **cargamos** y lo **probamos**
 
-(Vídeo demo)
+[![Click to see the youtube video](http://img.youtube.com/vi/a9gnKUaNNQw/0.jpg)](https://www.youtube.com/watch?v=a9gnKUaNNQw)
 
 (animación-sumulación)
 
