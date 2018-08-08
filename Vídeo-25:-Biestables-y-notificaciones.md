@@ -160,10 +160,13 @@ Utilizaremos un **biestble** para representar el **estado de la barrera**. Cuand
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/barrera-03.png)
 
+Este es el **montaje**. En la **izquierda** se encuentra el **sensor 1**, de detección de los coches que quieren entrar. En la **derecha** el **sensor 2**, para detectar los que ya están dentro. Y en el **centro** el **serv**o que sube y baja la **barrera**
 
-(Montaje)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/barrera-04.png)
 
 (Vídeo demo)
+
+(animación-sumulación)
 
 (TODO)
 
