@@ -164,7 +164,7 @@ Este es el **montaje**. En la **izquierda** se encuentra el **sensor 1**, de det
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/barrera-04.png)
 
-Lo **cargamos** y lo **probamos**
+Lo **cargamos** y lo **probamos**. En este **vídeo** de Youtube se muestra su funcionamiento
 
 [![Click to see the youtube video](http://img.youtube.com/vi/a9gnKUaNNQw/0.jpg)](https://www.youtube.com/watch?v=a9gnKUaNNQw)
 
