@@ -164,6 +164,8 @@ Este es el **montaje**. En la **izquierda** se encuentra el **sensor 1**, de det
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/barrera-04.png)
 
+Lo **cargamos** y lo **probamos**
+
 (Vídeo demo)
 
 (animación-sumulación)
