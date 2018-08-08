@@ -158,7 +158,8 @@ Queremos diseñar un **circuito controlador** que haga que la barrera se mueva d
 
 Utilizaremos un **biestble** para representar el **estado de la barrera**. Cuando esté a **1**, la barrera estará **levantada**, y cuando esté a **0** **bajada**. El **sensor 1** emite el evento "Ha llegado vehículo. Cuando esto ocurre, queremos que la barrera pase al **estado de levantada**, por lo que lo conectamos a la entrada **SET** del biestable, para registrar el evento. El **sensor 2** emite el evento "Vehículo dentro". Cuando esto ocurre hay que **bajar la barrera**, por lo que lo conectamos a la entrada de **RESET**. Por último conectamos la **salida del biestable** al **servo** que maneja la barrera. ¡Listo! Fácil, ¿no?
 
-(Circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/barrera-03.png)
+
 
 (Montaje)
 
