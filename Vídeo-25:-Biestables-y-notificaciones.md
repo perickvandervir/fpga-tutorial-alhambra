@@ -27,6 +27,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 4: Notificación de presencia](#ejemplo-4-notificaci%C3%B3n-de-presencia)
   * [Ejemplo 5: Sistema automático de subida y bajada de barrera](#ejemplo-5-sistema-autom%C3%A1tico-de-subida-y-bajada-de-barrera)
   * [Ejemplo 6: Caja fuerte con apertura con código](#ejemplo-6-caja-fuerte-con-apertura-con-c%C3%B3digo)
+  * [Ejemplo 7: Alarma persistente](#ejemplo-7-alarma-persistente)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
