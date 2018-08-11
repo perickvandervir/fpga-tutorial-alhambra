@@ -199,6 +199,8 @@ Para detectar el **código** usamos un **circuito combinacional** a partir de un
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/caja-fuerte-05.png)
 
+Este es el **montaje del circuito**, para realizar las pruebas. Se incluyen los **4 interruptores externos**, los **dos pulsadores**, los **dos LEDs** y **un servo** que representa la **puerta de la caja**
+
 (Montaje)
 
 (Vídeo funcionamiento)
