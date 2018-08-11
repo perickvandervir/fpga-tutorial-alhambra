@@ -203,6 +203,8 @@ Este es el **montaje del circuito**, para realizar las pruebas. Se incluyen los 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/caja-fuerte-06.png)
 
+Lo **cargamos** y lo **probamos**. En este **vídeo** se puede ver su **funcionamiento** en acción
+
 (Vídeo funcionamiento)
 
 (Animación-simulación)
