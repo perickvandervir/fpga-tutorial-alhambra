@@ -189,6 +189,12 @@ El **panel** tiene **4 interruptores** para introducir **el código** (en binari
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/caja-fuerte-03.png)
 
+Ahora nos falta la otra parte del circuito. La caja se abrirá cuando se produzca un **evento de apertura de caja**. Esto se consigue cuando se producen a la vez otros dos eventos: uno de **código correcto** y otro de **pulsación del botón de abrir**. Por eso se usa una **puerta AND** que llega a la entrada **SET** del biestable
+
+Por otro lado, el **botón de cerrar** se conecta a la entrada de **RESET del biestable**. Cada vez que se aprieta, el biestable pasa a valer **0** y se cierra la caja
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/caja-fuerte-04.png)
+
 (TODO)
 
 ## Ejemplo 7: Alarma persistente
