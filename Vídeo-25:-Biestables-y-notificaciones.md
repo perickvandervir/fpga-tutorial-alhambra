@@ -175,6 +175,8 @@ En esta **simulación-animación** se muestra el circuito y lo que está ocurrie
 
 ## Ejemplo 6: Caja fuerte con apertura con código
 
+Retomaremos el ejemplo de la apertura de una caja fuerte con un código, que ya vimos en los tutoriales [12](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-12:-Interruptores-y-pulsadores-externos), [17](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/VIDEO-17:-Puertas-l%C3%B3gicas:-OR) y el ejericio 2 del [19](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-19:-Circuitos-combinacionales)
+
 (TODO)
 
 ## Ejemplo 7: Alarma persistente
