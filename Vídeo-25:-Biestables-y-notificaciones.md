@@ -207,10 +207,9 @@ Lo **cargamos** y lo **probamos**. En este **vídeo** se puede ver su **funciona
 
 [![Click to see the youtube video](http://img.youtube.com/vi/AiVJN9NTNDc/0.jpg)](https://www.youtube.com/watch?v=AiVJN9NTNDc)
 
-(Animación-simulación)
+En esta **simulación-animación** se muestra lo que está ocurriendo en el circuito
 
-
-(TODO)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/caja-fuerte-07.gif)
 
 ## Ejemplo 7: Alarma persistente
 
