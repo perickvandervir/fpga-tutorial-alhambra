@@ -185,6 +185,10 @@ El **panel** tiene **4 interruptores** para introducir **el código** (en binari
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/caja-fuerte-02.gif)
 
+¿Cómo sería el circuito?. Lo diseñaremos por partes. Usaremos un **biestable** para almacenar el **estado de la caja**: 0-cerrada, y 1-abierta. Cuando el biestable pase a valer 1, la caja estará abierta, y se abrirá la puerta a través del servo. También se encenderá el **LED verde**. Cuando está cerrada, el **LED rojo** está encendido, el verde apagado y el servo en la posición de cerrado
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/caja-fuerte-03.png)
+
 (TODO)
 
 ## Ejemplo 7: Alarma persistente
