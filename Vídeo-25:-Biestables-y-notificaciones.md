@@ -179,7 +179,7 @@ Retomaremos el ejemplo de la apertura de una **caja fuerte** con un código, que
 
 Añadiremos un **biestable** para que **la cerradura permanezca abierta** una vez que el código sea correcto y se pulse el **botón de abrir**
 
-(dibujo panel)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/caja-fuerte-01.png)
 
 (TODO)
 
