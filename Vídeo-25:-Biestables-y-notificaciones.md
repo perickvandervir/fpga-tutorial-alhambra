@@ -197,7 +197,8 @@ Por otro lado, el **botón de cerrar** se conecta a la entrada de **RESET del bi
 
 Para detectar el **código** usamos un **circuito combinacional** a partir de una **tabla de verdad**. Sus salidas son siempre 0 excepto cuando por los interruptores llega el **código 1010**. Modificando esta tabla cambiamos el **código de apertura**. El **circuito completo** es el siguiente:
 
-(Foto circuito completo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/caja-fuerte-05.png)
+
 
 (TODO)
 
