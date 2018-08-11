@@ -181,6 +181,10 @@ Añadiremos un **biestable** para que **la cerradura permanezca abierta** una ve
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/caja-fuerte-01.png)
 
+El **panel** tiene **4 interruptores** para introducir **el código** (en binario), un **pulsador** para **abrir** la caja y otro para **cerrarla**. Hay **dos LEDs**, uno **rojo** que indica que la caja está cerrada y uno **verde** que se enciende cuando está abierta. En esta **animación** se muestra en funcionamiento
+
+(animación)
+
 (TODO)
 
 ## Ejemplo 7: Alarma persistente
