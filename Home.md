@@ -59,7 +59,7 @@ Estudiante que se encuentran cursando el **segundo año** de la **academia de Ha
 |--------|-------------------|----------|-----------|
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|    Federico Coca | Aspirante a Jedi Nivel 3| 385 (+85)|
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|    Ximo Catala (Ximocat) | Aspirante a Jedi Nivel 3| 385 (+35)|
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|    Josep Montoliu (Klarojms) | Aspirante a Jedi Nivel 3| 385 (+15)|
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|    Josep Montoliu (Klarojms) | Aspirante a Jedi Nivel 3| 385 (+20)|
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|    Joaquín Cubillo (jcubilloarr) | Aspirante a Jedi Nivel 3| 385 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|   Andrés (@Avarez_) | Aspirante a Jedi Nivel 3| 360 (+3) |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|    Viriato (@SrViriato) | Aspirante a Jedi Nivel 3| 360 |
