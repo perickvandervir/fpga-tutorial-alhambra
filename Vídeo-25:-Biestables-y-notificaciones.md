@@ -199,6 +199,12 @@ Para detectar el **código** usamos un **circuito combinacional** a partir de un
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/caja-fuerte-05.png)
 
+(Montaje)
+
+(Vídeo funcionamiento)
+
+(Animación-simulación)
+
 
 (TODO)
 
