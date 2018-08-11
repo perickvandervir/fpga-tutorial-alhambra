@@ -212,7 +212,7 @@ En esta **simulación-animación** se muestra lo que está ocurriendo en el circ
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/caja-fuerte-07.gif)
 
-## Ejemplo 7: Alarma persistente
+## Ejemplo 7: Alarma antirrobo
 
 (TODO)
 
