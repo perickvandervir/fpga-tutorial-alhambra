@@ -205,7 +205,7 @@ Este es el **montaje del circuito**, para realizar las pruebas. Se incluyen los 
 
 Lo **cargamos** y lo **probamos**. En este **vídeo** se puede ver su **funcionamiento** en acción
 
-(Vídeo funcionamiento)
+[![Click to see the youtube video](http://img.youtube.com/vi/AiVJN9NTNDc/0.jpg)](https://www.youtube.com/watch?v=AiVJN9NTNDc)
 
 (Animación-simulación)
 
