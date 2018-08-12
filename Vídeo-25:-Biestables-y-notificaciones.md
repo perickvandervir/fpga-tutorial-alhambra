@@ -340,6 +340,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * Dibujo Diamante: [Wikipedia](https://es.m.wikipedia.org/wiki/Archivo:Twemoji_1f48e.svg)
 
+* Altavoz: Icono diseñados por [Freepik](http://www.freepik.com) en [www.flaticon.com](https://www.flaticon.es/). Licencia:  [Creative Commons BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 
 
 
