@@ -222,11 +222,9 @@ Inicialmente la alarma está desconectada. Para ponerla en marcha, primero **col
 
 Si estando la almarma activada alguien **sustrae el objeto**, se **disparará** y empezará a sonar la sirena acústica y a parpadear el **LED rojo**
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/alarma-02.gif)
 
-
-
-
+¿Cómo sería el circuito?
 
 (TODO)
 
