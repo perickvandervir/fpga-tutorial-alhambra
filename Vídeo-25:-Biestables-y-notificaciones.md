@@ -214,7 +214,19 @@ En esta **simulación-animación** se muestra lo que está ocurriendo en el circ
 
 ## Ejemplo 7: Alarma antirrobo
 
+Diseñaremos una alarma **antirrobo** para una joyería o museo. Un **sensor de presencia** detectará que un objeto no sea robado. Si alguien se lo lleva, la **alarma se disparará** y se activarán dos **sirenas**, una acústica y otra luminosa
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/alarma-01.png)
+
+Inicialmente la alarma está desconectada. Para ponerla en marcha, primero **colocamos el objeto a proteger** y luego apretamos el **botón de activar**. En ese momento el **LED verde** empezará a **parpadear** para indicar que está activada. En cualquier momento se puede desactivar pulsando el **botón de desactivar**
+
+Si estando la almarma activada alguien **sustrae el objeto**, se **disparará** y empezará a sonar la sirena acústica y a parpadear el **LED rojo**
+
+(Animación)
+
+
+
+
 
 (TODO)
 
