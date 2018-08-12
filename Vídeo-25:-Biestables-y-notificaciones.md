@@ -356,7 +356,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * Altavoz: Icono diseñados por [Freepik](http://www.freepik.com) en [www.flaticon.com](https://www.flaticon.es/). Licencia:  [Creative Commons BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 
-
+* Palma mano: Icono diseñados por [Freepik](http://www.freepik.com) en [www.flaticon.com](https://www.flaticon.es/). Licencia:  [Creative Commons BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 
 # Enlaces
 
