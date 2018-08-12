@@ -228,6 +228,10 @@ Si estando la almarma activada alguien **sustrae el objeto**, se **disparará** 
 
 (TODO)
 
+(Video)
+
+[![Click to see the youtube video](http://img.youtube.com/vi/6yUS0LooX5Q/0.jpg)](https://www.youtube.com/watch?v=6yUS0LooX5Q)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
