@@ -214,6 +214,8 @@ En esta **simulación-animación** se muestra lo que está ocurriendo en el circ
 
 ## Ejemplo 7: Alarma antirrobo
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/alarma-01.png)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
