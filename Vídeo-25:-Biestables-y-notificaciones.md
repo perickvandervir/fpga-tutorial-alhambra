@@ -226,11 +226,49 @@ Si estando la almarma activada alguien **sustrae el objeto**, se **disparará** 
 
 ¿Cómo sería el circuito?
 
-(TODO)
+Empezaremos por las partes que ya conocemos. Los circuitos que hacen **sonar la alarma** y **parpadear el LED** ya los conocemos. Con ellos creamos los bloques **Sirena** y **Baliza**, que están disponibles en la colección del tutorial 25, en el menú **Varios/Accesorios**
 
-(Video)
+La **sirena** tiene una entrada de habilitación. Cuando se pone a **1** empieza a **sonar**. El sonido se lo componen dos señales cuadradas de **1Khz** y **2Khz**, que se alternan a la frecuencia de **4Hz**
+
+La **baliza** también tiene una **entrada de habilitación** para hacer que funcione al activarse. Simplemente hace **parpadear el LED** conectado a su salida a la frecuencia de **2Hz**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/alarma-03.png)
+
+Para nuestra alarma antirrobo usaremos **2 biestables**: uno para notificar que la alarma **está activada** y otro para indicar que se **ha disparado**
+
+La **alarma se activa** si está **colocado** el objeto a proteger (el sensor detecta el objeto) y se **aprieta** el **botón de activar**. Se **desactiva** pulsando el **botón de desactivar**. El circuito que **implementa** esta parte es el siguiente:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/alarma-04.png)
+
+La **alarma se dispara** si está **activada** y se **sustrae el objeto**, es decir, si mientras está activada el sensor de infrarrojos **deja de detectar** el objeto. Una vez disparada, se puede **apagar** con el mismo pulsador de desactivar. Esto lo **modelamos** con el siguiente circuito:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/alarma-05.png)
+
+La **salida** de este biestable la usamos para **activar la Sirena** y **la baliza**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/alarma-06.png)
+
+Sólo nos queda por hacer el **circuito de control del LED verde**. Cuando la alarma está **apagada**, muestra el estado del sensor de infrarrojos: se enciende si hay objeto y se apaga cuando no está. Esto nos permite saber cuándo está el objeto bien colocado. Cuando la alarma está **activada**, el LED se pone a parpadear a 1Hz. Usamos un **multiplexor de 2 a 1** seleccionado mediante el **biestable 1**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/alarma-07.png)
+
+
+El **circuito completo** es el siguiente
+
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/alarma-08.png)
+
+Este es el **montaje** en el panel de corcho. El objeto a proteger es un coche de juguete :-)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/alarma-09.jpg)
+
+Lo **cargamos** y lo **probamos**. En este **vídeo** se muestra en funcionamiento
 
 [![Click to see the youtube video](http://img.youtube.com/vi/6yUS0LooX5Q/0.jpg)](https://www.youtube.com/watch?v=6yUS0LooX5Q)
+
+(TODO)
+
+(animación)
 
 # Ejercicios propuestos (X BitPoints)
 
