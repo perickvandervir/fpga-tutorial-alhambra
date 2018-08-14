@@ -266,9 +266,9 @@ Lo **cargamos** y lo **probamos**. En este **vídeo** se muestra en funcionamien
 
 [![Click to see the youtube video](http://img.youtube.com/vi/6yUS0LooX5Q/0.jpg)](https://www.youtube.com/watch?v=6yUS0LooX5Q)
 
-(TODO)
+Y en esta **animación-simulación** se pueden ver los que ocurre **dentro del circuito**:
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/alarma-10.gif)
 
 # Ejercicios propuestos (X BitPoints)
 
