@@ -28,7 +28,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 5: Sistema automático de subida y bajada de barrera](#ejemplo-5-sistema-autom%C3%A1tico-de-subida-y-bajada-de-barrera)
   * [Ejemplo 6: Caja fuerte con apertura con código](#ejemplo-6-caja-fuerte-con-apertura-con-c%C3%B3digo)
   * [Ejemplo 7: Alarma antirrobo](#ejemplo-7-alarma-antirrobo)
-* Ejercicios propuestos (X Bitpoints)
+* [Ejercicios propuestos (25 Bitpoints)](#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
 * [Licencia](#licencia)
