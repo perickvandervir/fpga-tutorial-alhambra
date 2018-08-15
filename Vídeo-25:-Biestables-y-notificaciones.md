@@ -284,9 +284,7 @@ En esta **animación** se muestra el funcionamiento pedido
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/ejercicio-1.gif)
 
-* **Ejercicio 25.2** (Total **5 Bitpoints**): 
-
-(5 Bitpoints). Alarma de presencia
+* **Ejercicio 25.2** (Total **5 Bitpoints**):  **Alarma de presencia**
 
 Sistema de alarma de detección de intrusos. Se usarán **dos sensores IR** para detectar la llegada de un intruso. Cuando cualquiera de los dos sensores se active, la alarma se **disparará** y empezarán a sonar dos tonos, de 1Khz y 2Khz alternativamente a la frecuencia de 4Hz, y dos LEDs parpadearán intermitentemente a 2Hz. La alarma estará sonando hasta que se **desactive**. Para su desactivación será necesario introducir una **clave de 3 bits** mediante **3 interruptores externos** y apretar el **pulsador de desactivación**. El código de desactivación es **101**
 
