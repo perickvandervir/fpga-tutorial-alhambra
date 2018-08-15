@@ -270,13 +270,19 @@ Y en esta **animación-simulación** se pueden ver los que ocurre **dentro del c
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/alarma-10.gif)
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (25 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
 **Resumen**:
 
-* **Ejercicio 25.1** (Total **x Bitpoints**): 
+* **Ejercicio 25.1** (Total **5 Bitpoints**): Captando la atención de Franky
+
+Colocar **dos sensores de infrarrojos**. Franky se quedará mirando siempre al último que se haya activado. Si se detecta algo por la derecha, girará su cuello hacia la derecha y permanecerá en esa posición. Si detecta algo por la izquierda, girará el cuello a la izquierda y permancerá en esa posición. Colocar también **dos LEDs**, uno a la derecha y otro a la izquierda. Según en la posición en la que esté mirando Franky, se iluminará uno u otro
+
+En esta **animación** se muestra el funcionamiento pedido
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/ejercicio-1.gif)
 
 * **Ejercicio 25.2** (Total **x Bitpoints**): 
 
