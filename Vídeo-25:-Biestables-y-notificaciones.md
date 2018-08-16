@@ -1,6 +1,8 @@
-![]()
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/Portada/Tut-25-portada.png)
 
 # Vídeo
+
+(En construcción...)
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
@@ -8,7 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-(TODO)
+Para **almacenar** los bits necesitamos un nuevo componente: **el biestable**. Con estos elementos, nuestros circuitos pueden **recordar** eventos ocurridos en el  **pasado**, y no sólo en el presente. Haremos ejemplos de uso de biestables en circuitos simples, para ganar **intuición** sobre cómo utiliarlos
 
 # Colección
 
@@ -303,6 +305,16 @@ En este **vídeo de youtube** se muestra el funcionamiento pedido
 [![Click to see the youtube video](http://img.youtube.com/vi/Ient0K6_2YY/0.jpg)](https://www.youtube.com/watch?v=Ient0K6_2YY)
 
 * **Ejercicio 25.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
+
+# Conclusiones
+
+Los **biestables** nos permiten que los circuitos tengan un **estado** interno. Parten de un **estado inicial** (Por ejemplo, alarma desactivada). Las **entradas** cambian este estado, almacenando unos o ceros en sus biestables. Y a partir de este estado, se generan las **salidas**. Esta es una idea **muy importante**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/conclusiones-1.png)
+
+La combinación de biestables con circuitos combinacionales produce un nuevo tipo de circuitos llamados **secuenciales**. Con ellos podemos diseñar **Autómatas finitos**, también llamados **máquinas de estados**. Estos circuitos sirven para muchas cosas, entre ellas para implementar las **unidades de control** de los **microprocesadores**
+
+Aunque existen **técnicas formales** para el **diseño de autómatas**, nosotros usaremos un enfoque más **informal**, que nos permita **desarrollar la intución**. Nuestros circuitos no serán los óptimos, pero serán muy intuitivos. Una vez desarrollada esta capacidad de **pensar en hardware**, nos resultará más fácil aprender las técnicas formales
 
 # Ejercicios entregados
 
