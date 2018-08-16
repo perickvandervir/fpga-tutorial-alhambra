@@ -14,7 +14,7 @@ Para **almacenar** los bits necesitamos un nuevo componente: **el biestable**. C
 
 # Colección
 
-**Academia-Jedi-HW-25.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-25.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/Colecctions/Academia-Jedi-HW-25.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
