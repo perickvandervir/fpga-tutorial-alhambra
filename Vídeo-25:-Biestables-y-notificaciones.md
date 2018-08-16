@@ -292,7 +292,15 @@ En este **vídeo de youtube** se muestra el funcionamiento pedido
 
 [![Click to see the youtube video](http://img.youtube.com/vi/YHQ2nBD1S8s/0.jpg)](https://www.youtube.com/watch?v=YHQ2nBD1S8s)
 
-* **Ejercicio 25.3** (Total **x Bitpoints**): 
+* **Ejercicio 25.3** (Total **10 Bitpoints**): Juego: ¡Primero en pulsar!
+
+Diseñar un circuito para jugar al juego de **primero en pulsar**, en el que **gana** el jugador que aprieta  
+antes el pulsador. Hay **dos jugadores**. Cada uno tiene **un pulsador** y un **LED externos**. Cuando el **árbitro** termine de formular una pregunta, el jugador que apriete el pulsador antes ganará, y podrá reponderla. Para ello,  
+el circuito debe **encender el LED del jugador que primero aprieta el pulsador**, y cuando esto ocurre, **anular el pulsador del otro jugador**. Para apagar el LED del ganador, se aprieta el **pulsador SW1**. Hay un **tercer LED** que **parpadea a 1Hz**, indicando que el circuito está **esperando** a los jugadores aprieten sus pulsadores
+
+En este **vídeo de youtube** se muestra el funcionamiento pedido
+
+[![Click to see the youtube video](http://img.youtube.com/vi/Ient0K6_2YY/0.jpg)]( https://www.youtube.com/watch?v=Ient0K6_2YY)
 
 * **Ejercicio 25.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
