@@ -272,6 +272,16 @@ Y en esta **animación-simulación** se pueden ver los que ocurre **dentro del c
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/alarma-10.gif)
 
+# Conclusiones
+
+Los **biestables** nos permiten que los circuitos tengan un **estado** interno. Parten de un **estado inicial** (Por ejemplo, alarma desactivada). Las **entradas** cambian este estado, almacenando unos o ceros en sus biestables. Y a partir de este estado, se generan las **salidas**. Esta es una idea **muy importante**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/conclusiones-1.png)
+
+La combinación de biestables con circuitos combinacionales produce un nuevo tipo de circuitos llamados **secuenciales**. Con ellos podemos diseñar **Autómatas finitos**, también llamados **máquinas de estados**. Estos circuitos sirven para muchas cosas, entre ellas para implementar las **unidades de control** de los **microprocesadores**
+
+Aunque existen **técnicas formales** para el **diseño de autómatas**, nosotros usaremos un enfoque más **informal**, que nos permita **desarrollar la intución**. Nuestros circuitos no serán los óptimos, pero serán muy intuitivos. Una vez desarrollada esta capacidad de **pensar en hardware**, nos resultará más fácil aprender las técnicas formales
+
 # Ejercicios propuestos (25 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
@@ -306,15 +316,6 @@ En este **vídeo de youtube** se muestra el funcionamiento pedido
 
 * **Ejercicio 25.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
-# Conclusiones
-
-Los **biestables** nos permiten que los circuitos tengan un **estado** interno. Parten de un **estado inicial** (Por ejemplo, alarma desactivada). Las **entradas** cambian este estado, almacenando unos o ceros en sus biestables. Y a partir de este estado, se generan las **salidas**. Esta es una idea **muy importante**
-
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-25/conclusiones-1.png)
-
-La combinación de biestables con circuitos combinacionales produce un nuevo tipo de circuitos llamados **secuenciales**. Con ellos podemos diseñar **Autómatas finitos**, también llamados **máquinas de estados**. Estos circuitos sirven para muchas cosas, entre ellas para implementar las **unidades de control** de los **microprocesadores**
-
-Aunque existen **técnicas formales** para el **diseño de autómatas**, nosotros usaremos un enfoque más **informal**, que nos permita **desarrollar la intución**. Nuestros circuitos no serán los óptimos, pero serán muy intuitivos. Una vez desarrollada esta capacidad de **pensar en hardware**, nos resultará más fácil aprender las técnicas formales
 
 # Ejercicios entregados
 
