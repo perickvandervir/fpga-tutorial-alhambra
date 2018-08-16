@@ -300,7 +300,7 @@ el circuito debe **encender el LED del jugador que primero aprieta el pulsador**
 
 En este **vídeo de youtube** se muestra el funcionamiento pedido
 
-[![Click to see the youtube video](http://img.youtube.com/vi/Ient0K6_2YY/0.jpg)]( https://www.youtube.com/watch?v=Ient0K6_2YY)
+[![Click to see the youtube video](http://img.youtube.com/vi/Ient0K6_2YY/0.jpg)](https://www.youtube.com/watch?v=Ient0K6_2YY)
 
 * **Ejercicio 25.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
