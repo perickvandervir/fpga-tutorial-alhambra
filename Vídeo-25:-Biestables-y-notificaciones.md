@@ -320,14 +320,15 @@ En este **vídeo de youtube** se muestra el funcionamiento pedido
 
 # Ejercicios entregados
 
-## Primero
+## Josep Montoliu (Klarojms)
 
 ### Ejercicio 25.1
-![]()
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/blob/master/Tutorial-25/klarojms/Ejercicio%201-1.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/XXy24nj4dTg/0.jpg)](https://www.youtube.com/watch?v=XXy24nj4dTg)
 
 ### Ejercicio 25.2
 ![]()
