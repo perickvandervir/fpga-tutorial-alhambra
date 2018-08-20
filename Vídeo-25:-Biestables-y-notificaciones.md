@@ -33,6 +33,7 @@ Para **almacenar** los bits necesitamos un nuevo componente: **el biestable**. C
 * [Conclusiones](#conclusiones)
 * [Ejercicios propuestos (25 Bitpoints)](#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
+  * [Josep Montoliu (Klarojms)](#josep-montoliu-klarojms)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Créditos y agradecimientos](#cr%C3%A9ditos-y-agradecimientos)
