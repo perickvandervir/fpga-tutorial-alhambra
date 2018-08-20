@@ -267,8 +267,12 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 | 15  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/15-Aspirante-jedi-N1.png) | **Aspirante a Jedi Nivel 1** | 300 | Ya has pasado de usar bits aislados a **números**, que se transmiten por los **Buses**. Tu capacidad para crear **circuitos complejos** ha aumentado |
 | 16  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/16-Aspirante-jedi-N2.png) | **Aspirante a Jedi Nivel 2** | 330 | Conoces el secreto de la **creación de bloques**, y sabes diseñar **circuitos combinacionales** de cualquier número de entradas y salidas, a partir de sus **tablas de verdad** |
 | 17  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3.png) | **Aspirante a Jedi Nivel 3** | 360 | ¡Ya sabes crear tus propias **colecciones**! |
-| 18  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi.png) | **Jedi** | 400 | Has descubierto el secreto de los **biestables**, y esto te abre el camino para aprender **circuitos secuenciales**. Tu poder de Jedi Hardware ha aumentado considerablemente... |
 
+### Academia Jedi: Tercer Curso
+
+| Núm   | Divisa     | Rango  |  Bitpoints  | Descripción |
+|-------|----------|--------|-------------|-------------|
+| 18  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi.png) | **Jedi** | 400 | Has descubierto el secreto de los **biestables**, y esto te abre el camino para aprender **circuitos secuenciales**. Tu poder de Jedi Hardware ha aumentado considerablemente... |
 
 ### Pendiente...
 
