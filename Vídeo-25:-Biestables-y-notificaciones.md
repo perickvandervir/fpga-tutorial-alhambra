@@ -344,11 +344,12 @@ En este **vídeo de youtube** se muestra el funcionamiento pedido
 [![Click to see the youtube video](http://img.youtube.com/vi/tFwcBCXJkew/0.jpg)](https://www.youtube.com/watch?v=tFwcBCXJkew)
 
 ### Ejercicio 25.3
-![]()
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-25/klarojms/Ejercicio%203-1.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/yGcb-L4tnI0/0.jpg)](https://www.youtube.com/watch?v=yGcb-L4tnI0)
 
 ### Ejercicio 25.4
 ![]()
