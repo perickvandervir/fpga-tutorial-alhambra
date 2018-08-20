@@ -388,14 +388,12 @@ En este **vídeo de youtube** se muestra el funcionamiento pedido
 
 [![Click to see the youtube video](http://img.youtube.com/vi/6St0hDa0Qmc/0.jpg)](https://www.youtube.com/watch?v=6St0hDa0Qmc)
 
-## Tercero
+## Viriato (@SrViriato)
 
 ### Ejercicio 25.1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-25/Viriato/Ejercicio-25-1/Captura%20de%20pantalla%20-2018-08-17%2020-49-10.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/SrViriato/status/1030766777809231873)
 
 ### Ejercicio 25.2
 ![]()
