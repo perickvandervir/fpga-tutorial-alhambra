@@ -386,7 +386,7 @@ En este **vídeo de youtube** se muestra el funcionamiento pedido
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=6St0hDa0Qmc)
+[![Click to see the youtube video](http://img.youtube.com/vi/6St0hDa0Qmc/0.jpg)](https://www.youtube.com/watch?v=6St0hDa0Qmc)
 
 ## Tercero
 
