@@ -47,7 +47,14 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 
 ### Tercer curso
 
+Estudiante que se encuentran cursando el **tercer año** de la **academia de Hardware Jedi**. Para acceder al tercer curso tienes que ser **Jedi**, para lo que necesitas un mínimo de **400 Bitpoints**
+
 [[https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/insignias/Academia-jedi-rojo.png|width=200px]]
+
+|Divisa  | Nombe             | Rango    | BitPoints |
+|--------|-------------------|----------|-----------|
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi-min.png)|    Josep Montoliu (Klarojms) | Jedi| 410 (+20)|
+
 
 ### Segundo curso
 
@@ -59,7 +66,6 @@ Estudiante que se encuentran cursando el **segundo año** de la **academia de Ha
 |--------|-------------------|----------|-----------|
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|    Federico Coca | Aspirante a Jedi Nivel 3| 385 (+85)|
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|    Ximo Catala (Ximocat) | Aspirante a Jedi Nivel 3| 385 (+35)|
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|    Josep Montoliu (Klarojms) | Aspirante a Jedi Nivel 3| 385 (+20)|
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|   Andrés (@Avarez_) | Aspirante a Jedi Nivel 3| 385 (+3) |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|    Joaquín Cubillo (jcubilloarr) | Aspirante a Jedi Nivel 3| 385 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|    Viriato (@SrViriato) | Aspirante a Jedi Nivel 3| 385 |
