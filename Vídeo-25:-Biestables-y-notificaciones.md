@@ -332,11 +332,16 @@ En este **vídeo de youtube** se muestra el funcionamiento pedido
 [![Click to see the youtube video](http://img.youtube.com/vi/XXy24nj4dTg/0.jpg)](https://www.youtube.com/watch?v=XXy24nj4dTg)
 
 ### Ejercicio 25.2
-![]()
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-25/klarojms/Ejercicio%202-1.png)
+
+* **Otra versión**, con bloques de la colección:
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-25/klarojms/Ejercicio%202-3.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/tFwcBCXJkew/0.jpg)](https://www.youtube.com/watch?v=tFwcBCXJkew)
 
 ### Ejercicio 25.3
 ![]()
