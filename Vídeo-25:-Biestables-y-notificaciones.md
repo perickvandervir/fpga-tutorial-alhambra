@@ -364,14 +364,14 @@ En este **vídeo de youtube** se muestra el funcionamiento pedido
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=KEyQu3PYaBc)
 
 
-## Segundo
+## Federico Coca (@fgcoca)
 
 ### Ejercicio 25.1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-25/fgcoca/Ejercicio-1/Ejercicio25_1%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/hqcQ7XnkKlc/0.jpg)](https://www.youtube.com/watch?v=hqcQ7XnkKlc)
 
 ### Ejercicio 25.2
 ![]()
