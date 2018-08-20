@@ -16,8 +16,6 @@ Los **displays de 7 segmentos** permiten que nuestros circuitos, que internament
 
 Este tutorial está hecho con la versión [0.3.3-rc de Icestudio](https://github.com/FPGAwars/icestudio/releases/tag/v0.3.3-rc). Asegúrate de tener instalada esta versión (o superior)
 
-(TODO)
-
 # Colección
 
 [Academia-Jedi-HW-24.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-24/Collections/Academia-Jedi-HW-24.zip): Colección para este tutorial. Descargar e instalar 
