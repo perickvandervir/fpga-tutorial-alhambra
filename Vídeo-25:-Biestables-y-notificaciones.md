@@ -35,6 +35,7 @@ Para **almacenar** los bits necesitamos un nuevo componente: **el biestable**. C
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Josep Montoliu (Klarojms)](#josep-montoliu-klarojms)
   * [Federico Coca (@fgcoca)](#federico-coca-fgcoca)
+  * [Viriato (@Srviriato)](#viriato-srviriato)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Créditos y agradecimientos](#cr%C3%A9ditos-y-agradecimientos)
