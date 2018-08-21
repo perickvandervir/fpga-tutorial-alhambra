@@ -29,7 +29,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Reloj del sistema
 
-  Los **circuitos digitales** funcionan a ritmo de un **reloj**, conocido como **reloj del sistema**. Es el que define la **velocidad máxima** a la que ocurren las cosas dentro del circuito. 
+  Los **circuitos digitales** funcionan a ritmo de un **reloj**, conocido como **reloj del sistema**. Es el que define la **velocidad máxima** a la que ocurren las cosas dentro del circuito. También nos permite **medir el tiempo**. En la **Icezum Alhambra** el reloj del sistema es de **12Mhz** 
 
 (TODO)
 
