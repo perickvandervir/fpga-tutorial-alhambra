@@ -25,6 +25,14 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
+(TODO)
+
+# Reloj del sistema
+
+  Los **circuitos digitales** funcionan a ritmo de un **reloj**, conocido como **reloj del sistema**.
+
+(TODO)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
