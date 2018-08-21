@@ -33,12 +33,13 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | 23 | [Mi primera colección](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-23:-Mi-primera-colecci%C3%B3n)
 | 24 | [Display de 7 segmentos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-24:-Display-de-7-segmentos)
 | 25 | [Biestables y notificaciones](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-25:-Biestables-y-notificaciones) |
-| 26 | Contando eventos |
-| 27 | Temporizador
-| 28 | Registros |
-| 29 | Comparadores |
-| 30 | Funciones lógicas |
-| 31 | ...
+| 26 | Tiempo, tics y temporizadores |
+| 27 | Contando eventos |
+| 28 | Biestables de datos y cambio
+| 29 | Registros |
+| 30 | Comparadores |
+| 31 | Comunicaciones serie |
+| 32 | ...
 
 
 ## Academia Jedi de hardware
