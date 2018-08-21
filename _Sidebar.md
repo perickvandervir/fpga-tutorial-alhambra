@@ -49,3 +49,5 @@
 23. [Mi primera colección](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-23:-Mi-primera-colecci%C3%B3n)
 
 24. [Display de 7 segmentos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-24:-Display-de-7-segmentos)
+
+25. [Biestables y notificaciones](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-25:-Biestables-y-notificaciones)
