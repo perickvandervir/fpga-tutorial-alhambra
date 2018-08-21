@@ -36,10 +36,14 @@ Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Elect
 | 26 | [Tiempo, tics y temporizadores](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-26:-Tiempo,-tics-y-temporizadores) (En construcción...) |
 | 27 | Contando eventos |
 | 28 | Biestables de datos y cambio
-| 29 | Registros |
-| 30 | Comparadores |
-| 31 | Comunicaciones serie |
-| 32 | ...
+| 29 | Entradas asíncronas |
+| 30 | Comunicaciones serie |
+| 31 | Comparadores |
+| 32 | Registros |
+| 33 | Máquinas |
+| 34 | Aritmética |
+| 35 | Periféricos |
+| 36 | ... |
 
 
 ## Academia Jedi de hardware
