@@ -55,6 +55,8 @@ El reloj del sistema para nosotros es como un **corazón**, que **bombea bits** 
 
 Si cada vez que llega un 1, pintásemos una marca en una carreta y avanzásemos 1 milímetro, ¡¡en un segundo habríamos pintado más de 12 Kilómetros de carretera!!
 
+## Envento: flancos de subida del sistema
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
