@@ -51,6 +51,8 @@ El reloj del sistema para nosotros es como un **corazón**, que **bombea bits** 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Reloj-sistema-05.png)
 
+**¡Esto es muy rápido!** Cada segundo, este super corazón... **¡bombea 12 millones de 1s!**. Si hacemos un circuito capaz de realizar una operación cada vez que llega un 1 del sistema, en un segundo realizaría **12 millones de estas operaciones**. Y si colocamos **dos** de estos circuitos **en paralelo**, haríamos **24 millones de operaciones por segundo**
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
