@@ -16,7 +16,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 # Contenido
 
 * [Reloj del sistema](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-26:-Tiempo,-tics-y-temporizadores#reloj-del-sistema)
-  * [Evento: Flanco de subida del sistema](#envento-flanco-de-subida-del-sistema)
+  * [Evento: Flanco de subida del sistema](#evento-flanco-de-subida-del-sistema)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
@@ -56,7 +56,7 @@ El reloj del sistema para nosotros es como un **corazón**, que **bombea bits** 
 
 Si cada vez que llega un 1, pintásemos una marca en una carreta y avanzásemos 1 milímetro, ¡¡en un segundo habríamos pintado más de 12 Kilómetros de carretera!!
 
-## Envento: flanco de subida del sistema
+## Evento: flanco de subida del sistema
 
 La señal de reloj del sistema, o en general cualquier otra señal de reloj, la representamos mediante **señales cuadradas**. Las líneas inferiores representan los ceros y las superiores los unos. El tiempo se incrementa hacia la derecha. En este ejemplo lo primero que aparece es un **1**, luego un **0**, luego 1, etc... (de izquierda a derecha)
 
