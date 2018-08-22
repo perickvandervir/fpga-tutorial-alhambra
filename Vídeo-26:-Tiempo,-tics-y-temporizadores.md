@@ -43,6 +43,10 @@ Pero el **reloj del sistema** es un **pin** más de entrada de nuestra **FPGA**,
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Reloj-sistema-03.png)
 
+Esta es la manera de hacer la **conexión manual**. Se coloca una entrada genérica, se conecta al pin de reloj, y se selecciona la etiqueta CLK
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Reloj-sistema-04.gif)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
