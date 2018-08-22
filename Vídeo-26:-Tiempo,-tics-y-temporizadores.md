@@ -78,6 +78,10 @@ Para **medir tiempo** basta con **contar estos eventos**. Cada vez que llega uno
 
 # Pulsos
 
+Cuando una señal está en reposo (a cero), se activa durante un tiempo (W) y vuelve al reposo, decimos que se ha producido **un pulso**. Al **tiempo** que permanece a **activo** (a 1) lo denominamos **anchura del pulso**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulso-01.png)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
