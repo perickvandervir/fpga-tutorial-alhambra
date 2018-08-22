@@ -47,6 +47,10 @@ Esta es la manera de hacer la **conexión manual**. Se coloca una entrada genér
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Reloj-sistema-04.gif)
 
+El reloj del sistema para nosotros es como un **corazón**, que **bombea bits** muy rápidamente. Saca unos y ceros alternativamente, a una frecuencia de **12Mhz**. O lo que es lo mismo, el **tiempo** entre dos unos consecutivos es de **83.3ns**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Reloj-sistema-05.png)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
