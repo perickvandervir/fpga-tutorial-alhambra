@@ -39,6 +39,10 @@ En icestudio, todos los componentes que tienen una entrada de reloj, **se conect
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Reloj-sistema-02.png)
 
+Pero el **reloj del sistema** es un **pin** más de entrada de nuestra **FPGA**, y **lo podemos usar** como cualquier otro. También lo podemos **conectar manualmente** a las entradas de reloj de los componentes. Estos dos circuitos, que hacen parpadear un LED a 1Hz, son **equivalentes**
+
+(Dibujo)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
