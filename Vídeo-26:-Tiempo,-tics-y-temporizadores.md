@@ -86,6 +86,8 @@ Esta **propiedad** de partir del **estado inicial**, y **volver** a él, es muy 
 
 El pulso también lo podemos ver como la **llegada de un flanco de subida**, y al cabo de un tiempo W, un **flanco de bajada**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulso-02.png)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
