@@ -33,7 +33,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 En la **Icezum Alhambra** el reloj del sistema es de **12Mhz**. Se encuentra situado **fuera de la FPGA** y la señal de reloj se introduce en ella por uno de sus pines, denominado **CLK**
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Reloj-sistema-01.png)
 
 (TODO)
 
