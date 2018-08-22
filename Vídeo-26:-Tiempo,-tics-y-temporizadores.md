@@ -58,7 +58,7 @@ Si cada vez que llega un 1, pintásemos una marca en una carreta y avanzásemos 
 
 ## Envento: flanco de subida del sistema
 
-La señal de reloj del sistema, o en general cualquier otra señal de reloj, la representamos mediante **señales cuadradas**. Las líneas inferiores representan los ceros y las superiores los unos. Tiempo se incrementa hacia la derecha. En este ejemplo lo primero que aparece es un **1**, luego un **0**, luego 1, etc... (de izquierda a derecha)
+La señal de reloj del sistema, o en general cualquier otra señal de reloj, la representamos mediante **señales cuadradas**. Las líneas inferiores representan los ceros y las superiores los unos. El tiempo se incrementa hacia la derecha. En este ejemplo lo primero que aparece es un **1**, luego un **0**, luego 1, etc... (de izquierda a derecha)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Reloj-sistema-06.png)
 
