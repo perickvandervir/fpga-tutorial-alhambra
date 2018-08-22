@@ -82,6 +82,10 @@ Cuando una señal está en reposo (a cero), se activa durante un tiempo (W) y vu
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulso-01.png)
 
+Esta **propiedad** de partir del **estado inicial**, y **volver** a él, es muy importante. Por ello, la mayoría de las veces **usaremos pulsos** para comunicar los **eventos** que ocurren en nuestro circuito
+
+El pulso también lo podemos ver como la **llegada de un flanco de subida**, y al cabo de un tiempo W, un **flanco de bajada**
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
