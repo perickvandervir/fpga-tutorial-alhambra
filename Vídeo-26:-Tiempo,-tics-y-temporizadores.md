@@ -53,6 +53,8 @@ El reloj del sistema para nosotros es como un **corazón**, que **bombea bits** 
 
 **¡Esto es muy rápido!** Cada segundo, este super corazón... **¡bombea 12 millones de 1s!**. Si hacemos un circuito capaz de realizar una operación cada vez que llega un 1 del sistema, en un segundo realizaría **12 millones de estas operaciones**. Y si colocamos **dos** de estos circuitos **en paralelo**, haríamos **24 millones de operaciones por segundo**
 
+Si cada vez que llega un 1, pintásemos una marca en una carreta y avanzásemos 1 milímetro, en un segundo habríamos pintado más de 12 Kilómetros de carretera!!
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
