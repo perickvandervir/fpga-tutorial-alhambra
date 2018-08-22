@@ -17,6 +17,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 * [Reloj del sistema](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-26:-Tiempo,-tics-y-temporizadores#reloj-del-sistema)
   * [Evento: Flanco de subida del sistema](#evento-flanco-de-subida-del-sistema)
+* [Pulsos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-26:-Tiempo,-tics-y-temporizadores#pulsos)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
