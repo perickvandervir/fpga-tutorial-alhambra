@@ -70,7 +70,7 @@ Esto nos permite **definir mejor los tiempos**. Así, el **periodo** del reloj d
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Reloj-sistema-08.png)
 
-El **reloj del sistema** lo podemos ver, por tanto, como un **corazón** que produce **eventos de flanco de subida** de forma periódica, con **periodo T** de **83.3ns**
+El **reloj del sistema** lo podemos ver, por tanto, como un **corazón** que produce **eventos de flanco de subida** de forma periódica, con **periodo T** de **83.3ns**. Vamos, que bombea Flankys 😃
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Reloj-sistema-09.png)
 
