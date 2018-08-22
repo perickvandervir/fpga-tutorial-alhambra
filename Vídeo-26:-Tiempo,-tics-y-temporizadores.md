@@ -31,9 +31,13 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
   Los **circuitos digitales** funcionan a ritmo de un **reloj**, conocido como **reloj del sistema**. Es el que define la **velocidad máxima** a la que ocurren las cosas dentro del circuito. También nos permite **medir el tiempo**. 
 
-En la **Icezum Alhambra** el reloj del sistema es de **12Mhz**. Se encuentra situado **fuera de la FPGA** y la señal de reloj se introduce en ella por uno de sus pines, denominado **CLK**
+En la **Icezum Alhambra** el reloj del sistema es de **12Mhz**. Se encuentra situado **fuera de la FPGA** y la señal de reloj se introduce en ella por uno de sus pines, denominado **CLK**, al que tenemos acceso desde **Icestudio**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Reloj-sistema-01.png)
+
+En icestudio, todos los componentes que tienen una entrada de reloj, **se conectan automáticamente** a este reloj del sistema. Esto se indica mediante un **cuadrado amarillo** conectado a la entrada de reloj del circuito
+
+(dibujo)
 
 (TODO)
 
