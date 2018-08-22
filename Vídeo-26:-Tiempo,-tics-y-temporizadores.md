@@ -35,9 +35,9 @@ En la **Icezum Alhambra** el reloj del sistema es de **12Mhz**. Se encuentra sit
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Reloj-sistema-01.png)
 
-En icestudio, todos los componentes que tienen una entrada de reloj, **se conectan automáticamente** a este reloj del sistema. Esto se indica mediante un **cuadrado amarillo** conectado a la entrada de reloj del circuito
+En icestudio, todos los componentes que tienen una entrada de reloj, **se conectan automáticamente** a este reloj del sistema. Esto se indica mediante un **cuadrado amarillo** conectado a su entrada de reloj
 
-(dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Reloj-sistema-02.png)
 
 (TODO)
 
