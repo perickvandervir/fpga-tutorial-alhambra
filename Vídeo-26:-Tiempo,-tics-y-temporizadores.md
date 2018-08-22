@@ -66,9 +66,11 @@ El **cambio de 0 a 1** es un **evento**, conocido con el nombre de **flanco de s
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Reloj-sistema-07.png)
 
-Esto nos permite **definir mejor los tiempos**. Así, el **periodo** del reloj del sistema será el **tiempo que transcurre** entre **dos flancos de subida consecutivos**. Utilizaremos una **flecha hacia arriba**, con patas, para representar estos eventos :-)
+Esto nos permite **definir mejor los tiempos**. Así, el **periodo** del reloj del sistema será el **tiempo que transcurre** entre **dos flancos de subida consecutivos**. Utilizaremos una **flecha hacia arriba**, con patas, para representar estos eventos. Se llama **Flanky** 😃
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Reloj-sistema-08.png)
+
+El **reloj del sistema** lo podemos ver, por tanto, como un **corazón** que produce **eventos de flanco de subida** de forma periódica, con **periodo T** de **83.3ns**
 
 (Dibujo: corazon sistema enviando flancos...)
 
