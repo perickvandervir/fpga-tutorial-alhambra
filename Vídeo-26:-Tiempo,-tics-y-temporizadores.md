@@ -88,6 +88,8 @@ El pulso también lo podemos ver como la **llegada de un flanco de subida**, y a
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulso-02.png)
 
+## Pulsos periódicos
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
