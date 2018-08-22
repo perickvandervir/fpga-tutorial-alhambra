@@ -62,6 +62,9 @@ La señal de reloj del sistema, o en general cualquier otra señal de reloj, la 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Reloj-sistema-06.png)
 
+El **cambio de 0 a 1** es un **evento**, conocido con el nombre de **flanco de subida**. Es el evento que usaremos como **referencia** (también podríamos usar el flanco de bajada). Se representa colocando una **flecha** en la línea de transición entre el 0 y el 1, que **apunta hacia arriba**
+
+(dibujo)
 
 
 (TODO)
