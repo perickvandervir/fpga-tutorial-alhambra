@@ -91,9 +91,10 @@ El pulso también lo podemos ver como la **llegada de un flanco de subida**, y a
 
 ## Pulsos periódicos
 
-Los pulsos los denominámos **periódicos** cuando aparecen de **forma repetitiva**, con el **mismo periodo T**, aunque la **anchura de cada pulso sea diferente**. En esta gráfica se muestra un **pulso de periodo T**, en el que las anchuras de los pulsos son **W1**, **W2** y **W3**:
+Los pulsos los denominamos **periódicos** cuando aparecen de **forma repetitiva**, con el **mismo periodo T**, aunque la **anchura de cada pulso sea diferente**. En esta gráfica se muestra un **pulso de periodo T**, en el que las anchuras de los pulsos son **W1**, **W2** y **W3**:
 
-(dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulso-03.png)
+
 
 (TODO)
 
