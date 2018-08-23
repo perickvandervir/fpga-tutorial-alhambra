@@ -97,9 +97,8 @@ Los pulsos los denominamos **periódicos** cuando aparecen de **forma repetitiva
 
 Dibujando los **pulsos en vertical**, uno de bajo de otro, se puede apreciar mejor que tienen el **mismo periodo**, y que sólo se diferencian en sus anchuras. Tenemos dos parámetros: **El periodo** (T), que es el mismo para todos y la **anchura del pulso** (W) que puede variar según el pulso
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulso-04.png)
 
-(TODO)
 
 # Ejercicios propuestos (X BitPoints)
 
