@@ -108,7 +108,8 @@ El reloj del sistema produce pulsos con un ***periodo T**. Este periodo nos dete
 
 Definimos un **Tic** como el **pulso mínimo** que podemos producir en nuestro circuito. Es decir, será un **pulso** que tenga una **anchura de T**. En el caso de la Icezum Alhambra, los tics son de **83.3ns**
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Tic-01.png)
+
 
 (TODO)
 
