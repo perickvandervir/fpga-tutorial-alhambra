@@ -116,9 +116,9 @@ Los **Tics** son **muy importantes**. Son nuestras **unidades de medida**. Todo 
 
 Para pasarlo a unidaes conocidas, sólo hay que **multiplicarlo** por el periodo del reloj del sistema (T) (o el inverso de la frecuencia). Así, tendríamos que una **anchura de 3 tics** equivale a **250ns**
 
-La **palabra tics** la usaremos para dos cosas. **1)** para referirnos a las **unidades de tiempo**: Ej. "Pulso de anchura 3 tics). **2)** Para referirnos a un **pulso de anchura 1**: Ej. "Emitir un tic"
+La **palabra tic** la usaremos para dos cosas. **1)** para referirnos a las **unidades de tiempo**: Ej. "Pulso de anchura 3 tics. **2)** Para referirnos a un **pulso de anchura 1**: Ej. "Emitir un tic"
 
-El **tic** están importante, y lo usaremos tanto, que lo representaremos mediante su propio icono: **ticky**. En este ejemplo vemos dos tics emitidos, separados una distancia de 5 tics
+El **tic** están importante, y lo usaremos tanto, que lo representaremos mediante su propio icono: **ticky**. En este ejemplo vemos **dos tics emitidos**, separados una **distancia de 5 tics**
 
 (TODO)
 
