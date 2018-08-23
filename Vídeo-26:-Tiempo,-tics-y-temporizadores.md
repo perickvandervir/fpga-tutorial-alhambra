@@ -122,6 +122,10 @@ El **tic** es tan importante, y lo usaremos tanto, que lo representaremos median
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Tic-03.png)
 
+Los **tics** los usaremos para **comunicar nuestros componentes** permitiendo realizar **temporizaciones** y sincronizaciones entre ellos. Por eso, lo primero que necesitamos son **componentes** que **generen tics**: Los generadores de tics
+
+## Generadores de tics
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
