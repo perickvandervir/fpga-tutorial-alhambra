@@ -101,6 +101,9 @@ Dibujando los **pulsos en vertical**, uno de bajo de otro, se puede apreciar mej
 
 Estos **pulsos periódicos** reciben el nombre de **señales PWM** (Pulse-width modulation. Modulación por anchura de pulso). Aunque las veremos un poco más adelante, os adelanto que son muy importantes, ya que nos permiten **definir la cantidad de energía** que queremos **transmitir** (Anchura del pulso), y el **canal físico** por el que hacerlo (Frecuencia), según la aplicación
 
+# Tics
+
+(TODO)
 
 # Ejercicios propuestos (X BitPoints)
 
