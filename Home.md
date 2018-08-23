@@ -295,6 +295,10 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 
 ## Noticias
 
+### 20-Agosto-2018: Abierto nuevo plazo de matriculación en la Academia Jedi
+
+Hasta el **16-Septiembre-2018** queda **abierto** el plazo de matriculación en la academia Jedi. La gente que envíe los ejercicios recibirá bitpoints y aparecerá en esta wiki. Sólo hay que empezar por el [tutorial 1](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos) y seguir las instruciones
+
 ### 8-Mayo-2018: CTIF Madrid capital en la Academia Jedi de Hardware
 
 Los matriculados en el curso [Diseño de sistemas digitales en Verilog usando FPGAs Libres](https://github.com/Obijuan/CTIF-Madrid-2018-FPGAs-Libres/wiki) organizado por el [CTIF Madrid Capital](http://ctif.madridcapital.educa.madrid.org/) pueden optativamente, entrar en la Academia Jedi de Hardware
