@@ -91,6 +91,10 @@ El pulso también lo podemos ver como la **llegada de un flanco de subida**, y a
 
 ## Pulsos periódicos
 
+Los pulsos los denominámos **periódicos** cuando aparecen de **forma repetitiva**, con el **mismo periodo T**, aunque la **anchura de cada pulso sea diferente**. En esta gráfica se muestra un **pulso de periodo T**, en el que las anchuras de los pulsos son **W1**, **W2** y **W3**:
+
+(dibujo)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
