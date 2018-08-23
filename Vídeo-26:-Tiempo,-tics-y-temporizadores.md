@@ -104,7 +104,7 @@ Estos **pulsos periódicos** reciben el nombre de **señales PWM** (Pulse-width 
 
 # Tics
 
-El reloj del sistema produce pulsos con un ***periodo T**. Este periodo nos determina el **tiempo mínimo**. Es nuestra **resolución**. No podemos medir ni trabajar con tiempos menores a T. Imagina que tienes un cronónometro que cuente segundos. Podrás medir minutos y horas, pero nada inferior a 1 segundo. Eso miso pasa con nuestro reloj del sistema
+El reloj del sistema produce pulsos con un **periodo T**. Este periodo nos determina el **tiempo mínimo**. Es nuestra **resolución**. No podemos medir ni trabajar con tiempos menores a T. Imagina que tienes un cronónometro que cuente segundos. Podrás medir minutos y horas, pero nada inferior a 1 segundo. Eso miso pasa con nuestro reloj del sistema
 
 Definimos un **Tic** como el **pulso mínimo** que podemos producir en nuestro circuito. Es decir, será un **pulso** que tenga una **anchura de T**. En el caso de la Icezum Alhambra, los tics son de **83.3ns**
 
