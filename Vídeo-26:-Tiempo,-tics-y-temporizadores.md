@@ -99,7 +99,7 @@ Dibujando los **pulsos en vertical**, uno de bajo de otro, se puede apreciar mej
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulso-04.png)
 
-Estos pulsos periódicos reciben el nombre de **señales PWM** (Pulse-width modulation. Modulación por anchura de pulso). Aunque las veremos un poco más adelante, os adelanto que son muy importantes, ya que nos permiten **definir la cantidad de energía** que queremos **transmitir** (Anchura del pulso), y el **canal físico** por el que hacerlo (Frecuencia), según la aplicación
+Estos **pulsos periódicos** reciben el nombre de **señales PWM** (Pulse-width modulation. Modulación por anchura de pulso). Aunque las veremos un poco más adelante, os adelanto que son muy importantes, ya que nos permiten **definir la cantidad de energía** que queremos **transmitir** (Anchura del pulso), y el **canal físico** por el que hacerlo (Frecuencia), según la aplicación
 
 
 # Ejercicios propuestos (X BitPoints)
