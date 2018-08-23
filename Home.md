@@ -4,7 +4,7 @@
 
 Hola! Soy obijuan, y en este **microtutorial** comenzamos el curso sobre **Electrónica digital para makers utilizando FPGAs libres**. Es un curso diferente, totalmente distinto a lo que hayas visto. El objetivo es enseñar **pensamiento hardware** de una forma **práctica**, haciendo circuitos desde el minuto 0
 
-Empieza por el [tutorial 1](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos)) y continúa con los siguientes. Los conceptos se van introduciendo poco a poco, pero de forma práctica. Ve a tu propio ritmo
+Empieza por el [tutorial 1](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos) y continúa con los siguientes. Los conceptos se van introduciendo poco a poco, pero de forma práctica. Ve a tu propio ritmo
 
 Opcionalmente puedes participar en la **Academia Jedi**, enviando los ejercicios como se indica en el Tutorial 1 y recibiendo **Bitpoints**, que te irán haciendo subir de **rango** y pasando de **curso**. Para acceder a la academia sólo tienes que **empezar por el tutorial 1** y seguir las instrucciones. **Sólo podrás enviar tu primer ejercicio durante los periodos en los que esté abierta la matriculación**. A partir de ahí ya estarás dentro y podrás enviar los ejercicios cuando quieras.
 
