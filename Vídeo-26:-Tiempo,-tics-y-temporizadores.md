@@ -118,7 +118,9 @@ Para pasarlo a unidaes conocidas, sólo hay que **multiplicarlo** por el periodo
 
 La **palabra tic** la usaremos para dos cosas. **1)** para referirnos a las **unidades de tiempo**: Ej. "Pulso de anchura 3 tics. **2)** Para referirnos a un **pulso de anchura 1**: Ej. "Emitir un tic"
 
-El **tic** están importante, y lo usaremos tanto, que lo representaremos mediante su propio icono: **ticky**. En este ejemplo vemos **dos tics emitidos**, separados una **distancia de 5 tics**
+El **tic** es tan importante, y lo usaremos tanto, que lo representaremos mediante su propio icono: **Ticky**. En este ejemplo vemos **dos tics emitidos**, separados una **distancia de 5 tics**. Y debajo la misma representación, pero usando a Ticky :-)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Tic-03.png)
 
 (TODO)
 
