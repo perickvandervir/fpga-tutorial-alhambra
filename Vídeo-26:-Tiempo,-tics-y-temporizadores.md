@@ -110,6 +110,7 @@ Definimos un **Tic** como el **pulso mínimo** que podemos producir en nuestro c
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Tic-01.png)
 
+Los **Tics** son **muy importantes**. Son nuestras **unidades de medida**. Todo lo **mediremos en Tics**. Así, por ejemplo, el siguiente pulso tiene una anchura de 3 tics
 
 (TODO)
 
