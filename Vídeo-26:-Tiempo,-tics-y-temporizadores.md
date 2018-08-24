@@ -21,6 +21,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Pulsos periódicos](#pulsos-peri%C3%B3dicos)
 * [Tics](#tics)
   * [Generadores de tics](#generadores-de-tics)
+    * [Pulsador de tics](#pulsador-de-tics)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
