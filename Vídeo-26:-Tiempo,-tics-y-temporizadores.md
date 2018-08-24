@@ -129,7 +129,7 @@ Los **tics** los usaremos para **comunicar nuestros componentes** permitiendo re
 
 Los **tics** tienen, por definición, una **anchura de 1**. Son nuestras unidades. Por eso para transmitir eventos los usaremos: nos indican cuándo ha sucedido algo, consumiento el **tiempo mínimo**. Veremos **dos tipos** de generadores de tics: el **pulsador de tics**, que genera un tic cada vez que se aprieta el pulsador, y un **corazón de tics**, que bombea tics periodicamente. 
 
-(Dibujo de los dos componentes)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Tic-04.png)
 
 (TODO)
 
