@@ -136,7 +136,7 @@ Los **tics** tienen, por definición, una **anchura de 1**. Son nuestras unidade
 
 El **pulsador de tics** es un componente que recibe por su entrada la **seña** directactamente de un **pulsador exterior** a la FPGA y produce como salida un **tic**. Internamente **sincroniza** la señal, **elimina los rebotes** y genera un **tic limpio**
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulsador-tic-01.png)
 
 El **cómo hace esto** internamente lo veremos en el futuro. Ahora de momento nos basta con saber cómo funciona: Cada vez que lo apretamos **aparece un tic**. Al soltarlo no hace nada. En esta **animación** se muestra su funcionamiento
 
