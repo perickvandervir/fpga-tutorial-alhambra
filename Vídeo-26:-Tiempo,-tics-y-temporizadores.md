@@ -131,6 +131,8 @@ Los **tics** tienen, por definición, una **anchura de 1**. Son nuestras unidade
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Tic-04.png)
 
+### Pulsador de tics
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
