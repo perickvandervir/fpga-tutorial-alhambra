@@ -134,6 +134,10 @@ Los **tics** tienen, por definición, una **anchura de 1**. Son nuestras unidade
 
 ### Pulsador de tics
 
+El **pulsador de tics** es un componente que recibe por su entrada la **seña** directactamente de un **pulsador exterior** a la FPGA y produce como salida un **tic**. Internamente **sincroniza** la señal, **elimina los rebotes** y genera un **tic limpio**
+
+(Dibujo)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
