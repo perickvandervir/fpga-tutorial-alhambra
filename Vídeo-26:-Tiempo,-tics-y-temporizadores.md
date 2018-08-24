@@ -138,6 +138,14 @@ El **pulsador de tics** es un componente que recibe por su entrada la **seña** 
 
 (Dibujo)
 
+El **cómo hace esto** internamente lo veremos en el futuro. Ahora de momento nos basta con saber cómo funciona: Cada vez que lo apretamos **aparece un tic**. Al soltarlo no hace nada. En esta **animación** se muestra su funcionamiento
+
+(animación)
+
+Este componente se encuentra en la colección xxxx-26, de este tutorial, en el menú XXXX
+
+(Ejemplo 1: Conexión a un led (presente) y a un biestable RS para detectarlo (Detección de un tic)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
