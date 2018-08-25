@@ -160,7 +160,7 @@ Probemos ahora con este **otro circuito**, al que le añadimos **un biestable** 
 
 Lo **cargamos** y lo probamos. La prueba es muy tonta, pero con ella hemos comprobado que los **biestables** pueden **cazar los tics**, a pesar de que los tics son muy estrechos :-). **¡Ya no hay tic que se nos escape!**
 
-(Vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/0x2J4SZmEz0/0.jpg)](https://www.youtube.com/watch?v=0x2J4SZmEz0)
 
 ### Corazón de tics
 
