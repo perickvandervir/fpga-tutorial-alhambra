@@ -140,7 +140,7 @@ El **pulsador de tics** es un componente que recibe por su entrada la **seña** 
 
 El **cómo hace esto** internamente lo veremos en el futuro. Ahora de momento nos basta con saber cómo funciona: Cada vez que lo apretamos **aparece un tic**. Al soltarlo no hace nada. En esta **animación** se muestra su funcionamiento
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulsador-tic-02.gif)
 
 Este componente se encuentra en la colección xxxx-26, de este tutorial, en el menú XXXX
 
