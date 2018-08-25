@@ -165,6 +165,8 @@ Lo **cargamos** y lo probamos. La prueba es muy tonta, pero con ella hemos compr
 
 #### Ejemplo 2: Encender un LED al apretar el botón dos veces (doble-click)
 
+Vamos a diseñar un circuito que nos **encienda un LED** de notificación cuando **apretamos dos veces un pulsador**. La notificación la **borramos** con otro **pulsador**. ¿Cómo sería el circuito?
+
 (TODO)
 
 ### Corazón de tics
