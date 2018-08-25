@@ -22,7 +22,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Tics](#tics)
   * [Generadores de tics](#generadores-de-tics)
     * [Pulsador de tics](#pulsador-de-tics)
-    * [Ejemplo 1: Detección de un tic proveniente de un pulsador](#ejemplo-1-detecci%C3%B3n-de-un-tic-proveniente-del-pulsador) 
+      * [Ejemplo 1: Detección de un tic proveniente de un pulsador](#ejemplo-1-detecci%C3%B3n-de-un-tic-proveniente-del-pulsador) 
     * [Corazón de tics](#coraz%C3%B3n-de-tics)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
@@ -146,7 +146,7 @@ El **cómo hace esto** internamente lo veremos en el futuro. Ahora de momento no
 
 Este componente se encuentra en la colección **Academia-Jedi-HW-26.zip**, de este tutorial, en el menú **Varios/Pulsadores/Pulsador-tic**
 
-### Ejemplo 1: Detección de un tic proveniente del pulsador
+#### Ejemplo 1: Detección de un tic proveniente del pulsador
 
 Para **verificar** que el componente **pulsador-tic** funciona **bien**, tenemos que **detectar el tic** que emite al apretarse el **botón**. Una posibilidad sería conectarlo directamente a un **LED**, como en este circuito:
 
@@ -161,6 +161,10 @@ Probemos ahora con este **otro circuito**, al que le añadimos **un biestable** 
 Lo **cargamos** y lo probamos. La prueba es muy tonta, pero con ella hemos comprobado que los **biestables** pueden **cazar los tics**, a pesar de que los tics son muy estrechos :-). **¡Ya no hay tic que se nos escape!**
 
 [![Click to see the youtube video](http://img.youtube.com/vi/0x2J4SZmEz0/0.jpg)](https://www.youtube.com/watch?v=0x2J4SZmEz0)
+
+#### Ejemplo 2: Encender un LED al apretar el botón dos veces (doble-click)
+
+(TODO)
 
 ### Corazón de tics
 
