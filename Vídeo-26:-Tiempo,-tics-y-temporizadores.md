@@ -147,7 +147,13 @@ Este componente se encuentra en la colección **Academia-Jedi-HW-26.zip**, de es
 
 ### Ejemplo 1: Detección de un tic proveniente del pulsador
 
-(Ejemplo 1: Conexión a un led (presente) y a un biestable RS para detectarlo (Detección de un tic)
+Para **verificar** que el componente **pulsador-tic** funciona **bien**, tenemos que **detectar el tic** que emite al apretarse el **botón**. Una posibilidad sería conectarlo directamente a un **LED**, como en este circuito:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Ejemplo-01-1.png)
+
+Pero, aunque el LED sí que se enciende y se apaga con el pulso, lo hace tan **rápidamente** que nuestro **ojo NO lo aprecia*. Por tanto, necesitamos otro modo de **cazar el tic**. Probemos ahora con este **otro circuito**, al que le añadimos **un biestable** para capturar el tic y que nos lo **notifique** en un **LED**
+
+(Dibujo)
 
 (TODO)
 
