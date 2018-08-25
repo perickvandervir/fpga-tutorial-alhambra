@@ -142,7 +142,9 @@ El **cómo hace esto** internamente lo veremos en el futuro. Ahora de momento no
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulsador-tic-02.gif)
 
-Este componente se encuentra en la colección xxxx-26, de este tutorial, en el menú XXXX
+Este componente se encuentra en la colección **Academia-Jedi-HW-26.zip**, de este tutorial, en el menú **Varios/Pulsadores/Pulsador-tic**
+
+### Ejemplo 1: Detección de un tic proveniente del pulsador
 
 (Ejemplo 1: Conexión a un led (presente) y a un biestable RS para detectarlo (Detección de un tic)
 
