@@ -157,6 +157,9 @@ Probemos ahora con este **otro circuito**, al que le añadimos **un biestable** 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Ejemplo-01-2.png)
 
+Lo **cargamos** y lo probamos. La prueba es muy tonta, pero con ella hemos comprobado que los **biestables** pueden **cazar los tics**, a pesar de que los tics son muy estrechos :-). **¡Ya no hay tic que se nos escape!**
+
+(Vídeo)
 
 
 (TODO)
