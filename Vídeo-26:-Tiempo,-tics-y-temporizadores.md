@@ -171,6 +171,28 @@ Lo **cargamos** y lo probamos. La prueba es muy tonta, pero con ella hemos compr
 
 (TODO)
 
+# Temporizadores
+
+(TODO)
+
+(Ej. Encender un LED durante 3 segundos)
+
+(Ej. LED pulsante)
+
+(Ej. Beep al apretar pulsador)
+
+(Ej. Latido corazón (hospitales))
+
+(Ej. Escáner)
+
+(Ej. Pitidos con spiner e IR)
+
+(Ej. LEDs en cascada)
+
+(Ej. Señales perióricas con timer)
+
+(Ej. Prueba PWM)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
