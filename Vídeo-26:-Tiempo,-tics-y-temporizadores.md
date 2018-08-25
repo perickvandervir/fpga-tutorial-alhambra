@@ -151,9 +151,13 @@ Para **verificar** que el componente **pulsador-tic** funciona **bien**, tenemos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Ejemplo-01-1.png)
 
-Pero, aunque el LED sí que se enciende y se apaga con el pulso, lo hace tan **rápidamente** que nuestro **ojo NO lo aprecia*. Por tanto, necesitamos otro modo de **cazar el tic**. Probemos ahora con este **otro circuito**, al que le añadimos **un biestable** para capturar el tic y que nos lo **notifique** en un **LED**
+Pero, aunque el LED sí que se enciende y se apaga con el pulso, lo hace tan **rápidamente** que nuestro **ojo NO lo aprecia*. Por tanto, necesitamos otro modo de **cazar el tic**
 
-(Dibujo)
+Probemos ahora con este **otro circuito**, al que le añadimos **un biestable** para capturar el tic y que nos lo **notifique** en un **LED**. Ahora sí, cada vez que apretemos el pulsador, el LED se enciende para notificarnos que se ha recibido el tic. Borramos la notificación con otro pulsador
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Ejemplo-01-2.png)
+
+
 
 (TODO)
 
