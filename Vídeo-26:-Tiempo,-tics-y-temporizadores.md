@@ -199,7 +199,7 @@ Para comprobar que el componente IR-tic **funciona**, conectaremos un **biestabl
 
 Lo **cargamos** y lo **probamos**. No es un ejemplo muy espectacular, pero siempre hay que **probar los circuitos** y comprobar que funcionan, para ir construyendo otros **más complejos** a partir de ellos
 
-(Vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/f6LQ8KVoYMY/0.jpg)](https://www.youtube.com/watch?v=f6LQ8KVoYMY)
 
 (TODO)
 
