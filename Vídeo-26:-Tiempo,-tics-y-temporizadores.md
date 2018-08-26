@@ -178,7 +178,11 @@ Lo **cargamos** y lo **probamos**. Da igual lo rápido o lento que hagamos la pu
 
 ### IR de tics
 
-El **IR de tics** recibe por su entrada la seña directactamente de un sensor de infrarrojos digital (IR) exterior a la FPGA y produce como salida un tic. Internamente sincroniza la señal y genera un tic limpio
+El **IR de tics** recibe por su entrada la seña directactamente de un **sensor de infrarrojos** digital (IR) exterior a la FPGA y produce como salida un tic. Internamente sincroniza la señal y genera un tic limpio
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/IR-tic-01.png)
+
+La **naturaleza de la señal digital** de entrada, entre un **pulsador** y un **IR es diferente**, por lo que hay que usar componentes distintos. Los pulsadores tienen rebotes, mientras que los IR no
 
 (Dibujo)
 
