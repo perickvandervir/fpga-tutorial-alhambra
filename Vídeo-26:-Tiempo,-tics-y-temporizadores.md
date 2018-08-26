@@ -173,6 +173,8 @@ Utilizaremos **dos biestables**, uno para detectar **la primera pulsación**, y 
 
 Lo **cargamos** y lo **probamos**. Da igual lo rápido o lento que hagamos la pulsación, el LED siempre nos **notificará** cuando se ha apretado el botón **dos veces**
 
+[![Click to see the youtube video](http://img.youtube.com/vi/qQcr9dkCdWE/0.jpg)](https://www.youtube.com/watch?v=qQcr9dkCdWE)
+
 (TODO)
 
 ### Corazón de tics
