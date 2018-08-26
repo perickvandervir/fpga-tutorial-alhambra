@@ -178,6 +178,10 @@ Lo **cargamos** y lo **probamos**. Da igual lo rápido o lento que hagamos la pu
 
 ### IR de tics
 
+El **IR de tics** recibe por su entrada la seña directactamente de un sensor de infrarrojos digital (IR) exterior a la FPGA y produce como salida un tic. Internamente sincroniza la señal y genera un tic limpio
+
+(Dibujo)
+
 (TODO)
 
 ### Corazón de tics
