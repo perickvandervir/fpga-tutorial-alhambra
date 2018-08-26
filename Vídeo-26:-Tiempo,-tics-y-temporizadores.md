@@ -188,6 +188,13 @@ En esta **animación** se muestra su funcionamiento. Cuando **aparece un objeto*
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/IR-tic-02.gif)
 
+Este componente se encuentra en la colección Academia-Jedi-HW-26.zip, de este tutorial, en el menú **Varios/IR/IR-tic**
+
+#### Ejemplo 3: Detección del paso de un objeto
+
+Para comprobar que el componente IR-tic **funciona**, conectaremos un **biestable** a su salida para que nos **notifique** en un **LED** si ha pasado un **objeto** por **delante del sensor** 
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/IR-tic-03.png)
 
 (TODO)
 
