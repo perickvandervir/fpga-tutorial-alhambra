@@ -197,9 +197,11 @@ Para comprobar que el componente IR-tic **funciona**, conectaremos un **biestabl
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/IR-tic-03.png)
 
-Lo **cargamos** y lo **probamos**. No es un ejemplo muy espectacular, pero siempre hay que **probar los circuitos** y comprobar que funcionan, para ir construyendo otros **más complejos** a partir de ellos
+Lo **cargamos** y lo **probamos**. No es un ejemplo muy espectacular, pero siempre hay que **probar los circuitos** y comprobar que funcionan, para ir construyendo otros **más complejos** a partir de ellos. En este **vídeo** de Youtube vemos su funcionamiento
 
 [![Click to see the youtube video](http://img.youtube.com/vi/f6LQ8KVoYMY/0.jpg)](https://www.youtube.com/watch?v=f6LQ8KVoYMY)
+
+#### Ejemplo 4: Detección del paso de un objeto
 
 (TODO)
 
