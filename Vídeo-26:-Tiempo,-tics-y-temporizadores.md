@@ -175,6 +175,8 @@ Lo **cargamos** y lo **probamos**. Da igual lo rápido o lento que hagamos la pu
 
 [![Click to see the youtube video](http://img.youtube.com/vi/qQcr9dkCdWE/0.jpg)](https://www.youtube.com/watch?v=qQcr9dkCdWE)
 
+### IR de tics
+
 (TODO)
 
 ### Corazón de tics
