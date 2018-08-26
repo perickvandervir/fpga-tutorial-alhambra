@@ -167,6 +167,10 @@ Lo **cargamos** y lo probamos. La prueba es muy tonta, pero con ella hemos compr
 
 Vamos a diseñar un circuito que nos **encienda un LED** de notificación cuando **apretamos dos veces un pulsador**. La notificación la **borramos** con otro **pulsador**. ¿Cómo sería el circuito?
 
+Utilizaremos **dos biestables**, uno para detectar **la primera pulsación**, y otro para **la segunda**. La segunda se detecta con la condición de que haya habido **una pulsación en el pasado y una en el presente**. El circuito es:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Ejemplo-2-1.png)
+
 (TODO)
 
 ### Corazón de tics
