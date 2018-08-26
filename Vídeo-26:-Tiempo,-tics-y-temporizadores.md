@@ -197,6 +197,10 @@ Para comprobar que el componente IR-tic **funciona**, conectaremos un **biestabl
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/IR-tic-03.png)
 
+Lo **cargamos** y lo **probamos**. No es un ejemplo muy espectacular, pero siempre hay que **probar los circuitos** y comprobar que funcionan, para ir construyendo otros **más complejos** a partir de ellos
+
+(Vídeo)
+
 (TODO)
 
 ### Corazón de tics
