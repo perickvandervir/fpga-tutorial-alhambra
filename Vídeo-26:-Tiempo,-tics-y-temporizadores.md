@@ -184,9 +184,9 @@ El **IR de tics** recibe por su entrada la seña directactamente de un **sensor 
 
 La **naturaleza de la señal digital** de entrada, entre un **pulsador** y un **IR es diferente**, por lo que hay que usar componentes distintos. Los pulsadores tienen rebotes, mientras que los IR no
 
-En esta **animación** se muestra su funcionamiento. Cuando se **detecta un objeto**, se **emite un tic**, y cuando no hay objeto permanece en reposo
+En esta **animación** se muestra su funcionamiento. Cuando se **detecta un objeto**, se **emite un tic**, y cuando no hay aparece ningún objeto en reposo
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/IR-tic-02.gif)
 
 
 (TODO)
