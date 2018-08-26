@@ -171,6 +171,8 @@ Utilizaremos **dos biestables**, uno para detectar **la primera pulsación**, y 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Ejemplo-2-1.png)
 
+Lo **cargamos** y lo **probamos**. Da igual lo rápido o lento que hagamos la pulsación, el LED siempre nos **notificará** cuando se ha apretado el botón **dos veces**
+
 (TODO)
 
 ### Corazón de tics
