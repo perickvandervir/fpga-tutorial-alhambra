@@ -24,6 +24,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Pulsador de tics](#pulsador-de-tics)
       * [Ejemplo 1: Detección de un tic proveniente de un pulsador](#ejemplo-1-detecci%C3%B3n-de-un-tic-proveniente-del-pulsador) 
       * [Ejemplo 2: Encender un LED al apretar el botón dos veces (doble click)](#ejemplo-2-encender-un-led-al-apretar-el-bot%C3%B3n-dos-veces-doble-click)
+    * [IR de tics](#ir-de-tics)
     * [Corazón de tics](#coraz%C3%B3n-de-tics)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
