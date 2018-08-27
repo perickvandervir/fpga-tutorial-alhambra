@@ -240,6 +240,11 @@ Para comprobar el funcionamiento de estos **generadores de tics periódicos**, N
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Corazon-tic-04.png)
 
+Este circuito, además de usarlo para comprobar que el corazón de tics funciona, es muy divertido porque **nos trolea**. Con el **pulsador** puedes intentar **apagar el LED**, pero se volverá a encender con el siguiente tic que llegue :-) El escenario es este:
+
+(Escenario)
+
+(Vídeo)
 
 (TODO)
 
