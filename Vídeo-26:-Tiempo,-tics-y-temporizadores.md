@@ -204,6 +204,8 @@ Lo **cargamos** y lo **probamos**. No es un ejemplo muy espectacular, pero siemp
 
 #### Ejemplo 4: Detección del paso de 3 objetos
 
+Vamos a hacer un circuito que nos notifique cuando el **sensor** ha detectado **3 objetos**. Es decir, un circuito que detecte que han llegado **3 tics** del controlador IR-tic, y que nos lo notifique encendiendo un LED cuando esto ocurra. Con un pulsador borramos la notificación, para volver a comenzar. **¿Cómo lo hacemos?**
+
 (TODO)
 
 ### Corazón de tics
