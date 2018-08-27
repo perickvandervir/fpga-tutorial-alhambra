@@ -210,6 +210,14 @@ En realidad es prácticamente igual que el **ejemplo 2**, donde detectábamos 2 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/IR-tic-04.png)
 
+El **montaje** es el mismo que hemos usado para el ejemplo 3. Tiene un **sensor de IR**, el **LED de notificación** y el **pulsador** para borrar la notificación
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/IR-tic-05.png)
+
+Lo **cargamos** y lo **probamos**. En este **vídeo** estoy usando el mismo objeto, que pasa 3 veces, para comprobar el funcionamiento:
+
+(Video)
+
 (TODO)
 
 ### Corazón de tics
