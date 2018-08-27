@@ -218,7 +218,7 @@ El **montaje** es el mismo que hemos usado para el ejemplo 3. Tiene un **sensor 
 
 Lo **cargamos** y lo **probamos**. En este **vídeo** estoy usando el mismo objeto, que pasa 3 veces, para comprobar el funcionamiento:
 
-(Video)
+[![Click to see the youtube video](http://img.youtube.com/vi/YA0xIrqH3Bc/0.jpg)](https://www.youtube.com/watch?v=YA0xIrqH3Bc)
 
 (TODO)
 
