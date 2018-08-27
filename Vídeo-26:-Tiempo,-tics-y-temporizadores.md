@@ -245,7 +245,7 @@ Este circuito, además de usarlo para comprobar que el corazón de tics funciona
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Corazon-tic-5.jpg)
 
-Lo **cargamos** y lo **probamos**. Efectivamente, el LED nos Trolea
+Lo **cargamos** y lo **probamos**. Efectivamente, el LED nos trolea
 
 (Escenario)
 
