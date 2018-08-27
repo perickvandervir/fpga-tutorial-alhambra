@@ -224,6 +224,8 @@ Lo **cargamos** y lo **probamos**. En este **vídeo** estoy usando el mismo obje
 
 El **corazón de tics** es un componente igual al corazón que ya conocemos, pero en vez de **bombear** bits, usa **tics**. El tiempo que transcurre entre cada tic es el **periodo T**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Corazon-tic-01.png)
+
 (Dibujo)
 
 (TODO)
