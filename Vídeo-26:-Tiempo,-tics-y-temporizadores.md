@@ -222,6 +222,10 @@ Lo **cargamos** y lo **probamos**. En este **vídeo** estoy usando el mismo obje
 
 ### Corazón de tics
 
+El **corazón de tics** es un componente igual al corazón que ya conocemos, pero en vez de **bombear** bits, usa **tics**. El tiempo que transcurre entre cada tic es el **periodo T**
+
+(Dibujo)
+
 (TODO)
 
 # Temporizadores
