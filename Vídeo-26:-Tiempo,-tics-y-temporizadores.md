@@ -236,9 +236,7 @@ Están disponibles en el **menú Varios/Bombeo/Tics**. Se han definido **4 coraz
 
 Para comprobar el funcionamiento de estos **generadores de tics periódicos**, NO podemos conectarlos directamente a un **LED**, como hacíamos con los corazones normales. La anchura de los tics es tan pequeña, que no se aprecia en los LEDs. Utilizaremos un **biestable para cazarlos**, con un **LED de notificación**, y borraremos manualmente esta notificación, mediante un **pulsador** conectado a la entada de **reset**
 
-
-(Circuito)
- 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Corazon-tic-03.png) 
 
 (TODO)
 
