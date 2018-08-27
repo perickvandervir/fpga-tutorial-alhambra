@@ -29,6 +29,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
       * [Ejemplo 4: Detección del paso de tres objetos](#ejemplo-4-detecci%C3%B3n-del-paso-de-3-objetos)
     * [Corazón de tics](#coraz%C3%B3n-de-tics)
       * [Ejemplo 5: Cazando tics periódicos](#ejemplo-5-cazando-tics-peri%C3%B3dicos)
+* [Temporizadores](#temporizadores)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
