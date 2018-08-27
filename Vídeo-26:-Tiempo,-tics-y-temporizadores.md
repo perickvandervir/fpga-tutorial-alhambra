@@ -210,6 +210,8 @@ En realidad es prácticamente igual que el **ejemplo 2**, donde detectábamos 2 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/IR-tic-04.png)
 
+Además usamos **3 LEDs intermedios** para mostrar los tics que van llegando, y ver lo que está pasando **internamente** en el circuito, para entenderlo bien al probarlo
+
 El **montaje** es el mismo que hemos usado para el ejemplo 3. Tiene un **sensor de IR**, el **LED de notificación** y el **pulsador** para borrar la notificación
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/IR-tic-05.png)
