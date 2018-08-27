@@ -245,13 +245,9 @@ Este circuito, además de usarlo para comprobar que el corazón de tics funciona
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Corazon-tic-5.jpg)
 
-Lo **cargamos** y lo **probamos**. Efectivamente, el LED nos trolea
+Lo **cargamos** y lo **probamos**. Efectivamente, el LED nos trolea :-)
 
-(Escenario)
-
-(Vídeo)
-
-(TODO)
+[![Click to see the youtube video](http://img.youtube.com/vi/yPMtfJG-Unw/0.jpg)](https://www.youtube.com/watch?v=yPMtfJG-Unw)
 
 # Temporizadores
 
