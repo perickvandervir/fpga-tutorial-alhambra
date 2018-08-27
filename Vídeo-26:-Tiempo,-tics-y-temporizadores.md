@@ -206,6 +206,10 @@ Lo **cargamos** y lo **probamos**. No es un ejemplo muy espectacular, pero siemp
 
 Vamos a hacer un circuito que nos notifique cuando el **sensor** ha detectado **3 objetos**. Es decir, un circuito que detecte que han llegado **3 tics** del controlador IR-tic, y que nos lo notifique encendiendo un LED cuando esto ocurra. Con un pulsador borramos la notificación, para volver a comenzar. **¿Cómo lo hacemos?**
 
+En realidad es prácticamente igual que el **ejemplo 2**, donde detectábamos 2 tics (provenientes de un pulsador). Ahora detectamos 3 tícs del IR, pero el funcionamiento es el mismo. Utilizaremos **3 biestables** y usaremos **puertas AND** para implementar las condiciones de cambio. Si han llegado **X tics**, y llega un tic nuevo (presente), entonces es que han llegado **X+1 tics** (y activamos el biestable).  La salida del último biestable es la **notificación** que estamos buscando. El circuito es:
+
+(dibujo)
+
 (TODO)
 
 ### Corazón de tics
