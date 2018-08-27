@@ -230,6 +230,7 @@ En esta **animación** se muestra un corazón de tics, de **1Hz**, en acción. E
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Corazon-tic-02.gif)
 
+Están disponibles en el **menú Varios/Bombeo/Tics**. Se han definido **4 corazones de tic** paramétricos, cuyas unidades están en **Hz**, **segundos**, **mili-segundos** y **micro-segundos**
 
 (TODO)
 
