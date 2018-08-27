@@ -226,7 +226,10 @@ El **corazón de tics** es un componente igual al corazón que ya conocemos, per
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Corazon-tic-01.png)
 
-(Dibujo)
+En esta **animación** se muestra un corazón de tics, de **1Hz**, en acción. El tamaño del tic **NO está a escala**. Su anchura real es muchísimo menor
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Corazon-tic-02.gif)
+
 
 (TODO)
 
