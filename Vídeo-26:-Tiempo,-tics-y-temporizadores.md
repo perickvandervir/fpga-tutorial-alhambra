@@ -220,8 +220,6 @@ Lo **cargamos** y lo **probamos**. En este **vídeo** estoy usando el mismo obje
 
 [![Click to see the youtube video](http://img.youtube.com/vi/YA0xIrqH3Bc/0.jpg)](https://www.youtube.com/watch?v=YA0xIrqH3Bc)
 
-(TODO)
-
 ### Corazón de tics
 
 (TODO)
