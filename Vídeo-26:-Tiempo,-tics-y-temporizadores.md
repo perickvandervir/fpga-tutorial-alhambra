@@ -252,6 +252,8 @@ Lo **cargamos** y lo **probamos**. Efectivamente, el LED nos trolea :-)
 
 # Temporizadores
 
+Los temporizadores son unos circuitos que detectan cuándo **ha transcurrido un intervalo de tiempo**. Los que nosotros usaremos, tienen **2 salidas**, una que emite un **pulso** de anchura igual al intervalo de tiempo especificado y otra que **emite un tic** para notificarnos que **el tiempo ha expirado**
+
 (TODO)
 
 (Ej. Encender un LED durante 3 segundos)
