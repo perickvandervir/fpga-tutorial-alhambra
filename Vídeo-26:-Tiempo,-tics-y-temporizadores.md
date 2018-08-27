@@ -202,7 +202,7 @@ Lo **cargamos** y lo **probamos**. No es un ejemplo muy espectacular, pero siemp
 
 [![Click to see the youtube video](http://img.youtube.com/vi/f6LQ8KVoYMY/0.jpg)](https://www.youtube.com/watch?v=f6LQ8KVoYMY)
 
-#### Ejemplo 4: Detección del paso de 3 objeto
+#### Ejemplo 4: Detección del paso de 3 objetos
 
 (TODO)
 
