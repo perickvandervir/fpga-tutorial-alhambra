@@ -232,6 +232,14 @@ En esta **animación** se muestra un corazón de tics, de **1Hz**, en acción. E
 
 Están disponibles en el **menú Varios/Bombeo/Tics**. Se han definido **4 corazones de tic** paramétricos, cuyas unidades están en **Hz**, **segundos**, **mili-segundos** y **micro-segundos**
 
+### Ejemplo 5: Cazando tics periódicos
+
+Para comprobar el funcionamiento de estos **generadores de tics periódicos**, NO podemos conectarlos directamente a un **LED**, como hacíamos con los corazones normales. La anchura de los tics es tan pequeña, que no se aprecia en los LEDs. Utilizaremos un **biestable para cazarlos**, con un **LED de notificación**, y borraremos manualmente esta notificación, mediante un **pulsador** conectado a la entada de **reset**
+
+
+(Circuito)
+ 
+
 (TODO)
 
 # Temporizadores
