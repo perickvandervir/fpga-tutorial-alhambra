@@ -208,7 +208,7 @@ Vamos a hacer un circuito que nos notifique cuando el **sensor** ha detectado **
 
 En realidad es prácticamente igual que el **ejemplo 2**, donde detectábamos 2 tics (provenientes de un pulsador). Ahora detectamos 3 tícs del IR, pero el funcionamiento es el mismo. Utilizaremos **3 biestables** y usaremos **puertas AND** para implementar las condiciones de cambio. Si han llegado **X tics**, y llega un tic nuevo (presente), entonces es que han llegado **X+1 tics** (y activamos el biestable).  La salida del último biestable es la **notificación** que estamos buscando. El circuito es:
 
-(dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/IR-tic-04.png)
 
 (TODO)
 
