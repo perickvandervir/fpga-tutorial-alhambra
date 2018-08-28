@@ -32,6 +32,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Temporizadores](#temporizadores)
   * [Generando un pulso de anchura W](#generando-un-pulso-de-anchura-w)
     * [Ejemplo 6: Encender un LED durante 3 segundos](#ejemplo-6-encender-un-led-durante-3-segundos)
+    * [Pitidos de duración constante](#ejemplo-7-pitidos-de-duraci%C3%B3n-constante)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
