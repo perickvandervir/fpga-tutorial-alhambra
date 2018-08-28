@@ -291,6 +291,8 @@ Lo **cargamos** y lo **probamos**. ¡Ya tenemos nuestro primer **temporizador** 
 
 (TODO)
 
+(Más aplicaciones: Servo rotación continua avanzando durante un tiempo determinado, Icebot, etc...)
+
 ### Ejercicio 1
 
 (Ej. Barrera/puerta automática)
