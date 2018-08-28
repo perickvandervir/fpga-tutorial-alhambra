@@ -256,6 +256,12 @@ Los temporizadores (timers en inglés) son unos circuitos que nos informan cuán
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-01.png)
 
+Tienen una entrada **start** para ponerlo en marcha al enviarle un **tic** por ella. El **intervalo de tiempo** se especifica como **parámetro** (W). Según el temporizador, las **unidades** usadas son **segundos** (sec), **milisegundos** (msec) o **microsegundos** (usec). Por la **salida p** se obtiene un **pulso de anchura W**, mientras que por la **salida tic** se emite un **tic** cuando ha **expirado el tiempo W**. Usaremos una u otra salida, o ambas, según la aplicación
+
+En esta **animación** se muestra el funcionamiento
+
+(Animación)
+
 (TODO)
 
 ## Generando un Pulso de anchura W
