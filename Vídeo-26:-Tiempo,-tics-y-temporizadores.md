@@ -276,7 +276,7 @@ El uso típico es para **encender** o **apagar** un dispositivo transcurrido un 
 
 ### Ejemplo 6: Encender un LED durante 3 segundos
 
-Haremos un circuito que **enciendo un LED** al **apretar un pulsador**, y que se mantenga **encendido durante 3 segundos**, transcurridos los cuales el LED se apaga
+Haremos un circuito que **encienda un LED** al **apretar un pulsador**, y que se mantenga **encendido durante 3 segundos**, transcurridos los cuales el LED se apaga
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-04.png)
 
