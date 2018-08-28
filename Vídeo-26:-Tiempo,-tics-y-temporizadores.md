@@ -31,6 +31,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
       * [Ejemplo 5: Cazando tics periódicos](#ejemplo-5-cazando-tics-peri%C3%B3dicos)
 * [Temporizadores](#temporizadores)
   * [Generando un pulso de anchura W](#generando-un-pulso-de-anchura-w)
+    * [Ejemplo 6: Encender un LED durante 3 segundos](#ejemplo-6-encender-un-led-durante-3-segundos)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
