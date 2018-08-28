@@ -286,6 +286,7 @@ Lo **cargamos** y lo **probamos**. ¡Ya tenemos nuestro primer **temporizador** 
 
 [![Click to see the youtube video](http://img.youtube.com/vi/qO2U2wcFIqA/0.jpg)](https://www.youtube.com/watch?v=qO2U2wcFIqA)
 
+### Ejemplo 7: Pitidos de duración constante
 
 (Ej. Beep al apretar pulsador)
 
