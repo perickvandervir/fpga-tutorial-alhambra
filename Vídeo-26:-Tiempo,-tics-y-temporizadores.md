@@ -266,7 +266,7 @@ Para representar el **comportamiento en el tiempo** de los **circuitos secuencia
 
 En este **cronograma** se representa el funcionamiento de un **temporizador de intervalo de tiempo W**, que se le pasa como parámetro. Produce un **pulso de anchura W**, y un **tic** transcurridas **W unidades de tiempo** desde que se recibe el **tic de start**
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-03.png)
 
 (TODO)
 
