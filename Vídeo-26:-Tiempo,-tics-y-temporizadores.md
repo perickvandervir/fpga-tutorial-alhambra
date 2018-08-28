@@ -282,6 +282,11 @@ Haremos un circuito que **encienda un LED** al **apretar un pulsador**, y que se
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-04.png)
 
+Lo **cargamos** y lo **probamos**. ¡Ya tenemos nuestro primer **temporizador** funcionando!
+
+[![Click to see the youtube video](http://img.youtube.com/vi/qO2U2wcFIqA/0.jpg)](https://www.youtube.com/watch?v=qO2U2wcFIqA)
+
+
 (Ej. Beep al apretar pulsador)
 
 (Ej. Escáner)
