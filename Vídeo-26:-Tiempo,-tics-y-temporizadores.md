@@ -268,9 +268,19 @@ En este **cronograma** se representa el funcionamiento de un **temporizador de i
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-03.png)
 
-(TODO)
+Los temporizadores tienen **muchas aplicaciones**. Vamos a ver ejemplos de algunas de ellas
 
 ## Generando un Pulso de anchura W
+
+El uso típico es para **encender** o **apagar** un dispositivo transcurrido un **tiempo W**. Se usa la **salida p** para habilitar/deshabilitar el dispositivo
+
+### Ejemplo 6: Encender un LED durante 3 segundos
+
+(Ej. Beep al apretar pulsador)
+
+(Ej. Escáner)
+
+(Ej. Barrera/puerta automática)
 
 (TODO)
 
@@ -284,15 +294,11 @@ En este **cronograma** se representa el funcionamiento de un **temporizador de i
 
 (TODO)
 
-(Ej. Encender un LED durante 3 segundos)
-
 (Ej. LED pulsante)
 
-(Ej. Beep al apretar pulsador)
+
 
 (Ej. Latido corazón (hospitales))
-
-(Ej. Escáner)
 
 (Ej. Pitidos con spiner e IR)
 
