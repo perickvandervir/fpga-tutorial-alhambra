@@ -289,9 +289,9 @@ Lo **cargamos** y lo **probamos**. ¡Ya tenemos nuestro primer **temporizador** 
 
 ### Ejemplo 7: Pitidos de duración constante
 
-(Ej. Beep al apretar pulsador)
+(TODO)
 
-(Ej. Escáner)
+### Ejercicio 1
 
 (Ej. Barrera/puerta automática)
 
@@ -299,29 +299,22 @@ Lo **cargamos** y lo **probamos**. ¡Ya tenemos nuestro primer **temporizador** 
 
 ## Encadenamiento de temporizadores
 
+(Ej. Un pulsador desencadena una serie de eventos:
+Encender led durante t1 seg --> Nota durante t2 ---> servo arriba durante t3 --> Todo apagado)
+
+(Ej. LEDs en cascada)
+
 (TODO)
 
 ## Generando pulsos periódicos
 
-(TODO)
-
-(TODO)
-
 (Ej. LED pulsante)
-
-
 
 (Ej. Latido corazón (hospitales))
 
-(Ej. Pitidos con spiner e IR)
+(Ej. Prueba pwm)
 
-(Ej. LEDs en cascada)
-
-(Ej. Señales perióricas con timer)
-
-(Ej. Prueba PWM)
-
-
+(Ej. Señal de servo)
 
 # Ejercicios propuestos (X BitPoints)
 
@@ -329,7 +322,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 **Resumen**:
 
-* **Ejercicio 26.1** (Total **x Bitpoints**): 
+* **Ejercicio 26.1** (Total **5 Bitpoints**): Barrera levantada durante 4 segundos al detectarse un IR
 
 * **Ejercicio 26.2** (Total **x Bitpoints**): 
 
