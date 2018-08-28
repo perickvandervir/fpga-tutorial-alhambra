@@ -260,7 +260,8 @@ Tiene una entrada **start** para ponerlo en marcha al enviarle un **tic** por el
 
 En esta **animación** se muestra el funcionamiento
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-02.gif)
+
 
 (TODO)
 
