@@ -256,6 +256,18 @@ Los temporizadores son unos circuitos que nos informan cuándo **ha transcurrido
 
 (Dibujo componente)
 
+## Generando un Pulso de anchura W
+
+(TODO)
+
+## Encadenamiento de temporizadores
+
+(TODO)
+
+## Generando pulsos periódicos
+
+(TODO)
+
 (TODO)
 
 (Ej. Encender un LED durante 3 segundos)
@@ -275,6 +287,8 @@ Los temporizadores son unos circuitos que nos informan cuándo **ha transcurrido
 (Ej. Señales perióricas con timer)
 
 (Ej. Prueba PWM)
+
+
 
 # Ejercicios propuestos (X BitPoints)
 
