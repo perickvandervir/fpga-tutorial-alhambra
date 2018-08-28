@@ -252,9 +252,11 @@ Lo **cargamos** y lo **probamos**. Efectivamente, el LED nos trolea :-)
 
 # Temporizadores
 
-Los temporizadores son unos circuitos que nos informan cuándo **ha transcurrido un intervalo de tiempo**. Los que nosotros usaremos, tienen **2 salidas**, una por donde saca un **pulso** de anchura igual al intervalo de tiempo especificado y otra que **emite un tic** para notificarnos que **el tiempo ha expirado**
+Los temporizadores (timers en inglés) son unos circuitos que nos informan cuándo **ha transcurrido un intervalo de tiempo**. Los que nosotros usaremos, tienen **2 salidas**, una por donde saca un **pulso** de anchura igual al intervalo de tiempo especificado y otra que **emite un tic** para notificarnos que **el tiempo ha expirado**
 
-(Dibujo componente)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-01.png)
+
+(TODO)
 
 ## Generando un Pulso de anchura W
 
