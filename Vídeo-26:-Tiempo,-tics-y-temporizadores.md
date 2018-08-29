@@ -295,7 +295,7 @@ En este ejemplo emitimos un **pitido durante 20ms** cada vez que se aprieta el *
 
 El pulso se envía a un **LED**, para visualizarlo. Además, se ha colocado un **spiner** para activar el **sensor de IR** y escuchar los pitidos al moverlo. El **montaje** es el siguiente:
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-06.png)
 
 Lo **cargamos** y lo **probamos**. En este **vídeo** lo vemos en funcionamiento 
 
