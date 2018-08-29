@@ -335,6 +335,7 @@ En el **montaje** colocamos los **tres LEDs** y el **pulsador**
 
 (Ej. Un pulsador desencadena una serie de eventos:
 Encender led durante t1 seg --> Nota durante t2 ---> servo arriba durante t3 --> Todo apagado)
+Cto 1: parpadeo LED, cto 2: sirena acústica, cito 3: Servo
 
 (Ej. LEDs en cascada)
 
@@ -361,7 +362,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 26.1** (Total **5 Bitpoints**): Barrera levantada durante 4 segundos al detectarse un IR
 
-* **Ejercicio 26.2** (Total **x Bitpoints**): 
+* **Ejercicio 26.2** (Total **x Bitpoints**): Disparo tipo arcade en 8 LEDs
 
 * **Ejercicio 26.3** (Total **x Bitpoints**): 
 
