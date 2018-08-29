@@ -321,6 +321,10 @@ Cuando han transcurrido los 400ms, además de apagarse el LED, el timer 1 **emit
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-09.png)
 
+Y por último encadenamos el **tercer temporiador** de la misma forma. Usamos las **salidas de pulso** para **encender** los LEDs y las **salidas tic** para **propagar** la activación al siguiente temporizador
+
+(Dibujo)
+
 
 (Ej. Un pulsador desencadena una serie de eventos:
 Encender led durante t1 seg --> Nota durante t2 ---> servo arriba durante t3 --> Todo apagado)
