@@ -313,9 +313,13 @@ Veremos **dos ejemplos** de encadenamiento. Uno con **LEDs**, en los que la luz 
 
 Haremos un circuito que encienda **3 LEDs consecutivamente**, primero uno, cuando se apague, el segundo, y cuando este se apague, se enciende el tercero. El efecto es una luz que **se propaga de un LED al siguiente**. Cada LED estará encendido **400ms**
 
-Partiremos de un circuito que **enciende un LED** durante **400ms** al apretar el **pulsador**. Transcurrido ese tiempo se apaga. Ya lo sabemos hacer:
+Partimos de un circuito que ya sabemos hacer: **encender un LED** durante **400ms** al apretar un **pulsador**. Sería este: 
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-8.png)
 
+Cuando han transcurrido los 400ms, además de apagarse el LED, el timer 1 **emite un tic** por su **salida tic**, para indicar que ha terminado. Esta salida la conectamos a la **entrada start** del **siguiente temporizador**, que está conectado a **otro LED**:
+
+(dibujo)
 
 (Ej. Un pulsador desencadena una serie de eventos:
 Encender led durante t1 seg --> Nota durante t2 ---> servo arriba durante t3 --> Todo apagado)
