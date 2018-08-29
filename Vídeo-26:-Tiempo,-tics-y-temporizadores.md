@@ -333,7 +333,7 @@ En el **montaje** colocamos los **tres LEDs** y el **pulsador**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-11.png)
 
-Lo **cargamos** y lo **probamos**
+Lo **cargamos** y lo **probamos**. Se ve claramente el efecto de **propagación**
 
 [![Click to see the youtube video](http://img.youtube.com/vi/JF_UE38wJ8I/0.jpg)](https://www.youtube.com/watch?v=JF_UE38wJ8I)
 
