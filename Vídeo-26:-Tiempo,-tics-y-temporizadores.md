@@ -291,6 +291,8 @@ Lo **cargamos** y lo **probamos**. ¡Ya tenemos nuestro primer **temporizador** 
 
 En este ejemplo emitimos un **pitido de longitud constante** cada vez que se aprieta el **pulsador** o el **sensor de infrarrojo** detecta un objeto. Utilizamos la **salida de pulso** del temporizador para activar la **señal de 400Hz** a través de una **puerta AND** que llega al **zumbador**. En cuanto el pulso termina, la salida de la AND es 0, y se deja de escuchar
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-05.png)
+
 (TODO)
 
 (Más aplicaciones: Servo rotación continua avanzando durante un tiempo determinado, Icebot, etc...)
