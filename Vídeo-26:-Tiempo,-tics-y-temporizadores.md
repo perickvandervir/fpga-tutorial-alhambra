@@ -34,6 +34,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Ejemplo 6: Encender un LED durante 3 segundos](#ejemplo-6-encender-un-led-durante-3-segundos)
     * [Ejemplo 7: Pitidos de duración constante](#ejemplo-7-pitidos-de-duraci%C3%B3n-constante)
   * [Encadenamiento de temporizadores](#encadenamiento-de-temporizadores)
+    * [Ejemplo 8: LEDs encadenados](#ejemplo-8-leds-encadenados)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
