@@ -301,16 +301,6 @@ Lo **cargamos** y lo **probamos**. En este **vídeo** lo vemos en funcionamiento
 
 [![Click to see the youtube video](http://img.youtube.com/vi/NrMx54hNDXg/0.jpg)](https://www.youtube.com/watch?v=NrMx54hNDXg)
 
-(TODO)
-
-(Más aplicaciones: Servo rotación continua avanzando durante un tiempo determinado, Icebot, etc...)
-
-### Ejercicio 1
-
-(Ej. Barrera/puerta automática)
-
-(TODO)
-
 ## Encadenamiento de temporizadores
 
 (Ej. Un pulsador desencadena una serie de eventos:
@@ -329,6 +319,9 @@ Encender led durante t1 seg --> Nota durante t2 ---> servo arriba durante t3 -->
 (Ej. Prueba pwm)
 
 (Ej. Señal de servo)
+
+
+(Más aplicaciones: Servo rotación continua avanzando durante un tiempo determinado, Icebot, etc...)
 
 # Ejercicios propuestos (X BitPoints)
 
