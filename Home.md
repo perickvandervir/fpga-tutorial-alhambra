@@ -62,8 +62,8 @@ Estudiante que se encuentran cursando el **tercer año** de la **academia de Har
 
 [[https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/insignias/Academia-jedi-rojo.png|width=200px]]
 
-|Divisa  | Nombe             | Rango    | BitPoints | Tutorial | Tut |
-|--------|-------------------|----------|-----------|----------|-----|
+|Divisa  | Nombe             | Rango    | BitPoints | Tutorial | 
+|--------|-------------------|----------|-----------|----------|
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi-min.png)|    Federico Coca | Jedi| 410 (+80)| T25 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi-min.png)|    Viriato (@SrViriato) | Jedi| 410 (+70) | T25 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi-min.png)|    Josep Montoliu (Klarojms) | Jedi| 410 (+53)| T25 |
