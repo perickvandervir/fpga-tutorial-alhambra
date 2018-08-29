@@ -304,6 +304,12 @@ Lo **cargamos** y lo **probamos**. En este **vídeo** lo vemos en funcionamiento
 
 ## Encadenamiento de temporizadores
 
+La **salida tic** del los **temporizadores** se puede usar para activar otro temporizador, de forma que los podemos ir **encadenando**. Cuando termina el primer temporizador, activa el segundo, este al tercero, y así sucesivamente. Esto nos permite activar componentes secuencialmente: uno sólo se activa cuando el anterior ha terminado
+
+Veremos dos ejemplos de encadenamiento. Uno con **LEDs**, en los que la luz se va propagando de un LED al siguiente. Y otro en el que se **activan** diferentes circuitos secuencialmente, cada uno con una duración
+
+### Ejemplo 8: LEDs encadenados
+
 (Ej. Un pulsador desencadena una serie de eventos:
 Encender led durante t1 seg --> Nota durante t2 ---> servo arriba durante t3 --> Todo apagado)
 
