@@ -311,6 +311,12 @@ Veremos **dos ejemplos** de encadenamiento. Uno con **LEDs**, en los que la luz 
 
 ### Ejemplo 8: LEDs encadenados
 
+Haremos un circuito que encienda **3 LEDs consecutivamente**, primero uno, cuando se apague, el segundo, y cuando este se apague, se enciende el tercero. El efecto es una luz que **se propaga de un LED al siguiente**. Cada LED estará encendido **400ms**
+
+Partiremos de un circuito que **enciende un LED** durante **400ms** al apretar el **pulsador**. Transcurrido ese tiempo se apaga. Ya lo sabemos hacer:
+
+
+
 (Ej. Un pulsador desencadena una serie de eventos:
 Encender led durante t1 seg --> Nota durante t2 ---> servo arriba durante t3 --> Todo apagado)
 
