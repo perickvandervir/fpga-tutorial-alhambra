@@ -35,7 +35,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Ejemplo 7: Pitidos de duración constante](#ejemplo-7-pitidos-de-duraci%C3%B3n-constante)
   * [Encadenamiento de temporizadores](#encadenamiento-de-temporizadores)
     * [Ejemplo 8: LEDs encadenados](#ejemplo-8-leds-encadenados)
-    * [Ejemplo 9: Activación de circuitos en anillo](s#ejemplo-9-activaci%C3%B3n-de-circuitos-en-anillo)
+    * [Ejemplo 9: Activación de circuitos en anillo](#ejemplo-9-activaci%C3%B3n-de-circuitos-en-anillo)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
