@@ -333,6 +333,9 @@ En el **montaje** colocamos los **tres LEDs** y el **pulsador**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-11.png)
 
+Lo **cargamos** y lo **probamos**
+
+[![Click to see the youtube video](http://img.youtube.com/vi/JF_UE38wJ8I/0.jpg)](https://www.youtube.com/watch?v=JF_UE38wJ8I)
 
 (Ej. Un pulsador desencadena una serie de eventos:
 Encender led durante t1 seg --> Nota durante t2 ---> servo arriba durante t3 --> Todo apagado)
