@@ -299,6 +299,8 @@ El pulso se envía a un **LED**, para visualizarlo. Además, se ha colocado un *
 
 Lo **cargamos** y lo **probamos**. En este **vídeo** lo vemos en funcionamiento 
 
+[![Click to see the youtube video](http://img.youtube.com/vi/NrMx54hNDXg/0.jpg)](https://www.youtube.com/watch?v=NrMx54hNDXg)
+
 (TODO)
 
 (Más aplicaciones: Servo rotación continua avanzando durante un tiempo determinado, Icebot, etc...)
