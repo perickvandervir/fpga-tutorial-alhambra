@@ -337,6 +337,10 @@ Lo **cargamos** y lo **probamos**. Se ve claramente el efecto de **propagación*
 
 [![Click to see the youtube video](http://img.youtube.com/vi/JF_UE38wJ8I/0.jpg)](https://www.youtube.com/watch?v=JF_UE38wJ8I)
 
+Este es un ejemplo muy bueno del **pensamiento espacial en el hardware**. Al apretar el botón aparece un tic que **físicamente** se va **desplazando** de un temporizador a otro. En cuanto alcanza un temporizador, se enciende el LED. Y como además el hardware funciona en **paralelo**, puede haber **varios tics viajando simultáneamente**. Esto es lo que vemos en el vídeo anterior: No es necesario a que termine de propagarse un tic para que se pueda enviar otro, sino que se pueden enviar varios
+
+## Ejemplo 9: Activación de circuitos en anillo
+
 (Ej. Un pulsador desencadena una serie de eventos:
 Encender led durante t1 seg --> Nota durante t2 ---> servo arriba durante t3 --> Todo apagado)
 Cto 1: parpadeo LED, cto 2: sirena acústica, cito 3: Servo
