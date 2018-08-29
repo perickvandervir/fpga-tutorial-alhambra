@@ -289,7 +289,7 @@ Lo **cargamos** y lo **probamos**. ¡Ya tenemos nuestro primer **temporizador** 
 
 ### Ejemplo 7: Pitidos de duración constante
 
-En este ejemplo emitimos un **pitido de longitud contante** cada vez que se aprieta el pulsador o el sensor de infrarrojo detecta un objeto. Utilizamos la salida de pulso del temporizador para activar la **señal de 400Hz** a través de una **puerta AND** que llega al zumbador. En cuanto el pulso termina, la salida de la AND es 0, y se deja de escuchar
+En este ejemplo emitimos un **pitido de longitud contante** cada vez que se aprieta el **pulsador** o el **sensor de infrarrojo** detecta un objeto. Utilizamos la **salida de pulso** del temporizador para activar la **señal de 400Hz** a través de una **puerta AND** que llega al **zumbador**. En cuanto el pulso termina, la salida de la AND es 0, y se deja de escuchar
 
 (TODO)
 
