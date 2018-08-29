@@ -329,6 +329,9 @@ Aunque hemos usado el **mismo tiempo en todos los timers**, cada uno podría ten
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-07.png)
 
+En el **montaje** colocamos los **tres LEDs** y el **pulsador**
+
+(Foto montaje)
 
 (Ej. Un pulsador desencadena una serie de eventos:
 Encender led durante t1 seg --> Nota durante t2 ---> servo arriba durante t3 --> Todo apagado)
