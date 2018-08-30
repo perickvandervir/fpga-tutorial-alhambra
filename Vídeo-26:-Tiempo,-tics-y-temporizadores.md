@@ -369,7 +369,7 @@ Vamos a crear un circuito que realice tres **tareas** muy sencillas, una detrás
 |--------|----------------|-------------|--------------|
 |   1    | 3              | Parpadeo a 2 Hz | LED |
 |   2    | 2              | Hacer sonar una sirena    | Zumbador |
-|   3    | 4              | Abrir una puerta  | Servo |
+|   3    | 4              | Apertura de barrera  | Servo |
 
 Nuestro automatismo estará **en reposo** hasta que se **apriete el pulsador**. En se momento se empieza con la **tarea 1** y se continúa con las siguientes. Cuando llega a la última, **empieza** otra vez desde el **principio**
 
