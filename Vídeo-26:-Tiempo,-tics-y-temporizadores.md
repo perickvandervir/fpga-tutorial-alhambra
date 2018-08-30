@@ -353,6 +353,10 @@ Este es un ejemplo muy bueno del **pensamiento espacial en el hardware**. Al apr
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-14.gif)
 
+Si inicialmente **todos** los temporizadores están **desactivados**, no tenemos ningún tic circulando. Para **introducir tics desde fuera** y que queden atrapados en el bucle infinito, usamos una **puerta OR** en la entrada del **temporizador 1**. Recibirá tics de una **fuente externa** o del **último temporizador**
+
+(Dibujo)
+
 (TODO)
 
 ## Ejemplo 9: Activación de circuitos en anillo
