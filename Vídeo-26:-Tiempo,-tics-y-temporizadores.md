@@ -351,7 +351,8 @@ Este es un ejemplo muy bueno del **pensamiento espacial en el hardware**. Al apr
 
 ¿Y qué ocurre si al **encadenar** temporizadores, el **último** lo conectamos de vuelta con el **primero**? Nuestro tic empezaría a recorrer el **anillo de temporizadores**, y nunca terminaría hasta que apagásemos el circuito. Es una forma de hacer un **bucle infinito** en hardware :-)
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-14.gif)
+
 
 ## Ejemplo 9: Activación de circuitos en anillo
 
