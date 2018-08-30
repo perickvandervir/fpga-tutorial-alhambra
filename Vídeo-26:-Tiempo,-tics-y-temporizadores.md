@@ -357,10 +357,9 @@ Si inicialmente **todos** los temporizadores están **desactivados**, no tenemos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-15.png)
 
+Me encanta esta **trampa de tics**. Si un tic incauto se le ocurre entrar en el **anillo**... quedará atrapado **por toda la eternidad** muajajajajajaja. 
 
-(TODO)
-
-## Ejemplo 9: Activación de circuitos en anillo
+### Ejemplo 9: Mi primer automatismo
 
 (Ej. Un pulsador desencadena una serie de eventos:
 Encender led durante t1 seg --> Nota durante t2 ---> servo arriba durante t3 --> Todo apagado)
