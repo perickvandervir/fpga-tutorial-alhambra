@@ -389,6 +389,10 @@ El **temporizador 1** tiene **dos entradas de tics**, una del **pulsador de arra
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-19.png)
 
+Este es el **circuito completo**, con todos sus partes conectadas
+
+(Dibujo circuito)
+
 (TODO)
 
 ## Generando pulsos periódicos
