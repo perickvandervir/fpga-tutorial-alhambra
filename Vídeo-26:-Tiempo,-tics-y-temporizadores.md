@@ -401,8 +401,6 @@ Lo **cargamos** y lo **probamos**. En este vídeo lo vemos en **acción**:
 
 [![Click to see the youtube video](http://img.youtube.com/vi/gK7FM6Ki__w/0.jpg)](https://www.youtube.com/watch?v=gK7FM6Ki__w)
 
-(TODO)
-
 ## Generando pulsos periódicos
 
 (Ej. LED pulsante)
