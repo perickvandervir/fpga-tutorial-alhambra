@@ -359,6 +359,8 @@ Si inicialmente **todos** los temporizadores están **desactivados**, no tenemos
 
 Me encanta esta **trampa de tics**. Si un tic incauto se le ocurre entrar en el **anillo**... quedará atrapado **por toda la eternidad** muajajajajajaja. 
 
+Con los **timers encadenados** haremosr nuestros **primeros automatismos**, que **activan secuencialmente** una serie de circuitos. Y esto lo **repiten** una y otra vez. 
+
 ### Ejemplo 9: Mi primer automatismo
 
 (Ej. Un pulsador desencadena una serie de eventos:
