@@ -502,6 +502,8 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 # Créditos y agradecimientos
 
+* Icono de la casa. By Timothy Miller - https://www.iconfinder.com/iconsets/pictype-free-vector-icons, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=34829035
+
 # Enlaces
 
 * [Repositorio con las colecciones de la Academia Jedi de Hardware](https://github.com/Obijuan/Academia-Jedi-Hw)
