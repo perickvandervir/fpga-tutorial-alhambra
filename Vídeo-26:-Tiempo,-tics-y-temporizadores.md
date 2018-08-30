@@ -377,6 +377,10 @@ Su **funcionamiento** se muestra en esta **animación**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-16.gif)
 
+Primero hacemos los **3 circuitos** que realizan cada **tarea**. Son independientes, con una **entrada de habilitación**. Estos circuitos ya los conocemos de otros ejercicios
+
+(foto)
+
 (TODO)
 
 ## Generando pulsos periódicos
