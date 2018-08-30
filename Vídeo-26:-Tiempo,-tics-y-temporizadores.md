@@ -397,6 +397,10 @@ Y este es el **montaje** para probar el circuito, con los **3 LEDs**, uno de cad
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-21.png)
 
+Lo **cargamos** y lo **probamos**. En este vídeo lo vemos en acción:
+
+(Vídeo)
+
 (TODO)
 
 ## Generando pulsos periódicos
