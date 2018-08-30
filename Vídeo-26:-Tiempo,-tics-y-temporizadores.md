@@ -393,6 +393,10 @@ Este es el **circuito completo**, con todos sus partes conectadas
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-20.png)
 
+Y este es el **montaje** para probar el circuito, con los **3 LEDs**, uno de cada tarea, el **zumbador** para la sirena y el **servo** para la barrera
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-21.png)
+
 (TODO)
 
 ## Generando pulsos periódicos
