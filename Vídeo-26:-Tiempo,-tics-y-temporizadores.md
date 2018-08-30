@@ -332,6 +332,10 @@ Aunque hemos usado el **mismo tiempo en todos los timers**, cada uno podría ten
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-07.png)
 
+El **funcionamiento** del circuito, de forma aproximada, se muestra en esta **animación**:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-13.gif)
+
 En el **montaje** colocamos los **tres LEDs** y el **pulsador**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-11.png)
