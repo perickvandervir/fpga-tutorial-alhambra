@@ -381,6 +381,10 @@ Primero hacemos los **3 circuitos** que realizan cada **tarea**. Son independien
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-17.png)
 
+Luego hacemos el **anillo de temporizadores**. Cada uno está configurado con su **propia duración**, en **segundos**. Sus **salidas p** se conectan a las **entradas de enable** de los circuitos anteriores. Cada timer con su circuito correspondiente. La **salida tic** se conectan con la **entradas** del siguiente timer
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-18.png)
+
 (TODO)
 
 ## Generando pulsos periódicos
