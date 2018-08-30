@@ -373,11 +373,9 @@ Vamos a crear un circuito que realice tres **tareas** muy sencillas, una detrás
 
 Nuestro automatismo estará **en reposo** hasta que se **apriete el pulsador**. En se momento se empieza con la **tarea 1** y se continúa con las siguientes. Cuando llega a la última, **empieza** otra vez desde el **principio**
 
-(Ej. Un pulsador desencadena una serie de eventos:
-Encender led durante t1 seg --> Nota durante t2 ---> servo arriba durante t3 --> Todo apagado)
-Cto 1: parpadeo LED, cto 2: sirena acústica, cito 3: Servo
+Su **funcionamiento** se muestra en esta **animación**:
 
-(Ej. LEDs en cascada)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-16.gif)
 
 (TODO)
 
