@@ -363,6 +363,15 @@ Con los **timers encadenados** haremosr nuestros **primeros automatismos**, que 
 
 ### Ejemplo 9: Mi primer automatismo
 
+Vamos a crear un circuito que realice tres **tareas** muy sencillas, una detrás de otra, y que se repitan al terminar la última. Cada tarea tiene una **duración diferente**:
+
+| Tarea  | Duración (seg) | Descripción |
+|--------|----------------|-------------|
+|   1    | 3              | Parpadeo de un LED a 2 Hz |
+|   2    | 2              | Hacer sonar una sirena    |
+|   3    | 4              | Abrir una puerta (Servo)  |
+
+
 (Ej. Un pulsador desencadena una serie de eventos:
 Encender led durante t1 seg --> Nota durante t2 ---> servo arriba durante t3 --> Todo apagado)
 Cto 1: parpadeo LED, cto 2: sirena acústica, cito 3: Servo
