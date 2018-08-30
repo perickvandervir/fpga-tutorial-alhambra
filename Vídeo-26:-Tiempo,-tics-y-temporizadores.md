@@ -371,7 +371,7 @@ Vamos a crear un circuito que realice tres **tareas** muy sencillas, una detrás
 |   2    | 2              | Hacer sonar una sirena    | Zumbador |
 |   3    | 4              | Abrir una puerta  | Servo |
 
-Nuestro automatismo estará **en reposo** hasta que se ***apriete el pulsador**. En se momento se empieza con la **tarea 1** y se continúa con las siguientes. Cuando llega a la última, **empieza** otra vez desde el **principio**
+Nuestro automatismo estará **en reposo** hasta que se **apriete el pulsador**. En se momento se empieza con la **tarea 1** y se continúa con las siguientes. Cuando llega a la última, **empieza** otra vez desde el **principio**
 
 (Ej. Un pulsador desencadena una serie de eventos:
 Encender led durante t1 seg --> Nota durante t2 ---> servo arriba durante t3 --> Todo apagado)
