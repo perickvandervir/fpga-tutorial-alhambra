@@ -353,6 +353,7 @@ Este es un ejemplo muy bueno del **pensamiento espacial en el hardware**. Al apr
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-14.gif)
 
+(TODO)
 
 ## Ejemplo 9: Activación de circuitos en anillo
 
