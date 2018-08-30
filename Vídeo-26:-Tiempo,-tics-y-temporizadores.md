@@ -36,6 +36,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Encadenamiento de temporizadores](#encadenamiento-de-temporizadores)
     * [Ejemplo 8: LEDs encadenados](#ejemplo-8-leds-encadenados)
     * [Ejemplo 9: Activación de circuitos en anillo](#ejemplo-9-activaci%C3%B3n-de-circuitos-en-anillo)
+  * [Encadenamiento en anillo](#encadenamiento-en-anillo)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
