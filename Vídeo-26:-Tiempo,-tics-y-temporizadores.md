@@ -385,6 +385,10 @@ Luego hacemos el **anillo de temporizadores**. Cada uno está configurado con su
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-18.png)
 
+El **temporizador 1** tiene **dos entradas de tics**, una del **pulsador de arranque** y otra del **temporizador 3**, a través de la **puerta OR**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-19.png)
+
 (TODO)
 
 ## Generando pulsos periódicos
