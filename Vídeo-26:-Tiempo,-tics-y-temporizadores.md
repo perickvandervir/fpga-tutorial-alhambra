@@ -346,6 +346,12 @@ Lo **cargamos** y lo **probamos**. Se ve claramente el efecto de **propagación*
 
 Este es un ejemplo muy bueno del **pensamiento espacial en el hardware**. Al apretar el botón aparece un tic que **físicamente** se va **desplazando** de un temporizador a otro. En cuanto alcanza un temporizador, se enciende el LED. Y como además el hardware funciona en **paralelo**, puede haber **varios tics viajando simultáneamente**. Esto es lo que vemos en el vídeo anterior: No es necesario a que termine de propagarse un tic para que se pueda enviar otro, sino que se pueden enviar varios
 
+## Encadenamiento en anillo
+
+¿Y qué ocurre si al **encadenar** temporizadores, el **último** lo conectamos de vuelta con el **primero**? Nuestro tic empezaría a recorrer el **anillo de temporizadores**, y nunca terminaría hasta que apagásemos el circuito. Es una forma de hacer un **bucle infinito** en hardware :-)
+
+(Animación)
+
 ## Ejemplo 9: Activación de circuitos en anillo
 
 (Ej. Un pulsador desencadena una serie de eventos:
