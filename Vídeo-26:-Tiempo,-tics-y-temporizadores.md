@@ -391,7 +391,7 @@ El **temporizador 1** tiene **dos entradas de tics**, una del **pulsador de arra
 
 Este es el **circuito completo**, con todos sus partes conectadas
 
-(Dibujo circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-20.png)
 
 (TODO)
 
