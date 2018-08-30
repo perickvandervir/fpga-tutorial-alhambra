@@ -365,11 +365,11 @@ Con los **timers encadenados** haremosr nuestros **primeros automatismos**, que 
 
 Vamos a crear un circuito que realice tres **tareas** muy sencillas, una detrás de otra, y que se repitan al terminar la última. Cada tarea tiene una **duración diferente**:
 
-| Tarea  | Duración (seg) | Descripción |
-|--------|----------------|-------------|
-|   1    | 3              | Parpadeo de un LED a 2 Hz |
-|   2    | 2              | Hacer sonar una sirena    |
-|   3    | 4              | Abrir una puerta (Servo)  |
+| Tarea  | Duración (seg) | Descripción | Dispositivo |
+|--------|----------------|-------------|--------------|
+|   1    | 3              | Parpadeo a 2 Hz | LED |
+|   2    | 2              | Hacer sonar una sirena    | Zumbador |
+|   3    | 4              | Abrir una puerta  | Servo |
 
 
 (Ej. Un pulsador desencadena una serie de eventos:
