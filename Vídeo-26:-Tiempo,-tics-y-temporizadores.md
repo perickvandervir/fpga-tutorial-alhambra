@@ -377,7 +377,7 @@ Su **funcionamiento** se muestra en esta **animación**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-16.gif)
 
-Primero hacemos los **3 circuitos** que realizan cada **tarea**. Son independientes, con una **entrada de habilitación**. Cuando se activa la entrada funcionan, y se desactivan en caso contrario. Estos circuitos ya los conocemos de otros ejercicios
+Primero hacemos los **3 circuitos** que realizan cada **tarea**. Son independientes, con una **entrada de habilitación**, que hace que funcionen al activarla, y se desactiven en caso contrario. Estos circuitos ya los conocemos de otros ejercicios
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Timer-17.png)
 
