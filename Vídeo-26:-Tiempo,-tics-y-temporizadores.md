@@ -414,16 +414,12 @@ El **corazón de tics** es el componente que determina el **periodo (T)** y el *
 
 ### Ejemplo 10: LED pulsante con sonido
 
-(TODO)
+Este circuito genera un **sonido pulsante** como los que se escuchan en los aparámetos médicos de los hospitales que monitorizan el **corazón**. El pulso periódico también se muestra en un LED externo. Usamos un **periodo de 1400ms** y una **anchura de 50ms**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulsos-periodicos-03.png)
 
+(TODO)
 
-
-
-(Ej. LED pulsante)
-
-(Ej. Latido corazón (hospitales))
 
 (Ej. Prueba pwm)
 
