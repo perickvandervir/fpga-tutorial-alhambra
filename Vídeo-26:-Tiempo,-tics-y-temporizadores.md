@@ -404,6 +404,8 @@ Lo **cargamos** y lo **probamos**. En este vídeo lo vemos en **acción**:
 
 ## Generando pulsos periódicos
 
+Los temporizadores nos permiten generar pulsos periódicos
+
 (Ej. LED pulsante)
 
 (Ej. Latido corazón (hospitales))
