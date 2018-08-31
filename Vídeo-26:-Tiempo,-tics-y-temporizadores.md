@@ -404,7 +404,11 @@ Lo **cargamos** y lo **probamos**. En este vídeo lo vemos en **acción**:
 
 ## Generando pulsos periódicos
 
-Los temporizadores nos permiten generar pulsos periódicos
+Los temporizadores nos permiten generar [pulsos periódicos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-26:-Tiempo,-tics-y-temporizadores#pulsos-peri%C3%B3dicos) **muy fácilmente**. Para ello sólo hay que **conectar a la entrada del temporizador** una fuente periódica de tics: un **corazón de tics**
+
+(Dibujo)
+
+
 
 (Ej. LED pulsante)
 
