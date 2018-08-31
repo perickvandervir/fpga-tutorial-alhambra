@@ -52,10 +52,6 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Enlaces](#enlaces)
 * [Preguntas frecuentes](#preguntas-frecuentes)
 
-# Introducción
-
-(TODO)
-
 # Reloj del sistema
 
   Los **circuitos digitales** funcionan a ritmo de un **reloj**, conocido como **reloj del sistema**. Es el que define la **velocidad máxima** a la que ocurren las cosas dentro del circuito. También nos permite **medir el tiempo**. 
