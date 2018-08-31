@@ -1,6 +1,8 @@
-![]()
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Portada/Tut-26-portada.png)
 
 # Vídeo
+
+(En construcción...)
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
@@ -8,6 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
+(TODO)
 
 # Colección
 
