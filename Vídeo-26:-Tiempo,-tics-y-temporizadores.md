@@ -467,7 +467,7 @@ Con esto podemos diseñar un **controlabor básico de dos posiciones** para **cu
 
 # Conclusiones
 
-La comunicación de **eventos** entre componentes la hacemos mediantes **tics**, que son los pulsos con la **anchura más pequeña** que podemos generar dentro de nuestro sistema. Hemos visto tres componentes **generadores de tics**: el pulsador, el sensor de infrarrojos y el corazón. Los temporizadores son unos elementos esenciales, que nos permiten **medir el tiempo** y emitir un **tic** cuando ha transcurrido cierto tiempo. Con ellos hemos hecho nuestros primeros **automatismos** secuenciales, además de **generar señales PWM** para controlar servos y **modular el brillo** de los LEDs
+La comunicación de **eventos** entre componentes la hacemos mediantes **tics**, que son los pulsos con la **anchura más pequeña** que podemos generar dentro de nuestro sistema. Hemos visto tres componentes **generadores de tics**: el pulsador, el sensor de infrarrojos y el corazón. Los **temporizadores** son unos elementos esenciales, que nos permiten **medir el tiempo** y emitir un **tic** cuando ha transcurrido cierto tiempo. Con ellos hemos hecho nuestros primeros **automatismos** secuenciales, además de **generar señales PWM** para controlar servos y **modular el brillo** de los LEDs
 
 Todavía no sabemos cómo mover un servo a más de dos posiciones, o conseguir más de dos intensidades de brillo. Tampoco sabemos cómo hacer un temporizador. Necesitamos conocer algunos componentes más para lograrlo. Pero poco a poco, vamos comprendiendo los funcionamientos de los circuitos, de manera práctica
 
