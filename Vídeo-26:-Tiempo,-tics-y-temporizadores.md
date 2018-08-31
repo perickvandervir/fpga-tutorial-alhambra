@@ -45,7 +45,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Ejemplo 11: LED con dos intesidades de brillo](#ejemplo-11-led-con-dos-intensidades-de-brillo)
     * [Ejemplo 12: Servo a dos posiciones](#ejemplo-12-servo-a-dos-posiciones)
 * [Conclusiones](#conclusiones)
-* Ejercicios propuestos (X Bitpoints)
+* [Ejercicios propuestos (25 Bitpoints)](#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
 * [Licencia](#licencia)
