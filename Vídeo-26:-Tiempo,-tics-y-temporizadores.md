@@ -445,6 +445,8 @@ Cuando el **pulsador no está apretado**, al LED le llega la señal de **bajo br
 
 [![Click to see the youtube video](http://img.youtube.com/vi/oWQqMuY4ASc/0.jpg)](https://www.youtube.com/watch?v=oWQqMuY4ASc)
 
+Inicialmente el LED está totalmente apagado. Al encender la alimentación empieza a iluminarse con **brillo bajo**. Al apretar el pulsador lo hace con **brillo alto**
+
 ### Ejemplo 12: Servo a dos posiciones
 
 (TODO)
