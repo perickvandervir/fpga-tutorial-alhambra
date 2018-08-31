@@ -38,6 +38,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Encadenamiento en anillo](#encadenamiento-en-anillo)
     * [Ejemplo 9: Mi primer automatismo](#ejemplo-9-mi-primer-automatismo)
   * [Generando pulsos periódicos](#generando-pulsos-peri%C3%B3dicos)
+    * [Ejemplo 10: LED pulsante con sonido](#ejemplo-10-led-pulsante-con-sonido)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
