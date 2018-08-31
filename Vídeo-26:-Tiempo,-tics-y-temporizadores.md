@@ -430,6 +430,13 @@ Lo **cargamos** y lo **probamos**. ¡Nuestra placa vive!
 
 ### Ejemplo 11: LED con dos intensidades de brillo 
 
+Si sacamos por un LED una **señal de 60Hz o mayor frecuencia**, no notaremos que parpadea. Nuestros cerebro se queda sólo con **su valor medio** y lo veremos encendido (cuando en realidad no lo está, se está enciendo y apagando muy rápidamente)
+
+Vamos a fijar la **frecuencia de parpadeo** a **1Khz**. Si ahora variamos la **anchura del pulso** (W), modificamos la **potencia** transferida al LED. Cuanto **mayor** sea la **anchura** del pulso, **más brillará** el LED
+
+
+
+
 (TODO)
 
 
