@@ -440,19 +440,13 @@ La señal superior tiene un pulso de **anchura de 900 us**, mientras que la infe
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulsos-periodicos-05.png)
 
-Cuando el **pulsador no está apretado**, al LED le llega la señal de **bajo brill**o y al **apretarlo**, la de **alto brillo**. Lo **cargamos** y lo **probamos**:
+Cuando el **pulsador no está apretado**, al LED le llega la señal de **bajo brillo** y al **apretarlo**, la de **alto brillo**. Lo **cargamos** y lo **probamos**:
 
 [![Click to see the youtube video](http://img.youtube.com/vi/oWQqMuY4ASc/0.jpg)](https://www.youtube.com/watch?v=oWQqMuY4ASc)
 
+### Ejemplo 12: Servo a dos posiciones
+
 (TODO)
-
-
-(Ej. Prueba pwm)
-
-(Ej. Señal de servo)
-
-
-(Más aplicaciones: Servo rotación continua avanzando durante un tiempo determinado, Icebot, etc...)
 
 # Ejercicios propuestos (X BitPoints)
 
