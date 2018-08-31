@@ -408,6 +408,8 @@ Los temporizadores nos permiten generar [pulsos periódicos](https://github.com/
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulsos-periodicos-01.png)
 
+El **corazón de tics** es el componente que determina el **periodo (T)** y el **temporizador** la **anchura (W)**. La señal producida tiene una pinta como la siguiente. La anchura de todos los periodos es la misma
+
 (Dibujo)
 
 
