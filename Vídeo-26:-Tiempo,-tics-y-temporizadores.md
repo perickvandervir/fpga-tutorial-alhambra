@@ -472,7 +472,7 @@ La comunicación de **eventos** entre componentes la hacemos mediantes **tics**,
 Todavía no sabemos cómo mover un servo a más de dos posiciones, o conseguir más de dos intensidades de brillo. Tampoco sabemos cómo hacer un temporizador. Necesitamos conocer algunos componentes más para lograrlo. Pero poco a poco, vamos comprendiendo los funcionamientos de los circuitos, de manera práctica
 
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (25 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
