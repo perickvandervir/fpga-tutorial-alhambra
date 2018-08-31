@@ -453,7 +453,7 @@ El mismo esquema que hemos aplicado en el ejemplo 11, lo podemos usar para **gen
 
 Este circuito manda al **servo a dos posiciones**, según el estado de un **botón**. El servo apunta hacia la derecha y al apretar el pulsador se mueve a la izquierda. Esto ya lo sabíamos hacer con el componente **ServoBit**, pero ahora vemos un poco qué hay dentro de ese componente: un **corazón de tics**,  **temporizadores** y un **multiplexor**
 
-(Dibujo circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulsos-periodicos-07.png)
 
 (TODO)
 
