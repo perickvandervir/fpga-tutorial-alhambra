@@ -434,6 +434,7 @@ Si sacamos por un LED una **señal de 60Hz o mayor frecuencia**, no notaremos qu
 
 Vamos a fijar la **frecuencia de parpadeo** a **1Khz**. Si ahora variamos la **anchura del pulso** (W), modificamos la **potencia** transferida al LED. Cuanto **mayor** sea la **anchura** del pulso, **más brillará** el LED
 
+(Dibujo señales, alto y bajo brillo)
 
 
 
