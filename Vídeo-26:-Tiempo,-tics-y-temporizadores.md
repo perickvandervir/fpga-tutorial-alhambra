@@ -427,6 +427,8 @@ Lo **cargamos** y lo **probamos**. ¡Nuestra placa vive!
 
 [![Click to see the youtube video](http://img.youtube.com/vi/1xVw-TwCgc0/0.jpg)](https://www.youtube.com/watch?v=1xVw-TwCgc0)
 
+### Ejemplo 11: LED con dos intensidades de brillo 
+
 (TODO)
 
 
