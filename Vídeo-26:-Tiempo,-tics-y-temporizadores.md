@@ -449,6 +449,8 @@ Inicialmente el LED está totalmente apagado. Al encender la alimentación empie
 
 ### Ejemplo 12: Servo a dos posiciones
 
+El mismo esquema que hemos aplicado en el ejemplo 11, lo podemos usar para **generar las señales PWM** de control de un **Servo Futaba 3003** o compatible. El fabricando especifica que el **periodo es de 20ms**. Las anchuras de los pulsos son de **2250us** para ir a un extremo y **550us** para el otro
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
