@@ -455,6 +455,14 @@ Este circuito manda el **servo a dos posiciones**, según el estado de un **bot�
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulsos-periodicos-07.png)
 
+Lo **cargamos** y lo **probamos**
+
+https://www.youtube.com/watch?v=fnuEkrys3bk
+
+Con esto podemos diseñar un **controlabor básico de dos posiciones** para **cualquier servo**: Sólo necesitamos conocer la **frecuencia** de la señal y los valores de las **anchuras de los pulsos**
+
+# Conclusiones
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
