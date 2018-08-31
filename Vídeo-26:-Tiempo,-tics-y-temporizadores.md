@@ -418,6 +418,14 @@ Este circuito genera un **sonido pulsante** como los que se escuchan en los apar
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulsos-periodicos-03.png)
 
+El **montaje** es muy básico: Sólo necesitamos un **LED** y un **zumbador**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulsos-periodicos-04.png)
+
+Lo **cargamos** y lo **probamos**. ¡Nuestra placa vive!
+
+(Video)
+
 (TODO)
 
 
