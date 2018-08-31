@@ -457,11 +457,12 @@ Este circuito manda el **servo a dos posiciones**, según el estado de un **bot�
 
 Lo **cargamos** y lo **probamos**
 
-https://www.youtube.com/watch?v=fnuEkrys3bk
+[![Click to see the youtube video](http://img.youtube.com/vi/fnuEkrys3bk/0.jpg)](https://www.youtube.com/watch?v=fnuEkrys3bk)
 
 Con esto podemos diseñar un **controlabor básico de dos posiciones** para **cualquier servo**: Sólo necesitamos conocer la **frecuencia** de la señal y los valores de las **anchuras de los pulsos**
 
 # Conclusiones
+
 
 (TODO)
 
