@@ -434,9 +434,11 @@ Si sacamos por un LED una **señal de 60Hz o mayor frecuencia**, no notaremos qu
 
 Vamos a fijar la **frecuencia de parpadeo** a **1Khz**. Si ahora variamos la **anchura del pulso** (W), modificamos la **potencia** transferida al LED. Cuanto **mayor** sea la **anchura** del pulso, **más brillará** el LED
 
-(Dibujo señales, alto y bajo brillo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulsos-periodicos-06.png)
 
+La señal superior tiene un pulso de **anchura de 900 us**, mientras que la inferior de **100 us**. La primera transmite más potencia, haciendo que el LED brille más. Este circuito genera esas dos señales, y mediante un **multiplexor** seleccionamos cuál es la que se saca por el LED
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulsos-periodicos-05.png)
 
 (TODO)
 
