@@ -440,6 +440,10 @@ La señal superior tiene un pulso de **anchura de 900 us**, mientras que la infe
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulsos-periodicos-05.png)
 
+Cuando el **pulsador no está apretado**, al LED le llega la señal de **bajo brill**o y al **apretarlo**, la de **alto brillo**. Lo **cargamos** y lo **probamos**:
+
+(Vídeo)
+
 (TODO)
 
 
