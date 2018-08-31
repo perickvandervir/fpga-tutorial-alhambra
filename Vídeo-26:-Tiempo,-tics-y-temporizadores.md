@@ -451,6 +451,10 @@ Inicialmente el LED está totalmente apagado. Al encender la alimentación empie
 
 El mismo esquema que hemos aplicado en el ejemplo 11, lo podemos usar para **generar las señales PWM** de control de un **Servo Futaba 3003** o compatible. El fabricante especifica que el **periodo es de 20ms**. Las anchuras de los pulsos son de **2250us** para ir a un extremo y **550us** para el otro
 
+Este circuito manda al **servo a dos posiciones**, según el estado de un **botón**. El servo apunta hacia la derecha y al apretar el pulsador se mueve a la izquierda. Esto ya lo sabíamos hacer con el componente **ServoBit**, pero ahora vemos un poco qué hay dentro de ese componente: un **corazón de tics**,  **temporizadores** y un **multiplexor**
+
+(Dibujo circuito)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
