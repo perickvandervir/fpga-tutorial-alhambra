@@ -412,6 +412,8 @@ El **corazón de tics** es el componente que determina el **periodo (T)** y el *
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-26/Pulsos-periodicos-02.png)
 
+### Ejemplo 10: LED pulsante con sonido
+
 (Dibujo)
 
 
