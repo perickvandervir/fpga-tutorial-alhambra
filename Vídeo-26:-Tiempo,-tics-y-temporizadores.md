@@ -474,12 +474,14 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 **Resumen**:
 
-* **Ejercicio 26.1** (Total **5 Bitpoints**): Barrera levantada durante 4 segundos al detectarse un IR
+* **Ejercicio 26.1** (Total **5 Bitpoints**):  Barrera temporizada
+
+Cuando un **sensor IR** detecte la presencia de un vehículo/persona, se abrirá automáticamente la **barrera**, empezará a sonar una **sirena** de dos tonos y se activará una **baliza luminosa** de dos LEDs que parpadean alternativamente. Transcurridos **3 segundos** desde que se activó, la barrerá bajará automáticamente  
+y tanto la baliza como la sirena se pararán
+
+El este **Vídeo de Youtube** se muestra el funcionamiento pedido
 
 [![Click to see the youtube video](http://img.youtube.com/vi/rqdCrPBW_p4/0.jpg)](https://www.youtube.com/watch?v=rqdCrPBW_p4)
-
-
-
 
 * **Ejercicio 26.2** (Total **5 Bitpoints**): Disparo tipo arcade en 8 LEDs
 
