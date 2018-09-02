@@ -496,10 +496,21 @@ El este **Vídeo de Youtube** se muestra el funcionamiento pedido
 
 * **Ejercicio 26.3** (Total **10 Bitpoints**): Franky automatizado
 
+Diseñar un circuito controlador de Franky, para que realice la siguiente secuencia automatizada, que arranca al apretar un pulsador externo:
+
+* Inicialmente Franky está mirando hacia la izquierda
+
+* **Etapa 1**: Primero emite una ráfaga en los ojos de Franky durante 2 segundos. La frecuencia de la ráfaga es de 4Hz y el tiempo de encendido de los LEDs de 50ms  
+
+* **Etapa 2**: Gira la cabeza hacia la derecha. Se queda esperando durante 2 segundos, sin hacer nada más
+
+* **Etapa 3**: Emite la misma ráfaga de la Etapa 1, junto a una ráfaga sonora, enviando un tono de 800Hz modulado a 10Hz. Esta etapa dura 3 segundos
+
+* Al terminar la Etapa 3 vuelve al estado original de reposo
+
 El este **Vídeo de Youtube** se muestra el funcionamiento pedido
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
+[![Click to see the youtube video](http://img.youtube.com/vi/6Ch4JIVi4cg/0.jpg)](https://www.youtube.com/watch?v=6Ch4JIVi4cg)
 
 * **Ejercicio 26.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
