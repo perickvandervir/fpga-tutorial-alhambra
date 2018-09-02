@@ -476,6 +476,11 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 26.1** (Total **5 Bitpoints**): Barrera levantada durante 4 segundos al detectarse un IR
 
+[![Click to see the youtube video](http://img.youtube.com/vi/rqdCrPBW_p4/0.jpg)](https://www.youtube.com/watch?v=rqdCrPBW_p4)
+
+
+
+
 * **Ejercicio 26.2** (Total **5 Bitpoints**): Disparo tipo arcade en 8 LEDs
 
 * **Ejercicio 26.3** (Total **10 Bitpoints**): Franky automatizado
