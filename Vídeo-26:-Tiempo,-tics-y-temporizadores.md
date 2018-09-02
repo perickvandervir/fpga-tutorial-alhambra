@@ -10,7 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-(TODO)
+En los circuitos se tiene noción del tiempo gracias al **reloj del sistema**. Mediante los **temporizadores** podemos medir el tiempo, realizar acciones y **propagar eventos**. Veremos como combinar estos elementos para realizar pequeños **automatismos**. Empezamos a vislumbrar la potencia de los **circuitos secuenciales**
 
 # Colección
 
