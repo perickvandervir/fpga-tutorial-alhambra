@@ -482,9 +482,24 @@ El este **Vídeo de Youtube** se muestra el funcionamiento pedido
 
 [![Click to see the youtube video](http://img.youtube.com/vi/rqdCrPBW_p4/0.jpg)](https://www.youtube.com/watch?v=rqdCrPBW_p4)
 
-* **Ejercicio 26.2** (Total **5 Bitpoints**): Disparo tipo arcade en 8 LEDs
+* **Ejercicio 26.2** (Total **5 Bitpoints**): Disparo de arcade en LEDs
+
+Al apretar un **pulsador** externo, se generará en los **8 LEDs** una secuencia de avance de una bala. Empieza en el LED0 y se propaga hasta el LED7. Cada LED estará encendido durante **50ms**. Además, cada vez que se apriete el pulsador, se escuchará un **tono de 200 Hz** y **20ms** de duración en un **zumbador**
+
+Puede haber más de un disparo a la vez
+
+**Pista**: Utilizar temporizadores encadenados
+
+El este **Vídeo de Youtube** se muestra el funcionamiento pedido
+
+[![Click to see the youtube video](http://img.youtube.com/vi/vWsUFDJ0H1s/0.jpg)](https://www.youtube.com/watch?v=vWsUFDJ0H1s)
 
 * **Ejercicio 26.3** (Total **10 Bitpoints**): Franky automatizado
+
+El este **Vídeo de Youtube** se muestra el funcionamiento pedido
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
 
 * **Ejercicio 26.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
