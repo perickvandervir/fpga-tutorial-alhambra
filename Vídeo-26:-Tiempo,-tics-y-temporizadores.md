@@ -46,6 +46,7 @@ En los circuitos se tiene noción del tiempo gracias al **reloj del sistema**. M
 * [Ejercicios propuestos (25 Bitpoints)](#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Federico Coca (@fgcoca)](#federico-coca-fgcoca)
+  * [Viriato (@Srviriato)](#viriato-srviriato)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
