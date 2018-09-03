@@ -538,35 +538,26 @@ El este **Vídeo de Youtube** se muestra el funcionamiento pedido
 
 [![Click to see the youtube video](http://img.youtube.com/vi/9LFy7Pyn7-M/0.jpg)](https://www.youtube.com/watch?v=9LFy7Pyn7-M)
 
-## Segundo
+## Viriato (@SrViriato)
 
 ### Ejercicio 26.1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-26/Viriato/Ejercicio-26-1/Captura%20de%20pantalla%20-2018-09-02%2019-33-01.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/SrViriato/status/1036609592363495424)
 
 ### Ejercicio 26.2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-26/Viriato/Ejercicio-26-2/Captura%20de%20pantalla%20-2018-09-02%2019-16-56.png)
 
-* **Vídeo** en Youtube:
+* [Vídeo en Twitter](https://twitter.com/SrViriato/status/1036609725033525249)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ### Ejercicio 26.3
 ![]()
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
 ### Ejercicio 26.4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-26/Viriato/Ejercicio-26-4/Captura%20de%20pantalla%20-2018-09-03%2014-26-30.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/SrViriato/status/1036609935625342977)
 
 ## Tercero
 
