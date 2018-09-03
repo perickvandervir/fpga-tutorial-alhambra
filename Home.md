@@ -315,10 +315,7 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 
 | Núm   | Divisa     | Rango  |  Bitpoints  | Descripción |
 |-------|----------|--------|-------------|-------------|
-| Núm   | Rango  |  Bitpoints  | Descripción |
-|-------|--------|-------------|-------------|
-|19  |   **Jedi nivel 1** |  |  |  |
-|20  |   **Jedi nivel 2** |  |  |  |
+|20     |   **Jedi nivel 2** |  |  |  |
 |21  |   **Jedi nivel 3** |  |  |  |
 |22  |   **Aspirante a Caballero Jedi** |  |  |  |
 
