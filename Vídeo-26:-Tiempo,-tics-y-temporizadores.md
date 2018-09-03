@@ -525,26 +525,18 @@ El este **Vídeo de Youtube** se muestra el funcionamiento pedido
 [![Click to see the youtube video](http://img.youtube.com/vi/c_qGPI_XmzM/0.jpg)](https://www.youtube.com/watch?v=c_qGPI_XmzM)
 
 ### Ejercicio 26.2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-26/fgcoca/Ejercicio-2/-Ejercicio26_2%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/0xbFvzs3Wd8/0.jpg)](https://www.youtube.com/watch?v=0xbFvzs3Wd8)
 
 ### Ejercicio 26.3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-26/fgcoca/Ejercicio-3/Ejercicio26_3%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-### Ejercicio 26.4
-![]()
-
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
+[![Click to see the youtube video](http://img.youtube.com/vi/9LFy7Pyn7-M/0.jpg)](https://www.youtube.com/watch?v=9LFy7Pyn7-M)
 
 ## Segundo
 
