@@ -44,7 +44,7 @@ En los circuitos se tiene noción del tiempo gracias al **reloj del sistema**. M
     * [Ejemplo 12: Servo a dos posiciones](#ejemplo-12-servo-a-dos-posiciones)
 * [Conclusiones](#conclusiones)
 * [Ejercicios propuestos (25 Bitpoints)](#ejercicios-propuestos-25-bitpoints)
-* [Ejercicios entregados](#ejercicios-entregados)ç
+* [Ejercicios entregados](#ejercicios-entregados)
   * [Federico Coca (@fgcoca)](#federico-coca-fgcoca)
 * [Autor](#autor)
 * [Licencia](#licencia)
