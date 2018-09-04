@@ -16,6 +16,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 # Contenido
 
 * [Contadores](#contadores)
+* [Contando tics]()
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
@@ -38,9 +39,6 @@ Como **parámetro** se introduce el **módulo del contador**: la cuenta máxima,
 En esta **animación** se mustra el funcionamiento de un **contador de 2 bits**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-02.gif)
-
-(TODO)
-
 
 # Contando tics
 
