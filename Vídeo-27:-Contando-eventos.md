@@ -29,7 +29,8 @@ Los **contadores** son unos componentes **esenciales**, que se utilizan muchísi
 
 Los contadores **cuentan tics**. Existen de muchos tipos. Los que nosotros utilizaremos en este tutorial son **contadores ascendentes**, que parten desde cero y suman una unidad a la cuenta cada vez que llega un tic. Este es el bloque que utilizaremos
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-01.png)
+
 
 (TODO)
 
