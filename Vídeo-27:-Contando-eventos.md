@@ -27,7 +27,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 Los **contadores** son unos componentes **esenciales**, que se utilizan muchísimo. Con ellos hacemos otros elementos, como **temporizadores**, **unidades de PWM**, **controladores**... y también nos permiten **direccionar memorias** o **recorrer tablas**, entre otras muchas cosas
 
-Los contadores **cuentan tics**. Existen de muchos tipos. Los que nosotros utilizaremos en este tutorial son **contadores ascendentes**, que parten desde **cero** y suman **una unidad** a la cuenta cada vez que llega un tic. Este es el bloque que utilizaremos
+Los contadores **cuentan tics**. Existen de muchos tipos. Los que nosotros utilizaremos en este tutorial son **contadores ascendentes**, que parten desde **cero** y suman **una unidad** a la cuenta cada vez que llega un tic. Este es el **bloque** que utilizaremos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-01.png)
 
