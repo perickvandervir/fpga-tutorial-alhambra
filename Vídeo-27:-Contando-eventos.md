@@ -37,7 +37,7 @@ Como **parámetro** se introduce el **módulo del contador**: la cuenta máxima,
 
 En esta **animación** se mustra el funcionamiento de un **contador de 2 bits**
 
-(animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-02.gif)
 
 (TODO)
 
