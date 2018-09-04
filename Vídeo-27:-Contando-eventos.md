@@ -25,6 +25,15 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Contadores
 
+(TODO)
+
+* Intro
+* Dibujo contador que usaremos: entradas: rst, cnt. Salidas: cuenta, ov. Parametro: Módulo
+
+# Contando tics
+
+(TODO)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
