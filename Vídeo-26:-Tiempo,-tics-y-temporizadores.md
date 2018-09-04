@@ -553,7 +553,9 @@ El este **Vídeo de Youtube** se muestra el funcionamiento pedido
 
 
 ### Ejercicio 26.3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-26/Viriato/Ejercicio-26-3/Captura%20de%20pantalla%20-2018-09-03%2017-01-58.png)
+
+* [Vídeo en Twitter](https://twitter.com/SrViriato/status/1036647610646503424)
 
 ### Ejercicio 26.4
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-26/Viriato/Ejercicio-26-4/Captura%20de%20pantalla%20-2018-09-03%2014-26-30.png)
