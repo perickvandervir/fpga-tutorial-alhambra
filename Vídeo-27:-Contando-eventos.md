@@ -31,11 +31,10 @@ Los contadores **cuentan tics**. Existen de muchos tipos. Los que nosotros utili
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-01.png)
 
+Por la entrada **cnt**, llegan los **tics** que queremos contar. La cuenta actual sale por el **bus** de la derecha, de **N** bits. Por la **salida ov** sale un tic para indicar un **evento de desbordamiento**: el contador ha llegado a la **cuenta máxima** y comienza desde cero 
 
 (TODO)
 
-* Intro
-* Dibujo contador que usaremos: entradas: rst, cnt. Salidas: cuenta, ov. Parametro: Módulo
 
 # Contando tics
 
