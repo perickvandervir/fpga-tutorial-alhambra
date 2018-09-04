@@ -35,6 +35,10 @@ Por la entrada **cnt**, llegan los **tics** que queremos contar. La cuenta actua
 
 Como **parámetro** se introduce el **módulo del contador**: la cuenta máxima, que una vez alcanzada hace que vuelva a comenzar desde cero (provocando un overflow). Si no se indica ninguno, se toma el **su valor máximo** (2 elevado al número de bits del contador)
 
+En esta **animación** se mustra el funcionamiento de un **contador de 2 bits**
+
+(animación)
+
 (TODO)
 
 
