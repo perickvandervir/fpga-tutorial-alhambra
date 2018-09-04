@@ -23,7 +23,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Enlaces](#enlaces)
 * [Preguntas frecuentes](#preguntas-frecuentes)
 
-# Introducción
+# Contadores
 
 # Ejercicios propuestos (X BitPoints)
 
