@@ -68,7 +68,11 @@ Este ejemplo es igual que el anterior, pero hemos conectado la entrada **rst** a
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-05.png)
 
-Lo **cargamos** y lo **probamos**
+Lo **cargamos** y lo **probamos**. En cuanto se aprieta el **reset**, la cuenta se pone a **0** y los LEDs se apagan
+
+[![Click to see the youtube video](http://img.youtube.com/vi/SdsyM3bqprc/0.jpg)](https://www.youtube.com/watch?v=SdsyM3bqprc)
+
+## Ejemplo 3: Contando en decimal
 
 (Video)
 
