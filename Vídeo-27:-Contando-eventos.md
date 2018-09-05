@@ -55,9 +55,11 @@ Y el **montaje** se muestra en esta foto. El LED **amarillo** es el de menor pes
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-04.png)
 
-Lo **cargamos** y lo **probamos**
+Lo **cargamos** y lo **probamos**. ¡Nuestro primer contador está funcionando!. Efectivamente, al apretarse la cuarta vez, el contador vuelve a 0
 
 [![Click to see the youtube video](http://img.youtube.com/vi/3W57NzJkwHo/0.jpg)](https://www.youtube.com/watch?v=3W57NzJkwHo)
+
+## Ejemplo 2: Inicializando el contador
 
 (TODO)
 
