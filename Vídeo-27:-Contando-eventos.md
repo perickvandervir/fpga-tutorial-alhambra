@@ -47,7 +47,9 @@ Los **contadores** cuentan los **tics** que reciben por su *entrada cnt**. Nos f
 
 ## Ejemplo 1: Contando las pulsaciones de un botón
 
+Comenzamos con un ejemplo de **contar** las veces que **apretamos un pulsador**, y mostramos la cuenta en **2 LEDs** externos. La entrada de **reset** la dejamos a 0. El **circuito** es el siguiente:
 
+(Circuito)
 
 (TODO)
 
