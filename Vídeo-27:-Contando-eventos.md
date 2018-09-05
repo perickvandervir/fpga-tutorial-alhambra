@@ -42,6 +42,12 @@ En esta **animación** se mustra el funcionamiento de un **contador de 2 bits**
 
 # Contando tics
 
+Los **contadores** cuentan los **tics** que reciben por su *entrada cnt**. Nos familiarizaremos con ellos usando como ejemplo el contador más sencillo: uno de **2 bits**, como el de la animación anterior. Realiza la cuenta 0,1,2,3 y en el cuarto tic vuelve a comenzar desde 0
+
+## Ejemplo 1: Contando las pulsaciones de un botón
+
+
+
 (TODO)
 
 (Ej1 Contando pulsaciones en binario)
