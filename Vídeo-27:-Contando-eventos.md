@@ -18,6 +18,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Contadores](#contadores)
 * [Contando tics](#contando-tics)
   * [Ejemplo 1: Contando las pulsaciones de un botón](#ejemplo-1-contando-las-pulsaciones-de-un-bot%C3%B3n)
+  * [Ejemplo 2: Inicializando el contador](#ejemplo-2-inicializando-el-contador)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
