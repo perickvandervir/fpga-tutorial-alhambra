@@ -51,6 +51,10 @@ Comenzamos con un ejemplo de **contar** las veces que **apretamos un pulsador**,
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-03.png)
 
+Y el **montaje** se muestra en esta foto. El LED **amarillo** es el de menor peso (LED 0), y el **rojo** el de mayor (LED 1)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-04.png)
+
 
 (TODO)
 
