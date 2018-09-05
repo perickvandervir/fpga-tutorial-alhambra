@@ -66,7 +66,7 @@ El contador **comienza a contar** desde **0**. Es el valor que tiene al alimenta
 
 Este ejemplo es igual que el anterior, pero hemos conectado la entrada **rst** al **pulsador SW1**. De esta forma, cuando se **apriete**, enviará un 1 y el contador se **inicializará**
 
-(Circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-05.png)
 
 (TODO)
 
