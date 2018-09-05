@@ -62,9 +62,14 @@ Lo **cargamos** y lo **probamos**. ¡Nuestro primer contador está funcionando!.
 
 ## Ejemplo 2: Inicializando el contador
 
+El contador comienza a contar desde **0**. Es el valor que tiene al alimentar el circuito. A partir de ahí, su valor dependerá de los tics que se hayan recibido por su entrada cnt. Si en un momento determinado queremos que vuelva a su valor inicial de 0, hay que poner a 1 su entrada rst
+
+Este ejemplo es igual que el anterior, pero hemos conectado la entrada **rst** al **pulsador SW1**. De esta forma, cuando se apriete, enviará un 1 y el contador se **inicializará**
+
+(Circuito)
+
 (TODO)
 
-(Ej1 Contando pulsaciones en binario)
 (Ej2 Contando pulsaciones en binario y decimal)
 
 # Ejercicios propuestos (X BitPoints)
