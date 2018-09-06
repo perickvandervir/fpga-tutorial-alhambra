@@ -75,7 +75,17 @@ Lo **cargamos** y lo **probamos**. En cuanto se aprieta el **reset**, la cuenta 
 
 ## Ejemplo 3: Contando en decimal
 
+Si conectamos un **decodificador** para **display de 7 segmentos** a la salida del contador, veremos la cuenta en **dígitos decimales**, lo cual es mucho más fácil de leer :-) Usamos el **DisplayBit2**
+
+(Circuito)
+
+(TODO)
+
+(Foto del montaje)
+
 (Video)
+
+### Ejemplo 4: Notificando el overflow
 
 (TODO)
 
