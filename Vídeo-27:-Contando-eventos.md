@@ -94,7 +94,10 @@ Cada vez que el **contador da la vuelta** y comienza de desde **cero**, se emite
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-08.png)
 
-(Montaje)
+Se ha añadido un **pulsador** para **borrar la notificación**. El **LED rojo** se usa para mostrar la **notifición**. El resto del montaje es **igual** que el del ejemplo 3
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-09.png)
+
 
 (video)
 
