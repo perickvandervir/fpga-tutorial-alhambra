@@ -562,14 +562,14 @@ El este **Vídeo de Youtube** se muestra el funcionamiento pedido
 
 * [Vídeo en Twitter](https://twitter.com/SrViriato/status/1036609935625342977)
 
-## Tercero
+## Josep Montoliu (Klarojms)
 
 ### Ejercicio 26.1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-26/klarojms/Ejercicio%201-1.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/O-RT5tZBcFI/0.jpg)](https://www.youtube.com/watch?v=O-RT5tZBcFI)
 
 ### Ejercicio 26.2
 ![]()
