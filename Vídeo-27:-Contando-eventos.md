@@ -100,9 +100,7 @@ Se ha añadido un **pulsador** para **borrar la notificación**. El **LED rojo**
 
 Lo **cargamos** y lo **probamos**. El desbordamiento se produce cuando el contador vale 3 y se aprieta el pulsador. En ese momento se **activa el LED** y el contador pasa a valer **0**. O lo que es lo mismo, el LED se enciende cuando se ha **pulsado 4 veces** el botón, partiendo del estado de reposo (0)
 
-(video)
-
-(TODO)
+[![Click to see the youtube video](http://img.youtube.com/vi/AQFVeJZapBg/0.jpg)](https://www.youtube.com/watch?v=AQFVeJZapBg)
 
 ### Ejemplo 5: Cambiando el módulo del contador
 
