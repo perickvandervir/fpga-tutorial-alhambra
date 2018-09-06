@@ -98,6 +98,7 @@ Se ha añadido un **pulsador** para **borrar la notificación**. El **LED rojo**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-09.png)
 
+Lo **cargamos** y lo **probamos**. El desbordamiento se produce cuando el contador vale 3 y se aprieta el pulsador. En ese momento se **activa el LED** y el contador pasa a valer **0**. O lo que es lo mismo, el LED se enciende cuando se ha **pulsado 4 veces** el botón, partiendo del estado de reposo (0)
 
 (video)
 
