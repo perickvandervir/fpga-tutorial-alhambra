@@ -85,7 +85,7 @@ El **montaje** es el mismo de los ejemplos anteriores, pero añadiendo el **disp
 
 Lo **cargamos** y lo **probamos**. Ahora se ven los **dígitos 0**, **1**, **2** y **3** al **apretar** el pulsador sucesivamente.  También vemos la **cuenta en binario** en los LEDs inferiores. Al apretar el **reset** vuelve a **0**.
 
-(Video)
+[![Click to see the youtube video](http://img.youtube.com/vi/3HFkcehVeyM/0.jpg)](https://www.youtube.com/watch?v=3HFkcehVeyM)
 
 ### Ejemplo 4: Notificando el overflow
 
