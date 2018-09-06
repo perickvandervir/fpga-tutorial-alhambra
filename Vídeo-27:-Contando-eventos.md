@@ -79,8 +79,6 @@ Si conectamos un **decodificador** para **display de 7 segmentos** a la salida d
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-06.png)
 
-(Circuito)
-
 (TODO)
 
 (Foto del montaje)
