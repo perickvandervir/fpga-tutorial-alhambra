@@ -94,9 +94,15 @@ Cada vez que el **contador da la vuelta** y comienza de desde **cero**, se emite
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-08.png)
 
+(Montaje)
+
+(video)
+
 (TODO)
 
-(Ej2 Contando pulsaciones en binario y decimal)
+### Ejemplo 5: Cambiando el módulo del contador
+
+(TODO)
 
 # Ejercicios propuestos (X BitPoints)
 
