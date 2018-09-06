@@ -47,6 +47,7 @@ En los circuitos se tiene noción del tiempo gracias al **reloj del sistema**. M
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Federico Coca (@fgcoca)](#federico-coca-fgcoca)
   * [Viriato (@Srviriato)](#viriato-srviriato)
+  * [Josep Montoliu (Klarojms)](#josep-montoliu-klarojms)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
