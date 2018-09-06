@@ -90,6 +90,10 @@ Lo **cargamos** y lo **probamos**. Ahora se ven los **dígitos 0**, **1**, **2**
 
 ### Ejemplo 4: Notificando el overflow
 
+Cada vez que el **contador da la vuelta** y comienza de desde **cero**, se emite el **evento de overflow**, que es un **tic**. Lo podemos capturar con un ***biestable RS** y notificarlo en un **LED**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-08.png)
+
 (TODO)
 
 (Ej2 Contando pulsaciones en binario y decimal)
