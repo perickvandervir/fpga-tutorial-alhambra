@@ -83,7 +83,7 @@ El **montaje** es el mismo de los ejemplos anteriores, pero añadiendo el **disp
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-07.png)
 
-(TODO)
+Lo **cargamos** y lo **probamos**. Ahora se ven los **dígitos 0**, **1**, **2** y **3** al **apretar** el pulsador sucesivamente.  También vemos la **cuenta en binario** en los LEDs inferiores. Al apretar el **reset** vuelve a **0**.
 
 (Video)
 
