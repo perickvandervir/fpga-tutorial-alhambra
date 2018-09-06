@@ -573,25 +573,31 @@ El este **Vídeo de Youtube** se muestra el funcionamiento pedido
 [![Click to see the youtube video](http://img.youtube.com/vi/O-RT5tZBcFI/0.jpg)](https://www.youtube.com/watch?v=O-RT5tZBcFI)
 
 ### Ejercicio 26.2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-26/klarojms/Ejercicio%202-1.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/J9dKJExgo4s/0.jpg)](https://www.youtube.com/watch?v=J9dKJExgo4s)
 
 ### Ejercicio 26.3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-26/klarojms/Ejercicio%203-1.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/R5_ZSUwijpM/0.jpg)](https://www.youtube.com/watch?v=R5_ZSUwijpM)
 
 ### Ejercicio 26.4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-26/klarojms/Ejercicio%204-1.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-26/klarojms/Ejercicio%204-2.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-26/klarojms/Ejercicio%204-3.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-26/klarojms/Ejercicio%204-5.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/fVPnxDWkXmM/0.jpg)](https://youtu.be/fVPnxDWkXmM)
 
 
 # Autor
