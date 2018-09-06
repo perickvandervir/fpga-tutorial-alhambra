@@ -77,6 +77,8 @@ Lo **cargamos** y lo **probamos**. En cuanto se aprieta el **reset**, la cuenta 
 
 Si conectamos un **decodificador** para **display de 7 segmentos** a la salida del contador, veremos la cuenta en **dígitos decimales**, lo cual es mucho más fácil de leer :-) Usamos el **DisplayBit2**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-06.png)
+
 (Circuito)
 
 (TODO)
