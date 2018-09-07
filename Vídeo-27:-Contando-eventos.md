@@ -117,6 +117,10 @@ Lo **cargamos** y lo **probamos**. Comprobamos que ahora efectivamente el contad
 [![Click to see the youtube video](http://img.youtube.com/vi/Bf8JTTj89E8/0.jpg)](https://www.youtube.com/watch?v=Bf8JTTj89E8)
 
 ## Ejemplo 6: Contador de 0 a 9
+ 
+Ya conocemos todos los secretos de los contadores. Ahora los aplicaremos para hacer más ejemplos. ¿Cómo podemos hacer un contador que cuente en **decimal**, desde el **0** hasta el **9** y vuelva a empezar?
+
+Para representar los números del 0 al 9 (10 en total), necesitamos usar un **contador de 4 bits**. Como queremos que la cuenta sea del **0** al **9**, el contador será **módulo 10**. Partimos del ejemplo anterior y cambiamos el **decodificador del 7 segmentos**, el contador y el módulo:
 
 (TODO)
 
