@@ -128,6 +128,10 @@ Lo **cargamos** y lo **probamos**. Ahora cuenta desde el **0** hasta el **9**. Y
 
 [![Click to see the youtube video](http://img.youtube.com/vi/_5SDIPNTLAo/0.jpg)](https://www.youtube.com/watch?v=_5SDIPNTLAo)
 
+# Extendiendo contadores
+
+(TODO)
+
 # Ejercicios propuestos (X BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
