@@ -111,6 +111,12 @@ El **módulo del contador** lo podemos **cambiar** con el **parámetro** superio
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-10.png)
 
+Lo **cargamos** y lo **probamos**. Comprobamos que ahora efectivamente el contador llega hasta 2 y con la siguiente pulsación vuelve a 0 y se activa la **notificación de desbordamiento**
+
+[![Click to see the youtube video](http://img.youtube.com/vi/Bf8JTTj89E8/0.jpg)](https://www.youtube.com/watch?v=Bf8JTTj89E8)
+
+## Ejemplo 6: Contador de 0 a 9
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
