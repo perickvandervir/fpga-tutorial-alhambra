@@ -122,6 +122,8 @@ Ya conocemos todos los secretos de los contadores. Ahora los aplicaremos para ha
 
 Para representar los números del 0 al 9 (10 en total), necesitamos usar un **contador de 4 bits**. Como queremos que la cuenta sea del **0** al **9**, el contador será **módulo 10**. Partimos del ejemplo anterior y cambiamos el **decodificador del 7 segmentos**, el contador y el módulo:
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-11.png)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
