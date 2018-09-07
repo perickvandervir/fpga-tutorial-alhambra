@@ -22,6 +22,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 3: Contando en decimal](#ejemplo-3-contando-en-decimal)
   * [Ejemplo 4: Notificando el overflow](#ejemplo-4-notificando-el-overflow)
   * [Ejemplo 5: Cambiando el módulo del contador](#ejemplo-5-cambiando-el-m%C3%B3dulo-del-contador)
+  * [Ejemplo 6: Contador de 0 a 9](#ejemplo-6-contador-de-0-a-9)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
