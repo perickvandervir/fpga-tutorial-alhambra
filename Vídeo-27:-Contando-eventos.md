@@ -131,6 +131,33 @@ Lo **cargamos** y lo **probamos**. Ahora cuenta desde el **0** hasta el **9**. Y
 
 # Extendiendo contadores
 
+(Animación con 2 contadores de 2 bits)
+
+(Ejemplo 7: Dos contadores de 2 bits)
+
+(Ejemplo 8: Contador de 4 bits en Display: hexadecimal )
+
+(Ejemplo 9: Contando triples clicks)
+
+# Contando objetos
+
+* Vueltas del spinner
+
+# Cuentas automáticas
+
+* Segundero
+* Minutero
+
+# Recorriendo tablas
+
+* Secuencia en los LEDs
+* Texto en el 7-segmentos
+* Animación en 7-segmentos
+* Gravedad??
+
+
+
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
