@@ -107,7 +107,7 @@ Lo **cargamos** y lo **probamos**. El desbordamiento se produce cuando el contad
 
 El contador que hemos usado en todos los ejemplos es de **2 bits**. Esto significa que **sólo puede representar 4 números** (2 elevado a 2): 0, 1, 2 y 3. Al recibir el cuarto tic vuelve a comenzar desde cero. Se trata de lo que llamamos un contador **módulo 4**: sólo puede contar como máximo 4 tics (y vuelve a empezar)
 
-El **módulo del contador** lo podemos **cambiar** con el **parámetro** superior. En este ejemplo se muestra el mismo circuito del ejemplo 4, pero se ha cambiado el módulo para que sea 3. Es un **contador módulo 3**. Por ello ahora sólo cuenta 3 tics, y vuelve a comenzar: número 0,1 y 2.
+El **módulo del contador** lo podemos **cambiar** con el **parámetro** superior. En este ejemplo se muestra el mismo circuito del ejemplo 4, pero se ha cambiado el módulo para que sea 3. Es un **contador módulo 3**. Por ello ahora sólo cuenta 3 tics, y vuelve a comenzar. La cuenta que hace es: 0,1 y 2.
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-10.png)
 
