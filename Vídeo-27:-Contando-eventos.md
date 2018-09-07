@@ -109,6 +109,8 @@ El contador que hemos usado en todos los ejemplos es de **2 bits**. Esto signifi
 
 El **módulo del contador** lo podemos **cambiar** con el **parámetro** superior. En este ejemplo se muestra el mismo circuito del ejemplo 4, pero se ha cambiado el módulo para que sea 3. Es un **contador módulo 3**. Por ello ahora sólo cuenta 3 tics, y vuelve a comenzar: número 0,1 y 2.
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-10.png)
+
 (TODO)
 
 # Ejercicios propuestos (X BitPoints)
