@@ -124,7 +124,9 @@ Para representar los números del 0 al 9 (10 en total), necesitamos usar un **co
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/counter-11.png)
 
-(TODO)
+Lo **cargamos** y lo **probamos**. Ahora cuenta desde el **0** hasta el **9**. Y al apretar el pulsador por **décima vez** vuelve a 0 y se activa la **notificación de desbordamiento**
+
+[![Click to see the youtube video](http://img.youtube.com/vi/_5SDIPNTLAo/0.jpg)](https://www.youtube.com/watch?v=_5SDIPNTLAo)
 
 # Ejercicios propuestos (X BitPoints)
 
