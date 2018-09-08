@@ -129,7 +129,9 @@ Lo **cargamos** y lo **probamos**. Ahora cuenta desde el **0** hasta el **9**. Y
 
 [![Click to see the youtube video](http://img.youtube.com/vi/_5SDIPNTLAo/0.jpg)](https://www.youtube.com/watch?v=_5SDIPNTLAo)
 
-# Extendiendo contadores
+# Encadenando contadores
+
+(TODO)
 
 (Animación con 2 contadores de 2 bits)
 
