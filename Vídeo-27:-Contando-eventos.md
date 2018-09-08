@@ -131,9 +131,15 @@ Lo **cargamos** y lo **probamos**. Ahora cuenta desde el **0** hasta el **9**. Y
 
 # Encadenando contadores
 
-(TODO)
+Los **contadores** los podemos considerar también como **componentes generadores de tics**, que los emiten por su salida de **overflow** (ov). Esto permite conectar la salida de overflow de un **contador fuente** a la entrada **cnt** del **contador destino**. Cada vez que el **contador fuente** se desborde, el **contador destino** se incrementa
+
+En esta **animación** se muestra un ejemplo de **dos contadores** de 2 bits **encadenados**. El **contador fuente** se va incrementando cada vez que llegan tics (no se muestran en la animación). Al desbordarse **emite un tic** que incrementa el **contador destino**
 
 (Animación con 2 contadores de 2 bits)
+
+(TODO)
+
+
 
 (Ejemplo 7: Dos contadores de 2 bits)
 
