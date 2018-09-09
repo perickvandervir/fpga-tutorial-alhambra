@@ -146,12 +146,11 @@ En este ejemplo **encadenamos** dos **contadores** de **2-bits**, igual que en l
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/encadenamiento-02.png)
 
+(Montaje)
+
+(Vídeo)
 
 (TODO)
-
-
-
-(Ejemplo 7: Dos contadores de 2 bits)
 
 (Ejemplo 8: Contador de 4 bits en Display: hexadecimal )
 
