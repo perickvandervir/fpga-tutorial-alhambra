@@ -150,7 +150,7 @@ En el montaje se incluyen los **dos LEDs** para mostrar la **cuenta binaria** de
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/encadenamiento-03.png)
 
-(Vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/f75ZNZluRVk/0.jpg)](https://www.youtube.com/watch?v=f75ZNZluRVk)
 
 (TODO)
 
