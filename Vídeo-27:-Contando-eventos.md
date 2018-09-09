@@ -142,7 +142,7 @@ A su vez, el **contador destino** emite otro **tic de overflow** al llegar a 4. 
 
 ## Ejemplo 7: Dos contadores de 2-bits encadenados
 
-En este ejemplo **encadenamos** dos **contadores** de **2-bits, igual que en la animación anterior. El **contador 1** muestra su cuenta en **binario**, en dos LEDs mientras que el **contador 2** lo hace en un **display de 7 segmentos**. Cada vez que el contador 1 cuenta 4 pulsaciones de botón, se incrementa el contador 2
+En este ejemplo **encadenamos** dos **contadores** de **2-bits**, igual que en la animación anterior. El **contador 1** muestra su cuenta en **binario**, en dos LEDs mientras que el **contador 2** lo hace en un **display de 7 segmentos**. Cada vez que el contador 1 cuenta 4 pulsaciones de botón, se incrementa el contador 2
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/encadenamiento-02.png)
 
