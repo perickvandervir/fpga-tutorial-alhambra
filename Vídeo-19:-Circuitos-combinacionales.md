@@ -274,6 +274,8 @@ Diseñar un **circuito combinacional** de **4 bits de entrada** y uno de salida,
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-19/aprieto/ejercicio-19-1.png)
 
+* [Vídeo en Twitter](https://twitter.com/Keithpmt/status/1003135013615906816)
+
 ### Ejercicio 2
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-19/aprieto/ejercicio-19-2.png)
 
