@@ -138,7 +138,7 @@ En esta **animación** se muestra un ejemplo de **dos contadores** de 2 bits **e
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/encadenamiento-01.gif)
 
-A suvez, el **contador destino** emite otro **tic de overflow** al llegar a 4. Esto permite **encadenarlo** con otro **elemento**
+A su vez, el **contador destino** emite otro **tic de overflow** al llegar a 4. Esto permite **encadenarlo** con otro **elemento**
 
 ## Ejemplo 7: Dos contadores de 2-bits encadenados
 
