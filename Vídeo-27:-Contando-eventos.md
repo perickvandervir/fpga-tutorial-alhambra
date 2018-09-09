@@ -135,7 +135,7 @@ Los **contadores** los podemos considerar también como **componentes generadore
 
 En esta **animación** se muestra un ejemplo de **dos contadores** de 2 bits **encadenados**. El **contador fuente** se va incrementando cada vez que llegan tics (no se muestran en la animación). Al desbordarse **emite un tic** que incrementa el **contador destino**
 
-(Animación con 2 contadores de 2 bits)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/encadenamiento-01.gif)
 
 (TODO)
 
