@@ -150,11 +150,13 @@ En el montaje se incluyen los **dos LEDs** para mostrar la **cuenta binaria** de
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/encadenamiento-03.png)
 
+Lo **cargamos** y lo **probamos**. En este **vídeo de youtube** se muestra su funcionamiento:
+
 [![Click to see the youtube video](http://img.youtube.com/vi/f75ZNZluRVk/0.jpg)](https://www.youtube.com/watch?v=f75ZNZluRVk)
 
-(TODO)
+## Ejemplo 8: Contador hexadecimal de 4 bits, encadenando dos de 2 bits
 
-(Ejemplo 8: Contador de 4 bits en Display: hexadecimal )
+(TODO)
 
 (Ejemplo 9: Contando triples clicks)
 
