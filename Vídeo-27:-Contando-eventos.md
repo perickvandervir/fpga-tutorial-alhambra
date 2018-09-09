@@ -24,6 +24,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 5: Cambiando el módulo del contador](#ejemplo-5-cambiando-el-m%C3%B3dulo-del-contador)
   * [Ejemplo 6: Contador de 0 a 9](#ejemplo-6-contador-de-0-a-9)
 * [Encadenando contadores](#encadenando-contadores)
+  * [Ejemplo 7: Dos contadores de 2-bits encadenados](#ejemplo-7-dos-contadores-de-2-bits-encadenados)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
