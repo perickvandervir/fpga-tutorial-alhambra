@@ -146,7 +146,9 @@ En este ejemplo **encadenamos** dos **contadores** de **2-bits**, igual que en l
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/encadenamiento-02.png)
 
-(Montaje)
+En el montaje se incluyen los **dos LEDs** para mostrar la **cuenta binaria** del **contador 1**, el **pulsador** para emitir tics, y el **display de 7 segmentos** para mostrar la cuenta del **contador 2**, en decimal
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/encadenamiento-03.png)
 
 (Vídeo)
 
