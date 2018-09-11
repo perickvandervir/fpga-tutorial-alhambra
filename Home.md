@@ -80,7 +80,7 @@ Estudiante que se encuentran cursando el **segundo año** de la **academia de Ha
 
 |Divisa  | Nombe             | Rango    | BitPoints | Tut |
 |--------|-------------------|----------|-----------|-----|
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|     Andrés Prieto-Moreno (aprieto) | Aspirante a Jedi Nivel 3| 385 (+15) | T24 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|     Andrés Prieto-Moreno (aprieto) | Aspirante a Jedi Nivel 3| 385 (+150) | T24 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|    Roberto del campo (@Robertodcrsj, robertou2) | Aspirante a Jedi Nivel 3| 385/435 | T26 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/16-Aspirante-jedi-N2-min.png)|    Talud08 (@javivicen) | Aspirante a Jedi Nivel 2 | 340 (+15) | T22 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/16-Aspirante-jedi-N2-min.png)|    Gut-mart | Aspirante a Jedi Nivel 2 | 340 (+5) | T22 |
