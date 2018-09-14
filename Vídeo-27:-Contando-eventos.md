@@ -172,6 +172,8 @@ Se podría haber hecho lo mismo usando directamente un **contador de 4 bits**. S
 
 ## Ejemplo 9: Contando pulsaciones triples (triple clicks)
 
+[![Click to see the youtube video](http://img.youtube.com/vi/ZL3HTtCnvHQ/0.jpg)](https://www.youtube.com/watch?v=ZL3HTtCnvHQ)
+
 (TODO)
 
 # Contando objetos
