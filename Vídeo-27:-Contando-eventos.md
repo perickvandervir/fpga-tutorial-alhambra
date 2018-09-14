@@ -192,6 +192,14 @@ Si los tics provienen de un **sensor externo**, como por ejemplo un **sensor de 
 
 ## Ejemplo 10: Escáner de supermercado: contando los artículos comprados
 
+(Escenario: 7-segmentos, pulsador de reset, zumbador, IR)
+
+(Circuito: zumbador solo emite durante 100ms)
+
+(foto escenario)
+
+(vídeo)
+
 (TODO)
 
 ## Ejemplo 11: Contando las vueltas de un spinner
