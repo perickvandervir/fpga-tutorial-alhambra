@@ -172,6 +172,11 @@ Se podría haber hecho lo mismo usando directamente un **contador de 4 bits**. S
 
 ## Ejemplo 9: Contando pulsaciones triples (triple clicks)
 
+El encadenamiento de contadores es muy útil para contar **grupos de eventos**. Por ejemplo, hacer un contador de **triples clicks**. Cada vez que se aprieta el pulsador **tres veces**, se **incrementa** el contador. 
+
+Configuramos el primer contador para contar los **elementos del grupo**, cambiando su módulo. Para contar tres pulsaciones usaremos un **contador de 2 bits con módulo 3**. Ahora lo **encadenamos** con el **segundo contador**. Usaremos uno de 3 bits, que nos permitirá contar hasta 8
+
+(Circuito)
 
 
 (TODO)
