@@ -166,13 +166,13 @@ La **salida ov** del **contador 1** la unimos a la **entrada cnt** del **contado
 
 Lo **cargamos** y lo **probamos**:
 
-(vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/ZL3HTtCnvHQ/0.jpg)](https://www.youtube.com/watch?v=ZL3HTtCnvHQ)
 
 Se podría haber hecho lo mismo usando directamente un **contador de 4 bits**. Sin embargo, es útil usar la concatenación para construir otros contadores que no estén disponibles, así como usar la **señal de overflow** del contador de menor peso para activar alarmas, señales o comunicarse con otros circuitos
 
 ## Ejemplo 9: Contando pulsaciones triples (triple clicks)
 
-[![Click to see the youtube video](http://img.youtube.com/vi/ZL3HTtCnvHQ/0.jpg)](https://www.youtube.com/watch?v=ZL3HTtCnvHQ)
+
 
 (TODO)
 
