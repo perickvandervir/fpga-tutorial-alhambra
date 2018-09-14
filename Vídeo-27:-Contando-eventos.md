@@ -187,9 +187,13 @@ Sólo con cambiar el **módulo** del **primer contador**, cambiamos la candidad 
 
 # Contando objetos
 
-Si los tics provienen de un **sensor externo**, como por ejemplo un **sensor de infrarrojos** (IR), podemos usar los **contadores** para contar el **número de objetos detectados**. Por ejemplo, contar el **número de artículos comprados** en un **supermercado**, al pasarlos por el **escáner** (de juguete)
+Si los tics provienen de un **sensor externo**, como por ejemplo un **sensor de infrarrojos** (IR), podemos usar los **contadores** para contar el **número de objetos detectados**. Por ejemplo, contar el **número de artículos comprados** en un **supermercado**, al pasarlos por el **escáner** (de juguete), o el **número de vueltas** que da un **spinner**
 
-(Ejemplo 10: escáner)
+## Ejemplo 10: Escáner de supermercado: contando los artículos comprados
+
+(TODO)
+
+## Ejemplo 11: Contando las vueltas de un spinner
 
 (TODO)
 
