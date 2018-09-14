@@ -26,6 +26,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Encadenando contadores](#encadenando-contadores)
   * [Ejemplo 7: Dos contadores de 2-bits encadenados](#ejemplo-7-dos-contadores-de-2-bits-encadenados)
   * [Ejemplo 8: Contador hexadecimal de 4 bits, encadenando dos de 2-bits](#ejemplo-8-contador-hexadecimal-de-4-bits-encadenando-dos-de-2-bits)
+  * [Ejemplo 9: Contando pulsaciones triples (triple clicks)](#ejemplo-9-contando-pulsaciones-triples-triple-clicks)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
