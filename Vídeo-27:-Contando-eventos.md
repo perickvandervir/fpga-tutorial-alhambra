@@ -167,11 +167,11 @@ Lo **cargamos** y lo **probamos**:
 
 (vídeo)
 
-(Discusión final de ejemplo)
+Se podría haber hecho lo mismo usando directamente un **contador de 4 bits**. Sin embargo, es útil usar la concatenación para construir otros contadores que no estén disponibles, así como usar la **señal de overflow** del contador de menor peso para activar alarmas, señales o comunicarse con otros circuitos
+
+## Ejemplo 9: Contando pulsaciones triples (triple clicks)
 
 (TODO)
-
-(Ejemplo 9: Contando triples clicks)
 
 # Contando objetos
 
