@@ -176,8 +176,7 @@ El encadenamiento de contadores es muy útil para contar **grupos de eventos**. 
 
 Configuramos el primer contador para contar los **elementos del grupo**, cambiando su módulo. Para contar tres pulsaciones usaremos un **contador de 2 bits con módulo 3**. Ahora lo **encadenamos** con el **segundo contador**. Usaremos uno de 3 bits, que nos permitirá contar hasta 8
 
-(Circuito)
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/encadenamiento-05.png)
 
 (TODO)
 
