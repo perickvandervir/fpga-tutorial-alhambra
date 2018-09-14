@@ -180,11 +180,13 @@ Configuramos el primer contador para contar los **elementos del grupo**, cambian
 
 Lo **cargamos** y lo **probamos**
 
-(Vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/WVu6E8bI4KM/0.jpg)](https://www.youtube.com/watch?v=WVu6E8bI4KM)
 
-(TODO)
+Sólo con cambiar el **módulo** del **primer contador**, cambiamos la candidad de clicks a contar: dos, tres, cuatro... Es decir, **el módulo del contador 1** determina el **tamaño del grupo**
 
 # Contando objetos
+
+(TODO)
 
 * Vueltas del spinner
 
