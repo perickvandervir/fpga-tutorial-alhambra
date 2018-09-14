@@ -161,6 +161,14 @@ El **encadenamiento** de contadores lo podemos usar para crear un **contador de 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/encadenamiento-04.png)
 
+La **salida ov** del **contador 1** la unimos a la **entrada cnt** del **contador 2**. Concatenamos las salidas de ambos contadores, siendo la del **contador 1** la de **menor peso**. Estos **4 bits** los llevamos al **decodificador de 7 segmentos hexadecimal**. La salida del contador 1, además, la mostramos en dos LEDs
+
+Lo **cargamos** y lo **probamos**:
+
+(vídeo)
+
+(Discusión final de ejemplo)
+
 (TODO)
 
 (Ejemplo 9: Contando triples clicks)
