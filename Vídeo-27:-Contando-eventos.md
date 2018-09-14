@@ -159,7 +159,7 @@ Lo **cargamos** y lo **probamos**. En este **vídeo de youtube** se muestra su f
 
 El **encadenamiento** de contadores lo podemos usar para crear un **contador de mayor número de bits**. Como ejemplo, vamos a crear un **contador hexadecimal**, de **4 bits**, a partir de **dos contadores** de 2 bits
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/encadenamiento-04.png)
 
 (TODO)
 
