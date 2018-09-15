@@ -198,13 +198,9 @@ Construiremos un escáner, para jugar a los **supermercados**. Cada vez que se p
 
 Usaremos un **contador de 3 bits**, por lo que sólo podemos contar hasta **8 objetos**. El **tic** recibido al **detecta**r un objeto se usa para activar un **timer** y generar el **pitido** y **activar el LED**. Su tic de salida lo introducimos en la **entrada cnt** del contador, para incrementarlo
 
-(Circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/IR-01.png)
 
-(Escenario: 7-segmentos, pulsador de reset, zumbador, IR)
-
-(Circuito: zumbador solo emite durante 100ms)
-
-(foto escenario)
+El pitido tiene una duración de **100ms**. El pulsador externo se usa para la puesta a 0 del contador (reset). **Cargamos** el circuito y lo **probamos**. Pasamos los objetos por encima del sensor para ver cómo las cuenta. ¡Es adictivo!
 
 (vídeo)
 
