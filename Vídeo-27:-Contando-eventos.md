@@ -200,7 +200,7 @@ Usaremos un **contador de 3 bits**, por lo que sólo podemos contar hasta **8 ob
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/IR-01.png)
 
-El pitido tiene una duración de **100ms**. El pulsador externo se usa para la puesta a 0 del contador (reset). **Cargamos** el circuito y lo **probamos**. Pasamos los objetos por encima del sensor para ver cómo las cuenta. ¡Es adictivo!
+El pitido tiene una duración de **100ms**. El pulsador externo se usa para la puesta a 0 del contador (reset). **Cargamos** el circuito y lo **probamos**. Pasamos los objetos por encima del sensor para ver cómo las cuenta. **¡Es adictivo!**
 
 (vídeo)
 
