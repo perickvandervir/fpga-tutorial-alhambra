@@ -194,7 +194,7 @@ Si los tics provienen de un **sensor externo**, como por ejemplo un **sensor de 
 
 Construiremos un escáner, para jugar a los **supermercados**. Cada vez que se pasa un objeto sobre este escáner, se emite un **pitido** y se **incrementa** el **contador de artículos**, mostrádolo en un **display de 7 segmentos**. El escenario es este:
 
-(Foto escenario)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/encadenamiento-06.png)
 
 (Circuito)
 
