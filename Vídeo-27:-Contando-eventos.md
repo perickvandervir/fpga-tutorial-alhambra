@@ -196,6 +196,8 @@ Construiremos un escáner, para jugar a los **supermercados**. Cada vez que se p
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/encadenamiento-06.png)
 
+Usaremos un **contador de 3 bits**, por lo que sólo podemos contar hasta **8 objetos**. El **tic** recibido al **detecta**r un objeto se usa para activar un **timer** y generar el **pitido** y **activar el LED**. Su tic de salida lo introducimos en la **entrada cnt** del contador, para incrementarlo
+
 (Circuito)
 
 (Escenario: 7-segmentos, pulsador de reset, zumbador, IR)
