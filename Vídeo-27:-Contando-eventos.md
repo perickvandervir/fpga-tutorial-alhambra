@@ -218,7 +218,7 @@ El montaje es el siguiente: colocamos el **sensor de infrarrojos** de forma que 
 
 Cada vez que un brazo pasa por encima del sensor, se **emite un tic**. Como el spinner tiene **3 brazos**, sabremos que **ha dado una vuelta completa** cada vez que se reciban **3 tics**. Ya sabemos **detectar 3 tics**: basta con poner un **contador módulo 3**, que emitirá un tic cada vez que reciba **3** por su entrada
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/IR-04.gif)
 
 ## Ejemplo 11: Contando las vueltas de un spiner
 
