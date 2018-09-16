@@ -220,6 +220,8 @@ Cada vez que un brazo pasa por encima del sensor, se **emite un tic**. Como el s
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/IR-04.gif)
 
+Este es nuestro **circuito detector de vueltas del spinner**. Cada vez que el contador módulo 3 emite un **tic de overflow** significa que **el spinner ha dado una vuelta**. Ahora sólo hay que **encadenarlo** con otro contador para contar el número de vueltas
+
 ## Ejemplo 11: Contando las vueltas de un spiner
 
 (TODO)
