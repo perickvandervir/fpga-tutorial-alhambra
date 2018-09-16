@@ -205,6 +205,12 @@ El pitido tiene una duración de **100ms**. El pulsador externo se usa para la p
 
 [![Click to see the youtube video](http://img.youtube.com/vi/X4lc718gB64/0.jpg)](https://www.youtube.com/watch?v=X4lc718gB64)
 
+## Detectando el movimiento de spinners
+
+Los [Spinners](https://es.wikipedia.org/wiki/Fidget_spinner) son unos juguetes que tienen **3 brazos** que giran alrededor de un centro. Son muy populares entre los niños. Los usaremos, en combinación con los **sensores de IR** para detectar su movimiento.
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/IR-03.png)
+
 ## Ejemplo 11: Contando las vueltas de un spiner
 
 (TODO)
