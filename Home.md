@@ -192,6 +192,7 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Vicent Soria (Vicentgodella)  | Cadete Nivel 1 | 16 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| ManuCogolludo (Makova)  | Cadete Nivel 1 | 16 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Jacobo Díaz (Yakotxt)  | Cadete Nivel 1 | 16 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/03-cadete-N1-min.png)| Pakogil   | Cadete Nivel 1 | 16/21 | T3 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)|  J. Pérez Bernal (@jperezbernal)    | Cadete | 14/21 | T3 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Julio Marín Molina  | Cadete | 13 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)    | Pablo Perez Ruiz           | Cadete   | 12 | 
@@ -215,7 +216,6 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| David Alemany (@make_academy, daribes)      | Cadete | 6 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)|  Hlas    | Cadete | 6 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)|   Luis Alonso (@luisenberlin)    | Cadete | 6/10 | T2 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)|   Pakogil    | Cadete | 6/10 | T2 |
 |![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)    | Pablo Rubio Maker3D  | Cadete | 5 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Alejandro Alameda  | Cadete | 5 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Jordi Bardají   | Cadete | 5 |
