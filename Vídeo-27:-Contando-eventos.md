@@ -29,6 +29,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 9: Contando pulsaciones triples (triple clicks)](#ejemplo-9-contando-pulsaciones-triples-triple-clicks)
 * [Contando objetos](#contando-objetos)
   * [Ejemplo 10: Escáner de supermercado. Contando los artículos comprados](#ejemplo-10-esc%C3%A1ner-de-supermercado-contando-los-art%C3%ADculos-comprados)
+  * [Detectando el movimiento de spinners](#detectando-el-movimiento-de-spinners)
   * [Ejemplo 11: Contando las vueltas de un spiner](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-27:-Contando-eventos#ejemplo-11-contando-las-vueltas-de-un-spiner)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
