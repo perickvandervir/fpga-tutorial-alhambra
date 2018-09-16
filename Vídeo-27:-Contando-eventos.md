@@ -228,6 +228,20 @@ Este es nuestro **circuito detector de vueltas del spinner**. Cada vez que el co
 
 ## Ejemplo 11: Contando las vueltas de un spiner
 
+Vamos a hacer un circuito para **contar las vueltas** que da un **spinner**. Para detectar las vueltas usaremos un **contador módulo 3**, que encadenaremos con otro **módulo 10**, de **4 bits**. La cuenta será desde **0 hasta 9** y luego volverá a 0. Usaremos un **zumbador** para emitir un **pitido de 10ms** cada vez que un brazo pasa por encima del infrarrojo
+
+(montaje)
+
+La salida del contador módulo 3 la mostramos en binario, en dos LEDs externos. El pulsador nos permite poner a cero los contadores. El circuito es el siguiente:
+
+(circuito)
+
+Cada vez que un brazo del spinner pasa por encima del sensor IR, se emite un tic que activa el temporizador de 10ms que provoca un pitido. La salida de este temporizador es la que llevamos al contador módulo 3 detector de vueltas, que  cuenta 3 tics recibido y emite uno para indicar que el spinner ha dado una vuelta. Lo cargamos y lo probamos:
+
+(vídeo)
+
+La salida del componente IR-tic la podríamos llevar en paralelo al temporizador que emite el pitido y al contador detector de vuelta completa. Sin embargo, en este ejemplo lo hemos puesto en serie. Se ha hecho así para eliminar los posibles tics espúreos que se pudiesen aparecer.  Los tics que estén a distancias de pocos microsegundos, no han podido ser originados por el paso de los brazos del espinner. Colocando el temporizador en serie con el contador módulo 3 se eliminan si apareciesen.
+
 (TODO)
 
 * Vueltas del spinner
