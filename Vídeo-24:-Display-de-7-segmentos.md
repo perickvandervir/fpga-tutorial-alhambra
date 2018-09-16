@@ -10,7 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 Los **displays de 7 segmentos** permiten que nuestros circuitos, que internamente trabajan en binario, muestren información en **dígitos decimales**, que son legibles por los humanos. Para manejarlos simplemente hay que saber **encender LEDs** y saber hacer **circuitos combinacionales** a partir de **tablas de verdad**
 
-# ¡Icestudio 0.3.3!
+# ¡Icestudio 0.3.3-rc!
 
 Este tutorial está hecho con la versión [0.3.3-rc de Icestudio](https://github.com/FPGAwars/icestudio/releases/tag/v0.3.3-rc). Asegúrate de tener instalada esta versión (o superior)
 
