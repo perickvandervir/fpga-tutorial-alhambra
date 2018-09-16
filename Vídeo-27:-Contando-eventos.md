@@ -212,7 +212,7 @@ Los [Spinners](https://es.wikipedia.org/wiki/Fidget_spinner) son unos juguetes q
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/IR-03.png)
 
-El montaje es el siguiente: colocamos el **sensor de infrarrojos** de forma que los **brazos del spinner** pasen por encima al girar. En nuestros circuitos colocamos el **componente IR-tic** para que **genera un tic** cada vez que el sensor detecta un brazo. En esta **animación** lo vemos en funcionamiento: 
+El montaje es el siguiente: colocamos el **sensor de infrarrojos** de forma que los **brazos del spinner** pasen por encima al girar. En nuestros circuitos colocamos el **componente IR-tic** para que **genere un tic** cada vez que el sensor detecta un brazo. En esta **animación** lo vemos en funcionamiento: 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/IR-02.gif)
 
