@@ -7,7 +7,11 @@
 Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
+(TODO)
 
+# ¡Icestudio 0.3.3!
+
+Este tutorial está hecho con la versión [0.3.3 de Icestudio](https://github.com/FPGAwars/icestudio/releases/tag/v0.3.3). Asegúrate de tener instalada esta versión (o superior)
 
 # Colección
 
