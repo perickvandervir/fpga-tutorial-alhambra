@@ -240,11 +240,7 @@ Cada vez que un **brazo del spinner** pasa por encima del **sensor IR**, se emit
 
 [![Click to see the youtube video](http://img.youtube.com/vi/FhPjXto5SZY/0.jpg)](https://www.youtube.com/watch?v=FhPjXto5SZY)
 
-La salida del componente IR-tic la podríamos llevar en paralelo al temporizador que emite el pitido y al contador detector de vuelta completa. Sin embargo, en este ejemplo lo hemos puesto en serie. Se ha hecho así para eliminar los posibles tics espúreos que se pudiesen aparecer.  Los tics que estén a distancias de pocos microsegundos, no han podido ser originados por el paso de los brazos del espinner. Colocando el temporizador en serie con el contador módulo 3 se eliminan si apareciesen.
-
-(TODO)
-
-* Vueltas del spinner
+La salida del componente **IR-tic** la podríamos llevar en **paralelo** al temporizador que emite el pitido y al contador detector de vuelta completa. Sin embargo, en este ejemplo lo hemos puesto **en serie**. Se ha hecho así para eliminar los posibles **tics espúreos** que se pudiesen aparecer.  Los tics que estén a distancias de pocos microsegundos, no han podido ser originados por el paso de los brazos del espinner. Colocando el **temporizador en serie** con el contador módulo 3 se eliminan si apareciesen.
 
 # Cuentas automáticas
 
