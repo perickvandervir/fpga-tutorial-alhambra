@@ -271,6 +271,7 @@ El cronómetro tiene **2 botones**: uno para poner a cero y arrancarlo (Reset/st
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-03.png)
 
+Además, el **punto** del display de 7 segmentos **parpaderá** cada segundo (periodo de 500ms), para mostrar actividad en el cronómetro. **¿Cómo sería el circuito?**
 
 (TODO)
 
