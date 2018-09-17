@@ -273,11 +273,15 @@ El cronómetro tiene **2 botones**: uno para poner a cero y arrancarlo (Reset/st
 
 Además, el **punto** del display de 7 segmentos **parpaderá** cada segundo (periodo de 500ms), para mostrar actividad en el cronómetro. **¿Cómo sería el circuito?**
 
-Lo iremos haciendo poco a poco. Como tiene una precisión de **décimas**, empezando colocando un **corazón de tics** de décimas, que emita un tic cada **0.1 segundo** (cada 100 milisegundos). Las décimas las contamos con un **contador módulo 10 de 3 bits**, ya que el valor de las décimas es entre 0 y 9
+Lo iremos haciendo poco a poco. Como tiene una precisión de **décimas**, empezando colocando un **corazón de tics** de décimas, que emita un tic cada **0.1 segundo** (cada 100 milisegundos). Las décimas las contamos con un **contador módulo 10 de 3 bits**, ya que su valor es entre **0** y **9**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-04.png)
 
-Este contador **generará un tic de salida** cada vez que se hayan contado **10 décimas**, es decir, **un segundo**
+Este contador **generará un tic de salida** cada vez que se hayan contado **10 décimas**, es decir, **un segundo** y lo **encadenaremos** con el **contador de segundos**
+
+El segundero tiene los valores desde el 00 hasta el 59, y luego vuelve a empezar. En vez de utilizar un contador de 6 bits, es más fácil divirlo en dos contadores, uno para cada dígito. Así, tendremos un dígito para las unidades de segundo, que varía entre 0 y 9, y otro para las decenas de segundo, que lo hace entre 0 y 5.
+
+
 
 (TODO)
 
