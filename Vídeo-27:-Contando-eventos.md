@@ -302,6 +302,8 @@ Esta es la **tabla** con el **dígito mostrado** según el valor de los **interr
 | 10       | Decenas de segundo | 
 | 11       | Unidades de minuto |  
 
+Para hacer más fácil la lectura, usaremos **tres LEDs** para indicar el **dígito** que se está visualizando. Si no hay ninguno encendido se están mostrando las décimas. Utilizamos un **decodificador de 2 a 4**, implementado mediante una **tabla de verdad**
+
 
 (LEDs indicadores)
 
