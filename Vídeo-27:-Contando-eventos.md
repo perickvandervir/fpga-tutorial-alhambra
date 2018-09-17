@@ -36,6 +36,7 @@ Este tutorial está hecho con la versión [0.3.3 de Icestudio](https://github.co
   * [Detectando el movimiento de spinners](#detectando-el-movimiento-de-spinners)
   * [Ejemplo 11: Contando las vueltas de un spiner](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-27:-Contando-eventos#ejemplo-11-contando-las-vueltas-de-un-spiner)
 * [Contando tiempo](#contando-tiempo)
+  * [Ejemplo 12: segundero](#ejemplo-12-segundero)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
