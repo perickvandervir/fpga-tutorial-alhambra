@@ -250,9 +250,10 @@ Los **generadores periódicos de tics** emiten uno cada vez que ha transcurrido 
 
 ## Ejemplo 12: Segundero
 
+Utilizaremos un **contador de 4 bits módulo 10** conectado a un **corazón de tics de 1 segundo**. Su salida la mostramos por un **display de 7 segmentos**. Empezará en 0 y cuando llegue a 9 volverá a comenzar. El circuito es el siguiente:
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-01.png)
 
-* Segundero con 1 digito
 * Minutero: con 3 contadores ó 4 contadores. Selección del dígito a visualizar
 
 # Recorriendo tablas
