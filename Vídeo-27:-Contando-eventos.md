@@ -267,9 +267,10 @@ Vamos a realizar un **cronómetro** que cuente hasta **9 minutos**, **59 segundo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-02.png)
 
-El cronómetro tiene **2 botones**: uno para poner a cero y arrancarlo (Reset/start), y otro para pararlo (STOP). Además, en **tres LEDs** se indicará el dígito que se está visualizando en el display. El montaje es el siguiente:
+El cronómetro tiene **2 botones**: uno para poner a cero y arrancarlo (Reset/start), y otro para pararlo (STOP). Además, en **tres LEDs** se indicará el dígito que se está **visualizando en el display**. El montaje es el siguiente:
 
-(Dibujo montaje)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-03.png)
+
 
 (TODO)
 
