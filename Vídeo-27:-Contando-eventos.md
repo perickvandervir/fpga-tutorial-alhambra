@@ -263,11 +263,11 @@ Con sólo cambiar el **parámetro del tiempo** en el corazón, podemos hacer que
 
 ## Ejemplo 13: Cronómetro básico
 
-Vamos a realizar un cronómetro que cuente hasta **9 minutos**, **59 segundos** y **9 décimas**, y luego vuelva a empmezar desde cero. Como sólo tenemos un display de 7 segmentos, sólo podremos ver un dígito, que se seleccionará mediante dos interruptores. En total necesitamos 4 dígitos:
+Vamos a realizar un **cronómetro** que cuente hasta **9 minutos**, **59 segundos** y **9 décimas**, y luego vuelva a empmezar desde cero. Como sólo tenemos un display de 7 segmentos, sólo podremos ver **un dígito**, que se seleccionará mediante **dos interruptores**. En total necesitamos **4 dígitos**:
 
-(dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-02.png)
 
-* (Minutero: con 3 contadores ó 4 contadores. Selección del dígito a visualizar)
+(TODO)
 
 # Recorriendo tablas
 
