@@ -35,7 +35,7 @@ Este tutorial está hecho con la versión [0.3.3 de Icestudio](https://github.co
   * [Ejemplo 10: Escáner de supermercado. Contando los artículos comprados](#ejemplo-10-esc%C3%A1ner-de-supermercado-contando-los-art%C3%ADculos-comprados)
   * [Detectando el movimiento de spinners](#detectando-el-movimiento-de-spinners)
   * [Ejemplo 11: Contando las vueltas de un spiner](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-27:-Contando-eventos#ejemplo-11-contando-las-vueltas-de-un-spiner)
-* [Cuentas automáticas](#cuentas-autom%C3%A1ticas)
+* [Contando tiempo](#contando-tiempo)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
