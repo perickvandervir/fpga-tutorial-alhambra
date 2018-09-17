@@ -320,9 +320,7 @@ Unimos todas las partes y obtenemos el **circuito final**
 
 Ahora lo **cargamos** y lo **probamos**
 
-(Vídeo)
-
-(TODO)
+[![Click to see the youtube video](http://img.youtube.com/vi/S8gNuXVrltM/0.jpg)](https://www.youtube.com/watch?v=S8gNuXVrltM)
 
 # Recorriendo tablas
 
