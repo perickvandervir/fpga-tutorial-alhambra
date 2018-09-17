@@ -258,7 +258,11 @@ Lo **cargamos** y lo **probamos**:
 
 [![Click to see the youtube video](http://img.youtube.com/vi/Qof6gAulBEs/0.jpg)](https://www.youtube.com/watch?v=Qof6gAulBEs)
 
-* Minutero: con 3 contadores ó 4 contadores. Selección del dígito a visualizar
+Con sólo cambiar el **parámetro del tiempo** en el corazón, podemos hacer que las unidades que se cuentan sean décimas de segundo, segundos, minutos...
+
+## Ejemplo 13: Cronómetro básico
+
+* (Minutero: con 3 contadores ó 4 contadores. Selección del dígito a visualizar)
 
 # Recorriendo tablas
 
