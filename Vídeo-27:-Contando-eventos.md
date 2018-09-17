@@ -316,7 +316,9 @@ Por último colocamos un **biestable RS** para guardar el estado del cronómetro
 
 Unimos todas las partes y obtenemos el **circuito final**
 
-(Circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-11.png)
+
+Ahora lo **cargamos** y lo **probamos**
 
 (Vídeo)
 
