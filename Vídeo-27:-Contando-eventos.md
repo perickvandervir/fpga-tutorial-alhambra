@@ -293,7 +293,15 @@ Como sólo tenemos **un display de 7 segmentos**, usamos un **multiplexor de 4 a
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-07.png)
 
-(Mostrar tabla)
+Esta es la **tabla** con el **dígito mostrado** según el valor de los **interruptores**
+
+| Switches | Digito |
+|----------|--------|
+| 00       | Décimas|
+| 01       | Unidades de segundo |
+| 10       | Decenas de segundo | 
+| 11       | Unidades de minuto |  
+
 
 (LEDs indicadores)
 
