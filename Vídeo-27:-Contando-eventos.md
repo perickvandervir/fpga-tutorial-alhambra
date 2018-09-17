@@ -254,6 +254,10 @@ Utilizaremos un **contador de 4 bits módulo 10** conectado a un **corazón de t
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-01.png)
 
+Lo **cargamos** y lo **probamos**:
+
+(Vídeo)
+
 * Minutero: con 3 contadores ó 4 contadores. Selección del dígito a visualizar
 
 # Recorriendo tablas
