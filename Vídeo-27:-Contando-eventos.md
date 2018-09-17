@@ -293,6 +293,16 @@ Como sólo tenemos **un display de 7 segmentos**, usamos un **multiplexor de 4 a
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-07.png)
 
+(Mostrar tabla)
+
+(LEDs indicadores)
+
+(Actividad en el punto del 7seg)
+
+(Biestable para el estado del contador)
+
+(Vídeo)
+
 (TODO)
 
 # Recorriendo tablas
