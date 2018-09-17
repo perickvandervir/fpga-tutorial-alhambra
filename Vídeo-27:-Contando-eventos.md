@@ -319,7 +319,7 @@ Unimos todas las partes y obtenemos el **circuito final**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-11.png)
 
-Ahora lo **cargamos** y lo **probamos**
+Ahora lo **cargamos** y lo **probamos**. Ya sabemos cómo hacer nuestro primer cronómetro :-)
 
 [![Click to see the youtube video](http://img.youtube.com/vi/S8gNuXVrltM/0.jpg)](https://www.youtube.com/watch?v=S8gNuXVrltM)
 
