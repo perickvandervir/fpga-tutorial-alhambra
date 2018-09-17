@@ -256,7 +256,7 @@ Utilizaremos un **contador de 4 bits módulo 10** conectado a un **corazón de t
 
 Lo **cargamos** y lo **probamos**:
 
-(Vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/Qof6gAulBEs/0.jpg)](https://www.youtube.com/watch?v=Qof6gAulBEs)
 
 * Minutero: con 3 contadores ó 4 contadores. Selección del dígito a visualizar
 
