@@ -283,7 +283,11 @@ El **segundero** toma los valores desde el **0** hasta el **59**, y luego vuelve
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-05.png)
 
-El **contador de unidades** de segundo se incrementa con cada tic que viene del **contador de décimas**. Cuando llega a 10, emite un tic y se incrementa el de las **decenas de segundo**. Sigue avanzando hasta que llega a **6**, momento en el que vuelve a 0 y emite un tic para indicar que ha transcurrido **un minuto**
+El **contador de unidades** de segundo se incrementa con cada tic que viene del **contador de décimas**. Cuando llega a 10, emite un tic y se incrementa el de las **decenas de segundo**. Sigue avanzando hasta que llega a **6**, momento en el que vuelve a **0** y **emite un tic** para indicar que ha transcurrido **un minuto**
+
+El **último contador** es uno de **4 bits**, **módulo 10**, que cuenta las **unidades de minuto**, con valores entre 0 y 9
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-06.png)
 
 (TODO)
 
