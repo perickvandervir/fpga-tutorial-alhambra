@@ -230,7 +230,7 @@ Este es nuestro **circuito detector de vueltas del spinner**. Cada vez que el co
 
 Vamos a hacer un circuito para **contar las vueltas** que da un **spinner**. Para detectar las vueltas usaremos un **contador módulo 3**, que encadenaremos con otro **módulo 10**, de **4 bits**. La cuenta será desde **0 hasta 9** y luego volverá a 0. Usaremos un **zumbador** para emitir un **pitido de 10ms** cada vez que un brazo pasa por encima del infrarrojo
 
-(montaje)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/IR-05.png)
 
 La salida del contador módulo 3 la mostramos en binario, en dos LEDs externos. El pulsador nos permite poner a cero los contadores. El circuito es el siguiente:
 
