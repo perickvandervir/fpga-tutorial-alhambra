@@ -245,6 +245,12 @@ La salida del componente **IR-tic** la podríamos llevar en **paralelo** al temp
 
 # Contando tiempo
 
+Los **generadores periódicos de tics** emiten uno cada vez que ha transcurrido un **tiempo T**. Mediante un contador podemos contar estos tics y medir el tiempo que ha transcurrido. Si como generador usamos un **corazón de tics** de 1 segundo, el contador se incrementará cada segundo: tendremos un **segundero**. Pero podemos usar otras unidades de tiempo: décimas de segundo, centésimas, minutos, horas...
+
+## Ejemplo 12: Segundero
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-01.png)
+
 * Segundero con 1 digito
 * Minutero: con 3 contadores ó 4 contadores. Selección del dígito a visualizar
 
