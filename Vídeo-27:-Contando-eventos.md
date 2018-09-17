@@ -37,6 +37,7 @@ Este tutorial está hecho con la versión [0.3.3 de Icestudio](https://github.co
   * [Ejemplo 11: Contando las vueltas de un spiner](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-27:-Contando-eventos#ejemplo-11-contando-las-vueltas-de-un-spiner)
 * [Contando tiempo](#contando-tiempo)
   * [Ejemplo 12: segundero](#ejemplo-12-segundero)
+  * [Ejemplo 13: Cronómetro básico](#ejemplo-13-cron%C3%B3metro-b%C3%A1sico)
 * Ejercicios propuestos (X Bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
