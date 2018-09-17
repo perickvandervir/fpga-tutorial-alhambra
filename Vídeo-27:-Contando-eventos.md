@@ -312,9 +312,8 @@ La **actividad del cronómetro** se muestra en el **punto** del diplay de 7 segm
 
 Por último colocamos un **biestable RS** para guardar el estado del cronómetro: **0**: cronómetro funcionado, **1**: cronómetro detenido. Al apretar el **botón de STOP** se activa el biestable y se **bloquean los tics** que llegan del **corazón de tics**, por lo que el cronómetro **se detiene**
 
-(dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-10.png)
 
-(Biestable para el estado del contador)
 
 (Vídeo)
 
