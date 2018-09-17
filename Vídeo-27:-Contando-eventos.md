@@ -306,7 +306,9 @@ Para hacer más fácil la lectura, usaremos **tres LEDs** para indicar el **díg
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-08.png)
 
-(Actividad en el punto del 7seg)
+La **actividad del cronómetro** se muestra en el **punto** del diplay de 7 segmentos, usando un **temporizador** que se activa con el evento de segundo transcurrido, y se apaga al **medio segundo**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-09.png)
 
 (Biestable para el estado del contador)
 
