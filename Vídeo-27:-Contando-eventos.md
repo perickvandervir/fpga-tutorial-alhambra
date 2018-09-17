@@ -248,18 +248,13 @@ La salida del componente IR-tic la podríamos llevar en paralelo al temporizador
 
 # Cuentas automáticas
 
-* Segundero
-* Minutero
+* Segundero con 1 digito
+* Minutero: con 3 contadores ó 4 contadores. Selección del dígito a visualizar
 
 # Recorriendo tablas
 
 * Secuencia en los LEDs
 * Texto en el 7-segmentos
-* Animación en 7-segmentos
-* Gravedad??
-
-
-
 
 (TODO)
 
