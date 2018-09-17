@@ -289,6 +289,10 @@ El **último contador** es uno de **4 bits**, **módulo 10**, que cuenta las **u
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-06.png)
 
+Como sólo tenemos **un display de 7 segmentos**, usamos un **multiplexor de 4 a 1** para mostrar el **dígito seleccionado**: décimas, unidades de segundo, decenas de segundo o unidades de minuto, según la posición de **dos interruptores**
+
+(dibujo)
+
 (TODO)
 
 # Recorriendo tablas
