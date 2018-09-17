@@ -232,11 +232,11 @@ Vamos a hacer un circuito para **contar las vueltas** que da un **spinner**. Par
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/IR-05.png)
 
-La salida del contador módulo 3 la mostramos en binario, en dos LEDs externos. El pulsador nos permite poner a cero los contadores. El circuito es el siguiente:
+La salida del **contador módulo 3** la mostramos en **binario**, en **dos LEDs** externos. El pulsador nos permite poner a **cero** los contadores. El circuito es el siguiente:
 
-(circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/IR-06.png)
 
-Cada vez que un brazo del spinner pasa por encima del sensor IR, se emite un tic que activa el temporizador de 10ms que provoca un pitido. La salida de este temporizador es la que llevamos al contador módulo 3 detector de vueltas, que  cuenta 3 tics recibido y emite uno para indicar que el spinner ha dado una vuelta. Lo cargamos y lo probamos:
+Cada vez que un **brazo del spinner** pasa por encima del **sensor IR**, se emite un tic que activa el **temporizador de 10ms** que provoca un pitido. La salida de este temporizador es la que llevamos al **contador módulo 3** detector de vueltas, que  cuenta 3 tics recibido y emite uno para indicar que el spinner ha dado una vuelta. Lo **cargamos** y lo **probamos**:
 
 (vídeo)
 
