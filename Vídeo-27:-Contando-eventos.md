@@ -277,7 +277,7 @@ Lo iremos haciendo poco a poco. Como tiene una precisión de **décimas**, empez
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-04.png)
 
-Este contador **generará un tic de salida** cada vez que se hayan contado **10 décimas**, es decir, **un segundo** y lo **encadenaremos** con el **contador de segundos**
+Este contador **generará un tic de salida** cada vez que se hayan contado **10 décimas**, es decir, **un segundo** y lo **encadenaremos** con el **contador de segundos**, que diseñaremos a continuación
 
 El segundero tiene los valores desde el 00 hasta el 59, y luego vuelve a empezar. En vez de utilizar un contador de 6 bits, es más fácil divirlo en dos contadores, uno para cada dígito. Así, tendremos un dígito para las unidades de segundo, que varía entre 0 y 9, y otro para las decenas de segundo, que lo hace entre 0 y 5.
 
