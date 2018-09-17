@@ -304,8 +304,7 @@ Esta es la **tabla** con el **dígito mostrado** según el valor de los **interr
 
 Para hacer más fácil la lectura, usaremos **tres LEDs** para indicar el **dígito** que se está visualizando. Si no hay ninguno encendido se están mostrando las décimas. Utilizamos un **decodificador de 2 a 4**, implementado mediante una **tabla de verdad**
 
-
-(LEDs indicadores)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tiempo-08.png)
 
 (Actividad en el punto del 7seg)
 
