@@ -351,7 +351,7 @@ Vamos a utilizar el **display de 7 segmentos** para sacar el texto **HOLA**, de 
 
 Lo **cargamos** y lo **probamos**:
 
-(vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/a02ewCaWD2g/0.jpg)](https://www.youtube.com/watch?v=a02ewCaWD2g)
 
 ¡Ya sabemos hacer circuitos que nos escriban mensajes básicos! :-)
 
