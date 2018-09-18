@@ -333,6 +333,8 @@ El **principio de funcionamiento** se muestra en esta **animación**, donde hay 
 
 ## Ejemplo 14: secuencia en los LEDs: KITT
 
+([knight rider](https://es.wikipedia.org/wiki/Knight_Rider))
+
 (Descripción)
 
 (Circuito)
