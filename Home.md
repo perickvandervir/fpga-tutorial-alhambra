@@ -41,16 +41,9 @@ Opcionalmente puedes participar en la **Academia Jedi**, enviando los ejercicios
 | 25 | [Biestables y notificaciones](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-25:-Biestables-y-notificaciones) |
 | 26 | [Tiempo, tics y temporizadores](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-26:-Tiempo,-tics-y-temporizadores) |
 | 27 | [Contando eventos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-27:-Contando-eventos) (En construcción...) |
-| 28 | Comunicaciones serie |
-| 29 | Biestables de datos y cambio
-| 30 | Entradas asíncronas |
-| 31 | Comparadores |
-| 32 | Registros |
-| 33 | Máquinas |
-| 34 | Aritmética |
-| 35 | Periféricos |
-| 36 | ... |
-
+| 28 | Biestables de datos y cambio |
+| 29 | Registros y Comparadores |
+| 30 | Comunicaciones serie |
 
 ## Academia Jedi de hardware
 
