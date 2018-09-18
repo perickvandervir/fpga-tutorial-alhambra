@@ -355,9 +355,15 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 27.1** (Total **5 Bitpoints**): Contador de vueltas de tres dígitos para spinner (0 - 999)
 
+(TODO)
+
 * **Ejercicio 27.2** (Total **5 Bitpoints**): Alarma despertador
 
+(TODO)
+
 * **Ejercicio 27.3** (Total **5 Bitpoints**): Texto animado
+
+(TODO)
 
 * **Ejercicio 27.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
