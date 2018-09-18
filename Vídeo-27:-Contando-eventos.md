@@ -333,11 +333,11 @@ El **principio de funcionamiento** se muestra en esta **animación**, donde hay 
 
 ## Ejemplo 14: secuencia en los LEDs: KITT
 
-([knight rider](https://es.wikipedia.org/wiki/Knight_Rider))
+Vamos a generar una **secuencia** en los **8 LEDs** de la placa: la típica del frontal de KITT, el vehículo de la serie de los 80s titulada **el coche fantástico** ([knight rider](https://es.wikipedia.org/wiki/Knight_Rider)). Se encienden los LEDs de uno en uno, haciendo un efecto como si una luz se desplazase de un lado a otro
 
-(Descripción)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tablas-02.png)
 
-(Circuito)
+Usamos una **tabla de 14 posiciones**, para almacenar todos los valores de la secuencia. El contador es de **4 bits**, y lo hacemos **módulo 14** para que recorra los 14 valores de la tabla y luego vuelva a empezar. Lo **cargamos** y lo **probamos**
 
 (vídeo)
 
