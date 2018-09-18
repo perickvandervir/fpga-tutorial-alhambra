@@ -327,24 +327,37 @@ Ahora lo **cargamos** y lo **probamos**. Ya sabemos cómo hacer nuestro primer c
 
 Uno de los usos más importantes de los contadores es el de **recorrer secuencialmente** tablas/memorias. Con esto logramos que nuestros circuitos accedean a **datos** o **instrucciones consecutivas**. Esto nos sirve para generar **secuencias** en LEDs o displays de 7 segmentos, así como implementar **máquinas secuenciales sencillas**
 
+(Principio de funcionamiento: animación)
 
+## Ejemplo 14: secuencia en los LEDs: KITT
 
-* Secuencia en los LEDs
-* Texto en el 7-segmentos
+(Descripción)
+
+(Circuito)
+
+(vídeo)
+
+## Ejemplo 15: Texto en el display de 7 segmentos
+
+(Descripción)
+
+(Circuito)
+
+(vídeo)
 
 (TODO)
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (20 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
 **Resumen**:
 
-* **Ejercicio 27.1** (Total **x Bitpoints**): 
+* **Ejercicio 27.1** (Total **5 Bitpoints**): Contador de vueltas de tres dígitos para spinner (0 - 999)
 
-* **Ejercicio 27.2** (Total **x Bitpoints**): 
+* **Ejercicio 27.2** (Total **5 Bitpoints**): Alarma despertador
 
-* **Ejercicio 27.3** (Total **x Bitpoints**): 
+* **Ejercicio 27.3** (Total **5 Bitpoints**): Texto animado
 
 * **Ejercicio 27.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
