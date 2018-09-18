@@ -325,6 +325,10 @@ Ahora lo **cargamos** y lo **probamos**. Ya sabemos cómo hacer nuestro primer c
 
 # Recorriendo tablas
 
+Uno de los usos más importantes de los contadores es el de **recorrer secuencialmente** tablas/memorias. Con esto logramos que nuestros circuitos accedean a **datos** o **instrucciones consecutivas**. Esto nos sirve para generar **secuencias** en LEDs o displays de 7 segmentos, así como implementar **máquinas secuenciales sencillas**
+
+
+
 * Secuencia en los LEDs
 * Texto en el 7-segmentos
 
