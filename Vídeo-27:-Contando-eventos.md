@@ -345,13 +345,15 @@ Usamos una **tabla de 14 posiciones**, para almacenar todos los valores de la se
 
 ## Ejemplo 15: Texto en el display de 7 segmentos
 
-(Descripción)
+Vamos a utilizar el **display de 7 segmentos** para sacar el texto **HOLA**, de forma que los caracteres vayan apareciendo secuencialmente. El circuito es similar al ejemplo anterior, pero cambiando el contenio de la mememoria y el tamaño del contador y la tabla. Añadimos un **interruptor** para mostrar el texto a **dos velocidades**: Lenta y rápida
 
-(Circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tablas-03.png)
+
+Lo **cargamos** y lo **probamos**:
 
 (vídeo)
 
-(TODO)
+¡Ya sabemos hacer circuitos que nos escriban mensajes básicos! :-)
 
 # Ejercicios propuestos (20 BitPoints)
 
