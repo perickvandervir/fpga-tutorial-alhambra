@@ -327,7 +327,9 @@ Ahora lo **cargamos** y lo **probamos**. Ya sabemos cómo hacer nuestro primer c
 
 Uno de los usos más importantes de los contadores es el de **recorrer secuencialmente** tablas/memorias. Con esto logramos que nuestros circuitos accedean a **datos** o **instrucciones consecutivas**. Esto nos sirve para generar **secuencias** en LEDs o displays de 7 segmentos, así como implementar **máquinas secuenciales sencillas**
 
-(Principio de funcionamiento: animación)
+El **principio de funcionamiento** se muestra en esta **animación**, donde hay un **contador de 2 bits** que cuenta desde **0** hasta **3**. La salida del contador está conectada a la entrada de la tabla, por lo que se va accediendo secuencialmente a sus **cuatro objetos** almacenados, y luego se vuelve a comenzar
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/tablas-01.gif)
 
 ## Ejemplo 14: secuencia en los LEDs: KITT
 
