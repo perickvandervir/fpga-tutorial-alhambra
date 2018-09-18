@@ -340,7 +340,7 @@ Vamos a generar una **secuencia** en los **8 LEDs** de la placa: la típica del 
 
 Usamos una **tabla de 14 posiciones**, para almacenar todos los valores de la secuencia. El contador es de **4 bits**, y lo hacemos **módulo 14** para que recorra los 14 valores de la tabla y luego vuelva a empezar. Lo **cargamos** y lo **probamos**
 
-(vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/llO0ohD0W8o/0.jpg)](https://www.youtube.com/watch?v=llO0ohD0W8o)
 
 ## Ejemplo 15: Texto en el display de 7 segmentos
 
