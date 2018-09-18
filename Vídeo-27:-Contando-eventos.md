@@ -40,6 +40,7 @@ Este tutorial está hecho con la versión [0.3.3 de Icestudio](https://github.co
   * [Ejemplo 13: Cronómetro básico](#ejemplo-13-cron%C3%B3metro-b%C3%A1sico)
 * [Recorriendo tablas](#recorriendo-tablas)
   * [Ejemplo 14: Secuencia en los LEDs: KITT](#ejemplo-14-secuencia-en-los-leds-kitt)
+  * [Ejemplo 15: Texto en el display de 7 segmentos](#ejemplo-15-texto-en-el-display-de-7-segmentos)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
