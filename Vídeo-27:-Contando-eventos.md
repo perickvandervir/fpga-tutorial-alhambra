@@ -39,7 +39,7 @@ Este tutorial está hecho con la versión [0.3.3 de Icestudio](https://github.co
   * [Ejemplo 12: segundero](#ejemplo-12-segundero)
   * [Ejemplo 13: Cronómetro básico](#ejemplo-13-cron%C3%B3metro-b%C3%A1sico)
 * [Recorriendo tablas](#recorriendo-tablas)
-* Ejercicios propuestos (X Bitpoints)
+* [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
 * [Licencia](#licencia)
