@@ -369,10 +369,12 @@ Crear un circuito capaz de contar las **vueltas de un spinner**. Debe tener **3 
 
 * **Ejercicio 27.2** (Total **5 Bitpoints**): Alarma despertador
 
+Diseñar un **reloj digital con alarma**, de manera que al alcanzar la hora indicada se **dispare la alarma**. Para hacerlo fácil, el reloj sólo medirá **segundos**. Tednrá **2 dígitos**, por lo que sólo contará 1 minuto: de 00 a 59 segundos. La alarma se debe disparar cuando el **segundero es 12**, y una vez disparada seguirá sonando hasta que se apriete el **botón de paro**. Cuando reloj llega a 59, vuelve a empear desde 0, por lo que si la alarma estaba parada, volverá a sonar al llegar otra vez a 12 (es decir, que sonará cada minuto). El reloj tendrá también un **botón de reset**, para llevar al sistema a su estado inicial. Para el sonido de la alarma se puede usar cualquier pitido. También se puede usar el bloque **Sirena** de la colección. Colocar también un **LED** que se encenderá mientras las alarma suena  
+
 [![Click to see the youtube video](http://img.youtube.com/vi/b_HTQYukm5Q/0.jpg)](https://www.youtube.com/watch?v=b_HTQYukm5Q)
 
-
-(TODO)
+**Consejo**. Para disparar la alarma hay que comparar si los dígitos son 1 y 2. Utilizar tablas de verdad para  
+la implementación de estos circuitos comparadores
 
 * **Ejercicio 27.3** (Total **5 Bitpoints**): Texto animado
 
