@@ -369,6 +369,9 @@ Crear un circuito capaz de contar las **vueltas de un spinner**. Debe tener **3 
 
 * **Ejercicio 27.2** (Total **5 Bitpoints**): Alarma despertador
 
+[![Click to see the youtube video](http://img.youtube.com/vi/b_HTQYukm5Q/0.jpg)](https://www.youtube.com/watch?v=b_HTQYukm5Q)
+
+
 (TODO)
 
 * **Ejercicio 27.3** (Total **5 Bitpoints**): Texto animado
