@@ -363,7 +363,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 27.1** (Total **5 Bitpoints**): Contador de vueltas de tres dígitos para spinner (0 - 999)
 
-Crear un circuito capaz de contar las **vueltas de un spinner**. Debe tener **3 dígitos decimales**, por lo que ontará desde **000** hasta **999**. Para detectar los brazos del spinner se usará **un sensor de infrarrojos IR**. Cada vez que uno de los brazos del spinner sea detectado por el IR se emitirá un **pitido de 10ms**. Se colocará un **display de 7 segmentos** para ver el dígito del contador seleccionado: unidades, decenas o centenas. Tendrá un **pulsador de reset** para iniciar la cuenta a cero
+Crear un circuito capaz de contar las **vueltas de un spinner**. Debe tener **3 dígitos decimales**, por lo que contará desde **000** hasta **999**. Para detectar los brazos del spinner se usará **un sensor de infrarrojos IR**. Cada vez que uno de los brazos del spinner sea detectado por el IR se emitirá un **pitido de 10ms**. Se colocará un **display de 7 segmentos** para ver el dígito del contador seleccionado: unidades, decenas o centenas. Tendrá un **pulsador de reset** para iniciar la cuenta a cero
 
 [![Click to see the youtube video](http://img.youtube.com/vi/WpYWPK14Y6Q/0.jpg)](https://www.youtube.com/watch?v=WpYWPK14Y6Q)
 
