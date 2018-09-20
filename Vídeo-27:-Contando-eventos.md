@@ -377,7 +377,9 @@ Diseñar un **reloj digital con alarma**, de manera que al alcanzar la hora indi
 
 * **Ejercicio 27.3** (Total **5 Bitpoints**): Texto animado
 
-(TODO)
+
+
+[![Click to see the youtube video](http://img.youtube.com/vi/Gt_qo6XPkbw/0.jpg)](https://www.youtube.com/watch?v=Gt_qo6XPkbw)
 
 * **Ejercicio 27.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
