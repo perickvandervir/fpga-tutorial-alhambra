@@ -375,9 +375,9 @@ Diseñar un **reloj digital con alarma**, de manera que al alcanzar la hora indi
 
 [![Click to see the youtube video](http://img.youtube.com/vi/b_HTQYukm5Q/0.jpg)](https://www.youtube.com/watch?v=b_HTQYukm5Q)
 
-* **Ejercicio 27.3** (Total **5 Bitpoints**): Texto animado
+* **Ejercicio 27.3** (Total **5 Bitpoints**): Textos animados
 
-
+Diseñar un circuito digital para mostrar en un **display** de 7 segmentos **dos textos animados**, que se muestran letra a letra. Mediante un **interruptor externo** se selecciona entre el **mensaje 1** ó el **2**. Con otro **interruptor** se selecciona la **velocidad** a la que se muestran los caracteres: lenta o rápida
 
 [![Click to see the youtube video](http://img.youtube.com/vi/Gt_qo6XPkbw/0.jpg)](https://www.youtube.com/watch?v=Gt_qo6XPkbw)
 
