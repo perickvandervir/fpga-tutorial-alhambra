@@ -18,7 +18,7 @@ Este tutorial está hecho con la versión [0.3.3 de Icestudio](https://github.co
 
 # Colección
 
-**Academia-Jedi-HW-27.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-27.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-27/Collections/Academia-Jedi-HW-27.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
