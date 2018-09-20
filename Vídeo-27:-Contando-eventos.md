@@ -9,7 +9,8 @@
 Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
-(TODO)
+
+Los **contadores** son unos componentes **fundamentales**, importantísimos en electrónica digital. Aprenderemos el funcionamiento de los **contadores ascendentes**, y los usaremos para contar eventos, medir tiempo y recorrer tablas
 
 # ¡Icestudio 0.3.3!
 
