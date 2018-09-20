@@ -44,6 +44,7 @@ Opcionalmente puedes participar en la **Academia Jedi**, enviando los ejercicios
 | 28 | Biestables de datos y cambio |
 | 29 | Registros y Comparadores |
 | 30 | Comunicaciones serie |
+| 31 | Despedida temporada I |
 
 ## Academia Jedi de hardware
 
