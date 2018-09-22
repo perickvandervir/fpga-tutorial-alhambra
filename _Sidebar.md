@@ -53,3 +53,5 @@
 25. [Biestables y notificaciones](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-25:-Biestables-y-notificaciones)
 
 26. [Tiempo, tics y temporizadores](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-26:-Tiempo,-tics-y-temporizadores)
+
+27. [Contando eventos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-27:-Contando-eventos)
