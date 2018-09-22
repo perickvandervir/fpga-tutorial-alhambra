@@ -40,7 +40,7 @@ Opcionalmente puedes participar en la **Academia Jedi**, enviando los ejercicios
 | 24 | [Display de 7 segmentos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-24:-Display-de-7-segmentos)
 | 25 | [Biestables y notificaciones](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-25:-Biestables-y-notificaciones) |
 | 26 | [Tiempo, tics y temporizadores](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-26:-Tiempo,-tics-y-temporizadores) |
-| 27 | [Contando eventos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-27:-Contando-eventos) (En construcción...) |
+| 27 | [Contando eventos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-27:-Contando-eventos) |
 | 28 | Biestables de datos y cambio (20) |
 | 29 | Registros y Comparadores (20) |
 | 30 | Comunicaciones serie (25) |
