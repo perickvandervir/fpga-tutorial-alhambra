@@ -404,11 +404,11 @@ Diseñar un circuito digital para mostrar en un **display** de 7 segmentos **dos
 [![Click to see the youtube video](http://img.youtube.com/vi/PqUYdrHTJx4/0.jpg)](https://www.youtube.com/watch?v=PqUYdrHTJx4)
 
 ### Ejercicio 27.3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-27/fgcoca/Ejercicio-3/Ejercicio27_3%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/WGdgJjZE9g4/0.jpg)](https://www.youtube.com/watch?v=WGdgJjZE9g4)
 
 ### Ejercicio 27.4
 ![]()
