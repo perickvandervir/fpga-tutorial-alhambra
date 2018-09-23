@@ -44,6 +44,7 @@ Este tutorial está hecho con la versión [0.3.3 de Icestudio](https://github.co
   * [Ejemplo 15: Texto en el display de 7 segmentos](#ejemplo-15-texto-en-el-display-de-7-segmentos)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
+  * [Federico Coca (@fgcoca)](#federico-coca-fgcoca)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
