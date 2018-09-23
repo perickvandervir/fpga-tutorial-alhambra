@@ -322,7 +322,7 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 | 18  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi.png) | **Jedi** | 400 | Has descubierto el secreto de los **biestables**, y esto te abre el camino para aprender **circuitos secuenciales**. Tu poder de Jedi Hardware ha aumentado considerablemente... |
 | 19  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/19-Jedi-N1.png) | **Jedi Nivel 1** | 440 | Sabes medir el **tiempo** y **contar** eventos. Tus circuitos secuenciales aumentan en complejidad  |
 | 20  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/20-Jedi-N2.png) | **Jedi Nivel 2** | 480 | Ya trabajas con **datos**. Conoces sus componentes fundamentales y sabes **compararlos** y **almacenarlos**  |
-| 21  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/21-Jedi-N3.png) | **Jedi Nivel 3** | 520 | Sabes hacer circuitos con la capacidad de comunicarse con el PC y otros dispositivos, por medio de la transmisión serie  |
+| 21  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/21-Jedi-N3.png) | **Jedi Nivel 3** | 520 | Sabes hacer circuitos con la capacidad de **comunicarse** con el PC y otros dispositivos, por medio de la **transmisión serie**  |
 
 ## Noticias
 
