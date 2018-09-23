@@ -386,7 +386,7 @@ Diseñar un circuito digital para mostrar en un **display** de 7 segmentos **dos
 
 # Ejercicios entregados
 
-## Primero
+## Federico Coca (@fgcoca)
 
 ### Ejercicio 27.1
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-27/fgcoca/Ejercicio-1/Ejercicio27_1%20%E2%94%80%20P.png)
