@@ -32,11 +32,9 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 (3 tipos biestables: T, RS, Datos)
 
-(Bloque corazón con enable)
-(Bloque T)
-(Bloque D)
-(Pulsador cambio)
-(Conversor evento -- tic)
+(Bloque corazón con enable)  
+(Pulsador cambio)  
+(Conversor evento -- tic)  
 
 # Biestables de cambio (T)
 
