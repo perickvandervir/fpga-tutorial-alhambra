@@ -38,6 +38,10 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 (Pulsador cambio)
 (Conversor evento -- tic)
 
+# Biestables de cambio (T)
+
+(TODO)
+
 # Ejercicios propuestos (20 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
