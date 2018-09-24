@@ -441,35 +441,29 @@ Diseñar un circuito digital para mostrar en un **display** de 7 segmentos **dos
 
 [Vídeo en Twitter](https://twitter.com/Keithpmt/status/1042672342470582274)
 
-## Tercero
+## Viriato (@SrViriato)
 
 ### Ejercicio 27.1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-27/Viriato/Ejercicio-27-1/Captura%20de%20pantalla%20-2018-09-22%2021-48-49.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/SrViriato/status/1043806062388731905)
 
 ### Ejercicio 27.2
 ![]()
 
-* **Vídeo** en Youtube:
+* [Vídeo en Twitter]()
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ### Ejercicio 27.3
 ![]()
 
-* **Vídeo** en Youtube:
+* [Vídeo en Twitter]()
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ### Ejercicio 27.4
 ![]()
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter]()
 
 
 # Autor
