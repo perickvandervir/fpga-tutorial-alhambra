@@ -28,6 +28,8 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Intro-01.png)
+
 (TODO)
 
 (3 tipos biestables: T, RS, Datos)
