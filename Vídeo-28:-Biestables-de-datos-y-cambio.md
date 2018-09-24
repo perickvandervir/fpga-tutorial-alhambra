@@ -47,7 +47,7 @@ Los **biestables de cambio**, también conocidos como **biestables tipo T**, **c
 
 En esta **animación** se muestra su **funcionamiento**
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-02.gif)
 
 (Ejemplos de uso)
 
