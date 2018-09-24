@@ -41,7 +41,9 @@ Los tres biestables tiene un **parámetro** para especificar su **valor inicial*
 
 # Biestables de cambio (T)
 
-(TODO)
+(Def)
+(Animación)
+(Descripción)
 
 (TODO)
 
