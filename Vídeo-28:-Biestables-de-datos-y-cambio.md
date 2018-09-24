@@ -34,8 +34,6 @@ Los **biestables** nos permiten **almacenar** un bit, que usaremos con diferente
 
 (TODO)
 
-(3 tipos biestables: T, RS, Datos)
-
 (Bloque corazón con enable)  
 (Pulsador cambio)  
 (Conversor evento -- tic)  
