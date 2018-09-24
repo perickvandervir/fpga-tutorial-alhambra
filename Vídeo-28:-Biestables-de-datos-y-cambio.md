@@ -49,9 +49,16 @@ En esta **animación** se muestra su **funcionamiento**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-02.gif)
 
-(Ejemplos de uso)
+## Ejemplo 1: Encendido y apagado con pulsador
+
 
 (TODO)
+
+(Ejemplo 2: Circuit scramble?)
+(Ejemplo 3: Divisor...)
+(Ejemplo 4: Encadenamiento... necesitamos generador de tics a partir de flanco)
+
+# Biestables de Datos
 
 (Bloque corazón con enable)  
 (Pulsador cambio)  
