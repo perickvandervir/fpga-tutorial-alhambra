@@ -19,6 +19,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 # Contenido
 
 * [Introducción](#introducci%C3%B3n)
+* [Biestables de cambio (T)](#biestables-de-cambio-t)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
