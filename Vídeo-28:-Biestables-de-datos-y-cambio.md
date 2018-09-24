@@ -36,7 +36,7 @@ Aunque todos se pueden usar para ambos propósitos, los **biestables RS** los so
 
 Los tres biestables tiene un **parámetro** para especificar su **valor inicial** (cero o uno). También tienen en común que sólo tienen **una única salida**: el valor del bit que almacenan, y a todos les llega el **reloj del sistema**
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Intro-02.png)
 
 # Biestables de cambio (T)
 
