@@ -46,6 +46,7 @@ Este tutorial está hecho con la versión [0.3.3 de Icestudio](https://github.co
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Federico Coca (@fgcoca)](#federico-coca-fgcoca)
   * [Andrés Prieto-Moreno (andrespmt)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-27:-Contando-eventos#andr%C3%A9s-prieto-moreno-andrespmt)
+  * [Viriato (@SrViriato)](#viriato-srviriato)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
