@@ -34,6 +34,10 @@ Los **biestables** nos permiten **almacenar** un bit, que usaremos con diferente
 
 Aunque todos se pueden usar para ambos propósitos, los **biestables RS** los solemos usar principalmente para **almacenar el estado** del circuito y **los biestables D** para almacenar **datos**. En este tutorial nos centraremos en los **biestables de Cambio** (T) y en los de **Datos** (D)
 
+Los tres biestables tiene un **parámetro** para especificar su **valor inicial** (cero o uno). También tienen en común que sólo tienen **una única salida**: el valor del bit que almacenan, y a todos les llega el **reloj del sistema**
+
+(Dibujo)
+
 # Biestables de cambio (T)
 
 (TODO)
