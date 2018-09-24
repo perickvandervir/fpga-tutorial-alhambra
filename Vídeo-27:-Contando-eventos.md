@@ -460,12 +460,10 @@ Diseñar un circuito digital para mostrar en un **display** de 7 segmentos **dos
 
 * [Vídeo en Twitter](https://twitter.com/SrViriato/status/1043806412231659520)
 
-
 ### Ejercicio 27.4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-27/Viriato/Ejercicio-27-4/Captura%20de%20pantalla%20-2018-09-23%2010-58-02.png)
 
-* [Vídeo en Twitter]()
-
+* [Vídeo en Twitter](https://twitter.com/SrViriato/status/1043806553579622400)
 
 # Autor
 
