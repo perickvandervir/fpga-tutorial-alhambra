@@ -32,15 +32,17 @@ Los **biestables** nos permiten **almacenar** un bit, que usaremos con diferente
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Intro-01.png)
 
+Aunque todos se pueden usar para ambos propósitos, los **biestables RS** los solemos usar principalmente para **almacenar el estado** del circuito y **los biestables D** para almacenar **datos**. En este tutorial nos centraremos en los **biestables de Cambio** (T) y en los de **Datos** (D)
+
+# Biestables de cambio (T)
+
+(TODO)
+
 (TODO)
 
 (Bloque corazón con enable)  
 (Pulsador cambio)  
 (Conversor evento -- tic)  
-
-# Biestables de cambio (T)
-
-(TODO)
 
 # Ejercicios propuestos (20 BitPoints)
 
