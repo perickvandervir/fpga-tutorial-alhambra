@@ -74,7 +74,7 @@ El escenario es muy básico: sólo ponemos un **pulsador** y un **LED**
 
 **Cargamos** el circuito y lo **probamos**:
 
-(Vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/UV7w26jg46I/0.jpg)](https://www.youtube.com/watch?v=UV7w26jg46I)
 
 (Dibujo con biestable inicializado a 1)
 
