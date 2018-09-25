@@ -67,7 +67,11 @@ Utilizaremos un **biestable de cambio** para encender y apagar **un LED** usando
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-03.png)
 
-(Foto del escenario)
+El escenario es muy básico: sólo ponemos un **pulsador** y un **LED**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-04.png)
+
+**Cargamos** el circuito y lo **probamos**:
 
 (Vídeo)
 
