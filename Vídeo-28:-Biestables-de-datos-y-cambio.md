@@ -22,6 +22,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Detectores de flancos](#detectores-de-flancos)
 * [Biestables de cambio (T)](#biestables-de-cambio-t)
   * [Ejemplo 1: Encendido y apagado con pulsador](#ejemplo-1-encendido-y-apagado-con-pulsador)
+  * [Ejemplo 2: Nivel 1 del Circuit Scramble, en físico](#ejemplo-2-nivel-1-del-circuit-scramble-en-f%C3%ADsico)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
@@ -85,6 +86,8 @@ Si quisiéramos que el **LED** estuviese **encendido inicialmente**, en vez de e
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-06.png)
 
 ## Ejemplo 2: Nivel 1 del Circuit Scramble, en físico
+
+
 
 (TODO)
 
