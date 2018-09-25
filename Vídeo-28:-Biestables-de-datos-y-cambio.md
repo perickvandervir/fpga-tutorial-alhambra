@@ -46,11 +46,10 @@ La **información** almacenada en los **biestables** va cambiando durante el fun
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Detector-01.png)
 
-El funcionamiento es muy sencillo. Se **transforman** los **flancos en tics**, como se muestra en esta **animación**
+El **funcionamiento** es muy sencillo. Se **transforman** los **flancos en tics**, como se muestra en esta **animación**
 
-(Animación del funcionamiento)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/detector-02.gif)
 
-(TODO)
 
 # Biestables de cambio (T)
 
