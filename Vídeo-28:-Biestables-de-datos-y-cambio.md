@@ -67,7 +67,13 @@ Utilizaremos un **biestable de cambio** para encender y apagar **un LED** usando
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-03.png)
 
-(Circuito)
+(Foto del escenario)
+
+(Vídeo)
+
+(Dibujo con biestable inicializado a 1)
+
+(Es el botón del circuit scramble!!!)
 
 (TODO)
 
