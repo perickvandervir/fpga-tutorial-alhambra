@@ -44,8 +44,9 @@ Los tres biestables tiene un **parámetro** para especificar su **valor inicial*
 
 La **información** almacenada en los **biestables** va cambiando durante el funcionamiento del circuito. Mediante los **detectores de flancos** podemos generar tics cuando se produzcan estos cambios. Bien cuando un bit cambie de **cero a uno** (flanco de subida) o bien cuando cambie de **uno a cero** (flanco de bajada). Los bloques que usaremos para esto son los siguientes:
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Detector-01.png)
 
+El funcionamiento es muy sencillo. Se **transforman** los **flancos en tics**, como se muestra en esta **animación**
 
 (Animación del funcionamiento)
 
