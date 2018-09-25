@@ -39,6 +39,12 @@ Los tres biestables tiene un **parámetro** para especificar su **valor inicial*
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Intro-02.png)
 
+# Detectores de flancos
+
+(TODO)
+
+(Hacer los bloques detectores)
+
 # Biestables de cambio (T)
 
 Los **biestables de cambio**, también conocidos como **biestables tipo T**, **cambian** su valor cada vez que reciben un **tic** por su **entrada T** (toggle). Si inicialmente tiene el **valor 0**, al llegar un tic **cambiará a 1**. Y en el **siguiente tic** volverá otra vez a **0**
