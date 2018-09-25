@@ -63,6 +63,9 @@ En esta **animación** se muestra su **funcionamiento**
 
 ## Ejemplo 1: Encendido y apagado con pulsador
 
+Utilizaremos un **biestable de cambio** para encender y apagar **un LED** usando un **único pulsador**. Al apretarlo la primera vez el LED se enciende. Al apretarlo la siguiente vez se apagará. El **circuito** es el siguiente:
+
+(Circuito)
 
 (TODO)
 
