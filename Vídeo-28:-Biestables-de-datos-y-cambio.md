@@ -41,9 +41,14 @@ Los tres biestables tiene un **parámetro** para especificar su **valor inicial*
 
 # Detectores de flancos
 
-(TODO)
+La **información** almacenada en los **biestables** va cambiando durante el funcionamiento del circuito. Mediante los **detectores de flancos** podemos generar tics cuando se produzcan estos cambios. Bien cuando un bit cambie de **cero a uno** (flanco de subida) o bien cuando cambie de **uno a cero** (flanco de bajada). Los bloques que usaremos para esto son los siguientes:
 
-(Hacer los bloques detectores)
+(Dibujo)
+
+
+(Animación del funcionamiento)
+
+(TODO)
 
 # Biestables de cambio (T)
 
