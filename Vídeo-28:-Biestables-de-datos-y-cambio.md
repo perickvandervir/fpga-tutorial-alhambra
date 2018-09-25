@@ -78,11 +78,9 @@ El escenario es muy básico: sólo ponemos un **pulsador** y un **LED**
 
 ¿No te recuerda a algo el funcionamiento de este pulsador con luz? ¡Exacto! ¡A los **pulsadores del Circuit Scramble**! ¡Funcionan igual! Una pulsación y se activan. Otra y se apagan
 
-(video)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-05.gif)
 
 (Dibujo con biestable inicializado a 1)
-
-(Es el botón del circuit scramble!!!)
 
 (TODO)
 
