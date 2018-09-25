@@ -82,9 +82,7 @@ El escenario es muy básico: sólo ponemos un **pulsador** y un **LED**
 
 Si quisiéramos que el **LED** estuviese **encendido inicialmente**, en vez de estar apagado, sólo hay que poner el valor inicial como **parámetro** del biestable T:
 
-(Dibujo)
-
-(Dibujo con biestable inicializado a 1)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-06.png)
 
 (TODO)
 
