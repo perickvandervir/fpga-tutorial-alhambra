@@ -76,6 +76,10 @@ El escenario es muy básico: sólo ponemos un **pulsador** y un **LED**
 
 [![Click to see the youtube video](http://img.youtube.com/vi/UV7w26jg46I/0.jpg)](https://www.youtube.com/watch?v=UV7w26jg46I)
 
+¿No te recuerda a algo el funcionamiento de este pulsador con luz? ¡Exacto! ¡A los **pulsadores del Circuit Scramble**! ¡Funcionan igual! Una pulsación y se activan. Otra y se apagan
+
+(video)
+
 (Dibujo con biestable inicializado a 1)
 
 (Es el botón del circuit scramble!!!)
