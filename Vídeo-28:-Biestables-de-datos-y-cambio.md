@@ -84,9 +84,10 @@ Si quisiéramos que el **LED** estuviese **encendido inicialmente**, en vez de e
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-06.png)
 
+## Ejemplo 2: Nivel 1 del Circuit Scramble, en físico
+
 (TODO)
 
-(Ejemplo 2: Circuit scramble?)
 (Ejemplo 3: Divisor...)
 (Ejemplo 4: Encadenamiento... necesitamos generador de tics a partir de flanco)
 
