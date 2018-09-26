@@ -94,7 +94,8 @@ Estos **pulsadores** que se activan al apretar y se desactivan al volver a apret
 
 No es más que un **pulsador de tics** en serie con un **Biestable de cambio**, pero al estar en un único bloque los circuitos quedan **más compactos**. Si rehacemos el **ejemplo 1**, en el que se usa el pulsador para encender/apagar un LED, el circuito queda así:
 
-(circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Pulsador-cambio-02.png)
+
 
 (TODO)
 
