@@ -96,8 +96,10 @@ No es más que un **pulsador de tics** en serie con un **Biestable de cambio**, 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Pulsador-cambio-02.png)
 
+Si ahora queremos que **inicialmente** el botón esté **apretado** (y el LED encendido) sólo hay que pasarle como **parámetro** el valor 1:
 
-(TODO)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Pulsador-cambio-03.png)
+
 
 ## Ejemplo 2: Nivel 1 del Circuit Scramble, en físico
 
