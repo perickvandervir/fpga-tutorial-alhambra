@@ -85,6 +85,10 @@ Si quisiéramos que el **LED** estuviese **encendido inicialmente**, en vez de e
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-06.png)
 
+## Pulsador de cambio
+
+(TODO)
+
 ## Ejemplo 2: Nivel 1 del Circuit Scramble, en físico
 
 
