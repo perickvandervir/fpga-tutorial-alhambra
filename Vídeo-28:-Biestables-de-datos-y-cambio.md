@@ -92,6 +92,8 @@ Estos **pulsadores** que se activan al apretar y se desactivan al volver a apret
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Pulsador-cambio-01.png)
 
+No es más que un **pulsador de tics** en serie con un **Biestable de cambio**, pero al estar en un único bloque los circuitos quedan más compactos
+
 (TODO)
 
 ## Ejemplo 2: Nivel 1 del Circuit Scramble, en físico
