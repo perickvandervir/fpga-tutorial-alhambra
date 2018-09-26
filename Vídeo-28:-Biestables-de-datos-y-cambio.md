@@ -88,7 +88,7 @@ Si quisiéramos que el **LED** estuviese **encendido inicialmente**, en vez de e
 
 ## Pulsador de cambio
 
-Estos **pulsadores** que se activan al apretar y se desactivan al volver a apretar se denominan **pulsadores de cambio** (Toggle buttons) y se utilizan muchísimo. Por eso tienen su propio bloque:
+Estos **pulsadores** que se activan al apretar y se desactivan al volver a apretar se denominan **pulsadores de cambio** (Toggle buttons) y se utilizan muchísimo. Por eso tienen su **propio bloque**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Pulsador-cambio-01.png)
 
