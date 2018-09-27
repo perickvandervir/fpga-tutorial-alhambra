@@ -105,7 +105,7 @@ Si ahora queremos que **inicialmente** el botón esté **apretado** (y el LED en
 
 Ahora que ya tenemos el ***pulsador de cambio**, podemos hacer una implementación de los niveles del **Circuit Scramble**, pero en **físico** :smiley: Haremos el **nivel 1**. El **circuito** en Icestudio es:
 
-(Circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-07.png)
 
 (TODO)
 
