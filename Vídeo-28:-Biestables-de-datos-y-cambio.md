@@ -117,7 +117,7 @@ Lo **cargamos** y lo **probamos**. ¡A jugar! :smiley:
 
 Y si **sustituimos** los bloques por otros con los iconos del **Circuit scramble**, mola más :smiley: 
 
-(Circuito - 2)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-07.png)
 
 (TODO)
 
