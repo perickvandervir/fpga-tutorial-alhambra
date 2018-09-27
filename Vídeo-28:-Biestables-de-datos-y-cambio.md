@@ -113,7 +113,7 @@ Además de los **4 pulsadores**, se han añadido **7 LEDs**, uno por cada uno de
 
 Lo **cargamos** y lo **probamos**. ¡A jugar! :smiley:
 
-(Vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/-qt9mZB6Lww/0.jpg)](https://www.youtube.com/watch?v=-qt9mZB6Lww)
 
 (TODO)
 
