@@ -115,6 +115,10 @@ Lo **cargamos** y lo **probamos**. ¡A jugar! :smiley:
 
 [![Click to see the youtube video](http://img.youtube.com/vi/-qt9mZB6Lww/0.jpg)](https://www.youtube.com/watch?v=-qt9mZB6Lww)
 
+Y si **sustituimos** los bloques por otros con los iconos del **Circuit scramble**, mola más :smiley: 
+
+(Circuito - 2)
+
 (TODO)
 
 (Ejemplo 3: Divisor...)
