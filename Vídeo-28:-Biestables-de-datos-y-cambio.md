@@ -111,6 +111,10 @@ Además de los **4 pulsadores**, se han añadido **7 LEDs**, uno por cada uno de
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-06.png)
 
+Lo **cargamos** y lo **probamos**. ¡A jugar! :smiley:
+
+(Vídeo)
+
 (TODO)
 
 (Ejemplo 3: Divisor...)
