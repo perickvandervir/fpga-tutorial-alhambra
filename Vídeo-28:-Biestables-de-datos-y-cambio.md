@@ -103,9 +103,13 @@ Si ahora queremos que **inicialmente** el botón esté **apretado** (y el LED en
 
 ## Ejemplo 2: Nivel 1 del Circuit Scramble, en físico
 
-Ahora que ya tenemos el ***pulsador de cambio**, podemos hacer una implementación de los niveles del **Circuit Scramble**, pero en **físico** :smiley: Haremos el **nivel 1**. El **circuito** en Icestudio es:
+Ahora que ya tenemos el **pulsador de cambio**, podemos hacer una implementación de los niveles del **Circuit Scramble**, pero en **físico** :smiley: Haremos el **nivel 1**. El **circuito** en Icestudio es:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-07.png)
+
+Además de los **4 pulsadores**, se han añadido **7 LEDs**, uno por cada uno de los **cables**, para mostrar su estado. Y un **Servo** que se activa cuando se ha **completado** el nivel. El **montaje** es el siguiente
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-06.png)
 
 (TODO)
 
