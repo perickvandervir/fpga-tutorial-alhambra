@@ -103,7 +103,9 @@ Si ahora queremos que **inicialmente** el botón esté **apretado** (y el LED en
 
 ## Ejemplo 2: Nivel 1 del Circuit Scramble, en físico
 
+Ahora que ya tenemos el ***pulsador de cambio**, podemos hacer una implementación de los niveles del **Circuit Scramble**, pero en **físico** :smiley: Haremos el **nivel 1**. El **circuito** en Icestudio es:
 
+(Circuito)
 
 (TODO)
 
