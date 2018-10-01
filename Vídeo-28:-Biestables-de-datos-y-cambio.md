@@ -156,7 +156,15 @@ Debido a esto, **NO podemos encadenar biestables T directamente**, ya que por su
 
 Si partimos de un **corazón de tics de 1 segundo**, con este circuito obtenemos una **señal de periodo 4 segundos**:
 
-(Circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-14.png)
+
+Lo que está sucenciendo en las **señales intermedias** se muestra en esta **figura**:
+
+(Figura)
+
+Lo **cargamos** y lo **probamos**
+
+(Vídeo)
 
 (TODO)
 
