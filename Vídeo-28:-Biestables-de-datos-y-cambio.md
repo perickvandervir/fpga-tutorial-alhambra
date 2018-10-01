@@ -125,7 +125,10 @@ Los **biestbles de cambio** se usan también como **divisores de frecuencia**. E
 
 Partimos de un circuito, que ya conocemos, que hace **parpadear un LED a 1Hz**. El **corazón de tics** genera la **temporización**: se envía un tic cada segundo (1000ms). Mediante un **temporizador** establecemos la **anchura del pulso** a 500ms (aunque nos valdría cualquier otra anchura)
 
-(Circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-09.png)
+
+(Señales)
+
 
 (TODO)
 
