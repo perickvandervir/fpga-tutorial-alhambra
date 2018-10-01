@@ -160,7 +160,7 @@ Si partimos de un **corazón de tics de 1 segundo**, con este circuito obtenemos
 
 Lo que está sucenciendo en las **señales intermedias** se muestra en esta **figura**:
 
-(Figura)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-15.png)
 
 Lo **cargamos** y lo **probamos**
 
