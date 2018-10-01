@@ -143,9 +143,9 @@ Si observamos las señales, a la salida del **biestable T** obtenemos una **señ
 
 [![Click to see the youtube video](http://img.youtube.com/vi/SChH5APwpFM/0.jpg)](https://www.youtube.com/watch?v=SChH5APwpFM)
 
-(TODO)
+## Encadenamiento de biestables de cambio
 
-(Ejemplo 4: Encadenamiento... necesitamos generador de tics a partir de flanco)
+(TODO)
 
 # Biestables de Datos
 
