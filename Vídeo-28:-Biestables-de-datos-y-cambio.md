@@ -141,7 +141,7 @@ Si observamos las señales, a la salida del **biestable T** obtenemos una **señ
 
 **Cargamos** el circuito y lo **probamos** para comprobarlo
 
-(Video)
+[![Click to see the youtube video](http://img.youtube.com/vi/SChH5APwpFM/0.jpg)](https://www.youtube.com/watch?v=SChH5APwpFM)
 
 (TODO)
 
