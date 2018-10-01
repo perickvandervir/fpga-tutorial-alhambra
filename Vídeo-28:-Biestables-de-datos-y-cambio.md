@@ -137,7 +137,11 @@ Ahora colocamos en paralelo un **biestable de cambio**, conectado a otro LED par
 
 Si observamos las señales, a la salida del **biestable T** obtenemos una **señal del doble de periodo** que la de los tics:
 
-(señales 2)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-12.png)
+
+**Cargamos** el circuito y lo **probamos** para comprobarlo
+
+(Video)
 
 (TODO)
 
