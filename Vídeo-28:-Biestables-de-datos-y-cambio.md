@@ -129,7 +129,7 @@ Partimos de un circuito, que ya conocemos, que hace **parpadear un LED a 1Hz**. 
 
 Ahora analizamos las **señales**. El **corazón** envía **tics** separados un tiempo de **1000ms**. Al pasar por el **temporiador** se convierten en **pulsos de anchura de 500ms**, pero la frecuencia se mantiene igual:
 
-(Señales)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-10.png)
 
 
 (TODO)
