@@ -67,7 +67,8 @@ Estudiante que se encuentran cursando el **tercer año** de la **academia de Har
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi-min.png)|     Ximo Catala (Ximocat) | Jedi| 435 (+80)| T26 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi-min.png)|    Joaquín Cubillo (jcubilloarr) | Jedi| 435 (+10)| T26 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi-min.png)|    Manuel Andújar (Matalobo) | Jedi| 431/435| T26 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi-min.png)|     Gut-mart | Jedi| 410| T25 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi-min.png)|     Gut-mart | Jedi| 410 (+405)| T25 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi-min.png)|     Talud08 (@javivicen) | Jedi| 410 (+30)| T25 |
 
 ### Segundo curso
 
@@ -77,7 +78,6 @@ Estudiante que se encuentran cursando el **segundo año** de la **academia de Ha
 
 |Divisa  | Nombe             | Rango    | BitPoints | Tut |
 |--------|-------------------|----------|-----------|-----|
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|    Talud08 (@javivicen) | Aspirante a Jedi Nivel 3 | 385 (+30) | T24 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/16-Aspirante-jedi-N2-min.png)|    Jose López | Aspirante a Jedi Nivel 2 | 334 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/13-Padawan-N3-min.png)|     Jorge Lobo (Lobotic) | Padawan Nivel 3 | 260 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/13-Padawan-N3-min.png)|     Jose Luis (@movilujo) | Padawan Nivel 3 | 245 |
