@@ -150,7 +150,7 @@ Para que el biestable de cambio se comporte como se ha descrito, su **entrada de
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-13.png)
 
-La anchura de la señal a la entrada es mayor de un tic, por lo que el biestable cambia varias veces. Esto es muy importante recordarlo. En los ejemplos que usaremos siempre enviaremos señales de 1 tic de anchura
+La anchura de la señal a la entrada es **mayor de un tic**, por lo que el biestable **cambia varias veces**. Esto es **muy importante** recordarlo. En los ejemplos que usaremos **siempre** enviaremos señales de **1 tic de anchura**
 
 Debido a esto, **NO podemos encadenar biestables T directamente**, ya que por su salida no salen tics. Para lograrlo hay que usar **detectores de flancos**, que emiten un tic cuando llega el flanco indicado. En este ejemplo encadenamos dos biestables T para obtener una señal de frecuencia 4 veces inferior (o un periodo 4 veces mayor).
 
