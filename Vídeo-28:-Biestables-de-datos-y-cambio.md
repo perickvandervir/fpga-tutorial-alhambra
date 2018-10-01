@@ -146,6 +146,8 @@ Si observamos las señales, a la salida del **biestable T** obtenemos una **señ
 
 ## Encadenamiento de biestables de cambio
 
+Para que el biestable de cambio se comporte como se ha descrito, su **entrada debe ser un tic**. Si lo que se introduce es un **pulso de anchura mayor**, el biestable cambiará de estado tantas veces como tics del sistema ocurran en esa anchura, como se muestra en este ejemplo
+
 (TODO)
 
 # Biestables de Datos
