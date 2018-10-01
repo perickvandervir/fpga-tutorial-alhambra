@@ -165,7 +165,7 @@ Lo que está sucenciendo en las **señales intermedias** se muestra en esta **fi
 
 Lo **cargamos** y lo **probamos**
 
-![](https://www.youtube.com/watch?v=D5te5cxt-7g)
+[![Click to see the youtube video](http://img.youtube.com/vi/D5te5cxt-7g/0.jpg)](https://www.youtube.com/watch?v=D5te5cxt-7g)
 
 # Biestables de Datos
 
