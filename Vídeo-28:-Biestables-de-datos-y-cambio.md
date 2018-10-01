@@ -101,7 +101,6 @@ Este componente se encuentra en **Varios/Pulador/Pulsador-cambio**. Si ahora que
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Pulsador-cambio-03.png)
 
-
 ## Ejemplo 2: Nivel 1 del Circuit Scramble, en físico
 
 Ahora que ya tenemos el **pulsador de cambio**, podemos hacer una implementación de los niveles del **Circuit Scramble**, pero en **físico** :smiley: Haremos el **nivel 1**. El **circuito** en Icestudio es:
@@ -128,12 +127,13 @@ Partimos de un circuito, que ya conocemos, que hace **parpadear un LED a 1Hz**. 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-09.png)
 
+Ahora analizamos las **señales**. El **corazón** envía **tics** separados un tiempo de **1000ms**. Al pasar por el **temporiador** se convierten en **pulsos de anchura de 500ms**, pero la frecuencia se mantiene igual:
+
 (Señales)
 
 
 (TODO)
 
-(Ejemplo 3: Divisor...)
 (Ejemplo 4: Encadenamiento... necesitamos generador de tics a partir de flanco)
 
 # Biestables de Datos
