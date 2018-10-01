@@ -164,15 +164,11 @@ Lo que está sucenciendo en las **señales intermedias** se muestra en esta **fi
 
 Lo **cargamos** y lo **probamos**
 
-(Vídeo)
-
-(TODO)
+![](https://www.youtube.com/watch?v=D5te5cxt-7g)
 
 # Biestables de Datos
 
-(Bloque corazón con enable)  
-(Pulsador cambio)  
-(Conversor evento -- tic)  
+(TODO)
 
 # Ejercicios propuestos (20 BitPoints)
 
