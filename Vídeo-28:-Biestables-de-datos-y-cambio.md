@@ -154,9 +154,9 @@ La anchura de la señal a la entrada es **mayor de un tic**, por lo que el biest
 
 Debido a esto, **NO podemos encadenar biestables T directamente**, ya que por su salida no salen tics. Para lograrlo hay que usar **detectores de flancos**, que emiten un tic cuando llega el flanco indicado. En este ejemplo encadenamos dos biestables T para obtener una señal de frecuencia 4 veces inferior (o un periodo 4 veces mayor).
 
-Si partimos de un corazón de tics de 1 segundo, con este circuito obtenemos una señal de periodo 4 segundos:
+Si partimos de un **corazón de tics de 1 segundo**, con este circuito obtenemos una **señal de periodo 4 segundos**:
 
-
+(Circuito)
 
 (TODO)
 
