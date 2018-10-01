@@ -131,6 +131,13 @@ Ahora analizamos las **señales**. El **corazón** envía **tics** separados un 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-10.png)
 
+Ahora colocamos en paralelo un **biestable de cambio**, conectado a otro LED para comparar visualmente las señales
+
+(circuito)
+
+Si observamos las señales, a la salida del **biestable T** obtenemos una **señal del doble de periodo** que la de los tics:
+
+(señales 2)
 
 (TODO)
 
