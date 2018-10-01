@@ -159,7 +159,7 @@ Si partimos de un **corazón de tics de 1 segundo**, con este circuito obtenemos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-14.png)
 
-Lo que está sucenciendo en las **señales intermedias** se muestra en esta **figura**:
+Lo que está sucenciendo en las **señales intermedias** se muestra en esta **figura**: Los **tics originales** se convierten en una **señal de periodo el doble**. Luego se obtiene una nueva señal que tiene **tics en los flancos de subida**. Finalmente se crea otra de **periodo el doble de la anterior** (y cuatro veces la inicial)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Cambio-15.png)
 
