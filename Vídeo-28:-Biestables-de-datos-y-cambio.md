@@ -229,7 +229,7 @@ La **agrupación de biestables en paralelo**, con un **única señal de captura*
 
 Haremos un ejemplo de captura de un **dato de 3 bits**. El dato proviene de **tres interruptores externos**, y la señal de captura de un **pulsador**.  Cuando se aprieta este botón se **captura el dato** y se muestra en un **display de 7 segmentos**. El escenario es el siguiente:
 
-(foto escenario)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Datos-07.png)
 
 (circuito)
 
