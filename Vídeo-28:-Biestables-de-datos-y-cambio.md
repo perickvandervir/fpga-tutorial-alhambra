@@ -206,11 +206,19 @@ Lo **cargamos** y lo **probamos**
 
 ## Ejemplo 6: Capturando un dato genérico
 
-Ahora que ya sabemos cómo funciona el **biestable D**, lo usaremos para **capturar los bits** que llegan de un **interruptor externo**. Utilizaremos un **pulsador** para capturar el dato. En el **escenario** tenemos un interruptor, un pulsador y dos LED
+Ahora que ya sabemos cómo funciona el **biestable D**, lo usaremos para **capturar los bits** que llegan de un **interruptor externo**. Utilizaremos un **pulsador** para capturar el dato. En el **escenario** tenemos un interruptor, un pulsador y dos LEDs
 
-(foto escenario)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Datos-05.png)
 
-(circuito de captura)
+El LED al lado del interruptor nos muestra el **dato a capturar**, y el LED junto al pulsador el **dato capturado**. Al apretar el pulsador se captura el dato (LED amarillo) y se muestra en el LED rojo. El circuito es el siguiente:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Datos-06.png)
+
+Lo **cargamos** y lo **probamos**
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+(Vídeo)
 
 (TODO)
 
