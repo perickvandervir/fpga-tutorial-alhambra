@@ -232,6 +232,10 @@ Haremos un ejemplo de captura de un **dato de 3 bits**. El dato proviene de **tr
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Datos-07.png)
 
+El circuito está formado por **tres biestables D en paralelo**, cuyas **entradas de datos** están conectadas a los **interruptores**. Las **entradas de load** de todos están conectadas al **pulsador de captura**. El **dato capturado** se inyecta en un **bus** y se muestra en el **display de 7 seggmentos**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Datos-08.png)
+
 (circuito)
 
 (video)
