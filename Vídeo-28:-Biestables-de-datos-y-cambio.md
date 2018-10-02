@@ -236,7 +236,7 @@ El circuito está formado por **tres biestables D en paralelo**, cuyas **entrada
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Datos-08.png)
 
-(circuito)
+Lo **cargamos** y lo **probamos**. Introducimos los **números en binario** por los interruptores y apretamos el **pulsador**, que funciona como si fuese la **tecla enter**
 
 (video)
 
