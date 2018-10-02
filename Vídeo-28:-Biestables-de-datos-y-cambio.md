@@ -221,7 +221,19 @@ Lo **cargamos** y lo **probamos**. ¡Nuestra primera captura de un dato genéric
 
 ## Biestables D en paralelo
 
-(Ejemplo 7: Capturando un dato de 3 bits)
+Como ya vimos en el [tutorial 20](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-20:-Buses-y-n%C3%BAmeros), en los circuitos trabajamos con datos formados por **varios bits**. Para **almacenar** un **dato de N bits**, necesitamos colocar **N biestables D** en **paralelo**, cada uno almacenando un bit del dato. Se usa una **única señal de carga** que se conecta a la **entrada load de todos los biestables**. De esta forma, para capturar un dato basta con emitir un **tic** por esta señal, que hace que todos los biestables capturen sus bits correspondientes
+
+La **agrupación de biestables en paralelo**, con un **única señal de captura**, se denomina **registro**. En este tutorial nos centraremos en los biestables. Los registros los dejamos para el siguiente
+
+### Ejemplo 7: Capturando un dato de 3 bits
+
+Haremos un ejemplo de captura de un **dato de 3 bits**. El dato proviene de **tres interruptores externos**, y la señal de captura de un **pulsador**.  Cuando se aprieta este botón se **captura el dato** y se muestra en un **display de 7 segmentos**. El escenario es el siguiente:
+
+(foto escenario)
+
+(circuito)
+
+(video)
 
 ## Biestables D encadenados (conexión serie)
 
