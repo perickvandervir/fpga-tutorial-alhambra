@@ -175,6 +175,8 @@ Los **biestables D** se usan para almacenar **datos**, y retenerlos hasta que ll
 
 Además del **reloj del sistema**, el biestable D tiene una **entrada de un bit** por donde llega el **dato** a almacenar, 0 ó 1. Este dato está fuera del biestable hasta que se recibe un tic por su **entrada de carga**, que llamamos **tic de captura**. En ese instante el **dato se almacena**, y es visible por su **salida**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Datos-02.gif)
+
 (TODO)
 
 # Ejercicios propuestos (20 BitPoints)
