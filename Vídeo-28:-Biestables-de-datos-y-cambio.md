@@ -238,7 +238,7 @@ El circuito está formado por **tres biestables D en paralelo**, cuyas **entrada
 
 Lo **cargamos** y lo **probamos**. Introducimos los **números en binario** por los interruptores y apretamos el **pulsador**, que funciona como si fuese la **tecla enter**
 
-(video)
+[![Click to see the youtube video](http://img.youtube.com/vi/DF8t8AawiAo/0.jpg)](https://www.youtube.com/watch?v=DF8t8AawiAo)
 
 ## Biestables D encadenados (conexión serie)
 
