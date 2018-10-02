@@ -180,6 +180,30 @@ Además del **reloj del sistema**, el biestable D tiene una **entrada de un bit*
 
 ## Ejemplo 4: Capturando un 1
 
+Para ver en la práctica el **funcionamiento del biestable D**, empezamos por un ejemplo muy sencillo, que **captura un bit 1 constante** al apretar un **pulsador**. Una vez capturado, hay que pulsar el **reset de la placa** para volver al estado inicial y repetir el experimento
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Datos-03.png)
+
+En el **montaje** sólo tenemos un **pulsador** y un **LED**
+
+(Montaje)
+
+(vídeo)
+
+(Mismo ejemplo pero capturando un 0)
+
+(Ejemplo 6: Capturando un dato genérico)
+
+## Biestables D en paralelo
+
+(Ejemplo 7: Capturando un dato de 3 bits)
+
+## Biestables D encadenados (conexión serie)
+
+(TODO)
+
+# Un Biestable D para unirlos a todos
+
 (TODO)
 
 # Ejercicios propuestos (20 BitPoints)
