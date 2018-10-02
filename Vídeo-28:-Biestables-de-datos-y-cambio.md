@@ -195,6 +195,10 @@ Lo **cargamos** y lo **probamos**. Si apretamos varias veces el pulsador no ocur
 
 ## Ejemplo 5-2: Capturando un 0
 
+Ahora haremos el ejemplo opuesto: **Capturar un 0**. Utilizaremos el parámetro del biestable para **iniciarlo a 1**. El LED estará encendido. Al apretar el pulsador se captura un 0 y se apaga
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Datos-04.png)
+
 (Mismo ejemplo pero capturando un 0)
 
 (Ejemplo 6: Capturando un dato genérico)
