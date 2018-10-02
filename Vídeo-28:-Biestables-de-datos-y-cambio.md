@@ -206,6 +206,12 @@ Lo **cargamos** y lo **probamos**
 
 ## Ejemplo 6: Capturando un dato genérico
 
+Ahora que ya sabemos cómo funciona el **biestable D**, lo usaremos para **capturar los bits** que llegan de un **interruptor externo**. Utilizaremos un **pulsador **para capturar el dato. En el **escenario** tenemos por tanto un interruptor, un pulsador y un LED
+
+(foto escenario)
+
+(circuito de captura)
+
 (TODO)
 
 ## Biestables D en paralelo
