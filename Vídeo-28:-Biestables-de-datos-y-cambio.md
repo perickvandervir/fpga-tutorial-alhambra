@@ -178,7 +178,7 @@ Además del **reloj del sistema**, el biestable D tiene una **entrada de un bit*
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Datos-02.gif)
 
-## Ejemplo 4: Capturando un 1
+## Ejemplo 5-1: Capturando un 1
 
 Para ver en la práctica el **funcionamiento del biestable D**, empezamos por un ejemplo muy sencillo, que **captura un bit 1 constante** al apretar un **pulsador**. Una vez capturado, hay que pulsar el **reset de la placa** para volver al estado inicial y repetir el experimento
 
@@ -191,6 +191,8 @@ Al **apretar el pulsador** se genera un **tic** que hace que el biestable **capt
 Lo **cargamos** y lo **probamos**. Si apretamos varias veces el pulsador no ocurre nada: el LED sigue encendido porque se están capturando unos
 
 [![Click to see the youtube video](http://img.youtube.com/vi/ohMgFBgZRlg/0.jpg)](https://www.youtube.com/watch?v=ohMgFBgZRlg)
+
+## Ejemplo 5-2: Capturando un 0
 
 (Mismo ejemplo pero capturando un 0)
 
