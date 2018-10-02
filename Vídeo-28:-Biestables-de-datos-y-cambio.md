@@ -203,7 +203,9 @@ Lo **cargamos** y lo **probamos**
 
 [![Click to see the youtube video](http://img.youtube.com/vi/o62mK_SpjEI/0.jpg)](https://www.youtube.com/watch?v=o62mK_SpjEI)
 
-(Ejemplo 6: Capturando un dato genérico)
+## Ejemplo 6: Capturando un dato genérico
+
+(TODO)
 
 ## Biestables D en paralelo
 
