@@ -29,6 +29,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Biestables de datos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-28:-Biestables-de-datos-y-cambio#biestables-de-datos)
   * [Ejemplo 5-1: Capturando un 1](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-28:-Biestables-de-datos-y-cambio#ejemplo-5-1-capturando-un-1)
   * [Ejemplo 5-2: Capturando un 0](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-28:-Biestables-de-datos-y-cambio#ejemplo-5-2-capturando-un-0)
+  * [Ejemplo 6: Capturando un dato genérico](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-28:-Biestables-de-datos-y-cambio#ejemplo-6-capturando-un-dato-gen%C3%A9rico)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
