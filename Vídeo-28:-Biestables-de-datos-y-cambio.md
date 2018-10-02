@@ -215,7 +215,7 @@ El LED al lado del interruptor nos muestra el **dato a capturar**, y el LED junt
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Datos-06.png)
 
-Lo **cargamos** y lo **probamos**
+Lo **cargamos** y lo **probamos**. ¡Nuestra primera captura de un dato genérico!
 
 [![Click to see the youtube video](http://img.youtube.com/vi/GJ9FqUe0TTA/0.jpg)](https://www.youtube.com/watch?v=GJ9FqUe0TTA)
 
