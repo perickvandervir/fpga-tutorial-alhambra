@@ -201,10 +201,7 @@ Ahora haremos el ejemplo opuesto: **Capturar un 0**. Utilizaremos el parámetro 
 
 Lo **cargamos** y lo **probamos**
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-
-(Vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/o62mK_SpjEI/0.jpg)](https://www.youtube.com/watch?v=o62mK_SpjEI)
 
 (Ejemplo 6: Capturando un dato genérico)
 
