@@ -188,7 +188,9 @@ Al **apretar el pulsador** se genera un **tic** que hace que el biestable **capt
 
 ![](https://raw.githubusercontent.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/master/wiki/Tutorial-28/Cambio-04.png)
 
-(vídeo)
+Lo **cargamos** y lo **probamos**. Si apretamos varias veces el pulsador no ocurre nada: el LED sigue encendido porque se están capturando unos
+
+[![Click to see the youtube video](http://img.youtube.com/vi/ohMgFBgZRlg/0.jpg)](https://www.youtube.com/watch?v=ohMgFBgZRlg)
 
 (Mismo ejemplo pero capturando un 0)
 
