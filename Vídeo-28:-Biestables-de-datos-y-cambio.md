@@ -186,7 +186,7 @@ Para ver en la práctica el **funcionamiento del biestable D**, empezamos por un
 
 Al **apretar el pulsador** se genera un **tic** que hace que el biestable **capture el 1 de su entrada**. Una vez almacenado, el LED conectado a su salida se **enciende**. En el **montaje** sólo tenemos un **pulsador** y un **LED**
 
-(Montaje)
+![](https://raw.githubusercontent.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/master/wiki/Tutorial-28/Cambio-04.png)
 
 (vídeo)
 
