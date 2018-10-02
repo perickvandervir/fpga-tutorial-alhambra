@@ -27,6 +27,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 3: Divisor de frecuencia ](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-28:-Biestables-de-datos-y-cambio#ejemplo-3-divisor-de-frecuencia)
   * [Ejemplo 4: Encadenamiento de biestables de cambio](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-28:-Biestables-de-datos-y-cambio#encadenamiento-de-biestables-de-cambio)
 * [Biestables de datos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-28:-Biestables-de-datos-y-cambio#biestables-de-datos)
+  * [Ejemplo 4: Capturando un 1](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-28:-Biestables-de-datos-y-cambio#ejemplo-4-capturando-un-1)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
