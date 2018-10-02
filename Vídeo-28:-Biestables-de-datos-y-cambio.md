@@ -169,6 +169,10 @@ Lo **cargamos** y lo **probamos**
 
 # Biestables de Datos
 
+Los **biestables D** se usan para almacenar **datos**, y retenerlos hasta que lleguen los siguientes. En el bloque de icestudio usamos el icono de una **chincheta** para representar esta idea de **fijar** datos:
+
+(Dibujo)
+
 (TODO)
 
 # Ejercicios propuestos (20 BitPoints)
