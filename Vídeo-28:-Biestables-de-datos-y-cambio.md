@@ -199,7 +199,12 @@ Ahora haremos el ejemplo opuesto: **Capturar un 0**. Utilizaremos el parámetro 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Datos-04.png)
 
-(Mismo ejemplo pero capturando un 0)
+Lo **cargamos** y lo **probamos**
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+
+(Vídeo)
 
 (Ejemplo 6: Capturando un dato genérico)
 
