@@ -177,6 +177,8 @@ Además del **reloj del sistema**, el biestable D tiene una **entrada de un bit*
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Datos-02.gif)
 
+## Ejemplo 4: Capturando un 1
+
 (TODO)
 
 # Ejercicios propuestos (20 BitPoints)
