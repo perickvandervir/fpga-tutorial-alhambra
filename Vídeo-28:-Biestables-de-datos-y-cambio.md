@@ -216,11 +216,7 @@ El LED al lado del interruptor nos muestra el **dato a capturar**, y el LED junt
 
 Lo **cargamos** y lo **probamos**
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-(Vídeo)
-
-(TODO)
+[![Click to see the youtube video](http://img.youtube.com/vi/GJ9FqUe0TTA/0.jpg)](https://www.youtube.com/watch?v=GJ9FqUe0TTA)
 
 ## Biestables D en paralelo
 
