@@ -34,6 +34,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Ejemplo 7: Capturando un dato de 3 bits](#ejemplo-7-capturando-un-dato-de-3-bits)
 * [Desplazamiento de bits](#desplazamiento-de-bits)
   * [Desplazamientos básicos](#desplazamientos-b%C3%A1sicos)
+    * [Ejemplo 8: Desplazamiento de 3 bits](#ejemplo-8-desplazamiento-de-3-bits)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
