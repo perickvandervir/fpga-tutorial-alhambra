@@ -257,6 +257,8 @@ Los desplazamientos se realizan mediante el **encadenamiento de Biestables D**, 
 
 Como ejemplo de **desplazamiento** de bits implementaremos la animación anterior. Cada vez que se apriete un **pulsador** el bit se moverá **una posición a la derecha**. En el **montaje** tenemos el **pulsador** y **tres LEDs**, cada uno conectado a la salida de un **Biestable D**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-02.png)
+
 (TODO)
 
 (Ejemplo 9) Anillo
