@@ -263,6 +263,8 @@ El circuito está formado por **3 biestables D** encadenados, cuyas salidas se s
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-03.png)
 
+(Vídeo)
+
 (TODO)
 
 (Ejemplo 9) Anillo
