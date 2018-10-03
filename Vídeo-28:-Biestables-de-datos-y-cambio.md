@@ -257,7 +257,28 @@ Los desplazamientos se realizan mediante el **encadenamiento de Biestables D**, 
 
 (TODO)
 
+(Ejemplo 9) Anillo
+
+## Multiplicaciones básicas por 2
+
+(Ejemplo 10) Multiplicacion x2
+
+## Conversión serie-paralelo
+
+(Ejemplo 11)
+
+## Conversión paralelo-serie
+
+(Ejemplo 12)
+
+
 # Ejercicios propuestos (20 BitPoints)
+
+(TODO)
+
+Ej1: Apertura caja fuerte con código
+Ej2: Mini calculadora que multiplica por 2
+Ej3: Transmisión - recepció serie (completo)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
