@@ -32,7 +32,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 6: Capturando un dato genérico](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-28:-Biestables-de-datos-y-cambio#ejemplo-6-capturando-un-dato-gen%C3%A9rico)
   * [Biestables D en paralelo](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-28:-Biestables-de-datos-y-cambio#biestables-d-en-paralelo)
     * [Ejemplo 7: Capturando un dato de 3 bits](#ejemplo-7-capturando-un-dato-de-3-bits)
-  * [Biestables D encadenados (Conexión en serie)](#biestables-d-encadenados-conexi%C3%B3n-en-serie)
+* [Desplazamiento de bits](#desplazamiento-de-bits)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
