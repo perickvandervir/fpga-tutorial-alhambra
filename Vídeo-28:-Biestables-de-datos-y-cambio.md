@@ -265,13 +265,11 @@ El circuito está formado por **3 biestables D** encadenados, cuyas salidas se s
 
 Lo **cargamos** y lo **probamos**. El **LED 1** está encendido inicialmente. El dato inicial es **100**. Al apretar el botón se desplaza un bit a la izquierda, obteniéndose el **010**. Al apretar otra vez, el **001** y finalmente el **000**. El '1' se ha desplazado hacia la derecha
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/AxTHelRvFn8/0.jpg)](https://www.youtube.com/watch?v=AxTHelRvFn8)
 
-(Vídeo)
+### Ejemplo 9: Conexión en anillo
 
 (TODO)
-
-(Ejemplo 9) Anillo
 
 ## Multiplicaciones básicas por 2
 
