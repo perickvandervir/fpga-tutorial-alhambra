@@ -35,7 +35,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * [Desplazamiento de bits](#desplazamiento-de-bits)
   * [Desplazamientos básicos](#desplazamientos-b%C3%A1sicos)
     * [Ejemplo 8: Desplazamiento de bits con el pulsador](#ejemplo-8-desplazamiento-de-bits-con-el-pulsador)
-    * [Ejemplo 9: Conexión en anillo](h#ejemplo-9-conexi%C3%B3n-en-anillo)
+    * [Ejemplo 9: Conexión en anillo](#ejemplo-9-conexi%C3%B3n-en-anillo)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
