@@ -249,7 +249,7 @@ Los **biestables D** nos permiten realizar **desplazamientos de bits**. Esta es 
 
 Los desplazamientos se realizan mediante el **encadenamiento de Biestables D**, también conocido como **conexión en serie**. Los bits pasan de un biestable al siguiente cuando reciben el **tic de captura**. Hay un **desplazamiento físico** real, de los bits, como se muestra en esta **animación**
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-01.gif)
 
 (TODO)
 
