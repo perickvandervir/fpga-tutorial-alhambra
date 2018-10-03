@@ -259,6 +259,10 @@ Como ejemplo de **desplazamiento** de bits implementaremos la animación anterio
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-02.png)
 
+El circuito está formado por **3 biestables D** encadenados, cuyas salidas se sacan por **LEDs**. Todas sus señales de **load** están unidas y controladas simultáneamente mediante el **pulsador**. El biestable de la izquierda está **inicializado** a **1** y por su entrada de datos le llegan ceros. Los restantes biestables están inicializados a 0 
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-03.png)
+
 (TODO)
 
 (Ejemplo 9) Anillo
