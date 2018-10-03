@@ -252,6 +252,8 @@ Los desplazamientos se realizan mediante el **encadenamiento de Biestables D**, 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-01.gif)
 
+### Ejemplo 8: Desplazamiento de 3 bits
+
 (TODO)
 
 # Ejercicios propuestos (20 BitPoints)
