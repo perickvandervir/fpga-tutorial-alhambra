@@ -263,6 +263,10 @@ El circuito está formado por **3 biestables D** encadenados, cuyas salidas se s
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-03.png)
 
+Lo **cargamos** y lo **probamos**. El **LED 1** está encendido inicialmente. El dato inicial es **100**. Al apretar el botón se desplaza un bit a la izquierda, obteniéndose el **010**. Al apretar otra vez, el **001** y finalmente el **000**. El '1' se ha desplazado hacia la derecha
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
 (Vídeo)
 
 (TODO)
