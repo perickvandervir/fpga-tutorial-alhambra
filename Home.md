@@ -65,8 +65,8 @@ Estudiante que se encuentran cursando el **tercer año** de la **academia de Har
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/19-Jedi-N1-min.png)|    Andrés (@Avarez_) | Jedi Nivel 1| 455 (+13)| T27 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/19-Jedi-N1-min.png)|   Joaquín Cubillo (jcubilloarr) | Jedi Nivel 1| 455 (+10)| T27 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/19-Jedi-N1-min.png)|    Roberto del campo (@Robertodcrsj, robertou2)  | Jedi Nivel 1| 455| T27 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/19-Jedi-N1-min.png)|    Manuel Andújar (Matalobo)  | Jedi Nivel 1| 455/435 | T27 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi-min.png)|     Ximo Catala (Ximocat) | Jedi| 435 (+80)| T26 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi-min.png)|    Manuel Andújar (Matalobo) | Jedi| 431/435| T26 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi-min.png)|     Gut-mart | Jedi| 410 (+405)| T25 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi-min.png)|     Talud08 (@javivicen) | Jedi| 410 (+30)| T25 |
 
