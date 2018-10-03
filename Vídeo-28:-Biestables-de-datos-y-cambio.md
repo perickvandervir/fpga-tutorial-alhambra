@@ -241,7 +241,7 @@ Lo **cargamos** y lo **probamos**. Introducimos los **números en binario** por 
 
 [![Click to see the youtube video](http://img.youtube.com/vi/DF8t8AawiAo/0.jpg)](https://www.youtube.com/watch?v=DF8t8AawiAo)
 
-## Biestables D encadenados (conexión en serie)
+# Desplazamiento de Bits
 
 (TODO)
 
