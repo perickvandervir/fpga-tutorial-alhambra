@@ -243,6 +243,14 @@ Lo **cargamos** y lo **probamos**. Introducimos los **números en binario** por 
 
 # Desplazamiento de Bits
 
+Los **biestables D** nos permiten realizar **desplazamientos de bits**. Esta es una operación importantísima, que usamos para implementar operaciones aritméticas como la **multiplicación** o **división** entre **2**, o la **conversión de serie a paralelo** y paralelo a serie entre otras
+
+## Desplazamientos básicos
+
+Los desplazamientos se realizan mediante el **encadenamiento de Biestables D**, también conocido como **conexión en serie**. Los bits pasan de un biestable al siguiente cuando reciben el **tic de captura**. Hay un **desplazamiento físico** real, de los bits, como se muestra en esta **animación**
+
+(Animación)
+
 (TODO)
 
 # Ejercicios propuestos (20 BitPoints)
