@@ -280,9 +280,7 @@ Para probarlo, **conectaremos** el circuito del **ejemplo** anterior en **anillo
 
 Lo **cargamos** y lo **probamos**. Al apretar por tercera vez el pulsador, se regresa al estado inicial, y se vuelve a comenzar
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-(TODO)
+[![Click to see the youtube video](http://img.youtube.com/vi/aEfeunf8DqM/0.jpg)](https://www.youtube.com/watch?v=aEfeunf8DqM)
 
 ## Multiplicaciones básicas por 2
 
