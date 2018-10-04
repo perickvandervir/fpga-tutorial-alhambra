@@ -308,7 +308,7 @@ El circuito es el mismo que el del ejemplo 8: tres **biestables D encadenados**.
 
 Lo **cargamos** y lo **probamos**. Comprobamos que inicialmente aparece el **1**. Al apretar vemos el **2**, y luego el **4**. Para volver a la **situación inicial** pulsamos el **reset de la placa**
 
-(Vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/mszYjCyN4xo/0.jpg)](https://www.youtube.com/watch?v=mszYjCyN4xo)
 
 Si inicializamos los biestables con el valor **011** (3), al apretar obtendremos el **110** (6). Este método nos funciona con cualquier número binario. Sin embargo, su visualización la tenemos limitada por usar sólo un display de 7 segmentos
 
