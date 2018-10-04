@@ -274,7 +274,7 @@ Igual que ya hicimos con los temporizadores en el [tutorial 26](https://github.c
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-04.gif)
 
-Para probarlo, **conectaremos** el circuito del **ejemplo** anterior en **anillo**: 
+Para probarlo, **conectaremos** el circuito del **ejemplo** anterior en **anillo**, de manera que el dato que llega al biestable de la izquierda es la salida del último, en lugar de 0 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-05.png)
 
