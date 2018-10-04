@@ -295,6 +295,13 @@ La regla es: **Para multiplicar cualquier número binario por dos, sólo hay que
 
 ### Ejemplo 10: Multiplicación por 2 básica
 
+**Implementaremos** un circuito para hacer las multiplicaciones por dos mostradas en la **animación**: partimos del número 1, y al multiplicarlo por 2 obtendremos 2, y al volver a multiplicar obtenemos 4
+
+En el escenario tenemos un **display de 7 segmentos** para ver el resultado en **decimal**, y **tres LEDs** para ver el **número en binario**. Al apretar el **pulsador** se hace una **multiplicación por dos**. En el display inicialmente hay un **1**, al apretar el pulsador aparece un **2** y luego un **4**
+
+(Escenario)
+
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-06.png)
 
 
