@@ -278,9 +278,9 @@ Para probarlo, **conectaremos** el circuito del **ejemplo** anterior en **anillo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-05.png)
 
-(Circuito)
+Lo **cargamos** y lo **probamos**. Al apretar por tercera vez el pulsador, se regresa al estado inicial, y se vuelve a comenzar
 
-(Vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 (TODO)
 
