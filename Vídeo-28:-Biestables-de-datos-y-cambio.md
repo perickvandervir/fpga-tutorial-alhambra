@@ -300,14 +300,18 @@ La regla es: **Para multiplicar cualquier número binario por dos, sólo hay que
 
 En el escenario tenemos un **display de 7 segmentos** para ver el resultado en **decimal**, y **tres LEDs** para ver el **número en binario**. Al apretar el **pulsador** se hace una **multiplicación por dos**. En el display inicialmente hay un **1**, al apretar el pulsador aparece un **2** y luego un **4**
 
-(Escenario)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-08.png)
 
+El circuito es el mismo que el del ejemplo 8: tres **biestables D encadenados**. El de menor peso está inicializado a **1**. Están conectados a un **display de 7** segmentos para mostrar el número en decimal, y a tres **LEDs** para verlo en binario. Cada vez que se aprieta el pulsador, los bits se desplazan hacia el bit de mayor peso, realizando la multiplicación por 2
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-06.png)
 
+Lo **cargamos** y lo **probamos**. Comprobamos que inicialmente aparece el **1**. Al apretar vemos el **2**, y luego el **4**. Para volver a la **situación inicial** pulsamos el **reset de la placa**
 
+(Vídeo)
 
-(Ejemplo 10) Multiplicacion x2
+Si inicializamos los biestables con el valor **011** (3), al apretar obtendremos el **110** (6). Este método nos funciona con cualquier número binario. Sin embargo, su visualización la tenemos limitada por usar sólo un display de 7 segmentos
+
 
 ## Conversión serie-paralelo
 
