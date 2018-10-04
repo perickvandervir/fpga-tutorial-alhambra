@@ -284,6 +284,16 @@ Lo **cargamos** y lo **probamos**. Al apretar por tercera vez el pulsador, se re
 
 ## Multiplicaciones básicas por 2
 
+En el **sistema de numeración decimal**, el que usamos normalmente, hay una operación que es muy sencilla de hacer: la **multiplicación por 10**. Basta con añadir un cero por la derecha. O lo que sería lo mismo: desplazar el dígito hacia la izquierda: Así, si tenemos el número 3, al multiplicarlo por 10 queda 30
+
+De igual modo, en el **sistema binario** existe una operación **muy fácil de realizar**: la **multiplicación por 2**. Sólo hay que **desplazar los dígitos** en la dirección de los de mayor peso. Así, si tenemos el número binario **001**, al desplazarlo un bit a la izquierda tenemos: **010** (2), y si lo desplazamos nuevamente tendremos **100** (que es 4)
+
+La regla es: **Para multiplicar cualquier número binario por dos, sólo hay que desplazarlo un bit a la izquierda, y añadir un cero en la derecha**. 
+
+### Ejemplo 10: Multiplicación por 2 básica
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-06.png)
+
 (Ejemplo 10) Multiplicacion x2
 
 ## Conversión serie-paralelo
