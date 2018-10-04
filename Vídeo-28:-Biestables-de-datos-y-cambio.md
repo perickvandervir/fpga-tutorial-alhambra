@@ -40,6 +40,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Ejemplo 10: Multiplicación por 2 básica](#ejemplo-10-multiplicaci%C3%B3n-por-2-b%C3%A1sica)
   * [Conversión serie-paralelo](#conversi%C3%B3n-serie-paralelo)
     * [Ejemplo 11: Conversión serie-paralelo de un número de 3 bits](#ejemplo-11-conversi%C3%B3n-serie-paralelo-de-un-n%C3%BAmero-de-3-bits)
+  * [Conversión paralelo-serie](#conversi%C3%B3n-paralelo-serie)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
