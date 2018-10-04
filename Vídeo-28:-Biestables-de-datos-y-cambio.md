@@ -312,10 +312,19 @@ Lo **cargamos** y lo **probamos**. Comprobamos que inicialmente aparece el **1**
 
 Si inicializamos los biestables con el valor **011** (3), al apretar obtendremos el **110** (6). Este método nos funciona con cualquier número binario. Sin embargo, su visualización la tenemos limitada por usar sólo un display de 7 segmentos
 
-
 ## Conversión serie-paralelo
 
-(Ejemplo 11)
+(Intro)
+
+(Animación)
+
+(Ejemplo 11): Descp
+
+Escenario
+
+Circuito
+
+Vídeo
 
 ## Conversión paralelo-serie
 
