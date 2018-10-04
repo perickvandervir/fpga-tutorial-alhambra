@@ -321,7 +321,11 @@ Una forma de hacerlo es colocando **biestables encadenados** para recibir los **
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-01.gif)
 
-(Ejemplo 11): Descp
+Primero se recibe el número **101**, bit a bit, y se introduce en los biestables serie. Luego esos bits se cargan en paralelo en los otros biestables, cuyas salidas están conectadas al display de 7 segmentos, y permiten ver el númmero recibido en decimal
+
+### Ejemplo 11: Conversión serie-paralelo de un número de 3 bits
+
+Haremos un **circuito** para implementar la animación anterior, en la que se recibe por serie el **número 5** y se muestra en el **display** de 7 segmentos.  El proceso lo haremos "manualmente" mediante pulsadores. En el montaje hay  **tres pulsadores**, **cuatro LEDs** y el **display**
 
 Escenario
 
