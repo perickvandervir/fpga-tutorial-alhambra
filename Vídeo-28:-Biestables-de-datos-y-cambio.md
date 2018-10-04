@@ -315,7 +315,9 @@ Si inicializamos los biestables con el valor **011** (3), al apretar obtendremos
 
 ## Conversión serie-paralelo
 
-(Intro)
+En muchos **periféricos** el envío de los bits se hace en **serie**: uno detrás de otro, como en los buses I2C, SPI, comunicaciones serie asíncronas, etc. Para procesarlos en nuestros circuitos necesitamos almacenarlos en paralelo, colocando un bit en cada **biestable D**. Es lo que se denomina **conversión serie-paralelo**.
+
+Una forma de hacerlo es colocando **biestables encadenados** para recibir los **datos en serie**, y luego **biestables D** para su carga en paralelo y almacenamiento. En este animación se muestra un ejemplo de **recepción** de un dato serie de **3 bits**
 
 (Animación)
 
