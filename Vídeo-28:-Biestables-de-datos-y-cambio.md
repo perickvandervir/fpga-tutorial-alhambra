@@ -336,8 +336,7 @@ Con el **pulsador 1** establecemos el valor del bit serie y se muestra en el LED
 
 Lo **cargamos** y lo **probamos**. Usamos los mismos datos que en la animación: introducimos los bits serie **101**. Por cada bit pulsamos el botón de desplazamiento y por último el de carga
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
+[![Click to see the youtube video](http://img.youtube.com/vi/AMaEM1yzPgI/0.jpg)](https://www.youtube.com/watch?v=AMaEM1yzPgI)
 
 ## Conversión paralelo-serie
 
