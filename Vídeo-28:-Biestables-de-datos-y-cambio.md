@@ -328,7 +328,7 @@ Primero se recibe el número **101**, bit a bit, y se introduce en los biestable
 
 Haremos un **circuito** para implementar la animación anterior, en la que se recibe por serie el **número 5** y se muestra en el **display** de 7 segmentos.  El proceso lo haremos "manualmente" mediante pulsadores. En el montaje hay  **tres pulsadores**, **cuatro LEDs** y el **display**
 
-Escenario
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-08.png)
 
 Circuito
 
