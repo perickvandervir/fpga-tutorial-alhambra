@@ -272,7 +272,7 @@ Lo **cargamos** y lo **probamos**. El **LED 1** está encendido inicialmente. El
 
 Igual que ya hicimos con los temporizadores en el [tutorial 26](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-26:-Tiempo,-tics-y-temporizadores#encadenamiento-en-anillo), los **biestables D** los podemos conectar formando **un anillo**, en el que el **último** está conectado con **el primero**. Los datos que están almacenados se van moviendo de un biestable a otro, con cada tic, formando un **bucle físico**
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-04.gif)
 
 (Circuito)
 
