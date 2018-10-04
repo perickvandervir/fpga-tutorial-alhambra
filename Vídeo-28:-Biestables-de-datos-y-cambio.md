@@ -319,7 +319,7 @@ En muchos **periféricos** el envío de los bits se hace en **serie**: uno detr�
 
 Una forma de hacerlo es colocando **biestables encadenados** para recibir los **datos en serie**, y luego **biestables D** para su carga en paralelo y almacenamiento. En este animación se muestra un ejemplo de **recepción** de un dato serie de **3 bits**
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-01.gif)
 
 (Ejemplo 11): Descp
 
