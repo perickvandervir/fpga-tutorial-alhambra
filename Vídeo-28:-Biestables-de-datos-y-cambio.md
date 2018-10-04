@@ -289,11 +289,15 @@ En el **sistema de numeración decimal**, el que usamos normalmente, hay una ope
 
 De igual modo, en el **sistema binario**, que es el que usan los circuitos digitales, existe una operación **muy fácil de realizar**: la **multiplicación por 2**. Sólo hay que **desplazar los dígitos** en la dirección de los de mayor peso. Así, si tenemos el número binario **001**, al desplazarlo un bit a la izquierda tenemos: **010** (2), y si lo desplazamos nuevamente tendremos **100** (que es 4)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-07.gif)
+
 La regla es: **Para multiplicar cualquier número binario por dos, sólo hay que desplazarlo un bit a la izquierda, y añadir un cero en la derecha**. Para hacer **divisiones entre 2** es lo mismo, pero desplazando en la dirección opuesta
 
 ### Ejemplo 10: Multiplicación por 2 básica
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-06.png)
+
+
 
 (Ejemplo 10) Multiplicacion x2
 
