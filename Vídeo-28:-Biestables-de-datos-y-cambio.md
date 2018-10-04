@@ -274,6 +274,10 @@ Igual que ya hicimos con los temporizadores en el [tutorial 26](https://github.c
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-04.gif)
 
+Para probarlo, **conectaremos** el circuito del **ejemplo** anterior en **anillo**: 
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-05.png)
+
 (Circuito)
 
 (Vídeo)
