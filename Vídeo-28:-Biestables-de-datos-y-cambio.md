@@ -328,9 +328,11 @@ Primero se recibe el número **101**, bit a bit, y se introduce en los biestable
 
 Haremos un **circuito** para implementar la animación anterior, en la que se recibe por serie el **número 5** y se muestra en el **display** de 7 segmentos.  El proceso lo haremos "manualmente" mediante pulsadores. En el montaje hay  **tres pulsadores**, **cuatro LEDs** y el **display**
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/shift-08.png)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-02.png)
 
-Circuito
+Con el **pulsador 1** establecemos el valor del bit serie y se muestra en el LED de su derecha. Cada vez que se aprieta el pulsador 2, se hace el desplazamiento, tomándose el bit serie e introduciéndolo en el bit 0 (que se muestra en el led amarillo de la derecha). Esta operación de establecer el bit serie y hacer el desplazamiento se repite dos veces más hasta recibir los **bits 1** y **2**. Por último, con el **botón 3** se carga el valor recibido y se muestra en el display de 7 segmentos. El circuito es el siguiente:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-03.png)
 
 Vídeo
 
