@@ -38,7 +38,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Ejemplo 9: Conexión en anillo](#ejemplo-9-conexi%C3%B3n-en-anillo)
   * [Multiplicaciones por 2](#multiplicaciones-por-2)
     * [Ejemplo 10: Multiplicación por 2 básica](#ejemplo-10-multiplicaci%C3%B3n-por-2-b%C3%A1sica)
-* [Conversión serie-paralelo](#conversi%C3%B3n-serie-paralelo)
+  * [Conversión serie-paralelo](#conversi%C3%B3n-serie-paralelo)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
