@@ -36,6 +36,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Desplazamientos básicos](#desplazamientos-b%C3%A1sicos)
     * [Ejemplo 8: Desplazamiento de bits con el pulsador](#ejemplo-8-desplazamiento-de-bits-con-el-pulsador)
     * [Ejemplo 9: Conexión en anillo](#ejemplo-9-conexi%C3%B3n-en-anillo)
+  * [Multiplicaciones básicas](#multiplicaciones-b%C3%A1sicas-por-2)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
@@ -282,7 +283,7 @@ Lo **cargamos** y lo **probamos**. Al apretar por tercera vez el pulsador, se re
 
 [![Click to see the youtube video](http://img.youtube.com/vi/aEfeunf8DqM/0.jpg)](https://www.youtube.com/watch?v=aEfeunf8DqM)
 
-## Multiplicaciones básicas por 2
+## Multiplicaciones por 2
 
 En el **sistema de numeración decimal**, el que usamos normalmente, hay una operación que es muy sencilla de hacer: la **multiplicación por 10**. Basta con añadir un cero por la derecha. O lo que sería lo mismo: desplazar el dígito hacia la izquierda: Así, si tenemos el número 3, al multiplicarlo por 10 queda 30
 
