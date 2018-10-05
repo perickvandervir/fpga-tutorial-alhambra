@@ -348,7 +348,7 @@ Cuando queremos **enviar datos** desde nuestros circuitos a periféricos que tie
 
 En esta **animación** se muestran estas dos fases, aplicadas al envío serie del dato **101** en binario
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-04.gif)
 
 (Configuración de los biestables: doble entrada)
 
