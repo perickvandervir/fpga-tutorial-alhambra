@@ -341,6 +341,17 @@ Lo **cargamos** y lo **probamos**. Usamos los mismos datos que en la animación:
 
 ## Conversión paralelo-serie
 
+Cuando queremos **enviar datos** desde nuestros circuitos a periféricos que tienen una **interfaz serie** (como I2C, SPI, puerto serie...) necesitamos pasar los datos de **paralelo a serie**, para enviarlos **bit** a **bit**. Esta conversión se hace en dos fases: 
+
+* **Fase de carga**:  carga del dato a enviar en los biestables encadenados
+* **Fase de desplazamiento**: Desplazamiento de los bits de los biestables encadenados, para enviar un bit tras otro 
+
+En esta **animación** se muestran estas dos fases, aplicadas al envío serie del dato **101** en binario
+
+(Animación)
+
+(Configuración de los biestables: doble entrada)
+
 (Ejemplo 12)
 
 
