@@ -361,7 +361,7 @@ Durante la **fase de carga**, se selecciona el **bit del exterior** (sel = 1), y
 
 Implementaremos un circuito que pase a **serie** un número de 3 bits. El montaje tiene **dos pulsadores**, uno para **cargar** y otro para **desplazar**, **tres interruptores** para introducir el dato en paralelo, **4 LEDs** para mostrar los **biestables de desplazamiento** y un **display de 7 segmentos** para mostrar en decimal el **dato cargado**, que se quiere enviar
 
-(Dibujo del montaje)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-06.png)
 
 (Diseño del circuito)
 
