@@ -357,9 +357,15 @@ El dato que llega a cada biestable proviene de **dos fuentes** diferentes: del *
 
 Durante la **fase de carga**, se selecciona el **bit del exterior** (sel = 1), y durante la **fase de desplazamiento** el bit del **biestable anterior** (sel = 0)
 
-### Ejemplo 12: Conversión a serie del dato 101
+### Ejemplo 12: Conversión a serie de un número de 3 bits
 
-(Ejemplo 12)
+Implementaremos un circuito que pase a **serie** un número de 3 bits. El montaje tiene **dos pulsadores**, uno para **cargar** y otro para **desplazar**, **tres interruptores** para introducir el dato en paralelo, **4 LEDs** para mostrar los ***biestables de desplazamiento** y un **display de 7 segmentos** para mostrar en decimal el dato cargado, que se quiere enviar
+
+(Dibujo del montaje)
+
+(Diseño del circuito)
+
+(Vídeo)
 
 
 # Ejercicios propuestos (20 BitPoints)
