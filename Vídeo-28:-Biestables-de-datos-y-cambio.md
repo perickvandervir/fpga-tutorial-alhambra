@@ -359,7 +359,7 @@ Durante la **fase de carga**, se selecciona el **bit del exterior** (sel = 1), y
 
 ### Ejemplo 12: Conversión a serie de un número de 3 bits
 
-Implementaremos un circuito que pase a **serie** un número de 3 bits. El montaje tiene **dos pulsadores**, uno para **cargar** y otro para **desplazar**, **tres interruptores** para introducir el dato en paralelo, **4 LEDs** para mostrar los **biestables de desplazamiento** y un **display de 7 segmentos** para mostrar en decimal el dato cargado, que se quiere enviar
+Implementaremos un circuito que pase a **serie** un número de 3 bits. El montaje tiene **dos pulsadores**, uno para **cargar** y otro para **desplazar**, **tres interruptores** para introducir el dato en paralelo, **4 LEDs** para mostrar los **biestables de desplazamiento** y un **display de 7 segmentos** para mostrar en decimal el **dato cargado**, que se quiere enviar
 
 (Dibujo del montaje)
 
