@@ -350,7 +350,7 @@ En esta **animación** se muestran estas dos fases, aplicadas al envío serie de
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-04.gif)
 
-El dato que llega a cada biestable proviene de **dos fuentes** diferentes: del **biestable D encadenado** anterior, o bien del exterior. Para elegir en cada momento qué dato debe capturar el biestable colocamos un **multiplexor 2:1** de un bit en su entrada:
+El dato que llega a cada biestable proviene de **dos fuentes** diferentes: del **biestable D encadenado** anterior, o bien del exterior. Para elegir en cada momento qué dato debe capturar el biestable colocamos un **multiplexor 2:1**  en su entrada:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-05.png)
 
