@@ -41,7 +41,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Conversión serie-paralelo](#conversi%C3%B3n-serie-paralelo)
     * [Ejemplo 11: Conversión serie-paralelo de un número de 3 bits](#ejemplo-11-conversi%C3%B3n-serie-paralelo-de-un-n%C3%BAmero-de-3-bits)
   * [Conversión paralelo-serie](#conversi%C3%B3n-paralelo-serie)
-    * [Ejemplo 2: Conversión a serie del dato 101](#ejemplo-12-conversi%C3%B3n-a-serie-de-un-n%C3%BAmero-de-3-bits)
+    * [Ejemplo 2: Conversión a serie de un número de 3 bits](#ejemplo-12-conversi%C3%B3n-a-serie-de-un-n%C3%BAmero-de-3-bits)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
