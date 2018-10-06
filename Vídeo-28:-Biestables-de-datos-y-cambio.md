@@ -354,6 +354,10 @@ El dato que llega a cada biestable proviene de **dos fuentes** diferentes: del *
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-05.png)
 
+Durante la **fase de carga**, se selecciona el **bit del exterior** (sel = 1), y durante la **fase de desplazamiento** el bit del **biestable anterior** (sel = 0)
+
+### Ejemplo 12: Envío serie del dato 101
+
 (Ejemplo 12)
 
 
