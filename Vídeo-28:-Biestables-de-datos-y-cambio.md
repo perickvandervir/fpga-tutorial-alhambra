@@ -357,7 +357,7 @@ El dato que llega a cada biestable proviene de **dos fuentes** diferentes: del *
 
 Durante la **fase de carga**, se selecciona el **bit del exterior** (sel = 1), y durante la **fase de desplazamiento** el bit del **biestable anterior** (sel = 0)
 
-### Ejemplo 12: Envío serie del dato 101
+### Ejemplo 12: Conversión a serie del dato 101
 
 (Ejemplo 12)
 
