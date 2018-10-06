@@ -363,6 +363,8 @@ Implementaremos un circuito que pase a **serie** un número de 3 bits. El montaj
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-06.png)
 
+El funcionamiento es el siguiente: Primero se introduce el **dato en paralelo** en los **interruptores**. Al apretarse el **botón de captura** se carga el valor y se muestra en **decimal** en el **display** y en **binario** en los 3 **LEDs**. Con el **botón 2** se realiza un **desplazamiento de un bit** hacia la izquierda. El bit serie saliente se muestra en el **cuarto LED** (en la izquierda)
+
 (Diseño del circuito)
 
 (Vídeo)
