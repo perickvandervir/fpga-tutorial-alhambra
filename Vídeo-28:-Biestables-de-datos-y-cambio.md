@@ -373,6 +373,10 @@ Colocamos los otros **dos biestables D**, **encadenados** con el primero, con la
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-08.png)
 
+Añadimos un biestable D más al final, que es el que contiene el **bit serie recibido**. Este biestable sólo se carga cuando hay desplazamiento, para recibir el bit que llega, por eso lo conectamos directamente al **botón de desplazamiento**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-09.png)
+
 
 (Circuito 1)
 
