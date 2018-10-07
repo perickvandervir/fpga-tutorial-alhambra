@@ -381,10 +381,12 @@ El **dato** que llega de los **interruptores** los guardamos en **3 Biestables D
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-10.png)
 
+Por último combinamos los **6 biestables** y obtenemos el **circuito final**
 
-(Circuito 1)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-11.png)
 
-(Diseño del circuito)
+Lo **cargamos** y lo **probamos**
+
 
 (Vídeo)
 
