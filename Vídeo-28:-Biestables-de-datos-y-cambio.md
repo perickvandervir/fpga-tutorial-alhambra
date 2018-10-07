@@ -385,7 +385,9 @@ Por último combinamos los **6 biestables** y obtenemos el **circuito final**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-11.png)
 
-Lo **cargamos** y lo **probamos**
+Lo **cargamos** y lo **probamos**. En este ejemplo se carga primero el número **101** (5) y se desplaza. Luego se hace lo mismo con el **001**
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 
 (Vídeo)
