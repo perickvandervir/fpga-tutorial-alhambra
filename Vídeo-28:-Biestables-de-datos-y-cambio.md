@@ -406,6 +406,12 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 28.2** (Total **5 Bitpoints**): Mini-calculadora que multiplica por 2
 
+Diseñar una **mini-calculadora**, de 3 bits, que realiza una única operación: **multiplicar por dos**. Se introduce el dato de 3 bits mediante **3 pulsadores externos** y se pulsa la **tecla de carga** para itroducirlo. Se muestra en el **display**. A contiuación si se pulsa la **tecla de multiplicación** se multiplicará por dos y se muestra el resultado en el display. Como se usan pocos bits, **la multiplicación sólo se puede usar 1 veces después de cargar**. Si se aprieta varias veces el botón de multiplicación sólo tendrá efecto la primera vez. Y no folverá a funcionar hasta realizar una nueva carga.
+
+Utilizar el decodificador de 7 seg **DisplayHex**, que permite visualizar 4 bits en hexadecimal. Así, por ejemplo, si se multiplica 5 * 2 se obtendrá el dígito A (10 en hexa)
+
+En este [Vídeo de Youtube](https://www.youtube.com/watch?v=GNUIOgodDQY) se muestra un ejemplo de funcionamiento. Primero se prueba con el número uno, y el resultado es 2. Luego con 3, y sale 6. Después con 4, que da 8, luego con 5, y sale A (10) y finalmente con 7, que sale d (14). Si se aprieta varias veces el botón de multiplicación no tiene efecto
+
 [![Click to see the youtube video](http://img.youtube.com/vi/PqVvVQ5D3nc/0.jpg)](https://www.youtube.com/watch?v=PqVvVQ5D3nc)
 
 * **Ejercicio 28.3** (Total **5 Bitpoints**): Transmisor-receptor serie de 3 bits
