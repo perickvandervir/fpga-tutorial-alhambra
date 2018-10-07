@@ -369,6 +369,10 @@ El funcionamiento es el siguiente: Primero se introduce el **dato en paralelo** 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-07.png)
 
+Colocamos los otros **dos biestables D**, **encadenados** con el primero, con la misma configuración. Al apretar el **botón de load** se cargan con el valor de los **3 interruptores**. Al apretar el otro botón se **desplazan** los bits una posición hacia el bit de **mayor peso**:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-08.png)
+
 
 (Circuito 1)
 
