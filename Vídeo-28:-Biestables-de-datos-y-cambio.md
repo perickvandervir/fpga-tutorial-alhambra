@@ -377,7 +377,7 @@ Añadimos un biestable D más al final, que es el que contiene el **bit serie re
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-09.png)
 
-El **dato** que llega de los **interruptores** los guardamos en **3 Biestables D adicionales**, que van en **paralelo** con los 3 anteriores. Sus salidas las conectamos al decodificador BCD a 7 segmentos para ver el dato cargado en el **display**
+El **dato** que llega de los **interruptores** los guardamos en **3 Biestables D adicionales**, que van en **paralelo** con los 3 anteriores. Sus salidas las conectamos al decodificador BCD a 7 segmentos para ver el dato cargado en el **display**. Se cargan al apretar el **botón de load**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-28/Serie-10.png)
 
