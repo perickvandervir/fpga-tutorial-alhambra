@@ -409,6 +409,19 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 28.3** (Total **5 Bitpoints**): Transmisor-receptor serie de 3 bits
 
+Diseñar un circuito que simula un **sistema de transmisión** entre un circuito emisor y uno receptor.  El envío de datos del tranmisor al receptor se hace en serie, bit a bit, a través de un **cable externo**. Este cable sale por un pin de la FPGA, y vuelve a entrar por otro pin para llegar al receptor. Lo hacemos así para enfatizar el hecho de que los datos se transmiten bit a bit, por un cable.
+
+Los datos que se envían son de **3 bits**. Este dato se introduce en el transmisor a través de **3 interruptores** externos, y al pulsar el **botón de load** se captura y se muestra en 3 LEDs. A continuación, se desplazan para su envío serie. Cada vez que se aprieta el botón 2 se desplaza un bit.
+
+El **receptor** recibe el dato en serie y cuando se aprieta el **botón de cargar** se guarda el dato en otros 3 Biestables, cuyo contenido se visualiza en el **display de 7 segmentos**
+
+Así, para transmitir el número 3, por ejemplo, los pasos serían los siguientes:
+
+* **Paso 1**: Introducir el número 3 en binario en los Switches
+* **Paso 2**: Apretar el botón de load. El número cargado se muestra en binario en los LEDs
+* **Paso 3**: Apretar 3 veces el pulsador de desplazamiento
+* **Paso 4**: Apretar de nuevo el botón de load para mostrar el dato recibido en el Display
+
 [![Click to see the youtube video](http://img.youtube.com/vi/GNUIOgodDQY/0.jpg)](https://www.youtube.com/watch?v=GNUIOgodDQY)
 
 * **Ejercicio 28.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
