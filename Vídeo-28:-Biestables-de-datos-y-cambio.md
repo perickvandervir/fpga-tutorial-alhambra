@@ -397,7 +397,6 @@ En todos estos ejemplos de carga y desplazamiento hemos usado pulsadores que con
 
 Ej1: Apertura caja fuerte con código
 Ej2: Mini calculadora que multiplica por 2
-Ej3: Transmisión - recepció serie (completo)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
