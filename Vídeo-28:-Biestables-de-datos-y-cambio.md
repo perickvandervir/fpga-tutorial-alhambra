@@ -365,6 +365,10 @@ Implementaremos un circuito que pase a **serie** un número de 3 bits. El montaj
 
 El funcionamiento es el siguiente: Primero se introduce el **dato en paralelo** en los **interruptores**. Al apretarse el **botón de captura** se carga el valor y se muestra en **decimal** en el **display** y en **binario** en los 3 **LEDs**. Con el **botón 2** se realiza un **desplazamiento de un bit** hacia la izquierda. El bit serie saliente se muestra en el **cuarto LED** (en la izquierda)
 
+Construiremos el circuito por pasos. Empezamos por el **biestable D** que almacena el bit de **menor peso** (bit 0). Al apretar el **botón de load **se debe cargar con el valor que hay en el interruptor (switch 0). Al apretar el **botón de desplazamiento se carga** con 0
+
+(Circuito 1)
+
 (Diseño del circuito)
 
 (Vídeo)
