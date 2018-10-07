@@ -14,7 +14,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Colección
 
-**Academia-Jedi-HW-28.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-28.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/blob/master/wiki/Tutorial-28/Collections/Academia-Jedi-HW-28.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
