@@ -402,9 +402,11 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 **Resumen**:
 
-* **Ejercicio 28.1** (Total **x Bitpoints**): 
+* **Ejercicio 28.1** (Total **5 Bitpoints**): 
 
-* **Ejercicio 28.2** (Total **x Bitpoints**): 
+* **Ejercicio 28.2** (Total **5 Bitpoints**): Mini-calculadora que multiplica por 2
+
+[![Click to see the youtube video](http://img.youtube.com/vi/PqVvVQ5D3nc/0.jpg)](https://www.youtube.com/watch?v=PqVvVQ5D3nc)
 
 * **Ejercicio 28.3** (Total **5 Bitpoints**): Transmisor-receptor serie de 3 bits
 
