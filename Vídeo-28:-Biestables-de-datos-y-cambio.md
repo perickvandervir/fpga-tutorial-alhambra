@@ -393,16 +393,15 @@ En todos estos ejemplos de carga y desplazamiento hemos usado pulsadores que con
 
 # Ejercicios propuestos (20 BitPoints)
 
-(TODO)
-
-Ej1: Apertura caja fuerte con código
-Ej2: Mini calculadora que multiplica por 2
-
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
 **Resumen**:
 
-* **Ejercicio 28.1** (Total **5 Bitpoints**): 
+* **Ejercicio 28.1** (Total **5 Bitpoints**):  Caja fuerte con apertura con código de 3 bits
+
+Este es el circuito de la apertura de la **caja fuerte**, que ya conocemos, pero con algunas mejoras. Primero se introduce el **código de 3 bits** por los interruptores externos y se pulsa la **tecla enter** (cargar el dato). Este dato se almacena en **3 biestables D** y se comprueba si es el correcto. El servo se moverá si el código es el **101** (5), simulando la apertura de la caja.  Para cerrar hay que introducir cualquier número diferente de 5 y apretar enter
+
+Además tiene un modo de **visualización del código**. Por defecto no se muestra el código introducido. Al apretar el pulsador de visualización, el dato guardado en los biestables se muestra en el display. Si se vuelve a apretar el botón se deja de visualizar (Usar un pulsador de cambio)
 
 * **Ejercicio 28.2** (Total **5 Bitpoints**): Mini-calculadora que multiplica por 2
 
