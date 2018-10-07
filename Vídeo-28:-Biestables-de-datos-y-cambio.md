@@ -387,11 +387,7 @@ Por último combinamos los **6 biestables** y obtenemos el **circuito final**
 
 Lo **cargamos** y lo **probamos**. En este ejemplo se carga primero el número **101** (5) y se desplaza. Luego se hace lo mismo con el **001**
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-
-(Vídeo)
-
+[![Click to see the youtube video](http://img.youtube.com/vi/HDDmWlmorZk/0.jpg)](https://www.youtube.com/watch?v=HDDmWlmorZk)
 
 # Ejercicios propuestos (20 BitPoints)
 
