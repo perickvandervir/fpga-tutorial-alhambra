@@ -389,6 +389,8 @@ Lo **cargamos** y lo **probamos**. En este ejemplo se carga primero el número *
 
 [![Click to see the youtube video](http://img.youtube.com/vi/HDDmWlmorZk/0.jpg)](https://www.youtube.com/watch?v=HDDmWlmorZk)
 
+En todos estos ejemplos de carga y desplazamiento hemos usado pulsadores que controlamos nosotros, **manualmente**. Los circuitos realizan esto de manera **automática** utilizando **controladores**. Su misión es **activar** las señales necesarias en cada momento para que todo **funcione**. Lo veremos en otros tutoriales más adelante
+
 # Ejercicios propuestos (20 BitPoints)
 
 (TODO)
