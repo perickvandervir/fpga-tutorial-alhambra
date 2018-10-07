@@ -407,7 +407,9 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 28.2** (Total **x Bitpoints**): 
 
-* **Ejercicio 28.3** (Total **x Bitpoints**): 
+* **Ejercicio 28.3** (Total **5 Bitpoints**): Transmisor-receptor serie de 3 bits
+
+[![Click to see the youtube video](http://img.youtube.com/vi/GNUIOgodDQY/0.jpg)](https://www.youtube.com/watch?v=GNUIOgodDQY)
 
 * **Ejercicio 28.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
