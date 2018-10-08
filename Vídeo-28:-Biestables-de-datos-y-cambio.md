@@ -10,7 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-(TODO)
+Nuestros circuitos manipulan datos, que típicamente se almacenan los **biestables tipo D**. Los podemos conectar de diferentes maneras para realizar **operaciones aritméticas** y conversiones de **paralelo a serie** y **vice-versa**, que se usan mucho en los controladores de acceso a periféricos. También aprenderemos a usar los **biestables de cambio**, o tipo T, con los que podemos convertir los pulsadores en interruptores
 
 # Colección
 
