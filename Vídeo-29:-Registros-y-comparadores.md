@@ -2,12 +2,15 @@
 
 # Vídeo
 
+TODO
+
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
+TODO
 
 # Colección
 
@@ -16,7 +19,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 # Contenido
 
 * [Introducción](#introducci%C3%B3n)
-* Ejercicios propuestos (X Bitpoints)
+* [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
 * [Licencia](#licencia)
