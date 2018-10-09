@@ -4,7 +4,7 @@
 
 (TODO)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/_je6bkbm9qg/0.jpg)](https://www.youtube.com/watch?v=_je6bkbm9qg&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=28)
 
 Haz click en la imagen para ver el **vídeo en Youtube**
 
