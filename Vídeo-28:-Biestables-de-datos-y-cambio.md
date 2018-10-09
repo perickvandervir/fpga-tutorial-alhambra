@@ -403,6 +403,10 @@ Este es el circuito de la apertura de la **caja fuerte**, que ya conocemos, pero
 
 Además tiene un modo de **visualización del código**. Por defecto no se muestra el código introducido. Al apretar el pulsador de visualización, el dato guardado en los biestables se muestra en el display. Si se vuelve a apretar el botón se deja de visualizar (Usar un pulsador de cambio)
 
+En este [Vídeo de Youtube](https://www.youtube.com/watch?v=1VyIj9DERws) se muestra un ejemplo de funcionamiento.
+
+[![Click to see the youtube video](http://img.youtube.com/vi/1VyIj9DERws/0.jpg)](https://www.youtube.com/watch?v=1VyIj9DERws)
+
 * **Ejercicio 28.2** (Total **5 Bitpoints**): Mini-calculadora que multiplica por 2
 
 Diseñar una **mini-calculadora**, de 3 bits, que realiza una única operación: **multiplicar por dos**. Se introduce el dato de 3 bits mediante **3 pulsadores externos** y se pulsa la **tecla de carga** para itroducirlo. Se muestra en el **display**. A contiuación si se pulsa la **tecla de multiplicación** se multiplicará por dos y se muestra el resultado en el display. Como se usan pocos bits, **la multiplicación sólo se puede usar 1 veces después de cargar**. Si se aprieta varias veces el botón de multiplicación sólo tendrá efecto la primera vez. Y no folverá a funcionar hasta realizar una nueva carga.
