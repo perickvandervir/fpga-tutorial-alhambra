@@ -28,6 +28,10 @@ TODO
 
 # Introducción
 
+TODO
+
+https://programarfacil.com/blog/aumentar-salidas-digitales-de-arduino-con-el-shift-register/
+
 # Ejercicios propuestos (20 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
