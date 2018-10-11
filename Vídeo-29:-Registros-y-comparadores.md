@@ -50,7 +50,11 @@ Son la **extensión del biestable D** a varios **bits en paralelo**. Nos permite
 
 El **parámetro** nos permite establecer su **valor inicial** al arrancar el circuito. La **salida** del registro es **un bus de 8 bits**, por donde sale el dato almacenado. Tiene una **entrada**, también de **8 bits**, por donde se **capturan** los datos cuando llega un **tic** por la **entrada load**
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-03.gif)
+
+En la **animación** se mustra un **registro genérico** que está capturando dos números, el 25 y 17 (representados en decimal) cuando llegan los **tics de captura**
+
+### Ejemplo 1: Almacenamiento de un número de 3 bits
 
 (Ejemplo: almacenamiento de un núero de 3 bits)
 
