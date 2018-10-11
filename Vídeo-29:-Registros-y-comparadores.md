@@ -44,7 +44,19 @@ Como icono usamos varias **chinchetas**, para indicar que hay **varios biestable
 
 ## Registro con carga paralela
 
-(Figura)
+Son la **extensión del biestable D** a varios **bits en paralelo**. Nos permiten cargar y almacenar un número de **N bits**, que se captura cuando se recibe un **tic de captura** en su **entrada load**
+
+(Figura Biestable D y registro de 8 bits)
+
+(Animación del fucionamiento)
+
+(Ejemplo: almacenamiento de un núero de 3 bits)
+
+## Registros de desplazamiento
+
+(TODO)
+
+# Otros...
 
 https://programarfacil.com/blog/aumentar-salidas-digitales-de-arduino-con-el-shift-register/
 
