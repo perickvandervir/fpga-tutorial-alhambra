@@ -30,6 +30,16 @@ TODO
 
 TODO
 
+# Registros
+
+Los **registros** son los componentes mínimos que nos permiten **almacenar números de varios bits** en nuestros circuitos. Con ellos ya no sólo recordamos bits aislados, sino datos más complejos. Están compuestos por la **unión de biestables D**, tanto en paralelo como en cadena
+
+Hay muchos tipos de registros. Los que nosotros usaremos en este tutorial son los de **carga paralela** y los **registros de desplazamiento**, que amplían a los anteriores proporcionando la opción de **desplazar los bits** previamente cargados
+
+(Hacer los iconos svg de los bloques)
+
+(Figura)
+
 https://programarfacil.com/blog/aumentar-salidas-digitales-de-arduino-con-el-shift-register/
 
 # Ejercicios propuestos (20 BitPoints)
