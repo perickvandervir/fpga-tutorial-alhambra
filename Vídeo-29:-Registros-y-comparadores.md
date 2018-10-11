@@ -21,6 +21,7 @@ TODO
 * [Introducción](#introducci%C3%B3n)
 * [Registros](#registros)
   * [Registros con carga paralela](#registro-con-carga-paralela)
+  * [Ejemplo 1: Almacenamiento de un número de 3 bits](#ejemplo-1-almacenamiento-de-un-n%C3%BAmero-de-3-bits)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
