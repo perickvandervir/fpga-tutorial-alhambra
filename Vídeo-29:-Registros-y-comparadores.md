@@ -35,9 +35,9 @@ TODO
 
 Los **registros** son los componentes mínimos que nos permiten **almacenar números de varios bits** en nuestros circuitos. Con ellos ya no sólo recordamos bits aislados, sino datos más complejos. Están compuestos por la **unión de biestables D**, tanto en paralelo como en cadena
 
-Hay muchos tipos de registros. Los que nosotros usaremos en este tutorial son los de **carga paralela** y los **registros de desplazamiento**, que amplían a los anteriores proporcionando la opción de **desplazar los bits** previamente cargados
+Hay muchos tipos de registros. Los que nosotros usaremos en este tutorial son los de **carga paralela** y los **registros de desplazamiento**. Los últimos amplían a los primeros proporcionando la opción de **desplazar los bits** previamente cargados
 
-(Hacer los iconos svg de los bloques)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-01.png)
 
 (Figura)
 
