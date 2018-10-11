@@ -39,6 +39,10 @@ Hay muchos tipos de registros. Los que nosotros usaremos en este tutorial son lo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-01.png)
 
+Como icono usamos varias **chinchetas**, para indicar que hay **varios biestables D en paralelo**. La anchura del bus de datos de entrada y salida, de ambos registros, es igual a la cantidad de bits del registro
+
+## Registro con carga paralela
+
 (Figura)
 
 https://programarfacil.com/blog/aumentar-salidas-digitales-de-arduino-con-el-shift-register/
