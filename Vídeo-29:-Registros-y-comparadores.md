@@ -68,7 +68,7 @@ En el **montaje** hay **tres pulsadores**, un **botón** que hace las veces de *
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-05.png)
 
-Lo **cargamos** y lo **probamos**
+Lo **cargamos** y lo **probamos**. ¡Nuestro registro almacena!
 
 [![Click to see the youtube video](http://img.youtube.com/vi/dsM7oMuvQK4/0.jpg)](https://www.youtube.com/watch?v=dsM7oMuvQK4)
 
