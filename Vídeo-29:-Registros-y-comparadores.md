@@ -19,6 +19,7 @@ TODO
 # Contenido
 
 * [Introducción](#introducci%C3%B3n)
+* [Registros](#registros)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
