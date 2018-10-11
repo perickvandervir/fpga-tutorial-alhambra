@@ -61,6 +61,10 @@ Para probar el funcionamiento de estos registros usaremos uno de **3 bits** para
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-04.png)
 
+Este circuito es mucho **más claro** y **compacto** que los que hacíamos en el [tutorial 28](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-28:-Biestables-de-datos-y-cambio) al usar **biestables D** aislados. Son las ventajas del **diseño jerárquico** :-)
+
+En el **montaje** hay **tres pulsadores**, un **botón** que hace las veces de **tecla Enter** y el **display de 7 segmentos**
+
 (Escenario)
 
 (Vídeo)
