@@ -20,6 +20,7 @@ TODO
 
 * [Introducción](#introducci%C3%B3n)
 * [Registros](#registros)
+  * [Registros con carga paralela](#registro-con-carga-paralela)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
