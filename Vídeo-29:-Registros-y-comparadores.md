@@ -50,6 +50,7 @@ Son la **extensión del biestable D** a varios **bits en paralelo**. Nos permite
 
 El **parámetro** nos permite establecer su **valor inicial** al arrancar el circuito. La **salida** del registro es **un bus de 8 bits**, por donde sale el dato almacenado. Tiene una **entrada**, también de **8 bits**, por donde se **capturan** los datos cuando llega un **tic** por la **entrada load**
 
+(Animación)
 
 (Ejemplo: almacenamiento de un núero de 3 bits)
 
