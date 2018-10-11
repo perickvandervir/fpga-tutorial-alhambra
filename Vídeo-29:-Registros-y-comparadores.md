@@ -69,11 +69,7 @@ En el **montaje** hay **tres pulsadores**, un **botón** que hace las veces de *
 
 Lo **cargamos** y lo **probamos**
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-(Vídeo)
-
-(TODO)
+[![Click to see the youtube video](http://img.youtube.com/vi/dsM7oMuvQK4/0.jpg)](https://www.youtube.com/watch?v=dsM7oMuvQK4)
 
 ## Registros de desplazamiento
 
