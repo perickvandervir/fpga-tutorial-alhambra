@@ -57,7 +57,15 @@ En la **animación** se mustra un **registro genérico** que está capturando do
 
 ### Ejemplo 1: Almacenamiento de un número de 3 bits
 
-(Ejemplo: almacenamiento de un núero de 3 bits)
+Para probar el funcionamiento de estos registros usaremos uno de **3 bits** para almacenar el número introducido en binario por **tres pulsadores**. El número se muestra en decimal en el **display de 7 segmentos** al apretar la **tecla de Enter** (captura). 
+
+(Circuito)
+
+(Escenario)
+
+(Vídeo)
+
+(TODO)
 
 ## Registros de desplazamiento
 
