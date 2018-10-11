@@ -44,11 +44,12 @@ Como icono usamos varias **chinchetas**, para indicar que hay **varios biestable
 
 ## Registro con carga paralela
 
-Son la **extensión del biestable D** a varios **bits en paralelo**. Nos permiten cargar y almacenar un número de **N bits**, que se captura cuando se recibe un **tic de captura** en su **entrada load**
+Son la **extensión del biestable D** a varios **bits en paralelo**. Nos permiten cargar y almacenar un número de **N bits**, que se captura cuando se recibe un **tic de captura** en su **entrada load**. Aquí se muestra un **registro de 8 bits**, junto a un biestable D
 
-(Figura Biestable D y registro de 8 bits)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-02.png)
 
-(Animación del fucionamiento)
+El **parámetro** nos permite establecer su **valor inicial** al arrancar el circuito. La **salida** del registro es **un bus de 8 bits**, por donde sale el dato almacenado. Tiene una **entrada**, también de **8 bits**, por donde se **capturan** los datos cuando llega un **tic** por la **entrada load**
+
 
 (Ejemplo: almacenamiento de un núero de 3 bits)
 
