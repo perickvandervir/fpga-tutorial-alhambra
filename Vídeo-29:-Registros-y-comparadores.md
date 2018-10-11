@@ -59,7 +59,7 @@ En la **animación** se mustra un **registro genérico** que está capturando do
 
 Para probar el funcionamiento de estos registros usaremos uno de **3 bits** para almacenar el número introducido en binario por **tres pulsadores**. El número se muestra en decimal en el **display de 7 segmentos** al apretar la **tecla de Enter** (captura). 
 
-(Circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-04.png)
 
 (Escenario)
 
