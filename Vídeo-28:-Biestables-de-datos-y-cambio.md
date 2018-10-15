@@ -42,6 +42,7 @@ Nuestros circuitos manipulan datos, que típicamente se almacenan los **biestabl
     * [Ejemplo 2: Conversión a serie de un número de 3 bits](#ejemplo-12-conversi%C3%B3n-a-serie-de-un-n%C3%BAmero-de-3-bits)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
   * [Roberto del Campo](#roberto-del-campo)
+  * [Federico Coca (@fgcoca)](#federico-coca-fgcoca)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
 * [Licencia](#licencia)
