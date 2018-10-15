@@ -436,14 +436,14 @@ Así, para transmitir el número 3, por ejemplo, los pasos serían los siguiente
 
 # Ejercicios entregados
 
-## Primero
+## Roberto del campo
 
 ### Ejercicio 28.1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-28/robertou2/28.1.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/tG2HCz_Mokw/0.jpg)](https://www.youtube.com/watch?v=tG2HCz_Mokw)
 
 ### Ejercicio 28.2
 ![]()
