@@ -454,19 +454,16 @@ Así, para transmitir el número 3, por ejemplo, los pasos serían los siguiente
 [![Click to see the youtube video](http://img.youtube.com/vi/Mnc1wSeXhKw/0.jpg)](https://www.youtube.com/watch?v=Mnc1wSeXhKw)
 
 ### Ejercicio 28.3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-28/robertou2/28.3.JPG)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/5jGqImGJ7NY/0.jpg)](https://www.youtube.com/watch?v=5jGqImGJ7NY)
 
 ### Ejercicio 28.4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-28/robertou2/Tutorial-28/robertou2/28.4.JPG)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
+* [Vídeo en twitter](https://twitter.com/Robertodcrsj/status/1050715410750951424)
 
 ## Segundo
 
