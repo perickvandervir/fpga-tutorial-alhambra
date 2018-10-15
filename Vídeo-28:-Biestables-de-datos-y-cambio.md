@@ -465,7 +465,7 @@ Así, para transmitir el número 3, por ejemplo, los pasos serían los siguiente
 
 * [Vídeo en twitter](https://twitter.com/Robertodcrsj/status/1050715410750951424)
 
-## Segundo
+## Federico Coca (@fgcoca)
 
 ### Ejercicio 28.1
 ![]()
