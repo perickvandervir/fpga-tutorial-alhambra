@@ -469,32 +469,29 @@ Así, para transmitir el número 3, por ejemplo, los pasos serían los siguiente
 ## Federico Coca (@fgcoca)
 
 ### Ejercicio 28.1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-28/fgcoca/Ejercicio-1/Ejercicio28_1%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/7d54zXEPYFs/0.jpg)](https://www.youtube.com/watch?v=7d54zXEPYFs)
 
 ### Ejercicio 28.2
-![]()
-
-* **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ### Ejercicio 28.3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-28/fgcoca/Ejercicio-3/Ejercicio28_3%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/HrDeO1OoxZk/0.jpg)](https://www.youtube.com/watch?v=HrDeO1OoxZk)
 
 ### Ejercicio 28.4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/blob/master/Tutorial-28/fgcoca/Ejercicio-4/Ejercicio28_4%20%E2%94%80%20P.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/SWxAFcgh6Xw/0.jpg)](https://www.youtube.com/watch?v=SWxAFcgh6Xw)
 
 ## Tercero
 
