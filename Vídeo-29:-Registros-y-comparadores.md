@@ -23,6 +23,7 @@ TODO
   * [Registros con carga paralela](#registro-con-carga-paralela)
     * [Ejemplo 1: Almacenamiento de un número de 3 bits](#ejemplo-1-almacenamiento-de-un-n%C3%BAmero-de-3-bits)
   * [Registros de desplazamiento](#registros-de-desplazamiento)
+    * [Ejemplo 2: Carga y desplazamiento de un dato de 3 bits](#ejemplo-2-carga-y-desplazamiento)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
