@@ -83,7 +83,7 @@ Cuando el registro recibe el **tic de carga**, captura el dato que entra en para
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-07.png)
 
-### Ejemplo 2: Carga y desplazamiento
+### Ejemplo 2: Carga y desplazamiento de un dato de 3 bits
 
 Para experimentar haremos un circuito para **cargar un dato** en un **registro de 3 bits**, y **desplazarlo**. El dato se introduce por **3 interruptores** y se captura al apretar la **Tecla ENTER**. Se muestra en **binario** en tres **LEDs** y en **decimal** en un **display de 7 segmentos**. Con otro botón hacemos que se desplace. El montaje es el siguiente:
 
