@@ -106,6 +106,7 @@ En el [ejercicio 2 del tutorial 26](https://github.com/Obijuan/digital-electroni
 
 El registro de desplazamiento almacena la información de **visualización** de las balas en vuelo. Un bit a **1** indica que **hay una bala** en esa posición. Si está a **0** es que **no** hay nada. El registro se está constantemente desplazando, con cada tic emitido por el corazón de **50ms**. Cada bala permanece 50ms en un **LED**, y luego pasa al siguiente. Como hay 8 leds, una bala tardará 8 * 50 = **400ms** en recorrerlos todos. Si queremos que vaya más rápido, sólo hay que poner un tiempo menor
 
+Mediante el **pulsador de disparo**, se carga un 1 en el **biestable D** y cuya salida se usa como **entrada serie** del registro de desplazamiento. En ese momento la bala saldrá disparada con el siguiente tic del corazón (Es un biestable recámara). Adicionalmente hay conectado un bloque que **emite un pitido** cada vez que se **dispara**
 
 (Montaje)
 (Vídeo)
