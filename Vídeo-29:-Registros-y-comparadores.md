@@ -93,7 +93,7 @@ Este es el **circuito**. Por la **entrada serie** se introduce siempre un **bit 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-08.png)
 
-Lo **cargamos** y lo **probamos**
+Lo **cargamos** y lo **probamos**. En el **vídeo** se carga primero el dato 1, luego el 3 y finalmente el 7. Todos se desplazan 3 bits a la izquierda
 
 [![Click to see the youtube video](http://img.youtube.com/vi/h3GwBqxl7O4/0.jpg)](https://www.youtube.com/watch?v=h3GwBqxl7O4)
 
