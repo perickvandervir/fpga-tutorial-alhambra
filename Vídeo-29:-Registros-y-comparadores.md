@@ -119,6 +119,20 @@ Lo **cargamos** y lo **probamos**. Cada vez que se aprieta el pulsador, se dispa
 
 # Comparadores
 
+(Comparador un operando + parametro)  
+(Comparador de dos operandos)  
+
+(Ej. 4: Caja fuerte con código. 1op + param)  
+(Ej. 5: Alarma con contador. Introducido por switches. 2operandos)  
+
+# Aplicaciones
+
+(6-Ruleta)  
+(7-Envío de datos a Arduino)  
+(8-Recepción de datos desde arduino)  
+
+
+
 (TODO)
 
 # Otros...
