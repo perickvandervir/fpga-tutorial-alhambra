@@ -25,6 +25,7 @@ TODO
   * [Registros de desplazamiento](#registros-de-desplazamiento)
     * [Ejemplo 2: Carga y desplazamiento de un dato de 3 bits](#ejemplo-2-carga-y-desplazamiento-de-un-dato-de-3-bits)
     * [Ejemplo 3: Disparos arcade](#ejemplo-3-disparos-arcade)
+* [Comparadores](#comparadores)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
