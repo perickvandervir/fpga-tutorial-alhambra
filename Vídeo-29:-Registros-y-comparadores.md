@@ -80,7 +80,7 @@ Los **registros de desplazamiento** son iguales a los de **carga paralela**, con
 
 Cuando el registro recibe el **tic de carga**, captura el dato que entra en paralelo, igual que los registros de carga paralela. Cuando recibe un **tic de desplazamiento**, mueve los bits una posición hacia la **izquierda**, añadiendo el bit de su **entrada serie** como bit de **menor peso**, y sacando el de **mayor peso** por su **salida serie**
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-06.png)
 
 (TODO)
 
