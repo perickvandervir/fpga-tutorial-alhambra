@@ -100,7 +100,16 @@ Lo **cargamos** y lo **probamos**. En el **vídeo** se carga primero el dato 1, 
 
 ### Ejemplo 3: Disparos arcade
 
+(Icono beep)
+(Bloque beep)
+
+(Circuito)
+(Montaje)
+(Vídeo)
+
 (TODO)
+
+# Comparadores
 
 # Otros...
 
