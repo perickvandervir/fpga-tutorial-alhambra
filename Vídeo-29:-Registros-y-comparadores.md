@@ -89,11 +89,13 @@ Para experimentar haremos un circuito para **cargar un dato** en un **registro d
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-09.png)
 
-Este es el **circuito**
+Este es el **circuito**. Por la **entrada serie** se introduce siempre un **bit a 0**, y la **salida serie** no se conecta a ningún sitio
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-08.png)
 
 Lo **cargamos** y lo **probamos**
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 (vídeo)
 
