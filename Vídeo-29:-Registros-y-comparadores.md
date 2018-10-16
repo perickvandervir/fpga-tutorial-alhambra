@@ -113,6 +113,8 @@ Para probarlo sólo necesitamos un **pulsador** y un **zumbador** para escuchar 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-11.png)
 
+Lo **cargamos** y lo **probamos**. Cada vez que se aprieta el pulsador, se dispara una bala. Puede haber varias balas en vuelo a la vez
+
 [![Click to see the youtube video](http://img.youtube.com/vi/picuCVb8p3w/0.jpg)](https://www.youtube.com/watch?v=picuCVb8p3w)
 
 # Comparadores
