@@ -119,9 +119,6 @@ Lo **cargamos** y lo **probamos**. Cada vez que se aprieta el pulsador, se dispa
 
 # Comparadores
 
-(Hacer todos los registros)  
-(Hacer todos los reg de desplazamiento)
-
 (TODO)
 
 # Otros...
