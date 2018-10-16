@@ -74,6 +74,10 @@ Lo **cargamos** y lo **probamos**. ¡Nuestro registro almacena!
 
 ## Registros de desplazamiento
 
+Los **registros de desplazamiento** son iguales a los de **carga paralela**, con una entrada adicional para **desplazar los bits** una posición en un sentido. Nosotros usaremos registros que desplazan los bits hacia la **izquierda**, en el sentido de los bits más significativos (multiplicación por 2). El bloque es el siguiente:
+
+(Dibujo)  
+
 (TODO)
 
 # Otros...
