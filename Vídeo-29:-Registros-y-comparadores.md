@@ -100,7 +100,7 @@ Lo **cargamos** y lo **probamos**. En el **vídeo** se carga primero el dato 1, 
 
 ### Ejemplo 3: Disparos arcade
 
-(Circuito)
+En el [ejercicio 2 del tutorial 26](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-26:-Tiempo,-tics-y-temporizadores#ejercicios-propuestos-25-bitpoints) usamos **temporizadores** para generar el **movimiento de una bala** en los **LEDs**, emulando los **juegos arcade**. Crearemos el mismo efecto de una forma más fácil, usando un **registro de desplazamiento** de 8 bits.
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-10.png)
 
