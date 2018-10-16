@@ -112,11 +112,14 @@ Para probarlo sólo necesitamos un **pulsador** y un **zumbador** para escuchar 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-11.png)
 
-(Vídeo)
-
-(TODO)
+[![Click to see the youtube video](http://img.youtube.com/vi/picuCVb8p3w/0.jpg)](https://www.youtube.com/watch?v=picuCVb8p3w)
 
 # Comparadores
+
+(Hacer todos los registros)  
+(Hacer todos los reg de desplazamiento)
+
+(TODO)
 
 # Otros...
 
