@@ -82,6 +82,8 @@ Cuando el registro recibe el **tic de carga**, captura el dato que entra en para
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-07.png)
 
+### Ejemplo 2: Carga y desplazamiento
+
 (TODO)
 
 # Otros...
