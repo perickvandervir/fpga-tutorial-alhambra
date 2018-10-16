@@ -108,6 +108,8 @@ El registro de desplazamiento almacena la información de **visualización** de 
 
 Mediante el **pulsador de disparo**, se carga un 1 en el **biestable D** y cuya salida se usa como **entrada serie** del registro de desplazamiento. En ese momento la bala saldrá disparada con el siguiente tic del corazón (Es un biestable recámara). Adicionalmente hay conectado un bloque que **emite un pitido** cada vez que se **dispara**
 
+Para probarlo sólo necesitamos un **pulsador** y un **zumbador** para escuchar los disparos
+
 (Montaje)
 (Vídeo)
 
