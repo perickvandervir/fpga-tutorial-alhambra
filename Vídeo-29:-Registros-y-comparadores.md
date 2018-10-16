@@ -101,6 +101,10 @@ Lo **cargamos** y lo **probamos**. En el **vídeo** se carga primero el dato 1, 
 ### Ejemplo 3: Disparos arcade
 
 (Circuito)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-10.png)
+
+
 (Montaje)
 (Vídeo)
 
