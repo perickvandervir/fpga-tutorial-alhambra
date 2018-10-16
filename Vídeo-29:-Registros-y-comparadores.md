@@ -110,7 +110,8 @@ Mediante el **pulsador de disparo**, se carga un 1 en el **biestable D** y cuya 
 
 Para probarlo sólo necesitamos un **pulsador** y un **zumbador** para escuchar los disparos
 
-(Montaje)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/reg-11.png)
+
 (Vídeo)
 
 (TODO)
