@@ -95,9 +95,7 @@ Este es el **circuito**. Por la **entrada serie** se introduce siempre un **bit 
 
 Lo **cargamos** y lo **probamos**
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-(vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/h3GwBqxl7O4/0.jpg)](https://www.youtube.com/watch?v=h3GwBqxl7O4)
 
 (TODO)
 
