@@ -119,6 +119,10 @@ Lo **cargamos** y lo **probamos**. Cada vez que se aprieta el pulsador, se dispa
 
 # Comparadores
 
+Los **comparadores** sirven para determinar la **relación** que hay entre **dos números**. Usaremos dos tipos de comparadores: el de **igualdad** y el "menor que". Son muy importantes, sobre todo el de igualdad, que nos permite implementar circuitos que realicen una **acción** al recibir un **comando**
+
+(Dibujo comparadores)
+
 (Comparador un operando + parametro)  
 (Comparador de dos operandos)  
 
