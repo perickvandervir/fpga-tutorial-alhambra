@@ -126,8 +126,9 @@ Los **comparadores** sirven para determinar la **relación** que hay entre **dos
 (Comparador un operando + parametro)  
 (Comparador de dos operandos)  
 
-(Ej. 4: Caja fuerte con código. 1op + param)  
-(Ej. 5: Alarma con contador. Introducido por switches. 2operandos)  
+(Ej. 4: Comparación de números de 3 bits)
+(Ej. 5: Caja fuerte con código. 1op + param)  
+(Ej. 6: Alarma con contador. Introducido por switches. 2operandos)  
 
 # Aplicaciones
 
