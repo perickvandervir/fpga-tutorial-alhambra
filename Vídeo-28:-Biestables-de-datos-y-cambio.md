@@ -493,36 +493,27 @@ Así, para transmitir el número 3, por ejemplo, los pasos serían los siguiente
 
 [![Click to see the youtube video](http://img.youtube.com/vi/SWxAFcgh6Xw/0.jpg)](https://www.youtube.com/watch?v=SWxAFcgh6Xw)
 
-## Tercero
+## Viriato (@SrViriato)
 
 ### Ejercicio 28.1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-28/Viriato/Tutorial-28-1/Captura%20de%20pantalla%20-2018-10-11%2020-48-15.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/SrViriato/status/1053004738860601344)
 
 ### Ejercicio 28.2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-28/Viriato/Tutorial-28-2/Captura%20de%20pantalla%20-2018-10-16%2017-28-06.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/SrViriato/status/1053004897753403392)
 
 ### Ejercicio 28.3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-28/Viriato/Tutorial-28-3/Captura%20de%20pantalla%20-2018-10-18%2019-01-03.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/SrViriato/status/1053005018402566144)
 
 ### Ejercicio 28.4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-28/Viriato/Tutorial-28-4/Captura%20de%20pantalla%20-2018-10-01%2015-38-51.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
+* [Vídeo en Twitter](https://twitter.com/SrViriato/status/1053005163202572288)
 
 # Autor
 
