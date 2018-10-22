@@ -130,13 +130,21 @@ El comparador **menor que** pone a **1** su salida si el **operando a** es **men
 
 ## Ejemplo 4: Comparando números de 3 bits
 
+Para comprobar el funcionamiento de los comparadores, utilizaremos **números de 3 bits**. El **operando a** lo introduciremos en un **registro de 3 bits**, a través de **tres pulsadores externos** y un pulsador de **enter**. El **operando b** estará en un **contador de 3 bits**, que se incrementa con otro **pulsador**. En **dos leds** mostramos las salidas de ambos comparadores: de **igualdad** y **menor que**. El **montaje** es el siguiente:
+
 (Escenario)  
+
+
 (Circuito)  
 (Vídeo)  
 
 ## Comparadores de un operando
 
-(Ej. 5: Caja fuerte con código. 1op + param) 
+(bloques svg)  
+(Dibujo)  
+
+(Ejemplo. 5: Caja fuerte con código. 1op + param) 
+(Opcional: Arranque de 3 circuitos diferentes, usando comandos)
 
 
 ## Aplicación: Juego de la ruleta
