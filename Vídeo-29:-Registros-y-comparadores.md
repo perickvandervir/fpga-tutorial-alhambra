@@ -121,7 +121,11 @@ Lo **cargamos** y lo **probamos**. Cada vez que se aprieta el pulsador, se dispa
 
 Los **comparadores** sirven para determinar la **relación** que hay entre **dos números**. Usaremos dos tipos de comparadores: el de **igualdad** y el **menor que**. Son muy importantes, sobre todo el de igualdad, que nos permite implementar circuitos que realicen una **acción** al recibir un **comando**
 
-(Dibujo comparadores)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Comp-01.png)
+
+Ambos comparadores reciben **dos operandos de n bits** y producen un **bit de salida**. En el de **igualdad**, la salida se pone a **1** si ambos operandos **son iguales** y **0** si son **distintos**. La igualdad es una **operación comutativa**: da igual por donde introduzcamos cada operando
+
+El comparador **menor que** pone a **1** su salida si el **operando a** es **menor** que el **operando b**. En caso de igualdad o que el b sea mayor, se pone a **0**. Esta es una operación **NO conmutativa**, por lo que es **MUY IMPORTANTE** introducir los operandos en el orden correcto
 
 (Comparador un operando + parametro)  
 (Comparador de dos operandos)  
