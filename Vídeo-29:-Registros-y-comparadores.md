@@ -127,16 +127,23 @@ Ambos comparadores reciben **dos operandos de n bits** y producen un **bit de sa
 
 El comparador **menor que** pone a **1** su salida si el **operando a** es **menor** que el **operando b**. En caso de igualdad o que el b sea mayor, se pone a **0**. Esta es una operación **NO conmutativa**, por lo que es **MUY IMPORTANTE** introducir los operandos en el orden correcto
 
-(Comparador un operando + parametro)  
-(Comparador de dos operandos)  
+## Ejemplo 4: Comparando números de 3 bits
 
-(Ej. 4: Comparación de números de 3 bits)
-(Ej. 5: Caja fuerte con código. 1op + param)  
-(Ej. 6: Alarma con contador. Introducido por switches. 2operandos)  
+(Escenario)  
+(Circuito)  
+(Vídeo)  
 
-# Aplicaciones
+## Comparadores de un operando
 
+(Ej. 5: Caja fuerte con código. 1op + param) 
+
+
+## Aplicación: Juego de la ruleta
+ 
 (6-Ruleta)  
+
+# Comunicando la FPGA con Arduino
+
 (7-Envío de datos a Arduino)  
 (8-Recepción de datos desde arduino)  
 
