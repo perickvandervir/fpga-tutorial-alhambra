@@ -151,7 +151,7 @@ Para comprobar el funcionamiento de los comparadores, utilizaremos **números de
  
 (6-Ruleta)  
 
-# Comunicando la FPGA con Arduino
+# Comunicando la FPGA con un Arduino
 
 (7-Envío de datos a Arduino)  
 (8-Recepción de datos desde arduino)  
