@@ -477,8 +477,9 @@ Así, para transmitir el número 3, por ejemplo, los pasos serían los siguiente
 [![Click to see the youtube video](http://img.youtube.com/vi/7d54zXEPYFs/0.jpg)](https://www.youtube.com/watch?v=7d54zXEPYFs)
 
 ### Ejercicio 28.2
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-28/fgcoca/Ejercicio-2/Ejercicio28_2%20%E2%94%80%20P.png)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/6JZohf7VlcU/0.jpg)](https://www.youtube.com/watch?v=6JZohf7VlcU)
 
 ### Ejercicio 28.3
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-28/fgcoca/Ejercicio-3/Ejercicio28_3%20%E2%94%80%20P.png)
