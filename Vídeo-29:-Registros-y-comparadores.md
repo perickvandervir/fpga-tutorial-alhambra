@@ -169,17 +169,22 @@ Lo **cargamos** y lo **probamos**. Primero se introducen los **códigos incorrec
 
 # Aplicaciones
 
+Como ejemplos de dos **circuitos más avanzados** que utilizan **registros** y **comparadores** haremos el **juego de la ruleta**, en el que ganas si al tirar el **spinner** el número que sale es igual al introducido previamente, y un circuito que activa otros circuitos mediante **códigos**
+
 ## Ejemplo 6: Juego de la ruleta
 
-TODO:
+Es un **juego de azar**, en el que se gana si el número que se obtiene al tirar la ruleta es igual al seleccionado inicialmente. Como usaremos números de 3 bits, se puede elegir cualquier número entre 0 y 7. El jugador debe seguir los siguientes pasos:
 
-* Boton de reset para volver al inicio
-* Hay un LED que indica el modo
-* 1. Modo 1: Se introduce el número a jugar (3 interruptores + pulsador enter). Al apretar el botón se pasa al siguiente modo
-* 2. Modo 2: Tirar la ruleta... Se espera hasta que se tira la ruleta. En cuanto se detecta un brazo se arranca
-* 3. Modo 3: En movimiento. Se incrementa el contador (que se muestra en el display). Cuando se para se pasa al modo final
-* 4. Modo 4: Si hay premio se enciende alarma...
-* Se aprieta el reset para volver a empezar
+1. Inicialmente se enciende el **LED verde** para indicar que el jugador debe introducir por los 3 interruptores el **número elegido.** Al Apretar el **botón de enter **el número aparecerá en el **display de 7 segmentos**. Esta elección todavía no es definitiva. Se puede volver a seleccionar otro número y apretar enter tantas veces como se quiera
+
+2. Una vez satisfecho con el número, se aprieta el **botón de tirar**. Se apaga el led verde y se enciende el **amarillo**. Estamos en **modo ruleta**. Ahora en el display aparecerá el número actual de la ruleta, que inicialmente es el 0.
+
+3. El jugador tira la ruleta (el spiner). En el display aparecerán los números consecutivamente. Cada vez que un brazo del spiner pasa por sensor de IR suena un pitido y se incrementa el display
+
+4. Cuando se para el spiner, bien se emite un pitido grave si el número del display es distinto al seleccionado (el jugador pierde), o bien se activa una sirena acústica y luminosa para indicar que ha ganado
+
+5. Al cabo de unos segundos, el juego vuelve al estado inicial: Se enciende el led verde y se apaga el resto. Volvemos al punto 1
+
 
 ## Ejemplo 7: Control por comandos
 
