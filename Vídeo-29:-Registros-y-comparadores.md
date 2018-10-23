@@ -186,6 +186,13 @@ Es un **juego de azar**, en el que se gana si el número que se obtiene al tirar
 
 5. Al cabo de unos segundos, el juego vuelve al estado inicial: Se enciende el led verde y se apaga el resto. Volvemos al punto 1
 
+(Foto escenario)
+
+(Vídeo del funcionamiento)
+
+(Circuito de las diferentes partes)
+
+(Circuito final)
 
 ## Ejemplo 7: Control por comandos
 
