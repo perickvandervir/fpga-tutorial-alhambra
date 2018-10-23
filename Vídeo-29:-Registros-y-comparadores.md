@@ -164,7 +164,7 @@ El **código de apertura** se configura como **constante** del comparador, que p
 
 Lo cargamos y lo probamos. Primero se introducen los **códigos incorrectos** 1 y 3, y la caja **no** se abre. Luego se mete el  **correcto**: 5 (101 en binario) y se enciende el **LED verde** y se mueve el **servo**. Por último se introduce otro **incorrecto**: 7. Se apaga el LED y se cierra la puerta
 
-(Vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/8D1HBoAe9CQ/0.jpg)](https://www.youtube.com/watch?v=8D1HBoAe9CQ)
 
 (Opcional: Arranque de 3 circuitos diferentes, usando comandos: Servo on, off, motor on/off, alarma luminosa on/off)
 
