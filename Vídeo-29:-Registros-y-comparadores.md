@@ -146,7 +146,10 @@ Al pulsamos el botón de **incremento** del **operador b**, tenemos que **a = 0*
 
 ## Comparadores de un operando
 
-(bloques svg)  
+Muchas veces hay que realizar una **comparación** entre un dato, que varía y una **constante**. Por ejemplo cuando hay que **reconocer un comandos** o un **código**. En estos caso es más fácil crear un **bloque específico** en el que la **constante** se introduce como **parámetro**. Estos comparadores tienen una entrada para el **operando a** y una para el **parámetro k** 
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Comp-04.png)
+
 (Dibujo)  
 
 (Ejemplo. 5: Caja fuerte con código. 1op + param) 
