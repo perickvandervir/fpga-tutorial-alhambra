@@ -134,7 +134,12 @@ Para comprobar el funcionamiento de los comparadores, utilizaremos **números de
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Comp-02.png)
 
-(Circuito)  
+En el circuito colocamos un **registro** para el **operador a**, y un **contador** para el **operador b**, y conectamos sus salidas a ambos **comparadores**, de **igualdad** y **menor que**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Comp-03.png)
+
+Lo **cargamos** y lo **probamos**
+
 (Vídeo)  
 
 ## Comparadores de un operando
