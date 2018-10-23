@@ -166,13 +166,13 @@ Lo **cargamos** y lo **probamos**. Primero se introducen los **códigos incorrec
 
 [![Click to see the youtube video](http://img.youtube.com/vi/8D1HBoAe9CQ/0.jpg)](https://www.youtube.com/watch?v=8D1HBoAe9CQ)
 
-## Aplicación: Control por comandos
+# Aplicaciones
+
+## Ejemplo 6: Juego de la ruleta
+
+## Ejemplo 7: Control por comandos
 
 (Opcional: Arranque de 3 circuitos diferentes, usando comandos: Servo on, off, motor on/off, alarma luminosa on/off)
-
-## Aplicación: Juego de la ruleta
- 
-(6-Ruleta)  
 
 # Comunicando la FPGA con un Arduino
 
