@@ -171,6 +171,16 @@ Lo **cargamos** y lo **probamos**. Primero se introducen los **códigos incorrec
 
 ## Ejemplo 6: Juego de la ruleta
 
+TODO:
+
+* Boton de reset para volver al inicio
+* Hay un LED que indica el modo
+* 1. Modo 1: Se introduce el número a jugar (3 interruptores + pulsador enter). Al apretar el botón se pasa al siguiente modo
+* 2. Modo 2: Tirar la ruleta... Se espera hasta que se tira la ruleta. En cuanto se detecta un brazo se arranca
+* 3. Modo 3: En movimiento. Se incrementa el contador (que se muestra en el display). Cuando se para se pasa al modo final
+* 4. Modo 4: Si hay premio se enciende alarma...
+* Se aprieta el reset para volver a empezar
+
 ## Ejemplo 7: Control por comandos
 
 (Opcional: Arranque de 3 circuitos diferentes, usando comandos: Servo on, off, motor on/off, alarma luminosa on/off)
