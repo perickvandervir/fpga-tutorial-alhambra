@@ -155,7 +155,7 @@ Muchas veces hay que realizar una **comparación** entre un dato, que varía y u
 
 Reharemos el ejemplo que ya conocemos de la **apertura** de una **caja fuerte** con **código**, pero usando un **comparador de igualdad** con operando y constante. Por los interruptores externos introducimos **el código** y al apretar el pulsador se guardan en un **registro**. Este dato se compara con el **código de apertura** y se mueve el servo que abre la caja fuerte si es correcto. El **escenario** es el siguiente:
 
-(Dibujo)  
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Comp-05.png)
 
 (Circuito)
 
