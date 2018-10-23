@@ -140,7 +140,8 @@ En el circuito colocamos un **registro** para el **operador a**, y un **contador
 
 Lo **cargamos** y lo **probamos**
 
-(Vídeo)  
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
 
 ## Comparadores de un operando
 
