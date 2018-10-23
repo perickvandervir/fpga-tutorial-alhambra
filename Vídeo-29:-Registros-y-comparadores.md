@@ -151,10 +151,12 @@ Muchas veces hay que realizar una **comparación** entre un dato, que varía y u
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Comp-04.png)
 
+### Ejemplo 5: Apertura de caja fuerte con código
+
 (Dibujo)  
 
-(Ejemplo. 5: Caja fuerte con código. 1op + param) 
-(Opcional: Arranque de 3 circuitos diferentes, usando comandos)
+
+(Opcional: Arranque de 3 circuitos diferentes, usando comandos: Servo on, off, motor on/off, alarma luminosa on/off)
 
 
 ## Aplicación: Juego de la ruleta
