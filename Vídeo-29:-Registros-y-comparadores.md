@@ -157,7 +157,11 @@ Reharemos el ejemplo que ya conocemos de la **apertura** de una **caja fuerte** 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Comp-05.png)
 
-(Circuito)
+El **código de apertura** se configura como **constante** del comparador, que por defecto es **5**. Para modificar el código hay que cambiar esta constante. El código introducido por el usuario se almacena en un **registro de 3 bits** al apretar el **pulsador de ENTER**, y se compara con el **código de apertura**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Comp-06.png)
+
+Lo cargamos y lo probamos. Sólo cuando se introduce el **5** (101 en binario) y se pulsa enter es cuando se enciende el **LED verde** y se mueve el servo
 
 (Vídeo)
 
