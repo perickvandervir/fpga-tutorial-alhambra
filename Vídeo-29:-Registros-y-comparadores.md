@@ -176,7 +176,7 @@ Como ejemplos de dos **circuitos más avanzados** que utilizan **registros** y *
 
 Es un **juego de azar**, en el que se gana si el **número** que se obtiene al tirar la ruleta es igual al seleccionado inicialmente. Como usaremos números de 3 bits, se puede elegir cualquier número entre **0** y **7**. El jugador debe seguir los **siguientes pasos**:
 
-1. Inicialmente se enciende el **LED verde** para indicar que el jugador debe introducir por los 3 interruptores el **número elegido.** Al Apretar el **botón de enter **el número aparecerá en el **display de 7 segmentos**. Esta elección todavía no es definitiva. Se puede volver a seleccionar otro número y apretar enter tantas veces como se quiera
+1. Inicialmente se enciende el **LED verde** para indicar que el jugador debe introducir por los 3 interruptores el **número elegido.** Al Apretar el **botón de enter** el número aparecerá en el **display de 7 segmentos**. Esta elección todavía no es definitiva. Se puede volver a seleccionar otro número y apretar enter tantas veces como se quiera
 
 2. Una vez satisfecho con el número, se aprieta el **botón de tirar**. Se apaga el led verde y se enciende el **amarillo**. Estamos en **modo ruleta**. Ahora en el display aparecerá el número actual de la ruleta, que inicialmente es el 0.
 
@@ -189,6 +189,8 @@ Es un **juego de azar**, en el que se gana si el **número** que se obtiene al t
 (Foto escenario)
 
 (Vídeo del funcionamiento)
+
+(¿Cómo sería el circuito?)
 
 (Circuito de las diferentes partes)
 
