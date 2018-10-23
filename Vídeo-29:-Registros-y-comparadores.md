@@ -138,9 +138,11 @@ En el circuito colocamos un **registro** para el **operador a**, y un **contador
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Comp-03.png)
 
-Lo **cargamos** y lo **probamos**. Inicialmente los dos operandos son **0**, por lo que se enciende el **LED de igualdad**. Al pulsamos el botón de **incremento** del **operador b**, tenemos que **a = 0** y **b = 1**, por lo que **a < b** y se enciende el **LED rojo** (menor que). Luego introducimos el **número 6** en **a**, y no se enciende ningún LED porque no se cumple ninguna condición. **Incrementamos b** hasta que es **6** y se cumple **a = b**, y volvemos a **incrementar b** para tener otra vez que **a < b** y se encienda el led rojo
+Lo **cargamos** y lo **probamos**. En este **vídeo **lo vemos en acción. Inicialmente los dos operandos son **0**, por lo que se enciende el **LED de igualdad**
 
 [![Click to see the youtube video](http://img.youtube.com/vi/IgIlH-ILyLc/0.jpg)](https://www.youtube.com/watch?v=IgIlH-ILyLc)
+
+Al pulsamos el botón de **incremento** del **operador b**, tenemos que **a = 0** y **b = 1**, por lo que **a < b** y se enciende el **LED rojo** (menor que). Luego introducimos el **número 6** en **a**, y no se enciende ningún LED porque no se cumple ninguna condición. **Incrementamos b** hasta que es **6** y se cumple **a = b**, y volvemos a **incrementar b** para tener otra vez que **a < b** y se encienda el led rojo
 
 ## Comparadores de un operando
 
