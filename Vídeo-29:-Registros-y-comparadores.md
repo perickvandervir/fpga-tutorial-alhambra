@@ -30,6 +30,7 @@ TODO
   * [Comparadores de un operando](#comparadores-de-un-operando)
     * [Ejemplo 5: Apertura de caja fuerte con código](#ejemplo-5-apertura-de-caja-fuerte-con-c%C3%B3digo)
 * [Aplicaciones](#aplicaciones)
+  * [Ejemplo 6: El juego de la ruleta](#ejemplo-6-juego-de-la-ruleta)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
