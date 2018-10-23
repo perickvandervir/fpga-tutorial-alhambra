@@ -153,8 +153,13 @@ Muchas veces hay que realizar una **comparación** entre un dato, que varía y u
 
 ### Ejemplo 5: Apertura de caja fuerte con código
 
+Reharemos el ejemplo que ya conocemos de la **apertura** de una **caja fuerte** con **código**, pero usando un **comparador de igualdad** con operando y constante. Por los interruptores externos introducimos **el código** y al apretar el pulsador se guardan en un **registro**. Este dato se compara con el **código de apertura** y se mueve el servo que abre la caja fuerte si es correcto. El **escenario** es el siguiente:
+
 (Dibujo)  
 
+(Circuito)
+
+(Vídeo)
 
 (Opcional: Arranque de 3 circuitos diferentes, usando comandos: Servo on, off, motor on/off, alarma luminosa on/off)
 
