@@ -138,7 +138,7 @@ En el circuito colocamos un **registro** para el **operador a**, y un **contador
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Comp-03.png)
 
-Lo **cargamos** y lo **probamos**. En este **vídeo **lo vemos en acción. Inicialmente los dos operandos son **0**, por lo que se enciende el **LED de igualdad**
+Lo **cargamos** y lo **probamos**. En este **vídeo** lo vemos en acción. Inicialmente los dos operandos son **0**, por lo que se enciende el **LED de igualdad**
 
 [![Click to see the youtube video](http://img.youtube.com/vi/IgIlH-ILyLc/0.jpg)](https://www.youtube.com/watch?v=IgIlH-ILyLc)
 
