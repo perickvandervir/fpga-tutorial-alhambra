@@ -162,7 +162,7 @@ El **código de apertura** se configura como **constante** del comparador, que p
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Comp-06.png)
 
-Lo cargamos y lo probamos. Sólo cuando se introduce el **5** (101 en binario) y se pulsa enter es cuando se enciende el **LED verde** y se mueve el servo
+Lo cargamos y lo probamos. Primero se introducen los **códigos incorrectos** 1 y 3, y la caja **no** se abre. Luego se mete el  **correcto**: 5 (101 en binario) y se enciende el **LED verde** y se mueve el **servo**. Por último se introduce otro **incorrecto**: 7. Se apaga el LED y se cierra la puerta
 
 (Vídeo)
 
