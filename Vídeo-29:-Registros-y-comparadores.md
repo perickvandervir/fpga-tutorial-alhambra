@@ -180,11 +180,11 @@ Es un **juego de azar**, en el que se gana si el **número** que se obtiene al t
 
 2. Una vez satisfecho con el número, se aprieta el **botón de tirar**. Se apaga el led verde y se enciende el **amarillo**. Estamos en **modo ruleta**. Ahora en el display aparecerá el número actual de la ruleta, que inicialmente es el 0.
 
-3. El jugador tira la ruleta (el spiner). En el display aparecerán los números consecutivamente. Cada vez que un brazo del spiner pasa por sensor de IR suena un pitido y se incrementa el display
+3. El jugador **tira la ruleta** (el spiner). En el display aparecerán los números consecutivamente. Cada vez que un brazo del spiner pasa por **sensor de IR** suena un **pitido** y se incrementa el número del display
 
-4. Cuando se para el spiner, bien se emite un pitido grave si el número del display es distinto al seleccionado (el jugador pierde), o bien se activa una sirena acústica y luminosa para indicar que ha ganado
+4. Cuando se **detiene el spiner**, bien se emite un **pitido grave** si el número del display es distinto al seleccionado (el jugador pierde), o bien se activa una **sirena acústica** y **luminosa** para indicar que **ha ganado**
 
-5. Al cabo de unos segundos, el juego vuelve al estado inicial: Se enciende el led verde y se apaga el resto. Volvemos al punto 1
+5. Al cabo de unos segundos, el juego vuelve al **estado inicial**: Se enciende el led verde y se apaga el resto. Volvemos al **punto 1**
 
 (Foto escenario)
 
