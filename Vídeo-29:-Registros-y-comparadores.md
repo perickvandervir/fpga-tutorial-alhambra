@@ -200,6 +200,12 @@ Lo resolveremos por partes, que luego juntaremos. Necesitamos un **biestables RS
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-01.png)
 
+El **botón de Enter**, para elegir número, **sólo** funciona en el **modo selección**, por lo que colocamos una **AND** de habilitación (y una NOT) para que sólo se propage su tic si estamos en este modo. Y lo mismo con el tic que viene del **IR** de la ruleta: con la AND hacemos que sus tics se habiliten sólo en **modo ruleta**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-02.png)
+
+De esta forma, si estamos tirando la ruleta en **modo selección**, no ocurre nada. Y si pulsamos el **botón de enter** en el **modo ruleta**, tampoco ocurrirá nada. No podemos elegir otro número mientras esté en marcha
+
 (TODO)
 
 (Circuito final)
