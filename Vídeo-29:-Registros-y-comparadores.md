@@ -206,6 +206,10 @@ El **botón de Enter**, para elegir número, **sólo** funciona en el **modo sel
 
 De esta forma, si estamos tirando la ruleta en **modo selección**, no ocurre nada. Y si pulsamos el **botón de enter** en el **modo ruleta**, tampoco ocurrirá nada. No podemos elegir otro número mientras esté en marcha
 
+Por los **tres interruptores** se introduce el **número elegido** y se captura en un **registro de 3 bits** al apretar la **tecla Enter**, si es que estamos en el **modo de selección**. Si no, se ignora la pulsación.
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-03.png)
+
 (TODO)
 
 (Circuito final)
