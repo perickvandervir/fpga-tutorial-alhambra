@@ -214,6 +214,9 @@ Los **tics** que llegan del **infrarrojo** al tirar la **ruleta**, si estamos en
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-04.png)
 
+El **número elegido** y el **número actual** de la ruleta se llevan a un **comparador** para saber si son iguales o no. Estos números también se muestran por el **display de 7 segmentos**, según el modo en el que estemos: selección o ruleta
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-05.png)
 (TODO)
 
 (Circuito final)
