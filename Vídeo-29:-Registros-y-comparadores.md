@@ -210,6 +210,10 @@ Por los **tres interruptores** se introduce el **número elegido** y se captura 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-03.png)
 
+Los **tics** que llegan del **infrarrojo** al tirar la **ruleta**, si estamos en **modo ruleta**, llegan a un **temporizador de 10ms** para generar el **pitido** del movimiento de la ruleta, y de este llegan a la **entrada cnt** de un **contador de 3 bits**, que contiene el **número actual** de la ruleta. Se incrementa con cada paso del brazo del spiner sobre el sensor
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-04.png)
+
 (TODO)
 
 (Circuito final)
