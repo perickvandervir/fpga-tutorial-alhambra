@@ -218,7 +218,7 @@ El **número elegido** y el **número actual** de la ruleta se llevan a un **com
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-05.png)
 
-Una parte muy importante es saber **cuándo la ruleta está parada**. Usaremos un segundo **biestable RS** para almacenar este estado. Sabemos que está parada si han pasado al menos **2 segundos** desde la recepción del **último tic** del spiner. Cualquier tic que llegue antes de ese tiempo hace que el temporizador se reinicie y vuelva a empezar la cuenta. Por ello, sólo cuando el temporizador emite el tic de 2 segundos es porque se ha parado. Mientras esté en movimiento el spiner, no emitirá ningún tic de fin
+Una parte muy importante es saber **cuándo la ruleta está parada**. Usaremos un segundo **biestable RS** para almacenar este estado. Sabemos que está parada si han pasado al menos **2 segundos** desde la recepción del **último tic** del spiner. Cualquier tic que llegue antes de ese tiempo hace que el temporizador se **reinicie** y vuelva a empezar la cuenta. Por ello, sólo cuando el temporizador emite el tic de 2 segundos es porque se ha parado. Mientras esté en movimiento el spiner, no emitirá ningún tic de fin
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-06.png)
 
