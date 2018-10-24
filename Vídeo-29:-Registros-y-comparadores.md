@@ -190,9 +190,11 @@ El **escenario** se muestra a continuación. Dispone de **3 interruptores** para
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Comp-07.png)
 
-(Vídeo del funcionamiento)
+En este **vídeo** se muestra un ejemplo del funcionamiento. Se introduce el **número 5** y se pulsa **enter**. Luego se da al **botón de tirar** y se dan **vueltas a la ruleta**. Se falla. Luego se repite el proceso con el número 1. Esta segunda vez se hace **trampa** y se detiene la ruleta para ganar y ver lo que ocurre
 
-(¿Cómo sería el circuito?)
+[![Click to see the youtube video](http://img.youtube.com/vi/yqSDqRtoCkM/0.jpg)](https://www.youtube.com/watch?v=yqSDqRtoCkM)
+
+Visto el funcionamiento y sus partes... ¿Cómo se hace este circuito?
 
 (Circuito de las diferentes partes)
 
