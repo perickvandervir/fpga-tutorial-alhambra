@@ -196,7 +196,11 @@ En este **vídeo** se muestra un ejemplo del funcionamiento. Se introduce el **n
 
 Visto el funcionamiento y sus partes... ¿Cómo se hace este circuito?
 
-(Circuito de las diferentes partes)
+Lo resolveremos por partes, que luego juntaremos. Necesitamos un **biestables RS** para determinar en qué **modo** está el circuito: **modo selección** o **modo ruleta**. La salida la conectamos a los LEDs indicadores: Verde y Amarillo. **Inicialmente** se empieza en **modo selección** y al apretar el **botón de tirar** se cambia a modo ruleta
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-01.png)
+
+(TODO)
 
 (Circuito final)
 
