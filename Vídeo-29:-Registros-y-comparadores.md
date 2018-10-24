@@ -186,7 +186,9 @@ Es un **juego de azar**, en el que se gana si el **número** que se obtiene al t
 
 5. Al cabo de unos segundos, el juego vuelve al **estado inicial**, y el circuito entra en el **modo selección**: Se enciende el led verde y se apaga el resto. Volvemos al **punto 1**
 
-(Foto escenario)
+El **escenario** se muestra a continuación. Dispone de **3 interruptores** para introducir el número elegido, **dos pulsadores** (enter y tirar), **4 LEDs**, un **zumbador**, un **display de 7 segmentos**, el **sensor IR** y el **spiner** que hace de ruleta
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Comp-07.png)
 
 (Vídeo del funcionamiento)
 
