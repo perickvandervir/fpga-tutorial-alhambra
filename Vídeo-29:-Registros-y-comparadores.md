@@ -266,7 +266,7 @@ El funcionamiento es simple. Se introduce el **código en binario** y se pulsa *
 
 ¿Cómo se hace este circuito?
 
-
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-02.png)
 
 
 (Partes del circuito)  
