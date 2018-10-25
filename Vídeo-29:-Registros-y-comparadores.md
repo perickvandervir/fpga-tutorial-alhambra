@@ -292,7 +292,11 @@ El comando 7 es diferente. Cada vez que se introduce, el motor **cambia de senti
 
 El **tic del pulsador** no se conecta directamente al biestable de cambio, sino que se pasa por un **biestable D del sistema** para que llegue a la vez que el código del comando. Si no se hiciera, llegaría antes el tic que el omando, y no funcionaría
 
-(Comando Reset)  
+El último comando es el de **RESET**, que pone **todos los biestables a 0**. Lo implementamos con un **comparador** para el **código 0** y la salida la llevamos a la **entrada reset** de todos los biestables, a través de una **puerta OR**. Cada dispositivo se pone a 0 bien porque recibe su comando de OFF particular o el RESET
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-08.png)
+
+
 (Circuito completo)  
 
 (TODO)
