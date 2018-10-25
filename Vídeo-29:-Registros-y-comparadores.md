@@ -241,7 +241,12 @@ Juntando todos estos circuitos parciales, y reodenando los componentes, obtenemo
 
 ## Ejemplo 7: Control por comandos
 
-(Opcional: Arranque de 3 circuitos diferentes, usando comandos: Servo on, off, motor on/off, alarma luminosa on/off)
+(Console: three switches + enter key + display 7 seg)  
+(Device 1: Motor. Start, stop, reverse)  
+(Device 2: Open, close)  
+(Device 3: Alarm on/off)  
+(Reset command: shut down everything...)  
+
 
 # Comunicando la FPGA con un Arduino
 
