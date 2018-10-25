@@ -245,6 +245,8 @@ Haremos una **consola de control**, muy básica, para manejar **tres dispositivo
 
 El control de los dispositivos lo hacemos introduciendo un **código**, o comando, a través de la **consola**. Este **código de 3 bits** lo metemos por 3 interruptores y pulsamos la **tecla ENTER**. En el **display** se muestra el último comando introducido. El **montaje** es el siguiente:
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-01.png)
+
 (TODO)
 
 # Comunicando la FPGA con un Arduino
