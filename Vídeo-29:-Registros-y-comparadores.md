@@ -234,9 +234,9 @@ Para volver al **estado inicial** se genera una **señal de reset**, que inicial
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-09.png)
 
-(TODO)
+Juntando todos estos circuitos parciales, y reodenando los componentes, obtenemos el **circuito final** que implementa el **juego de la ruleta**
 
-(Circuito final)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-10.png)
 
 ## Ejemplo 7: Control por comandos
 
