@@ -247,7 +247,23 @@ El control de los dispositivos lo hacemos introduciendo un **código**, o comand
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-01.png)
 
-(Tabla de comandos)  
+El **listado** de todos los **comandos** posibles, junto a sus códigos se muestra en la siguiente **tabla**. En total tenemos **8 comandos**
+
+| Comando | Código | Descripción |
+|---------|--------|-------------|
+| RESET   | 0      | Apagar todos los dispositivos (volver al estado inicial) |
+| AlarmON | 1      | Activar Alarma luminosa |
+| AlarmOFF| 2      | Desactivar Alarma luminosa |
+| OPEN    | 3      | Abrir la puerta (Se mueve el servo) |
+| CLOSE   | 4      | Cerrar la puerta (Se mueve el servo) |
+| MotorON | 5      | Encender el motor |
+| MotorOFF| 6      | Apagar motor      |
+| MotorDIR| 7      | Cambiar el sentido de la marcha del motor |
+ 
+El funcionamiento es simple. Se introduce el **código en binario** y se pulsa **Enter**. En este **vídeo** se muestra un ejemplo en acción. Primero ejecuta el comando **1** para activar la alarma, luego el **3** para **abrir la puerta** y el **5** para encender el **motor**. Cada vez que se ejecuta el **7**, el **sentido de giro** del motor cambia. Con el **4** se **cierra** la puerta y finalmente se ejecuta el **0** para **apagarlo todo** y volver al **estado inicial**
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
 (Vídeo funcionamiento)  
 (¿Cómo se hace?)  
 (Partes del circuito)  
