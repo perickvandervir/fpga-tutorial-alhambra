@@ -274,6 +274,10 @@ Ahora añadimos los comandos. Comenzamos con la alarma. Usamos un **biestable RS
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-03.png)
 
+El **comando de apagado** de la alarma se implementa con el **mismo esquema**. Se usa un **comparador** para saber si el comando introducido es el de **código 2** (AlarmOFF). Su salida se conecta a la **entrada de reset** del **biestable de estado**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-04.png)
+
 
 (Partes del circuito)  
 (Circuito completo)  
