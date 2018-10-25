@@ -241,12 +241,11 @@ Juntando todos estos circuitos parciales, y reodenando los componentes, obtenemo
 
 ## Ejemplo 7: Control por comandos
 
-(Console: three switches + enter key + display 7 seg)  
-(Device 1: Motor. Start, stop, reverse)  
-(Device 2: Open, close)  
-(Device 3: Alarm on/off)  
-(Reset command: shut down everything...)  
+Haremos una **consola de control**, muy básica, para manejar **tres dispositivos** diferentes: una  **alarma luminosa**, que podemos encender o apagar, una **puerta** accionada por un servo, que también abrimos o cerramos, y un **motor**, que además de encenderlo y apagarlo podemos cambiar su **sentido** de la marcha.
 
+El control de los dispositivos lo hacemos introduciendo un **código**, o comando, a través de la **consola**. Este **código de 3 bits** lo metemos por 3 interruptores y pulsamos la **tecla ENTER**. En el **display** se muestra el último comando introducido. El **montaje** es el siguiente:
+
+(TODO)
 
 # Comunicando la FPGA con un Arduino
 
