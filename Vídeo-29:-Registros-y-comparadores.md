@@ -31,6 +31,7 @@ TODO
     * [Ejemplo 5: Apertura de caja fuerte con código](#ejemplo-5-apertura-de-caja-fuerte-con-c%C3%B3digo)
 * [Aplicaciones](#aplicaciones)
   * [Ejemplo 6: El juego de la ruleta](#ejemplo-6-juego-de-la-ruleta)
+  * [Ejemplo 7: Control por comandos](#ejemplo-7-control-por-comandos)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
