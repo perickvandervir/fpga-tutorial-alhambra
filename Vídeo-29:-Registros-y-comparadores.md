@@ -286,8 +286,10 @@ Y otra vez lo mismo para el **Dispositivo 3**: el Motor. Los códigos de activac
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-06.png)
 
+(Comando 7)
 
-(Comando 7)  
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-07.png)
+
 (Comando Reset)  
 (Circuito completo)  
 
