@@ -286,9 +286,11 @@ Y otra vez lo mismo para el **Dispositivo 3**: el Motor. Los códigos de activac
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-06.png)
 
-(Comando 7)
+El comando 7 es diferente. Cada vez que se introduce, el motor **cambia de sentido**. Por ello, usamos un **biestable de cambio**, en vez de uno RS, que se conecta a la **entrada de dirección** del bloque del motor. Además necesitamos un **tic** para hacer el cambio. Usamos el propio botón de enter. Así, el cambio de sentido se producirá cuando se haya introducido el código 7 y llegue un tic de enter.
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-07.png)
+
+El **tic del pulsador** no se conecta directamente al biestable de cambio, sino que se pasa por un **biestable D del sistema** para que llegue a la vez que el código del comando. Si no se hiciera, llegaría antes el tic que el omando, y no funcionaría
 
 (Comando Reset)  
 (Circuito completo)  
