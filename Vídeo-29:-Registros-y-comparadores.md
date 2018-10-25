@@ -296,10 +296,9 @@ El último comando es el de **RESET**, que pone **todos los biestables a 0**. Lo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-08.png)
 
+Ponemos **todas las partes juntas** y tenemos el **circuito final**
 
-(Circuito completo)  
-
-(TODO)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-09.png)
 
 # Comunicando la FPGA con un Arduino
 
