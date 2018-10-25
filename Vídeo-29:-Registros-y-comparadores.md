@@ -222,6 +222,9 @@ Una parte muy importante es saber **cuándo la ruleta está parada**. Usaremos u
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-06.png)
 
+Ya podemos determinar cuando se ha ganado: si el numero elegido es igual al de la ruleta, y la ruleta está parada, entonces se **ha ganado**. Si los números son diferentes, con la ruleta parada, se **ha perdido**. Con un par de **puertas AND** y una **NOT** obtenemos la señal de acierto y la de fallo
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-07.png)
 
 (TODO)
 
