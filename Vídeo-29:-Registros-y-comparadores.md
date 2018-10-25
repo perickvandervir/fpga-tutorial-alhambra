@@ -278,6 +278,9 @@ El **comando de apagado** de la alarma se implementa con el **mismo esquema**. S
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-04.png)
 
+Este **mismo esquema** lo usamos con el **dispositivo 2**: La puerta. Un **biestable de estado** para almacenar si está abierta o cerrada y **dos comparadores** para los comandos de abrir y cerrar, cuyos códigos son  **3** y **4**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-05.png)
 
 (Partes del circuito)  
 (Circuito completo)  
