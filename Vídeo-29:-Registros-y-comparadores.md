@@ -230,6 +230,10 @@ La **señal de acierto** activa la **sirena luminosa** y **la acústica**. El **
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-08.png)
 
+Para volver al **estado inicial** se genera una **señal de reset**, que inicializa los **dos biestables** del circuito. Al pararse la ruleta se emite un tic que activa otro **temporizador**, durante **3 segundos**, transcurridos los cuales se emite la señal de reset. Adicionalmente se puede hacer un **reset manual**, en cualquier momento, apretando el pulsador SW1
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-09.png)
+
 (TODO)
 
 (Circuito final)
