@@ -270,7 +270,7 @@ Lo haremos por partes y luego lo unimos todo. Empezamos por la parte que ya cono
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-02.png)
 
-Ahora añadimos los comandos. Comenzamos con la alarma. Usamos un **biestable RS** para almacenar su **estado**: 0-apagada, 1-activada. Su salida está conectada directamente al bloque de la alarma. Mediante un **comparador de un operando** determinamos si el **comando actual** tiene el **código 1** (AlarmaON). Su salida se conecta directamente a la entrada **set** del biestable RS
+Ahora añadimos los comandos. Comenzamos con la alarma. Usamos un **biestable RS** para almacenar su **estado**: 0-apagada, 1-activada. Su salida está conectada directamente al bloque de la alarma. Mediante un **comparador de un operando** determinamos si el **comando actual** tiene el **código 1** (AlarmaON). Su salida se conecta directamente a la entrada **set** del biestable RS. Con cualquier otro código no se activa el comparador y la alarma permanece en el mismo estado
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-03.png)
 
