@@ -226,6 +226,10 @@ Ya podemos determinar cuando se ha ganado: si el numero elegido es igual al de l
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-07.png)
 
+La **señal de acierto** activa la **sirena luminosa** y **la acústica**. El **zumbador** puede emitir 3 sonidos diferentes, según la situación: el sonido del movimiento de la ruleta, la sirena de acierto, y el tono de fallo. Usando la **señal de acierto** y el **estado de la ruleta** configuramos los **multiplexores** para que se escuche el sonido que toque
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Ruleta-08.png)
+
 (TODO)
 
 (Circuito final)
