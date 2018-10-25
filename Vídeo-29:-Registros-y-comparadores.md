@@ -266,6 +266,8 @@ El funcionamiento es simple. Se introduce el **código en binario** y se pulsa *
 
 ¿Cómo se hace este circuito?
 
+Lo haremos por partes y luego lo unimos todo. Empezamos por la parte que ya conocemos y que hemos usado en los circuitos anteriores: **la consola**. El valor de los **3 interruptores externos** se captura en el **registro de comando** al apretar la **tecla ENTER** y se muestra su valor en el **display de 7 segmentos**
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-02.png)
 
 
