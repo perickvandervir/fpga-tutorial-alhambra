@@ -262,10 +262,13 @@ El **listado** de todos los **comandos** posibles, junto a sus códigos se muest
  
 El funcionamiento es simple. Se introduce el **código en binario** y se pulsa **Enter**. En este **vídeo** se muestra un ejemplo en acción. Primero ejecuta el comando **1** para activar la alarma, luego el **3** para **abrir la puerta** y el **5** para encender el **motor**. Cada vez que se ejecuta el **7**, el **sentido de giro** del motor cambia. Con el **4** se **cierra** la puerta y finalmente se ejecuta el **0** para **apagarlo todo** y volver al **estado inicial**
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/sSQvioiuxYY/0.jpg)](https://www.youtube.com/watch?v=sSQvioiuxYY)
 
-(Vídeo funcionamiento)  
-(¿Cómo se hace?)  
+¿Cómo se hace este circuito?
+
+
+
+
 (Partes del circuito)  
 (Circuito completo)  
 
