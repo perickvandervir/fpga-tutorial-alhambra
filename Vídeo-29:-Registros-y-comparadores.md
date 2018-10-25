@@ -282,6 +282,10 @@ Este **mismo esquema** lo usamos con el **dispositivo 2**: La puerta. Un **biest
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-05.png)
 
+Y otra vez lo mismo para el **Dispositivo 3**: el Motor. Los códigos de activación y desactivación son **5** y **6** respectivamente
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-06.png)
+
 (Partes del circuito)  
 (Circuito completo)  
 
