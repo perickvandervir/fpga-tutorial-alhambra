@@ -247,6 +247,12 @@ El control de los dispositivos lo hacemos introduciendo un **código**, o comand
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Consola-01.png)
 
+(Tabla de comandos)  
+(Vídeo funcionamiento)  
+(¿Cómo se hace?)  
+(Partes del circuito)  
+(Circuito completo)  
+
 (TODO)
 
 # Comunicando la FPGA con un Arduino
