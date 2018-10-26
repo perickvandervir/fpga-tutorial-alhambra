@@ -213,6 +213,7 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Loly López  (Lolype)  | Cadete | 10 | 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Renzo Bolivar (@renbol)  | Cadete | 10 | 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Carlos Lloret (charly127)   | Cadete | 10/10 | T2 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Antonio Lago (@AntonioLagoD)  | Cadete | 10/10 | T2 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)    | Josue Granados (Josuari9)      | Cadete   | 9  | 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Juanmilla Roldan       | Cadete | 7 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/02-cadete-min.png)| Javier Esquiva Mira (Javiesmi)       | Cadete | 7 |
@@ -247,7 +248,6 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| fcojfdezrios  | Aspirante a Cadete | 4/4 | T1 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| Joseplur  | Aspirante a Cadete | 4/4 | T1 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| Iván Eguiguren (@ivan_eguiguren, ieguiguren) | Aspirante a Cadete | 4/4 | T1 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| Antonio Lago (@AntonioLagoD) | Aspirante a Cadete | 4/4 | T1 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| Jdlrav             | Aspirante a Cadete | 3 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| Julián (@cilleromartin)      | Aspirante a Cadete | 3 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/01-Aspirante-cadete-min.png)| Jose Luis González (@gnjoseluis)   | Aspirante a Cadete | 3/10 | T2 |
