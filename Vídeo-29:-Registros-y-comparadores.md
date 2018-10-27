@@ -309,6 +309,7 @@ Una forma sencilla de empezar es usando **comunicaciones serie síncronas** entr
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-01.png)
 
+El **Arduino** es el **Máster**: es el que genera la **señal de reloj** y el que toma la **iniciativa** en la comunicación, tanto para enviar como para recibir. La **FPGA** es la **esclava**. Este tipo de comunicación se llama **maestro-esclavo**, y es el esquema usado en los buses como el [SPI](https://es.wikipedia.org/wiki/Serial_Peripheral_Interface) o [i2c](https://es.wikipedia.org/wiki/I%C2%B2C)
 
 (7-Envío de datos a Arduino)  
 (8-Recepción de datos desde arduino)  
