@@ -316,9 +316,12 @@ Aunque el Arduino incorpora **hardware específico** para realizar esta comunica
 
 ## Comunicación Arduino --> FPGA (Escritura)
 
-(7-Envío de datos a Arduino)  
-(8-Recepción de datos desde arduino)  
+(Ej.8-Puerto de salida adicional)  
 
+## Comunicación FPGA -> Arduino (Lectura)
+
+
+(Ej.9- Puerto de entrada adicional)  
 
 
 (TODO)
