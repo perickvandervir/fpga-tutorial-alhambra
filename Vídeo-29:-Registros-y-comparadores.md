@@ -320,7 +320,9 @@ Usaremos números de **8 bits** (bytes) como **unidades de comunicación**, aunq
 
 ## Comunicación Arduino -> FPGA (Escritura)
 
+(Dibujo cableado)
 
+Los bits seríe que llegan por 
 
 (Registro de desplazamiento)  
 (Meta estabilidad)  
