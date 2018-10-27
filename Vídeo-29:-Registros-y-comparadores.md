@@ -333,7 +333,10 @@ En esta **tabla** se muestran **los pines** usados para las conexiones de los ca
 |  D10         |   D10         | Control      |
 |  GND         |   GND         | Masa         |
 
-(Registro de desplazamiento)  
+La **recepción de los datos serie** se hace usando un **registro de desplazamiento** de 8 bits. El cable de datos se conecta a la entrada **sin** y la **señal de reloj** (clk) a la de desplazamiento
+
+(dibujo)
+
 (Meta estabilidad)  
 (Cableado)  
 
