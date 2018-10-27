@@ -314,9 +314,9 @@ El **Arduino** es el **Máster**: es el que genera la **señal de reloj** y el q
 
 Aunque el Arduino incorpora **hardware específico** para realizar esta comunicación, en los ejemplos de este tutorial lo haremos por **todo por software**, para comprender mejor el funcionamiento. Primero aprenderemos a enviar datos desde el Arduino a la FPGA (escritura), y luego de la FPGA al arduino (lectura) 
 
-(Dibujo: numero 8 bits. Indicar el bit que se envía primero)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-02.png)
 
-Usaremos números de **8 bits** (bytes) como **unidades de comunicación**, aunque podríamos usarlos de cualquier otra longitud. También estableceremos el **convenio** de enviar **primero el bit más significativo** y el **último** el de **menor peso**
+Usaremos números de **8 bits** (bytes) como **unidades de comunicación**, aunque podríamos usarlos de cualquier otra longitud. También estableceremos el **convenio** de enviar **primero el bit más significativo** y el **último** el de **menor peso**, en ambos sentidos de comunicación
 
 ## Comunicación Arduino -> FPGA (Escritura)
 
