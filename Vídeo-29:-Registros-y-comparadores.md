@@ -316,6 +316,11 @@ Aunque el Arduino incorpora **hardware específico** para realizar esta comunica
 
 ## Comunicación Arduino --> FPGA (Escritura)
 
+(Registro de desplazamiento)  
+(Meta estabilidad)  
+(Cableado)  
+
+
 (Ej.8-Puerto de salida adicional)  
 
 ## Comunicación FPGA -> Arduino (Lectura)
