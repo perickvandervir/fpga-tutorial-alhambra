@@ -335,7 +335,7 @@ En esta **tabla** se muestran **los pines** usados para las conexiones de los ca
 
 La **recepción de los datos serie** se hace usando un **registro de desplazamiento** de 8 bits. El cable de datos se conecta a la entrada **sin** y la **señal de reloj** (clk) a la de desplazamiento
 
-(dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-04.png)
 
 (Meta estabilidad)  
 (Cableado)  
