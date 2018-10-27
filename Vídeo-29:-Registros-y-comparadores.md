@@ -303,6 +303,8 @@ Ponemos **todas las partes juntas** y tenemos el **circuito final**
 
 # Comunicando la FPGA con un Arduino
 
+Una de las **aplicaciones de las FPGAs** es crear **periféricos** o **controladores** para usarlos desde un **microprocesador**, como por ejemplo **Arduino**. En la FPGA hacemos la **parte física**, con **pensamiento hardware**, mientras que en el **Arduino** la parte de programación, con **pensamiento computacional**, mezclando de esta forma el **diseño hardware** con el **software**
+
 (7-Envío de datos a Arduino)  
 (8-Recepción de datos desde arduino)  
 
