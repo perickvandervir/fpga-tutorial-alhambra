@@ -324,7 +324,14 @@ La operación de **enviar datos** desde el Arduino a la FPGA lo llamaremos **esc
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-03.png)
 
-Los bits seríe que llegan por 
+En esta **tabla** se muestran **los pines** usados para las conexiones de los cables de los ejemplos que usaremos
+
+| Pin Arduino  |  Pin Alhambra | Descripción  |
+|--------------|---------------|--------------|
+|  D12         |   D12         | Reloj        |
+|  D11         |   D11         | Datos        |
+|  D10         |   D10         | Control      |
+|  GND         |   GND         | Masa         |
 
 (Registro de desplazamiento)  
 (Meta estabilidad)  
