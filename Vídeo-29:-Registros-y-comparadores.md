@@ -320,6 +320,8 @@ Usaremos números de **8 bits** (bytes) como **unidades de comunicación**, aunq
 
 ## Comunicación Arduino -> FPGA (Escritura)
 
+La operación de **enviar datos** desde el Arduino a la FPGA lo llamaremos **escritura**. Utilizaremos **tres cables**: el que lleva los **datos** del arduino a la FPGA (verde), el que lleva la señal de **reloj** (gris) y la señal de **control** (amarillo). Además hay que conectar las **masas** (GND) de ambas placas (negro)
+
 (Dibujo cableado)
 
 Los bits seríe que llegan por 
