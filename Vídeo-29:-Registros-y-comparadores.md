@@ -34,6 +34,7 @@ TODO
   * [Ejemplo 7: Control por comandos](#ejemplo-7-control-por-comandos)
 * [Comunicando la FPGA con un Arduino](#comunicando-la-fpga-con-un-arduino)
   * [Comunicación Arduino -> FPGA (Escritura)](#comunicaci%C3%B3n-arduino---fpga-escritura)
+    * [Circuito sincronizador](#circuito-sincronizador)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
