@@ -337,6 +337,10 @@ La **recepción de los datos serie** se hace usando un **registro de desplazamie
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-04.png)
 
+Durante la **recepción del dato**, el registro se va desplazando y en su salida aparecen **valores temporales** que **NO** son el dato final. Por ello, colocamos un **registro adicional** que capture el **dato final**, cuando se haya recibido completamente. La **orden de captura** es la que llega por el **cable de control**
+
+(Dibujo)
+
 (Meta estabilidad)  
 (Cableado)  
 
