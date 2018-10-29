@@ -362,9 +362,9 @@ Las **señales** de **reloj** y **control** las **convertimos en tics**, mediant
 El **arduino** cada vez que realiza una **operación de escritura** sobre la **FPGA** está almacenando un dato de 8 bits en este **registro de datos**. Según el circuito que se esté implementando, este dato recibido se usará con un fin u otro
 
 Para realizar esta **escritura**, el Arduino (software) tiene que realizar **estas operaciones**:
-* Inicialmente las señales de reloj y control deben estar a 0
-* Enviar el dato en seríe, empezando por el bit más significativo. Por cada bit enviado debe generar un pulso en la señal de reloj (escritura de un 1, seguida de un 0)
-* Una vez enviado el octavo bit, se debe generar otro pulso en la señal de control (un 1 y luego un 0) para que el dato se capture en el registro de datos
+* Inicialmente las señales de **reloj** y **control** deben estar a **0**
+* **Enviar el dato en seríe**, empezando por el **bit más significativo**. Por cada bit enviado debe generar un **pulso** en la señal de **reloj** (escritura de un 1, seguida de un 0)
+* Una vez enviado el **octavo bit**, se debe generar otro **pulso** en la **señal de control** (un 1 y luego un 0) para que el dato se **capture** en el **registro de datos**
 
 
 (Cableado)  
