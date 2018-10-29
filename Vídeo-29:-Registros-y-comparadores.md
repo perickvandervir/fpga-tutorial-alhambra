@@ -344,7 +344,7 @@ Durante la **recepción del dato**, el registro se va desplazando y en su salida
 
 ### Circuito sincronizador
 
-Todas las señales que llegan desde el **exterior de la FPGA** tiene que pasar por un **circuito sincronizador**, que tiene este aspecto en Icestudio, y que se encuentra en el menú **Varios/Entradas/Sync**
+Todas las señales que llegan desde el **exterior de la FPGA** tiene que pasar por un **circuito sincronizador**, que tiene este aspecto en Icestudio, y que se encuentra en el menú **Varios/Entradas/Sync** de la **colección 29**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-06.png)
 
