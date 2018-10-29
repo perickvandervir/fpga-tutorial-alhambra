@@ -353,6 +353,15 @@ El sincronizador está formado por **dos biestables D** en **cascada** cuya misi
 
 ### Receptor serie síncrono
 
+Nuestro **receptor serie síncrono genérico**, está formado por las **tres señales** de entrada: **datos**, **reloj** y **control**, que pasan por su respectivos sincronizadores. Además tenemos el **registro de desplazamiento** para convertir el dato seria a paralelo y el **registro de datos** que contiene el **dato final recibido**
+
+(Dibujo)
+
+
+El **arduino** cada vez que realiza una **operación de escritura** sobre la **FPGA**, está almacenando un dato de 8 bits en este **registro de datos**. Según el circuito que se esté implementando, este dato recibido se usará con un fin u otro
+
+(Protocolo)
+
 (Cableado)  
 
 
