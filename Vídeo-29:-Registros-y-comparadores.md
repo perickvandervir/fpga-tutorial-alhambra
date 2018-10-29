@@ -440,7 +440,10 @@ Para probarlo, cargamos el **hardware** en la **Alhambra**, desde Icestudio, y e
 
 [![Click to see the youtube video](http://img.youtube.com/vi/yVoYMbUsWjs/0.jpg)](https://www.youtube.com/watch?v=yVoYMbUsWjs)
 
-(Codiseño hardware/sotware)
+**¡Bienvenidos al mundo del codiseño Hardware/Software!** Ahora podemos tocar ambos mundos fácilmente. En la pantalla de la izquierda tengo **Icestudio**, para hacer **actualizaciones del hardware**. En la derecha el **Arduino IDE**, para **modificar el software**. Ambos los actualizamos en segundos, y en el orden que queramos
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-10.png)
+
 
 ## Comunicación FPGA -> Arduino (Lectura)
 
