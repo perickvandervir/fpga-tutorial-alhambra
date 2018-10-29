@@ -405,6 +405,36 @@ La **implementación del circuito** usa el **receptor serie síncrono** genéric
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-09.png)
 
+En el **Arduino** cargamos un **programa de pruebas**, que por ejemplo escriba los datos **0x55** y **0xAA** cada medio segundo. Primero se **configuran** los pines a usar. El **pin de control** se pone a **0**. En el bucle principal se envían los dos valores
+
+```C
+const int LED = 13;  //-- LED de Arduino
+const int CLK = 12;  //-- Pin de reloj
+const int DAT = 11;  //-- Pin de Datos
+const int CTRL = 10; //-- Pin de control
+
+void setup() {
+  pinMode(LED, OUTPUT);
+  pinMode(CLK, OUTPUT);
+  pinMode(DAT, OUTPUT);
+  pinMode(CTRL, OUTPUT);
+  digitalWrite(CTRL, LOW);
+  digitalWrite(LED, LOW);
+}
+
+void fpga_write(int value) {
+ shiftOut(DAT, CLK, MSBFIRST, value);
+ digitalWrite(CTRL, HIGH);
+ digitalWrite(CTRL, LOW);
+}
+
+void loop() {
+   fpga_write(0x55);
+   delay(500);
+   fpga_write(0xAA);
+   delay(500);
+}
+```
 
 (pueta en marcha)
 
