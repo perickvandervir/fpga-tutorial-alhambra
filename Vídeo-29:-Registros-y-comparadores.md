@@ -405,7 +405,7 @@ La **implementación del circuito** usa el **receptor serie síncrono** genéric
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-09.png)
 
-En el **Arduino** cargamos un **programa de pruebas**, que por ejemplo escriba los datos **0x55** y **0xAA** cada medio segundo. Primero se **configuran** los pines a usar. El **pin de control** se pone a **0**. En el bucle principal se envían los dos valores. El programa se puede descargar de aquí: [Puerto-secuencia.ino](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino/Puerto-secuencia/Puerto-secuencia.ino)
+En el **Arduino** cargamos un **programa de pruebas**, que por ejemplo escriba los datos **0x55** y **0xAA** cada medio segundo. Primero se **configuran** los pines a usar. El **pin de control** se pone a **0**. En el bucle principal se envían los dos valores. El programa se puede **descargar** de aquí: [Puerto-secuencia.ino](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino/Puerto-secuencia/Puerto-secuencia.ino)
 
 ```C
 const int LED = 13;  //-- LED de Arduino
