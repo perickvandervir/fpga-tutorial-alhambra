@@ -348,8 +348,8 @@ Todas las señales que llegan desde el **exterior de la FPGA** tiene que pasar p
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-06.png)
 
+El sincronizador está formado por **dos biestables D** en **cascada** cuya misión es minimizar los **problemas de metaestabilidad** que suceden cuando la señal exterior cambia en el **mismo instante** que el **flanco de reloj del sistema** de la FPGA. El dato capturado no es ni uno ni cero. Se puede encontrar más información sobre este problema en esta entrada de la wikipedia: [Metaestabilidad en electrónica digital](https://es.wikipedia.org/wiki/Metaestabilidad#En_electr%C3%B3nica_digital)
 
-(Meta estabilidad)  
 (Cableado)  
 
 
