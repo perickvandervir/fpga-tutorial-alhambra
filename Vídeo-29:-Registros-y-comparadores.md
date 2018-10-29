@@ -372,6 +372,14 @@ Para realizar esta **escritura**, el Arduino (software) tiene que realizar **est
 
 Para realizar la **escritura** desde el **Arduino** a la **FPGA** implementamos la función **fpga_write(int value)**, que envía el dato pasado como parámetro. Se implementa de forma muy fácil usando la función [shiftOut](https://www.arduino.cc/reference/en/language/functions/advanced-io/shiftout/) de la **biblioteca de Arduino**
 
+```C
+void fpga_write(int value) {
+  shiftOut(DAT, CLK, MSBFIRST, value);
+  digitalWrite(CTRL, HIGH);
+  digitalWrite(CTRL, LOW);
+}
+```
+
 (TODO)
 
 ### Ejemplo 8: Implementación de un puerto de salida adicional para el Arduino
