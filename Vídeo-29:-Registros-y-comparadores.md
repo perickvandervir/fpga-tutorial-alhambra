@@ -438,8 +438,7 @@ void loop() {
 
 Para probarlo, cargamos el **hardware** en la **Alhambra**, desde Icestudio, y el **software** en **Arduino**, desde el **IDE** de Arduino. En este **vídeo** lo vemos en acción. Los valores escritos por el Arduino aparecen en los LEDs. Si desconectamos un cable, deja de funcionar
 
-
-(Vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/yVoYMbUsWjs/0.jpg)](https://www.youtube.com/watch?v=yVoYMbUsWjs)
 
 (Codiseño hardware/sotware)
 
