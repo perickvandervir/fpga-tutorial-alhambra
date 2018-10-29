@@ -35,6 +35,7 @@ TODO
 * [Comunicando la FPGA con un Arduino](#comunicando-la-fpga-con-un-arduino)
   * [Comunicación Arduino -> FPGA (Escritura)](#comunicaci%C3%B3n-arduino---fpga-escritura)
     * [Circuito sincronizador](#circuito-sincronizador)
+    * [Receptor serie síncrono](#receptor-serie-s%C3%ADncrono)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
