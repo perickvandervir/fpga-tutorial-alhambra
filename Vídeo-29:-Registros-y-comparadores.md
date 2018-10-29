@@ -380,7 +380,9 @@ void fpga_write(int value) {
 }
 ```
 
-(TODO)
+La función **shiftOut()** envía datos de **8 bits** de una vez. Con la constante **MSBFIRST** se indica que envíe primero **el bit de mayor peso** (que es como lo tenemos configurado en el hardware). Las constantes **CLK**, **DAT** y **CTRL** son los **pines** de arduino por donde sacar las señales de **reloj**, **datos** y **control** respectivamente
+
+Las señales de **reloj** y **datos** las controla la propia función **shiftOut**. Una vez que se ha enviado el dato, se emite un pulso el pulso en la **señal de control** para que se captura en el **registro de datos**. Este pulso lo emitimos nosotros, desde la función **fpga_write()**
 
 ### Ejemplo 8: Implementación de un puerto de salida adicional para el Arduino
 
