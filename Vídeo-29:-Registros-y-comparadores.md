@@ -366,6 +366,7 @@ Para realizar esta **escritura**, el Arduino (software) tiene que realizar **est
 * **Enviar el dato en seríe**, empezando por el **bit más significativo**. Por cada bit enviado debe generar un **pulso** en la señal de **reloj** (escritura de un 1, seguida de un 0)
 * Una vez enviado el **octavo bit**, se debe generar otro **pulso** en la **señal de control** (un 1 y luego un 0) para que el dato se **capture** en el **registro de datos**
 
+### Ejemplo 8: Implementación de un puerto de salida adicional para el Arduino
 
 (Cableado)  
 
