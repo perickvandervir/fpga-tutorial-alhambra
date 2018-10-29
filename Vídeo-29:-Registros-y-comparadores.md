@@ -375,7 +375,14 @@ El **montaje** es el siguiente. Tenemos un **Arduino Uno** conectado a una **Ice
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-08.png)
 
-(Conexionado)
+El **conexionado** entre el **Arduino Uno** y la **Icezum Alhambra** se resume en esta **tabla**
+
+| Pin Arduino  |  Pin Alhambra | Descripción  |
+|--------------|---------------|--------------|
+|  D12         |   D12         | Reloj        |
+|  D11         |   D11         | Datos        |
+|  D10         |   D10         | Control      |
+|  GND         |   GND         | Masa         |
 
 (pueta en marcha)
 
