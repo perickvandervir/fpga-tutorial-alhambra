@@ -371,7 +371,7 @@ Para realizar esta **escritura**, el Arduino (software) tiene que realizar **est
 
 Como ejemplo de escritura de un dato desde el **Arduino** a la FPGA, vamos a **aumentar las salidas** de nuestro Arduino usando un **puerto de 8 bits** en la FPGA. Es el mismo ejemplo usado en este tutorial de **Programarfacil.com**: [Aumentar salidas digitales de Arduino con el shift register](https://programarfacil.com/blog/aumentar-salidas-digitales-de-arduino-con-el-shift-register/), pero usando la **FPGA** en vez de un registro de deplazamiento discreto
 
-El **montaje** es el siguiente. Tenemos un **Arduino Uno** conectado a una **Icezum Alhambra**, mediante **4 cables **: reloj, datos, control y GND. Ambas placas están conectas al USB del ordenador para cargar el software en el Arduino y el hardware en la Alhambra
+El **montaje** es el siguiente. Tenemos un **Arduino Uno** conectado a una **Icezum Alhambra**, mediante **4 cables**: reloj, datos, control y GND. Ambas placas están conectas ordenador a través del USB, para cargar el s**oftware** en el **Arduino** y el **hardware** en la **Alhambra**
 
 (Montaje)
 
