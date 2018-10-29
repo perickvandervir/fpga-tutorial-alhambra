@@ -436,7 +436,7 @@ void loop() {
 }
 ```
 
-Para probarlo, cargamos el **hardware** en la **Alhambra**, desde Icestudio, y el **software** en **Arduino**, desde el **IDE** de Arduino. En este **vídeo** lo vemos en acción. Los valores escritos por el Arduino aparecen en los LEDs. Si desconectamos un cable, deja de funcionar
+Para probarlo, cargamos el **hardware** en la **Alhambra**, desde Icestudio, y el **software** en **Arduino**, desde el **IDE** de Arduino. En este **vídeo** lo vemos en acción. Los valores escritos por el Arduino aparecen en los **LEDs**. La secuencia se detiene en cualquiera de los siguientes casos: **reset** de la FPGA, de Arduino o si **desconectamos** uno de los cables
 
 [![Click to see the youtube video](http://img.youtube.com/vi/yVoYMbUsWjs/0.jpg)](https://www.youtube.com/watch?v=yVoYMbUsWjs)
 
