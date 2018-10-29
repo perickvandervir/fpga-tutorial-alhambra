@@ -36,6 +36,7 @@ TODO
   * [Comunicación Arduino -> FPGA (Escritura)](#comunicaci%C3%B3n-arduino---fpga-escritura)
     * [Circuito sincronizador](#circuito-sincronizador)
     * [Receptor serie síncrono](#receptor-serie-s%C3%ADncrono)
+    * [Ejemplo 8: Implementación de un puerto de salida adicional para el Arduino](#ejemplo-8-implementaci%C3%B3n-de-un-puerto-de-salida-adicional-para-el-arduino)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
