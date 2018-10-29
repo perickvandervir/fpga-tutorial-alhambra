@@ -436,10 +436,12 @@ void loop() {
 }
 ```
 
-(pueta en marcha)
+Para probarlo, cargamos el **hardware** en la **Alhambra**, desde Icestudio, y el **software** en **Arduino**, desde el **IDE** de Arduino. En este **vídeo** lo vemos en acción. Los valores escritos por el Arduino aparecen en los LEDs. Si desconectamos un cable, deja de funcionar
+
 
 (Vídeo)
 
+(Codiseño hardware/sotware)
 
 ## Comunicación FPGA -> Arduino (Lectura)
 
