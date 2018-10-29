@@ -401,7 +401,7 @@ El **conexionado** entre el **Arduino Uno** y la **Icezum Alhambra** se resume e
 |  D10         |   D10         | Control      |
 |  GND         |   GND         | Masa         |
 
-La **implementación del circuito** usa el **receptor serie síncrono** genérico, al que se le ha conectando la salida del **registro de datos** a los **LEDs** de la Alhambra, para ver el dato recibido
+La **implementación del circuito** usa el **receptor serie síncrono** genérico, al que se le ha conectando la salida del **registro de datos** a los **LEDs** de la Alhambra, para ver el **dato recibido**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-09.png)
 
