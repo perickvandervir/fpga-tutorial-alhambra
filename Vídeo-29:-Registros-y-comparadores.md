@@ -369,6 +369,8 @@ Para realizar esta **escritura**, el Arduino (software) tiene que realizar **est
 
 ### Ejemplo 8: Implementación de un puerto de salida adicional para el Arduino
 
+Como ejemplo de escritura de un dato desde el **Arduino** a la FPGA, vamos a **aumentar las salidas** de nuestro Arduino usando un **puerto de 8 bits** en la FPGA. Es el mismo ejemplo usado en este tutorial de **Programarfacil.com**: [Aumentar salidas digitales de Arduino con el shift register](https://programarfacil.com/blog/aumentar-salidas-digitales-de-arduino-con-el-shift-register/), pero usando la **FPGA** en vez de un registro de deplazamiento discreto
+
 (Cableado)  
 
 
