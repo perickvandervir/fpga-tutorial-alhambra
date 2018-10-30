@@ -501,15 +501,11 @@ byte fpga_read() {
 
 La función **shiftIn()** recibe un **dato de 8 bits** de una vez. Con la constante **MSBFIRST** se indica que recibe primero el bit de mayor peso (que es como lo tenemos configurado en el hardware). Las constantes **CLK**, **CTRL** y **DAT** son los pines de arduino por donde sacar las señales de reloj y control, y el pin por donde se reciben los datos respectivamente
 
-La **señal de reloj** la controla la propia función **shiftOut**. Antes de invocarla es necesario generar un **pulso** en la señal de control para que la **FPGA** capture el dato. Lo emitimos nosotros al comienzo de la función fpga_read()
+La **señal de reloj** la controla la propia función **shiftOut**. Antes de invocarla es necesario generar un **pulso** en la señal de control para que la **FPGA** capture el dato. Lo emitimos nosotros al comienzo de la función **fpga_read()**
 
 ### Ejemplo 9: Implementación de un puerto de entrada adicional para el Arduino
 
 (TODO)
-
-# Otros...
-
-https://programarfacil.com/blog/aumentar-salidas-digitales-de-arduino-con-el-shift-register/
 
 # Ejercicios propuestos (20 BitPoints)
 
