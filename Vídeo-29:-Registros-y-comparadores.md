@@ -577,6 +577,8 @@ void loop() {
 }
 ```
 
+En el **bucle principal** se lee el dato en la variable **dat**, y en **old** se encuentra el valor leido **anteriormente**. Si son diferentes, se que ha habido un cambio con respecto a la lectura anterior, por lo que se imprime el número. Para pasar de binario a ASCII sólo hay que sumar el carácter '0': Serial.write(dat+'0');
+
 (Vídeo)
 
 (Foto codiseño)
