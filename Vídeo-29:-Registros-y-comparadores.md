@@ -581,7 +581,7 @@ En el **bucle principal** se lee el dato en la variable **dat**, y en **old** se
 
 Para probarlo, cargamos el **hardware** en la Alhambra, desde Icestudio, y el **software** en Arduino, desde el IDE de Arduino. En este **vídeo** lo vemos en acción. Los números introducidos en los switches se muestra en la **consola serie** del Arduino al apretar el **botón de Enter**
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/4RLs7_NhUtE/0.jpg)](https://www.youtube.com/watch?v=4RLs7_NhUtE)
 
 (Foto codiseño)
 
