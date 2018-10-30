@@ -452,6 +452,15 @@ La operación de **recibir datos** en el **Arduino** desde la **FPGA** lo llamar
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-11.png)
 
+En esta **tabla** se muestran los **pines usados** para las conexiones de los cables de los ejemplos que veremos
+
+| Pin Arduino  |  Pin Alhambra | Descripción  |
+|--------------|---------------|--------------|
+|  D12         |   D12         | Reloj        |
+|  D10         |   D10         | Control      |
+|  D9          |   D9          | Datos        |
+|  GND         |   GND         | Masa         |
+
 (Ej.9- Puerto de entrada adicional)  
 
 
