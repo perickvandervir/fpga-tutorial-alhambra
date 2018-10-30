@@ -41,6 +41,7 @@ TODO
   * [Comunicación FPGA -> Arduino (Lectura)](#comunicaci%C3%B3n-fpga---arduino-lectura)
     * [Transmisor serie síncrono](#transmisor-serie-s%C3%ADncrono)
     * [Software para lectura](#software-para-lectura)
+    * [Ejemplo 9: Implementación de un puerto de entrada adicional para el Arduino](#ejemplo-9-implementaci%C3%B3n-de-un-puerto-de-entrada-adicional-para-el-arduino)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
