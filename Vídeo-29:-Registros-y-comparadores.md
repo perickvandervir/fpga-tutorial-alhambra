@@ -583,8 +583,6 @@ Para probarlo, cargamos el **hardware** en la Alhambra, desde Icestudio, y el **
 
 [![Click to see the youtube video](http://img.youtube.com/vi/4RLs7_NhUtE/0.jpg)](https://www.youtube.com/watch?v=4RLs7_NhUtE)
 
-(Foto codiseño)
-
 # Ejercicios propuestos (20 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
