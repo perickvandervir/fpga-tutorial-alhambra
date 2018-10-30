@@ -579,7 +579,9 @@ void loop() {
 
 En el **bucle principal** se lee el dato en la variable **dat**, y en **old** se encuentra el valor leido **anteriormente**. Si son diferentes, se que ha habido un cambio con respecto a la lectura anterior, por lo que se imprime el número. Para pasar de binario a ASCII sólo hay que sumar el carácter '0': Serial.write(dat+'0');
 
-(Vídeo)
+Para probarlo, cargamos el **hardware** en la Alhambra, desde Icestudio, y el **software** en Arduino, desde el IDE de Arduino. En este **vídeo** lo vemos en acción. Los números introducidos en los switches se muestra en la **consola serie** del Arduino al apretar el **botón de Enter**
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 (Foto codiseño)
 
