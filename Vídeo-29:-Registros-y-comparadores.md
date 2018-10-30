@@ -503,9 +503,7 @@ La función **shiftIn()** recibe un **dato de 8 bits** de una vez. Con la consta
 
 La **señal de reloj** la controla la propia función **shiftOut**. Antes de invocarla es necesario generar un **pulso** en la señal de control para que la **FPGA** capture el dato. Lo emitimos nosotros al comienzo de la función fpga_read()
 
-
-(Ej.9- Puerto de entrada adicional)  
-
+### Ejemplo 9: Implementación de un puerto de entrada adicional para el Arduino
 
 (TODO)
 
