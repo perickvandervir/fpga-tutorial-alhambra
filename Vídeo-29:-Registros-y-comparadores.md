@@ -518,6 +518,8 @@ La **implementación** del circuito usa el **transmisor serie síncrono genéric
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-15.png)
 
+El **registro de desplazamiento** es de **8 bits**, mientras que el **registro de datos** es de **3 bits**. Por eso se usa un elemento acoplador para conectarlos, que simplemente añade ceros en los bits de mayor peso del registro de datos. Este elemento se encuentra en el menú **Varios/Bus/3-bits/Acoplador-3-8**
+
 (Circuito)
 
 (Programa arduino)
