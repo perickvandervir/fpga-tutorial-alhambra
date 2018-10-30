@@ -483,7 +483,7 @@ Para realizar la **lectura**, el **Arduino** (software) tiene que realizar estas
 
 ### Software para lectura
 
-Para realizar la lectura de la **FPGA** desde el **Arduino** implementamos la función **fpga_read()**, que devuelve el dato recibido. Se implementa de forma muy fácil usando la función [shiftIn](https://www.arduino.cc/reference/en/language/functions/advanced-io/shiftin/) de la biblioteca de Arduino
+Para realizar la lectura de la **FPGA** desde el **Arduino** implementamos la función **fpga_read()**, que devuelve el **dato recibido**. Se implementa de forma muy fácil usando la función [shiftIn](https://www.arduino.cc/reference/en/language/functions/advanced-io/shiftin/) de la biblioteca de Arduino
 
 ```c
 byte fpga_read() {
