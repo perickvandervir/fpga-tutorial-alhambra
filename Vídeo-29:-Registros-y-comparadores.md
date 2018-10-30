@@ -18,7 +18,6 @@ TODO
 
 # Contenido
 
-* [Introducción](#introducci%C3%B3n)
 * [Registros](#registros)
   * [Registros con carga paralela](#registro-con-carga-paralela)
     * [Ejemplo 1: Almacenamiento de un número de 3 bits](#ejemplo-1-almacenamiento-de-un-n%C3%BAmero-de-3-bits)
@@ -48,10 +47,6 @@ TODO
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
 * [Preguntas frecuentes](#preguntas-frecuentes)
-
-# Introducción
-
-TODO
 
 # Registros
 
