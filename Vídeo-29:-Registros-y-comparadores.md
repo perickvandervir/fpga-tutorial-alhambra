@@ -461,6 +461,10 @@ En esta **tabla** se muestran los **pines usados** para las conexiones de los ca
 |  D9          |   D9          | Datos        |
 |  GND         |   GND         | Masa         |
 
+La transmisión de los datos desde la FPGA se hace usando un **registro de desplazamiento** de 8 bits. El cable de **datos** se conecta a la salida serie **so**, la señal de **reloj** (clk) a la de desplazamiento (shift) y la señal de **control** a la de carga paralela. El **dato de 8 bits** se introduce por la **entrada paralela d** del registro
+ 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-12.png)
+
 (Ej.9- Puerto de entrada adicional)  
 
 
