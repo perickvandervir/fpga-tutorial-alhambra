@@ -506,7 +506,19 @@ La **señal de reloj** la controla la propia función **shiftIn**. Antes de invo
 
 ### Ejemplo 9: Implementación de un puerto de entrada adicional para el Arduino
 
-(TODO)
+Como ejemplo de **lectura** de un dato de la FPGA desde el Arduino, vamos a implementar un **puerto de entrada** adicional de 8 bits. En los bits menos significativos de este puerto conectaremos **tres interruptores**, y desde el Arduino leeremos sus valores
+
+El **montaje** es el siguiente. Tenemos un **Arduino Uno** conectado a una **Icezum Alhambra**, mediante **4 cables**: reloj, datos, control y GND. Ambas placas están conectas ordenador a través del USB, para cargar el **software** en el Arduino y el **hardware** en la Alhambra
+
+(Montaje)
+
+(Circuito)
+
+(Programa arduino)
+
+(Vídeo)
+
+(Foto codiseño)
 
 # Ejercicios propuestos (20 BitPoints)
 
