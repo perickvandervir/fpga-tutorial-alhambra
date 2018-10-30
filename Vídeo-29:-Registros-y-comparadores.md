@@ -472,7 +472,7 @@ Nuestro **transmisor serie síncrono genérico** está formado por dos señales 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-13.png)
 
-El **dato a enviar** normalmente estará almacenado en un **registro**, que llamaremos **registro de dato**, pero podría venir de cualquier otro lugar: una memoria, un contador, etc, por eso no se ha incluido en el esquema genérico
+El **dato a enviar** normalmente estará almacenado en un **registro**, que llamaremos **registro de datos**, pero podría venir de cualquier otro lugar: una memoria, un contador, etc, por eso no se ha incluido en el esquema genérico
 
 (Ej.9- Puerto de entrada adicional)  
 
