@@ -448,6 +448,10 @@ Para probarlo, cargamos el **hardware** en la **Alhambra**, desde Icestudio, y e
 
 ## Comunicación FPGA -> Arduino (Lectura)
 
+La operación de **recibir datos** en el **Arduino** desde la **FPGA** lo llamaremos **lectura**. Igual que para la escritura, Utilizaremos tres cables: **reloj**, **control** y **datos**. La diferencia está en que el **cable de datos** transmite la información en el **sentido FPGA -> Arduino**. Para diferenciarlo del otro sentido (Arduino -> FPGA) usaremos el **color azúl**
+
+(Dibujo)
+
 
 (Ej.9- Puerto de entrada adicional)  
 
