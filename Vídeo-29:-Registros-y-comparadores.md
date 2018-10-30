@@ -514,6 +514,10 @@ El **montaje** es el siguiente. Tenemos un **Arduino Uno** conectado a una **Ice
 
 Por los **3 pulsadores** se introduce un valor y se pulsa el **botón de ENTER** para capturarlo. Su valor se muestra en el **display de 7 segmentos**. Ese será el valor que **lea** el arduino, que mostrará por la **consola serie** 
 
+La **implementación** del circuito usa el **transmisor serie síncrono genérico**, al que se le ha conectado por su entrada paralela el **registro de datos** que contiene el número introducido por los interruptores. Este registro es el que se muestra por el **display de 7 segmentos**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-15.png)
+
 (Circuito)
 
 (Programa arduino)
