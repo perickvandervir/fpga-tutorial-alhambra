@@ -480,6 +480,7 @@ Para realizar la **lectura**, el **Arduino** (software) tiene que realizar estas
 * **Recibir** el dato en serie, empezando por el bit más significativo. Cada vez que lee un bit debe segenera un pulso en la señal de reloj
 * Al cabo de **8 pulsos de reloj** ya tiene el dato completo
 
+### Software para lectura
 
 (Ej.9- Puerto de entrada adicional)  
 
