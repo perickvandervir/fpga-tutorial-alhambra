@@ -465,6 +465,10 @@ La transmisión de los datos desde la FPGA se hace usando un **registro de despl
  
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Arduino-12.png)
 
+### Transmisor serie síncrono
+
+Nuestro **transmisor serie síncrono genérico**, está formado por dos señales de entrada: **reloj** y **control**, que pasan por su respectivos **sincronizadores** y llegan al **registro de desplazamiento**, que convierte el dato a enviar de **paralelo** a **serie**. El dato se envía por la **salida seríe** so, y pasa por un **biestable D** del sistema para eliminar los espúreos (glitches) y cumplir con las [reglas del diseño síncrono](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Cap%C3%ADtulo-22:-Reglas-de-dise%C3%B1o-s%C3%ADncrono)
+
 (Ej.9- Puerto de entrada adicional)  
 
 
