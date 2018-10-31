@@ -588,7 +588,9 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 29.2** (Total **x Bitpoints**): 
 
-* **Ejercicio 29.3** (Total **x Bitpoints**): 
+* **Ejercicio 29.3** (Total **5 Bitpoints**): 
+
+[![Click to see the youtube video](http://img.youtube.com/vi/uGArKWjpHUk/0.jpg)](https://www.youtube.com/watch?v=uGArKWjpHUk)
 
 * **Ejercicio 29.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
@@ -676,7 +678,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
 
 ### Ejercicio 29.4
 ![]()
