@@ -160,6 +160,7 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)| **Fernando Remiro** (**CTIF**)     | Cadete Nivel 3 | 47 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)| Jorge Turiel  | Cadete Nivel 3 | 46 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|    Ringitgo    | Cadete Nivel 3 | 44 
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|    Jose Zancada Gonzalez (jzancada)    | Cadete Nivel 3 | 44/62 | T7 | 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|    Toni Hortal    | Cadete Nivel 3 | 43 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|    OskarLM    | Cadete Nivel 3 | 42 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/05-cadete-N3-min.png)|    Pakogil    | Cadete Nivel 3 | 42/51 | T6 |
@@ -168,7 +169,6 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  DonJaume   | Cadete Nivel 2 | 37 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Jesús Sesma (jsochoa) | Cadete Nivel 2 | 37 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Javier Ramirez (@Javilinux)  | Cadete Nivel 2 | 35 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Jose Zancada Gonzalez (jzancada)  | Cadete Nivel 2 | 35/51 | T6 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Ion Hernández (dronesFPeuskadi)  | Cadete Nivel 2 | 34 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)|  Ricardo Merino (iritxi) | Cadete Nivel 2 | 32 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/04-cadete-N2-min.png)| J0s3b4   | Cadete Nivel 2 | 31 |
