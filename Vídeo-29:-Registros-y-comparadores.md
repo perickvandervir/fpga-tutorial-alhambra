@@ -586,7 +586,9 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 29.1** (Total **x Bitpoints**): 
 
-* **Ejercicio 29.2** (Total **x Bitpoints**): 
+* **Ejercicio 29.2** (Total **5 Bitpoints**): 
+
+[![Click to see the youtube video](http://img.youtube.com/vi/Gkg30RhCNuw/0.jpg)](https://www.youtube.com/watch?v=Gkg30RhCNuw)
 
 * **Ejercicio 29.3** (Total **5 Bitpoints**): Puerto de entrada y salida en Arduino
 
