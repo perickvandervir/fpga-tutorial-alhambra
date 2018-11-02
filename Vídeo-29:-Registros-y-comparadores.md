@@ -584,7 +584,18 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 **Resumen**:
 
-* **Ejercicio 29.1** (Total **x Bitpoints**): 
+* **Ejercicio 29.1** (Total **5 Bitpoints**):  Cinta trasportadora manual de LEDs 
+
+Simulación de un **cinta transportadora** en los 8 LEDs de la placa. El avance de la cinta se hace manualmente, mediante un **spiner**. Cada tic generado por el spiner se usa para que los LEDs avancen una posición. El LED que sale por el más significativo vueve a entrar por el menos significativo, en un bucle  
+espacial. Cada vez que hay un tic de avance se genera un sonido de 10ms 
+
+La **cinta transportadora** se carga apretando un **pulsador externo**. Se enciende un** LED** para indicar que hay un objeto nuevo que se introducirá en la cinta en el siguiente tic de avance. Al entrar, el LED de carga se **apaga**. El objeto que ha entrado se queda dentro de la cinta todo el rato. Se pueden introducir varios objetos
+
+Si la cinta se **para** durante más de **2 segundos**, se emitirá un tono diferente, de 1 segundo de duración, para avisar de que está detenida
+
+En este **Vídeo** se muestra un **ejemplo de funcionamiento**:
+
+[![Click to see the youtube video](http://img.youtube.com/vi/hFxit9fbsss/0.jpg)](https://www.youtube.com/watch?v=hFxit9fbsss)
 
 * **Ejercicio 29.2** (Total **5 Bitpoints**):  Servidor hardware para Arduino
 
@@ -609,7 +620,7 @@ apagan los del puerto 2. Al trancurrir un segundo completo, se apagan los del pu
 
 Antes de comenzar la cuenta, se enviará un **comando erróneo**, para comprobar que el LED indicador se encience. Y se esperará 2 segundos antes de ejecutar el bucle principal anterior
 
-En este **Vídeo** se muestr un **ejemplo de funcionamiento**:
+En este **Vídeo** se muestra un **ejemplo de funcionamiento**:
 
 [![Click to see the youtube video](http://img.youtube.com/vi/Gkg30RhCNuw/0.jpg)](https://www.youtube.com/watch?v=Gkg30RhCNuw)
 
