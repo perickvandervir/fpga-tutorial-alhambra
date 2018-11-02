@@ -10,7 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-TODO
+Los **registros** nos permiten almacenar **números de varios bits** en nuestros circuitos, y transmitirlos de un circuito a otro en paralelo o en Serie. Veremos ejemplos de comunicación entre el **Arduino** y la **FPGA**, usando **comunicaciones serie síncronas**. Gracias a los comparadores, podemos tomar **decisiones** dependiendo de los valores almacenados en los registros.
 
 # Colección
 
