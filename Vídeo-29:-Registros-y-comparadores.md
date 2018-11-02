@@ -586,7 +586,30 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 29.1** (Total **x Bitpoints**): 
 
-* **Ejercicio 29.2** (Total **5 Bitpoints**): 
+* **Ejercicio 29.2** (Total **5 Bitpoints**):  Servidor hardware para Arduino
+
+Implementar un circuito que dote a **Arduino** de **3 puertos de salida** de 4 bits. El **puerto 0** muestra los bits en los LED del 3 al 0. El **puerto 1** en los LEDs 7 -4, y el **puerto 2** en un **display de 7 Segmentos**. Estos puertos se implementarán mediante comunicaciones serie síncronas entre el **Arduino** y la **FPGA**.  
+Desde el Arduino se envían **comandos de 8 bits**, que tienen el siguiente **formato**:  
+
+* Los **4 bits menos significativos** contienen el **valor** a sacar por el puerto especificado  
+* Los **4 bits más significativos** indican el **puerto** por el que sacar la información  
+
+|Bits 7-4  | Comando | Descripción       |
+|----------|---------|-------------------|
+| 0000     |  0      |Acceso al puerto 0 |
+| 0001     |  1      |Acceso al puerto 1 |
+| 0010     |  2      |Acceso al puerto 2 |
+| resto    |  x      | Comando inválido  |
+
+Se usará un LED externo para indicar si el comando recibido es válido o no. En caso de recibirse uno erróneo, se enciende. Cuando se recibe uno correcto se apaga. Se usa sólo como indicador y no se tomará ninguna acción cuando  
+el comando es erróneo.  
+
+El **software del Arduino** implementará un **contador de segundos**, mostrando en el display de 7 segmentos (puerto 2) los dígitos 0 - 9, uno cada segundok. Al pasar medio segundo, se encienden todos los LEDs del puerto 1, y se  
+apagan los del puerto 2. Al trancurrir un segundo completo, se apagan los del puerto 1, se encienden los del 0 y se actualiza el dígito en el puerto 2 
+
+Antes de comenzar la cuenta, se enviará un **comando erróneo**, para comprobar que el LED indicador se encience. Y se esperará 2 segundos antes de ejecutar el bucle principal anterior
+
+En este **Vídeo** se muestr un **ejemplo de funcionamiento**:
 
 [![Click to see the youtube video](http://img.youtube.com/vi/Gkg30RhCNuw/0.jpg)](https://www.youtube.com/watch?v=Gkg30RhCNuw)
 
