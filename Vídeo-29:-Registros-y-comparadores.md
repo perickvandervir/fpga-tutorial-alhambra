@@ -586,8 +586,7 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 * **Ejercicio 29.1** (Total **5 Bitpoints**):  Cinta trasportadora manual de LEDs 
 
-Simulación de un **cinta transportadora** en los 8 LEDs de la placa. El avance de la cinta se hace manualmente, mediante un **spiner**. Cada tic generado por el spiner se usa para que los LEDs avancen una posición. El LED que sale por el más significativo vueve a entrar por el menos significativo, en un bucle  
-espacial. Cada vez que hay un tic de avance se genera un sonido de 10ms 
+Simulación de un **cinta transportadora** en los 8 LEDs de la placa. El avance de la cinta se hace manualmente, mediante un **spiner**. Cada tic generado por el spiner se usa para que los LEDs avancen una posición. El LED que sale por el más significativo vueve a entrar por el menos significativo, en un bucle espacial. Cada vez que hay un tic de avance se genera un sonido de 10ms 
 
 La **cinta transportadora** se carga apretando un **pulsador externo**. Se enciende un** LED** para indicar que hay un objeto nuevo que se introducirá en la cinta en el siguiente tic de avance. Al entrar, el LED de carga se **apaga**. El objeto que ha entrado se queda dentro de la cinta todo el rato. Se pueden introducir varios objetos
 
