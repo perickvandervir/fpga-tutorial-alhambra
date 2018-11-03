@@ -1,12 +1,37 @@
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Portada/Tut-29-portada.png)
 
-# Vídeo
+# Vídeos
 
-TODO
+Este tutorial se ha grabado en **7 vídeos cortos** separados:
+
+## Parte I: Registros
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-Haz click en la imagen para ver el **vídeo en Youtube**
+## Parte II: Comparadores
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+## Parte III: Aplicación. Juego de la Ruleta
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+## Parte IV: Aplicación. Control por comandos
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+## Parte V: Aplicación. Comunicación Arduino-FPGA. Puerto de Salida
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+## Parte VI: Aplicación. Comunicación Arduino-FPGA. Puerto de entrada
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+## Parte VII: Ejercicios propuestos
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
 
 # Descripción
 
