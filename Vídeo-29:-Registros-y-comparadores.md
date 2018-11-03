@@ -10,7 +10,7 @@ Este tutorial se ha grabado en **7 vídeos cortos** separados:
 
 ## Parte II: Comparadores
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/s7ZKiy5Oj7E/0.jpg)](https://www.youtube.com/watch?v=s7ZKiy5Oj7E&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=30)
 
 ## Parte III: Aplicación. Juego de la Ruleta
 
