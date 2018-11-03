@@ -30,7 +30,7 @@ Este tutorial se ha grabado en **7 vídeos cortos** separados:
 
 ## Parte VII: Ejercicios propuestos
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/k-ffLwt4KZU/0.jpg)](https://www.youtube.com/watch?v=k-ffLwt4KZU&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=35)
 
 
 # Descripción
