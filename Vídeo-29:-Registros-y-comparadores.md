@@ -18,7 +18,7 @@ Este tutorial se ha grabado en **7 vídeos cortos** separados:
 
 ## Parte IV: Aplicación. Control por comandos
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/PEWEst-sNH4/0.jpg)](https://www.youtube.com/watch?v=PEWEst-sNH4&index=32&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw)
 
 ## Parte V: Aplicación. Comunicación Arduino-FPGA. Puerto de Salida
 
