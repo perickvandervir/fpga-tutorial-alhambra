@@ -22,7 +22,7 @@ Este tutorial se ha grabado en **7 vídeos cortos** separados:
 
 ## Parte V: Aplicación. Comunicación Arduino-FPGA. Puerto de Salida
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/b5gMDGAUClk/0.jpg)](https://www.youtube.com/watch?v=b5gMDGAUClk&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=33)
 
 ## Parte VI: Aplicación. Comunicación Arduino-FPGA. Puerto de entrada
 
