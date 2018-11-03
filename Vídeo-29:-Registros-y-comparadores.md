@@ -14,7 +14,7 @@ Los **registros** nos permiten almacenar **números de varios bits** en nuestros
 
 # Colección
 
-**Academia-Jedi-HW-29.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-29.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-29/Collections/Academia-Jedi-HW-29.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
