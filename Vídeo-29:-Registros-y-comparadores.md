@@ -6,7 +6,7 @@ Este tutorial se ha grabado en **7 vídeos cortos** separados:
 
 ## Parte I: Registros
 
-[![Click to see the youtube video](http://img.youtube.com/vi/s_1-GFj0oEw/0.jpg)](https://www.youtube.com/watch?v=s_1-GFj0oEw)
+[![Click to see the youtube video](http://img.youtube.com/vi/s_1-GFj0oEw/0.jpg)](https://www.youtube.com/watch?v=_je6bkbm9qg&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=28)
 
 ## Parte II: Comparadores
 
