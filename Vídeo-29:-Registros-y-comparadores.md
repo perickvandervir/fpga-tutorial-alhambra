@@ -14,7 +14,7 @@ Este tutorial se ha grabado en **7 vídeos cortos** separados:
 
 ## Parte III: Aplicación. Juego de la Ruleta
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/sg2Hj5ifQys/0.jpg)](https://www.youtube.com/watch?v=sg2Hj5ifQys&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=31)
 
 ## Parte IV: Aplicación. Control por comandos
 
