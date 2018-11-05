@@ -69,6 +69,7 @@ Los **registros** nos permiten almacenar **números de varios bits** en nuestros
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Josep Montoliu (Klarojms)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#josep-montoliu-klarojms)
+  * [Andrés (@Avarez)](#andr%C3%A9s-avarez_)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
