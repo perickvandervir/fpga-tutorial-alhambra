@@ -658,14 +658,14 @@ Implementar un **puerto de entrada** y de **salida** adicionales para **Arduino*
 
 # Ejercicios entregados
 
-## Primero
+## Josep Montoliu (Klarojms)
 
 ### Ejercicio 29.1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-29/klarojms/Ejercicio%201-1.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/XgbI-z_DeUs/0.jpg)](https://www.youtube.com/watch?v=XgbI-z_DeUs)
 
 ### Ejercicio 29.2
 ![]()
