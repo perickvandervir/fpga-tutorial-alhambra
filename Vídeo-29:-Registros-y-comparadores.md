@@ -689,23 +689,20 @@ Implementar un **puerto de entrada** y de **salida** adicionales para **Arduino*
 
 [![Click to see the youtube video](http://img.youtube.com/vi/L9Xf6I9Zow0/0.jpg)](https://www.youtube.com/watch?v=L9Xf6I9Zow0)
 
-
 ## Andrés (@Avarez_)
 
 ### Ejercicio 29.1
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-29/avarez/Ejercicio.29.1.png)
 
-![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-29/avarez/Ejercicio.29.2.Arduino.png)
-
 * [Vídeo en Twitter](https://twitter.com/avarez_/status/1059087052262785024)
 
 ### Ejercicio 29.2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-29/avarez/Ejercicio.29.2.Arduino.png)
 
-* **Vídeo** en Youtube:
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-29/avarez/Ejercicio.29.2.png)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/avarez_/status/1059089071472029696)
 
 ### Ejercicio 29.3
 ![]()
@@ -715,11 +712,11 @@ Implementar un **puerto de entrada** y de **salida** adicionales para **Arduino*
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ### Ejercicio 29.4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-29/avarez/Ejercicio.29.3.Arduino.png)
 
-* **Vídeo** en Youtube:
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-29/avarez/Ejercicio.29.3.png)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/avarez_/status/1059089938585698305)
 
 ## Tercero
 
