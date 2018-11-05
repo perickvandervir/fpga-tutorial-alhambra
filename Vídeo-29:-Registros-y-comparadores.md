@@ -68,6 +68,7 @@ Los **registros** nos permiten almacenar **números de varios bits** en nuestros
     * [Ejemplo 9: Implementación de un puerto de entrada adicional para el Arduino](#ejemplo-9-implementaci%C3%B3n-de-un-puerto-de-entrada-adicional-para-el-arduino)
 * [Ejercicios propuestos (20 Bitpoints)](#ejercicios-propuestos-20-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
+  * [Josep Montoliu (Klarojms)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#josep-montoliu-klarojms)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
