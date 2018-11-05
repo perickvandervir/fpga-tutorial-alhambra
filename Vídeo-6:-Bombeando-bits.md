@@ -125,7 +125,7 @@ Pinchando con el botón izquierdo y **arrastrando** el ratón seleccionamos el c
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-07.png)
 
-Al **sortar** el bóton, todos sus componentes quedan seleccionados
+Al **soltar** el bóton, todos sus componentes quedan seleccionados
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-06/Circuitos-paralelos-08.png)
 
