@@ -27,6 +27,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 * [Puerto serie](https://es.wikipedia.org/wiki/Puerto_serie) (Wikipedia)
 * Cables tx-rx
+* Dispositivos: pc, arduino, bluetooh-serie, usb-serie,
 
 # Puesta en marcha
 
