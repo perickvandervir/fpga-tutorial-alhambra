@@ -25,6 +25,21 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
+
+# TODO
+
+* Localizar ultima versión transmisor
+* Ejemplo de envío de un caracter ascii
+* Encontrar el diseño de bloques de icestudio
+* Re-implementar usando las señales busy y done
+* Importante! Transmisor paramétrico!
+* Importante! Señales busy y done
+* Probar a diferentes velocidades, y con diferentes ejemplos
+* Versión final en verilog
+* Ejemplo: Envío de una cadena!!
+* [Puerto serie](https://es.wikipedia.org/wiki/Puerto_serie) (Wikipedia)
+
+
 # Ejercicios propuestos (25 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
