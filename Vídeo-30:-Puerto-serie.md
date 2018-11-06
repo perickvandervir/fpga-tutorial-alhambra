@@ -49,6 +49,18 @@ TODO
 * Scriptcommunicator
 * Linux: gtkterm, screen...
 
+## Ejemplos
+* Envío de un carácter ascii
+* Envío de un número pelado
+* Circuito BCD a Ascii
+* Envío de una cadena
+* Envío de varias cadenas
+
+## Receptor serie
+
+* Encender apagar un led con cualquier dato recibido
+* encendido de leds con las teclas  
+
 # Ejercicios propuestos (25 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
