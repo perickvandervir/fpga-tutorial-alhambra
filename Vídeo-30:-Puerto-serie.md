@@ -39,6 +39,15 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 * Ejemplo: Envío de una cadena!!
 * [Puerto serie](https://es.wikipedia.org/wiki/Puerto_serie) (Wikipedia)
 
+## Transmisor Serie
+
+TODO
+
+## Terminales de comunicaciones serie
+
+* Arduino ide
+* Scriptcommunicator
+* Linux: gtkterm, screen...
 
 # Ejercicios propuestos (25 BitPoints)
 
