@@ -25,7 +25,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
-# Ejercicios propuestos (X BitPoints)
+# Ejercicios propuestos (25 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
 
