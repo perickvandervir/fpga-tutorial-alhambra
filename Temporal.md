@@ -11,7 +11,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Colección
 
-**Academia-Jedi-HW-29.zip**: Colección para este tutorial. Descargar e instalar 
+**Academia-Jedi-HW-30.zip**: Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
@@ -31,40 +31,40 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 **Resumen**:
 
-* **Ejercicio 29.1** (Total **x Bitpoints**): 
+* **Ejercicio 30.1** (Total **x Bitpoints**): 
 
-* **Ejercicio 29.2** (Total **x Bitpoints**): 
+* **Ejercicio 30.2** (Total **x Bitpoints**): 
 
-* **Ejercicio 29.3** (Total **x Bitpoints**): 
+* **Ejercicio 30.3** (Total **x Bitpoints**): 
 
-* **Ejercicio 29.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
+* **Ejercicio 30.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
 # Ejercicios entregados
 
 ## Primero
 
-### Ejercicio 29.1
+### Ejercicio 30.1
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 29.2
+### Ejercicio 30.2
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 29.3
+### Ejercicio 30.3
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 29.4
+### Ejercicio 30.4
 ![]()
 
 * **Vídeo** en Youtube:
@@ -74,28 +74,28 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 ## Segundo
 
-### Ejercicio 29.1
+### Ejercicio 30.1
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 29.2
+### Ejercicio 30.2
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 29.3
+### Ejercicio 30.3
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 29.4
+### Ejercicio 30.4
 ![]()
 
 * **Vídeo** en Youtube:
@@ -104,28 +104,28 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 
 ## Tercero
 
-### Ejercicio 29.1
+### Ejercicio 30.1
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 29.2
+### Ejercicio 30.2
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 29.3
+### Ejercicio 30.3
 ![]()
 
 * **Vídeo** en Youtube:
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Ejercicio 29.4
+### Ejercicio 30.4
 ![]()
 
 * **Vídeo** en Youtube:
