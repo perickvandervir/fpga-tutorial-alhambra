@@ -25,19 +25,24 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
+* [Puerto serie](https://es.wikipedia.org/wiki/Puerto_serie) (Wikipedia)
+* Cables tx-rx
+
+# Puesta en marcha
+
+## Terminal de comunicaciones
+* Arduino
+* Script comunicator
+## Puesta en marcha
+* Hardware: unir tx y rx
+* Otro ejemplo: habilitar/deshabilitar conexión con un pulsador 
+
 
 # TODO
 
-* Localizar ultima versión transmisor
-* Ejemplo de envío de un caracter ascii
-* Encontrar el diseño de bloques de icestudio
-* Re-implementar usando las señales busy y done
-* Importante! Transmisor paramétrico!
-* Importante! Señales busy y done
-* Probar a diferentes velocidades, y con diferentes ejemplos
 * Versión final en verilog
 * Ejemplo: Envío de una cadena!!
-* [Puerto serie](https://es.wikipedia.org/wiki/Puerto_serie) (Wikipedia)
+
 
 ## Transmisor Serie
 
