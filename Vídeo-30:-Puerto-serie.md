@@ -25,7 +25,17 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Introducción
 
-* [Puerto serie](https://es.wikipedia.org/wiki/Puerto_serie) (Wikipedia)
+Una forma sencilla de **comunicar** nuestros circuitos de la **FPGA** con el **PC** es usando el [Puerto serie](https://es.wikipedia.org/wiki/Puerto_serie). Se trata de comunicaciones **serie ASÍNCRONAS** y se usan muchísimo en los dispositivos. Con ellas nos podemos comunicar también con otros dispositivos, como bluetooth-serie, Arduinos, microcontroladores, etc
+
+(Dibujo)
+
+(TODO)
+
+
+Se trata de una conexión *serie ASÍNCRONA**
+
+
+* 
 * [Más info. Tutorial verilog](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Cap%C3%ADtulo-20%3A-Comunicaciones-serie-as%C3%ADncronas)
 * Cables tx-rx
 * Dispositivos: pc, arduino, bluetooh-serie, usb-serie,
