@@ -62,26 +62,15 @@ Los **ordenadores modernos** no tienen los **conectores** del puerto serie. Pero
 ## Terminal de comunicaciones
 * Arduino
 * Script comunicator
-## Puesta en marcha
+## Trabajando a nivel físico
 * Hardware: unir tx y rx
 * Otro ejemplo: habilitar/deshabilitar conexión con un pulsador 
 
-
-# TODO
-
-* Versión final en verilog
-* Ejemplo: Envío de una cadena!!
-
+ TODO
 
 ## Transmisor Serie
 
-TODO
-
-## Terminales de comunicaciones serie
-
-* Arduino ide
-* Scriptcommunicator
-* Linux: gtkterm, screen...
+ TODO
 
 ## Ejemplos
 * Envío de un carácter ascii
