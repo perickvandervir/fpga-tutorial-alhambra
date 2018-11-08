@@ -43,7 +43,7 @@ Estos cables de control son muy útiles. La señales **DTR** o **RTS**, por ejem
 
 Los **ordenadores modernos** no tienen los **conectores** del puerto serie. Pero como se sigue usando mucho, han aparecido unos chips que son **USB-serie**: se conectan al PC por el **USB** y nos ofrecen todas las señales del **puerto serie**. Los más extendidos son los del fabricante [FTDI](https://www.ftdichip.com/)
 
-(Serie sobre USB: FTDI)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/intro-04.png)
 
 (TODO)
  
