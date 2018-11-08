@@ -45,6 +45,10 @@ Los **ordenadores modernos** no tienen los **conectores** del puerto serie. Pero
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/intro-04.png)
 
+(FTDI en la icezum alhambra)
+
+(Conexiones de las señales RS-2323 a los pines de la FPGA)
+
 (TODO)
  
 * [Más info. Tutorial verilog](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Cap%C3%ADtulo-20%3A-Comunicaciones-serie-as%C3%ADncronas)
