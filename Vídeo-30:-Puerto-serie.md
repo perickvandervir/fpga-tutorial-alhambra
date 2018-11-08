@@ -49,6 +49,8 @@ Los **ordenadores modernos** no tienen los **conectores** del puerto serie. Pero
 
 (Conexiones de las señales RS-2323 a los pines de la FPGA)
 
+(Pines de Icestudio)
+
 (TODO)
  
 * [Más info. Tutorial verilog](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Cap%C3%ADtulo-20%3A-Comunicaciones-serie-as%C3%ADncronas)
