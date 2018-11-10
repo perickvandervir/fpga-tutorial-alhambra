@@ -49,7 +49,10 @@ En la **Icezum Alhambra** se usa el [chip FT2232H](https://www.ftdichip.com/Prod
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/intro-05.png)
 
-(Conexiones de las señales RS-2323 a los pines de la FPGA)
+Desde los pines de la FPGA se tiene acceso a las señales **TX** y **RX** para la trasmisión/recepción de datos, así como a las **señales de control **DTR**, **RTS**, **CTS**, **DSR** y **DCD**. De estas, dos son de entrada (PC->FPGA) y tres de salida (FPGA->PC)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/intro-06.png)
+
 
 (Pines de Icestudio)
 
