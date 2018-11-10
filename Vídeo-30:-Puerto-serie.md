@@ -45,6 +45,10 @@ Los **ordenadores modernos** no tienen los **conectores** del puerto serie. Pero
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/intro-04.png)
 
+En la **Icezum Alhambra** se usa el chip FTxxx que ofrece dos interfaces a través del USB. Uno de comunicaciones serie síncronas (bus spi) para realizar la carga de los circuitos y otro de puerto serie, realizando la conversión USB-serie y dando acceso a las señales de la norma RS-232 desde la FPGA
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/intro-05.png)
+
 (FTDI en la icezum alhambra)
 
 (Conexiones de las señales RS-2323 a los pines de la FPGA)
