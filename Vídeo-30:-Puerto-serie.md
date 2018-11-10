@@ -79,6 +79,8 @@ Los **pasos concretos** de instalación dependen del **sistema operativo** usado
 
 * Acceder a la [web del Arduino-IDE](https://www.arduino.cc/en/Main/Software)
 * **Descargar** el fichero de instalación del entorno para tu sistema operativo
+* **Ejecutar** el fichero de instalación
+* **Lanzar** el entorno
 
 #### GNU/Linux Ubuntu 18.04
 
