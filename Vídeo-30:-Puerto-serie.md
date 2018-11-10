@@ -49,8 +49,6 @@ En la **Icezum Alhambra** se usa el [chip FT2232H](https://www.ftdichip.com/Prod
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/intro-05.png)
 
-(FTDI en la icezum alhambra)
-
 (Conexiones de las señales RS-2323 a los pines de la FPGA)
 
 (Pines de Icestudio)
