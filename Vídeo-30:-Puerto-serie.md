@@ -60,6 +60,8 @@ En **Icestudio** accedemos a los **pines del puerto serie** seleccionando la eti
 
 # Puesta en marcha
 
+Para empezar a trabajar con el **puerto serie** necesitamos instalarnos un **terminal de comunicaciones**, desde el que **enviar datos** a nuestros **circuitos** en la **FPGA** y en el que visualizar la información **recibida** de ellos. Haremos pruebas para comprobar que funciona correctamente, antes de diseñar nuestros circuitos 
+
 ## Terminal de comunicaciones
 * Arduino
 * Script comunicator
