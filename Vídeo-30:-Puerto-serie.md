@@ -74,6 +74,13 @@ Se puede utilizar **cualquier terminal** de los que existen, en cada sistema ope
 
 ### Instalación de Arduino-IDE
 
+Los **pasos concretos** de instalación dependen del **sistema operativo** usado. En **general**, los pasos son:
+
+* Acceder a la [web del Arduino-IDE](https://www.arduino.cc/en/Main/Software)
+* **Descargar** el fichero de instalación del entorno para tu sistema operativo
+
+#### Ubuntu 18.10
+
 (TODO)
 
 ## Trabajando a nivel físico
