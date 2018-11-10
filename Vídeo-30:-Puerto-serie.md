@@ -55,15 +55,7 @@ Desde los pines de la FPGA se tiene acceso a las señales **TX** y **RX** para l
 
 En **Icestudio** accedemos a los **pines del puerto serie** seleccionando la etiqueta con el nombre de la señal: TX y RX para las señales de **datos**, y DTR, RTS, CTS, SDR y DCD para las de **control**
 
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/intro-07.png)
-
-(Pines de Icestudio)
-
-(TODO)
- 
-* [Más info. Tutorial verilog](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Cap%C3%ADtulo-20%3A-Comunicaciones-serie-as%C3%ADncronas)
-* Cables tx-rx
-* Dispositivos: pc, arduino, bluetooh-serie, usb-serie,
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/intro-07.png) 
 
 # Puesta en marcha
 
@@ -91,6 +83,12 @@ En **Icestudio** accedemos a los **pines del puerto serie** seleccionando la eti
 
 * Encender apagar un led con cualquier dato recibido
 * encendido de leds con las teclas  
+
+(TODO)
+
+* [Más info. Tutorial verilog](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Cap%C3%ADtulo-20%3A-Comunicaciones-serie-as%C3%ADncronas)
+* Dispositivos: pc, arduino, bluetooh-serie, usb-serie,
+
 
 # Ejercicios propuestos (25 BitPoints)
 
