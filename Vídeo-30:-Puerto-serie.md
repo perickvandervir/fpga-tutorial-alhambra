@@ -65,8 +65,9 @@ Para empezar a trabajar con el **puerto serie** necesitamos instalarnos un **ter
 
 ## Terminal de comunicaciones
 
-Se puede utilizar **cualquier terminal** de los que existen, en cada sistema operativo. En este tutorial usaremos dos: el [Arduino-Ide](https://www.arduino.cc/en/Main/Software) y el [ScriptComunicator](https://github.com/szieke/ScriptCommunicator_serial-terminal), que son **libres** y **multiplataforma**
+Se puede utilizar **cualquier terminal** de los que existen, en cada sistema operativo. En este tutorial usaremos dos: el [Arduino-Ide](https://www.arduino.cc/en/Main/Software) (1.8.7) y el [ScriptComunicator](https://github.com/szieke/ScriptCommunicator_serial-terminal) (5.09), que son **libres** y **multiplataforma**
 
+(Pantallazos)
 
 ## Trabajando a nivel físico
 * Hardware: unir tx y rx
