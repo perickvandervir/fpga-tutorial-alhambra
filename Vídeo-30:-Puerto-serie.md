@@ -86,6 +86,8 @@ Los **pasos concretos** de instalación dependen del **sistema operativo** usado
 
 (TODO)
 
+sudo usermod -a -G dialout $USER
+
 ## Trabajando a nivel físico
 * Hardware: unir tx y rx
 * Otro ejemplo: habilitar/deshabilitar conexión con un pulsador 
