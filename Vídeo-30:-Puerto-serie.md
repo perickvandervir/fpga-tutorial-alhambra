@@ -177,6 +177,10 @@ Haremos una primera prueba para comprobar que está todo funcionando. Esta prueb
 
 ### Ejemplo 1: Comprobación de señales a nivel físico
 
+Cargamos este circuito en la FPGA. El cable **RX**, por donde llegan los datos, está unido directamente al de **TX**, por donde se envían. Así, todo lo que llega se devuelve, sin ningún tipo de procesado. Las señales de control **DTR** y **RTS** están conectadas a los **LEDs 7** y **0** respectivamente. Y los **pulsadores** a las señales **CTS**, **DCD** y **DSR**, a través de un **decodificador** de 2 a 4
+
+(Circuito)
+
 (TODO)
 sudo usermod -a -G dialout $USER
 
