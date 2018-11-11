@@ -108,6 +108,11 @@ Como el archivo es grande, esta acción tardará unos 15 segundos o más (depend
 
 * **Paso 3**: Arrancar el entorno de Arduino. Entramos en la carpeta arduino-1.8.7-linux64, damos **permisos de ejecución** al fichero **arduino** y hacemos **docle click** en él. En la ventana que aparece pinchamos en "Ejecutar" (Run)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-linux-05.gif)
+
+Nos aparecerá la **ventana principal** del entorno de arduino:
+
+(screenshot)
 
 
 (TODO)
