@@ -144,7 +144,7 @@ Los **pasos concretos** de instalación dependen del **sistema operativo** usado
 
 Si eres usuario de Linux habitual de linux, lo instalarás sin problemas siguiendo las **instrucciones anteriores**. Aquí  voy a poner las instrucciones para hacerlo desde la **interfaz gráfica**, para usuarios que **saben poco a nada de Linux**
 
-* **Paso 0**: Configura el **navegador de archivos** (Nautilus) para poder **ejecutar** programas haciendo **doble click** desde la interfaz gráfica. Esta opción no está activada por defecto. [Sigue las mismas instrucciones del paso 0 de la instalación del Arduino IDE]()
+* **Paso 0**: Configura el **navegador de archivos** (Nautilus) para poder **ejecutar** programas haciendo **doble click** desde la interfaz gráfica. Esta opción no está activada por defecto. Sigue las mismas instrucciones del [paso 0 de la instalación del Arduino IDE](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#gnulinux-ubuntu-1804), si no lo has hecho ya
 
 
 
