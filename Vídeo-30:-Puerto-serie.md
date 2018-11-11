@@ -86,7 +86,13 @@ Los **pasos concretos** de instalación dependen del **sistema operativo** usado
 
 Si eres usuario de Linux habitual de linux, lo instalarás sin problemas siguiendo las **instrucciones anteriores**. Aquí  voy a poner las instrucciones para hacerlo desde la **interfaz gráfica**, para usuarios que **saben poco a nada de Linux**
 
-* **Paso 0**: Configura el **navegador de archivos** (Nautilus) para poder **ejecutar** programas haciendo doble click desde la interfaz gráfica
+* **Paso 0**: Configura el **navegador de archivos** (Nautilus) para poder **ejecutar** programas haciendo **doble click** desde la interfaz gráfica. Esta opción no está activada por defecto
+  * Abrir el navegador de archivos
+  * Abrir las preferencias desde el menú Archivos/preferencias (Files/preferences)
+  * Seleccionar la pestaña comportamiento (Behavior)
+  * Activar la opción "Preguntar qué hacer" (Ask what to do) en *Ficheros ejecutables de texto" (Executable Text Files)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-linux-01.gif)
 
 
 
