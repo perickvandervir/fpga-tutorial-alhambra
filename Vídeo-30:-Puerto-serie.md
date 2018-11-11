@@ -150,10 +150,13 @@ Si eres usuario de Linux habitual de linux, lo instalarás sin problemas siguien
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-linux-01.gif)
 
-* **Paso 2**: Descomprimir el fichero **ScriptCommunicator_05_09_linux_64_bit.zip**.  Por defecto tendremos el fichero en la carpeta de **Descargas** (Downloads). Navegamos a esa carpeta y sobre el archivo ScriptCommunicator_05_09_linux_64_bit.zip apretamos el **botón derecho** del ratón y seleccionamos la opción: **extraer aquí** (extract here)
+* **Paso 2**: Descomprimir el fichero **ScriptCommunicator_05_09_linux_64_bit.zip**.  Por defecto tendremos el fichero en la carpeta de **Descargas** (Downloads). Navegamos a esa carpeta y sobre el archivo ScriptCommunicator_05_09_linux_64_bit.zip apretamos el **botón derecho** del ratón y seleccionamos la opción: **extraer aquí** (extract here). Nos metemos en la carpeta **ScriptCommunicator_05_09_linux_64_bit**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-linux-02.gif)
 
+* **Paso 3**: Arrancamos el script communicator. Entramos en la carpeta **ScriptCommunicator_05_09_linux_64_bit**, damos **permisos de ejecución** al fichero **ScriptCommunicator.sh** y hacemos **docle click** en él. En la ventana que aparece pinchamos en "Ejecutar" (Run)
+
+![]()
 
 (TODO)
 
