@@ -181,6 +181,16 @@ Cargamos este circuito en la FPGA. El cable **RX**, por donde llegan los datos, 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej1-01.png)
 
+Probaremos su funcionamiento primero con el **Arudino IDE**. Lo lanzamos y seleccionamos el puerto serie desde **Tools/Port**. Esto depende del **sistema operativo** que usemos:
+* **Linux**: Dispositivo **/dev/ttyUSB1** (Aparecerá también el /dev/ttyUSB0, pero NO es el correcto)
+* **Windows**: XXXX
+* **MAC**: XXXX
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej1-02.png)
+
+Abrimos el **terminal serie** y hacemos una prueba de envío de varias cadenas. Veremos cómo recibimos las mismas (el eco):
+
+(Animación)
 
 (TODO)
 sudo usermod -a -G dialout $USER
