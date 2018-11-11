@@ -156,11 +156,18 @@ Si eres usuario de Linux habitual de linux, lo instalarás sin problemas siguien
 
 * **Paso 3**: Arrancamos el script communicator. Entramos en la carpeta **ScriptCommunicator_05_09_linux_64_bit**, damos **permisos de ejecución** al fichero **ScriptCommunicator.sh** y hacemos **docle click** en él. En la ventana que aparece pinchamos en "Ejecutar" (Run)
 
-![]()
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-linux-03.gif)
+
+Nos aparecerá la **ventana principal** del ScriptCommunicator:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-linux-04.png)
+
+¡Ya lo tenemos **listo** para usar!
+
+#### ScriptCommunicator en Windows 10
 
 (TODO)
 
-#### ScriptCommunicator en Windows 10
 
 (TODO)
 sudo usermod -a -G dialout $USER
