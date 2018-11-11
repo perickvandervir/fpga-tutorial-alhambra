@@ -192,10 +192,13 @@ Abrimos el **terminal serie** y hacemos una prueba de envío de varias cadenas. 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej1-03.gif)
 
-(LEDs funcionando....)
+Veremos cómo los **LEDs** de **TX** y **RX** de la Icezum Alhambra se encienden. Se corresponden con las señales TX y RX del PC, y nos indican que hay **datos** que se están **intercambiando** con el **PC**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej1-04.png)
 
 Desde el entorno de Arduino **NO** tenemos acceso a las señales de control, por lo que para la siguiente prueba usaremos el **ScriptCommunicator**
 
+### Probnado las señales de control con el ScriptCommunicator
 
 (TODO)
 sudo usermod -a -G dialout $USER
