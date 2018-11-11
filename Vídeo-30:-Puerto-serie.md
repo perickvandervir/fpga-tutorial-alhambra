@@ -106,7 +106,9 @@ Como el archivo es grande, esta acción tardará unos 15 segundos o más (depend
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-linux-04.png)
 
-* **Paso 3**: Ejecutar el instalador. Entramos en la carpeta arduino-1.8.7-linux64 y damos permisos de ejecución al fichero 
+* **Paso 3**: Arrancar el entorno de Arduino. Entramos en la carpeta arduino-1.8.7-linux64, damos **permisos de ejecución** al fichero **arduino** y hacemos **docle click** en él. En la ventana que aparece pinchamos en "Ejecutar" (Run)
+
+
 
 (TODO)
 
