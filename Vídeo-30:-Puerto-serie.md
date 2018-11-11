@@ -96,8 +96,9 @@ Si eres usuario de Linux habitual de linux, lo instalarás sin problemas siguien
 
 * **Paso 1**: Descarga el fichero **arduino-1.8.7-linux64.tar.xz** (o la última versión) desde la [web de Arduino](https://www.arduino.cc/en/Main/Software)
 
-(GIF)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-linux-02.gif)
 
+* **Paso 2**: Descomprimir el fichero **arduino-1.8.7-linux64.tar.xz**.  Por defecto tendremos el fichero en la carpeta de **Descargas** (Downloads). Navegamos a esa carpeta y sobre el archivo arduino-1.8.7-linux64.tar.xz apretamos el **botón derecho** del ratón y seleccionamos la opción: **extraer aquí** (extract here)
 
 (TODO)
 
