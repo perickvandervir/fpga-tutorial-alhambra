@@ -112,8 +112,9 @@ Como el archivo es grande, esta acción tardará unos 15 segundos o más (depend
 
 Nos aparecerá la **ventana principal** del entorno de arduino:
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-linux-06.png)
 
+* **Paso 4** (Opcional): **Instalación** del Entorno de arduino.  Si lo vamos a usar mucho, es mejor tenerlo **instalado en el sistema**, y añadirlo en la barra de aplicaciones favoritas. Lo único que tenemos que hacer es ejecutar el archivo **install.sh**
 
 (TODO)
 
