@@ -139,7 +139,11 @@ Los **pasos concretos** de instalación dependen del **sistema operativo** usado
 * **Ejecutar** el fichero de instalación
 * **Lanzar** el entorno
 
-#### test
+#### ScriptCommunicator en Gnu/Linux Ubuntu 18.04
+
+(TODO)
+
+#### ScriptCommunicator en Windows 10
 
 (TODO)
 sudo usermod -a -G dialout $USER
