@@ -129,6 +129,18 @@ y nos ahí nos aparecerá el **Arduino Ide**. Lo arrancamos pinchando en su icon
 
 (TODO)
 
+### Instalación del ScriptCommunicator
+
+Los **pasos concretos** de instalación dependen del **sistema operativo** usado. En **general**, los pasos son:
+
+* Acceder a la [web del ScriptCommunicator](https://github.com/szieke/ScriptCommunicator_serial-terminal)
+* **Descargar** el fichero de instalación del entorno para tu sistema operativo
+* **Ejecutar** el fichero de instalación
+* **Lanzar** el entorno
+
+#### test
+
+(TODO)
 sudo usermod -a -G dialout $USER
 
 ## Trabajando a nivel físico
