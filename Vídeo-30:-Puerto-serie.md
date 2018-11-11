@@ -20,6 +20,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Terminal de comunicaciones](#terminal-de-comunicaciones)
     * [Instalación de Arduino-IDE](#instalaci%C3%B3n-de-arduino-ide)
       * [GNU/Linux Ubuntu 18.04](#gnulinux-ubuntu-1804)
+      * [Windows 10](#windows-10)
 * [Ejercicios propuestos (25 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
