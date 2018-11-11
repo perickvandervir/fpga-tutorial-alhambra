@@ -22,6 +22,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
       * [GNU/Linux Ubuntu 18.04](#gnulinux-ubuntu-1804)
       * [Windows 10](#windows-10)
     * [Instalación del ScriptCommunicator](#instalaci%C3%B3n-del-scriptcommunicator)
+      * [ScriptCommunicator en Gnu/Linux Ubuntu 18.04](#scriptcommunicator-en-gnulinux-ubuntu-1804)
 * [Ejercicios propuestos (25 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
