@@ -116,6 +116,10 @@ Nos aparecerá la **ventana principal** del entorno de arduino:
 
 * **Paso 4** (Opcional): **Instalación** del Entorno de arduino.  Si lo vamos a usar mucho, es mejor tenerlo **instalado en el sistema**, y añadirlo en la barra de aplicaciones favoritas. Lo único que tenemos que hacer es ejecutar el archivo **install.sh**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-linux-07.gif)
+
+¡Ya está instalado! Para arrancarlo...
+
 (TODO)
 
 sudo usermod -a -G dialout $USER
