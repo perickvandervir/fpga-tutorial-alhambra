@@ -142,6 +142,12 @@ Los **pasos concretos** de instalación dependen del **sistema operativo** usado
 
 #### ScriptCommunicator en Gnu/Linux Ubuntu 18.04
 
+Si eres usuario de Linux habitual de linux, lo instalarás sin problemas siguiendo las **instrucciones anteriores**. Aquí  voy a poner las instrucciones para hacerlo desde la **interfaz gráfica**, para usuarios que **saben poco a nada de Linux**
+
+* **Paso 0**: Configura el **navegador de archivos** (Nautilus) para poder **ejecutar** programas haciendo **doble click** desde la interfaz gráfica. Esta opción no está activada por defecto. [Sigue las mismas instrucciones del paso 0 de la instalación del Arduino IDE]()
+
+
+
 (TODO)
 
 #### ScriptCommunicator en Windows 10
