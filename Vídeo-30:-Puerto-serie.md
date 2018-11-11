@@ -198,7 +198,7 @@ Veremos cómo los **LEDs** de **TX** y **RX** de la Icezum Alhambra se encienden
 
 Desde el entorno de Arduino **NO** tenemos acceso a las señales de control, por lo que para la siguiente prueba usaremos el **ScriptCommunicator**
 
-### Probnado las señales de control con el ScriptCommunicator
+### Probando las señales de control con el ScriptCommunicator
 
 (TODO)
 sudo usermod -a -G dialout $USER
