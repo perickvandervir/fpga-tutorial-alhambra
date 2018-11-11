@@ -90,7 +90,7 @@ Si eres usuario de Linux habitual de linux, lo instalarás sin problemas siguien
   * Abrir el **navegador** de archivos
   * Abrir las **preferencias** desde el menú Archivos/preferencias (Files/preferences)
   * Seleccionar la pestaña **comportamiento** (Behavior)
-  * **Activar** la opción "Preguntar qué hacer" (Ask what to do) en *Ficheros ejecutables de texto" (Executable Text Files)
+  * **Activar** la opción "Preguntar qué hacer" (Ask what to do) en "Ficheros ejecutables de texto" (Executable Text Files)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-linux-01.gif)
 
