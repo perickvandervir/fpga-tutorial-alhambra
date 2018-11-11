@@ -102,9 +102,11 @@ Si eres usuario de Linux habitual de linux, lo instalarás sin problemas siguien
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-linux-03.gif)
 
-Como el archivo es grande, esta acción tardará unos 15 segundos o más (dependiendo de nuestro ordenador). Al cabo de ese tiempo nos aparecerá la **carpeta arduino-1.8.7-linux64.tar.xz**
+Como el archivo es grande, esta acción tardará unos 15 segundos o más (dependiendo de nuestro ordenador). Al cabo de ese tiempo nos aparecerá la **carpeta arduino-1.8.7-linux64**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-linux-04.png)
+
+* **Paso 3**: Ejecutar el instalador. Entramos en la carpeta arduino-1.8.7-linux64 y damos permisos de ejecución al fichero 
 
 (TODO)
 
