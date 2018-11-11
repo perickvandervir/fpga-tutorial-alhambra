@@ -118,7 +118,7 @@ Nos aparecerá la **ventana principal** del entorno de arduino:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-linux-07.gif)
 
-¡Ya está instalado! Para arrancarlo...
+**¡Ya está instalado!** :-) Para arrancarlo...
 
 (TODO)
 
