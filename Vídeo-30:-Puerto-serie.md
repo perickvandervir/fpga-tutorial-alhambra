@@ -169,6 +169,9 @@ Nos aparecerá la **ventana principal** del ScriptCommunicator:
 
 (TODO)
 
+## Primera prueba
+
+Haremos una primera prueba para comprobar que está todo funcionando. Esta prueba la haremos a **nivel físico**: no haremos ningún circuito transmisor ni receptor. Simplemente **uniremos cables** y mostraremos en los **LEDs** las **señales de control**
 
 (TODO)
 sudo usermod -a -G dialout $USER
