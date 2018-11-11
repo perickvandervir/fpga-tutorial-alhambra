@@ -190,7 +190,12 @@ Probaremos su funcionamiento primero con el **Arudino IDE**. Lo lanzamos y selec
 
 Abrimos el **terminal serie** y hacemos una prueba de envío de varias cadenas. Veremos cómo recibimos las mismas (el eco):
 
-(Animación)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej1-03.gif)
+
+(LEDs funcionando....)
+
+Desde el entorno de Arduino **NO** tenemos acceso a las señales de control, por lo que para la siguiente prueba usaremos el **ScriptCommunicator**
+
 
 (TODO)
 sudo usermod -a -G dialout $USER
