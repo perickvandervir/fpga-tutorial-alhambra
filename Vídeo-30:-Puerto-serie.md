@@ -148,7 +148,7 @@ Si eres usuario de Linux habitual de linux, lo instalarás sin problemas siguien
 
 * **Paso 1**: Descarga el fichero **ScriptCommunicator_05_09_linux_64_bit.zip** (o la última versión) desde la [web del ScriptCommunicator](https://github.com/szieke/ScriptCommunicator_serial-terminal)
 
-![]()
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-linux-01.gif)
 
 (TODO)
 
