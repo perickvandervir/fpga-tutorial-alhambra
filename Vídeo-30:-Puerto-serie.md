@@ -201,7 +201,9 @@ Desde el entorno de Arduino **NO** tenemos acceso a las señales de control, por
 
 ### Probando las señales de control con el ScriptCommunicator
 
-Abrimos el **ScriptCommunicator**. Pinchamos en el botón de **Settings** para seleccionar el **puerto serie**. Si estamos en Linux seleccionamos el **/dev/ttyUSB1**
+Abrimos el **ScriptCommunicator**. Pinchamos en el botón de **Settings** para seleccionar el **puerto serie**. Si estamos en Linux seleccionamos el **/dev/ttyUSB1**. La velocidad es indiferente, de momento. Pinchamos en **Close** para volver
+
+(Pantallazo)
 
 (Animación)
 
