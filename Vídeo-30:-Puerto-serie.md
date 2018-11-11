@@ -124,6 +124,8 @@ Nos aparecerá la **ventana principal** del entorno de arduino:
 
 y nos ahí nos aparecerá el **Arduino Ide**. Lo arrancamos pinchando en su icono. Opcionalmente, una vez arrancado, lo podemos añadir a favoritos para que se quede anclado en la barra de aplicaciones
 
+#### Windows 10
+
 (TODO)
 
 sudo usermod -a -G dialout $USER
