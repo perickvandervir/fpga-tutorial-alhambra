@@ -152,7 +152,7 @@ Si eres usuario de Linux habitual de linux, lo instalarás sin problemas siguien
 
 * **Paso 2**: Descomprimir el fichero **ScriptCommunicator_05_09_linux_64_bit.zip**.  Por defecto tendremos el fichero en la carpeta de **Descargas** (Downloads). Navegamos a esa carpeta y sobre el archivo ScriptCommunicator_05_09_linux_64_bit.zip apretamos el **botón derecho** del ratón y seleccionamos la opción: **extraer aquí** (extract here)
 
-![]()
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-linux-02.gif)
 
 
 (TODO)
