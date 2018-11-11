@@ -189,7 +189,7 @@ Probaremos su funcionamiento primero con el **Arudino IDE**. Lo lanzamos y selec
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej1-02.png)
 
-Abrimos el **terminal serie** y hacemos una prueba de envío de varias cadenas. Veremos cómo recibimos las mismas (el eco):
+Abrimos el **terminal serie** y hacemos una prueba de envío de varias cadenas. Veremos cómo recibimos las mismas (el eco). Es indiferente la velocidad a la que esté configurado el terminal
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej1-03.gif)
 
@@ -202,11 +202,12 @@ Desde el entorno de Arduino **NO** tenemos acceso a las señales de control, por
 ### Probando las señales de control con el ScriptCommunicator
 
 (TODO)
-sudo usermod -a -G dialout $USER
 
 ## Trabajando a nivel físico
-* Hardware: unir tx y rx
+
 * Otro ejemplo: habilitar/deshabilitar conexión con un pulsador 
+(TODO)
+sudo usermod -a -G dialout $USER
 
  TODO
 
