@@ -100,6 +100,12 @@ Si eres usuario de Linux habitual de linux, lo instalarás sin problemas siguien
 
 * **Paso 2**: Descomprimir el fichero **arduino-1.8.7-linux64.tar.xz**.  Por defecto tendremos el fichero en la carpeta de **Descargas** (Downloads). Navegamos a esa carpeta y sobre el archivo arduino-1.8.7-linux64.tar.xz apretamos el **botón derecho** del ratón y seleccionamos la opción: **extraer aquí** (extract here)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-linux-03.gif)
+
+Como el archivo es grande, esta acción tardará unos 15 segundos o más (dependiendo de nuestro ordenador). Al cabo de ese tiempo nos aparecerá la **carpeta arduino-1.8.7-linux64.tar.xz**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-linux-04.png)
+
 (TODO)
 
 sudo usermod -a -G dialout $USER
