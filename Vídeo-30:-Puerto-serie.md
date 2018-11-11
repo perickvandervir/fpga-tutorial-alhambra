@@ -84,6 +84,16 @@ Los **pasos concretos** de instalación dependen del **sistema operativo** usado
 
 #### GNU/Linux Ubuntu 18.04
 
+Si eres usuario de Linux habitual de linux, lo instalarás sin problemas siguiendo las **instrucciones anteriores**. Aquí  voy a poner las instrucciones para hacerlo desde la **interfaz gráfica**, para usuarios que **saben poco a nada de Linux**
+
+* **Paso 0**: Configura el **navegador de archivos** (Nautilus) para poder **ejecutar** programas haciendo doble click desde la interfaz gráfica
+
+
+
+
+* **Paso 1**: Descarga el fichero arduino-1.8.7-linux64.tar.xz
+
+
 (TODO)
 
 sudo usermod -a -G dialout $USER
