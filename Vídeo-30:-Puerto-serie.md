@@ -280,8 +280,8 @@ Cargamos este circuito en la FPGA. El cable **RX**, por donde llegan los datos, 
 
 Probaremos su funcionamiento primero con el **Arudino IDE**. Lo lanzamos y seleccionamos el puerto serie desde **Tools/Port**. Esto depende del **sistema operativo** que usemos:
 * **Linux**: Dispositivo **/dev/ttyUSB1** (Aparecerá también el /dev/ttyUSB0, pero NO es el correcto)
-* **Windows**: XXXX
-* **MAC**: XXXX
+* **Windows**: Dispositivo COMx, donde la X es un número que varía de un ordenador a otro. En el ordenador donde se ha probado estaba en el **COM4**
+* **MAC**: TODO
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej1-02.png)
 
