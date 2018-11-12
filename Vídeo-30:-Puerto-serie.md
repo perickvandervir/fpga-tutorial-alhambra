@@ -222,6 +222,10 @@ En la carpeta de **Descargas** tenemos el fichero **ScriptCommunicatorSetup_05_0
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-03.png)
 
+Nos situamos encima del fichero, y apretamos el botón derecho del ratón. Pinchamos en la opción **Extraer todo**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-04.png)
+
 (TODO)
 
 ## Primera prueba
