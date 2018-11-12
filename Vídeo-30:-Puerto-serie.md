@@ -157,7 +157,7 @@ Por defecto dejamos que se **instale todo**. Pinchamos en **Next**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-win10-06.png)
 
-El Entorno se instala en **C:\Program** **Files(x86)\Arduino\**. Dejamos esa ubución por defecto y pinchamos en **Install**
+El Entorno se instala en **C:\\Program Files(x86)\\Arduino\\**. Dejamos esa ubicación por defecto y pinchamos en **Install**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-win10-07.png)
 
