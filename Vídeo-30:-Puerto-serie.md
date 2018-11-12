@@ -295,7 +295,7 @@ Abrimos el **terminal serie** y hacemos una prueba de envío de varias cadenas. 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej1-03.gif)
 
-Veremos cómo los **LEDs** de **TX** y **RX** de la Icezum Alhambra se encienden. Se corresponden con las señales TX y RX del PC, y nos indican que hay **datos** que se están **intercambiando** con el **PC**
+Vemos cómo los **LEDs** de **TX** y **RX** de la Icezum Alhambra se encienden unos instantes. Se corresponden con las señales TX y RX del PC, y nos indican que hay **datos** que se están **intercambiando** con el **PC**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej1-04.png)
 
