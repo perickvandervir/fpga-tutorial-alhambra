@@ -234,6 +234,14 @@ Se crea la carpeta **ScriptCommunicatorSetup_05_09_windows** y dentro de ella es
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-06.png)
 
+En algunos equipos nos puede aparece un mensaje de **advertencia**, en el que se **impide** la ejecución del instalador (Windows es muy pesado)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-07.png)
+
+Pinchamos en **más información** y luego en **Ejecutar de todas formas**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-08.png)
+
 (TODO)
 
 ## Primera prueba
