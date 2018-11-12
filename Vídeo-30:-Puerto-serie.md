@@ -149,6 +149,10 @@ Al ejecutarlo aparecerá la siguiente **pantalla de aviso**. Pinchamos en **Sí*
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-win10-04.jpg)
 
+Aparece la siguiente pantalla: Pinchamos en **I Agree**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-win10-05.png)
+
 (TODO)
 
 ### Instalación del ScriptCommunicator
