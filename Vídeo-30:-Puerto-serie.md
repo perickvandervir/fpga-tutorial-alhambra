@@ -216,6 +216,8 @@ Pincha en la primera opción: **Windows**.  Aparecerá una web nueva y al cabo d
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-02.png)
 
+**Paso 2**: Descomprime el fichero y ejecuta el instalador
+
 (TODO)
 
 ## Primera prueba
