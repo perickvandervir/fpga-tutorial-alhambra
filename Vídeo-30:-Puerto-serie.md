@@ -145,7 +145,9 @@ y nos ahí nos aparecerá el **Arduino Ide**. Lo arrancamos pinchando en su icon
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-win10-03.png)
 
-Al ejecutarlo aparecerá la siguiente pantalla de aviso: 
+Al ejecutarlo aparecerá la siguiente **pantalla de aviso**. Pinchamos en **Sí**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-win10-04.jpg)
 
 (TODO)
 
