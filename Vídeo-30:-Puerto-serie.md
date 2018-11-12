@@ -305,9 +305,9 @@ Desde el entorno de Arduino **NO** tenemos acceso a las señales de control, por
 
 Abrimos el **ScriptCommunicator**. Pinchamos en el botón de **Settings** para seleccionar el **puerto serie**. Si estamos en Linux seleccionamos el **/dev/ttyUSB1**. La velocidad es indiferente, de momento. Pinchamos en **Close** para volver
 
-(Pantallazo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej1-06.gif)
 
-(Animación)
+(Pantallazo windows)
 
 (TODO)
 
