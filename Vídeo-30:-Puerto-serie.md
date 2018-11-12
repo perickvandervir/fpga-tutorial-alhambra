@@ -165,9 +165,11 @@ Comienza la instalación de los ficheros. Este proceso puede tardar unos minutos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-win10-08.png)
 
-* **Paso 4**: Abrir el entorno. En el escritorio aparecerá el icono de Arduino. Pinchamos y lo ejecutabmos. Nos aparecerá esto:
+* **Paso 4**: Abrir el entorno. En el escritorio aparecerá el icono de Arduino. Pinchamos y lo ejecutamos. Nos aparecerá la pantalla principal:
 
-(TODO)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-win10-09.png)
+
+¡Ya lo tenemos **instalado** y **listo** para usar!
 
 ### Instalación del ScriptCommunicator
 
