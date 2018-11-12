@@ -218,6 +218,10 @@ Pincha en la primera opción: **Windows**.  Aparecerá una web nueva y al cabo d
 
 **Paso 2**: Descomprime el fichero y ejecuta el instalador
 
+En la carpeta de **Descargas** tenemos el fichero **ScriptCommunicatorSetup_05_09_windows.zip**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-03.png)
+
 (TODO)
 
 ## Primera prueba
