@@ -319,8 +319,7 @@ En este **vídeo** se muestra el ejemplo en **acción**:
 
 Ahora que ya tenemos **todo funcionando**, es momento de **aprender** a hacer circuitos que se **comuniquen** mediante el **puerto serie**
 
-
-## Transmisor Serie
+# Transmisor Serie
 
  TODO
 
