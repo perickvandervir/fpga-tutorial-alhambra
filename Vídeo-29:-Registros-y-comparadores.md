@@ -690,6 +690,17 @@ Implementar un **puerto de entrada** y de **salida** adicionales para **Arduino*
 
 [![Click to see the youtube video](http://img.youtube.com/vi/L9Xf6I9Zow0/0.jpg)](https://www.youtube.com/watch?v=L9Xf6I9Zow0)
 
+### Ejercicio 29.4
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-29/klarojms/Ejercicio%204-1.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-29/klarojms/Ejercicio%204-2.png)
+
+* **Vídeos** en Youtube:
+
+[![Click to see the youtube video](http://img.youtube.com/vi/9kVDLGVs91M/0.jpg)](https://www.youtube.com/watch?v=9kVDLGVs91M)
+
+[![Click to see the youtube video](http://img.youtube.com/vi/xQ0ruzBbqfg/0.jpg)](https://www.youtube.com/watch?v=xQ0ruzBbqfg)
+
 ## Andrés (@Avarez_)
 
 ### Ejercicio 29.1
