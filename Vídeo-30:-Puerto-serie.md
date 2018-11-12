@@ -20,7 +20,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Terminal de comunicaciones](#terminal-de-comunicaciones)
     * [Instalación de Arduino-IDE](#instalaci%C3%B3n-de-arduino-ide)
       * [GNU/Linux Ubuntu 18.04](#gnulinux-ubuntu-1804)
-      * [Windows 10](#windows-10)  (TODO)
+      * [Windows 10](#windows-10) 
     * [Instalación del ScriptCommunicator](#instalaci%C3%B3n-del-scriptcommunicator)
       * [ScriptCommunicator en Gnu/Linux Ubuntu 18.04](#scriptcommunicator-en-gnulinux-ubuntu-1804)
       * [ScriptCommunicator en Windows 10](#scriptcommunicator-en-windows-10) (TODO)
