@@ -307,7 +307,10 @@ Abrimos el **ScriptCommunicator**. Pinchamos en el botón de **Settings** para s
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej1-06.gif)
 
-(Pantallazo windows)
+En windows es igual, pero seleccionamos el **COM4**, que es donde está el puerto serie de la Icezum Alhambra en este ordenador
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej1-07.png)
+
 
 (TODO)
 
