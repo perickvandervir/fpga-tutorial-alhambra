@@ -242,6 +242,10 @@ Pinchamos en **más información** y luego en **Ejecutar de todas formas**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-08.png)
 
+...Y nos aparece un nuevo **mensaje de advertencia** (Windows es cansino, cansino...). Pinchamos en **Sí**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-09.jpg)
+
 (TODO)
 
 ## Primera prueba
