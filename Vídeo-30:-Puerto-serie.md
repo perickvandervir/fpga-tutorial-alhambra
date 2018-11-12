@@ -23,7 +23,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
       * [Windows 10](#windows-10) 
     * [Instalación del ScriptCommunicator](#instalaci%C3%B3n-del-scriptcommunicator)
       * [ScriptCommunicator en Gnu/Linux Ubuntu 18.04](#scriptcommunicator-en-gnulinux-ubuntu-1804)
-      * [ScriptCommunicator en Windows 10](#scriptcommunicator-en-windows-10) (TODO)
+      * [ScriptCommunicator en Windows 10](#scriptcommunicator-en-windows-10) 
    * [Primera prueba](#primera-prueba)
      * [Ejemplo 1: Comprobación de las señales a nivel físico](#ejemplo-1-comprobaci%C3%B3n-de-se%C3%B1ales-a-nivel-f%C3%ADsico)
      * [Probando las señales de control con el ScriptCommunicator](#probando-las-se%C3%B1ales-de-control-con-el-scriptcommunicator)
