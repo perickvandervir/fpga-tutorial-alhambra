@@ -287,7 +287,7 @@ Primero **probaremos** su funcionamiento con el **Arudino IDE**. Lo lanzamos y s
 
 * **Windows**: Dispositivo **COMx**, donde la X es un número que varía de un ordenador a otro. En el ordenador donde se ha probado estaba en el **COM4**
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej1-05.png)
 
 * **MAC**: TODO
 
