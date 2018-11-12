@@ -226,6 +226,10 @@ Nos situamos encima del fichero, y apretamos el botón derecho del ratón. Pinch
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-04.png)
 
+Se crea la carpeta **ScriptCommunicatorSetup_05_09_windows** y dentro de ella está el **instalador**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-05.png)
+
 (TODO)
 
 ## Primera prueba
