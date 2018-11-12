@@ -311,11 +311,11 @@ En windows es igual, pero seleccionamos el **COM4**, que es donde está el puert
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej1-07.png)
 
-Para comenzar las pruebas nos conectamos a la placa pinchando en **Connect**. Comprobamos que el **eco funciona** (igual que en el IDE de arduino). Vemos que las señales **CTS**, **DSR** y **DCD** están a **1**. Al apretar los **pulsadores**, se pondrá a **0** la seleccionada (tienen la lógica invertica). Los **LEDS** 7 y 0 estarán **encendidos**. Pinchando en **DTR** y **RTS** se cambia su estado
+Para comenzar las pruebas nos conectamos a la placa pinchando en **Connect**. Comprobamos que el **eco funciona** (igual que en el IDE de arduino). Vemos que las señales **CTS**, **DSR** y **DCD** están a **1**. Al apretar los **pulsadores**, se pondrá a **0** la seleccionada (tienen la lógica invertica). Los **LEDS** 7 y 0 estarán **encendidos**. Pinchando en **DTR** y **RTS** se cambia su estado.
 
-(Animación 1)
+En este **vídeo** se muestra el ejemplo en **acción**:
 
-(Vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/m4nKp2PAnJ8/0.jpg)](https://www.youtube.com/watch?v=m4nKp2PAnJ8)
 
 (TODO)
 
