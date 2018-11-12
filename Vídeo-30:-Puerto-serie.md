@@ -161,6 +161,10 @@ El Entorno se instala en **C:\\Program Files(x86)\\Arduino\\**. Dejamos esa ubic
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-win10-07.png)
 
+Comienza la instalación de los ficheros. Este proceso puede tardar unos minutos. Al terminar pinchamos en **Close**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-win10-08.png)
+
 (TODO)
 
 ### Instalación del ScriptCommunicator
