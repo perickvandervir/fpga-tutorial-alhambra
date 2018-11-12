@@ -258,7 +258,15 @@ Y ahora en **Install**. Comienzan a instalarse los archivos
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-12.png)
 
-(TODO)
+Al cabo de unos segundos el proceso habrá **terminado**, y aparece la última ventana. Pinchamos en **Finish**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-13.png)
+
+**Paso 3**: Lanzar el **ScriptCommunicator**. Al terminar la instalacion se lanza automáticamente. También tendremos un acceso directo desde el Escritorio para lanzarlo. Nos aparecerá una pantalla como esta:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-14.png)
+
+¡Ya lo tenemos **listo** para empezar!
 
 ## Primera prueba
 
