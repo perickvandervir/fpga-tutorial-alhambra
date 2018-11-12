@@ -69,7 +69,7 @@ Estudiante que se encuentran cursando el **tercer año** de la **academia de Har
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/19-Jedi-N1-min.png)|    Ximo Catala (Ximocat) | Jedi Nivel 1| 455 (+150)| T27 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/19-Jedi-N1-min.png)|    Talud08 (@javivicen) | Jedi Nivel 1| 455 (+30)| T27 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/19-Jedi-N1-min.png)|   Joaquín Cubillo (jcubilloarr) | Jedi Nivel 1| 455 (+10)| T27 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-jedi-min.png)|    llmll (@FACOMJ) | Jedi | 350/455 | T27 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-jedi-min.png)|    llmll (@FACOMJ) | Jedi | 350/455 | T27 |
 
 ### Segundo curso
 
