@@ -206,6 +206,16 @@ Nos aparecerá la **ventana principal** del ScriptCommunicator:
 
 #### ScriptCommunicator en Windows 10
 
+* **Paso 1**: Conéctate a la [web del ScriptCommunicator](https://github.com/szieke/ScriptCommunicator_serial-terminal) y descarga el archivo **ScriptCommunicatorSetup_05_09_windows.zip**
+
+La zona de descarga se encuentra en la parte final de la web:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-01.png)
+
+Pincha en la primera opción: **Windows**.  Aparecerá una web nueva y al cabo de unos segundos podremos **comenzar la descarga**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-02.png)
+
 (TODO)
 
 ## Primera prueba
