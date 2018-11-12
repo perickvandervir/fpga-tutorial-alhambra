@@ -133,6 +133,14 @@ y nos ahí nos aparecerá el **Arduino Ide**. Lo arrancamos pinchando en su icon
 
 #### Windows 10
 
+* **Paso 1**: Conéctate a la [web del IDE de Arduino](https://www.arduino.cc/en/Main/Software) y pincha en la primera opción **Windows Instaler** 
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-win10-01.png)
+
+* **Paso 2**: Descargar el fichero **arduino-1.8.7-windows.exe**, que nos aparecerá al pinchar en la opción **Just Download**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-win10-02.png)
+
 (TODO)
 
 ### Instalación del ScriptCommunicator
