@@ -230,6 +230,10 @@ Se crea la carpeta **ScriptCommunicatorSetup_05_09_windows** y dentro de ella es
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-05.png)
 
+**Ejecutamos** el instalador **como administrador**, situándonos encima y pinchando con el botón derecha. Elegimos la opción **Ejecutar como Administrador**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-06.png)
+
 (TODO)
 
 ## Primera prueba
