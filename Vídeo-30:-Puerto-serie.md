@@ -246,6 +246,10 @@ Pinchamos en **más información** y luego en **Ejecutar de todas formas**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-09.jpg)
 
+Ya por fin arranca el instalador. El programa se instala por defecto en **C:\\Program Files (x86)\\ScriptCommunicator_5.09**. Pinchamos en **Next**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-10.png)
+
 (TODO)
 
 ## Primera prueba
