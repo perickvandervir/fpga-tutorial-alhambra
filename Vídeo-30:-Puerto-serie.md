@@ -254,6 +254,10 @@ Volvemos a pinchar en **Next**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-11.png)
 
+Y ahora en **Install**. Comienzan a instalarse los archivos
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-12.png)
+
 (TODO)
 
 ## Primera prueba
