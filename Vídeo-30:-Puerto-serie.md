@@ -319,14 +319,6 @@ En este **vídeo** se muestra el ejemplo en **acción**:
 
 (TODO)
 
-## Trabajando a nivel físico
-
-* Otro ejemplo: habilitar/deshabilitar conexión con un pulsador 
-(TODO)
-sudo usermod -a -G dialout $USER
-
- TODO
-
 ## Transmisor Serie
 
  TODO
@@ -345,6 +337,8 @@ sudo usermod -a -G dialout $USER
 
 (TODO)
 
+* Otro ejemplo: habilitar/deshabilitar conexión con un pulsador  
+* sudo usermod -a -G dialout $USER
 * [Más info. Tutorial verilog](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Cap%C3%ADtulo-20%3A-Comunicaciones-serie-as%C3%ADncronas)
 * Dispositivos: pc, arduino, bluetooh-serie, usb-serie,
 
