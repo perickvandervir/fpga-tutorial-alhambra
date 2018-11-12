@@ -250,6 +250,10 @@ Ya por fin arranca el instalador. El programa se instala por defecto en **C:\\Pr
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-10.png)
 
+Volvemos a pinchar en **Next**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/SC-win10-11.png)
+
 (TODO)
 
 ## Primera prueba
