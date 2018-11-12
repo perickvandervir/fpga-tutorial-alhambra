@@ -317,7 +317,8 @@ En este **vídeo** se muestra el ejemplo en **acción**:
 
 [![Click to see the youtube video](http://img.youtube.com/vi/m4nKp2PAnJ8/0.jpg)](https://www.youtube.com/watch?v=m4nKp2PAnJ8)
 
-(TODO)
+Ahora que ya tenemos **todo funcionando**, es momento de **aprender** a hacer circuitos que se **comuniquen** mediante el **puerto serie**
+
 
 ## Transmisor Serie
 
