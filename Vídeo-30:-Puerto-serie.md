@@ -393,10 +393,22 @@ TODO
 
 TODO
 
-## Receptor serie
+## Funcionamiento del transmisor
+
+(TODO)
+
+# Receptor serie
 
 * Encender apagar un led con cualquier dato recibido
 * encendido de leds con las teclas  
+
+(TODO)
+
+# Aplicaciones
+
+(Bluetooth-serie)
+(Conexión Arduino)
+(Comunicándonos con nuestros programas: Python, node)
 
 (TODO)
 
