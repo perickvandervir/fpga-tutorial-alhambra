@@ -387,11 +387,15 @@ Se **activan** desde la ventana de **Settings**, pinchando en las casillas **hex
 
 ## Ejemplo 4: Circuito BCD a Ascii
 
+(Ejemplo con spiner)
+
 TODO
 
 ## Ejemplo 5: Enviando una cadena
 
 TODO
+
+(Información en fichero?)
 
 ## Funcionamiento del transmisor
 
