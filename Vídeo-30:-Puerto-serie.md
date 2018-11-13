@@ -324,7 +324,9 @@ Ahora que ya tenemos **todo funcionando**, es momento de **aprender** a hacer ci
 
 El **envío de datos** desde la **FPGA** al **PC** lo realizamos a través del **transmisor serie**. El bloque de Icestudio está disponible en el menú **Varios/Serial/Serial-tx** de la colección **Academia-Jedi-HW-30**
 
-(Dibujo transmisor serie)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-01.png)
+
+
 
  TODO
 
