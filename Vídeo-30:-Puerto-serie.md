@@ -355,6 +355,9 @@ y las opciones de la **consola** son estas (como referencia)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-04.png)
 
+En esta **animación** se puede ver con más detalle el funcionamiento del ejemplo anterior. El tamaño de la letra de la consola se ha agrandado para que se vea mejor
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-05.gif)
 
  TODO
 
