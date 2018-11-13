@@ -347,7 +347,13 @@ La velocidad se ha configurado a **115200 baudios**, mediante el parámetro. La 
 
 [![Click to see the youtube video](http://img.youtube.com/vi/lvwHe6r3xLs/0.jpg)](https://www.youtube.com/watch?v=lvwHe6r3xLs)
 
+La **configuración** que estoy usando en el ScriptCommunicator en **Linux** es la siguiente:
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-03.png)
+
+y las opciones de la **consola** son estas (como referencia)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-04.png)
 
 
  TODO
