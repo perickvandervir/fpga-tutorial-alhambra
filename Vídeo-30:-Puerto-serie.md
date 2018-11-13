@@ -370,6 +370,14 @@ Como el número es de **3 bits** y el transmisor envía números de **8 bits**, 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-07.png)
 
+Lo **cargamos** y lo **probamos**. Cada vez que se aprieta el pulsador de **enter** se envía el número actual
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+Lo que se está enviando son **números crudos**. El **ScriptCommunicator** tiene un par de pestañas activables que nos permiten visualizar el **dato recibido** en **hexadecimal** y en **binario**. Si lo visualizamos en ASCII, veremos "Basura", ya que lo que se envían no se corresponde con caracteres ASCII visibles
+
+(Screenshot)
+
  TODO
 
 ## Ejemplo 4: Circuito BCD a Ascii
