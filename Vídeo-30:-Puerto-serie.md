@@ -326,7 +326,9 @@ El **envío de datos** desde la **FPGA** al **PC** lo realizamos a través del *
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-01.png)
 
+El **dato a transmitir** se introduce por la **entrada de datos**, de **8 bits**. Al generar el **tic de transmisión**, se captura el dato y se envía por la línea serie (TX). Es un funcionamiento similar a la captura de los registros
 
+Hasta que el dato no se haya transmitido completamente, **NO** se puede enviar el siguiente. El **estado** del transmisor lo sabemos por su salida **Busy**: que indica si está **ocupado** o no. Cuando se ha enviado el dato actual, emite el **tic de dato transmitido**
 
  TODO
 
