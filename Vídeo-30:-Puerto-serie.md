@@ -335,6 +335,10 @@ La **velocidad de transmisión** la fijamos mediante el **parámetro**. Tenemos 
 
 ## Ejemplo 2: Envío de un carácter al apretar un botón
 
+Empezaremos con el **ejemplo** más sencillo: Enviar un **carácter constante** al PC cada vez que apretamos el **pulsador SW1** de la Icezum Alhambra. Cuando se haya enviado, encenderemos un LED durante 100ms. El circuito es el siguiente:
+
+(Circuito)
+
  TODO
 
 ## Ejemplos
