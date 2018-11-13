@@ -364,7 +364,7 @@ En esta **animación** se puede ver con más detalle el funcionamiento del ejemp
 
 En este ejemplo enviaremos al PC los números introducidos en binario mediante **3 interruptores externos**. Al apretar el botón de **ENTER**, el número se mostrará en el **display de 7 segmentos** y se enviará al PC. Cada vez que se envía un dato se enciende un **LED** durante **100ms**:
 
-(Circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-06.png)
 
 
  TODO
