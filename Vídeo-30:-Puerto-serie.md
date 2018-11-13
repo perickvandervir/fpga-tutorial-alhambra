@@ -364,11 +364,13 @@ En esta **animación** se puede ver con más detalle el funcionamiento del ejemp
 
  TODO
 
-## Ejemplos
-* Envío de un número pelado
-* Circuito BCD a Ascii
-* Envío de una cadena
-* Envío de varias cadenas
+## Ejemplo 4: Circuito BCD a Ascii
+
+TODO
+
+## Ejemplo 5: Enviando una cadena
+
+TODO
 
 ## Receptor serie
 
