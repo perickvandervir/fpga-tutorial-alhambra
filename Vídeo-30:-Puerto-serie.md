@@ -359,6 +359,8 @@ En esta **animación** se puede ver con más detalle el funcionamiento del ejemp
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-05.gif)
 
+## Ejemplo 3: Enviando un número en binario
+
  TODO
 
 ## Ejemplos
