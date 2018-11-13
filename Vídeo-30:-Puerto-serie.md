@@ -343,6 +343,13 @@ El dato a enviar es el carácter **"A"**. Lo introducimos como una **constante d
 
 La velocidad se ha configurado a **115200 baudios**, mediante el parámetro. La salida **TX** se conecta directamente al **pin de TX**, para que el dato serie llegue al PC
 
+**Cargamos** el circuito y lo **probamos**. En el PC arrancamos el **ScriptCommunicator**, configurado a la velocidad de **115200 baudios**. Comprobamos cómo llega una "A" con cada pulsación, y un parpadeo en el LED0
+
+[![Click to see the youtube video](http://img.youtube.com/vi/lvwHe6r3xLs/0.jpg)](https://www.youtube.com/watch?v=lvwHe6r3xLs)
+
+
+
+
  TODO
 
 ## Ejemplos
