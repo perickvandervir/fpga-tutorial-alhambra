@@ -376,7 +376,9 @@ Lo **cargamos** y lo **probamos**. Cada vez que se aprieta el pulsador de **ente
 
 Lo que se está enviando son **números crudos**. El **ScriptCommunicator** tiene un par de pestañas activables que nos permiten visualizar el **dato recibido** en **hexadecimal** y en **binario**. Si lo visualizamos en ASCII, veremos "Basura", ya que lo que se envían no se corresponde con caracteres ASCII visibles
 
-(screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-09.png)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-10.png)
 
 Se **activan** desde la ventana de **Settings**, pinchando en las casillas **hex** y **binary**
 
