@@ -343,6 +343,9 @@ Ahora que ya tenemos **todo funcionando**, es momento de **aprender** a hacer ci
 * [Más info. Tutorial verilog](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Cap%C3%ADtulo-20%3A-Comunicaciones-serie-as%C3%ADncronas)
 * Dispositivos: pc, arduino, bluetooh-serie, usb-serie,
 
+# Info
+
+
 
 # Ejercicios propuestos (25 BitPoints)
 
