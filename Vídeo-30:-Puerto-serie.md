@@ -339,7 +339,9 @@ Empezaremos con el **ejemplo** más sencillo: Enviar un **carácter constante** 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-02.png)
 
+El dato a enviar es el carácter **"A"**. Lo introducimos como una **constante de 8 bits**, y bien podemos indicar su código ascii, o bien el propio carácter usando las dobles comillas. El **tic** que aparece al **apretar el pulsador** lo usamos como **tic de tranmsión**, conectándolo a la entrada txmit. El **tic de dato enviado** se introduce en un **temporizador** para generar un **pulso de 100m**s que enciende el **LED 0** durante ese tiempo
 
+La velocidad se ha configurado a **115200 baudios**, mediante el parámetro. La salida **TX** se conecta directamente al **pin de TX**, para que el dato serie llegue al PC
 
  TODO
 
