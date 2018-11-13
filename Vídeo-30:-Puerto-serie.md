@@ -362,6 +362,11 @@ En esta **animación** se puede ver con más detalle el funcionamiento del ejemp
 
 ## Ejemplo 3: Enviando un número en binario
 
+En este ejemplo enviaremos al PC los números introducidos en binario mediante **3 interruptores externos**. Al apretar el botón de **ENTER**, el número se mostrará en el **display de 7 segmentos** y se enviará al PC. Cada vez que se envía un dato se enciende un **LED** durante **100ms**:
+
+(Circuito)
+
+
  TODO
 
 ## Ejemplo 4: Circuito BCD a Ascii
