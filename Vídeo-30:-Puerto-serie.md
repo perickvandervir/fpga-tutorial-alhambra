@@ -335,9 +335,11 @@ La **velocidad de transmisión** la fijamos mediante el **parámetro**. Tenemos 
 
 ## Ejemplo 2: Envío de un carácter al apretar un botón
 
-Empezaremos con el **ejemplo** más sencillo: Enviar un **carácter constante** al PC cada vez que apretamos el **pulsador SW1** de la Icezum Alhambra. Cuando se haya enviado, encenderemos un LED durante 100ms. El circuito es el siguiente:
+Empezaremos con el **ejemplo** más sencillo: Enviar un **carácter constante** al PC cada vez que apretamos el **pulsador SW1** de la Icezum Alhambra. Cuando se haya enviado, encenderemos un ***LED** durante **100ms**. El circuito es el siguiente:
 
-(Circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-02.png)
+
+
 
  TODO
 
