@@ -28,6 +28,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
      * [Ejemplo 1: Comprobación de las señales a nivel físico](#ejemplo-1-comprobaci%C3%B3n-de-se%C3%B1ales-a-nivel-f%C3%ADsico)
      * [Probando las señales de control con el ScriptCommunicator](#probando-las-se%C3%B1ales-de-control-con-el-scriptcommunicator)
 * [Transmisor serie](#transmisor-serie)
+  * [Ejemplo 2: Enviando un carácter al apretar un botón](#ejemplo-2-env%C3%ADo-de-un-car%C3%A1cter-al-apretar-un-bot%C3%B3n)
 * [Ejercicios propuestos (25 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
