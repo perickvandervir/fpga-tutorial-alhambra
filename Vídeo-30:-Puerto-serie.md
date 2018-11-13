@@ -330,6 +330,10 @@ El **dato a transmitir** se introduce por la **entrada de datos**, de **8 bits**
 
 Hasta que el dato no se haya transmitido completamente, **NO** se puede enviar el siguiente. El **estado** del transmisor lo sabemos por su salida **Busy**: que indica si está **ocupado** o no. Cuando se ha enviado el dato actual, emite el **tic de dato transmitido**
 
+La **velocidad de transmisión** la fijamos mediante el **parámetro**. Tenemos que introducir alguna de las velocidades estándares (en baudios): 300, 600, 1200, 2400, 4800, 9600, 19200, 38400, 57600 ó 115200. Por **defecto** se usan **115200 baudios** 
+
+## Ejemplo 2: Envío de un carácter al apretar un botón
+
  TODO
 
 ## Ejemplos
