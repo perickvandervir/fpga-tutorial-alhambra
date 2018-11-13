@@ -366,6 +366,9 @@ En este ejemplo enviaremos al PC los números introducidos en binario mediante *
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-06.png)
 
+Como el número es de **3 bits** y el transmisor envía números de **8 bits**, usamos un componente "acoplador" que pasa de 3 a 8 bits, rellenando con 0s los bits de mayor peso. En el **montaje** tenemos los **3 interruptores**, el **botón de enter**, el **LED de transmisión** y el **display de 7 segmentos**:
+
+(montaje)
 
  TODO
 
