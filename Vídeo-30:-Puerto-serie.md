@@ -359,7 +359,6 @@ y las opciones de la **consola** son estas (como referencia)
  TODO
 
 ## Ejemplos
-* Envío de un carácter ascii
 * Envío de un número pelado
 * Circuito BCD a Ascii
 * Envío de una cadena
