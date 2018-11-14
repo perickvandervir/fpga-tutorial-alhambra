@@ -412,7 +412,9 @@ Utilizaremos el **spiner** conectado a un **sensor IR** para contar las pasadas 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-12.png)
 
-(Ejemplo circuito)
+Este es el circuito. Los **tics del Spiner** incrementan el **contador de 4 bits**, cuya salida se saca por el **display de 7 segments** y se convierte a **dígito ASCII** antes de enviarlo por el **puerto serie**. El primer tic recibido está **retrasado** un periodo para que se incremente primero el contador y empiece a contar desde 1 
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-13.png)
 
 (Vídeo funcionamiento)
 
