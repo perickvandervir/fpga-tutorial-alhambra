@@ -389,6 +389,25 @@ Se **activan** desde la ventana de **Settings**, pinchando en las casillas **hex
 
 La mayoría de **terminales serie**, como el de Arduino IDE, sólo muestran la **información en ASCII** (y no números en crudo como el ScriptCommunicator). Para poder visualizar los **dígitos 0-9** en estos terminales, hay que realizar una **conversión** de **binario a ASCII**
 
+La **tabla de conversión** es la siguiente:
+
+|  Número BCD | Código ASCII (hex) | Dígito |
+|-------------|--------------------|--------|
+|  0000       | 30                 | 0      |
+|  0001       | 31                 | 1      |
+|  0010       | 32                 | 2      |
+|  0011       | 33                 | 3      |
+|  0100       | 34                 | 4      |
+|  0101       | 35                 | 5      |
+|  0110       | 36                 | 6      |
+|  0111       | 37                 | 7      |
+|  1000       | 38                 | 8      |
+|  1001       | 39                 | 9      |
+ 
+Esta conversión se implementa muy fácilmente mediante una **tabla** de 4 **entradas** y **8 salidas**. Para los valores superiores a 9 se usan los caracteres **hexadecimales**. De esta forma nos sirve tanto para convertir dígitos decimales y hexadecimales
+
+(Dibujos)
+
 (Ejemplo con spiner)
 
 TODO
