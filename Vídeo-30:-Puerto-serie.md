@@ -423,7 +423,7 @@ En este **vídeo** se puede ver el ejemplo en funcionamiento. Se usa el **termin
 
 [![Click to see the youtube video](http://img.youtube.com/vi/8FGQPXt7DuE/0.jpg)](https://www.youtube.com/watch?v=8FGQPXt7DuE)
 
-Este es el aspecto del terminal del **Arduino IDE** tras girar el **spiner** un tiempo, después de inicializarlo. Se observan los **dígitos ASCII** recibidos, y cómo el primero es el 1, y no el 0, gracias a la acción del biestable D que retrasa el primer tic
+Este es el aspecto del terminal del **Arduino IDE** tras girar el **spiner** un tiempo, después de inicializarlo. Se observan los **dígitos ASCII** recibidos, y cómo el primero es el **1**, y no el 0, gracias a la acción del **biestable D** que retrasa el primer tic
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-14.png)
 
