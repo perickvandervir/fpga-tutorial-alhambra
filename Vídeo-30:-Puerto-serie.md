@@ -422,9 +422,9 @@ En este **vídeo** se puede ver el ejemplo en funcionamiento. Se usa el **termin
 
 [![Click to see the youtube video](http://img.youtube.com/vi/8FGQPXt7DuE/0.jpg)](https://www.youtube.com/watch?v=8FGQPXt7DuE)
 
-(Pantallazo)
+Este es el aspecto del terminal del **Arduino IDE** tras girar el **spiner** un tiempo
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-14.png)
 
 ## Ejemplo 5: Envío de un dato de 16 bits
 
