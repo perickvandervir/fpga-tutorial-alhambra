@@ -420,7 +420,7 @@ Se han añadido dos componentes auxiliares para hacer el ejemplo más compacto: 
 
 En este **vídeo** se puede ver el ejemplo en funcionamiento. Se usa el **terminal** del **Arduino IDE** para mostrar los **dígitos** recibidos
 
-(Vídeo funcionamiento)
+[![Click to see the youtube video](http://img.youtube.com/vi/8FGQPXt7DuE/0.jpg)](https://www.youtube.com/watch?v=8FGQPXt7DuE)
 
 (Pantallazo)
 
