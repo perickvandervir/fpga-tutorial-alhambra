@@ -416,7 +416,13 @@ Este es el circuito. Los **tics del Spiner** incrementan el **contador de 4 bits
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-13.png)
 
+Se han añadido dos componentes auxiliares para hacer el ejemplo más compacto: un **IR de tics con sonido**, que emite un **pitido** cada vez que se recibe un tic del spiner, y el componente **flash** que enciende el **LED** durante 50ms para indicar que el dígito se ha enviado
+
+En este **vídeo** se puede ver el ejemplo en funcionamiento. Se usa el **terminal** del **Arduino IDE** para mostrar los **dígitos** recibidos
+
 (Vídeo funcionamiento)
+
+(Pantallazo)
 
 TODO
 
