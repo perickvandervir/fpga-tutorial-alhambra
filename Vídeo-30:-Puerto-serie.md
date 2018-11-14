@@ -410,7 +410,7 @@ Esta conversión se implementa muy fácilmente mediante una **tabla** de 4 **ent
 
 Utilizaremos el **spiner** conectado a un **sensor IR** para contar las pasadas que dan sus brazos, en un **contador** decimal de **4 bits**. Su valor se muestra en **decimal** en un **display de 7 segmentos** y se envía el **dígito ASCII** para verlo en el **terminal serie**. El **montaje** es el siguiente:
 
-(Montaje)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-12.png)
 
 (Ejemplo circuito)
 
