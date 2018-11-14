@@ -385,7 +385,7 @@ Se **activan** desde la ventana de **Settings**, pinchando en las casillas **hex
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-08.png)
 
-## Ejemplo 4: Circuito BCD a Ascii
+## Ejemplo 4: Circuito BCD a ASCII
 
 (Ejemplo con spiner)
 
