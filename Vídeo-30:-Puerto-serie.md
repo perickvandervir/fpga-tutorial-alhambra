@@ -418,7 +418,11 @@ Utilizaremos el **spiner** conectado a un **sensor IR** para contar las pasadas 
 
 TODO
 
-## Ejemplo 5: Enviando una cadena
+## Ejemplo 5: Envío de un dato de 16 bits
+
+TODO
+
+## Ejemplo 6: Enviando una cadena
 
 TODO
 
