@@ -387,6 +387,8 @@ Se **activan** desde la ventana de **Settings**, pinchando en las casillas **hex
 
 ## Ejemplo 4: Circuito BCD a ASCII
 
+La mayoría de **terminales serie**, como el de Arduino IDE, sólo muestran la **información en ASCII** (y no números en crudo como el ScriptCommunicator). Para poder visualizar los **dígitos 0-9** en estos terminales, hay que realizar una **conversión** de **binario a ASCII**
+
 (Ejemplo con spiner)
 
 TODO
