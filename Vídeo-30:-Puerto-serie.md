@@ -406,7 +406,7 @@ La **tabla de conversión** es la siguiente:
  
 Esta conversión se implementa muy fácilmente mediante una **tabla** de 4 **entradas** y **8 salidas**. Para los valores superiores a 9 se usan los caracteres **hexadecimales**. De esta forma nos sirve tanto para convertir dígitos decimales y hexadecimales
 
-(Dibujos)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-11.png)
 
 (Ejemplo con spiner)
 
