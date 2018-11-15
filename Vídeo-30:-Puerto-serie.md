@@ -427,7 +427,7 @@ Este es el aspecto del terminal del **Arduino IDE** tras girar el **spiner** un 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-14.png)
 
-## Ejemplo 5: Transmisor de 16 bits
+## Ejemplo 5-1: Transmisor de 16 bits
 
 (Envio de JA)  
 (Envíar un dato de 16 bytes contenido en un registro)
