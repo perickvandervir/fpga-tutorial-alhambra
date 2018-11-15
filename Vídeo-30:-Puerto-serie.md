@@ -437,9 +437,10 @@ Primero veremos qué hace: al apretarse el **pulsador** se emite un pitido y se 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-1-02.png)
 
-El montaje es muy básico: sólo están el **pulsador** para enviar, el **LED** y el **zumbador**
+El **montaje** es muy básico: sólo están el **pulsador** para enviar, el **LED** y el **zumbador**
 
-(Montaje)  
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-1-03.png)
+
 (Vídeo)  
 (Descripción detallada del funcionamiento)  
 
