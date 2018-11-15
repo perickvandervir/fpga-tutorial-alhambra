@@ -437,6 +437,10 @@ Primero veremos qué hace: al apretarse el **pulsador** se emite un pitido y se 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-1-02.png)
 
+(Montaje)  
+(Vídeo)  
+(Descripción detallada del funcionamiento)  
+
 (Envíar un dato de 16 bytes contenido en un registro)  
 (Crear componente tx-16 y enviar A + \n)  
 
