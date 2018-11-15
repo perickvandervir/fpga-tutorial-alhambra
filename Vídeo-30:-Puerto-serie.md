@@ -429,6 +429,10 @@ Este es el aspecto del terminal del **Arduino IDE** tras girar el **spiner** un 
 
 ## Ejemplo 5-1: Transmisor de 16 bits
 
+El **puerto serie** funciona con **datos de 8 bits**. Si queremos enviar un **dato de 16 bits**, debemos **partirlo** en dos de 8 bits, y enviarlos por separado. Este es un ejemplo de un circuito que nos permite hacer eso, y que veremos detalladamente a continuación
+
+(Dibujo circuito)
+
 (Envio de JA)  
 (Envíar un dato de 16 bytes contenido en un registro)  
 (Crear componente tx-16 y enviar A + \n)  
