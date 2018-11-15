@@ -429,6 +429,10 @@ Este es el aspecto del terminal del **Arduino IDE** tras girar el **spiner** un 
 
 ## Ejemplo 5: Envío de un dato de 16 bits
 
+(Envio de JA)  
+(Envíar un dato de 16 bytes contenido en un registro)
+(Crear componente tx-16 y enviar A + \n)  
+
 TODO
 
 ## Ejemplo 6: Enviando una cadena
