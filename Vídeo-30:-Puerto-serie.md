@@ -441,7 +441,10 @@ El **montaje** es muy básico: sólo están el **pulsador** para enviar, el **LE
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-1-03.png)
 
-(Vídeo)  
+Lo **cargamos** y lo **probamos**. Cada vez que se aprieta el pulsador aparece la palabra "JA" en el terminal. Primero se envía la "J" (byte alto) y luego la "A" (byte bajo)
+
+[![Click to see the youtube video](http://img.youtube.com/vi/xAhNkr0uT5w/0.jpg)](https://www.youtube.com/watch?v=xAhNkr0uT5w)
+  
 (Descripción detallada del funcionamiento)  
 
 (Envíar un dato de 16 bytes contenido en un registro)  
