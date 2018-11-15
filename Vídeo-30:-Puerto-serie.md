@@ -433,6 +433,10 @@ El **puerto serie** funciona con **datos de 8 bits**. Si queremos enviar un **da
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-1-01.png)
 
+Primero veremos qué hace: al apretarse el **pulsador** se emite un pitido y se envían los caracteres **J** y **A** seguidos, uno a continuación de otro. El LED parpadea cuando se han enviado el dato. Esto es lo que aparecerá en el terminal al **apretar varias veces el botón**
+
+(pantallazo)
+
 (Envio de JA)  
 (Envíar un dato de 16 bytes contenido en un registro)  
 (Crear componente tx-16 y enviar A + \n)  
