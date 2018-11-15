@@ -431,7 +431,7 @@ Este es el aspecto del terminal del **Arduino IDE** tras girar el **spiner** un 
 
 El **puerto serie** funciona con **datos de 8 bits**. Si queremos enviar un **dato de 16 bits**, debemos **partirlo** en dos de 8 bits, y enviarlos por separado. Este es un ejemplo de un circuito que nos permite hacer eso, y que veremos detalladamente a continuación
 
-(Dibujo circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-1-01.png)
 
 (Envio de JA)  
 (Envíar un dato de 16 bytes contenido en un registro)  
