@@ -447,6 +447,7 @@ Lo **cargamos** y lo **probamos**. Cada vez que se aprieta el pulsador aparece l
   
 (Descripción detallada del funcionamiento)  
 
+(Hacer bloque serial-tx-16)  
 (Envíar un dato de 16 bytes contenido en un registro)  
 (Crear componente tx-16 y enviar A + \n)  
 
