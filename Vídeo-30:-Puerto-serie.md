@@ -444,12 +444,16 @@ El **montaje** es muy básico: sólo están el **pulsador** para enviar, el **LE
 Lo **cargamos** y lo **probamos**. Cada vez que se aprieta el pulsador aparece la palabra "JA" en el terminal. Primero se envía la "J" (byte alto) y luego la "A" (byte bajo)
 
 [![Click to see the youtube video](http://img.youtube.com/vi/xAhNkr0uT5w/0.jpg)](https://www.youtube.com/watch?v=xAhNkr0uT5w)
+
+### Funcionamiento del Transmisor de 16 bits
+
+
   
 (Descripción detallada del funcionamiento)  
 
-(Hacer bloque serial-tx-16)  
-(Envíar un dato de 16 bytes contenido en un registro)  
-(Crear componente tx-16 y enviar A + \n)  
+(Hacer bloque serial-tx-16) 
+
+(Ejemplo 5-2: Seleccionar para enviar 2 datos de 16 bits. Uno es A + \n. El otro uno hexadecimal cualquiera) 
 
 TODO
 
