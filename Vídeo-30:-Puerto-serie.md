@@ -448,6 +448,9 @@ Lo **cargamos** y lo **probamos**. Cada vez que se aprieta el pulsador aparece l
 
 ### Funcionamiento del Transmisor de 16 bits
 
+El **transmisor** se encuentra en dos estados: **transmitiendo** y **apagado**. Esto lo determina el **biestable RS** de estado. Inicialmente está a **0** (apagado). Al recibirse el **tic de enviar dato** se activa, y pasa a **1**. En su salida hay un **detector de flanco de subida** que emite un tic cuando **arranca** (paso de apagado a encendido)
+
+(Dibujo)
 
   
 (Descripción detallada del funcionamiento)  
