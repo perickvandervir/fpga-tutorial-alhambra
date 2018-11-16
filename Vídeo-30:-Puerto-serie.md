@@ -452,7 +452,12 @@ El **transmisor** se encuentra en dos estados: **transmitiendo** y **apagado**. 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-1-04.png)
 
+Usamos un **biestable de cambio** para seleccionar qué byte enviar: **0** para el byte de menor peso y **1** para el de mayor. Inicialmente tiene el valor 1, porque primero enviamos el de mayor peso. La salida del multiplexor llega directamente a la entrada de datos del transmisor serie. Cuando llega el siguiente **tic** al Biestable de cambio, cambia a **0** y se selecciona el byte de menor peso 
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-1-05.png)
   
+
+
 (Descripción detallada del funcionamiento)  
 
 (Hacer bloque serial-tx-16) 
