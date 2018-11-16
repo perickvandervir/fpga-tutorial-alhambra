@@ -455,10 +455,16 @@ El **transmisor** se encuentra en dos estados: **transmitiendo** y **apagado**. 
 Usamos un **biestable de cambio** para seleccionar qué byte enviar: **0** para el byte de menor peso y **1** para el de mayor. Inicialmente tiene el valor 1, porque primero enviamos el de mayor peso. La salida del multiplexor llega directamente a la entrada de datos del transmisor serie. Cuando llega el siguiente **tic** al Biestable de cambio, cambia a **0** y se selecciona el byte de menor peso 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-1-05.png)
+
+El transmisor seríe sólo recibe **tics de transmisión** cuando el transmisor de 16 bits está **activado**. Una vez apgado, no se permiten más transmisiones. Esto se controla mediante una **puerta AND** conectada al biestable de estado. Se reciben dos tics de transmisión en total, que provienen de diferentes lugar. El primero es el de **inicio**, que lo provoca el biestable al encenderse. El segundo llega cuando se ha terminado de enviar el primero. Ambos se combinan a través de una **puerta OR**
   
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-1-06.png)
 
+El **final** del envío lo determina el **flanco de subida** generado por el biestable de cambio. Cuando ocurre se **apaga el transmisor** poniendo a cero el **biestable de estado**, y ya no se pueden realizar más transmisiones hasta que se active
 
-(Descripción detallada del funcionamiento)  
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-1-07.png)
+
+## Ejemplo 5-2: Bloque transmisor de 16 bits
 
 (Hacer bloque serial-tx-16) 
 
