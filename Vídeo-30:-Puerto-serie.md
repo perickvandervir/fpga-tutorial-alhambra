@@ -469,6 +469,8 @@ El **final** del envío lo determina el **flanco de subida** generado por el bie
 
 (Hacer bloque serial-tx-16) 
 
+Realizar mediciones
+
 (Ejemplo 5-2: Seleccionar para enviar 2 datos de 16 bits. Uno es A + \n. El otro uno hexadecimal cualquiera) 
 
 TODO
