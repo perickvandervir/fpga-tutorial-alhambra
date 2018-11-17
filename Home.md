@@ -112,9 +112,9 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|   Jordi R. Crespo  | Aspirante a Padawan Nivel-3 | 133 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|    Javier Liras  | Aspirante a Padawan Nivel-3 | 128 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|     Angel Millán (@angelmicelti)  | Aspirante a Padawan Nivel-3 | 127 /140| T12 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|     Augusto Galilei  | Aspirante a Padawan Nivel-3 | 125/158| T13 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|     J. Carlos Obregón (_Carlobre_) | Aspirante a Padawan Nivel-3 | 124 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|     JuanDGómezM | Aspirante a Padawan Nivel-3 | 124 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|     Augusto Galilei  | Aspirante a Padawan Nivel-3 | 123/158| T13 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/09-Aspirante-padawan-N3-min.png)|      Jose Ramón (@jr_nv, JuniorNV)  | Aspirante a Padawan Nivel-3 | 121/124 | T11 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2-min.png)|    Santiago Ventura (@pinto_santisan, Makerventura) | Aspirante a Padawan Nivel-2 | 114/110| T11|
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/08-Aspirante-padawan-N2-min.png)|   Jose Miguel Tirado (@Josemimolon)   | Aspirante a Padawan Nivel-2 | 110 (+6) | T10 |
