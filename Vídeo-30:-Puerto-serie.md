@@ -494,9 +494,11 @@ En este **vídeo** se puede ver el circuito en **acción**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-01.png)
 
-El **tamaño de la cadena** lo indicamos mediante el parámetro **módulo** del contador, de forma que cuando se active la **señal de overflow** (ov)  será porque hemos llegado al final, y hay que apagar el transmisor. Usamos el mismo montaje que el ejemplo 5-1. En el terminal veremos lo siguiente
+El **tamaño de la cadena** lo indicamos mediante el parámetro **módulo** del contador, de forma que cuando se active la **señal de overflow** (ov)  será porque hemos llegado al final, y hay que apagar el transmisor. Usamos el mismo **montaje** que el ejemplo 5-1. En el **terminal** veremos lo siguiente
 
-(pantallazo prueba)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-02.png)
+
+Cada vez que apretamos el **pulsador** aparece la cadena **HOLA:)** y el cursor pasa a la línea siguiente
 
 (vídeo)
 
