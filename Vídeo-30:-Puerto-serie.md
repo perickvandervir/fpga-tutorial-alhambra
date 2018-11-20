@@ -523,11 +523,9 @@ El **final** del envío lo determina la **señal de overflow** del contador, que
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-06.png)
 
-
+## Ejemplo 6-2: Usando el bloque serial-tx-str32
 
 TODO
-
-(Ejemplo 6-2: Enviando una cadena desde bloque: serial-tx-str)
 
 (Ejemplo 6-3: Idem pero leyendo desde fichero)
 
