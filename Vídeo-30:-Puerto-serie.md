@@ -513,6 +513,10 @@ La **cadena** se encuentra almacenada en una **memoria**, que en este ejemplo es
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-04.png)
 
+El **tamaño de la cadena** se introduce como **parámetro módulo** del contador, de forma que cuando se alcanza su valor se emite un tic por **ov** y se sabe que se ha llegado al final. El dato que sale de la memoria se introduce por la **entrada de datos** del tranmisor serie, y se envía al recibir un **tic por txmit**
+
+
+
 TODO
 
 (Ejemplo 6-2: Enviando una cadena desde bloque: serial-tx-str)
