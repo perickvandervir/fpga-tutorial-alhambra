@@ -505,6 +505,11 @@ Cada vez que apretamos el **pulsador** aparece la cadena **HOLA:)** y el cursor 
 
 ## Funcionamiento del transmisor de cadenas
 
+El funcionamiento del circuito de envío de cadenas es muy **parecido** al que envía **2 bytes**. Colocamos un **biestable RS** para describir su estado: funcionando o apagado. Al recibir el tic de envío se activa, y a través del **detector de flancos** de subida envía un **tic inicial** para transmitir el primer carácter
+
+(Foto)
+
+
 TODO
 
 (Ejemplo 6-2: Enviando una cadena desde bloque: serial-tx-str)
