@@ -498,7 +498,9 @@ El **tamaño de la cadena** lo indicamos mediante el parámetro **módulo** del 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-02.png)
 
-Cada vez que apretamos el **pulsador** aparece la cadena **HOLA:)** y el cursor pasa a la línea siguiente
+Cada vez que apretamos el **pulsador** aparece la cadena **HOLA:)** y el cursor salta a la **línea siguiente**. En este **vídeo** lo vemos en funcionamiento
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 (vídeo)
 
