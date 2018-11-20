@@ -500,9 +500,9 @@ El **tamaño de la cadena** lo indicamos mediante el parámetro **módulo** del 
 
 Cada vez que apretamos el **pulsador** aparece la cadena **HOLA:)** y el cursor salta a la **línea siguiente**. En este **vídeo** lo vemos en funcionamiento
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/YWHw71KO2g4/0.jpg)](https://www.youtube.com/watch?v=YWHw71KO2g4)
 
-(vídeo)
+## Funcionamiento del transmisor de cadenas
 
 TODO
 
