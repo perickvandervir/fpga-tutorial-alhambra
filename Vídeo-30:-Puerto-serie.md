@@ -488,7 +488,7 @@ En este **vídeo** se puede ver el circuito en **acción**:
 
 [![Click to see the youtube video](http://img.youtube.com/vi/_F1jUqLjo80/0.jpg)](https://www.youtube.com/watch?v=_F1jUqLjo80)
 
-## Ejemplo 6: Enviando una cadena
+## Ejemplo 6-1: Enviando una cadena
 
 TODO
 
