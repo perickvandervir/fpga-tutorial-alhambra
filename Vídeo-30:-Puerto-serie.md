@@ -526,6 +526,10 @@ El **final** del envío lo determina la **señal de overflow** del contador, que
 
 ## Ejemplo 6-2: Usando el bloque serial-tx-str32
 
+(re-hacer bloque "a posteriori")  
+(Medir bloque!). Comprobar que las señales busy y done están ok!  
+(Hacer el bloque en verilog!!!)  
+
 TODO
 
 (Ejemplo 6-3: Idem pero leyendo desde fichero)
