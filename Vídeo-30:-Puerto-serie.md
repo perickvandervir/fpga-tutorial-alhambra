@@ -548,6 +548,8 @@ for i in msg:
 
 * Encender apagar un led con cualquier dato recibido
 * encendido de leds con las teclas  
+* Eco
+* mini-codificador
 
 (TODO)
 
