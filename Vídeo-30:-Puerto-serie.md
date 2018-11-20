@@ -519,6 +519,10 @@ El **tamaño de la cadena** se introduce como **parámetro módulo** del contado
 
 Tanto el **contador** como el **transmisor serie** sólo funcionan cuando el **biestable está a 1**, permitiendo el paso de los tics. Al apagarse, se bloquen, y ni se transmiten caracteres ni se incrementa el contador. Los **tics** que les llegan son el **inicial**, y el de **siguiente carácter**, a través de la **puerta OR**
 
+El **final** del envío lo determina la **señal de overflow** del contador, que está conectada a la **entrada de reset** del **biestable**, haciendo que vuelva a cero. Esto a su vez hace que todo quede **deshabilitado** hasta que se vuelva a recibir un nuevo tic de arranque
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-06.png)
+
 
 
 TODO
