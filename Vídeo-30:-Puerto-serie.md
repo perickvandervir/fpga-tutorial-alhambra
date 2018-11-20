@@ -467,7 +467,9 @@ El **final** del envío lo determina el **flanco de subida** generado por el bie
 
 ## Ejemplo 5-2: Bloque transmisor de 16 bits
 
-El **transmisor de 16 bits** anterior lo metemos dentro un **bloque** para que sea más fácil su reutilización. Es el bloque **serial-tx16**, y está dispoinible en el menú **Varios/Serial/serial-tx16**
+El **transmisor de 16 bits** anterior lo metemos dentro un **bloque** para que sea más fácil su reutilización. Es el bloque **serial-tx16**, y está dispoinible en el menú **Varios/Serial/serial-tx16**. Es igual que el transmisor de 8 bits, pero con **entrada de datos de 16**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-2-01.png)
 
 Como segundo ejemplo de pruebas, enviaremos **dos** datos de 16 bits, según el estado de un **interruptor externo**. Usaremos valores que se corresponden con caracteres **ASCII**, para poderlos visualizar en cualquier terminal. El escenario es el siguiente:
 
