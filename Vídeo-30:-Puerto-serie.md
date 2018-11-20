@@ -490,9 +490,9 @@ En este **vídeo** se puede ver el circuito en **acción**:
 
 ## Ejemplo 6-1: Enviando una cadena
 
+**Generalizaremos** el ejemplo anterior para enviar **N caracteres** por el puerto serie. Los dejamos almacenados en una memoria (tabla) y usamos un contador para recorrerla. En este ejemplo concreto enviamos la cadena "HOLA:)\n" de 7 caracteres
 
-(borrador)
-El puerto serie funciona con datos de 8 bits. Si queremos enviar un dato de 16 bits, debemos partirlo en dos de 8 bits, y enviarlos por separado. Este es un ejemplo de un circuito que nos permite hacer eso, y que veremos detalladamente a continuación
+(circuito)
 
 TODO
 
