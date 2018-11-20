@@ -479,12 +479,15 @@ En el circuito se usa un **multiplexor 2:1** de **16 bits** para seleccionar el 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-2-03.png)
 
-En el **terminal** obtenemos algo como estos, según vamos enviando diferentes datos:
+Lo cargamos y lo probamos. En el **terminal** obtenemos algo como estos, según vamos enviando diferentes datos:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-2-04.png)
 
+En este **vídeo** se puede ver el circuito en **acción**:
+
 (Vídeo)
 
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 (Realizar mediciones)
 
