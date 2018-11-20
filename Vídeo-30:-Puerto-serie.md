@@ -35,6 +35,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Funcionamiento del transmisor de 16 bits](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#funcionamiento-del-transmisor-de-16-bits)
   * [Ejemplo 5-2: Bloque transmisor de 16 bits](#ejemplo-5-2-bloque-transmisor-de-16-bits)
   * [Ejemplo 6-1: Enviando una cadena](#ejemplo-6-1-enviando-una-cadena)
+  * [Ejemplo 6-2: Funcionamiento del transmisor de cadenas](#funcionamiento-del-transmisor-de-cadenas)
 * [Ejercicios propuestos (25 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
