@@ -515,6 +515,10 @@ La **cadena** se encuentra almacenada en una **memoria**, que en este ejemplo es
 
 El **tamaño de la cadena** se introduce como **parámetro módulo** del contador, de forma que cuando se alcanza su valor se emite un tic por **ov** y se sabe que se ha llegado al final. El dato que sale de la memoria se introduce por la **entrada de datos** del tranmisor serie, y se envía al recibir un **tic por txmit**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-05.png)
+
+Tanto el **contador** como el **transmisor serie** sólo funcionan cuando el **biestable está a 1**, permitiendo el paso de los tics. Al apagarse, se bloquen, y ni se transmiten caracteres ni se incrementa el contador. Los **tics** que les llegan son el **inicial**, y el de **siguiente carácter**, a través de la **puerta OR**
+
 
 
 TODO
