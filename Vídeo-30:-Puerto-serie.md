@@ -467,11 +467,18 @@ El **final** del envío lo determina el **flanco de subida** generado por el bie
 
 ## Ejemplo 5-2: Bloque transmisor de 16 bits
 
-(Hacer bloque serial-tx-16) 
+El **transmisor de 16 bits** anterior lo metemos dentro un **bloque** para que sea más fácil su reutilización. Es el bloque **serial-tx16**, y está dispoinible en el menú **Varios/Serial/serial-tx16**
 
-Realizar mediciones
+Como segundo ejemplo de pruebas, enviaremos **dos** datos de 16 bits, según el estado de un **interruptor externo**. Usaremos valores que se corresponden con caracteres **ASCII**, para poderlos visualizar en cualquier terminal. El escenario es el siguiente:
 
-(Ejemplo 5-2: Seleccionar para enviar 2 datos de 16 bits. Uno es A + \n. El otro uno hexadecimal cualquiera) 
+(Foto)
+
+(Circuito)
+
+(Vídeo)
+
+
+(Realizar mediciones)
 
 TODO
 
