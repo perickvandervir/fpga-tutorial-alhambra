@@ -471,9 +471,9 @@ El **transmisor de 16 bits** anterior lo metemos dentro un **bloque** para que s
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-2-01.png)
 
-Como segundo ejemplo de pruebas, enviaremos **dos** datos de 16 bits, según el estado de un **interruptor externo**. Usaremos valores que se corresponden con caracteres **ASCII**, para poderlos visualizar en cualquier terminal. El escenario es el siguiente:
+Como segundo ejemplo de pruebas, enviaremos **dos** datos de 16 bits, según el estado de un **interruptor externo**. Usaremos valores que se corresponden con caracteres **ASCII**, para poderlos visualizar en cualquier terminal. El **montaje** es el siguiente:
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-2-02.png)
 
 (Circuito)
 
