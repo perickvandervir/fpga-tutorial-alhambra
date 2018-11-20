@@ -492,7 +492,11 @@ En este **vídeo** se puede ver el circuito en **acción**:
 
 TODO
 
-(Información en fichero?)
+(Ejemplo 6-2: Enviando una cadena desde bloque: serial-tx-str)
+
+(Ejemplo 6-3: Idem pero leyendo desde fichero)
+
+(Ejemplo 6-4: Generación de un mensaje desde programa en python)
 
 ## Funcionamiento del transmisor
 
