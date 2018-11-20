@@ -505,10 +505,13 @@ Cada vez que apretamos el **pulsador** aparece la cadena **HOLA:)** y el cursor 
 
 ## Funcionamiento del transmisor de cadenas
 
-El funcionamiento del circuito de envío de cadenas es muy **parecido** al que envía **2 bytes**. Colocamos un **biestable RS** para describir su estado: funcionando o apagado. Al recibir el tic de envío se activa, y a través del **detector de flancos** de subida envía un **tic inicial** para transmitir el primer carácter
+El funcionamiento del circuito de envío de cadenas es muy **parecido** al que envía **2 bytes**. Colocamos un **biestable RS** para describir su estado: funcionando o apagado. Al recibir el **tic de envío** se activa, y a través del **detector de flancos** de subida envía un **tic inicial** para transmitir el primer carácter
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-03.png)
 
+La **cadena** se encuentra almacenada en una **memoria**, que en este ejemplo es de **8 bytes**, pero podría ser mayor. Usamos un **contador de 3 bits** para recorrer esta memoria. Inicialmente se accede al carácter de la **posición 0**. Al recibir un **tic** por **cnt** se **incrementa** y apunta al siguiente carácter
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-04.png)
 
 TODO
 
