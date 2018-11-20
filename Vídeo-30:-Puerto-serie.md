@@ -536,6 +536,12 @@ TODO
 
 (Ejemplo 6-4: Generación de un mensaje desde programa en python)
 
+```python
+msg = [ord(i) for i in cad]
+for i in msg:
+  print("{:02X}".format(i))
+```
+
 ## Funcionamiento del transmisor
 
 (TODO)
