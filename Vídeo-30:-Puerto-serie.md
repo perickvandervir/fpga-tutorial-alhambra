@@ -485,9 +485,7 @@ Lo cargamos y lo probamos. En el **terminal** obtenemos algo como estos, según 
 
 En este **vídeo** se puede ver el circuito en **acción**:
 
-(Vídeo)
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/_F1jUqLjo80/0.jpg)](https://www.youtube.com/watch?v=_F1jUqLjo80)
 
 (Realizar mediciones)
 
