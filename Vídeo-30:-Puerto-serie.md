@@ -507,7 +507,7 @@ Cada vez que apretamos el **pulsador** aparece la cadena **HOLA:)** y el cursor 
 
 El funcionamiento del circuito de envío de cadenas es muy **parecido** al que envía **2 bytes**. Colocamos un **biestable RS** para describir su estado: funcionando o apagado. Al recibir el tic de envío se activa, y a través del **detector de flancos** de subida envía un **tic inicial** para transmitir el primer carácter
 
-https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-03.png
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-03.png)
 
 
 TODO
