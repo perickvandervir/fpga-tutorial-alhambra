@@ -475,7 +475,9 @@ Como segundo ejemplo de pruebas, enviaremos **dos** datos de 16 bits, según el 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-2-02.png)
 
-(Circuito)
+En el circuito se usa un **multiplexor 2:1** de **16 bits** para seleccionar el dato. Cuando el interruptor está a 0, se envía el dato **0x2D3E** (que se corresponde con los caracteres ->), y cuando está en 1 se envía una **"A"** y el carácter de **línea nueva** (\n)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej-5-2-03.png)
 
 (Vídeo)
 
