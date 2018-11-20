@@ -490,9 +490,15 @@ En este **vídeo** se puede ver el circuito en **acción**:
 
 ## Ejemplo 6-1: Enviando una cadena
 
-**Generalizaremos** el ejemplo anterior para enviar **N caracteres** por el puerto serie. Los dejamos almacenados en una memoria (tabla) y usamos un contador para recorrerla. En este ejemplo concreto enviamos la cadena "HOLA:)\n" de 7 caracteres
+**Generalizaremos** el ejemplo anterior para enviar **N caracteres** por el puerto serie. Los dejamos almacenados en una memoria (tabla) y usamos un **contador** para recorrerla. En este ejemplo concreto enviamos la cadena "HOLA:)\n" de 7 caracteres
 
-(circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-01.png)
+
+El **tamaño de la cadena** lo indicamos mediante el parámetro **módulo** del contador, de forma que cuando se active la **señal de overflow** (ov)  será porque hemos llegado al final, y hay que apagar el transmisor. Usamos el mismo montaje que el ejemplo 5-1. En el terminal veremos lo siguiente
+
+(pantallazo prueba)
+
+(vídeo)
 
 TODO
 
