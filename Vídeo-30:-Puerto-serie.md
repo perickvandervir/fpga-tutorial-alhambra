@@ -490,6 +490,10 @@ En este **vídeo** se puede ver el circuito en **acción**:
 
 ## Ejemplo 6-1: Enviando una cadena
 
+
+(borrador)
+El puerto serie funciona con datos de 8 bits. Si queremos enviar un dato de 16 bits, debemos partirlo en dos de 8 bits, y enviarlos por separado. Este es un ejemplo de un circuito que nos permite hacer eso, y que veremos detalladamente a continuación
+
 TODO
 
 (Ejemplo 6-2: Enviando una cadena desde bloque: serial-tx-str)
