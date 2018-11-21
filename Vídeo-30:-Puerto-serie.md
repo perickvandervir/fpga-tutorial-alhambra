@@ -530,7 +530,9 @@ El circuito anterior lo convertimos en un **bloque** y así será más fácil su
 
 Sin embargo, para que sea más fácil su uso, tenemos el componente **serial-tx-str** que es **paramétrico** (el bloque está implementado en verilog). Nos permite enviar **cadenas de cualquier longitud** (siempre que no desbordemos el tamaño máximo de memoria interna)
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej7-06.png)
+
+TODO
 
 
 
