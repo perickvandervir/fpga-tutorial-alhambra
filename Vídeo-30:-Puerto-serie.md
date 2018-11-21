@@ -526,7 +526,11 @@ El **final** del envío lo determina la **señal de overflow** del contador, que
 
 ## Ejemplo 6-2: Usando el bloque serial-tx-str
 
-El circuito anterior lo convertimos en un **bloque** y así será más fácil su uso. La **cadena máxima** que se puede enviar con este bloque es de **32 bytes** porque estamos usando un **contador de 5 bits**, y una **memoria de 32 bytes**. Para enviar cadenas más largas sólo hay que crear el componente con un contador y memoria de mayor número de bits
+El circuito anterior lo convertimos en un **bloque** y así será más fácil su uso. La **cadena máxima** que se puede enviar con este bloque es de **32 bytes** porque estamos usando un **contador de 5 bits**, y una **memoria de 32 bytes**. Este componente se encuentra en **Varios/Serial/blocks/serial-tx-str32**. Para enviar cadenas más largas sólo hay que crear el componente con un contador y memoria de mayor número de bits
+
+Sin embargo, para que sea más fácil su uso, tenemos el componente **serial-tx-str** que es **paramétrico** (el bloque está implementado en verilog). Nos permite enviar **cadenas de cualquier longitud** (siempre que no desbordemos el tamaño máximo de memoria interna)
+
+(Dibujo)
 
 
 
