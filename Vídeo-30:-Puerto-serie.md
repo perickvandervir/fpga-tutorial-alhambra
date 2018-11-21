@@ -37,6 +37,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 6-1: Enviando una cadena](#ejemplo-6-1-enviando-una-cadena)
   * [Funcionamiento del transmisor de cadenas](#funcionamiento-del-transmisor-de-cadenas)
   * [Ejemplo 6-2: Usando el bloque serial-tx-str](#ejemplo-6-2-usando-el-bloque-serial-tx-str)
+  * [Leyendo la cadena de un fichero](#ejemplo-6-3-leyendo-la-cadena-de-un-fichero)
 * [Ejercicios propuestos (25 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
