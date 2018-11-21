@@ -532,6 +532,8 @@ Sin embargo, para que sea más fácil su uso, tenemos el componente **serial-tx-
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej7-06.png)
 
+Este transmisor, a diferencia de los anteriores, **NO** tiene entrada de datos. Cuando recibe el **tic de transmisión** envía la cadena completa y emite un tic por **done** cuando ha terminado
+
 TODO
 
 
