@@ -545,7 +545,7 @@ Lo **cargamos** y lo **probamos**. En el terminal veremos el siguiente mensaje, 
 
 Y en este **vídeo** vemos la demo en **acción**:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/4iqM4WTTJhE/0.jpg)](https://www.youtube.com/watch?v=4iqM4WTTJhE)
 
 ## Ejemplo 6-3: Leyendo la cadena de un fichero
 
