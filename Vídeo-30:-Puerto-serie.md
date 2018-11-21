@@ -538,7 +538,11 @@ En este circuito vemos un **ejemplo** de su uso. Se envía una cadena de **35 by
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-08.png)
 
-(Pantallazo)
+Lo **cargamos** y lo **probamos**. En el terminal veremos el siguiente mensaje, cada vez que apretamos le pulsador
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-09.png)
+
+Y en este **vídeo** vemos la demo en acción:
 
 (vídeo)
 
