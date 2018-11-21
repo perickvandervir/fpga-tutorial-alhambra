@@ -549,6 +549,13 @@ Y en este **vídeo** vemos la demo en **acción**:
 
 ## Ejemplo 6-3: Leyendo la cadena de un fichero
 
+(Otras formas de rellenar la memoria: caracteres ascii hexa en horizontal)  
+(o desde un fichero)
+
+(ejemplo del circuito con fichero)
+
+(Dibujo aclaratorio de lo que está pasando??)
+
 TODO
 
 (Ejemplo 6-4: Generación de un mensaje desde programa en python)
