@@ -534,7 +534,9 @@ Sin embargo, para que sea más fácil su uso, tenemos el componente **serial-tx-
 
 Este transmisor, a diferencia de los anteriores, **NO** tiene entrada de datos. Cuando recibe el **tic de transmisión** envía la cadena completa y emite un tic por **done** cuando ha terminado
 
-(Circuito de ejemplo)
+En este circuito vemos un **ejemplo** de su uso. Se envía una cadena de **35 bytes** al apretar el pulsador. No se ha introducido nada por el parámetro baudios. En ese caso, se usan **115200** por defecto. 
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-08.png)
 
 (Pantallazo)
 
