@@ -538,17 +538,17 @@ En este circuito vemos un **ejemplo** de su uso. Se envía una cadena de **35 by
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-08.png)
 
-Lo **cargamos** y lo **probamos**. En el terminal veremos el siguiente mensaje, cada vez que apretamos le pulsador
+Lo **cargamos** y lo **probamos**. En el terminal veremos el siguiente mensaje, cada vez que apretamos el pulsador
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-09.png)
 
-Y en este **vídeo** vemos la demo en acción:
+Y en este **vídeo** vemos la demo en **acción**:
 
-(vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+## Ejemplo 6-3: Leyendo la cadena de un fichero
 
 TODO
-
-(Ejemplo 6-3: Idem pero leyendo desde fichero)
 
 (Ejemplo 6-4: Generación de un mensaje desde programa en python)
 
