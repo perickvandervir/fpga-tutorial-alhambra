@@ -655,7 +655,9 @@ Además de salir la información por pantalla, para hacer copy&paste, se genera 
 
 ## Funcionamiento del transmisor
 
-Ya sabemos usar el **transmisor serie**. Es muy fácil. Pero... ¿Cómo funciona? ¿Qué magia tiene en su interior que hace que se envíen los bits?. Desde el menú Varios/Serial/Blocks/serial-tx tenemos acceso a los bloques que forman el transmisor. Veremos su **funcionamiento** en detalle
+Ya sabemos usar el **transmisor serie**. Es muy fácil. Pero... ¿Cómo funciona? ¿Qué magia tiene en su interior que hace que se envíen los bits?. Desde el menú **Varios/Serial/Blocks/serial-tx** tenemos acceso a los bloques que forman el transmisor. Veremos su **funcionamiento** en detalle
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/transmisor-01.png)
 
 (bloques del transmisor)
 
