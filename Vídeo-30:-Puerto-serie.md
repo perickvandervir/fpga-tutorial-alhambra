@@ -659,7 +659,10 @@ Ya sabemos usar el **transmisor serie**. Es muy fácil. Pero... ¿Cómo funciona
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/transmisor-01.png)
 
-(bloques del transmisor)
+Para **enviar** un dato de **8 bits**, usamos una **trama de 10 bits**. El primer bit debe ser el **bit de start**, que es **0**. A continuación los **8 bits de datos**, empezando por el de menor peso (**bit 0**). Por último el **bit de stop**, que es **1**. Cuando no hay transmisión, la línea está en **reposo**, y debe estar a **1**.
+
+(Dibujo trama serie)
+
 
 (TODO)
 
