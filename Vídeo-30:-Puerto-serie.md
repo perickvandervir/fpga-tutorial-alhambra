@@ -39,6 +39,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 6-2: Usando el bloque serial-tx-str](#ejemplo-6-2-usando-el-bloque-serial-tx-str)
   * [Ejemplo 6-3: Leyendo la cadena de un fichero](#ejemplo-6-3-leyendo-la-cadena-de-un-fichero)
   * [Ejemplo 6-4: Generación de una cadena desde un programa en python](#ejemplo-6-4-generaci%C3%B3n-de-una-cadena-desde-un-programa-en-python)
+  * [Funcionamiento del transmisor](#funcionamiento-del-transmisor)
 * [Ejercicios propuestos (25 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
