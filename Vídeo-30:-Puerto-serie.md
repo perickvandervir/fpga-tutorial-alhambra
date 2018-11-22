@@ -663,7 +663,7 @@ Para **enviar** un dato de **8 bits**, usamos una **trama de 10 bits**. El prime
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/transmisor-02.png)
 
-La parte central del transmisor es el **registro de desplazamiento**, que pasa los datos de **paralelo a serie**. Su salida serie es la que se envía a la línea, pasando por un **biestable del sistema** para cumplir con las reglas de diseño síncrono. El registro es de **9 bits**, para almacenar tanto el dato como el **bit de start**. El **bit de stop** se introduce por su entrada serie, de forma que tras 9 desplazamiento está listo en la salida serie
+La parte central del transmisor es el **registro de desplazamiento**, que pasa los datos de **paralelo a serie**. Su salida serie es la que se envía a la línea, pasando por un **biestable del sistema** para cumplir con las [reglas de diseño síncrono](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Cap%C3%ADtulo-22%3A-Reglas-de-dise%C3%B1o-s%C3%ADncrono). El registro es de **9 bits**, para almacenar tanto el dato como el **bit de start**. El **bit de stop** se introduce por su entrada serie, de forma que tras 9 desplazamiento está listo en la salida serie
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/transmisor-03.png)
 
