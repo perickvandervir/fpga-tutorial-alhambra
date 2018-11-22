@@ -569,11 +569,11 @@ El **fichero** se introduce como **parámetro**, y debe estar entre **comillas d
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-14.png)
 
-(Circuito del ejemplo)
+Este es el **ejemplo completo** de envío de una **cadena** leída de un **fichero**. Adicionalmente se han añadido bloques con otras posibles formas de almacenar la cadena en la memoria
 
-TODO
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-15.png)
 
-(Ejemplo 6-4: Generación de un mensaje desde programa en python)
+## Ejemplo 6-4: Generación de una cadena desde un programa en python
 
 ```python
 msg = [ord(i) for i in cad]
