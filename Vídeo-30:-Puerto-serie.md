@@ -563,7 +563,11 @@ También podemos escribir la información en **horizontal**, separando los carac
 
 Estos misoss datos también pueden estar almacenados en un **fichero de texto**, que debe estar guardado en el **mismo directorio** donde se encuentra nuestro proyecto de **icestudio**. Cuando se realiza la síntesis del circuito, icestudio lee este fichero y **rellena la memoria** con esos datos
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-13.png)
 
+El **fichero** se introduce como **parámetro**, y debe estar entre **comillas dobles** "". Además, su extensión debe ser **.list**. En este ejemplo hemos usado el fichero **cad.list**. Con cualquier editor de texto lo creamos y editamos. Aquí lo tengo abierto con [Atom](https://atom.io/), que es libre y multiplataforma
+
+(Screenshot atom)
 
 (Otras formas de rellenar la memoria: caracteres ascii hexa en horizontal)  
 (o desde un fichero)
