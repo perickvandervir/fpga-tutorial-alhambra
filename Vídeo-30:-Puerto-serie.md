@@ -643,8 +643,8 @@ python3 gen_str_data.py "Hola, probando mi cadena..."
 En estos pantallazos se muestran las **pruebas** en **Linux** y **windows**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-19.png)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-20.png)
 
-(pantallazo del terminal linux/windows)
 
 Además de salir la información por pantalla, para hacer copy&paste, se genera automáticamente el fichero cad.list con la cadena. ¡Listo para que se cargue desde Icestudio!. En esta **animación** vemos el proceso, generando dos cadenas diferentes y probando su envío
 
