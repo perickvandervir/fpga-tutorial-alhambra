@@ -683,6 +683,8 @@ Los **tics** del corazón de baudios también llegan al **contador de bits**, qu
 
 Por último, la señal de overflow, retrasada un periodo, es la que se saca por la salida **done** para indicar que **la transmisión ha terminado**
 
+Esta es toda la **magia** que hay en un **transmisor serie** 😀
+
 # Receptor serie
 
 * Encender apagar un led con cualquier dato recibido
