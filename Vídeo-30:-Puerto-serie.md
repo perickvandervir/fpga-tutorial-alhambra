@@ -671,6 +671,7 @@ Al **dato a transmitir** (de 8 bits) se le agrega el **bit de start** en la part
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/transmisor-04.png)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/transmisor-05.png)
 
 (TODO)
 
