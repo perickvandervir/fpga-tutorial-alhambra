@@ -576,11 +576,11 @@ Este es el **ejemplo completo** de envío de una **cadena** leída de un **fiche
 
 ## Ejemplo 6-4: Generación de una cadena desde un programa en python
 
-```python
-msg = [ord(i) for i in cad]
-for i in msg:
-  print("{:02X}".format(i))
-```
+(Dibujo del proceso)
+
+(Prueba desde el interprete de python)
+
+(Programa en python con argumentos)
 
 ## Funcionamiento del transmisor
 
