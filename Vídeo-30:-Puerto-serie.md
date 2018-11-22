@@ -677,10 +677,11 @@ El **estado** del transmisor lo determina un **biestable RS**. Cuando vale **0**
 
  El biestable también activa el **corazón de baudios**, que genera tics a la velocidad necesaria para realizar la transmisión. Estos tics se introducen por la entrada **shift** del registro, y provocan su **desplazamiento**
 
+Los **tics** del corazón de baudios también llegan al **contador de bits**, que se **incrementa** con cada bit enviado. Cuando llega a **10**, se activa su señal de **overflow**. Significa que una trama completa se ha enviado. Como está conectada a la entrada reset del biestable, éste se apaga 
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/transmisor-06.png)
 
-
-(TODO)
+Por último, la señal de overflow, retrasada un periodo, es la que se saca por la salida **done** para indicar que **la transmisión ha terminado**
 
 # Receptor serie
 
