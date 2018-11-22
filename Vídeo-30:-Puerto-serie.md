@@ -593,8 +593,57 @@ En estos pantallazos se pueden ver cómo se ejecuta esta línea en el **intérpr
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-18.png)
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-17.png)
 
+La segunda forma es hacer un **programa completo**, pasándole como argumento la cadena, y que genere directamente el fichero **cad.list** con los datos ASCII hexadecimales. El programa lo puedes descargar de aquí: [gen_str_data.py](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/python/gen_str_data.py). Este es el **código**:
 
-(Programa en python con argumentos)
+```python
+#!/usr/bin/python3
+import sys
+from pathlib import Path
+
+# Nombre del fichero de datos a generar
+FILEDATA = "cad.list"
+
+# Cadena por defecto
+CADENA_DEFECTO = "Mensaje de prueba\n"
+
+# Especificar descriptor del fichero
+fichero = Path("./{}".format(FILEDATA))
+
+# La cadena a generar es o bien la que se pasa como argumento o bien
+# el mensaje de prueba por defecto
+cadena = ""
+try:
+  cadena = sys.argv[1]
+except IndexError:
+  cadena = CADENA_DEFECTO
+
+# Imprimir la informacion en la consola
+print("Cadena: {}".format(cadena))
+print("Longitud cadena: {}".format(len(cadena)))
+print("Fichero: {}".format(fichero))
+
+# Crear la cadena de datos, con los caracteres en ASCII hexadecimal
+data = " ".join(["{:02X}".format(ord(i)) for i in cadena])
+
+# Anadir al comienzo la propia cadena en comentarios
+data = "\n".join(["//-- {}".format(cadena), data])
+
+# Imprimir los datos
+print(data)
+
+# Crear fichero con los datos
+fichero.write_text(data)
+```
+Si no sabes python no te preocupes. Basta con que te **descargues el fichero** y lo ejecutes desde el terminal. Necesita el intérprete de **python3**. Al ejecutarlo se le pasa como parámetro la cadena que queremos:
+
+```
+python3 gen_str_data.py "Hola, probando mi cadena..."
+```
+
+(pantallazo del terminal linux/windows)
+
+(Animación con todo el proceso: Ejecución en el terminal, carga desde icestudio y vista en scriptcomunicator)
+
 
 ## Funcionamiento del transmisor
 
