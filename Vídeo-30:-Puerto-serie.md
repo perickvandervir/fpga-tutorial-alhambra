@@ -640,6 +640,10 @@ Si no sabes python no te preocupes. Basta con que te **descargues el fichero** y
 python3 gen_str_data.py "Hola, probando mi cadena..."
 ```
 
+En estos pantallazos se muestran las **pruebas** en **Linux** y **windows**:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-19.png)
+
 (pantallazo del terminal linux/windows)
 
 (Animación con todo el proceso: Ejecución en el terminal, carga desde icestudio y vista en scriptcomunicator)
