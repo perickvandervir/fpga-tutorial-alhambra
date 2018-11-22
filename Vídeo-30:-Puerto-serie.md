@@ -655,6 +655,10 @@ Además de salir la información por pantalla, para hacer copy&paste, se genera 
 
 ## Funcionamiento del transmisor
 
+Ya sabemos usar el **transmisor serie**. Es muy fácil. Pero... ¿Cómo funciona? ¿Qué magia tiene en su interior que hace que se envíen los bits?. Desde el menú Varios/Serial/Blocks/serial-tx tenemos acceso a los bloques que forman el transmisor. Veremos su **funcionamiento** en detalle
+
+(bloques del transmisor)
+
 (TODO)
 
 # Receptor serie
