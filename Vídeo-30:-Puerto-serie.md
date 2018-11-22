@@ -667,11 +667,17 @@ La parte central del transmisor es el **registro de desplazamiento**, que pasa l
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/transmisor-03.png)
 
-Al **dato a transmitir** (de 8 bits) se le agrega el **bit de start** en la parte de menor peso, y se introduce por la **entrada de datos** del registro. Cuando llegue el **tic de arranque** por **load**, este dato se captura
+Al **dato a transmitir** (de 8 bits) se le agrega el **bit de start** en la parte de menor peso, y se introduce por la **entrada de datos** del registro. Cuando llegua el **tic de arranque** por **load**, este dato se captura
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/transmisor-04.png)
 
+El **estado** del transmisor lo determina un **biestable RS**. Cuando vale **0**, significa que está **apagado**. Cuando vale **1** está **funcionando**. Este estado se saca directamente por la **salida busy**. Cuando se activa la **señal txmit** para transmitir un dato, el biestable pasa de 0 a 1 y se genera el **tic de arranque**, se está conectado a la entrada load del registro, **cargando** el dato.
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/transmisor-05.png)
+
+ El biestable también se activa el **corazón de baudios**, que genera tics a la velocidad necesaria para realizar la transmisión. Estos tics se introducen por la entrada **shift** del registro, y provocan su **desplazamiento**
+
+
 
 (TODO)
 
