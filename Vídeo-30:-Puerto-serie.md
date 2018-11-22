@@ -650,6 +650,8 @@ Además de salir la información por pantalla, para hacer copy&paste, se genera 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-21.gif)
 
+**¡Importante!** No olvidar de introducir el tamaño de cada cadena generada en el parámetro size
+
 ## Funcionamiento del transmisor
 
 (TODO)
