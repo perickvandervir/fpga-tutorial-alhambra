@@ -689,6 +689,8 @@ Esta es toda la **magia** que hay en un **transmisor serie** 😀
 # Receptor serie
 
 * Mostrar el dato recibido en los LEDs, y en un 7seg (los 4 bits menos sig)
+* Ejemplo del eco
+* Recepción en un registro
 * Controlar un servo con las teclas
 * Encender apagar un led con cualquier dato recibido
 * encendido de leds con las teclas  
