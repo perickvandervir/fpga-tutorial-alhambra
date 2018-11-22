@@ -576,7 +576,19 @@ Este es el **ejemplo completo** de envío de una **cadena** leída de un **fiche
 
 ## Ejemplo 6-4: Generación de una cadena desde un programa en python
 
-(Dibujo del proceso)
+Los **ficheros de datos** para la **memoria** se pueden generar "a mano", escribiendo en el **editor de texto**, o mediante un **programa externo**, hecho en cualquier lenguaje de programación. Este programa **genera los datos**, que luego Icestudio lee, introduce en la memoria y sintetiza el circuito final
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-16.png)
+
+Estos datos pueden ser **cadenas de caracteres**, como en este ejemplo, **instrucciones en código máquina** si estamos haciendo un microprocesador, o cualquier otro dato (píxeles, notas...) según la aplicación
+
+En este ejemplo estamos imprimiendo cadenas que tenemos que convertir a **ASCII hexadecimal**. Bien, pues hagamos un **programa externo** que haga el trabajo por nosotros. Una primer forma es introducir esta línea de **python** en el **intérprete**, y luego hacemos **copiamos la salida** en un fichero de datos o directamente en la **memoria** de icestudio:
+
+```python
+print(" ".join(["{:02X}".format(ord(i)) for i in "Mi cadena de texto"]))
+```
+
+
 
 (Prueba desde el interprete de python)
 
