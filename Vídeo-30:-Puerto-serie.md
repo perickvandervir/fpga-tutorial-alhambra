@@ -677,6 +677,7 @@ El **estado** del transmisor lo determina un **biestable RS**. Cuando vale **0**
 
  El biestable también activa el **corazón de baudios**, que genera tics a la velocidad necesaria para realizar la transmisión. Estos tics se introducen por la entrada **shift** del registro, y provocan su **desplazamiento**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/transmisor-06.png)
 
 
 (TODO)
