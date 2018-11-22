@@ -549,7 +549,7 @@ Y en este **vídeo** vemos la demo en **acción**:
 
 ## Ejemplo 6-3: Leyendo la cadena de un fichero
 
-Las **cadenas** las estamos introduciendo como **parámetro** en la **memoria** (tabla). Cada carácter (8 bits) ocupa una posición de la memoria, empezando por 0. Se codifica en **ASCII hexadecimal**. Así, para representar el carácter **'A'** escribimos **41**, y para representar el **'1'** usamos 31. La cadena **"HOLA"** la **almacenamos** así:
+Las **cadenas** las estamos introduciendo como **parámetro** en la **memoria** (tabla). Cada carácter (8 bits) ocupa una posición de la memoria, empezando por 0. Se codifica en **ASCII hexadecimal**. Así, para representar el carácter **'A'** escribimos **41**, y para representar el **'1'** usamos 31. La cadena **"Hola"** la **almacenamos** así:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-10.png)
 
