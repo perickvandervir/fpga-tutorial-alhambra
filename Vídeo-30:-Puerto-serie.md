@@ -646,6 +646,8 @@ En estos pantallazos se muestran las **pruebas** en **Linux** y **windows**:
 
 (pantallazo del terminal linux/windows)
 
+Además de salir la información por pantalla, para hacer copy&paste, se genera automáticamente el fichero cad.list con la cadena. ¡Listo para que se cargue desde Icestudio!. En esta **animación** vemos el proceso, generando dos cadenas diferentes y probando su envío
+
 (Animación con todo el proceso: Ejecución en el terminal, carga desde icestudio y vista en scriptcomunicator)
 
 
