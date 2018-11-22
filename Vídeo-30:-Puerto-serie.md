@@ -667,6 +667,9 @@ La parte central del transmisor es el **registro de desplazamiento**, que pasa l
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/transmisor-03.png)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/transmisor-04.png)
+
+
 (TODO)
 
 # Receptor serie
