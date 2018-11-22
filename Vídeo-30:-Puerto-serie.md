@@ -582,7 +582,7 @@ Los **ficheros de datos** para la **memoria** se pueden generar "a mano", escrib
 
 Estos datos pueden ser **cadenas de caracteres**, como en este ejemplo, **instrucciones en código máquina** si estamos haciendo un microprocesador, o cualquier otro dato (píxeles, notas...) según la aplicación
 
-En este ejemplo estamos imprimiendo cadenas que tenemos que convertir a **ASCII hexadecimal**. Bien, pues hagamos un **programa externo** que haga el trabajo por nosotros. Una primer forma es introducir esta línea de **python** en el **intérprete**, y luego hacemos **copiamos la salida** en un fichero de datos o directamente en la **memoria** de icestudio:
+En este ejemplo estamos imprimiendo cadenas que tenemos que convertir a **ASCII hexadecimal**. Bien, pues hagamos un **programa externo** que haga el trabajo por nosotros. Una primer forma es introducir esta línea de **python** en el **intérprete**, y luego **copiamos la salida** en un fichero de datos o directamente en la **memoria** de icestudio:
 
 ```python
 print(" ".join(["{:02X}".format(ord(i)) for i in "Mi cadena de texto"]))
