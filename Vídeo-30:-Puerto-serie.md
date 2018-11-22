@@ -569,12 +569,7 @@ El **fichero** se introduce como **parámetro**, y debe estar entre **comillas d
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-14.png)
 
-(Otras formas de rellenar la memoria: caracteres ascii hexa en horizontal)  
-(o desde un fichero)
-
-(ejemplo del circuito con fichero)
-
-(Dibujo aclaratorio de lo que está pasando??)
+(Circuito del ejemplo)
 
 TODO
 
