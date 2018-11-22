@@ -557,6 +557,9 @@ Opcionalmente podemos colocar **comentarios** usando **//**. Así, el contenido 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-11.png)
 
+También podemos escribir la información en **horizontal**, separando los caracteres por **espacios**. En esta disposición nos es más difícil saber la dirección en la que se almacena cada dato, sin embargo para representar cadenas no es necesario conocer estos detalles. Además podemos escribir un **comentario inicial** con la cadena
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-12.png)
 
 (Otras formas de rellenar la memoria: caracteres ascii hexa en horizontal)  
 (o desde un fichero)
