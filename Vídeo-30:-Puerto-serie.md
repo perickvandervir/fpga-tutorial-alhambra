@@ -591,7 +591,7 @@ print(" ".join(["{:02X}".format(ord(i)) for i in "Mi cadena de texto"]))
 En estos pantallazos se pueden ver cómo se ejecuta esta línea en el **intérprete de python** lanzado desde un terminal, tanto en **Linux** como **windows**:
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-18.png)
-![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-19.png)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-17.png)
 
 
 (Programa en python con argumentos)
