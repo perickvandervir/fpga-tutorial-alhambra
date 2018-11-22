@@ -553,7 +553,7 @@ Las **cadenas** las estamos introduciendo como **parámetro** en la **memoria** 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-10.png)
 
-Opcionalmente podemos colocar **comentarios** usando **//**:
+Opcionalmente podemos colocar **comentarios** usando **//**. Así, el contenido de la memoria es más legible y sabemos qué carácter está en cada posición
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Ej6-11.png)
 
