@@ -686,6 +686,20 @@ Por último, la señal de overflow, retrasada un periodo, es la que se saca por 
 
 Esta es toda la **magia** que hay en un **transmisor serie** 😀
 
+## Ejemplo 7: Midiendo las señales con el analizador Saleae
+
+(Montar escenario con el Saleae)
+
+(Foto del montaje)
+
+(Foto del circuito de pruebas)
+
+(probar el nuevo capturador de pantalla)
+
+(Tomar medidas y mostrar una captura)
+
+TODO
+
 # Receptor serie
 
 * Mostrar el dato recibido en los LEDs, y en un 7seg (los 4 bits menos sig)
