@@ -720,6 +720,10 @@ Los datos en serie llegan por el pin **RX** y salen por un **bus de 8 bits** en 
 
 ## Ejemplo 8: Recibiendo datos del PC
 
+Como primer **ejemplo de recepción**, leeremos todo lo que se **envía** desde el **PC a la FPGA** y lo mostraremos en **binario en los LEDs**. Los **4 bits** menos significativos se ven en **hexadecimal** en el **display de 7 segmentos**. Adicionalmente, con cada llegada del dato se emite un **pitido** y un **parpadeo en un LED**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-02.png)
+
 (TODO)
 
 * Mostrar el dato recibido en los LEDs, y en un 7seg (los 4 bits menos sig)
