@@ -730,7 +730,7 @@ En el **montaje** tenemos el **display de 7 segmentos**, el **LED** de dato reci
 
 Lo **cargamos** y lo **probamos**. Usamos el **ScriptComunicator** para enviar los datos. Cada vez que se aprieta una tecla, se envia a la FPGA. En la ventana del ScriptComunicator no vemos nada porque se ha deshabilitado la visualización de lo enviado. En este **vídeo** lo vemos en acción
 
-(Vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi/ITKjOOgDCwg/0.jpg)](https://www.youtube.com/watch?v=ITKjOOgDCwg)
 
 (TODO)
 
