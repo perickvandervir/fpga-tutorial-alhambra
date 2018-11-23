@@ -695,7 +695,7 @@ Mediremos **4** señales del **transmisor** serie, usando **4 canales** del anal
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/medicion-tx-01.png)
 
-El **montaje** es el mostrado en esta imagen
+El **montaje** es el mostrado en esta imagen. El analizador es muy pequeño, y coloca en el mismo corcho donde están el resto de componentes
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/medicion-tx-02.png)
 
