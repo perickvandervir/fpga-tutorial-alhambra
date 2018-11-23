@@ -691,6 +691,11 @@ Esta es toda la **magia** que hay en un **transmisor serie** 😀
 
 Durante el **diseño de los circuitos digitales** es muy útil **medir** las señales con un **analizador lógico**, para comprobar que se comportan como se espera, o para encontrar fallos y resolverlos. El analizador que uso es uno compatible con **Saleae**. Puedes encontrar **más información** en el [VideoBlog 26](https://github.com/Obijuan/videoblog/wiki/Cap%C3%ADtulo-26:-Probando-el-analizador-l%C3%B3gico-compatible-Saleae-con-la-FPGA) 
 
+Mediremos **4** señales del **transmisor** serie, usando **4 canales** del analizador: **txmit**, **TX**, **busy** y **done**. Hacemos un circuito que envíe el carácter A al apretar el pulsador. Las señales a medir las sacamos por los pines **D1**, **D2**, **D3** y **D4** de la FPGA, y ahí conectaremos el analizador
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/medicion-tx-01.png)
+
+El **montaje** es el mostrado en esta imagen
 
 (Montar escenario con el Saleae)
 
