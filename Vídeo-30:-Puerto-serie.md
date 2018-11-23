@@ -707,9 +707,7 @@ El **PulseView** se ha configurado para muestrear a una frecuencia de **24Mhz** 
 
 También comprobamos cómo la señal **busy** está activa durante toda la transmisión, y se pone a **0** al terminar de enviar el **bit de stop**. Y podemos observar también, cómo al **terminar** se emite un **tic por done**. En este **vídeo** se muestra el **proceso de captura**:
 
-(Vídeo de las mediciones)
-
-TODO
+[![Click to see the youtube video](http://img.youtube.com/vi/IYL2-PjHYoo/0.jpg)](https://www.youtube.com/watch?v=IYL2-PjHYoo)
 
 # Receptor serie
 
