@@ -711,9 +711,9 @@ También comprobamos cómo la señal **busy** está activa durante toda la trans
 
 # Receptor serie
 
-Para **recibir datos** en la **FPGA** desde el **PC** usamos el **receptor serie**. El bloque de Icestudio está disponible en el menú Varios/Serial/Serial-rx de la colección Academia-Jedi-HW-30
+Para **recibir datos** en la **FPGA** desde el **PC** usamos el **receptor serie**. El bloque de **Icestudio** está disponible en el menú **Varios/Serial/Serial-rx** de la colección **Academia-Jedi-HW-30**
 
-(Dibujo receptor serie)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-01.png)
 
 (TODO)
 
