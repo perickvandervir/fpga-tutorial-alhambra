@@ -697,15 +697,11 @@ Mediremos **4** señales del **transmisor** serie, usando **4 canales** del anal
 
 El **montaje** es el mostrado en esta imagen
 
-(Montar escenario con el Saleae)
-
-(Foto del montaje)
-
-(Foto del circuito de pruebas)
-
-(probar el nuevo capturador de pantalla)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/medicion-tx-02.png)
 
 (Tomar medidas y mostrar una captura)
+
+(Vídeo de las mediciones)
 
 TODO
 
