@@ -715,6 +715,8 @@ Para **recibir datos** en la **FPGA** desde el **PC** usamos el **receptor serie
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-01.png)
 
+Los datos en serie llegan por el pin **RX** y salen por un **bus de 8 bits** en paralelo, listos para usarse. Cada vez que llega un dato nuevo, el receptor emite un **tic de recibido**, y la señal de busy se pone a 0 
+
 (TODO)
 
 * Mostrar el dato recibido en los LEDs, y en un 7seg (los 4 bits menos sig)
