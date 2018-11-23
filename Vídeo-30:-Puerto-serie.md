@@ -732,6 +732,14 @@ Lo **cargamos** y lo **probamos**. Usamos el **ScriptComunicator** para enviar l
 
 [![Click to see the youtube video](http://img.youtube.com/vi/ITKjOOgDCwg/0.jpg)](https://www.youtube.com/watch?v=ITKjOOgDCwg)
 
+Para poder enviar datos pulsando teclas (y no tener que dar al Enter), hay que activar la opción **send input** del ScriptCommunicator
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-04.png)
+
+Y para **no mostrar** en el terminal las teclas que pulsamos, hay que deshabilitar la opción **send** en la pestaña de **Console Options** en la configuración del scriptCommunicator (Settings)
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-05.png)
+
 (TODO)
 
 * Mostrar el dato recibido en los LEDs, y en un 7seg (los 4 bits menos sig)
