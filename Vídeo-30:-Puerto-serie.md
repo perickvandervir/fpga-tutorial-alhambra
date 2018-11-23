@@ -724,6 +724,8 @@ Como primer **ejemplo de recepción**, leeremos todo lo que se **envía** desde 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-02.png)
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-03.png)
+
 (TODO)
 
 * Mostrar el dato recibido en los LEDs, y en un 7seg (los 4 bits menos sig)
