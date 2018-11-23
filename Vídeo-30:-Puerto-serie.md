@@ -705,6 +705,8 @@ Lanzamos el [PulseView](https://sigrok.org/wiki/PulseView), que es un programa *
 
 El **PulseView** se ha configurado para muestrear a una frecuencia de **24Mhz** y tomar **5000 muestras**. En **TX** veremos los bits que se envían. Esta señal está a 1 hasta que llega el **tic de txmit** y pasa a cero: transmisión del **bit de start**. Luego continúa con el resto de bits hasta que al final llega el **bit de stop**. En la señal inferior, llamada **UART** podemos ver mejor la **trama** serie: primero el bit de start, luego el dato y por último el bit de stop
 
+También comprobamos cómo la señal **busy** está activa durante toda la transmisión, y se pone a **0** al terminar de enviar el **bit de stop**. Y podemos observar también, cómo al **terminar** se emite un **tic por done**. En este **vídeo** se muestra el **proceso de captura**:
+
 (Vídeo de las mediciones)
 
 TODO
