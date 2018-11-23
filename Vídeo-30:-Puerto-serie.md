@@ -699,6 +699,8 @@ El **montaje** es el mostrado en esta imagen. El analizador es muy pequeño, y c
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/medicion-tx-02.png)
 
+Lanzamos el [PulseView](https://sigrok.org/wiki/PulseView), que es un programa **libre** y **multiplataforma** para realizar las mediciones con el analizador y obtenemos el comportamiento de las señales
+
 (Tomar medidas y mostrar una captura)
 
 (Vídeo de las mediciones)
