@@ -724,7 +724,13 @@ Como primer **ejemplo de recepción**, leeremos todo lo que se **envía** desde 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-02.png)
 
+En el **montaje** tenemos el **display de 7 segmentos**, el **LED** de dato recibido y el **zumbador**
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-03.png)
+
+Lo **cargamos** y lo **probamos**. Usamos el **ScriptComunicator** para enviar los datos. Cada vez que se aprieta una tecla, se envia a la FPGA. En la ventana del ScriptComunicator no vemos nada porque se ha deshabilitado la visualización de lo enviado. En este **vídeo** lo vemos en acción
+
+(Vídeo)
 
 (TODO)
 
