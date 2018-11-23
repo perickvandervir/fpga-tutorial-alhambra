@@ -740,9 +740,12 @@ Y para **no mostrar** en el terminal las teclas que pulsamos, hay que deshabilit
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-05.png)
 
+## Ejemplo 9: Contador de datos recibidos
+
+(Contador 0-9 con cada dato recibido). Con la tecla "r" (minúscula) se hace un reset del contador
+
 (TODO)
 
-* Mostrar el dato recibido en los LEDs, y en un 7seg (los 4 bits menos sig)
 * Ejemplo del eco
 * Recepción en un registro
 * Controlar un servo con las teclas
