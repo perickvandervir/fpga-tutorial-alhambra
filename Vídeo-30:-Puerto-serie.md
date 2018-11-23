@@ -744,18 +744,14 @@ Y para **no mostrar** en el terminal las teclas que pulsamos, hay que deshabilit
 ## Ejemplo 9: Contador de datos recibidos
 
 (Contador 0-9 con cada dato recibido). Con la tecla "r" (minúscula) se hace un reset del contador
+* Bloque Beep-flash para ejemplo 9
 
 (TODO)
-
-* Ejemplo del eco
-* Recepción en un registro
-* Controlar un servo con las teclas
-* Encender apagar un led con cualquier dato recibido
-* encendido de leds con las teclas  
-* Eco
-* mini-codificador
-
-
+* Ejemplo 10: Controlar un servo con las teclas
+* Ejemplo 11: eco
+* Ejemplo 12: mini-codificador (negar el bit0 por ejemplo)
+* Funcionamiento de receptor
+* Midiendo el receptor
 
 # Aplicaciones
 
