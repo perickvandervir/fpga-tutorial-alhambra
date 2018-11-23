@@ -332,6 +332,9 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 
 ## Noticias
 
+### **17-Septiembre-2018**: Periodo de matriculaciones cerrado. Sois muchos y no tengo tiempo para atenderos a todos. Por eso no puede entrar más gente de momento. El curso el libre y lo podéis hacer, pero no me podéis enviar ejercicios para asignaros bitpoints
+
+
 ### 20-Agosto-2018: Abierto nuevo plazo de matriculación en la Academia Jedi
 
 Hasta el **16-Septiembre-2018** queda **abierto** el plazo de matriculación en la academia Jedi. La gente que envíe los ejercicios recibirá bitpoints y aparecerá en esta wiki. Sólo hay que empezar por el [tutorial 1](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos) y seguir las instruciones
