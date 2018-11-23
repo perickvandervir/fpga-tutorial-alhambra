@@ -40,6 +40,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 6-3: Leyendo la cadena de un fichero](#ejemplo-6-3-leyendo-la-cadena-de-un-fichero)
   * [Ejemplo 6-4: Generación de una cadena desde un programa en python](#ejemplo-6-4-generaci%C3%B3n-de-una-cadena-desde-un-programa-en-python)
   * [Funcionamiento del transmisor](#funcionamiento-del-transmisor)
+  * [Ejemplo 7: Midiendo las señales con el analizador Saleae](#ejemplo-7-midiendo-las-se%C3%B1ales-con-el-analizador-saleae)
 * [Receptor serie](#receptor-serie)
 * [Ejercicios propuestos (25 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
