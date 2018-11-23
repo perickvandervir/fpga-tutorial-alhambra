@@ -332,8 +332,9 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 
 ## Noticias
 
-### **17-Septiembre-2018**: Periodo de matriculaciones cerrado. Sois muchos y no tengo tiempo para atenderos a todos. Por eso no puede entrar más gente de momento. El curso el libre y lo podéis hacer, pero no me podéis enviar ejercicios para asignaros bitpoints
+### **17-Septiembre-2018**: Cerrado plazo de matriculación en la Academia Jedi
 
+El periodo de matriculaciones se ha cerrado. Sois muchos y no tengo tiempo para atenderos a todos. Por eso no puede entrar más gente de momento. El curso el libre y lo podéis hacer, pero no me podéis enviar ejercicios para asignaros bitpoints
 
 ### 20-Agosto-2018: Abierto nuevo plazo de matriculación en la Academia Jedi
 
