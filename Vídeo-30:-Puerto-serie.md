@@ -688,6 +688,9 @@ Esta es toda la **magia** que hay en un **transmisor serie** 😀
 
 ## Ejemplo 7: Midiendo las señales con el analizador Saleae
 
+Durante el diseño de los circuitos digitales es muy útil medir las señales con un analizador lógico, para comprobar que se comportan como se espera, o para encontrar fallos y resolverlos. El analizador que uso es uno compatible con **Saleae**. Puedes encontrar más información en el [VideoBlog 26](https://github.com/Obijuan/videoblog/wiki/Cap%C3%ADtulo-26:-Probando-el-analizador-l%C3%B3gico-compatible-Saleae-con-la-FPGA) 
+
+
 (Montar escenario con el Saleae)
 
 (Foto del montaje)
