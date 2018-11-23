@@ -42,6 +42,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Funcionamiento del transmisor](#funcionamiento-del-transmisor)
   * [Ejemplo 7: Midiendo las señales con el analizador Saleae](#ejemplo-7-midiendo-las-se%C3%B1ales-con-el-analizador-saleae)
 * [Receptor serie](#receptor-serie)
+  * [Eejemplo 8: Recibiendo datos del PC](#ejemplo-8-recibiendo-datos-del-pc)
 * [Ejercicios propuestos (25 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
