@@ -711,6 +711,12 @@ También comprobamos cómo la señal **busy** está activa durante toda la trans
 
 # Receptor serie
 
+Para **recibir datos** en la **FPGA** desde el **PC** usamos el **receptor serie**. El bloque de Icestudio está disponible en el menú Varios/Serial/Serial-rx de la colección Academia-Jedi-HW-30
+
+(Dibujo receptor serie)
+
+(TODO)
+
 * Mostrar el dato recibido en los LEDs, y en un 7seg (los 4 bits menos sig)
 * Ejemplo del eco
 * Recepción en un registro
@@ -720,7 +726,7 @@ También comprobamos cómo la señal **busy** está activa durante toda la trans
 * Eco
 * mini-codificador
 
-(TODO)
+
 
 # Aplicaciones
 
