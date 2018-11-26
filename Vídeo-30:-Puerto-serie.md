@@ -791,9 +791,7 @@ Desde el **scriptcommunicator** podemos enviar **datos en decimal** seleccionado
 
 El funcionamiento se muestra en este **vídeo**.  Primero se lleva el servo a los extremos, introduciendo los valores 60 y 220. Luego al centro con 140. Al apretar las teclas vemos también cómo cambia su posición. Al pulsar la 'd' se deshabilita, y lo movemos con la mano
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-(TODO)
+[![Click to see the youtube video](http://img.youtube.com/vi/k8LCedFwbdw/0.jpg)](https://www.youtube.com/watch?v=k8LCedFwbdw)
  
 ##  Funcionamiento de receptor
 
