@@ -773,6 +773,16 @@ En este **vídeo** se muestra el ejemplo en funcionamiento. Sólo con las **tecl
 
 ## Ejemplo 11: Control de un servo a cualquier posición
 
+Desde el **puerto serie** podemos envir cualquier **dato de 8 bits** a nuestros circuitos. Eso nos ahorra el tener que conectar muchos interruptores para hacer pruebas de entrada de datos. Basta con **enviar el número por el puerto serie**. Usaremos esta capacidad para **mover un servo a diferentes posiciones**
+
+En el menú **Varios/Servos/ServoPWM-8bits**, de la colección de la **Academia-Jedi-HW-30.zip** encontramos un **controlador de servos genérico**, al que le podemos introducir por una de sus entradas la **posición**, como un número de 8 bits. 
+
+(Foto controlador servo)
+
+En el caso de los servos **Futaba 3003** el servo se puede llevar a cualquier posición entre 60 y 225. El periodo de la señal PWM vale por defecto **20ms** (el de la mayoría de los servos), pero se puede poner otro valor como **parámetro**, para que funcione con cualquier servo
+
+
+
 (controaldor servos en verilog)
 
 (Circuito ejemplo)
