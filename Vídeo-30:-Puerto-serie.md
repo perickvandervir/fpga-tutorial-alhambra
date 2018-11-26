@@ -743,7 +743,10 @@ Y para **no mostrar** en el terminal las teclas que pulsamos, hay que deshabilit
 
 ## Ejemplo 9: Contador de datos recibidos
 
-(Contador 0-9 con cada dato recibido). Con la tecla "r" (minúscula) se hace un reset del contador
+En el siguiente ejemplo contaremos los **caracteres recibidos**, usando un contador **módulo 10**. Sólo cuenta de **0** a **9** y vuelve a comenzar. Con cada carácter se emite un pitido y un flash en el led. Cuando se recibe el carácter 'r' (minúscula) se inicializa el contador a 0
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-06.png)
+
 * Bloque Beep-flash para ejemplo 9
 
 (TODO)
