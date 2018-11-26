@@ -773,10 +773,13 @@ En este **vídeo** se muestra el ejemplo en funcionamiento. Sólo con las **tecl
   -> Hacer el controlador de servo desde 0:
       * Controlador con bloques
       * Controlador en verilog
-* Ejemplo 12: eco
-* Ejemplo 13: mini-codificador (negar el bit0 por ejemplo)
 * Funcionamiento de receptor
 * Midiendo el receptor
+
+# Combinando transmisor y receptor
+
+* Ejemplo 12: eco
+* Ejemplo 13: mini-codificador (negar el bit0 por ejemplo)
 
 # Aplicaciones
 
