@@ -749,12 +749,13 @@ En el siguiente ejemplo contaremos los **caracteres recibidos**, usando un conta
 
 El **tic de dato recibido** se envía al bloque que emite el pitido y el flash, y al **contador**. Mediante un **comparador** se comprueba si el carácter recibido es **'r'**. En ese caso se activa la **señal de reset** del contador. El **montaje** es el mismo que el del ejemplo 8
 
-En este **vídeo** se muestra el circuito en acción
+En este **vídeo** se muestra el circuito en acción. Primero conectamos el **scriptcommunicator**. Cada tecla que se pulsa se envía por el puerto serie, y el contador se incremente. Con cualquier otro carácter se incrementa el contador, salvo cuando pulsamos **r**, que se inicializa a 0
 
-(Video)
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+## Ejemplo 10: Control de un servo con dos teclas
 
 (TODO)
-* Ejemplo 10: Controlar un servo con las teclas
 * Ejemplo 11: eco
 * Ejemplo 12: mini-codificador (negar el bit0 por ejemplo)
 * Funcionamiento de receptor
