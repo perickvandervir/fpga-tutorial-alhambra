@@ -768,7 +768,7 @@ En este **vídeo** se muestra el ejemplo en funcionamiento. Sólo con las **tecl
 
 [![Click to see the youtube video](http://img.youtube.com/vi/JRyZmYPrUaE/0.jpg)](https://www.youtube.com/watch?v=JRyZmYPrUaE)
 
-## Ejemplo 11: Control de un servo a cualquier posicion
+## Ejemplo 11: Control de un servo a cualquier posición
 
 (TODO)
   -> Hacer el controlador de servo desde 0:
