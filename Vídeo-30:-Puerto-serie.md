@@ -787,11 +787,9 @@ En este circuito de ejemplo, el dato de 8 bits que llega por el puerto serie se 
 
 Desde el **scriptcommunicator** podemos enviar **datos en decimal** seleccionado en el desplegable **uint8**. Se introduce el **valor en decimal** y se pincha en **send**. Desde la pestaña ASCII también podemos usar las teclas para posicionar el servo y enviar los comandos 'e' y 'd' 
 
-(pantallazo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-11.png)
 
-El funcionamiento se muestra en este vídeo
-
-(Circuito ejemplo)
+El funcionamiento se muestra en este **vídeo**.  Primero se lleva el servo a los extremos, introduciendo los valores 60 y 220. Luego al centro con 140. Al apretar las teclas vemos también cómo cambia su posición. Al pulsar la 'd' se deshabilita, y lo movemos con la mano
 
 (vídeo)
 
