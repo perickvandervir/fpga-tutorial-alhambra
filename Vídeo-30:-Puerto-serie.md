@@ -760,7 +760,7 @@ El **puerto serie** nos permite usar el **teclado del PC** para controlador nues
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-07.png)
 
-El **montaje** es el mismo que el ejemplo anterior, añadiendo el servo **Futaba 3003**
+Un **biestable RS** almacena el **bit de posición**. Al recebirse la **tecla 1**, se emite un **tic** que pone este biestable a 1. Cuando se recibe la **tecla 2** se emite otro tic que pone el biestable a 0. El **montaje** es el mismo que el ejemplo anterior, añadiendo el servo **Futaba 3003**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-08.png)
 
