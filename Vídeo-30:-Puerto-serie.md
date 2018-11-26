@@ -756,9 +756,21 @@ En este **vídeo** se muestra el circuito en acción. Primero conectamos el **sc
 
 ## Ejemplo 10: Control de un servo con dos teclas
 
+El **puerto serie** nos permite usar el **teclado del PC** para controlador nuestros circuitos. Esto es muy útil, sobre todo en la **depuración**. Este circuito mueve el servo a una posición al pulsar la **tecla '1'**, y a otra al pulsar la **tecla '2'**. Se utiliza el **servobit**:
+
+(Circuito)
+
+(Escenario)  
+
+(Vídeo)
+
 (TODO)
-* Ejemplo 11: eco
-* Ejemplo 12: mini-codificador (negar el bit0 por ejemplo)
+* Ejemplo 11: Control de un servo a cualquier posicion
+  -> Hacer el controlador de servo desde 0:
+      * Controlador con bloques
+      * Controlador en verilog
+* Ejemplo 12: eco
+* Ejemplo 13: mini-codificador (negar el bit0 por ejemplo)
 * Funcionamiento de receptor
 * Midiendo el receptor
 
