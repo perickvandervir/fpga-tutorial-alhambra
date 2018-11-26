@@ -777,13 +777,9 @@ Desde el **puerto serie** podemos envir cualquier **dato de 8 bits** a nuestros 
 
 En el menú **Varios/Servos/ServoPWM-8bits**, de la colección de la **Academia-Jedi-HW-30.zip** encontramos un **controlador de servos genérico**, al que le podemos introducir por una de sus entradas la **posición**, como un número de 8 bits. 
 
-(Foto controlador servo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-09.png)
 
-En el caso de los servos **Futaba 3003** el servo se puede llevar a cualquier posición entre 60 y 225. El periodo de la señal PWM vale por defecto **20ms** (el de la mayoría de los servos), pero se puede poner otro valor como **parámetro**, para que funcione con cualquier servo
-
-
-
-(controaldor servos en verilog)
+En el caso de los servos **Futaba 3003** el servo se puede llevar a cualquier posición entre 60 y 225. El periodo de la **señal PWM** vale por defecto **20ms** (el de la mayoría de los servos), pero se puede poner otro valor como **parámetro**, para que funcione con cualquier servo
 
 (Circuito ejemplo)
 
