@@ -747,7 +747,11 @@ En el siguiente ejemplo contaremos los **caracteres recibidos**, usando un conta
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-06.png)
 
-* Bloque Beep-flash para ejemplo 9
+El **tic de dato recibido** se envía al bloque que emite el pitido y el flash, y al **contador**. Mediante un **comparador** se comprueba si el carácter recibido es **'r'**. En ese caso se activa la **señal de reset** del contador. El **montaje** es el mismo que el del ejemplo 8
+
+En este **vídeo** se muestra el circuito en acción
+
+(Video)
 
 (TODO)
 * Ejemplo 10: Controlar un servo con las teclas
