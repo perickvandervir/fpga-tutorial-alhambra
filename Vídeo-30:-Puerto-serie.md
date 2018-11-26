@@ -45,6 +45,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 8: Recibiendo datos del PC](#ejemplo-8-recibiendo-datos-del-pc)
   * [Ejemplo 9: Contador de datos recibidos](#ejemplo-9-contador-de-datos-recibidos)
   * [Ejemplo 10: Control de un servo con dos teclas](#ejemplo-10-control-de-un-servo-con-dos-teclas)
+  * [Ejemplo 11: Control de un servo a cualquier posición](#ejemplo-11-control-de-un-servo-a-cualquier-posici%C3%B3n)
 * [Ejercicios propuestos (25 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
