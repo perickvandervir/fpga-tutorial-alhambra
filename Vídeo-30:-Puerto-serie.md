@@ -758,7 +758,8 @@ En este **vídeo** se muestra el circuito en acción. Primero conectamos el **sc
 
 El **puerto serie** nos permite usar el **teclado del PC** para controlador nuestros circuitos. Esto es muy útil, sobre todo en la **depuración**. Este circuito mueve el servo a una posición al pulsar la **tecla '1'**, y a otra al pulsar la **tecla '2'**. Se utiliza el **servobit**:
 
-(Circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-07.png)
+
 
 (Escenario)  
 
