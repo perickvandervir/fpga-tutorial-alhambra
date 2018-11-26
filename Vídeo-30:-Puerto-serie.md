@@ -773,7 +773,6 @@ En este **vídeo** se muestra el ejemplo en funcionamiento. Sólo con las **tecl
 
 ## Ejemplo 11: Control de un servo a cualquier posición
 
-(timer-10usec en verilog)  
 (Controlador de servos en bloque)  
 (controaldor servos en verilog)
 
