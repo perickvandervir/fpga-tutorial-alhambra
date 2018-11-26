@@ -766,15 +766,16 @@ Un **biestable RS** almacena el **bit de posición**. Al recebirse la **tecla 1*
 
 En este **vídeo** se muestra el ejemplo en funcionamiento. Sólo con las **teclas 1** y **2** cambiamos la posición del servo. No hace falta que el servo llegue a la posición final. Se puede cambiar la posición al vuelo
 
-(Vídeo)
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+## Ejemplo 11: Control de un servo a cualquier posicion
 
 (TODO)
-* Ejemplo 11: Control de un servo a cualquier posicion
   -> Hacer el controlador de servo desde 0:
       * Controlador con bloques
       * Controlador en verilog
-* Funcionamiento de receptor
-* Midiendo el receptor
+##  Funcionamiento de receptor
+##  Midiendo el receptor
 
 # Combinando transmisor y receptor
 
