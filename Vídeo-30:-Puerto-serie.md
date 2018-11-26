@@ -781,7 +781,7 @@ En el menú **Varios/Servos/ServoPWM-8bits**, de la colección de la **Academia-
 
 En el caso de los servos **Futaba 3003** el servo se puede llevar a cualquier posición entre 60 y 225. El periodo de la **señal PWM** vale por defecto **20ms** (el de la mayoría de los servos), pero se puede poner otro valor como **parámetro**, para que funcione con cualquier servo
 
-En este circuito de ejemplo, el dato de 8 bits que llega por el puerto serie se envía al servo para que vaya a esa posición. Si se envían los comandos 'e' (enable) o 'd' (disable) el servo se habilita o deshabilita respectivamente. En esos casos no se escribe en el servo
+En este **circuito de ejemplo**, el **dato de 8 bits** que llega por el puerto serie se envía al **servo** para que vaya a esa posición. Si se envían los **comandos 'e'** (enable) o **'d'** (disable) el servo se habilita o deshabilita respectivamente. En esos casos no se escribe en el servo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-10.png)
 
