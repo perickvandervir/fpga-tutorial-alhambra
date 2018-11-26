@@ -769,6 +769,8 @@ En este **vídeo** se muestra el ejemplo en funcionamiento. Sólo con las **tecl
 
 [![Click to see the youtube video](http://img.youtube.com/vi/JRyZmYPrUaE/0.jpg)](https://www.youtube.com/watch?v=JRyZmYPrUaE)
 
+¡Mola mucho! :-)  Y lo más interesante, estamos controlando el servo... ¡sin software! ¡Todo por hardware!
+
 ## Ejemplo 11: Control de un servo a cualquier posición
 
 (TODO)
