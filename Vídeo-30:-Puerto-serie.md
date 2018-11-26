@@ -760,8 +760,11 @@ El **puerto serie** nos permite usar el **teclado del PC** para controlador nues
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-07.png)
 
+El **montaje** es el mismo que el ejemplo anterior, añadiendo el servo **Futaba 3003**
 
-(Escenario)  
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/rx-08.png)
+
+En este **vídeo** se muestra el ejemplo en funcionamiento. Sólo con las teclas 1 y 2 cambiamos la posición del servo. No hace falta que el servo llegue a la posición final. Se puede cambiar la posición al vuelo
 
 (Vídeo)
 
