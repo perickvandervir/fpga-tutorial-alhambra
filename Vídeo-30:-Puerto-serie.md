@@ -796,6 +796,10 @@ El funcionamiento se muestra en este **vídeo**.  Primero se lleva el servo a lo
  
 ##  Funcionamiento de receptor
 
+¿Cómo funciona el receptor serie?. Desde el menú **Varios/Serial/Blocks/serial-rx** tenemos acceso a los **bloques** que forman el receptor. Veremos su funcionamiento en detalle
+
+(Pantallazo)
+
 (TODO)
 
 
