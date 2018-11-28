@@ -818,10 +818,7 @@ Por último, la señal de **overflow** se usa para almacenar en **el registro de
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/receiver-05.png)
 
-
-
-(TODO)
-
+En este receptor básico, **no hay detección de error**. Si el bit de stop no fuese 1, habría que indicar que el dato recibido NO es correcto.
 
 ##  Midiendo el receptor
 
