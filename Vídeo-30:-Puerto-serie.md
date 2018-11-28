@@ -862,9 +862,13 @@ A partir del mismo ejemplo del eco, podemos hacer un **mini-cifrador**, que **mo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-rx-02.png)
 
-(Circuito)
+El dato que llega del receptor, con sus bits en paralelo, se cifra **intercambiando** los **cables** de los bits. Mediante un **multiplexor** a la entrada del transmisor se selecciona el **dato cifrado** o **sin cifrar**, en función de la posición del **interruptor externo**
 
-(vídeo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-rx-03.png)
+
+Lo **cargamos** y lo **probamos**. Cuando el interruptor está a 0, se hace eco sin cifrar, como en el ejemplo anterior. Al cambiar a 1, se recibe el eco cifrado. Si en modo cifrado enviamos algo ya cifrado, se descifrará
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 # Aplicaciones
 
