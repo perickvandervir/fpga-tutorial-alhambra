@@ -860,7 +860,7 @@ Lo **cargamos** y lo **probamos**. Al escribir en el terminar escuchamos los pit
 
 A partir del mismo ejemplo del eco, podemos hacer un **mini-cifrador**, que **modifica** los bits del datos recibido y lo envíe cifrado. Mediante un **interruptor externo** seleccionamos el modo: cifrado o no. El **montaje** es el siguiente:
 
-(Montaje)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-rx-02.png)
 
 (Circuito)
 
