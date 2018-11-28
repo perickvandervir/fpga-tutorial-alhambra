@@ -868,7 +868,7 @@ El dato que llega del receptor, con sus bits en paralelo, se cifra **intercambia
 
 Lo **cargamos** y lo **probamos**. Cuando el interruptor está a 0, se hace eco sin cifrar, como en el ejemplo anterior. Al cambiar a 1, se recibe el eco cifrado. Si en modo cifrado enviamos algo ya cifrado, se descifrará
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/6bjWKxjhhlY/0.jpg)](https://www.youtube.com/watch?v=6bjWKxjhhlY)
 
 # Aplicaciones
 
