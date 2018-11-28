@@ -827,6 +827,10 @@ Igual que hicimos con el transmisor, vamos a **medir el receptor** para comproba
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/receiver-09.png)
 
+Hacemos un **circuito de pruebas**, con un **receptor serie** conectado a los LEDs, para ver el dato recibido, además de emitir un pitido y un parpadeo en el LED. Sacamos las señales a medir, **Rx**, **busy** y **rcv** por las salidas D1, D2 y D3 respectivamente, donde están conectados los **canales 1**,**2**, y **3** del **analizador**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/receiver-07.png)
+
 (TODO)
 
 # Combinando transmisor y receptor
