@@ -823,7 +823,9 @@ En este receptor básico, **no hay detección de error**. Si el bit de stop no f
 
 ##  Midiendo el receptor
 
-(Medir la recepción de la cadena HOLA desde el PC)  
+Igual que hicimos con el transmisor, vamos a medir el receptor para comprobar que las señales se comportan como debería, y que todo está funcionando bien. Usamos tres canales del analizador lógico compatible Saleae, uno para Rx, otro para Busy y otro para rcv. El **montaje** es el siguiente
+
+(Foto)
 
 (TODO)
 
