@@ -849,9 +849,9 @@ Normalmente, en nuestros circuitos integraremos tanto el **emisor** como el **re
 
 En este circuito se vuelve a transmitir todo lo que se recibe. Esto se denomina **hacer eco**. Además de enviar cada dato de vuelta, se muestra en los **LEDs**, y se emite un **pitido** en el **zumbador** y un **parpadeo** en el **LED**. La salida de datos del receptor se conecta directamente a la entrada del transmisión, y también la señal de **rcv** a la de **txmit**. El mismo **tic de dato recibido** se usa para transmitirlo de vuelta
 
-(Pantallazo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/tx-rx-01.png)
 
-
+Lo **cargamos** y lo **probamos**. Al escribir en el terminar escuchamos los pitidos y vemos el carácter de vuelta. También si enviamos una cadena completa
 
 (Vídeo del funcionamiento).
 
