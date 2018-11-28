@@ -814,6 +814,12 @@ Cada vez que el corazón se emite un **tic de lectura**, se incrementa el **cont
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/receiver-04.png)
 
+Por último, la señal de **overflow** se usa para almacenar en **el registro de datos** los 8 bits del dato recibido, **descartando** el **bit de stop**. Esta misma señal, retrasada un ciclo, se usa para emitir el **tic de recepción** (rcv), para indicar que hay un dato disponible
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/receiver-05.png)
+
+
+
 (TODO)
 
 
