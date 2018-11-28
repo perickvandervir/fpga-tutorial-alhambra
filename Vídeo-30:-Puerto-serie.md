@@ -847,6 +847,14 @@ Normalmente, en nuestros circuitos integraremos tanto el **emisor** como el **re
 
 ## Ejemplo 13: Haciendo eco de los datos recibidos
 
+En este circuito se vuelve a transmitir todo lo que se recibe. Esto se denomina **hacer eco**. Además de enviar cada dato de vuelta, se muestra en los **LEDs**, y se emite un **pitido** en el **zumbador** y un **parpadeo** en el **LED**. La salida de datos del receptor se conecta directamente a la entrada del transmisión, y también la señal de **rcv** a la de **txmit**. El mismo **tic de dato recibido** se usa para transmitirlo de vuelta
+
+(Pantallazo)
+
+
+
+(Vídeo del funcionamiento).
+
 (TODO)
 
 * Ejemplo 13: mini-codificador (negar el bit0 por ejemplo). Usar un switch para seleccionar codificación o no
