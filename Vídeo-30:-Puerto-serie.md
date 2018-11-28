@@ -842,7 +842,12 @@ En esta **animación** se muestra cómo se ha tomado la captura
 
 # Combinando transmisor y receptor
 
-* Ejemplo 12: eco
+Normalmente, en nuestros circuitos integraremos tanto el **emisor** como el **receptor**. Veremos dos ejemplos de circuitos que los incluyen
+
+## Ejemplo 13: Haciendo eco de los datos recibidos
+
+(TODO)
+
 * Ejemplo 13: mini-codificador (negar el bit0 por ejemplo). Usar un switch para seleccionar codificación o no
 
 # Aplicaciones
