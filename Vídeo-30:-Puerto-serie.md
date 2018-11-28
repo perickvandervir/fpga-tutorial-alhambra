@@ -806,6 +806,10 @@ Los **datos** llegan desde el **exterior**, en serie, y entran por el **pin RX**
 
 Este biestable está a **0** cuando **NO** se reciben caracteres (apagado), y se pone a **1** (encendido) en cuanto se detecta la llegada del primero. Una vez que ha llegado el **bit de start**, el resto de flancos de bajada que hubiese no afectan. El biestable se queda encendido hasta que se active su **señal de reset**
 
+Los bits que llegan entran por la **entrada serie** de un **registro de desplazamiento**. Al activarse el biestable de estado, se habilita el **bombeo de tics** a la velocidad de recepción serie, para desplazar el registro y almacenar los bits que llegan. Sólo hay desplazmiento mientras que el receptor está activo. Al desactivarse, la puerta AND bloquea la llegada de más tics
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/receiver-03.png)
+
 (TODO)
 
 
