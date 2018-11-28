@@ -800,6 +800,11 @@ El funcionamiento se muestra en este **vídeo**.  Primero se lleva el servo a lo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/receiver-01.png)
 
+Los **datos** llegan desde el **exterior**, en serie, y entran por el **pin RX**. Se pasan por el **bloque de sincronización** para evitar los problemas de **metaestabilidad**. La línea está a 1 en reposo. Lo primero que llega es siempre un 0: el **bit start**. Mediante un **detector de flancos de bajada**, activamos el **biestable de estado** del receptor cada vez que llega un dato nuevo
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/receiver-02.png)
+
+Este biestable está a **0** cuando **NO** se reciben caracteres (apagado), y se pone a **1** (encendido) en cuanto se detecta la llegada del primero. Una vez que ha llegado el **bit de start**, el resto de flancos de bajada que hubiese no afectan. El biestable se queda encendido hasta que se active su **señal de reset**
 
 (TODO)
 
