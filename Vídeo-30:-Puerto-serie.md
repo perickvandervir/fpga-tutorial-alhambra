@@ -810,7 +810,7 @@ Los bits que llegan entran por la **entrada serie** de un **registro de desplaza
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/receiver-03.png)
 
-Cada vez que el corazón se emite un **tic de lectura**, se incrementa el **contador de bits recibidos**. Al llegar a *9** (8 bits de datos + 1 de stop) se activa su señal de overflow que inicializa el **biestable de estado**. Al ser 0, la señal de rst del contador se activa, por lo que se **reinicia a 0** y que listo para recibir el siguiente dato
+Cada vez que el corazón se emite un **tic de lectura**, se incrementa el **contador de bits recibidos**. Al llegar a **9** (8 bits de datos + 1 de stop) se activa su señal de overflow que inicializa el **biestable de estado**. Al ser 0, la señal de rst del contador se activa, por lo que se **reinicia a 0** y queda **listo** para recibir el siguiente dato
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/receiver-04.png)
 
