@@ -873,14 +873,19 @@ Lo **cargamos** y lo **probamos**. Cuando el interruptor está a 0, se hace eco 
 
 # Aplicaciones
 
-(Conexión Arduino)  
+El **puerto serie** da mucho juego. Entre otras cosas, nos permite **comunicarnos con Arduino**, comunicar nuestros circuitos a través de **bluetooth** mediante un conversor bluetooth serie o hacer **programa en el PC** que se comuniquen con ellos
+
+## Comunicación con Arduino por Puerto serie
+
   * Arduino: envia comando para incrementar el contador. FPGA: lo muestra en 7-seg y devuelve el siguiente valor al Arduino. Arduino enciende el led si es par, y lo apaga si es impar
 
-(Bluetooth-serie)
+## Comunicación bluetooth-serie
+
   * EJemplo del eco desde el movil  (terminal android)
   * Posicionamiento del servo en diferentes posiciones según las pulsaciones (aplicación que no es terminal)
 
-(Comunicándonos con nuestros programas: Python)
+## Comunicando los programas del PC con los circuitos
+
   * Ej. de posicionamiento del servo, pero desde program en python
   * ¿slider en jupyter?
 
@@ -889,11 +894,6 @@ Lo **cargamos** y lo **probamos**. Cuando el interruptor está a 0, se hace eco 
 * Otro ejemplo: habilitar/deshabilitar conexión con un pulsador  
 * sudo usermod -a -G dialout $USER
 * [Más info. Tutorial verilog](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Cap%C3%ADtulo-20%3A-Comunicaciones-serie-as%C3%ADncronas)
-* Dispositivos: pc, arduino, bluetooh-serie, usb-serie,
-
-# Info
-
-
 
 # Ejercicios propuestos (25 BitPoints)
 
