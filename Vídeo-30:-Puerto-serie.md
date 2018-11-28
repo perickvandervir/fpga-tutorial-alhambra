@@ -831,7 +831,13 @@ Hacemos un **circuito de pruebas**, con un **receptor serie** conectado a los LE
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/receiver-07.png)
 
-(TODO)
+Este es el resultado de la **medición** cuando enviamos la cadena **"HOLA"**. Observamos los tics que parecen en **rcv** al terminar la transmisión (en mitado del bit de stop), y también la **señal de Busy**. Nuestro receptor está funcionando **correctamete**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/receiver-06.png)
+
+En esta **animación** se muestra cómo se ha tomado la captura
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/receiver-08.gif)
 
 # Combinando transmisor y receptor
 
