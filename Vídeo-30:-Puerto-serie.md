@@ -801,6 +801,8 @@ El funcionamiento se muestra en este **vídeo**.  Primero se lleva el servo a lo
 
 ##  Midiendo el receptor
 
+(Medir la recepción de la cadena HOLA desde el PC)  
+
 (TODO)
 
 # Combinando transmisor y receptor
