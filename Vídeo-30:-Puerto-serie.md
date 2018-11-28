@@ -853,11 +853,12 @@ En este circuito se vuelve a transmitir todo lo que se recibe. Esto se denomina 
 
 Lo **cargamos** y lo **probamos**. Al escribir en el terminar escuchamos los pitidos y vemos el carácter de vuelta. También si enviamos una cadena completa
 
-(Vídeo del funcionamiento).
+[![Click to see the youtube video](http://img.youtube.com/vi/72hspv-_Q08/0.jpg)](https://www.youtube.com/watch?v=72hspv-_Q08)
 
-(TODO)
+## Ejemplo 14: mini-cifrador
 
-* Ejemplo 13: mini-codificador (negar el bit0 por ejemplo). Usar un switch para seleccionar codificación o no
+
+ (negar el bit0 por ejemplo). Usar un switch para seleccionar codificación o no
 
 # Aplicaciones
 
