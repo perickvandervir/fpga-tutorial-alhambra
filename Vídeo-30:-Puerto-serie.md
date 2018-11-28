@@ -806,9 +806,13 @@ Los **datos** llegan desde el **exterior**, en serie, y entran por el **pin RX**
 
 Este biestable está a **0** cuando **NO** se reciben caracteres (apagado), y se pone a **1** (encendido) en cuanto se detecta la llegada del primero. Una vez que ha llegado el **bit de start**, el resto de flancos de bajada que hubiese no afectan. El biestable se queda encendido hasta que se active su **señal de reset**
 
-Los bits que llegan entran por la **entrada serie** de un **registro de desplazamiento**. Al activarse el biestable de estado, se habilita el **bombeo de tics** a la velocidad de recepción serie, para desplazar el registro y almacenar los bits que llegan. Sólo hay desplazmiento mientras que el receptor está activo. Al desactivarse, la puerta AND bloquea la llegada de más tics
+Los bits que llegan entran por la **entrada serie** de un **registro de desplazamiento**. Al activarse el biestable de estado, se habilita el **bombeo de tics** a la velocidad de recepción serie, para desplazar el registro y almacenar los bits que llegan. Sólo hay desplazmiento mientras que el receptor está activo. Al desactivarse, la puerta AND bloquea la llegada de más tics. Las entradas de **load** y **datos** del registro de desplazamiento **NO** se usan. Por q obtenemos el **dato** y el **bit de stop**, en paralelo
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/receiver-03.png)
+
+Cada vez que el corazón se emite un **tic de lectura**, se incrementa el **contador de bits recibidos**. Al llegar a *9** (8 bits de datos + 1 de stop) se activa su señal de overflow que inicializa el **biestable de estado**. Al ser 0, la señal de rst del contador se activa, por lo que se **reinicia a 0** y que listo para recibir el siguiente dato
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/receiver-04.png)
 
 (TODO)
 
