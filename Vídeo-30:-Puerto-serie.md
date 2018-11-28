@@ -843,13 +843,20 @@ En esta **animación** se muestra cómo se ha tomado la captura
 # Combinando transmisor y receptor
 
 * Ejemplo 12: eco
-* Ejemplo 13: mini-codificador (negar el bit0 por ejemplo)
+* Ejemplo 13: mini-codificador (negar el bit0 por ejemplo). Usar un switch para seleccionar codificación o no
 
 # Aplicaciones
 
+(Conexión Arduino)  
+  * Arduino: envia comando para incrementar el contador. FPGA: lo muestra en 7-seg y devuelve el siguiente valor al Arduino. Arduino enciende el led si es par, y lo apaga si es impar
+
 (Bluetooth-serie)
-(Conexión Arduino)
-(Comunicándonos con nuestros programas: Python, node)
+  * EJemplo del eco desde el movil  (terminal android)
+  * Posicionamiento del servo en diferentes posiciones según las pulsaciones (aplicación que no es terminal)
+
+(Comunicándonos con nuestros programas: Python)
+  * Ej. de posicionamiento del servo, pero desde program en python
+  * ¿slider en jupyter?
 
 (TODO)
 
