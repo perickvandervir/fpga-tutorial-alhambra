@@ -50,6 +50,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
   * [Ejemplo 12: Midiendo el receptor](#midiendo-el-receptor)
 * [Combinando transmisor y receptor](#combinando-transmisor-y-receptor)
   * [Ejemplo 13: Haciendo eco de los datos recibidos](#ejemplo-13-haciendo-eco-de-los-datos-recibidos)
+  * [Ejemplo 14: Mini cifrador](#ejemplo-14-mini-cifrador)
 * [Ejercicios propuestos (25 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
