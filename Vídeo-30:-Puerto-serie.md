@@ -998,7 +998,7 @@ En el ordenador tenemos que tener instalado [python3](https://www.python.org/dow
 
 ### Ejemplo 16: Secuencia de movimiento
 
-El primer programa mueve el servo a diferentes posiciones, **automáticamente**, siguiendo una **secuencia**. Permanece durante **1 segundo** en cada posición, y pasa a la siguiente. El código **python** es:
+El primer programa mueve el servo a diferentes posiciones, **automáticamente**, siguiendo una **secuencia**. Permanece durante **1 segundo** en cada posición, y pasa a la siguiente. El código **python** es:  ([servo-fpga.py](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/python/servo-fpga.py))
 
 ```python
 #!/usr/bin/env python3
