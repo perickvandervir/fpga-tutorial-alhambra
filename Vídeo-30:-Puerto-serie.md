@@ -974,7 +974,7 @@ Para probar la aplición cargamos primero el **hardware en la FPGA**, y luego el
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/arduino-fpga-04.png)
 
-En este **vídeo** lo vemos en acción. Primero se carga el hardware y luego el software. Al hacerlo vemos cómo el contador se empieza a incrementar, y escuchamos los pitidos. Luego abrimos un terminal y cambiamos de posición el interruptor. Cada vez que hay un cambio aparece un mensaje en la consola. Si nos fijamos en el LED de arduino veremos que cambia su estado según el valor de este interruptor
+En este **vídeo** lo vemos en acción. Primero se carga el hardware y luego el software. Al hacerlo vemos cómo el contador se empieza a incrementar, y escuchamos los pitidos. Si se aprieta el pulsador de reset del Arduino, el contador dejará de incrementarse. Luego abrimos un terminal y cambiamos de posición el interruptor. Cada vez que hay un cambio aparece un mensaje en la consola. Si nos fijamos en el LED de arduino veremos que cambia su estado según el valor de este interruptor
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]())
 
