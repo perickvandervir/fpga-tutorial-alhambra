@@ -981,8 +981,11 @@ En este **vídeo** lo vemos en acción. Primero se carga el hardware y luego el 
 
 ## Comunicando los programas del PC con los circuitos
 
-  * Ej. de posicionamiento del servo, pero desde program en python
-  * ¿slider en jupyter?
+Para comunicar el PC con los circuitos hemos usado un **terminal de comunicaciones**. Pero... ¿Y no podemos hacer **nuestros propio programas**? ¡Claro que sí! Sólo tenemos que **abrir** el puerto serie y realizar las operaciones de **lectura** y **escritura**. De esa forma, nuestro programa intercambiará datos con la FPGA
+
+El cómo realizar la aplicación depende del **lenguaje de programación** usado. Veremos dos ejemplos en **python**: uno que se ejecuta desde la linea de comandos y otro en un **notebook de Jupyter**. Los aplicaremos al **movimiento de un servo**
+
+  (TODO)
 
 
 ## Comunicación bluetooth-serie
