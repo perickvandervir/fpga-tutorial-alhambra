@@ -898,7 +898,7 @@ La **FPGA** ofrece **dos servicios** al **Arduino** a través del puerto serie: 
 
 ### Servidor hardware en la FPGA
 
-El montaje es el siguiente. La FPGA está conectada al **display de 7 segmentos**, un **zumbador**, un **LED** y un **interruptor**. Cuando se recibe el **comando 'i'** se emite un pitido por el zumbador y un parpadeo en el LED. Además, la FPGA está conectada al Arduino mediante 2 cables y masa
+El **montaje** es el siguiente. La FPGA está conectada al **display de 7 segmentos**, un **zumbador**, un **LED** y un **interruptor**. Cuando se recibe el **comando 'i'** se emite un pitido por el zumbador y un parpadeo en el LED. Además, la FPGA está conectada al Arduino mediante 2 cables y masa
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/arduino-fpga-02.png)
 
