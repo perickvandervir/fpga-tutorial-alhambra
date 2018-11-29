@@ -884,6 +884,8 @@ La **conexión** entre **Arduino** y la **FPGA** la haremos mediante 3 cables: *
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-fpga-01.png)
 
+Usaremos estos **pines** para el **ejemplo**:
+
 | Pin Arduino  |  Pin Alhambra | Descripción  |
 |--------------|---------------|--------------|
 |  D11         |   D11         | TX. Datos: Arduino->FPGA  |
