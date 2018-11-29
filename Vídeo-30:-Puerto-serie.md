@@ -931,7 +931,6 @@ void setup()
    Serial.println("Probando...");
 }
 
-
 void loop()
 { 
   char c;
