@@ -977,7 +977,7 @@ Para probar la aplición cargamos primero el **hardware en la FPGA**, y luego el
 
 En este **vídeo** lo vemos en acción. Primero se carga el hardware y luego el software. Al hacerlo vemos cómo el contador se empieza a incrementar, y escuchamos los pitidos. Si se aprieta el pulsador de reset del Arduino, el contador dejará de incrementarse. Luego abrimos un terminal y cambiamos de posición el interruptor. Cada vez que hay un cambio aparece un mensaje en la consola. Si nos fijamos en el LED de arduino veremos que cambia su estado según el valor de este interruptor
 
-[![Click to see the youtube video](http://img.youtube.com/vi/kKfWSSlbSmY/0.jpg)](https://www.youtube.com/watch?v=kKfWSSlbSmY))
+[![Click to see the youtube video](http://img.youtube.com/vi/kKfWSSlbSmY/0.jpg)](https://www.youtube.com/watch?v=kKfWSSlbSmY)
 
 ## Comunicando los programas del PC con los circuitos
 
