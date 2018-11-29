@@ -882,7 +882,13 @@ Otra forma de comunicarnos con **Arduino** es usando el puerto serie. En vez de 
 
 La **conexión** entre **Arduino** y la **FPGA** la haremos mediante 3 cables: **GND**, **TX** y **RX**. La FPGA actúa como un **Servidor**, ofreciendo servicios al Arduino, que es el **Cliente**
 
-(Dibujo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Arduino-fpga-01.png)
+
+| Pin Arduino  |  Pin Alhambra | Descripción  |
+|--------------|---------------|--------------|
+|  D11         |   D11         | TX. Datos: Arduino->FPGA  |
+|  D10         |   D10         | RX. Datos: FPGA->Arduino  |
+|  GND         |   GND         | Masa         |
 
 
  Como ejemplo, haremos un circuito en la FPGA que ofrece **dos servicios** al **Arduino** a través del puerto serie. Cuando el Arduino envía el **comando 'i'**, la FPGA incrementa un **contador módulo 10** que se muestra en un **display de 7 segmentos**. Cuando recibe el comando 'r', devuelve el estado de un interruptor, como un dígito ASCII: '0' ó '1'
