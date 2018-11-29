@@ -56,6 +56,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Servidor hardware en la FPGA](#servidor-hardware-en-la-fpga)
     * [Software en el arduino](#software-en-el-arduino)
     * [Probando la aplicación](#probando-la-aplicaci%C3%B3n)
+  * [Comunicando los programas del PC con los circuitos](#comunicando-los-programas-del-pc-con-los-circuitos)
 * [Ejercicios propuestos (25 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
