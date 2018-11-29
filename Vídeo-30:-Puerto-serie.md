@@ -898,9 +898,24 @@ La **FPGA** ofrece **dos servicios** al **Arduino** a través del puerto serie: 
 
 ### Servidor hardware en la FPGA
 
+El montaje es el siguiente. La FPGA está conectada al **display de 7 segmentos**, un **zumbador**, un **LED** y un **interruptor**. Cuando se recibe el **comando 'i'** se emite un pitido por el zumbador y un parpadeo en el LED. Además, la FPGA está conectada al Arduino mediante 2 cables y masa
+
+(Montaje)
+
+(circuito)
+
 ### Software en el Arduino
 
+(Software)
+
 ### Probando la aplicación
+
+(Vídeo)
+
+## Comunicando los programas del PC con los circuitos
+
+  * Ej. de posicionamiento del servo, pero desde program en python
+  * ¿slider en jupyter?
 
 
 ## Comunicación bluetooth-serie
@@ -908,10 +923,6 @@ La **FPGA** ofrece **dos servicios** al **Arduino** a través del puerto serie: 
   * EJemplo del eco desde el movil  (terminal android)
   * Posicionamiento del servo en diferentes posiciones según las pulsaciones (aplicación que no es terminal)
 
-## Comunicando los programas del PC con los circuitos
-
-  * Ej. de posicionamiento del servo, pero desde program en python
-  * ¿slider en jupyter?
 
 (TODO)
 
