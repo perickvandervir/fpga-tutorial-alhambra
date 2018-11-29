@@ -1041,10 +1041,14 @@ python3 servo-fpga.py
 
 [![Click to see the youtube video](http://img.youtube.com/vi/3xqJ8v76_xo/0.jpg)](https://www.youtube.com/watch?v=3xqJ8v76_xo)
 
-  (TODO)
-
+(TODO)
+(Descripción del programa)
 
 ### Ejemplo 17: Control interactivo del servo
+
+(Mostrar pantallazo jupyter)  
+
+(Vídeo del notebook en acción)
 
 (TODO)
 
@@ -1056,8 +1060,6 @@ python3 servo-fpga.py
 
 (TODO)
 
-* Otro ejemplo: habilitar/deshabilitar conexión con un pulsador  
-* sudo usermod -a -G dialout $USER
 * [Más info. Tutorial verilog](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Cap%C3%ADtulo-20%3A-Comunicaciones-serie-as%C3%ADncronas)
 
 # Ejercicios propuestos (25 BitPoints)
