@@ -893,10 +893,14 @@ Usaremos estos **pines** para el **ejemplo**:
 |  GND         |   GND         | Masa         |
 
 
- Como ejemplo, haremos un circuito en la FPGA que ofrece **dos servicios** al **Arduino** a través del puerto serie. Cuando el Arduino envía el **comando 'i'**, la FPGA incrementa un **contador módulo 10** que se muestra en un **display de 7 segmentos**. Cuando recibe el comando 'r', devuelve el estado de un interruptor, como un dígito ASCII: '0' ó '1'
+La **FPGA** ofrece **dos servicios** al **Arduino** a través del puerto serie: incremento de un **contador** y lectura de un **interruptor**. Se implementan con los **comandos 'i'** y **'r'**. Cuando el Arduino envía una 'i', la FPGA incrementa un **contador módulo 10**, que se muestra en el **display de 7 segmentos**. Cuando envía el **comando 'r'**, la FPGA devuelve el **estado del interruptor**: dígito '0' cuando si está a 0, y dígito '1' si está a 1
 
+### Servidor hardware en la FPGA
 
-  * Arduino: envia comando para incrementar el contador. FPGA: lo muestra en 7-seg y devuelve el siguiente valor al Arduino. Arduino enciende el led si es par, y lo apaga si es impar
+### Software en el Arduino
+
+### Probando la aplicación
+
 
 ## Comunicación bluetooth-serie
 
