@@ -911,7 +911,7 @@ Este es el circuito que implementa el **servidor hardware**. Mediante un **compa
 
 El **Arduino** es el cliente, que solicita los **servicios** al **hardware**. Haremos un programa que incremente el contador cada **500 ms**, y que lea el **estado del interruptor** de la FPGA para **actualizar su LED** y enviar los cambios al **PC** para verlos en un terminal
 
-En el Arduino se usan **dos puertos serie**. El implementado con la biblioteca **SoftwareSerial.h** es el que usaremos para comunicarnos con la FPGA, dejando el otro para enviar mensajes al PC y depurar el código. El programa es el siguiente:
+En el Arduino se usan **dos puertos serie**. El implementado con la biblioteca **SoftwareSerial.h** es el que usaremos para comunicarnos con la FPGA, dejando el otro para enviar mensajes al PC y depurar el código. El **programa** es el siguiente:
 
 ```c
 #include <SoftwareSerial.h>
