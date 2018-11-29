@@ -968,8 +968,6 @@ void loop()
 }
 ```
 
-(TODO)
-
 ### Probando la aplicación
 
 (Vídeo)
