@@ -991,6 +991,8 @@ Para nuestro servidor hardware usaremos el mismo [circuito del ejemplo 11](#ejem
 
 ### Software en el PC
 
+En el ordenador tenemos que tener instalado [python3](https://www.python.org/download/releases/3.0/), [Jupyter Notebook](http://jupyter.org/), para hacer programas interactivos desde el navegador y la bibliote [pyserial](https://github.com/pyserial/pyserial), para acceder al puerto serie
+
 (TODO)
 
 ### Ejemplo 16: Secuencia de movimiento
