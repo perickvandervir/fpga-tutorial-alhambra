@@ -985,6 +985,10 @@ Para comunicar el PC con los circuitos hemos usado un **terminal de comunicacion
 
 El cómo realizar la aplicación depende del **lenguaje de programación** usado. Veremos dos ejemplos en **python**: uno que se ejecuta desde la linea de comandos y otro en un **notebook de Jupyter**. Los aplicaremos al **movimiento de un servo**
 
+### Servidor hardware
+
+Para nuestro servidor hardware usaremos el mismo circuito del ejemplo 11, que posicionar el servo en la posición indicada. Hay dos comandos especiales: la 'e' para habilitar y la 'd' para deshabiliarlo
+
   (TODO)
 
 
