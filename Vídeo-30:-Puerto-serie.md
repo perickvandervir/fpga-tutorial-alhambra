@@ -987,10 +987,20 @@ El cómo realizar la aplicación depende del **lenguaje de programación** usado
 
 ### Servidor hardware
 
-Para nuestro servidor hardware usaremos el mismo circuito del ejemplo 11, que posicionar el servo en la posición indicada. Hay dos comandos especiales: la 'e' para habilitar y la 'd' para deshabiliarlo
+Para nuestro servidor hardware usaremos el mismo [circuito del ejemplo 11](#ejemplo-11-control-de-un-servo-a-cualquier-posici%C3%B3n), que **mueve el servo** a la **posición** indicada. Hay dos comandos especiales: la 'e' para **habilitar** y la 'd' para **deshabiliarlo**
+
+### Software en el PC
+
+(TODO)
+
+### Ejemplo 16: Secuencia de movimiento
 
   (TODO)
 
+
+### Ejemplo 17: Control interactivo del servo
+
+(TODO)
 
 ## Comunicación bluetooth-serie
 
