@@ -902,7 +902,9 @@ El **montaje** es el siguiente. La FPGA está conectada al **display de 7 segmen
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/arduino-fpga-02.png)
 
-(circuito)
+Este es el circuito que implementa el **servidor hardware**. Mediante un **comparador** y una **puerta AND** se obtiene el **tic de comando**, que aparece al llegar cada comando. El **tic del comando 'i'** incrementa el contador, genera el pitido y el parpadeo del LED. El **tic del comando 'r'** se usa para transmitir el **estado del interruptor**. El interruptor tiene sólo **1 bit**, y para enviarlo hay que rellenar hasta los 8 bits. Pero si se rellena colocando el número **3** en los **4 bits de mayor peso**, conseguimos convertirlo al dígito '0' ó '1', ya que sus códigos ASCII son 0x30 y 0x31 respectivamente
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/arduino-fpga-03.png)
 
 ### Software en el Arduino
 
