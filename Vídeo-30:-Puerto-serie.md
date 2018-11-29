@@ -1033,6 +1033,14 @@ with serial.Serial(SERIAL_PORT, 115200) as sp:
     sp.write(b'd');
 ```
 
+Este programa es **multiplataforma**. Yo lo estoy probando en **Ubuntu Linux**, pero funciona también en **Mac** y **windows**. Sólo hay que **modificar el nombre del puerto serie**. En este **vídeo** se muestra el programa en **acción**. Lo ejecutamos así:
+
+```
+python3 servo-fpga.py
+``` 
+
+(Video)
+
   (TODO)
 
 
