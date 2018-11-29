@@ -1039,7 +1039,7 @@ Este programa es **multiplataforma**. Yo lo estoy probando en **Ubuntu Linux**, 
 python3 servo-fpga.py
 ``` 
 
-(Video)
+[![Click to see the youtube video](http://img.youtube.com/vi/3xqJ8v76_xo/0.jpg)](https://www.youtube.com/watch?v=3xqJ8v76_xo)
 
   (TODO)
 
