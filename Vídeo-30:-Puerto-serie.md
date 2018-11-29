@@ -998,6 +998,12 @@ En el ordenador tenemos que tener instalado [python3](https://www.python.org/dow
 
 ### Ejemplo 16: Secuencia de movimiento
 
+El primer programa mueve el servo a diferentes posiciones, **automáticamente**, siguiendo una **secuencia**. Permanece durante **1 segundo** en cada posición, y pasa a la siguiente. El código **python** es:
+
+```python
+
+```
+
   (TODO)
 
 
