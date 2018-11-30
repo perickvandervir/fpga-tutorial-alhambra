@@ -1058,6 +1058,12 @@ Una vez abierto, este es el aspecto que tendrá la página en el navegador
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/jupyter-fpga-03.png)
 
+Conectamos la FPGA, nos aseguramos que en el código hemos puesto el **nombre correcto** del puerto serie y **ejecutamos** el cuaderno, desde la opción **Cell/Run All**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/jupyter-fpga-02.gif)
+
+En la **última celda** tenemos una **barra de desplazamiento** horizontal que es la que nos permite mover el servo, y habilitarlo o deshabilitarlo con la **casilla de verificación**
+
 (Vídeo del notebook en acción)
 
 (TODO)
