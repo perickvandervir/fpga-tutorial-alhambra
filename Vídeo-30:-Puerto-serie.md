@@ -1066,8 +1066,9 @@ En la **última celda** tenemos una **barra de desplazamiento** horizontal que e
 
 En este **vídeo** lo vemos en funcionamiento. Los pitidos que se escuchan son los emitidos en el zumbador cada vez que se recibe un byte. Deshabilitando el servo lo podemos mover con la mano. Una vez habilitado lo posicionamos con la barra
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/c4t_ZIDCH3s/0.jpg)](https://www.youtube.com/watch?v=c4t_ZIDCH3s)
 
+¡Es muy divertido! :-)
 
 ## Comunicación bluetooth-serie
 
