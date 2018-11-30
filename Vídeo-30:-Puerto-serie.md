@@ -1041,8 +1041,11 @@ python3 servo-fpga.py
 
 [![Click to see the youtube video](http://img.youtube.com/vi/3xqJ8v76_xo/0.jpg)](https://www.youtube.com/watch?v=3xqJ8v76_xo)
 
-(TODO)
-(Descripción del programa)
+El programa **abre** el puerto serie, a la velocidad de **115200 baudios** y crea el objeto **sp**, con el que accederemos a él. Primero habilita el servo, enviando el comando 'e'. Esto se hace llamando al método **write** de sp. En **python3** indicamos que un  carácter es de tipo **byte** colocando una **b** delante, y luego el carácter. Así, **b'e'**, representa el **carácter ASCII e**, cuyo valor es 0x65
+
+En pos colocamos las posiciones a las que queremos que se mueva el servo en la secuencia. Para los servos **Futaba 3003**, estas posiciones están comprendidas entre **60** y **225**. El bucle principal accede a todas las posiciones de la lista, y las envía la FPGA. Es necesario convertirlas al tipo **byte** usando la expresión **bytes([p])**, y luego se transmiten con write.
+
+Por último se **deshabilita** el servo enviando el **comando 'd'** 
 
 ### Ejemplo 17: Control interactivo del servo
 
