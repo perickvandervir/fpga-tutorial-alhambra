@@ -1050,9 +1050,13 @@ Por último se **deshabilita** el servo enviando el **comando 'd'**
 
 ### Ejemplo 17: Control interactivo del servo
 
-Usaremos un **cuaderno de python** en **Jupyter** para mover el servo de manera **interactiva** desde el navegador. Lazamos Jupyter y abrimos el cuaderno [servo-fpga.ipynb](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/python/servo-fpga.ipynb)
+Usaremos un **cuaderno de python** en **Jupyter** para mover el servo de manera **interactiva** desde el navegador. Lazamos **Jupyter** y abrimos el cuaderno [servo-fpga.ipynb](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/python/servo-fpga.ipynb)
 
-(Mostrar pantallazo jupyter)  
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/jupyter-fpga-01.gif)
+
+Una vez abierto, este es el aspecto que tendrá la página en el navegador
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/jupyter-fpga-03.png)
 
 (Vídeo del notebook en acción)
 
