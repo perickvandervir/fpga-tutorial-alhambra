@@ -1064,9 +1064,10 @@ Conectamos la FPGA, nos aseguramos que en el código hemos puesto el **nombre co
 
 En la **última celda** tenemos una **barra de desplazamiento** horizontal que es la que nos permite mover el servo, y habilitarlo o deshabilitarlo con la **casilla de verificación**
 
-(Vídeo del notebook en acción)
+En este **vídeo** lo vemos en funcionamiento. Los pitidos que se escuchan son los emitidos en el zumbador cada vez que se recibe un byte. Deshabilitando el servo lo podemos mover con la mano. Una vez habilitado lo posicionamos con la barra
 
-(TODO)
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
 
 ## Comunicación bluetooth-serie
 
