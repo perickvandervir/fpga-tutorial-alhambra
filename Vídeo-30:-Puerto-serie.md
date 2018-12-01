@@ -1138,7 +1138,7 @@ Al apretar una tecla, el carácter correspondiente se **enviará**, y la **FPGA*
 
 En este **vídeo** se muestra todo el proceso
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/kyW-G4XlDvE/0.jpg)](https://www.youtube.com/watch?v=kyW-G4XlDvE)
 
 ### Ejemplo 19: Control de un servo desde el móvil
 
