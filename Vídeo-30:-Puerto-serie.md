@@ -1143,6 +1143,10 @@ En este **vídeo** se muestra todo el proceso
 
 ### Ejemplo 19: Control de un servo desde el móvil
 
+
+https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejemplo-11-control-de-un-servo-a-cualquier-posici%C3%B3n
+
+
 (TODO)
   * Posicionamiento del servo en diferentes posiciones según las pulsaciones (aplicación que no es terminal)
 
