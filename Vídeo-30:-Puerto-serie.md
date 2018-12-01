@@ -1073,6 +1073,8 @@ En este **vídeo** lo vemos en funcionamiento. Los pitidos que se escuchan son l
 
 ## Comunicación bluetooth-serie
 
+Conectando un **adaptador bluetooth-serie**, podemos comunicarnos con nuestros circuitos de forma **inalámbrica**, por ejemplo desde un **teléfono móvil**. Unos módulos muy extendidos son los [HC-05 y HC-06](http://diymakers.es/arduino-bluetooth/). Yo utilizaré el **módulo HC-05** 
+
   * EJemplo del eco desde el movil  (terminal android)
   * Posicionamiento del servo en diferentes posiciones según las pulsaciones (aplicación que no es terminal)
 
