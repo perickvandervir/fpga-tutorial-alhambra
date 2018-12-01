@@ -1079,7 +1079,7 @@ Conectando un **adaptador bluetooth-serie**, podemos comunicarnos con nuestros c
 
   El módulo que usaremos en estos ejemplos es el **HC-05**, pero el funcionamiento con otros módulos es similar
 
-(Foto módulo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-01.jpg)
 
 En este [tutorial de diymakers](http://diymakers.es/arduino-bluetooth/) hay **más información**, y en la [web de prometec](https://www.prometec.net/bt-hc05/). El módulo se puede conseguir en muchos sitios, por ejemplo en [BricoGeek](https://tienda.bricogeek.com/modulos-bluetooth/800-modulo-bluetooth-hc-05.html)
 
