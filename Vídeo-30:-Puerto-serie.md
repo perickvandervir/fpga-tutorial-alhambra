@@ -1148,16 +1148,11 @@ https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C
 
 (Desde BlueTerm)
 
-(Desde Arduino Bluetooth)
+(Desde Arduino Bluetooth, Mayoogh)
+https://github.com/Mayoogh/Arduino-Bluetooth-Basic/tree/master/LED%20Controller%20APK
 
 (TODO)
-  * Posicionamiento del servo en diferentes posiciones según las pulsaciones (aplicación que no es terminal)
-
-
-(TODO)
-
-* [Más info. Tutorial verilog](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Cap%C3%ADtulo-20%3A-Comunicaciones-serie-as%C3%ADncronas)
-
+ 
 # Ejercicios propuestos (25 BitPoints)
 
 Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejemplos/2-Ejercicios** de la colección de este tutorial
