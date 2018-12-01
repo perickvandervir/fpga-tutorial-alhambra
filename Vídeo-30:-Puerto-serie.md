@@ -1075,6 +1075,22 @@ En este **vídeo** lo vemos en funcionamiento. Los pitidos que se escuchan son l
 
 Conectando un **adaptador bluetooth-serie**, podemos comunicarnos con nuestros circuitos de forma **inalámbrica**, por ejemplo desde un **teléfono móvil**. Unos módulos muy extendidos son los [HC-05 y HC-06](http://diymakers.es/arduino-bluetooth/). Yo utilizaré el **módulo HC-05** 
 
+### Módulo HC-05
+
+  El módulo que usaremos en estos ejemplos es el **HC-05**, pero el funcionamiento con otros módulos es similar
+
+(Foto módulo)
+
+En este [tutorial de diymakers](http://diymakers.es/arduino-bluetooth/) hay **más información**, y en la [web de prometec](https://www.prometec.net/bt-hc05/). El módulo se puede conseguir en muchos sitios, por ejemplo en [BricoGeek](https://tienda.bricogeek.com/modulos-bluetooth/800-modulo-bluetooth-hc-05.html)
+
+La **alimentación** es entre **3.3v - 5v**, pero los pines de **transmisión** (TX) y **recepción** (RX) son de **3.3v**. En total tiene 6 pines:
+
+(Foto)
+
+| Pin   |  Descripción |
+|-------|--------------|
+| State | Actividad de transmisión - recepción. Pin opcional para conectar un LED
+
   * EJemplo del eco desde el movil  (terminal android)
   * Posicionamiento del servo en diferentes posiciones según las pulsaciones (aplicación que no es terminal)
 
