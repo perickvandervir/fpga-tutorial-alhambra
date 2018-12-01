@@ -1083,13 +1083,21 @@ Conectando un **adaptador bluetooth-serie**, podemos comunicarnos con nuestros c
 
 En este [tutorial de diymakers](http://diymakers.es/arduino-bluetooth/) hay **más información**, y en la [web de prometec](https://www.prometec.net/bt-hc05/). El módulo se puede conseguir en muchos sitios, por ejemplo en [BricoGeek](https://tienda.bricogeek.com/modulos-bluetooth/800-modulo-bluetooth-hc-05.html)
 
-La **alimentación** es entre **3.3v - 5v**, pero los pines de **transmisión** (TX) y **recepción** (RX) son de **3.3v**. En total tiene **6 pines**:
+La **alimentación** es entre **3.3v - 5v**, pero los pines de **transmisión** (TX) y **recepción** (RX) son de **3.3v**. En total tiene **6 pines**. Sólo utilizaremos 4: VCC, GND, TX y RX
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-02.png)
 
 | Pin   |  Descripción |
 |-------|--------------|
-| State | Actividad de transmisión - recepción. Pin opcional para conectar un LED
+| State | Actividad de transmisión - recepción. Pin opcional para conectar un LED |
+| Key   | Activar modo configuración del módulo |
+| VCC   | Alimentación (3.3v - 5v)              |
+| GND   | Masa                                  |
+| TX    | Transmisión de datos (**3.3v**)       |
+| RX    | Recepción de datos (**3.3v**)         |
+
+
+(TODO)
 
   * EJemplo del eco desde el movil  (terminal android)
   * Posicionamiento del servo en diferentes posiciones según las pulsaciones (aplicación que no es terminal)
