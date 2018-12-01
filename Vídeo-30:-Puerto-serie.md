@@ -1103,7 +1103,7 @@ Como los pines de TX y RX son de **3.3v**, los conectaremos a la **Icezum Alhamb
 
 En los ejemplos supondremos que el **módulo HC-05 ya está configurado**. Su configuración por defecto depende del firmware que lleven. En los míos están configurados de fábrica para trabajar a **38400 baudios**
 
-### Ejemplo 18: Usando el móvil como terminal
+### Ejemplo 18: Usando el móvil como terminal de comunicaciones
 
 
 
