@@ -1146,6 +1146,9 @@ En este **vídeo** se muestra todo el proceso
 
 https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejemplo-11-control-de-un-servo-a-cualquier-posici%C3%B3n
 
+(Desde BlueTerm)
+
+(Desde Arduino Bluetooth)
 
 (TODO)
   * Posicionamiento del servo en diferentes posiciones según las pulsaciones (aplicación que no es terminal)
