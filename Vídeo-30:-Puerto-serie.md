@@ -1132,9 +1132,7 @@ Lo **seleccionamos** y casi inmediatamente se conecta. El **LED** del módulo HC
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-09.png)
 
-(Screenshot)
-
-Al apretar una tecla, el carácter correspondiente se enviará, y la FPGA lo recebirá y se mostrará en binario en los LEDs. Veremos el LED parpadear y escucharemos el pitido corto. La FPGA re-envía el carácter y lo veremos aparecer en el terminal
+Al apretar una tecla, el carácter correspondiente se **enviará**, y la **FPGA** lo recebirá y se mostrará en binario en los **LEDs**. Veremos el **LED parpadear** y escucharemos el **pitido corto**. La FPGA re-envía el carácter y lo **veremos** en el **terminal**
 
 (Screenshot)
 
