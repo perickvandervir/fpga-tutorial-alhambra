@@ -1143,10 +1143,20 @@ En este **vídeo** se muestra todo el proceso
 
 ### Ejemplo 19: Control de un servo desde el móvil
 
+(ejemplo 11)
+
 
 https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejemplo-11-control-de-un-servo-a-cualquier-posici%C3%B3n
 
 (Desde BlueTerm)
+
+(Escenario)
+
+(Circuito)
+
+(Video)
+
+(Ejemplo 19-2)  
 
 (Desde Arduino Bluetooth, Mayoogh)
 https://github.com/Mayoogh/Arduino-Bluetooth-Basic/tree/master/LED%20Controller%20APK
