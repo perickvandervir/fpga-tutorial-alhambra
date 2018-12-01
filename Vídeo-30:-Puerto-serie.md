@@ -1144,7 +1144,9 @@ En este **vídeo** se muestra todo el proceso
 
 ### Control de un servo desde el móvil
 
-Como últimos ejemplos del tutorial, vamos a mover un **servo** desde el **teléfono móvil**, de dos formas: usando el **BlueTerm** y mediante una **APP con dos botones**
+Como últimos ejemplos del tutorial, vamos a mover un **servo** desde el **teléfono móvil**, de dos formas: usando el **BlueTerm** y mediante una **APP con dos botones**. El **montaje** es el mismo del ejemplo anterior, pero añadiendo un **servo**:
+
+(Escenario)
 
 #### Ejemplo 19: Control de un servo con BlueTerm
 
@@ -1154,8 +1156,6 @@ Como últimos ejemplos del tutorial, vamos a mover un **servo** desde el **telé
 https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejemplo-11-control-de-un-servo-a-cualquier-posici%C3%B3n
 
 (Desde BlueTerm)
-
-(Escenario)
 
 (Circuito)
 
