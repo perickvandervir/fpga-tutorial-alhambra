@@ -1134,9 +1134,11 @@ Lo **seleccionamos** y casi inmediatamente se conecta. El **LED** del módulo HC
 
 Al apretar una tecla, el carácter correspondiente se **enviará**, y la **FPGA** lo recebirá y se mostrará en binario en los **LEDs**. Veremos el **LED parpadear** y escucharemos el **pitido corto**. La FPGA re-envía el carácter y lo **veremos** en el **terminal**
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-10.png)
 
-(Vídeo)
+En este **vídeo** se muestra todo el proceso
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ### Ejemplo 19: Control de un servo desde el móvil
 
