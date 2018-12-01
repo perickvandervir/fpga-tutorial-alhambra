@@ -62,6 +62,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Ejemplo 16: Secuencia de movimiento](#ejemplo-16-secuencia-de-movimiento)
     * [Ejemplo 17: Control interactivo del servo](#ejemplo-17-control-interactivo-del-servo)
   * [Comunicación Bluetooth-serie](#comunicaci%C3%B3n-bluetooth-serie)
+    * [El módulo HC-05](#m%C3%B3dulo-hc-05)
 * [Ejercicios propuestos (25 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
