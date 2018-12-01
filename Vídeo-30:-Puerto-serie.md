@@ -1128,7 +1128,9 @@ Elegimos la opción de **conectarse a un dispositivo** y nos aparecezán la list
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-08.png)
 
-Lo seleccionamos y casi inmediatamente se conecta. El LED del módulo HC-05 ahora parpaderá de forma diferente: dos parpadeos rápidos y un segundo apagado (se repite esta secuencia). En la parte superior derecha del blueterm aparecerá el mensaje de conectado. Nos aparecerá también el teclado para enviar caracteres
+Lo **seleccionamos** y casi inmediatamente se conecta. El **LED** del módulo HC-05 ahora parpaderá de forma diferente: **dos parpadeos rápidos** y un segundo apagado (se repite esta secuencia). En la parte superior derecha del blueterm aparecerá el mensaje de **conectado**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-09.png)
 
 (Screenshot)
 
