@@ -1108,9 +1108,24 @@ En los ejemplos supondremos que el **módulo HC-05 ya está configurado**. Su co
 
 Repetiremos el [ejemplo 13 del eco](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejemplo-13-haciendo-eco-de-los-datos-recibidos), pero usaremos el **teléfono móvil** como terminal, en vez del PC. La APP que usaremos es el [BlueTerm](https://github.com/johnhowe/BlueTerm), que es **libre**, y está disponible en **google play** para su instalación fácilmente: [BlueTerm en Google Play](https://play.google.com/store/apps/details?id=es.pymasde.blueterm)
 
-(TODO)
+(Ejecución blueterm)
 
-  * EJemplo del eco desde el movil  (terminal android)
+(Montaje)
+
+(Circuito)
+
+(Explicación conexión)  
+  (hc-05 parpadea rápido: no apareado)
+  (conexión desde el móvil)  
+  (pantalla de conectado)
+  (animación funcionamiento)
+
+(Vídeo)
+
+
+### Ejemplo 19: Control de un servo desde el móvil
+
+(TODO)
   * Posicionamiento del servo en diferentes posiciones según las pulsaciones (aplicación que no es terminal)
 
 
