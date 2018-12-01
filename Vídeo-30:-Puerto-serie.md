@@ -1122,7 +1122,7 @@ Este es el **circuito** que hace **eco** de los caracteres recibidos. Se ha camb
 
 **Cargamos** el circuito en la **FPGA** y arrancamos el **BlueTerm**. El **LED rojo** del módulo HC-05 estará **parpadeando**, el mismo tiempo encendido que apagado, indicando que **NO hay conexión**. Desde el BlueTerm pinchamos en el botón inferior derecho para sacar el **menú**. 
 
-(Screenshot)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-07.png)
 
 Elegimos la opción de **conectarse a un dispositivo** y nos aparecezán la lista con todos los que se han encontrado. En mi caso el nombre que tiene asignado por defecto es **H-C-2010-06-01**
 
