@@ -1106,7 +1106,7 @@ En los ejemplos supondremos que el **módulo HC-05 ya está configurado**. Su co
 
 ### Ejemplo 18: Usando el móvil como terminal de comunicaciones
 
-Repetiremos el ejemplo 13 del eco, pero usaremos el teléfono móvil como terminal, en vez del PC.
+Repetiremos el [ejemplo 13 del eco](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejemplo-13-haciendo-eco-de-los-datos-recibidos), pero usaremos el **teléfono móvil** como terminal, en vez del PC.
 
 (TODO)
 
