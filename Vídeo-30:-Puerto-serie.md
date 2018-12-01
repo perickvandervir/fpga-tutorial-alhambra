@@ -1083,7 +1083,7 @@ Conectando un **adaptador bluetooth-serie**, podemos comunicarnos con nuestros c
 
 En este [tutorial de diymakers](http://diymakers.es/arduino-bluetooth/) hay **más información**, y en la [web de prometec](https://www.prometec.net/bt-hc05/). El módulo se puede conseguir en muchos sitios, por ejemplo en [BricoGeek](https://tienda.bricogeek.com/modulos-bluetooth/800-modulo-bluetooth-hc-05.html)
 
-La **alimentación** es entre **3.3v - 5v**, pero los pines de **transmisión** (TX) y **recepción** (RX) son de **3.3v**. En total tiene 6 pines:
+La **alimentación** es entre **3.3v - 5v**, pero los pines de **transmisión** (TX) y **recepción** (RX) son de **3.3v**. En total tiene **6 pines**:
 
 (Foto)
 
