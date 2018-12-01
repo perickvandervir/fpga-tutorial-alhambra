@@ -1101,6 +1101,12 @@ Como los pines de TX y RX son de **3.3v**, los conectaremos a la **Icezum Alhamb
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-03.png)
 
+En los ejemplos supondremos que el **módulo HC-05 ya está configurado**. Su configuración por defecto depende del firmware que lleven. En los míos están configurados de fábrica para trabajar a **38400 baudios**
+
+### Ejemplo 18: Usando el móvil como terminal
+
+
+
 (TODO)
 
   * EJemplo del eco desde el movil  (terminal android)
