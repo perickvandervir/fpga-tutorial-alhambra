@@ -1116,7 +1116,10 @@ Este es el **montaje** para el ejemplo. Tenemos el **LED** que parpade al recibi
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-05.png)
 
-(Circuito)
+Este es el **circuito** que hace **eco** de los caracteres recibidos. Se ha cambiado la **velocidad a 38400 baudios** y los pines de recepción y transmisión por **GP0** y **GP1** respectivamente
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-06.png)
+
 
 (Explicación conexión)  
   (hc-05 parpadea rápido: no apareado)
