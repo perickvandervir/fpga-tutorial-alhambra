@@ -1108,7 +1108,9 @@ En los ejemplos supondremos que el **módulo HC-05 ya está configurado**. Su co
 
 Repetiremos el [ejemplo 13 del eco](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejemplo-13-haciendo-eco-de-los-datos-recibidos), pero usaremos el **teléfono móvil** como terminal, en vez del PC. La APP que usaremos es el [BlueTerm](https://github.com/johnhowe/BlueTerm), que es **libre**, y está disponible en **google play** para su instalación fácilmente: [BlueTerm en Google Play](https://play.google.com/store/apps/details?id=es.pymasde.blueterm)
 
-(Ejecución blueterm)
+Este es el aspecto que tiene al abrirlo. En la parte superior derecha vemos el estado: **no conectado**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-04.png)
 
 (Montaje)
 
