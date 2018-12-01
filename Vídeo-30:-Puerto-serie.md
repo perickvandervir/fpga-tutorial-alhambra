@@ -1097,6 +1097,9 @@ La **alimentación** es entre **3.3v - 5v**, pero los pines de **transmisión** 
 | TX    | Transmisión de datos (**3.3v**)       |
 | RX    | Recepción de datos (**3.3v**)         |
 
+Como los pines de TX y RX son de **3.3v**, los conectaremos a la **Icezum Alhambra** en los pines **GP0** y **GP1** respectivamente, que son también de 3.3v. Este es el **esquema de conexionado**:
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-03.png)
 
 (TODO)
 
