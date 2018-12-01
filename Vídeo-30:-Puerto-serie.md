@@ -1141,7 +1141,9 @@ En este **vídeo** se muestra todo el proceso
 
 [![Click to see the youtube video](http://img.youtube.com/vi/kyW-G4XlDvE/0.jpg)](https://www.youtube.com/watch?v=kyW-G4XlDvE)
 
-### Ejemplo 19: Control de un servo desde el móvil
+### Control de un servo desde el móvil
+
+#### Ejemplo 19-1: Mediante BlueTerm
 
 (ejemplo 11)
 
@@ -1155,6 +1157,8 @@ https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C
 (Circuito)
 
 (Video)
+
+#### Ejemplo 19-2: Desde una APP propia del móvil
 
 (Ejemplo 19-2)  
 
