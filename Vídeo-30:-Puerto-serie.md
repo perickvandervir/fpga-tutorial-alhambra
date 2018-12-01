@@ -1120,15 +1120,23 @@ Este es el **circuito** que hace **eco** de los caracteres recibidos. Se ha camb
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-06.png)
 
+**Cargamos** el circuito en la **FPGA** y arrancamos el **BlueTerm**. El **LED rojo** del módulo HC-05 estará **parpadeando**, el mismo tiempo encendido que apagado, indicando que **NO hay conexión**. Desde el BlueTerm pinchamos en el botón inferior derecho para sacar el **menú**. 
 
-(Explicación conexión)  
-  (hc-05 parpadea rápido: no apareado)
-  (conexión desde el móvil)  
-  (pantalla de conectado)
-  (animación funcionamiento)
+(Screenshot)
+
+Elegimos la opción de **conectarse a un dispositivo** y nos aparecezán la lista con todos los que se han encontrado. En mi caso el nombre que tiene asignado por defecto es **H-C-2010-06-01**
+
+(Screenshot)
+
+Lo seleccionamos y casi inmediatamente se conecta. El LED del módulo HC-05 ahora parpaderá de forma diferente: dos parpadeos rápidos y un segundo apagado (se repite esta secuencia). En la parte superior derecha del blueterm aparecerá el mensaje de conectado. Nos aparecerá también el teclado para enviar caracteres
+
+(Screenshot)
+
+Al apretar una tecla, el carácter correspondiente se enviará, y la FPGA lo recebirá y se mostrará en binario en los LEDs. Veremos el LED parpadear y escucharemos el pitido corto. La FPGA re-envía el carácter y lo veremos aparecer en el terminal
+
+(Screenshot)
 
 (Vídeo)
-
 
 ### Ejemplo 19: Control de un servo desde el móvil
 
