@@ -1085,7 +1085,7 @@ Conectando un **adaptador bluetooth-serie**, podemos comunicarnos con nuestros c
 
 En este [tutorial de diymakers](http://diymakers.es/arduino-bluetooth/) hay **más información**, y en la [web de prometec](https://www.prometec.net/bt-hc05/). El módulo se puede conseguir en muchos sitios, por ejemplo en [BricoGeek](https://tienda.bricogeek.com/modulos-bluetooth/800-modulo-bluetooth-hc-05.html)
 
-La **alimentación** es entre **3.3v - 5v**, pero los pines de **transmisión** (TX) y **recepción** (RX) son de **3.3v**. En total tiene **6 pines**. Sólo utilizaremos 4: VCC, GND, TX y RX
+El módulo tiene un **LED rojo** que nos indica su estado: **conectado** o **no conectado**. La **alimentación** es entre **3.3v - 5v**, pero los pines de **transmisión** (TX) y **recepción** (RX) son de **3.3v**. En total tiene **6 pines**. Sólo utilizaremos 4: VCC, GND, TX y RX
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-02.png)
 
@@ -1111,6 +1111,8 @@ Repetiremos el [ejemplo 13 del eco](https://github.com/Obijuan/digital-electroni
 Este es el aspecto que tiene al abrirlo. En la parte superior derecha vemos el estado: **no conectado**. Tmbién entenderemos por qué se llama BlueTerm :-)
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-04.png)
+
+Este es el montaje para el ejemplo. Tenemos el **LED** que parpade al recibir un dato, el **zumbador** que emite un pitido también al recibir un dato, y el **módulo HC-05**
 
 (Montaje)
 
