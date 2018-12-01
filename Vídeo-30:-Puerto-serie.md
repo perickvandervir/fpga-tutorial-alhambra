@@ -1112,7 +1112,7 @@ Este es el aspecto que tiene al abrirlo. En la parte superior derecha vemos el e
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-04.png)
 
-Este es el montaje para el ejemplo. Tenemos el **LED** que parpade al recibir un dato, el **zumbador** que emite un pitido también al recibir un dato, y el **módulo HC-05**
+Este es el **montaje** para el ejemplo. Tenemos el **LED** que parpade al recibir un dato, el **zumbador** que emite un pitido también al recibir un dato, y el **módulo HC-05**
 
 (Montaje)
 
