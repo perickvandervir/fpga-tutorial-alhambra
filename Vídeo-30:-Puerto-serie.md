@@ -1161,10 +1161,15 @@ Lo **cargamos** y lo **probamos**. Con las teclas **'e'** y **'d'** habilitamos 
 
 #### Ejemplo 20: Desde una APP propia del móvil
 
-(Ejemplo 19-2)  
+El Blueterm es una herramienta muy útil para hacer **prototipado rápido**, **depurar** y comprobar que la **comunicación funciona**. Sin embargo, para controlar servos u otros dipositivos es mejor hacerte tu **propia APP** en el móvil
 
-(Desde Arduino Bluetooth, Mayoogh)
-https://github.com/Mayoogh/Arduino-Bluetooth-Basic/tree/master/LED%20Controller%20APK
+Este no es un tutorial de diseños de APP para el móvil. Por eso utilizaremos una ya hecha: [Arduino Bluetooth Basic](https://github.com/Mayoogh/Arduino-Bluetooth-Basic) de [Mayoogh Girish](https://github.com/Mayoogh). Es una APP "hola mundo" que tiene sólo **2 botones**, para encender y apagar un LED. Se trata de una **APP libre**: todo su **código fuente** está disponible en github, y tenemos la **libertad** para estudiar el código y modificarlo
+
+(Screenshot)
+
+Además de encender y apagar un **LED**, añadiremos un **servo**, para que se mueve entre **dos posiciones** predeterminadas. La APP envía el **dígito '1'** al apretar el **botón ON**, y el **dígito '0'** al **apretar OFF**. El circuito que cargamos en la **FPGA** es el siguiente:
+
+(circuito)
 
 (TODO)
  
