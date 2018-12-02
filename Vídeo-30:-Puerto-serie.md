@@ -1167,13 +1167,14 @@ Este no es un tutorial de diseños de APP para el móvil. Por eso utilizaremos u
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-13.png)
 
-Además de encender y apagar un **LED**, añadiremos un **servo**, para que se mueve entre **dos posiciones** predeterminadas. La APP envía el **dígito '1'** al apretar el **botón ON**, y el **dígito '0'** al **apretar OFF**. El circuito que cargamos en la **FPGA** es el siguiente:
+Además de encender y apagar un **LED**, añadiremos un **servo**, para que se mueve entre **dos posiciones** predeterminadas. La APP envía el **dígito '1'** al apretar el **botón ON**, y el **dígito '0'** al **apretar OFF**. El circuito que cargamos en la **FPGA** es el siguiente. Usamos el servobit y en función del carácter detectdo se mueve el servo a una posición u otra 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-14.png)
 
-(Vídeo)
+En este **vídeo** lo vemos en acción. Una vez establecida la conexión, al apretar el botón de ON el servo se mueve, y el LED 7 se enciende. Al apretar el botón de OFF se mueve a la otra posición y el LED se apaga
 
-(TODO)
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
  
 # Ejercicios propuestos (25 BitPoints)
 
