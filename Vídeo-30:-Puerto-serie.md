@@ -66,6 +66,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
     * [Ejemplo 18: Usando el móvil como terminal de comunicaciones](#ejemplo-18-usando-el-m%C3%B3vil-como-terminal-de-comunicaciones)
     * [Control de un servo desde el móvil](#control-de-un-servo-desde-el-m%C3%B3vil)
       * [Ejemplo 19: Control de un servo con blueterm](#ejemplo-19-control-de-un-servo-con-blueterm)
+      * [Ejemplo 20: Desde una APP propia en el móvil](#ejemplo-20-desde-una-app-propia-del-m%C3%B3vil)
 * [Ejercicios propuestos (25 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejercicios-propuestos-25-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
