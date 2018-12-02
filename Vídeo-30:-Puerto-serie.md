@@ -1152,10 +1152,9 @@ Como últimos ejemplos del tutorial, vamos a mover un **servo** desde el **telé
 
 En el [ejemplo 11](#ejemplo-11-control-de-un-servo-a-cualquier-posici%C3%B3n) movimos el servo desde el terminal del PC. Hacerlo con el móvil desde BlueTerm es inmediato. Sólo hay que *modificar** el circuito para **cambiar los pines** y la **velocidad**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-12.png)
 
-
-
-(Circuito)
+Lo **cargamos** y lo **probamos**. Con las teclas **'e'** y **'d'** habilitamos y deshabilitamos el servo. Con el resto de teclas el servo alcanza la posición indicada por su código ASCII
 
 (Video)
 
