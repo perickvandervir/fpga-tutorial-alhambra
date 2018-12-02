@@ -1173,7 +1173,7 @@ Además de encender y apagar un **LED**, añadiremos un **servo**, para que se m
 
 En este **vídeo** lo vemos en acción. Una vez establecida la conexión, al apretar el botón de ON el servo se mueve, y el LED 7 se enciende. Al apretar el botón de OFF se mueve a la otra posición y el LED se apaga
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/Y-4oLYBwik8/0.jpg)](https://www.youtube.com/watch?v=Y-4oLYBwik8)
 
  
 # Ejercicios propuestos (25 BitPoints)
