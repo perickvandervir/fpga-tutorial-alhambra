@@ -1169,7 +1169,9 @@ Este no es un tutorial de diseños de APP para el móvil. Por eso utilizaremos u
 
 Además de encender y apagar un **LED**, añadiremos un **servo**, para que se mueve entre **dos posiciones** predeterminadas. La APP envía el **dígito '1'** al apretar el **botón ON**, y el **dígito '0'** al **apretar OFF**. El circuito que cargamos en la **FPGA** es el siguiente:
 
-(circuito)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/blue-tooth-14.png)
+
+(Vídeo)
 
 (TODO)
  
