@@ -1157,7 +1157,7 @@ En el [ejemplo 11](#ejemplo-11-control-de-un-servo-a-cualquier-posici%C3%B3n) mo
 
 Lo **cargamos** y lo **probamos**. Con las teclas **'e'** y **'d'** habilitamos y deshabilitamos el servo. Con el resto de teclas el servo alcanza la posición indicada por su código ASCII
 
-(Video)
+[![Click to see the youtube video](http://img.youtube.com/vi/oD_c0Kj9fxs/0.jpg)](https://www.youtube.com/watch?v=oD_c0Kj9fxs)
 
 #### Ejemplo 20: Desde una APP propia del móvil
 
