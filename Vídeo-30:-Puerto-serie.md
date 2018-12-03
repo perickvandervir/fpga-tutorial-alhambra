@@ -1192,7 +1192,7 @@ La cadena se envía cuando se aprieta un **pulsador**. Además se emite un **par
 
 **Consejo**. Para implementar este circuito se propone lo siguiente:
 
-1. Basarse en el **ejemplo 6-1**
+1. Basarse en el [ejemplo 6-1](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejemplo-6-1-enviando-una-cadena)
 2. Hacer primero un circuito que imprima una cadena acabada en 0  
 3. Modificar el circuito para enviar 2 cadenas, cada una en una memoria, en  
 función del selecctor
