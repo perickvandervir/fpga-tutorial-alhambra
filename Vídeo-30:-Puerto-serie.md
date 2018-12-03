@@ -1191,7 +1191,7 @@ Las dos cadenas deben estar almacenadas en **dos ficheros**: **msg0.list** y **m
 
 La cadena se envía cuando se aprieta un **pulsador**. Además se emite un **parpadeo** en un **LED** cuando se haya terminado de enviar la cadena
 
-**Consejo**. Para implementar este circuito se propone lo siguiente:
+**Sugerencia**. Para implementar este circuito se propone lo siguiente:
 
 1. Basarse en el [ejemplo 6-1](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejemplo-6-1-enviando-una-cadena)
 2. Hacer primero un circuito que imprima una cadena acabada en 0  
