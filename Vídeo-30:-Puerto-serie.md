@@ -69,6 +69,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
       * [Ejemplo 20: Desde una APP propia en el móvil](#ejemplo-20-desde-una-app-propia-del-m%C3%B3vil)
 * [Ejercicios propuestos (25 Bitpoints)](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejercicios-propuestos-25-bitpoints)
   * [Ejercicio 30.1 (5 Bitpoints)](#ejercicio-301-total-5-bitpoints)
+  * [Ejercicio 30.2 (5 Bitpoints)](#ejercicio-302-total-5-bitpoints)
 * [Ejercicios entregados](#ejercicios-entregados)
 * [Autor](#autor)
 * [Licencia](#licencia)
