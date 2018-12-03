@@ -1218,7 +1218,7 @@ El dato enviado consta de los **dos dígitos** (unidades y decenas) y un **fin d
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-## Ejercicio 30.4 (5 Bitpoints). Ejercicio Libre. 
+## Ejercicio 30.4 (5 Bitpoints). Ejercicio Libre 
 
 Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
