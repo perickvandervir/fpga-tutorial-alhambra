@@ -1217,7 +1217,7 @@ El dato enviado consta de los **dos dígitos** (unidades y decenas) y un **fin d
 
 ## Ejercicio 30.3 (Total 10 Bitpoints): Control de Franky por puerto serie 
 
-Diseñar un circuito para controlar a **Franky** a través del puerto serie. Hay tres comandos de posición: **q**,**w** y **e** que hacen que los ojos de franky apunten tres direcciones: izquierda, centro y derecha (son las posiciones del servo 0x3C,0xE1 y 0x80)
+Diseñar un circuito para controlar a **Franky** a través del puerto serie. Hay tres comandos de posición: **q**,**w** y **e** que hacen que los ojos de franky apunten en tres direcciones: izquierda, centro y derecha (son las posiciones del servo 0x3C,0xE1 y 0x80)
 
 Mediante la **barra espaciadora** activamos el **modo de disparo**, haciendo parpadear sus ojos a la frecuencia de **10Hz** y emitiendo pitidos cortos de **1Khz** con una cadencia de **10Hz**. Si mientras está disparando apretamos nuevamente la barra espaciadora dejará de hacerlo.  
 
