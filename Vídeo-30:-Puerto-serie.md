@@ -1201,7 +1201,7 @@ función del selecctor
 
 [![Click to see the youtube video](http://img.youtube.com/vi/7mN4jco22rE/0.jpg)](https://www.youtube.com/watch?v=7mN4jco22rE)
 
-## Ejercicio 30.2 (Total 5 Bitpoints): 
+## Ejercicio 30.2 (Total 5 Bitpoints): Contador de pasadas del spiner
 
 [![Click to see the youtube video](http://img.youtube.com/vi/WtYEhqFWQLo/0.jpg)](https://www.youtube.com/watch?v=WtYEhqFWQLo)
 
