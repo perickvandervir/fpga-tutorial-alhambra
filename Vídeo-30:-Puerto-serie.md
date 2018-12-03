@@ -1213,11 +1213,13 @@ El dato enviado consta de los **dos dígitos** (unidades y decenas) y un **fin d
 
 [![Click to see the youtube video](http://img.youtube.com/vi/WtYEhqFWQLo/0.jpg)](https://www.youtube.com/watch?v=WtYEhqFWQLo)
 
-* **Ejercicio 30.3** (Total **10 Bitpoints**): 
+## Ejercicio 30.3 (Total 10 Bitpoints): Control de Franky por puerto serie 
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-* **Ejercicio 30.4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
+## Ejercicio 30.4 (5 Bitpoints). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
+
+* **Sugerencia**: Modificador cualquiera los ejercicios anteriores para poder usarse desde un móvil, con un conversor bluetooth-serie 
 
 # Ejercicios entregados
 
