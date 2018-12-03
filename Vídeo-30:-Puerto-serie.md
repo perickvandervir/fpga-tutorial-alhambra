@@ -1203,6 +1203,14 @@ función del selecctor
 
 ## Ejercicio 30.2 (Total 5 Bitpoints): Contador de pasadas del spiner
 
+
+Diseñar un circuito para **contar** las pasadas que da un **spiner** sobre un **sensor de infrarrojos** y enviar el valor del **contador** por el puerto serie.  La cuenta será de **00 a 99**, y cuando  
+alcance el final volverá a comenzar. Con cada paso de un brazo del spiner por el IR se envía el valor
+
+El dato enviado consta de los **dos dígitos** (unidades y decenas) y un **fin de linea** (\n)
+
+**Sugerencia**. Basarse en el [ejemplo 6-1](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejemplo-6-1-enviando-una-cadena). Por cada tic del IR hay que enviar 3 caracteres: Las decenas, las unidades y el fin de línea. En vez de almacenar la información en la memoria, los datos a enviar provienen de un multiplexor, conectado a los contadores de unidades y decenas y a la constalte de salto de línea
+
 [![Click to see the youtube video](http://img.youtube.com/vi/WtYEhqFWQLo/0.jpg)](https://www.youtube.com/watch?v=WtYEhqFWQLo)
 
 * **Ejercicio 30.3** (Total **10 Bitpoints**): 
