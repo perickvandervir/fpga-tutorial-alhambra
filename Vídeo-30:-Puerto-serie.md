@@ -1183,6 +1183,20 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Eje
 **Resumen**:
 
 * **Ejercicio 30.1** (Total **5 Bitpoints**): 
+Diseñar un circuito digital que transmita **dos cadenas** por el **puerto serie** en función de un **interruptor de selección**. El final de las cadenas se determina por el **número 0** (0x00), en vez de por su tamaño (como hemos hecho en los ejemplos). Es decir, que el circuito envía caracteres por el puerto serie hasta que detecta un 0. En ese momento para
+
+Las dos cadenas deben estar almacenadas en **dos ficheros**: **msg0.list** y **msg1.list**.  La **logitud máxima** de estas cadenas es de **64 bytes** (necesario para dimensionar las tablas)
+
+La cadena se envía cuando se aprieta un **pulsador**. Además se emite un **parpadeo** en un **LED** cuando se haya terminado de enviar la cadena
+
+**Consejo**. Para implementar este circuito se propone lo siguiente:
+
+1. Basarse en el **ejemplo 6-1**
+2. Hacer primero un circuito que imprima una cadena acabada en 0  
+3. Modificar el circuito para enviar 2 cadenas, cada una en una memoria, en  
+función del selecctor
+4. Hacer la lectura desde fichero
+
 
 [![Click to see the youtube video](http://img.youtube.com/vi/7mN4jco22rE/0.jpg)](https://www.youtube.com/watch?v=7mN4jco22rE)
 
