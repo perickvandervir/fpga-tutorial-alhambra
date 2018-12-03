@@ -1204,7 +1204,7 @@ función del selecctor
 
 * **Ejercicio 30.2** (Total **5 Bitpoints**): 
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/WtYEhqFWQLo/0.jpg)](https://www.youtube.com/watch?v=WtYEhqFWQLo)
 
 * **Ejercicio 30.3** (Total **10 Bitpoints**): 
 
