@@ -10,6 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
+El puerto serie nos abre la posibilidad de comunicar el **PC** y el **móvil** con nuestros circuitos en la **FPGA**. Aprenderemos a usar el **transmisor** y **receptor** serie, sus fundamentos internos y veremos ejemplos de aplicación
 
 # Colección
 
