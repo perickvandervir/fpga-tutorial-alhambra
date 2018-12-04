@@ -14,7 +14,7 @@ El puerto serie nos abre la posibilidad de comunicar el **PC** y el **móvil** c
 
 # Colección
 
-**Academia-Jedi-HW-30.zip**: Colección para este tutorial. Descargar e instalar 
+[Academia-Jedi-HW-30.zip](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Collection/Academia-Jedi-HW-30.zip): Colección para este tutorial. Descargar e instalar 
 
 # Contenido
 
