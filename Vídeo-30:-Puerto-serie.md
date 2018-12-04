@@ -1225,8 +1225,7 @@ Mediante la **barra espaciadora** activamos el **modo de disparo**, haciendo par
 
 Adicionalmente, cada vez que se reciba un **comando correcto** (q,w,e ó espcio) enviará la cadena **OK** seguida del carácter de fin de línea (\n) por el puerto serie
 
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/5q0N9-9sqp4/0.jpg)](https://www.youtube.com/watch?v=5q0N9-9sqp4)
 
 ## Ejercicio 30.4 (5 Bitpoints). Ejercicio Libre 
 
