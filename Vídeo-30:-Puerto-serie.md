@@ -8,7 +8,7 @@ Este tutorial es más largo, y se ha divido en **varios vídeos**
 
 [![Click to see the youtube video](http://img.youtube.com/vi/OrPcbMpJr98/0.jpg)](https://www.youtube.com/watch?v=OrPcbMpJr98&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=36)
 
-## Parte II: Transmisor serie
+## Parte II: Transmisor serie de 8 bits
 
 TODO
 
