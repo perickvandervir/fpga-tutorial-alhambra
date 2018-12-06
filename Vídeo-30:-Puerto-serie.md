@@ -1,12 +1,20 @@
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-30/Portada/Tut-30-portada.png)
 
-# Vídeo
+# Vídeos
+
+Este tutorial es más largo, y se ha divido en **varios vídeos**
+
+## Parte I: Puesta en marcha
 
 TODO
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-Haz click en la imagen para ver el **vídeo en Youtube**
+## Parte II: Transmisor serie
+
+TODO
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 # Descripción
 
