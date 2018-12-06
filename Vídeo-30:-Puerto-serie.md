@@ -10,11 +10,15 @@ Este tutorial es más largo, y se ha divido en **varios vídeos**
 
 ## Parte II: Transmisor serie de 8 bits
 
+[![Click to see the youtube video](http://img.youtube.com/vi/12i3nSWOq8c/0.jpg)](https://www.youtube.com/watch?v=12i3nSWOq8c&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=37)
+
+## Parte III: Transmisor serie de múltiples caracteres
+
 TODO
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-## Parte III: 
+## Parte IV: 
 
 TODO
 
