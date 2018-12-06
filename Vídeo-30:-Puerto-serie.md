@@ -18,11 +18,37 @@ TODO
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-## Parte IV: 
+## Parte IV: Funcionamiento del transmisor múltiple
 
 TODO
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+### Parte V: Funcionamiento del transmisor de 8 bits
+
+TODO
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+### Parte VI: Receptor serie
+
+TODO
+
+### Parte VII: Funcionamiento del receptor
+
+TODO
+
+### Parte VIII: Transmisor y receptor
+
+TODO
+
+### Parte IX: Aplicación 1
+
+### Parte X: Aplicación 2
+
+### Parte XI: Aplicación 3
+
+### Parte XII: Ejercicios
 
 # Descripción
 
