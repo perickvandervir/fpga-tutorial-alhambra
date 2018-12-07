@@ -22,9 +22,7 @@ Este tutorial es más largo, y se ha divido en **varios vídeos**
 
 ## Parte V: Funcionamiento del transmisor de 8 bits
 
-TODO
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/l7bgqIqjaMM/0.jpg)](https://www.youtube.com/watch?v=l7bgqIqjaMM&index=40&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw)
 
 ## Parte VI: Receptor serie
 
