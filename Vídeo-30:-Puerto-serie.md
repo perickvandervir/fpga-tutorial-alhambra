@@ -20,37 +20,37 @@ Este tutorial es más largo, y se ha divido en **varios vídeos**
 
 [![Click to see the youtube video](http://img.youtube.com/vi/oeAG3g2V_B8/0.jpg)](https://www.youtube.com/watch?v=oeAG3g2V_B8&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=39)
 
-### Parte V: Funcionamiento del transmisor de 8 bits
+## Parte V: Funcionamiento del transmisor de 8 bits
 
 TODO
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Parte VI: Receptor serie
+## Parte VI: Receptor serie
 
 TODO
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Parte VII: Funcionamiento del receptor
+## Parte VII: Funcionamiento del receptor
 
 TODO
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Parte VIII: Transmisor y receptor
+## Parte VIII: Transmisor y receptor
 
 TODO
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
-### Parte IX: Aplicación 1
+## Parte IX: Aplicación 1
 
-### Parte X: Aplicación 2
+## Parte X: Aplicación 2
 
-### Parte XI: Aplicación 3
+## Parte XI: Aplicación 3
 
-### Parte XII: Ejercicios
+## Parte XII: Ejercicios
 
 # Descripción
 
