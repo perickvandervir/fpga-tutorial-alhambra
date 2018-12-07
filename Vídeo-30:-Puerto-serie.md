@@ -18,9 +18,7 @@ Este tutorial es más largo, y se ha divido en **varios vídeos**
 
 ## Parte IV: Funcionamiento del transmisor múltiple
 
-TODO
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/oeAG3g2V_B8/0.jpg)](https://www.youtube.com/watch?v=oeAG3g2V_B8&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=39)
 
 ### Parte V: Funcionamiento del transmisor de 8 bits
 
@@ -32,13 +30,19 @@ TODO
 
 TODO
 
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
 ### Parte VII: Funcionamiento del receptor
 
 TODO
 
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
 ### Parte VIII: Transmisor y receptor
 
 TODO
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ### Parte IX: Aplicación 1
 
