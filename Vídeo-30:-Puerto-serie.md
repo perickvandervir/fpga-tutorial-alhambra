@@ -36,11 +36,23 @@ Este tutorial es más largo, y se ha divido en **varios vídeos**
 
 [![Click to see the youtube video](http://img.youtube.com/vi/6W2hawNVZAc/0.jpg)](https://www.youtube.com/watch?v=6W2hawNVZAc&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=43)
 
-## Parte IX: Aplicación 1
+## Parte IX: Aplicación 1. Comunicación Arduino-FPGA
+
+TODO
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ## Parte X: Aplicación 2
 
+TODO
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
 ## Parte XI: Aplicación 3
+
+TODO
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ## Parte XII: Ejercicios
 
