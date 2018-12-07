@@ -34,9 +34,7 @@ Este tutorial es más largo, y se ha divido en **varios vídeos**
 
 ## Parte VIII: Transmisor y receptor
 
-TODO
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/6W2hawNVZAc/0.jpg)](https://www.youtube.com/watch?v=6W2hawNVZAc&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=43)
 
 ## Parte IX: Aplicación 1
 
