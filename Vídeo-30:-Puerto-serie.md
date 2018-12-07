@@ -30,9 +30,7 @@ Este tutorial es más largo, y se ha divido en **varios vídeos**
 
 ## Parte VII: Funcionamiento del receptor
 
-TODO
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/WBgUZZbx0nQ/0.jpg)](https://www.youtube.com/watch?v=WBgUZZbx0nQ&index=42&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw)
 
 ## Parte VIII: Transmisor y receptor
 
