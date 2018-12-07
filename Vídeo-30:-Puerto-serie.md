@@ -14,9 +14,7 @@ Este tutorial es más largo, y se ha divido en **varios vídeos**
 
 ## Parte III: Transmisor serie de múltiples caracteres
 
-TODO
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/fq6HGu6CYXk/0.jpg)](https://www.youtube.com/watch?v=fq6HGu6CYXk&index=38&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw)
 
 ## Parte IV: Funcionamiento del transmisor múltiple
 
