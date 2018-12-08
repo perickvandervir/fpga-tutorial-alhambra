@@ -50,9 +50,7 @@ Este tutorial es más largo, y se ha divido en **varios vídeos**
 
 ## Parte XII: Ejercicios
 
-TODO
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/vY5eft-EAps/0.jpg)](https://www.youtube.com/watch?v=vY5eft-EAps&index=47&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw)
 
 # Descripción
 
