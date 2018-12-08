@@ -42,9 +42,7 @@ Este tutorial es más largo, y se ha divido en **varios vídeos**
 
 ## Parte X: Aplicación 2. Comunicación de nuestros programas en el PC con la FPGA
 
-TODO
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/kxPgiWAcmLk/0.jpg)](https://www.youtube.com/watch?v=kxPgiWAcmLk&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=45)
 
 ## Parte XI: Aplicación 3
 
