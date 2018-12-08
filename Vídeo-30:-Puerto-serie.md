@@ -38,11 +38,9 @@ Este tutorial es más largo, y se ha divido en **varios vídeos**
 
 ## Parte IX: Aplicación 1. Comunicación Arduino-FPGA
 
-TODO
+[![Click to see the youtube video](http://img.youtube.com/vi/_RToEyA3BRw/0.jpg)](https://www.youtube.com/watch?v=_RToEyA3BRw&index=44&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-## Parte X: Aplicación 2
+## Parte X: Aplicación 2. Comunicación de nuestros programas en el PC con la FPGA
 
 TODO
 
