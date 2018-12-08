@@ -44,7 +44,7 @@ Este tutorial es más largo, y se ha divido en **varios vídeos**
 
 [![Click to see the youtube video](http://img.youtube.com/vi/kxPgiWAcmLk/0.jpg)](https://www.youtube.com/watch?v=kxPgiWAcmLk&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=45)
 
-## Parte XI: Aplicación 3. Comunicación Bluetooth-serie
+## Parte XI: Aplicación 3. Comunicación Bluetooth-serie con la FPGA
 
 [![Click to see the youtube video](http://img.youtube.com/vi/G6jX4lfxKVE/0.jpg)](https://www.youtube.com/watch?v=G6jX4lfxKVE&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=46)
 
