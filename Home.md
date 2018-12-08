@@ -50,6 +50,14 @@ Opcionalmente puedes participar en la **Academia Jedi**, enviando los ejercicios
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-3/lobotic/lobotic-diploma.jpg)
 
+### Caballero Jedi
+
+Es el **rango máximo** que se puede conseguir en la **Academia Jedi de hardware**, y con el que se otorga un **certificado** de curso completado. Para lograrlo es necesario tener **600 Bitpoints**
+
+|Divisa  | Nombe             | Rango    | BitPoints | 
+|--------|-------------------|----------|-----------|
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/20-Jedi-N2-min.png)|    anónimo | Jedi Nivel 2| 600 |
+
 ### Tercer curso
 
 Estudiante que se encuentran cursando el **tercer año** de la **academia de Hardware Jedi**. Para acceder al tercer curso tienes que ser **Jedi**, para lo que necesitas un mínimo de **400 Bitpoints**
