@@ -24,6 +24,10 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 (TODO)
 
+# Estadísticas del tutorial
+
+(TODO)
+
 # Autor
 
 * [Juan González-Gómez](https://github.com/Obijuan) (Obijuan)
