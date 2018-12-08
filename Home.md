@@ -331,6 +331,12 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 | 20  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/20-Jedi-N2.png) | **Jedi Nivel 2** | 480 | Ya trabajas con **datos**. Conoces sus componentes fundamentales y sabes **compararlos** y **almacenarlos**  |
 | 21  | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/21-Jedi-N3.png) | **Jedi Nivel 3** | 520 | Sabes hacer circuitos con la capacidad de **comunicarse** con el PC y otros dispositivos, por medio de la **transmisión serie**  |
 
+### Rango de Caballero Jedi
+
+| Núm   | Divisa     | Rango  |  Bitpoints  | Descripción |
+|-------|----------|--------|-------------|-------------|
+| 22    | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/22-Caballero-Jedi.png) | **Caballero Jedi** | 600 |   |
+
 ## Noticias
 
 ### **17-Septiembre-2018**: Cerrado plazo de matriculación en la Academia Jedi
