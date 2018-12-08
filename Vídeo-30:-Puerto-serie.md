@@ -44,13 +44,17 @@ Este tutorial es más largo, y se ha divido en **varios vídeos**
 
 [![Click to see the youtube video](http://img.youtube.com/vi/kxPgiWAcmLk/0.jpg)](https://www.youtube.com/watch?v=kxPgiWAcmLk&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=45)
 
-## Parte XI: Aplicación 3
+## Parte XI: Aplicación 3. Comunicación Bluetooth-serie
 
 TODO
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 ## Parte XII: Ejercicios
+
+TODO
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 # Descripción
 
