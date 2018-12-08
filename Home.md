@@ -56,7 +56,7 @@ Es el **rango máximo** que se puede conseguir en la **Academia Jedi de hardware
 
 |Divisa  | Nombe             | Rango    | BitPoints | 
 |--------|-------------------|----------|-----------|
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/22-Caballero-Jedi-min.png)|    anónimo | Jedi Nivel 2| 600 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/22-Caballero-Jedi-med.png)|    anónimo | Jedi Nivel 2| 600 |
 
 ### Tercer curso
 
