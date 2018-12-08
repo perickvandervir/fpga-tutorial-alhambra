@@ -46,9 +46,7 @@ Este tutorial es más largo, y se ha divido en **varios vídeos**
 
 ## Parte XI: Aplicación 3. Comunicación Bluetooth-serie
 
-TODO
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/G6jX4lfxKVE/0.jpg)](https://www.youtube.com/watch?v=G6jX4lfxKVE&list=PLmnz0JqIMEzXaeYVzf2TfTzRekPIVoljw&index=46)
 
 ## Parte XII: Ejercicios
 
