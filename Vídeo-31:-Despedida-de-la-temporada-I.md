@@ -18,6 +18,12 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Certificados emitidos
 
+(TODO)
+
+# Soluciones a los ejercicios del tutorial 30
+
+(TODO)
+
 # Autor
 
 * [Juan González-Gómez](https://github.com/Obijuan) (Obijuan)
