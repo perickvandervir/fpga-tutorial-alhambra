@@ -343,7 +343,7 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 
 | Núm   | Divisa     | Rango  |  Bitpoints  | Descripción |
 |-------|----------|--------|-------------|-------------|
-| 22    | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/22-Caballero-Jedi.png) | **Caballero Jedi** | 600 |   |
+| 22    | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/22-Caballero-Jedi-min.png) | **Caballero Jedi** | 600 |   |
 
 ## Noticias
 
