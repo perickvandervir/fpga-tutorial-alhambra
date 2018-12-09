@@ -1298,11 +1298,11 @@ Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, e
 [![Click to see the youtube video](http://img.youtube.com/vi/ZfuWv607Sjo/0.jpg)](https://www.youtube.com/watch?v=ZfuWv607Sjo)
 
 ### Ejercicio 30.3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-30/klarojms/Ejercicio%203-1.png)
 
 * **Vídeo** en Youtube:
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+[![Click to see the youtube video](http://img.youtube.com/vi/T0J4tdOvQco/0.jpg)](https://www.youtube.com/watch?v=T0J4tdOvQco)
 
 ### Ejercicio 30.4
 ![]()
