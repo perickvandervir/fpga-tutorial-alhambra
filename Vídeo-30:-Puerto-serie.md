@@ -120,6 +120,7 @@ El puerto serie nos abre la posibilidad de comunicar el **PC** y el **móvil** c
   * [Ejercicio 30.3 (10 Bitpoints). Control de Franky por puerto serie](#ejercicio-303-total-10-bitpoints-control-de-franky-por-puerto-serie)
   * [Ejercicio 30.4 (5 Bitpoints). Ejercicio libre ](#ejercicio-304-5-bitpoints-ejercicio-libre)
 * [Ejercicios entregados](#ejercicios-entregados)
+  * [Josep Montoliu (Klarojms](#josep-montoliu-klarojms)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
