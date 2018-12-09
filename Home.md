@@ -65,6 +65,7 @@ Estudiante que se encuentran cursando el **tercer año** de la **academia de Har
 
 |Divisa  | Nombe             | Rango    | BitPoints | Tutorial | 
 |--------|-------------------|----------|-----------|----------|
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/21-Jedi-N3-min.png)|    Josep Montoliu (Klarojms) | Jedi Nivel 3| 520 (+100)| T30 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/20-Jedi-N2-min.png)|    Ximo Catala (Ximocat) | Jedi Nivel 2| 495 (+465)| T29 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/20-Jedi-N2-min.png)|    Josep Montoliu (Klarojms) | Jedi Nivel 2| 495 (+100)| T29 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/20-Jedi-N2-min.png)|    Federico Coca | Jedi Nivel 2| 495 (+85)| T29 |
