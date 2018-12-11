@@ -49,7 +49,7 @@ Es la **evolución** de la Icezum Alhambra. Los **cambios más importantes** de 
 * Los pines de **selección de bitstream** para **cold boot** están accesibles en el GPIO
 * **Reguladores conmutados** de **1A** para las alimentaciones de 1.2 y 3.3V, lo que permitirá activar los **PLLs** y trabajar a velocidades mucho mayores.
 * **Pines analógicos** integrados en los pines **D0** a **D3** (sólo 4 de los 6 pines del header son analógicos) para mayor compatibilidad con Arduino
-* Pulsadores de usuario cómodos de accionar (3 veces menos fuerza por unidad de superficie que los anteriores)
+* Pulsadores de usuario más cómodos de accionar (3 veces menos fuerza por unidad de superficie que los anteriores)
 
 (TODO)
 
