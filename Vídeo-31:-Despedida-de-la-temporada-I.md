@@ -16,6 +16,10 @@ En la comunidad han aparecido más placas, que no existían cuando se hizo el [T
 
 ### Alhambra II
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/Alhambra-II.jpg)
+
+(TODO)
+
 * nuevas herramientas
 * Nuevas placas
 * Comunidad
