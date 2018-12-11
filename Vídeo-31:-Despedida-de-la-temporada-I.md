@@ -30,6 +30,18 @@ En la comunidad han aparecido más placas, que no existían cuando se hizo el [T
 
 https://groups.google.com/forum/#!searchin/fpga-wars-explorando-el-lado-libre/alhambra$20II|sort:date/fpga-wars-explorando-el-lado-libre/flvaYt9nCaA/GVbCpPvPAQAJ
 
+| Ficha             |            |
+|-------------------|------------|
+| **Nombre**        | [Alhambra](https://github.com/FPGAwars/Alhambra-II-FPGA/wiki)  |
+| **Autor**         | Eladio Delgado
+| **Fabricante**    | [Mareldem Technologies](http://mareldem.com/), Pinos del valle, Granada, España  |
+| **Donde conseguirla** | [Alhambrabits](https://alhambrabits.com)
+| **Precio**        | 50€ + IVA  |
+| **FPGA**          | ICE40Hx4K |
+| **Frecuencia**    | 12Mhz      |
+| **Periféricos**   | 8 LEDs, 2 pulsadores, 4 canales A/D  |
+| **Observaciones** | Hardware libre. Compatible Arduino |
+
 (TODO)
 
 * nuevas herramientas
