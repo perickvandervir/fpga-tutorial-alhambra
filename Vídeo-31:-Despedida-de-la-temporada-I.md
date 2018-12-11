@@ -6,6 +6,8 @@
 
 Haz click en la imagen para ver el **vídeo en Youtube**
 
+# 
+
 # Evolución de las FPGAs libres
 
 La **temporada I** de los tutoriales empezó el **13 de Octubre de 2017**. Ahora estamos a **20 de Diciembre de 2018**. Han sucedido muchas cosas desde ese primer tutorial. La comunidad ha crecido, y ha avanzado tanto que muchas de las cosas comentadas al comienzo del curso han quedado obsoletas. Y eso es muy bueno, significa que avanzamos a un **gran ritmo :-)**
