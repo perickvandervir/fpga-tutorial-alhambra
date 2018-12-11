@@ -28,8 +28,6 @@ En la comunidad han aparecido más placas, que no existían cuando se hizo el [T
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/Alhambra-II.jpg)
 
-https://groups.google.com/forum/#!searchin/fpga-wars-explorando-el-lado-libre/alhambra$20II|sort:date/fpga-wars-explorando-el-lado-libre/flvaYt9nCaA/GVbCpPvPAQAJ
-
 | Ficha             |            |
 |-------------------|------------|
 | **Nombre**        | [Alhambra](https://github.com/FPGAwars/Alhambra-II-FPGA/wiki)  |
@@ -42,7 +40,8 @@ https://groups.google.com/forum/#!searchin/fpga-wars-explorando-el-lado-libre/al
 | **Periféricos**   | 8 LEDs, 2 pulsadores, 4 canales A/D  |
 | **Observaciones** | Hardware libre. Compatible Arduino |
 
-Es la **evolución** de la Icezum Alhambra. Los **cambios más importantes** de la Alhambra II con respecto a la anterior son:
+Es la **evolución** de la Icezum Alhambra. Los **cambios más importantes** de la Alhambra II con respecto a la anterior son (Más información en [este hilo de FPGAwars](https://groups.google.com/forum/#!searchin/fpga-wars-explorando-el-lado-libre/alhambra$20II|sort:date/fpga-wars-explorando-el-lado-libre/flvaYt9nCaA/GVbCpPvPAQAJ
+)):
 
 * **FPGA ice40HX4K**, que es equivalente a una **8K**. Podemos meter circuitos **8 veces mayores**. En ella se pueden sintetizar fácilmente microprocesadores como el **Latuino** o el **picorisv32**
 * **GPIOs** a **3.3V tolerante a 5V** (como entrada acepta niveles entre 3.3 y 5V, como salida genera 3.3V)
