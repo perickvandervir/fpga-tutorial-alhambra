@@ -42,6 +42,16 @@ https://groups.google.com/forum/#!searchin/fpga-wars-explorando-el-lado-libre/al
 | **Periféricos**   | 8 LEDs, 2 pulsadores, 4 canales A/D  |
 | **Observaciones** | Hardware libre. Compatible Arduino |
 
+Es la **evolución** de la Icezum Alhambra. Los **cambios más importantes** de la Alhambra II con respecto a la anterior son:
+
+* **FPGA ice40HX4K**, que es equivalente a una **8K**. Podemos meter circuitos **8 veces mayores**. En ella se pueden sintetizar fácilmente microprocesadores como el **Latuino** o el **picorisv32**
+* **GPIOs** a **3.3V tolerante a 5V** (como entrada acepta niveles entre 3.3 y 5V, como salida genera 3.3V)
+* **Alimentación** por **USB** (dos conectores), hasta **4.8A**, para alimentarla con **power bank** y tener más corriente para los servos
+* Los pines de **selección de bitstream** para **cold boot** están accesibles en el GPIO
+* **Reguladores conmutados** de **1A** para las alimentaciones de 1.2 y 3.3V, lo que permitirá activar los **PLLs** y trabajar a velocidades mucho mayores.
+* **Pines analógicos** integrados en los pines **D0** a **D3** (sólo 4 de los 6 pines del header son analógicos) para mayor compatibilidad con Arduino
+* Pulsadores de usuario cómodos de accionar (3 veces menos fuerza por unidad de superficie que los anteriores)
+
 (TODO)
 
 * nuevas herramientas
