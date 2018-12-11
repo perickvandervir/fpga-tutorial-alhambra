@@ -59,6 +59,19 @@ Es la **evolución** de la Icezum Alhambra. Los **cambios más importantes** de 
 
 (TODO)
 
+https://github.com/icebreaker-fpga/icebreaker
+
+## Otras
+
+* BlackIce II: https://www.tindie.com/products/Folknology/blackice-ii/
+* Upduino V2.0: https://github.com/gtjennings1/UPDuino_v2_0
+* Upduino V1.0: https://github.com/gtjennings1/UPDuino_v1_0
+http://www.gnarlygrey.com/
+
+FPGA 101 Badge board: https://hackaday.io/project/158275-fpga-101-workshop-badge
+
+https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard
+
 ## Nuevas herramientas
 
 (TODO)
