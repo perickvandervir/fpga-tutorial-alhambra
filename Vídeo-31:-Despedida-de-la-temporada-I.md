@@ -51,16 +51,18 @@ Es la **evolución** de la Icezum Alhambra. Los **cambios más importantes** de 
 * **Pines analógicos** integrados en los pines **D0** a **D3** (sólo 4 de los 6 pines del header son analógicos) para mayor compatibilidad con Arduino
 * Pulsadores de usuario más cómodos de accionar (3 veces menos fuerza por unidad de superficie que los anteriores)
 
-## TinyFPGA-Bx
+### TinyFPGA-Bx
 
 (TODO)
 
-## IceBreaker
+### IceBreaker
 
 (TODO)
 
-* nuevas herramientas
-* Nuevas placas
+## Nuevas herramientas
+
+(TODO)
+
 * Comunidad
 
 # Rango de Caballero Jedi
