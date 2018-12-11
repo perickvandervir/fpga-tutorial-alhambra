@@ -6,7 +6,13 @@
 
 Haz click en la imagen para ver el **vídeo en Youtube**
 
-# 
+# Descripción
+
+TODO
+
+# Contenido
+
+* 
 
 # Evolución de las FPGAs libres
 
