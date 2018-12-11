@@ -28,6 +28,8 @@ En la comunidad han aparecido más placas, que no existían cuando se hizo el [T
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/Alhambra-II.jpg)
 
+https://groups.google.com/forum/#!searchin/fpga-wars-explorando-el-lado-libre/alhambra$20II|sort:date/fpga-wars-explorando-el-lado-libre/flvaYt9nCaA/GVbCpPvPAQAJ
+
 (TODO)
 
 * nuevas herramientas
