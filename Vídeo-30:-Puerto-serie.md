@@ -1312,14 +1312,12 @@ Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, e
 [![Click to see the youtube video](http://img.youtube.com/vi/1x5DCOqiOMg/0.jpg)](https://www.youtube.com/watch?v=1x5DCOqiOMg)
 
 
-## Segundo
+## Andrés (@Avarez_)
 
 ### Ejercicio 30.1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-30/avarez/Ejercicio.30.1.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en twitter](https://twitter.com/avarez_/status/1072837937241444354)
 
 ### Ejercicio 30.2
 ![]()
