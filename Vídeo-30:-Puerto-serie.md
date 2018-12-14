@@ -1349,7 +1349,7 @@ Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, e
 
 * [Enlace al vídeo](https://drive.google.com/file/d/1XwZ73W4s9o2itp8iWihjec6TuRSxALre/view?usp=sharing)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+<iframe src="https://drive.google.com/file/d/1XwZ73W4s9o2itp8iWihjec6TuRSxALre/preview" width="640" height="480"></iframe>
 
 ### Ejercicio 30.2
 ![]()
