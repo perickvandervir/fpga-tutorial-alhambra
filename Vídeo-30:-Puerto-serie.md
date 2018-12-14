@@ -1341,12 +1341,12 @@ Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, e
 
 * [Vídeo en Twitter](https://twitter.com/avarez_/status/1072839815501107200)
 
-## Tercero
+## Manuel Andújar (Matalobo)
 
 ### Ejercicio 30.1
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-30/Manuel%20Andujar/Ejercicio-30-1.png)
 
-* **Vídeo** en Youtube:
+* [Enlace al vídeo](https://drive.google.com/file/d/1XwZ73W4s9o2itp8iWihjec6TuRSxALre/view?usp=sharing)
 
 [![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
