@@ -72,6 +72,8 @@ FPGA 101 Badge board: https://hackaday.io/project/158275-fpga-101-workshop-badge
 
 https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard
 
+ECP5
+
 ## Nuevas herramientas
 
 (TODO)
@@ -86,15 +88,21 @@ https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBrea
 
 (TODO)
 
-# Soluciones a los ejercicios del tutorial 30
+# Colección JEDI
 
-(TODO)
+* Bloque conversor A/D
 
 # Estadísticas del tutorial
 
 * Primer vídeo: 13-Octubre-2017
 * Último vídeo: 21-Dic-2018
 * Total: 1 año y 2 meses
+
+# Soluciones a los ejercicios del tutorial 30
+
+(TODO)
+
+
 
 (TODO)
 
