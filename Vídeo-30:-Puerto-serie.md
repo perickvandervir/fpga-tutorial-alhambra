@@ -121,6 +121,7 @@ El puerto serie nos abre la posibilidad de comunicar el **PC** y el **móvil** c
   * [Ejercicio 30.4 (5 Bitpoints). Ejercicio libre ](#ejercicio-304-5-bitpoints-ejercicio-libre)
 * [Ejercicios entregados](#ejercicios-entregados)
   * [Josep Montoliu (Klarojms)](#josep-montoliu-klarojms)
+  * [Andrés (avarez](#andr%C3%A9s-avarez_)
 * [Autor](#autor)
 * [Licencia](#licencia)
 * [Enlaces](#enlaces)
