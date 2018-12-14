@@ -1321,25 +1321,25 @@ Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, e
 * [Vídeo en twitter](https://twitter.com/avarez_/status/1072837937241444354)
 
 ### Ejercicio 30.2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-30/avarez/Ejercicio.30.2.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/avarez_/status/1072838115771981824)
 
 ### Ejercicio 30.3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-30/avarez/Ejercicio.30.3.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Vídeo en Twitter](https://twitter.com/avarez_/status/1072838312199680000)
 
 ### Ejercicio 30.4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-30/avarez/Ejercicio.libre.30.4.png)
 
-* **Vídeo** en Youtube:
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-30/avarez/Renacuajo.App.2.png)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-30/avarez/Renacuajo.Blocks.png)
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-30/avarez/Renacuajo.Designer.png)
+
+* [Vídeo en Twitter](https://twitter.com/avarez_/status/1072839815501107200)
 
 ## Tercero
 
