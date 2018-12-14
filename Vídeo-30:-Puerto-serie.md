@@ -1349,28 +1349,21 @@ Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, e
 
 * [Enlace al vídeo](https://drive.google.com/file/d/1XwZ73W4s9o2itp8iWihjec6TuRSxALre/view?usp=sharing)
 
-<iframe src="https://drive.google.com/file/d/1XwZ73W4s9o2itp8iWihjec6TuRSxALre/preview" width="640" height="480"></iframe>
-
 ### Ejercicio 30.2
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-30/Manuel%20Andujar/Ejercicio-30-2.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Enlace al vídeo](https://drive.google.com/file/d/1BdWKnk0U0cLnLdbJV4QIB8LBbwlmC5ZQ/view?usp=sharing)
 
 ### Ejercicio 30.3
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-30/Manuel%20Andujar/Ejercicio-30-3.png)
 
-* **Vídeo** en Youtube:
-
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+* [Enlace al vídeo](https://drive.google.com/file/d/1w3zI0zDra_-JR5K6Zo4N1GujSWfNfut_/view?usp=sharing)
 
 ### Ejercicio 30.4
-![]()
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-30/Manuel%20Andujar/Ejercicio-30-4.png)
 
-* **Vídeo** en Youtube:
+* [Enlace al vídeo](https://drive.google.com/file/d/1mpg8yr5RARt75Vv2E-xdKLojJ_I7fEBi/view?usp=sharing)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
 
 
 # Autor
