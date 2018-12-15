@@ -53,6 +53,22 @@ Es la **evolución** de la Icezum Alhambra. Los **cambios más importantes** de 
 
 ### TinyFPGA-Bx
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/tiny.jpg)
+
+| Ficha             |            |
+|-------------------|------------|
+| **Nombre**        | [TinyFPGA](https://www.crowdsupply.com/tinyfpga/tinyfpga-bx)  |
+| **Autor**         | [Luke Valenty](https://github.com/tinyfpga)
+| **Fabricante**    | [Mareldem Technologies](http://mareldem.com/), Pinos del valle, Granada, España  |
+| **Donde conseguirla** | [Crowdsupply](https://www.crowdsupply.com/tinyfpga/tinyfpga-bx)
+| **Precio**        | $38  |
+| **FPGA**          | ICE40LP8K |
+| **Frecuencia**    | 16 MHz      |
+| **Periféricos**   | 1 LED  |
+| **Observaciones** | Hardware libre |
+
+
+
 (TODO)
 
 ### IceBreaker
