@@ -59,7 +59,6 @@ Es la **evolución** de la Icezum Alhambra. Los **cambios más importantes** de 
 |-------------------|------------|
 | **Nombre**        | [TinyFPGA](https://www.crowdsupply.com/tinyfpga/tinyfpga-bx)  |
 | **Autor**         | [Luke Valenty](https://github.com/tinyfpga)
-| **Fabricante**    | [Mareldem Technologies](http://mareldem.com/), Pinos del valle, Granada, España  |
 | **Donde conseguirla** | [Crowdsupply](https://www.crowdsupply.com/tinyfpga/tinyfpga-bx)
 | **Precio**        | $38  |
 | **FPGA**          | ICE40LP8K |
