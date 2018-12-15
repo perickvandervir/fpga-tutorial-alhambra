@@ -66,9 +66,7 @@ Es la **evolución** de la Icezum Alhambra. Los **cambios más importantes** de 
 | **Periféricos**   | 1 LED  |
 | **Observaciones** | Hardware libre |
 
-
-
-(TODO)
+La **TinyFPGA** es del tamaño de un **Arduino nano**. Se puede insertar en una **protoboard** para hacer nuestros prototipos. Se conecta por el USB para la descarga de diseños, pero en vez de llevar un chip externo para ello (un FTDI), tiene un [bootloader hardware](https://github.com/tinyfpga/TinyFPGA-Bootloader). La FPGA por defecto está configurada como un **controlador USB** y al cargar nuestro diseño se re-configura. Al apretar el **botón de reset** se re-configura otra vez al estado inicial
 
 ### IceBreaker
 
