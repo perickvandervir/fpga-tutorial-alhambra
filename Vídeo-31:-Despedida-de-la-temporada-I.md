@@ -70,9 +70,22 @@ La **TinyFPGA** es del tamaño de un **Arduino nano**. Se puede insertar en una 
 
 ### IceBreaker
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/icebreaker-01.jpg)
+
+| Ficha             |            |
+|-------------------|------------|
+| **Nombre**        | [Icebreaker](https://github.com/icebreaker-fpga/icebreaker)  |
+| **Autor**         | []()
+| **Donde conseguirla** | []()
+| **Precio**        |   |
+| **FPGA**          |  |
+| **Frecuencia**    |       |
+| **Periféricos**   |  |
+| **Observaciones** | Hardware libre |
+
 (TODO)
 
-https://github.com/icebreaker-fpga/icebreaker
+
 
 ## Otras
 
