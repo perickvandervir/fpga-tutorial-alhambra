@@ -98,10 +98,11 @@ Placa con la FPGA [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/Lattic
 | **Autor**         | [Folknology](https://github.com/folknology) |
 | **Donde conseguirla** | [Tindie](https://www.tindie.com/products/Folknology/blackice-ii/) | 
 | **Precio**        | $55  |
-| **FPGA**          |  |
-| **Frecuencia**    |       |
-| **Periféricos**   |  |
-| **Observaciones** |  |
+| **FPGA**          | ICE40Hx4K |
+| **Frecuencia**    |  100Mhz     |
+| **Periféricos**   | Dip Switches, Pulsadores, 4 LEDs,  |
+| **Observaciones** | Hardware libre |
+
 
 ## Otras
 
