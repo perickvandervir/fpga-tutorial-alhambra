@@ -21,6 +21,7 @@ TODO
     * [Upduino v2.0](#upduino-v20)
     * [Ice40 UltraPlus Breackout Board](#ice40-ultraplus-breakout-board)
   * [Otras Placas](#otras-placas)
+    * [TinyFPGA EX](#tinyfpga-ex)
 
 
 # Evolución de las FPGAs libres
