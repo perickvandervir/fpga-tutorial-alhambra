@@ -78,14 +78,12 @@ La **TinyFPGA** es del tamaño de un **Arduino nano**. Se puede insertar en una 
 | **Autor**         | [Piotr Esden-Tempski](https://github.com/esden)
 | **Donde conseguirla** | [Crowdsupply](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga)
 | **Precio**        | $69  |
-| **FPGA**          |  |
-| **Frecuencia**    |       |
-| **Periféricos**   |  |
+| **FPGA**          | [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/iCE/iCE40-UltraPlus-Family-Data-Sheet.ashx) |
+| **Frecuencia**    |  48 MHz     |
+| **Periféricos**   | 2 LEDs, 1 pulsador |
 | **Observaciones** | Hardware libre |
 
-(TODO)
-
-
+Placa con la FPGA [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/iCE/iCE40-UltraPlus-Family-Data-Sheet.ashx), que incluye **DSP** y dos cores hardware de SPI e I2C. Está pensada con fines educativos. Dispoine de 4 PMODs para conectar fácilmente diferentes periféricos: switches, pulsadores, 7-segmentos, VGA...
 
 ## Otras
 
