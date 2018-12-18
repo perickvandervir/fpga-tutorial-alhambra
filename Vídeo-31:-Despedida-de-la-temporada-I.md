@@ -94,8 +94,8 @@ Placa con la FPGA [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/Lattic
 | Ficha             |            |
 |-------------------|------------|
 | **Nombre**        | [BlackIce-II](https://github.com/mystorm-org/BlackIce-II)  |
-| **Autor**         | [Folknology](https://github.com/folknology)
-| **Donde conseguirla**: [Tindie](https://www.tindie.com/products/Folknology/blackice-ii/) | 
+| **Autor**         | [Folknology](https://github.com/folknology) |
+| **Donde conseguirla** | [Tindie](https://www.tindie.com/products/Folknology/blackice-ii/) | 
 | **Precio**        |   |
 | **FPGA**          |  |
 | **Frecuencia**    |       |
