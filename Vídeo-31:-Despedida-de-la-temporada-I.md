@@ -75,9 +75,9 @@ La **TinyFPGA** es del tamaño de un **Arduino nano**. Se puede insertar en una 
 | Ficha             |            |
 |-------------------|------------|
 | **Nombre**        | [Icebreaker](https://github.com/icebreaker-fpga/icebreaker)  |
-| **Autor**         | []()
+| **Autor**         | [Piotr Esden-Tempski](https://github.com/esden)
 | **Donde conseguirla** | [Crowdsupply](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga)
-| **Precio**        |   |
+| **Precio**        | $69  |
 | **FPGA**          |  |
 | **Frecuencia**    |       |
 | **Periféricos**   |  |
