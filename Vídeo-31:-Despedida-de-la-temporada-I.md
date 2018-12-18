@@ -103,6 +103,20 @@ Placa con la FPGA [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/Lattic
 | **Periféricos**   | Dip Switches, Pulsadores, 4 LEDs,  |
 | **Observaciones** | Hardware libre |
 
+### Upduino V2.0
+
+(Foto)
+
+| Ficha             |            |
+|-------------------|------------|
+| **Nombre**        | [UPDuino V2.0](https://github.com/gtjennings1/UPDuino_v2_0)  |
+| **Autor**         | [gtjennings1](https://github.com/gtjennings1) |
+| **Donde conseguirla** | [gnarlygrey.com](http://www.gnarlygrey.com/) | 
+| **Precio**        | $14  |
+| **FPGA**          | [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/iCE/iCE40-UltraPlus-Family-Data-Sheet.ashx) |
+| **Frecuencia**    |  12Mhz     |
+| **Periféricos**   |   |
+| **Observaciones** | Hardware libre |
 
 ## Otras
 
