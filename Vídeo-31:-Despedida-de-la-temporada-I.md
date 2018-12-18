@@ -139,8 +139,30 @@ Placa con la FPGA [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/Lattic
 
 ## Otras placas
 
+Las siguientes son placas con FPGA de **gama media**, en las que se pueden sintetizar sistemas más complejos, como un procesador capaz de **correr Linux**, usando sólo herramientas libres
+
+### TinyFPGA EX
+
+(Foto)
+
+| Ficha             |            |
+|-------------------|------------|
+| **Nombre**        | []()  |
+| **Autor**         | []() |
+| **Donde conseguirla** | [Crowdsupply](https://www.crowdsupply.com/tinyfpga/tinyfpga-ex) | 
+| **Precio**        |  |
+| **FPGA**          | |
+| **Frecuencia**    |   |
+| **Periféricos**   |   |
+| **Observaciones** |  |
+
+
+
+### ULX3S
+
+(Foto)
+
 http://radiona.org/new-fpga-board-ulx3s/
-https://www.crowdsupply.com/tinyfpga/tinyfpga-ex
 
 ECP5
 
