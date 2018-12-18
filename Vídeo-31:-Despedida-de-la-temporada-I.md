@@ -89,7 +89,7 @@ Placa con la FPGA [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/Lattic
 
 ### BlackIce II
 
-(foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/BlackIce-II.jpg)
 
 | Ficha             |            |
 |-------------------|------------|
