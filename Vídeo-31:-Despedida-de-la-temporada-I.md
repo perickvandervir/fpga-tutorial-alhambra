@@ -13,7 +13,7 @@ TODO
 # Contenido
 
 * [Evolución de las FPGAs libres](#evoluci%C3%B3n-de-las-fpgas-libres)
-  * [Placas incorporadas en Icestudio](#placas)
+  * [Placas incorporadas en Icestudio](#placas-incorporadas-en-icestudio)
     * [Alhambra II](#alhambra-ii)
     * [TinyFPGA-BX](#tinyfpga-bx)
     * [Icebreaker](#icebreaker)
