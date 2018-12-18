@@ -20,7 +20,7 @@ TODO
     * [BlackIce-II](#blackice-ii)
     * [Upduino v2.0](#upduino-v20)
     * [Ice40 UltraPlus Breackout Board](#ice40-ultraplus-breakout-board)
-  * [Otras Placas]
+  * [Otras Placas](#otras-placas)
 
 
 # Evolución de las FPGAs libres
