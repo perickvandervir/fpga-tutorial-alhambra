@@ -137,10 +137,7 @@ Placa con la FPGA [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/Lattic
 | **Periféricos**   | LED RGB, Dip Switches  |
 | **Observaciones** | Placa de Lattice. No libre |
 
-
-
-
-## Otras
+## Otras placas
 
 ECP5
 
