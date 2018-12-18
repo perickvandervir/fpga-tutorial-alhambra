@@ -119,14 +119,14 @@ Placa con la FPGA [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/Lattic
 | **Periféricos**   | 1 LED RBG  |
 | **Observaciones** | Hardware libre |
 
-### iCE40UltraPlus Breakout Board
+### iCE40 UltraPlus Breakout Board
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/iCE40UltraPlusBreakoutTop.png)
 
 | Ficha             |            |
 |-------------------|------------|
-| **Nombre**        | []()  |
-| **Autor**         | []() |
+| **Nombre**        | [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard)  |
+| **Autor**         | [Lattice]() |
 | **Donde conseguirla** | []() | 
 | **Precio**        | $14  |
 | **FPGA**          | []() |
@@ -135,7 +135,7 @@ Placa con la FPGA [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/Lattic
 | **Observaciones** |  |
 
 
-https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard
+
 
 ## Otras
 
