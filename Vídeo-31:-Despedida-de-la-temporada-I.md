@@ -106,7 +106,7 @@ Placa con la FPGA [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/Lattic
 
 ### Upduino V2.0
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/Upduino-2.0.jpg)
 
 | Ficha             |            |
 |-------------------|------------|
@@ -116,18 +116,28 @@ Placa con la FPGA [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/Lattic
 | **Precio**        | $14  |
 | **FPGA**          | [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/iCE/iCE40-UltraPlus-Family-Data-Sheet.ashx) |
 | **Frecuencia**    |  12Mhz     |
-| **Periféricos**   |   |
+| **Periféricos**   | 1 LED RBG  |
 | **Observaciones** | Hardware libre |
 
-## Otras
+### iCE40UltraPlus Breakout Board
 
-* Upduino V2.0: https://github.com/gtjennings1/UPDuino_v2_0
-* Upduino V1.0: https://github.com/gtjennings1/UPDuino_v1_0
-http://www.gnarlygrey.com/
+(Foto)
 
-FPGA 101 Badge board: https://hackaday.io/project/158275-fpga-101-workshop-badge
+| Ficha             |            |
+|-------------------|------------|
+| **Nombre**        | []()  |
+| **Autor**         | []() |
+| **Donde conseguirla** | []() | 
+| **Precio**        | $14  |
+| **FPGA**          | []() |
+| **Frecuencia**    |      |
+| **Periféricos**   |   |
+| **Observaciones** |  |
+
 
 https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard
+
+## Otras
 
 ECP5
 
