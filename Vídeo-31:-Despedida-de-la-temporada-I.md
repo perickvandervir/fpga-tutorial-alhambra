@@ -144,7 +144,7 @@ Las siguientes son placas con FPGA de **gama media**, en las que se pueden sinte
 
 ### TinyFPGA EX
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/tinyfpga-ex.jpg)
 
 | Ficha             |            |
 |-------------------|------------|
