@@ -17,6 +17,7 @@ TODO
     * [Alhambra II](#alhambra-ii)
     * [TinyFPGA-BX](#tinyfpga-bx)
     * [Icebreaker](#icebreaker)
+    * [BlackIce-II](#blackice-ii)
 
 # Evolución de las FPGAs libres
 
