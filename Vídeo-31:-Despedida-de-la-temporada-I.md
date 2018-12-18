@@ -179,9 +179,8 @@ En el [proyecto Trellis](https://github.com/SymbiFlow/prjtrellis) se está hacie
 
 ## Nuevas herramientas
 
-(TODO)
-
-* Comunidad
+* http://www.clifford.at/icestorm/
+* https://github.com/SymbiFlow
 
 # Rango de Caballero Jedi
 
