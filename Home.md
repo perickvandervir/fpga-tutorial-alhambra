@@ -133,8 +133,8 @@ Estudiantes que ya han accedido a la academia de Hardware Jedi, y que están en 
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|    Sergio GM (@sergonau, sergomo)   | Aspirante a Padawan Nivel-1 | 94/94 | T9 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|    Antonio Lago (@AntonioLagoD)   | Aspirante a Padawan Nivel-1 | 94/94 | T9 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|    Daroch   | Aspirante a Padawan Nivel-1 | 93/110 | T10 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|    Gerardo Gómez (clonehazard,chetosvsgeez )  | Aspirante a Padawan Nivel-1 | 93/124 | T11 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|    Antonio S (@AvlixA) | Aspirante a Padawan Nivel-1 | 89/110 | T10 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|    Gerardo Gómez (clonehazard,chetosvsgeez )  | Aspirante a Padawan Nivel-1 | 89/110 | T10 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|    Javier Ferrero (Pribys) | Aspirante a Padawan Nivel-1 | 88|
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|    Manu (@mrcatacroquer) | Aspirante a Padawan Nivel-1 | 88| T10 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/07-Aspirante-padawan-N1-min.png)|   Eufrasio Cabrera (@jaculca)    | Aspirante a Padawan Nivel-1 | 83 |
