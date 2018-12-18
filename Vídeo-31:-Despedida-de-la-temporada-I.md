@@ -148,8 +148,8 @@ Las siguientes son placas con FPGA de **gama media**, en las que se pueden sinte
 
 | Ficha             |            |
 |-------------------|------------|
-| **Nombre**        | []()  |
-| **Autor**         | []() |
+| **Nombre**        | [TinyFPGA-EX](https://github.com/tinyfpga/TinyFPGA-EX)  |
+| **Autor**         | [Luke Valenty](https://github.com/tinyfpga) |
 | **Donde conseguirla** | [Crowdsupply](https://www.crowdsupply.com/tinyfpga/tinyfpga-ex) | 
 | **Precio**        |  |
 | **FPGA**          | |
