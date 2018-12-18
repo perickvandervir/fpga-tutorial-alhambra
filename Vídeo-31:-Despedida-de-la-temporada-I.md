@@ -127,13 +127,13 @@ Placa con la FPGA [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/Lattic
 | Ficha             |            |
 |-------------------|------------|
 | **Nombre**        | [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard)  |
-| **Autor**         | [Lattice]() |
-| **Donde conseguirla** | []() | 
-| **Precio**        | $14  |
-| **FPGA**          | []() |
-| **Frecuencia**    |      |
-| **Periféricos**   |   |
-| **Observaciones** |  |
+| **Autor**         | [Lattice](https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) |
+| **Donde conseguirla** | [Lattice](https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) | 
+| **Precio**        | $49  |
+| **FPGA**          | iCE40UP5K |
+| **Frecuencia**    | 12 MHz  |
+| **Periféricos**   | LED RGB, Dip Switches  |
+| **Observaciones** | Placa de Lattice. No libre |
 
 
 
