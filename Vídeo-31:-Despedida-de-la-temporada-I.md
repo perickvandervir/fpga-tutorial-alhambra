@@ -151,17 +151,28 @@ Las siguientes son placas con FPGA de **gama media**, en las que se pueden sinte
 | **Nombre**        | [TinyFPGA-EX](https://github.com/tinyfpga/TinyFPGA-EX)  |
 | **Autor**         | [Luke Valenty](https://github.com/tinyfpga) |
 | **Donde conseguirla** | [Crowdsupply](https://www.crowdsupply.com/tinyfpga/tinyfpga-ex) | 
-| **Precio**        |  |
-| **FPGA**          | |
-| **Frecuencia**    |   |
-| **Periféricos**   |   |
-| **Observaciones** |  |
+| **Precio**        | No disponible todavía |
+| **FPGA**          | [ECP5 FPGA](https://www.latticesemi.com/view_document?document_id=50461) |
+| **Frecuencia**    | 200Mhz  |
+| **Periféricos**   | Tarjeta MicroSD  |
+| **Observaciones** | Hardware libre |
 
-
+Placa en diseño
 
 ### ULX3S
 
 (Foto)
+
+| Ficha             |            |
+|-------------------|------------|
+| **Nombre**        | []()  |
+| **Autor**         | []() |
+| **Donde conseguirla** | []() | 
+| **Precio**        |  |
+| **FPGA**          | []() |
+| **Frecuencia**    |  |
+| **Periféricos**   |   |
+| **Observaciones** |  |
 
 http://radiona.org/new-fpga-board-ulx3s/
 
