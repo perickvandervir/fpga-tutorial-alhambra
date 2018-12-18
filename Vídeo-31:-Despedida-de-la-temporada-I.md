@@ -166,7 +166,7 @@ Placa en diseño
 
 | Ficha             |            |
 |-------------------|------------|
-| **Nombre**        | []()  |
+| **Nombre**        | [ULX3S](https://github.com/emard/ulx3s)  |
 | **Autor**         | []() |
 | **Donde conseguirla** | []() | 
 | **Precio**        |  |
