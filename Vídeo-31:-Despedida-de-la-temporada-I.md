@@ -22,6 +22,7 @@ TODO
     * [Ice40 UltraPlus Breackout Board](#ice40-ultraplus-breakout-board)
   * [Otras Placas](#otras-placas)
     * [TinyFPGA EX](#tinyfpga-ex)
+    * [ULX3S](#ulx3s)
 
 
 # Evolución de las FPGAs libres
