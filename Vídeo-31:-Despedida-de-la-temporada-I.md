@@ -168,16 +168,14 @@ Placa en diseño
 |-------------------|------------|
 | **Nombre**        | [ULX3S](https://github.com/emard/ulx3s)  |
 | **Autor**         | [emard](https://github.com/emard) |
-| **Donde conseguirla** | []() | 
+| **Donde conseguirla** | [radiona.org](http://radiona.org/new-fpga-board-ulx3s/) | 
 | **Precio**        |  |
-| **FPGA**          | []() |
-| **Frecuencia**    |  |
-| **Periféricos**   |   |
-| **Observaciones** |  |
+| **FPGA**          | [Lattice ECP5 LFE5U-85F-6BG381C (85K LUT)](http://www.latticesemi.com/~/media/LatticeSemi/Documents/DataSheets/ECP5/FPGA-DS-02012.pdf?document_id=50461) |
+| **Frecuencia**    | 25 MHz |
+| **Periféricos**   | Tarjeta microSD, 8 leds, 4 pulsadores, jack para audio, 8 canales ADC,   |
+| **Observaciones** | Hardware Libre |
 
-http://radiona.org/new-fpga-board-ulx3s/
-
-ECP5
+En el [proyecto Trellis](https://github.com/SymbiFlow/prjtrellis) se está haciendo ingeniería inversa de estas FPGAs para tener disponibles herramientas libres. En la placa ULX3S ya se [ha conseguido sinteizar un OpenRisc que corre Linux](https://twitter.com/fpga_dave/status/1053290842809683968)
 
 ## Nuevas herramientas
 
