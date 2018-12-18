@@ -18,6 +18,7 @@ TODO
     * [TinyFPGA-BX](#tinyfpga-bx)
     * [Icebreaker](#icebreaker)
     * [BlackIce-II](#blackice-ii)
+    * [Upduino v2.0](#upduino-v20)
 
 # Evolución de las FPGAs libres
 
