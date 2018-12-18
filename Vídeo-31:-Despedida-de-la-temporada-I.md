@@ -13,19 +13,21 @@ TODO
 # Contenido
 
 * [Evolución de las FPGAs libres](#evoluci%C3%B3n-de-las-fpgas-libres)
-  * [Placas](#placas)
+  * [Placas incorporadas en Icestudio](#placas)
     * [Alhambra II](#alhambra-ii)
     * [TinyFPGA-BX](#tinyfpga-bx)
     * [Icebreaker](#icebreaker)
     * [BlackIce-II](#blackice-ii)
     * [Upduino v2.0](#upduino-v20)
     * [Ice40 UltraPlus Breackout Board](#ice40-ultraplus-breakout-board)
+  * [Otras Placas]
+
 
 # Evolución de las FPGAs libres
 
 La **temporada I** de los tutoriales empezó el **13 de Octubre de 2017**. Ahora estamos a **20 de Diciembre de 2018**. Han sucedido muchas cosas desde ese primer tutorial. La comunidad ha crecido, y ha avanzado tanto que muchas de las cosas comentadas al comienzo del curso han quedado obsoletas. Y eso es muy bueno, significa que avanzamos a un **gran ritmo :-)**
 
-## Placas
+## Placas incorporadas en Icestudio
 
 En la comunidad han aparecido más placas, que no existían cuando se hizo el [Tutorial 3: La icezum Alhambra y otras placas con FPGAs libres](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-3:-La-Icezum-Alhambra-y-otras-placas-con-FPGAs-libres)
 
