@@ -15,6 +15,7 @@ TODO
 * [Evolución de las FPGAs libres](#evoluci%C3%B3n-de-las-fpgas-libres)
   * [Placas](#placas)
     * [Alhambra II](#alhambra-ii)
+    * [TinyFPGA-BX](#tinyfpga-bx)
 
 # Evolución de las FPGAs libres
 
