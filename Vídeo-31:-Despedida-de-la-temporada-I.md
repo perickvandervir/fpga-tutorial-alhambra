@@ -162,12 +162,12 @@ Placa en diseño
 
 ### ULX3S
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/radiona_fpga_ULX3S.jpg)
 
 | Ficha             |            |
 |-------------------|------------|
 | **Nombre**        | [ULX3S](https://github.com/emard/ulx3s)  |
-| **Autor**         | []() |
+| **Autor**         | [emard](https://github.com/emard) |
 | **Donde conseguirla** | []() | 
 | **Precio**        |  |
 | **FPGA**          | []() |
