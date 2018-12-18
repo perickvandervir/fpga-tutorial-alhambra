@@ -87,9 +87,23 @@ La **TinyFPGA** es del tamaño de un **Arduino nano**. Se puede insertar en una 
 
 Placa con la FPGA [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/iCE/iCE40-UltraPlus-Family-Data-Sheet.ashx), que incluye **DSP** y dos cores hardware de SPI e I2C. Está pensada con fines educativos. Dispoine de 4 PMODs para conectar fácilmente diferentes periféricos: switches, pulsadores, 7-segmentos, VGA...
 
+### BlackIce II
+
+(foto)
+
+| Ficha             |            |
+|-------------------|------------|
+| **Nombre**        | []()  |
+| **Autor**         | 
+| **Donde conseguirla**: [Tindie](https://www.tindie.com/products/Folknology/blackice-ii/) | 
+| **Precio**        |   |
+| **FPGA**          |  |
+| **Frecuencia**    |       |
+| **Periféricos**   |  |
+| **Observaciones** |  |
+
 ## Otras
 
-* BlackIce II: https://www.tindie.com/products/Folknology/blackice-ii/
 * Upduino V2.0: https://github.com/gtjennings1/UPDuino_v2_0
 * Upduino V1.0: https://github.com/gtjennings1/UPDuino_v1_0
 http://www.gnarlygrey.com/
