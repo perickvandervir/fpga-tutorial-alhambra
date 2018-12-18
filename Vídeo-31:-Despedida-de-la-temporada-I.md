@@ -139,6 +139,9 @@ Placa con la FPGA [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/Lattic
 
 ## Otras placas
 
+http://radiona.org/new-fpga-board-ulx3s/
+https://www.crowdsupply.com/tinyfpga/tinyfpga-ex
+
 ECP5
 
 ## Nuevas herramientas
