@@ -179,7 +179,14 @@ En el [proyecto Trellis](https://github.com/SymbiFlow/prjtrellis) se está hacie
 
 ## Nuevas herramientas
 
-* http://www.clifford.at/icestorm/
+La comunidad ha estado **muy activa durante este año**, y el avance las herramientas es **imparable**. Cada vez se están documentando más FPGAs, mejorando las herramientas existentes y creando nuevas aplicaciones. El ecosistema de las **FPGAs libres** sigue creciendo
+
+### Proyecto Icestorm
+
+El [proyecto icestorm](http://www.clifford.at/icestorm/) ya tiene documentadas **30 FPGAs** de la familia Ice40 de Lattice, de gama baja. Las últimas han sido las UltraPlus (UP5K), que incluyen DSPs. Ya hay tres placas de esta familia soportadas en **Icestudio**
+
+### SymbiFlow
+
 * https://github.com/SymbiFlow
 
 # Rango de Caballero Jedi
