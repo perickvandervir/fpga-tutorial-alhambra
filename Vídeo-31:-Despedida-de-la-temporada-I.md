@@ -232,6 +232,8 @@ La temporada I se termina, pero la acción continúa en la [Colección Jedi](htt
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/jedi-collection-01.png)
 
+* Añadir pegatina con logo a la colección
+* Añadir Caballero Jedi
 * Explicación. 
 * Enlace a la colección: 
 * Bloque conversor A/D
