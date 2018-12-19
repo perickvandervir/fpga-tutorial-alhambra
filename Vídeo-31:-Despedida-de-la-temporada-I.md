@@ -30,6 +30,7 @@ TODO
       * [Documentación de las FPGAs](#documentaci%C3%B3n-de-las-fpgas)
 * [Colección Jedi](#colecci%C3%B3n-jedi)
   * [Bloque para lecturas analógicas](#bloque-para-lecturas-anal%C3%B3gicas)
+  * [Ejemplo 1: Lectura de un potenciómetro](#ejemplo-1-lectura-de-un-potenci%C3%B3metro)
 
 # Evolución de las FPGAs libres
 
