@@ -225,6 +225,10 @@ La parte más importante del proyecto es la **documentación** de las diferentes
 
 # Colección JEDI
 
+* Collection-jedi-1.0.zip
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/jedi-collection-01.png)
+
 * Explicación. 
 * Enlace a la colección: https://github.com/FPGAwars/Collection-Jedi
 * Bloque conversor A/D
