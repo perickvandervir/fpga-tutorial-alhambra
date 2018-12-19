@@ -191,6 +191,10 @@ El [proyecto icestorm](http://www.clifford.at/icestorm/) ya tiene documentadas *
 
 El ecosistema de las **FPGAs libres** nació con el [proyecto icestorm](http://www.clifford.at/icestorm/) creado por Clifford Wolf. Fue todo un hito. Durante el 2018 este ecosistema ha evolucionado al [proyecto Symbiflow](https://github.com/SymbiFlow): **Herramientas libres** para completar el ciclo de diseño desde el **Verilog** hasta la generación del **Bitstream** para **FPGAs de diferentes fabricantes**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/symbiflow-01.png)
+
+
+
 * https://www.google.com/url?q=https://j.mp/orconf-symbiflow&sa=D&ust=1545158641352000&usg=AFQjCNF0RWbq1GORqXHBP2Hoj0AwyYXqkg
 
 # Colección JEDI
