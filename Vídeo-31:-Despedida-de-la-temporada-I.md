@@ -232,10 +232,12 @@ La **temporada I** se termina, pero la acción continúa en la [Colección Jedi]
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/jedi-collection-01.png)
 
-* Añadir pegatina con logo a la colección
-* Añadir Caballero Jedi
-* Explicación. 
-* Enlace a la colección: 
+Esta colección se ha creado a partir de la **colección de la Academia Jedi** de tutorial anterior, y en ella se irán añadiendo nuevos bloques. Para este tutorial de despedida, he añadido una primera versión del **conversor Analógico-Digital (A/D)** que nos permite leer una **entrada analógica**. La explicación detallada la dejamos para la temporada II, pero aquí os muestro un par de ejemplos para que juguéis :-)
+
+## Bloque para lecturas analógicas
+
+(TODO)
+
 * Bloque conversor A/D
 * Ejemplo 1: AD - LEDs (Escenario I)
 * Ejemplo 2: AD - serie (Escenario I)
