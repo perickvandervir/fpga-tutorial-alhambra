@@ -221,12 +221,14 @@ La parte más importante del proyecto es la **documentación** de las diferentes
 | [Proyecto Chibi](https://github.com/rqou/project-chibi) | Documentación de las FPGA **MAX-V de Intel** |
 | [Proyecto 2064](https://github.com/JohnDMcMaster/project2064)| Documentación de la familia **xc20xx de Xilinx** (Las primeras FPGAs que hubo) |
 
-
 # Colección JEDI
 
+* Explicación. 
+* Enlace a la colección: https://github.com/FPGAwars/Collection-Jedi
 * Bloque conversor A/D
-* Demo I: Envío de muestras al PC
-* Demo II: Movimiento de un servo con el potenciómetro
+* Ejemplo 1: AD - LEDs (Escenario I)
+* Ejemplo 2: AD - serie (Escenario I)
+* Ejemplo 3: AD - servo (Escenario II)
 
 # Rango de Caballero Jedi
 
