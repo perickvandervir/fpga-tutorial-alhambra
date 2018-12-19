@@ -189,8 +189,15 @@ El [proyecto icestorm](http://www.clifford.at/icestorm/) ya tiene documentadas *
 
 ### SymbiFlow
 
-* https://github.com/SymbiFlow
+El ecosistema de las **FPGAs libres** nació con el [proyecto icestorm](http://www.clifford.at/icestorm/) creado por Clifford Wolf. Fue todo un hito. Durante el 2018 este ecosistema ha evolucionado al [proyecto Symbiflow](https://github.com/SymbiFlow): **Herramientas libres** para completar el ciclo de diseño desde el **Verilog** hasta la generación del **Bitstream** para **FPGAs de diferentes fabricantes**
+
 * https://www.google.com/url?q=https://j.mp/orconf-symbiflow&sa=D&ust=1545158641352000&usg=AFQjCNF0RWbq1GORqXHBP2Hoj0AwyYXqkg
+
+# Colección JEDI
+
+* Bloque conversor A/D
+* Demo I: Envío de muestras al PC
+* Demo II: Movimiento de un servo con el potenciómetro
 
 # Rango de Caballero Jedi
 
@@ -200,9 +207,7 @@ El [proyecto icestorm](http://www.clifford.at/icestorm/) ya tiene documentadas *
 
 (TODO)
 
-# Colección JEDI
 
-* Bloque conversor A/D
 
 # Estadísticas del tutorial
 
