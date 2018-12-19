@@ -197,8 +197,26 @@ Se ha creado una **arquitectura más general**, para integrar **FPGAs de diferen
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/symbiflow-02.png)
 
+[Más información sobre Symbiflow](https://www.google.com/url?q=https://j.mp/orconf-symbiflow&sa=D&ust=1545158641352000&usg=AFQjCNF0RWbq1GORqXHBP2Hoj0AwyYXqkg), en las transparencias que se presentaron en el congreso ORCONF-2018
 
-* https://www.google.com/url?q=https://j.mp/orconf-symbiflow&sa=D&ust=1545158641352000&usg=AFQjCNF0RWbq1GORqXHBP2Hoj0AwyYXqkg
+El proyecto tiene **2 partes fundamentales**: las **herramientas software** y la **documentación de las FPGAs**
+
+### Herramientas software
+
+* [Yosys](https://github.com/YosysHQ). Es el sintetizador. Pasa del verilog al netlist
+* [Nextpnr](https://github.com/YosysHQ/nextpnr). Herramienta de rutado y emplazado
+* [VTR](https://github.com/SymbiFlow/vtr-verilog-to-routing). otra herramienta de rutado y emplazado
+
+### Documentación de las FPGAs
+
+La parte más importante del proyecto es la **documentación** de las diferentes FPGAs. Esta información NO la proporciona el fabricante, por lo que se está obteniendo mediante ingeniería inversa, y es un proceso largo y tedioso, pero está dando sus frutos
+
+* [Proyecto Icestorm](http://www.clifford.at/icestorm/): Documentación de la **Familia ICE40 de Lattice**
+* [Proyecto Trellis](https://symbiflow.github.io/prjtrellis-db/): Documentación de la **Familia ECP5 de Lattice**
+* [Proyecto X-ray](https://symbiflow.github.io/prjxray-db/): Documentación de la **Serie-7 de Xilinx**
+* [Proyecto Chibi](https://github.com/rqou/project-chibi): Documentación de las FPGA **MAX-V de Intel**
+* [Proyecto 2064](https://github.com/JohnDMcMaster/project2064): Documentación de la familia **xc20xx de Xilinx** (Las primeras FPGAs que hubo)
+
 
 # Colección JEDI
 
