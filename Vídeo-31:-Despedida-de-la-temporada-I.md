@@ -225,7 +225,7 @@ La parte más importante del proyecto es la **documentación** de las diferentes
 
 # Colección JEDI
 
-La temporada I se termina, pero la acción continúa en la [Colección Jedi](https://github.com/FPGAwars/Collection-Jedi). Iré añadiendo nuevos bloques y ejemplos
+La **temporada I** se termina, pero la acción continúa en la [Colección Jedi](https://github.com/FPGAwars/Collection-Jedi). Iré añadiendo nuevos bloques y ejemplos
 
 * Collection-jedi-1.0.zip: Descargar e instalar
 * [Colección Jedi: Repositorio](https://github.com/FPGAwars/Collection-Jedi)
