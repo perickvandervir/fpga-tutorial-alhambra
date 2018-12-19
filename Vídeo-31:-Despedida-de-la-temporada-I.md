@@ -26,6 +26,7 @@ TODO
   * [Nuevas herramientas](#nuevas-herramientas)
     * [Proyecto Icestorm](#proyecto-icestorm)
     * [Symbiflow](#symbiflow)
+      * [Herramientas software](#herramientas-software)
 
 # Evolución de las FPGAs libres
 
