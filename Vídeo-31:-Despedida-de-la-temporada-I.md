@@ -29,7 +29,7 @@ TODO
       * [Herramientas software](#herramientas-software)
       * [Documentación de las FPGAs](#documentaci%C3%B3n-de-las-fpgas)
 * [Colección Jedi](#colecci%C3%B3n-jedi)
-
+  * [Bloque para lecturas analógicas](#bloque-para-lecturas-anal%C3%B3gicas)
 
 # Evolución de las FPGAs libres
 
