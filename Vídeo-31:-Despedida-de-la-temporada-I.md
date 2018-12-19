@@ -28,6 +28,8 @@ TODO
     * [Symbiflow](#symbiflow)
       * [Herramientas software](#herramientas-software)
       * [Documentación de las FPGAs](#documentaci%C3%B3n-de-las-fpgas)
+* [Colección Jedi](#colecci%C3%B3n-jedi)
+
 
 # Evolución de las FPGAs libres
 
