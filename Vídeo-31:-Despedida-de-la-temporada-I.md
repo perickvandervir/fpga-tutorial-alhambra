@@ -268,5 +268,7 @@ La parte más importante del proyecto es la **documentación** de las diferentes
 
 # Créditos y agradecimientos
 
+* [Imagen del sable láser](https://commons.wikimedia.org/w/index.php?curid=3846827). De Tim Kloske (talk) - Trabajo propio, Dominio público, 
+
 # Enlaces
 
