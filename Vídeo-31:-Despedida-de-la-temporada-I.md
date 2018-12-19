@@ -236,6 +236,8 @@ Esta colección se ha creado a partir de la **colección de la Academia Jedi** d
 
 ## Bloque para lecturas analógicas
 
+
+
 (TODO)
 
 * Bloque conversor A/D
