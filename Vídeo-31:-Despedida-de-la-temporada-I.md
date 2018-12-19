@@ -236,14 +236,18 @@ Esta colección se ha creado a partir de la **colección de la Academia Jedi** d
 
 ## Bloque para lecturas analógicas
 
-Las placas **Icezum Alhambra** y **Alhambra II** incorporan el **conversor analógico-digital** [ADS7924](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/datasheet/ads7924.pdf) de texas instrument. 
+Las placas **Icezum Alhambra** y **Alhambra II** incorporan el **conversor analógico-digital** [ADS7924](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/datasheet/ads7924.pdf) de texas instrument. Tiene **4 canales de 12 bits**, y la lectura se hace a través del **bus I2C**, por los pines ADC-SDA (datos) y ADC-SCL (reloj).
+
+Un primer bloque para leer uno de los canales analógicos se encuentra en la **colección Jedi**, en el menú **Varios/ADC/adc**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/ADC-01.png)
 
+Por los puertos **adc-sda** y **adc-scl** se conectan directamente los pines del mismo nombre en Icetudio. Si tenemos una tarjeta diferente, este bloque se puede usar también conectando en ese caso a los pines SDA y SCL del I2C donde está conectado el conversor
+
+Por la entrada **ch[1:0]** indicamos el **canal a leer** (0-3) e introducimos un **tic por start** para que **comience** la conversión. La lectura digital es de **8 bits** (Se toman los 8 bits más significativos del valor interno de 12 bits), y se devuelve por el **bus de salida**. Se emite un **tic de dato listo** por **done**, para indicar que la **muestra** ya está **disponible**
 
 (TODO)
 
-* Bloque conversor A/D
 * Ejemplo 1: AD - LEDs (Escenario I)
 * Ejemplo 2: AD - serie (Escenario I)
 * Ejemplo 3: AD - servo (Escenario II)
