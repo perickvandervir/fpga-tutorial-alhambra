@@ -246,11 +246,28 @@ Por los puertos **adc-sda** y **adc-scl** se conectan directamente los pines del
 
 Por la entrada **ch[1:0]** indicamos el **canal a leer** (0-3) e introducimos un **tic por start** para que **comience** la conversión. La lectura digital es de **8 bits** (Se toman los 8 bits más significativos del valor interno de 12 bits), y se devuelve por el **bus de salida**. Se emite un **tic de dato listo** por **done**, para indicar que la **muestra** ya está **disponible**
 
-(TODO)
+## Ejemplo 1: Lectura de un potenciómetro
 
-* Ejemplo 1: AD - LEDs (Escenario I)
-* Ejemplo 2: AD - serie (Escenario I)
-* Ejemplo 3: AD - servo (Escenario II)
+(Explicación)  
+(Escenario)  
+(Circuito)  
+(Vídeo)  
+
+## Ejemplo 2: Envío de muestras al PC por el puerto serie
+
+(Explicación)  
+(Escenario)  
+(Circuito)  
+(Vídeo)  
+
+## Ejemplo 3: Movimiento de un servo con el potenciómetro
+
+(Explicación)  
+(Escenario)  
+(Circuito)  
+(Vídeo)  
+
+(TODO)
 
 # Rango de Caballero Jedi
 
