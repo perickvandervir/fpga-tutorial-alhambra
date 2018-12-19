@@ -236,6 +236,9 @@ Esta colección se ha creado a partir de la **colección de la Academia Jedi** d
 
 ## Bloque para lecturas analógicas
 
+Las placas Icezum Alhambra y Alhambra II incorporan el conversor analógico-digital xxxxx
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/ADC-01.png)
 
 
 (TODO)
