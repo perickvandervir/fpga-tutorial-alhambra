@@ -282,6 +282,7 @@ Esta colección se ha creado a partir de la **colección de la Academia Jedi** d
 # Créditos y agradecimientos
 
 * [Imagen del sable láser](https://commons.wikimedia.org/w/index.php?curid=3846827). De Tim Kloske (talk) - Trabajo propio, Dominio público, 
+* [Señal analógica](https://commons.wikimedia.org/w/index.php?curid=9378313), By Fleshgrinder - Own work, Public Domain
 
 # Enlaces
 
