@@ -193,7 +193,9 @@ El ecosistema de las **FPGAs libres** nació con el [proyecto icestorm](http://w
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/symbiflow-01.png)
 
-Se ha creado una **arquitectura más general**, para integrar **FPGAs de diferentes fabricantes**. ¡¡Y esto es algo importantísimo!!
+Se ha creado una **arquitectura más general**, para integrar **FPGAs de diferentes fabricantes**. ¡¡Y esto es algo importantísimo!!. Los fabricantes, actualmente, tiene cada uno sus propias herramientas, que sólo valen para sus FPGAs. Esto dificulta enormemente el hacer diseños hardware **reutilizables** en FPGAs de otros fabricantes. Esto mismo ya ocurrió en el pasado con los **microprocesadores**: cada fabricante tenía **su propio compilador**. Hasta que llegó el **primer compilador libre**: el **GCC**, que permitía reutilizar el código en diferentes procesadores. Pues bien, gracias a Symbiflow, **¡tenemos el primer sintetizador libre multi-FPGA!**. Y esto va a cambiar el panorama de las FPGAs muchísimo, a largo plazo
+
+(foto)
 
 
 * https://www.google.com/url?q=https://j.mp/orconf-symbiflow&sa=D&ust=1545158641352000&usg=AFQjCNF0RWbq1GORqXHBP2Hoj0AwyYXqkg
