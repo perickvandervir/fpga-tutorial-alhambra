@@ -213,11 +213,13 @@ El proyecto tiene **2 partes fundamentales**: las **herramientas software** y la
 
 La parte más importante del proyecto es la **documentación** de las diferentes FPGAs. Esta información NO la proporciona el fabricante, por lo que se está obteniendo mediante ingeniería inversa, y es un proceso largo y tedioso, pero está dando sus frutos
 
-* [Proyecto Icestorm](http://www.clifford.at/icestorm/): Documentación de la **Familia ICE40 de Lattice**
-* [Proyecto Trellis](https://symbiflow.github.io/prjtrellis-db/): Documentación de la **Familia ECP5 de Lattice**
-* [Proyecto X-ray](https://symbiflow.github.io/prjxray-db/): Documentación de la **Serie-7 de Xilinx**
-* [Proyecto Chibi](https://github.com/rqou/project-chibi): Documentación de las FPGA **MAX-V de Intel**
-* [Proyecto 2064](https://github.com/JohnDMcMaster/project2064): Documentación de la familia **xc20xx de Xilinx** (Las primeras FPGAs que hubo)
+| Nombre  | Descripción |
+|---------|-------------|
+| [Proyecto Icestorm](http://www.clifford.at/icestorm/) | Documentación de la **Familia ICE40 de Lattice** |
+| [Proyecto Trellis](https://symbiflow.github.io/prjtrellis-db/) | Documentación de la **Familia ECP5 de Lattice** |
+| [Proyecto X-ray](https://symbiflow.github.io/prjxray-db/) | Documentación de la **Serie-7 de Xilinx** |
+| [Proyecto Chibi](https://github.com/rqou/project-chibi) | Documentación de las FPGA **MAX-V de Intel** |
+| [Proyecto 2064](https://github.com/JohnDMcMaster/project2064)| Documentación de la familia **xc20xx de Xilinx** (Las primeras FPGAs que hubo) |
 
 
 # Colección JEDI
