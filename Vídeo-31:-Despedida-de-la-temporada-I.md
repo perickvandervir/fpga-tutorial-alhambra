@@ -37,6 +37,7 @@ TODO
 * [Los 3 primeros certificados emitidos](#los-3-primeros-certificados-emitidos)
   * [Ximo Catala](#ximo-catala)
   * [Josep Montoliu](#josep-montoliu)
+  * [Federico Coca](#federico-coca)
 
 # Evolución de las FPGAs libres
 
