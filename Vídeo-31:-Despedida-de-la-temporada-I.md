@@ -259,8 +259,12 @@ Vamos a conectar un **potenciómetro** lineal de **10K** al **canal 0** del conv
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/ADC-04.png)
 
-(Explicación)  
-(Circuito)  
+En el circuito colocamos el **bloque conversor A/D**. Mediante una constante de 2 bits indicamos que queremos leer el **canal 0**, y colocamos un **corazón de tics de 20Hz** para realizar 20 lecturas por segundos. La salida la conectamos directamente a los **LEDs**. Este ejemplo se encuentra en la colección Jedi en el menú **Archivo/Ejemplos/ADC/01-Potentiometer-LEDs**
+
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/ADC-05.png)
+
+Lo **cargamos** y lo probamos. En los LEDs veremos el **valor digital de la tensión** proporcionada por el potenciómetro, en **binario**. En un extremo su valor será 0 (0v), y en el otro 255 (5v)
+
 (Vídeo)  
 
 ## Ejemplo 2: Envío de muestras al PC por el puerto serie
