@@ -340,17 +340,27 @@ Los **tres primeros** estudiantes de la Academia Jedi en alcanzar el rango máxi
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/certificados/002-certificado-Federico-Coca.png)
 
+# Soluciones a los ejercicios del tutorial 30: Puerto Serie
+
+Las soluciones a los ejercicios planteados en el [tutorial 30: Puerto serie]((TODO)) se muestran a continuación:
+
+## Ejercicio 30.1: Transmisión de dos cadenas
+
+(TODO)
+
+## Ejercicio 30.2: Contador de pasadas del spiner
+
+(TODO)
+
+## Ejercicio 30.3: Control de Franky por puerto serie
+
+(TODO)
+
 # Estadísticas del tutorial
 
 * Primer vídeo: 13-Octubre-2017
 * Último vídeo: 21-Dic-2018
 * Total: 1 año y 2 meses
-
-# Soluciones a los ejercicios del tutorial 30
-
-(TODO)
-
-
 
 (TODO)
 
