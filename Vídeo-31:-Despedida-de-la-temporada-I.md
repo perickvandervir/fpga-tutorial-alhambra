@@ -300,9 +300,10 @@ Si has participado en la **Academia Jedi**, el curso estará oficialmente termin
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/22-Caballero-Jedi.png)
 
-(TODO)
+Una vez que consigas los **600 Bitpoints**, se emitirá un **Certificado Jedi** que acredite tus logros
 
-# Certificados emitidos
+# Los 3 primeros Certificados emitidos
+
 
 (TODO)
 
