@@ -283,7 +283,7 @@ Lo **cargamos** y lo **probamos**. En el PC ejecutamos el **ScriptCommuniator** 
 
 Como último ejemplo de la temporada I de tutoriales, vamos a mover un **servo a cualquier posición**, usando el **potenciómetro**. El escenario es el mismo de antes pero añadiendo un servo Futaba 3003
 
-(Escenario)  
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/ADC-07.png)
 
 (Explicación)  
 (Circuito)  
