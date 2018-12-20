@@ -257,10 +257,9 @@ Por la entrada **ch[1:0]** indicamos el **canal a leer** (0-3) e introducimos un
 
 Vamos a conectar un **potenciómetro** lineal de **10K** al **canal 0** del conversor A/D y leeremos su **valor digital**, de 8 bits, que mostraremos en los **LEDs** de la Icezum Alhambra. El **escenario** es el siguiente:
 
-(Foto)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/ADC-04.png)
 
 (Explicación)  
-(Escenario)  
 (Circuito)  
 (Vídeo)  
 
