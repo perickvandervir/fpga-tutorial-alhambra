@@ -291,9 +291,7 @@ En el circuito colocamos el **controlador de servos** igual que el transmisor se
 
 Lo **cargamos** y lo **probamos**. Ahora podemos llevar el servo a cualquier posición fácilmente moviendo el potenciómetro. ¡Es muy adictivo! :-)
 
-[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
-
-(Vídeo)  
+[![Click to see the youtube video](http://img.youtube.com/vi/vg7P8ZVle3Q/0.jpg)](https://www.youtube.com/watch?v=vg7P8ZVle3Q)
 
 # Rango de Caballero Jedi
 
