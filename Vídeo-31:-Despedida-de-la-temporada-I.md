@@ -285,11 +285,15 @@ Como último ejemplo de la temporada I de tutoriales, vamos a mover un **servo a
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/ADC-07.png)
 
-(Explicación)  
-(Circuito)  
-(Vídeo)  
+En el circuito colocamos el **controlador de servos** igual que el transmisor serie del ejemplo 2: por su entrada **write** conectamos la salida **done**, para que mueva el servo a la posición recibida del conversor
 
-(TODO)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/ADC-08.png)
+
+Lo **cargamos** y lo **probamos**. Ahora podemos llevar el servo a cualquier posición fácilmente moviendo el potenciómetro. ¡Es muy adictivo! :-)
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
+(Vídeo)  
 
 # Rango de Caballero Jedi
 
