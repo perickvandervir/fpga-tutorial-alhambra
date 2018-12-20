@@ -42,6 +42,7 @@ TODO
   * [Ejercicio 30.1: Transmisión de dos cadenas](#ejercicio-301-transmisi%C3%B3n-de-dos-cadenas)
   * [Ejercicio 30.2: Contador de pasadas del spiner](#ejercicio-302-contador-de-pasadas-del-spiner)
   * [Ejercicio 30.3: Control de Franky por puerto serie](#ejercicio-303-control-de-franky-por-puerto-serie)
+* [Estadísticas del tutorial](#estad%C3%ADsticas-del-tutorial)
 
 # Evolución de las FPGAs libres
 
