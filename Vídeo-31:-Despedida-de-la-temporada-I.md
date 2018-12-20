@@ -241,7 +241,7 @@ Las placas **Icezum Alhambra** y **Alhambra II** incorporan el **conversor anal�
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/ADC-02.png)
 
-y la lectura se hace a través del **bus I2C**, por los pines ADC-SDA (datos) y ADC-SCL (reloj) de la FPGA
+La lectura se hace a través del **bus I2C**, por los pines **ADC-SDA** (datos) y **ADC-SCL** (reloj) de la FPGA
 
 (Dibujo)
 
