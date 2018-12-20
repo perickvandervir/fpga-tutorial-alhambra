@@ -57,7 +57,9 @@ El curso queda oficialmente completado cuando se alcanza el rango de **Caballero
 
 | Nombe   |  BitPoints | Certificado | Fecha emisión |
 |---------|------------|-------------|---------------|
-| [Ximo Catala](https://github.com/ximocat) (Ximocat) |  600 (+465)  | [PDF]()[](png) | 21-Diciembre-2018 |
+| [Ximo Catala](https://github.com/ximocat) (Ximocat) |  600 (+465)  | [PDF](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/certificados/000-certificado-Ximo-Catala.pdf)[PNG](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/certificados/000-certificado-Ximo-Catala.png) | 21-Diciembre-2018 |
+| []()  |  600 (+)  | [PDF]()[PNG]() | 21-Diciembre-2018 |
+| []()  |  600 (+)  | [PDF]()[PNG]() | 21-Diciembre-2018 |
 
 ### Tercer curso
 
