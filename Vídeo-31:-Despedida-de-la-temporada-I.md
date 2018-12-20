@@ -308,7 +308,7 @@ Una vez que consigas los **600 Bitpoints**, se emitirá un **Certificado Jedi** 
 
 Los **tres primeros** estudiantes de la Academia Jedi en alcanzar el rango máximo de **Caballero Jedi** son:
 
-## Ximo Catala
+## Ximo Catala 
 
 * [Usuario xxx]() en Github
 
@@ -316,9 +316,9 @@ Los **tres primeros** estudiantes de la Academia Jedi en alcanzar el rango máxi
 
 (certificado)
 
-## Segundo
+## Josep Montoliu 
 
-## Tercero
+## Federico Coca
 
 (TODO)
 
