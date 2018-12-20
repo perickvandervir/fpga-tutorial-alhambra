@@ -239,6 +239,8 @@ Esta colección se ha creado a partir de la **colección de la Academia Jedi** d
 
 Las placas **Icezum Alhambra** y **Alhambra II** incorporan el **conversor analógico-digital** [ADS7924](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/datasheet/ads7924.pdf) de texas instrument. Tiene **4 canales de 12 bits**, y la lectura se hace a través del **bus I2C**, por los pines ADC-SDA (datos) y ADC-SCL (reloj).
 
+(Dibujo)
+
 Un primer bloque para leer uno de los canales analógicos se encuentra en la **colección Jedi**, en el menú **Varios/ADC/adc**
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/ADC-01.png)
