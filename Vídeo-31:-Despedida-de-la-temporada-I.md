@@ -315,15 +315,27 @@ Los **tres primeros** estudiantes de la Academia Jedi en alcanzar el rango máxi
 
 * **Bitpoints totales**: 600 (+465)
 
+* **Certificado**:
+
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/certificados/000-certificado-Ximo-Catala.png)
 
 ## Josep Montoliu 
 
+* **Usuario Github**: []()
+
+* **Bitpoints totales**: 600 (+)
+
+* **Certificado**:
+
+![]()
+
 ## Federico Coca
 
-(TODO)
+* **Usuario Github**: []()
 
+* **Bitpoints totales**: 600 (+)
 
+* **Certificado**:
 
 # Estadísticas del tutorial
 
