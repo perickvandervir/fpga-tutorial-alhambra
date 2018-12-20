@@ -327,7 +327,7 @@ Los **tres primeros** estudiantes de la Academia Jedi en alcanzar el rango máxi
 
 * **Certificado**:
 
-![]()
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/certificados/001-certificado-Josep-Montoliu.png)
 
 ## Federico Coca
 
