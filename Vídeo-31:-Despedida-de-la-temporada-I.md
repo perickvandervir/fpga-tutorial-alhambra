@@ -298,6 +298,8 @@ Lo **cargamos** y lo **probamos**. Ahora podemos llevar el servo a cualquier pos
 
 Si has participado en la **Academia Jedi**, el curso estará oficialmente terminado cuando alcances el **rango de Caballero Jedi**. Para ello necesitarás tener al menos... **¡600 Bitpoints!**. Los bitpoints que te faltan los podrás conseguir haciendo **tus propios proyectos** que podrás entregar en la **carpeta del tutorial 31** en el github de las entregas. Es obligatorio que la entrega sea por **github**
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/22-Caballero-Jedi.png)
+
 (TODO)
 
 # Certificados emitidos
