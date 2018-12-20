@@ -265,7 +265,7 @@ En el circuito colocamos el **bloque conversor A/D**. Mediante una constante de 
 
 Lo **cargamos** y lo probamos. En los LEDs veremos el **valor digital de la tensión** proporcionada por el potenciómetro, en **binario**. En un extremo su valor será 0 (0v), y en el otro 255 (5v)
 
-(Vídeo)  
+[![Click to see the youtube video](http://img.youtube.com/vi/0g8tuKTo0yA/0.jpg)](https://www.youtube.com/watch?v=0g8tuKTo0yA)
 
 ## Ejemplo 2: Envío de muestras al PC por el puerto serie
 
