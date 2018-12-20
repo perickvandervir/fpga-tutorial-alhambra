@@ -270,8 +270,8 @@ Lo **cargamos** y lo probamos. En los LEDs veremos el **valor digital de la tens
 
 ## Ejemplo 2: Envío de muestras al PC por el puerto serie
 
-(Explicación)  
-(Escenario)  
+Usando el **mismo escenario** que en el ejemplo 1, añadimos el **bloque transmisor serie** para enviar las lecturas del potenciómetro al PC, por el **puerto serie**. Para que se realice la transmisión sólo hay que conectar la señal **done** del conversor a la **txmit** del bloque serie. La frecuencia de muestreo la cambiamos a 100, para que se envíen más datos por segundo. El **circuito** es el siguiente:
+
 (Circuito)  
 (Vídeo)  
 
