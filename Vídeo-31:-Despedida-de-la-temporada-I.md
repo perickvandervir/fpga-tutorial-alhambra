@@ -305,6 +305,13 @@ Una vez que consigas los **600 Bitpoints**, se emitirá un **Certificado Jedi** 
 
 # Los 3 primeros Certificados emitidos
 
+Los **tres primeros** estudiantes de la Academia Jedi en alcanzar el rango máximo de **Caballero Jedi** son:
+
+## Ximo Catala
+
+* **Bitpoints totales**: xxx
+
+(certificado)
 
 (TODO)
 
