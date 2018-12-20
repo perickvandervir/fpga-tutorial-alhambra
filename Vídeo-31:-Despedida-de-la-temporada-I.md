@@ -275,15 +275,17 @@ Usando el **mismo escenario** que en el ejemplo 1, añadimos el **bloque transmi
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/ADC-06.png)
 
-Lo **cargamos** y lo ***probamos**. En el PC ejecutamos el **ScriptCommuniator** y mostramos la pestaña con los datos en **decimal**. Veremos cómo en un extremo se recibe el **000** y en el otro el **255**
+Lo **cargamos** y lo **probamos**. En el PC ejecutamos el **ScriptCommuniator** y mostramos la pestaña con los datos en **decimal**. Veremos cómo en un extremo se recibe el **000** y en el otro el **255**
 
 [![Click to see the youtube video](http://img.youtube.com/vi/bJaM6gJl_Vg/0.jpg)](https://www.youtube.com/watch?v=bJaM6gJl_Vg)
 
-
 ## Ejemplo 3: Movimiento de un servo con el potenciómetro
 
-(Explicación)  
+Como último ejemplo de la temporada I de tutoriales, vamos a mover un **servo a cualquier posición**, usando el **potenciómetro**. El escenario es el mismo de antes pero añadiendo un servo Futaba 3003
+
 (Escenario)  
+
+(Explicación)  
 (Circuito)  
 (Vídeo)  
 
