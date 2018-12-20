@@ -310,9 +310,9 @@ Los **tres primeros** estudiantes de la Academia Jedi en alcanzar el rango máxi
 
 ## Ximo Catala 
 
-* [Usuario xxx]() en Github
+* **Usuario Github**: [ximocat](https://github.com/ximocat)
 
-* **Bitpoints totales**: xxx
+* **Bitpoints totales**: 600 (+465)
 
 (certificado)
 
