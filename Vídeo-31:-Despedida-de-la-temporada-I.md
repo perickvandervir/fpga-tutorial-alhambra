@@ -357,9 +357,18 @@ Las soluciones a los ejercicios planteados en el [tutorial 30: Puerto serie]((TO
 
 ## Ejercicio 30.2: Contador de pasadas del spiner
 
+* [Sol-Tut30-2.ice](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/Soluciones-30/Sol-Tut30-2.ice)
+
+![]()
+
 (TODO)
 
 ## Ejercicio 30.3: Control de Franky por puerto serie
+
+* [Sol-Tut30-3.ice](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/Soluciones-30/Sol-Tut30-3.ice)
+
+![]()
+
 
 (TODO)
 
