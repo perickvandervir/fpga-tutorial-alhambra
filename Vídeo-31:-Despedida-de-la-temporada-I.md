@@ -314,7 +314,7 @@ Los **tres primeros** estudiantes de la Academia Jedi en alcanzar el rango máxi
 
 * **Bitpoints totales**: 600 (+465)
 
-(certificado)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/certificados/000-certificado-Ximo-Catala.png)
 
 ## Josep Montoliu 
 
