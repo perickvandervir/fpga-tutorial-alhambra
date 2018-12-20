@@ -263,7 +263,7 @@ En el circuito colocamos el **bloque conversor A/D**. Mediante una constante de 
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/ADC-05.png)
 
-Lo **cargamos** y lo probamos. En los LEDs veremos el **valor digital de la tensión** proporcionada por el potenciómetro, en **binario**. En un extremo su valor será 0 (0v), y en el otro 255 (5v)
+Lo **cargamos** y lo probamos. En los LEDs veremos el **valor digital de la tensión** proporcionada por el potenciómetro, en **binario**. En un extremo su valor será **0** (0v), y en el otro **255** (5v)
 
 [![Click to see the youtube video](http://img.youtube.com/vi/0g8tuKTo0yA/0.jpg)](https://www.youtube.com/watch?v=0g8tuKTo0yA)
 
