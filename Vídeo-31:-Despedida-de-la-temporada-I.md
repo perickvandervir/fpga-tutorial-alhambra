@@ -36,6 +36,7 @@ TODO
 * [Rango de Caballero Jedi](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-31:-Despedida-de-la-temporada-I#rango-de-caballero-jedi) 
 * [Los 3 primeros certificados emitidos](#los-3-primeros-certificados-emitidos)
   * [Ximo Catala](#ximo-catala)
+  * [Josep Montoliu](#josep-montoliu)
 
 # Evolución de las FPGAs libres
 
