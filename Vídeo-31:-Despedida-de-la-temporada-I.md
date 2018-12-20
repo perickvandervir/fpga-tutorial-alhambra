@@ -39,6 +39,7 @@ TODO
   * [Josep Montoliu](#josep-montoliu)
   * [Federico Coca](#federico-coca)
 * [Soluciones a los ejercicios del tutorial 30: Puerto serie](#soluciones-a-los-ejercicios-del-tutorial-30-puerto-serie)
+  * [Ejercicio 30.1: Transmisión de dos cadenas](#ejercicio-301-transmisi%C3%B3n-de-dos-cadenas)
 
 # Evolución de las FPGAs libres
 
