@@ -255,7 +255,7 @@ Por la entrada **ch[1:0]** indicamos el **canal a leer** (0-3) e introducimos un
 
 ## Ejemplo 1: Lectura de un potenciómetro
 
-Vamos a conectar un **potenciómetro** al **canal 0** del conversor A/D y leeremos su **valor digital**, de 8 bits, que mostraremos en los **LEDs** de la Icezum Alhambra. El **escenario** es el siguiente:
+Vamos a conectar un **potenciómetro** lineal de **10K** al **canal 0** del conversor A/D y leeremos su **valor digital**, de 8 bits, que mostraremos en los **LEDs** de la Icezum Alhambra. El **escenario** es el siguiente:
 
 (Foto)
 
