@@ -55,9 +55,9 @@ El curso queda oficialmente completado cuando se alcanza el rango de **Caballero
 
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/22-Caballero-Jedi.png)
 
-| Nombe   |  BitPoints | 
-|---------|------------|
-| anónimo |  600       |
+| Nombe   |  BitPoints | Certificado | Fecha emisión |
+|---------|------------|-------------|---------------|
+| [Ximo Catala](https://github.com/ximocat) (Ximocat) |  600 (+465)  | [PDF]()[](png) | 21-Diciembre-2018 |
 
 ### Tercer curso
 
@@ -67,7 +67,7 @@ Estudiante que se encuentran cursando el **tercer año** de la **academia de Har
 
 |Divisa  | Nombe             | Rango    | BitPoints | Tutorial | 
 |--------|-------------------|----------|-----------|----------|
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/21-Jedi-N3-min.png)|    Ximo Catala (Ximocat) | Jedi Nivel 3| 520 (+545)| T30 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/21-Jedi-N3-min.png)|     | Jedi Nivel 3| 520 (+545)| T30 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/21-Jedi-N3-min.png)|    Josep Montoliu (Klarojms) | Jedi Nivel 3| 520 (+100)| T30 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/21-Jedi-N3-min.png)|   Federico Coca | Jedi Nivel 3| 520 (+85)| T30 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/21-Jedi-N3-min.png)|    Andrés (@Avarez_) | Jedi Nivel 3| 520 (+40)| T30 |
