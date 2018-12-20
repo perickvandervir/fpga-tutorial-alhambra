@@ -38,6 +38,7 @@ TODO
   * [Ximo Catala](#ximo-catala)
   * [Josep Montoliu](#josep-montoliu)
   * [Federico Coca](#federico-coca)
+* [Soluciones a los ejercicios del tutorial 30: Puerto serie](#soluciones-a-los-ejercicios-del-tutorial-30-puerto-serie)
 
 # Evolución de las FPGAs libres
 
