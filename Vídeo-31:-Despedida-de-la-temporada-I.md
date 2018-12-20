@@ -322,9 +322,9 @@ Los **tres primeros** estudiantes de la Academia Jedi en alcanzar el rango máxi
 
 ## Josep Montoliu 
 
-* **Usuario Github**: []()
+* **Usuario Github**: [klarojms](https://github.com/klarojms)
 
-* **Bitpoints totales**: 600 (+)
+* **Bitpoints totales**: 600 (+20)
 
 * **Certificado**:
 
@@ -332,9 +332,9 @@ Los **tres primeros** estudiantes de la Academia Jedi en alcanzar el rango máxi
 
 ## Federico Coca
 
-* **Usuario Github**: []()
+* **Usuario Github**: [fgcoca](https://github.com/fgcoca)
 
-* **Bitpoints totales**: 600 (+)
+* **Bitpoints totales**: 600 (+5)
 
 * **Certificado**:
 
