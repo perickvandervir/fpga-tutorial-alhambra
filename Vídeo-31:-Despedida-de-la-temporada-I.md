@@ -337,6 +337,8 @@ Los **tres primeros** estudiantes de la Academia Jedi en alcanzar el rango máxi
 
 * **Certificado**:
 
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/certificados/002-certificado-Federico-Coca.png)
+
 # Estadísticas del tutorial
 
 * Primer vídeo: 13-Octubre-2017
