@@ -351,7 +351,7 @@ Las soluciones a los ejercicios planteados en el [tutorial 30: Puerto serie]((TO
 * [msg0.list](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/Soluciones-30/msg0.list)
 * [msg1.list](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/Soluciones-30/msg1.list)
 
-(Pantallazo)
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/Soluciones-30-1.png)
 
 ## Ejercicio 30.2: Contador de pasadas del spiner
 
