@@ -32,6 +32,7 @@ TODO
   * [Bloque para lecturas analógicas](#bloque-para-lecturas-anal%C3%B3gicas)
   * [Ejemplo 1: Lectura de un potenciómetro](#ejemplo-1-lectura-de-un-potenci%C3%B3metro)
   * [Ejemplo 2: Envío de muestras al PC por el puerto serie](#ejemplo-2-env%C3%ADo-de-muestras-al-pc-por-el-puerto-serie)
+  * [Ejemplo 3: Movimiento de un servo con el potenciómetro](#ejemplo-3-movimiento-de-un-servo-con-el-potenci%C3%B3metro)
 
 # Evolución de las FPGAs libres
 
