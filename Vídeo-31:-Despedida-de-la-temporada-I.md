@@ -272,8 +272,12 @@ Lo **cargamos** y lo probamos. En los LEDs veremos el **valor digital de la tens
 
 Usando el **mismo escenario** que en el ejemplo 1, añadimos el **bloque transmisor serie** para enviar las lecturas del potenciómetro al PC, por el **puerto serie**. Para que se realice la transmisión sólo hay que conectar la señal **done** del conversor a la **txmit** del bloque serie. La frecuencia de muestreo la cambiamos a 100, para que se envíen más datos por segundo. El **circuito** es el siguiente:
 
-(Circuito)  
-(Vídeo)  
+![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/Tutorial-31/ADC-06.png)
+
+Lo **cargamos** y lo ***probamos**. En el PC ejecutamos el **ScriptCommuniator** y mostramos la pestaña con los datos en **decimal**. Veremos cómo en un extremo se recibe el 000 y en el otro el 255
+
+[![Click to see the youtube video](http://img.youtube.com/vi//0.jpg)]()
+
 
 ## Ejemplo 3: Movimiento de un servo con el potenciómetro
 
