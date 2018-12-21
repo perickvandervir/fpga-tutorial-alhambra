@@ -383,7 +383,7 @@ Las soluciones a los ejercicios planteados en el [tutorial 30: Puerto serie]((TO
 * **Vídeos**:
   * 48 con explicaciones
   * 159 de apoyo (sin voz): ejemplos, ejercicios propuestos, aclaraciones...
-* xxx ediciones de los tutoriales en la wiki
+* **Número de ediciones de la wiki**: 7340 
 * xxx commits de desarrollo
 * xxx commits de ejercicios entregados por la gente
 * Numero total de apuntados: xx
