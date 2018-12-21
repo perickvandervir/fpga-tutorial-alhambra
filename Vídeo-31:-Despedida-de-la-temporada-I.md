@@ -386,35 +386,35 @@ Las soluciones a los ejercicios planteados en el [tutorial 30: Puerto serie]((TO
 * **Número de ediciones de la wiki**: 7340 
 * **Commits de desarrollo**: 1563
 * **Número de entregas de ejercicios recibidas**: 1160
-* **Numero total de apuntados**: xx
+* **Numero total de apuntados**: 193
   * **Curso Completado**: 3
     * **Caballeros Jedi**: 3
-  * **Tercer curso**: 13
+  * **Tercer curso**: 8
     * **Jedis Nivel 3**: 2
     * **Jedis Nivel 2**: 0
     * **Jedis Nivel 1**: 6
     * **Jedis**: 0
+  * **Segundo curso**: 18
     * **Aspirantes a Jedi Nivel 3**: 1
     * **Aspirantes a Jedi Nivel 2**: 1
     * **Aspirantes a Jedi Nivel 1**: 1
     * **Aspirantes a Jedi**: 2
-  * Padawans Nivel 3: 3
-  * Padawans Nivel 2: 1
-  * Padawans Nivel 1: 2
-  * Padawans: 7
-  * Aspirantes a Padawans Nivel 3: 12
-  * Aspirantes a Padawans Nivel 2: 2
-  * Aspirantes a Padawans Nivel 1: 16
-  * Aspirantes a Padawans: 9
-  * Cadetes Nivel 3: 23
-  * Cadetes Nivel 2: 20
-  * Cadetes Nivel 1: 13
-  * Cadetes: 28
-  * Aspirantes a Cadete: 39
-  * Observadores: 2
-  
-
-(TODO)
+    * **Padawans Nivel 3**: 3
+    * **Padawans Nivel 2**: 1
+    * **Padawans Nivel 1**: 2
+    * **Padawans**: 7
+  * **Primer curso**: 123
+    * **Aspirantes a Padawans Nivel 3**: 12
+    * **Aspirantes a Padawans Nivel 2**: 2
+    * **Aspirantes a Padawans Nivel 1**: 16
+    * **Aspirantes a Padawans**: 9
+    * **Cadetes Nivel 3**: 23
+    * **Cadetes Nivel 2**: 20
+    * **Cadetes Nivel 1**: 13
+    * **Cadetes**: 28
+  * **Pre-academia**: 41
+    * **Aspirantes a Cadete**: 39
+    * **Observadores**: 2
 
 # Autor
 
