@@ -381,8 +381,8 @@ Las soluciones a los ejercicios planteados en el [tutorial 30: Puerto serie]((TO
 * **Imágenes:** 1357. Entre figuras, pantallazos y animaciones. Con sus ficheros fuentes en SVG en el propio repositorio del tutorial
 * **Tutoriales:**: 31, con vídeos e información en wiki
 * **Vídeos**:
-  * xx con explicaciones
-  * xx de apoyo (sin voz): ejemplos, ejercicios propuestos, aclaraciones...
+  * 48 con explicaciones
+  * 159 de apoyo (sin voz): ejemplos, ejercicios propuestos, aclaraciones...
 * xxx ediciones de los tutoriales en la wiki
 * xxx commits de desarrollo
 * xxx commits de ejercicios entregados por la gente
