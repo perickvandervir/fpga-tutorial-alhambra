@@ -378,7 +378,7 @@ Las soluciones a los ejercicios planteados en el [tutorial 30: Puerto serie]((TO
 * **Tiempo desarrollo Total**: 1 año y 2 meses
 * **Ejemplos de circuitos**: 220.  Todos sintetizados y comprobados en hardware real
 * **Ejercicios propuestos:** 90. Con sus soluciones
-* **Imágenes:**. xx. Con sus ficheros fuentes en SVG en el propio repositorio del tutorial
+* **Imágenes:** 1357. Entre figuras, pantallazos y animaciones. Con sus ficheros fuentes en SVG en el propio repositorio del tutorial
 * **Vídeos**:
   * xx con explicaciones
   * xx de apoyo (sin voz)
