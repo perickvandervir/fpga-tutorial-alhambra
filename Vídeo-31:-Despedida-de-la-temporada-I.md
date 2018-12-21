@@ -10,7 +10,7 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 
 # Descripción
 
-TODO
+**Último** vídeo de la **Temporada I**. Haremos un repaso de lo que ha avanzado el **ecosistema de las FPGAs libres** durante este año. Han aparecido muchas placas, y las herramientas siguen evolucionando para soportar **más modelos de FPGAs**. Como ejemplo de la **colección Jedi**, veremos cómo usar el **conversor analógico-digital**
 
 # Contenido
 
