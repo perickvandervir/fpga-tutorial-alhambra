@@ -373,9 +373,22 @@ Las soluciones a los ejercicios planteados en el [tutorial 30: Puerto serie]((TO
 
 # Estadísticas del tutorial
 
-* Primer vídeo: 13-Octubre-2017
-* Último vídeo: 21-Dic-2018
-* Total: 1 año y 2 meses
+* **Primer vídeo**: 13-Octubre-2017
+* **Último vídeo**: 21-Dic-2018
+* **Tiempo desarrollo Total**: 1 año y 2 meses
+* **Ejemplos de circuitos**: xx.  Todos sintetizados y comprobados en hardware real
+* **Ejercicios propuestos:** xx. Con sus soluciones
+* **Imágenes:**. xx. Con sus ficheros fuentes en SVG en el propio repositorio del tutorial
+* **Vídeos**:
+  * xx con explicaciones
+  * xx de apoyo (sin voz)
+* xxx ediciones de los tutoriales en la wiki
+* xxx commits de desarrollo
+* xxx commits de ejercicios entregados por la gente
+* Numero total de apuntados: xx
+  * Caballeros Jedi: xx (Curso completado)
+  * xx
+  
 
 (TODO)
 
