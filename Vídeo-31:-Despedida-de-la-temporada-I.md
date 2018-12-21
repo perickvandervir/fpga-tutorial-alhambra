@@ -387,7 +387,8 @@ Las soluciones a los ejercicios planteados en el [tutorial 30: Puerto serie]((TO
 * **Commits de desarrollo**: 1563
 * **Número de entregas de ejercicios recibidas**: 1160
 * Numero total de apuntados: xx
-  * Caballeros Jedi: 3 (Curso completado)
+  * Curso Completado: 3
+    * Caballeros Jedi: 3
   * Jedis Nivel 3: 2
   * Jedis Nivel 2: 0
   * Jedis Nivel 1: 6
