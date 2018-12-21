@@ -347,6 +347,10 @@ Es la **moneda virtual** usada en la **Academia Jedi de Hardware**, usada para a
 
 ## Noticias
 
+### **21-Diciembre-2018**: Finalizada la temporada I
+
+Se ha publicado el último tutorial (31) de la Temporada I. Se han emitido los 3 primeros certificados de Caballero Jedi: para las tres primeras personas que han completado el curso ¡Enhorabuena! ¡Muchísimas gracias a todos! :-)
+
 ### **17-Septiembre-2018**: Cerrado plazo de matriculación en la Academia Jedi
 
 El periodo de matriculaciones se ha cerrado. Sois muchos y no tengo tiempo para atenderos a todos. Por eso no puede entrar más gente de momento. El curso el libre y lo podéis hacer, pero no me podéis enviar ejercicios para asignaros bitpoints
