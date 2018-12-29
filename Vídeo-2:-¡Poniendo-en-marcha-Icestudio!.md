@@ -13,6 +13,7 @@ Aprenderemos a **Instalar** la herramienta [Icestudio](https://github.com/FPGAwa
   * [Paso 1: Descarga del instalador](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#paso-1-descarga-del-instalador-de-icestudio)
   * [Paso 2: Ejecutar el instalador](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#paso-2-ejecutar-el-instalador)
     * [GNU/Linux](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#gnulinux)
+      * [Nota sobre Ubuntu 18.04](#nota-sobre-ubuntu-1804)
     * [Windows](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#windows)
     * [Mac](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#mac)
   * [Paso 3: Configurar el idioma](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio!#paso-3-configurar-el-idioma)
