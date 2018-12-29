@@ -414,6 +414,14 @@ Este mensaje aparece por estos motivos:
 
 # FAQs
 
+* **Al ejecutar Icestudio obtengo el siguiente "error: ./icestudio: error while loading shared libraries: libgconf-2.so.4: cannot open shared object file: No such file or directory". ¿Cómo lo soluciono?
+
+Es debido a que la biblioteca **ligconf-2-4 no está instalada**. En principio se debería haber instalado con Ubuntu, pero varios usuarios han reportado este problema. Se soluciona ejecutando este comando:
+
+```
+sudo apt install libgconf-2-4
+```
+
 * **¿Dónde puedo conseguir la placa Icezum Alhambra?**
 
 Pueden conseguir una desde [Alhambrabits](https://alhambrabits.com/buy/)
