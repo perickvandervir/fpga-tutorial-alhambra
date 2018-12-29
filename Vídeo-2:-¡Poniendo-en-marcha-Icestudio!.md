@@ -122,6 +122,20 @@ chmod +x icestudio-0.3.1-linux64.AppImage
 ./icestudio-0.3.1-linux64.AppImage
 ```
 
+#### NOTA sobre Ubuntu 18.04
+
+Algunos usuarios de ubuntu han reportado que siguen todos los pasos y no les arranca Icestudio. En ese caso, probar a instalarlo desde la consola (modo avanzado) para descubrir cuál es el mensaje de error que aparece. El siguiente error le ha aparecido a algunos usuarios
+
+```
+error: ./icestudio: error while loading shared libraries: libgconf-2.so.4: cannot open shared object file: No such file or directory
+```
+
+Es debido a que la biblioteca **ligconf-2-4 no está instalada**. En principio se debería haber instalado con Ubuntu, pero por la razón que sea no lo está. Se soluciona ejecutando este comando:
+
+```
+sudo apt install libgconf-2-4
+```
+
 ### Windows
 
 Mostraremos los pantallazos para **Windows 10**, aunque el proceso es similar para los windows anteriores. Una vez descargado el instalador lo ejecutamos, haciendo doble click en el archivo descargado en el paso 1. Dependiendo de los antivirus que tengamos instalados, podrán salir varias **ventanas de advertencia**:
