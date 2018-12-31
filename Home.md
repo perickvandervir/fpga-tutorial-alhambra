@@ -60,6 +60,7 @@ El curso queda oficialmente completado cuando se alcanza el rango de **Caballero
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/22-Caballero-Jedi-min.png) |[Ximo Catala](https://github.com/ximocat) (Ximocat) |  1065  | ([PDF](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/certificados/000-certificado-Ximo-Catala.pdf)) ([PNG](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/certificados/000-certificado-Ximo-Catala.png)) | 21-Diciembre-2018 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/22-Caballero-Jedi-min.png) |[Josep Montoliu (Klarojms)](https://github.com/klarojms)  |  800  | ([PDF](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/certificados/001-certificado-Josep-Montoliu.pdf)) ([PNG](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/certificados/001-certificado-Josep-Montoliu.png)) | 21-Diciembre-2018 |
 |  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/22-Caballero-Jedi-min.png) |[Federico Coca](https://github.com/fgcoca)  |  605  | ([PDF](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/certificados/002-certificado-Federico-Coca.pdf)) ([PNG](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/wiki/certificados/002-certificado-Federico-Coca.png)) | 21-Diciembre-2018 |
+|  ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/22-Caballero-Jedi-min.png) |[Andrés Pérez Avarez](https://github.com/avarez)  |  600  | ([PDF]()) ([PNG]()) | 31-Diciembre-2018 |
 
 ### Tercer curso
 
@@ -69,7 +70,6 @@ Estudiante que se encuentran cursando el **tercer año** de la **academia de Har
 
 |Divisa  | Nombe             | Rango    | BitPoints | Tutorial | 
 |--------|-------------------|----------|-----------|----------|
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/21-Jedi-N3-min.png)|    Andrés (@Avarez_) | Jedi Nivel 3| 560 | T30 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/21-Jedi-N3-min.png)|    Manuel Andújar (Matalobo)| Jedi Nivel 3| 560| T30 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/21-Jedi-N3-min.png)|    Roberto del campo (@Robertodcrsj, robertou2) | Jedi Nivel 3| 540 | T30 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/19-Jedi-N1-min.png)|    Gut-mart  | Jedi Nivel 1| 475 (+480)| T28 |
