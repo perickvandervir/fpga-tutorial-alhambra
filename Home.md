@@ -82,6 +82,7 @@ Estudiante que se encuentran cursando el **tercer año** de la **academia de Har
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/19-Jedi-N1-min.png)|   Joaquín Cubillo (jcubilloarr) | Jedi Nivel 1| 475 (+10)| T28 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/19-Jedi-N1-min.png)|    Andrés Prieto-Moreno (aprieto) | Jedi Nivel 1| 455 (+360)| T27 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/19-Jedi-N1-min.png)|    Talud08 (@javivicen) | Jedi Nivel 1| 455 (+40)| T27 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi-min.png)|    Fernando Brea (@fernando_brea) | Jedi | 410 (+80)| T25 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/18-Jedi-min.png)|    Santiago Ventura (@pinto_santisan, Makerventura) | Jedi | 410 (+10)| T25 |
 
 
@@ -93,7 +94,6 @@ Estudiante que se encuentran cursando el **segundo año** de la **academia de Ha
 
 |Divisa  | Nombe             | Rango    | BitPoints | Tut |
 |--------|-------------------|----------|-----------|-----|
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|    Fernando Brea (@fernando_brea) | Aspirante a Jedi Nivel 3 | 385/385 (+70) | T24 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|    llmll (@FACOMJ) | Aspirante a Jedi Nivel 3 | 380/495 | T29 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/16-Aspirante-jedi-N2-min.png)|    Jose López | Aspirante a Jedi Nivel 2 | 334 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/14-Aspirante-jedi-min.png)|    Jorge Lobo (Lobotic) | Aspirante a Jedi | 280/280 (+5) | T19 |
