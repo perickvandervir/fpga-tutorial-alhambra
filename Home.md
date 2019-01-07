@@ -50,6 +50,10 @@ Opcionalmente puedes participar en la **Academia Jedi**, enviando los ejercicios
 
 ![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-3/lobotic/lobotic-diploma.jpg)
 
+* Escudo de la **Universidad de Hardware Libre** (Gracias a Jorge Lobo, Lobotic) 
+
+![](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/raw/master/Tutorial-19/lobotic/fpgashield.jpg)
+
 ### Curso Completado: Caballero Jedi
 El curso queda oficialmente completado cuando se alcanza el rango de **Caballero Jedi**. Es el **rango máximo** que se puede conseguir en la **Academia Jedi de hardware**, y con el que se otorga un **certificado** de curso completado. Para lograrlo es necesario tener **600 Bitpoints**
 
