@@ -94,7 +94,7 @@ Estudiante que se encuentran cursando el **segundo año** de la **academia de Ha
 |Divisa  | Nombe             | Rango    | BitPoints | Tut |
 |--------|-------------------|----------|-----------|-----|
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|    llmll (@FACOMJ) | Aspirante a Jedi Nivel 3 | 380/495 | T29 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/16-Aspirante-jedi-N2-min.png)|    Ángela Bracho (@Profesoratecno) | Aspirante a Jedi Nivel 2 | 340/340 (+40) | T22 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/17-Aspirante-jedi-N3-min.png)|     Ángela Bracho (@Profesoratecno) | Aspirante a Jedi Nivel 3 | 360/360 (+40) | T23 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/16-Aspirante-jedi-N2-min.png)|    Jose López | Aspirante a Jedi Nivel 2 | 334 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/15-Aspirante-jedi-N1-min.png)|    Jorge Lobo (Lobotic) | Aspirante a Jedi Nivel 1 | 320/320 (+140) | T21 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/14-Aspirante-jedi-min.png)|     Endimion-0130 | Aspirante a Jedi | 272/300 | T20 |
