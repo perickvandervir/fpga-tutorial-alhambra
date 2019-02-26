@@ -79,7 +79,7 @@ Estudiante que se encuentran cursando el **tercer año** de la **academia de Har
 
 |Divisa  | Nombe             | Rango    | BitPoints | Tutorial | 
 |--------|-------------------|----------|-----------|----------|
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/20-Jedi-N2-min.png)|    Santiago Ventura (@pinto_santisan, Makerventura) | Jedi Nivel 2| 495 (+160)| T29 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/21-Jedi-N3-min.png)|    Santiago Ventura (@pinto_santisan, Makerventura) | Jedi Nivel 3| 520 (+160)| T30 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/19-Jedi-N1-min.png)|    Gut-mart  | Jedi Nivel 1| 475 (+480)| T28 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/19-Jedi-N1-min.png)|    Viriato (@SrViriato) | Jedi Nivel 1| 475 (+150)| T28 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/19-Jedi-N1-min.png)|    Andrés Prieto-Moreno (aprieto) | Jedi Nivel 1| 455 (+360)| T27 |
