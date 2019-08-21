@@ -102,7 +102,7 @@ Estudiante que se encuentran cursando el **segundo año** de la **academia de Ha
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/14-Aspirante-jedi-min.png)|     Antonio S (@AvlixA) | Aspirante a Jedi | 285/340 | T22 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/14-Aspirante-jedi-min.png)|     Endimion-0130 | Aspirante a Jedi | 272/300 | T20 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/13-Padawan-N3-min.png)|     Jose Luis (@movilujo) | Padawan Nivel 3 | 245 |
-| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/12-Padawan-N2-min.png)|    Angel Millán (@angelmicelti) | Padawan Nivel 2 | 220/220 (+50) | T16 |
+| ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/13-Padawan-N3-min.png)|     Angel Millán (@angelmicelti) | Padawan Nivel 3 | 240/240 (+50) | T17 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/12-Padawan-N2-min.png)|    Jose Roda (Rodalillo) | Padawan Nivel 2 | 220 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/11-Padawan-N1-min.png)|   Luis Alonso (@luisenberlin)  | Padawan Nivel 1 | 195/195 (+10) | T15 |
 | ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/11-Padawan-N1-min.png)|    Migue (@Migueabellan)  | Padawan Nivel 1 | 185 |
